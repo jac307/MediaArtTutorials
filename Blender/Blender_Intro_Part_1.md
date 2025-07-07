@@ -20,6 +20,9 @@ Blender’s 3D space is built around three axes that define direction and positi
 
 Each axis helps you move, rotate, or scale objects with precision.
 
+![X, Y, and Z axis graph](axis.png)
+
+
 ---
 
 ## Navigation in 3D View
@@ -32,6 +35,8 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 
 ➡️ **MMB = Middle Mouse Button**
+
+![Mouse](mouse.jpg)
 
 <p>📺 <a href="https://www.youtube.com/watch?v=EPP4a0_P2vI" target="_blank"><strong>YouTube Tutorial: How to Move Around in Blender: Viewport Navigation – 1:27 min – by Michelle Guru</strong></a> </p>
 
