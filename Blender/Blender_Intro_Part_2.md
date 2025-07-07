@@ -40,7 +40,7 @@ Automatically duplicates one half of your model to the other side.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AxJTwHXul4?si=c_985rntlJhRuVKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Solidify  
-Gives flat shapes some thickness.  
+Gives flat shapes some thickness. Only works with planes or other flat objects. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvq3F8rOPTY?si=EPk1By4SpEZciQYG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
