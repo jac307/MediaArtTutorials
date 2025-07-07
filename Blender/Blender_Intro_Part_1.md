@@ -56,7 +56,7 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 ---
 
-## 🧪 Practice Activity
+## Practice Activity
 
 Try these three things in Blender:
 
