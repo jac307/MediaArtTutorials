@@ -1,0 +1,57 @@
+# 🧱 QuickStart Blender Guide
+
+**Activity**: Interface, Navigation & Object Manipulation  
+**Time**: Monday 9:45–10:45 AM  
+
+---
+
+## Blender Basics
+
+1. **Open Blender**
+2. Start with the default cube – that’s your first object!
+
+### Understanding the X, Y, Z Axes in Blender
+
+Blender’s 3D space is built around three axes that define direction and position:
+
+- **X Axis (Red)** → Left ↔ Right  
+- **Y Axis (Green)** → Front ↔ Back  
+- **Z Axis (Blue)** → Up ↕ Down  
+
+Each axis helps you move, rotate, or scale objects with precision.
+
+---
+
+## Navigation in 3D View
+
+➡️ **MMB = Middle Mouse Button**
+
+📺 [**YouTube Tutorial: How to Move Around in Blender: Viewport Navigation – 1:27 min – by Michelle Guru**](https://www.youtube.com/watch?v=EPP4a0_P2vI){:target="_blank"}
+
+---
+
+## Basic Object Controls
+
+📺 [**YouTube Tutorial: Blender Tutorial for Beginners: Move, Rotate and Scale in Blender – 0:55–2:50 min – by MH Tutorials**](https://www.youtube.com/watch?v=TPrnSACiTJ4&t=55s){:target="_blank"}  
+📺 [**YouTube Tutorial: ABSOLUTE Beginner Basic – 8:35 min – by RoBuilder**](https://www.youtube.com/watch?v=JYj6e-72RDs){:target="_blank"}
+
+---
+
+## 🧪 Practice Activity
+
+Try these three things in Blender:
+
+- ✅ Move your cube above the ground  
+- ✅ Scale your cube to make it bigger  
+- ✅ Rotate your cube  
+- ✅ Add a new mesh. Move, scale, and rotate the new mesh  
+
+**Save your file**:  
+Go to **Top Menu** → **File** → **Save** (your file will be saved as `.blend`)
+
+---
+
+## 📝 Reflection
+
+- How does it feel to move in a 3D space?  
+- What’s harder—navigating the view or moving objects?
