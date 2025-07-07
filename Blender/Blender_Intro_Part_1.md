@@ -33,7 +33,7 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 ➡️ **MMB = Middle Mouse Button**
 
-📺 [**YouTube Tutorial: How to Move Around in Blender: Viewport Navigation – 1:27 min – by Michelle Guru**](https://www.youtube.com/watch?v=EPP4a0_P2vI){:target="_blank"}
+<p>📺 <a href="https://www.youtube.com/watch?v=EPP4a0_P2vI" target="_blank"><strong>YouTube Tutorial: How to Move Around in Blender: Viewport Navigation – 1:27 min – by Michelle Guru</strong></a> </p>
 
 ---
 
@@ -49,8 +49,10 @@ Each axis helps you move, rotate, or scale objects with precision.
 | New Mesh            | Shift + A           | Add a new mesh: plane, cube, cylinder, sphere…         |
 
 
-📺 [**YouTube Tutorial: Blender Tutorial for Beginners: Move, Rotate and Scale in Blender – 0:55–2:50 min – by MH Tutorials**](https://www.youtube.com/watch?v=TPrnSACiTJ4&t=55s){:target="_blank"}  
-📺 [**YouTube Tutorial: ABSOLUTE Beginner Basic – 8:35 min – by RoBuilder**](https://www.youtube.com/watch?v=JYj6e-72RDs){:target="_blank"}
+<p>📺 <a href="https://www.youtube.com/watch?v=TPrnSACiTJ4&t=55s" target="_blank"><strong>YouTube Tutorial: Blender Tutorial for Beginners: Move, Rotate and Scale in Blender – 0:55–2:50 min – by MH Tutorials</strong></a></p>
+
+<p>📺 <a href="https://www.youtube.com/watch?v=JYj6e-72RDs" target="_blank"><strong>YouTube Tutorial: ABSOLUTE Beginner Basic – 8:35 min – by RoBuilder</strong></a></p>
+
 
 ---
 
