@@ -2,12 +2,9 @@
 
 -------------------------------------------------------------------------------
 
-# 🧱 Character Modeling Session 1  
-**Time:** 10:20–10:45 AM  
-**Activity:** Start Building Your 3D Character  
-**Location:** Media Arts Lab  
-**Software:** Blender  
-**Goal:** Use either simple shapes or the Skin Modifier to begin modeling your stylized character based on your morning sketch.
+# 🧱 Character Modeling Sessions  
+**Time (Session 1):** 10:20–10:45 AM
+**Time (Session 2):** 1:00–2:30 PM
 
 ---
 
@@ -16,14 +13,12 @@ Begin building your character in Blender using one of the two modeling approache
 
 ---
 
-## 👣 Step-by-Step Instructions
-
-### 🖍️ Step 1: Review Your Sketch (2–3 min)
+## Step 1: Review Your Sketch (2–3 min)
 
 - Look at your creature drawing and shape breakdown.  
 - Ask yourself: **Is my character more geometric or more organic/humanoid?**  
-  - If it's made of clear shapes (cubes, spheres, cylinders) → **Go to Path A**  
-  - If it looks more like a person or creature with limbs → **Go to Path B**
+  - If it's made of clear shapes (cubes, spheres, cylinders) → [**Go to Path A**](#️️️️️️️️️path-a-geometric-modeling-with-basic-shapes--modifiers)  
+  - If it looks more like a person or creature with limbs → [**Go to Path B**](#️️️️️️️️️path-b-fast-organic-modeling-with-the-skin-modifier)
 
 ---
 
