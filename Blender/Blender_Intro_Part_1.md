@@ -1,3 +1,7 @@
+[Blender Tutorials](README.md) | [Home](../../README.md)
+
+-------------------------------------------------------------------------------
+
 # 🧱 QuickStart Blender Guide
 
 **Activity**: Interface, Navigation & Object Manipulation  
