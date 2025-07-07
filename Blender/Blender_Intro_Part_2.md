@@ -24,23 +24,28 @@ Follow the tutorials below and experiment with each modifier. **Save your experi
 
 ### Boolean  
 Combines or subtracts shapes from each other — great for holes or mashups.  
-📺 <a href="https://www.youtube.com/watch?v=IXE4bHqfU9o" target="_blank"><strong>YouTube Tutorial: How to CUT an OBJECT with another OBJECT in Blender - Boolean modifier – 0:45 min – by GDT Solutions</strong></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LCzCi2_hX3w?si=DekYCDK94lezjlbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Array  
 Duplicates objects in rows, circles, or repeating patterns.  
-📺 <a href="https://www.youtube.com/watch?v=3v1cN0t4k7I" target="_blank"><strong>YouTube Tutorial: Array Modifier - Blender Tutorial for Beginners - Basics – 2:42 min – by in2vert</strong></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L3ugGWySjI8?si=2yrrSHiEa2jW8vvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Mirror  
 Automatically duplicates one half of your model to the other side.  
-📺 <a href="https://www.youtube.com/watch?v=dKrJj_xxR1Q" target="_blank"><strong>YouTube Tutorial: Blender Basics - Mirroring & the Mirror Modifier Tutorial – 1:59 min – by in2vert</strong></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-AxJTwHXul4?si=c_985rntlJhRuVKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Solidify  
 Gives flat shapes some thickness.  
-📺 <a href="https://www.youtube.com/watch?v=mvCT9U_KdiU" target="_blank"><strong>YouTube Tutorial: Solidify Modifier - Blender Tutorial for Beginners - Basics – 2:11 min – by in2vert</strong></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvq3F8rOPTY?si=EPk1By4SpEZciQYG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Subdivision Surface  
 Smooths your shape for a rounded or organic look.  
-📺 <a href="https://www.youtube.com/watch?v=ZnRXSG3zC_Y" target="_blank"><strong>YouTube Tutorial: Blender Basics - Subdivision Surface Modifier Tutorial – 1:37 min – by in2vert</strong></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAwf0Tuuwjw?si=fF7VDjQSuZbxkkEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
