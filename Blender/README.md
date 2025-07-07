@@ -9,9 +9,9 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 
 ## Index
 
-+ [Blender Intro - Part 1](Blender_Intro_Part_1.md)
-+ [Blender Intro - Part 2](Blender_Intro_Part_2.md)
-+ [Object Play Activity](Object_Play_Activity.md)
++ 🧱 [QuickStart Blender Guide](Blender_Intro_Part_1.md)
++ 🧱 [Blender Modifiers Reference Sheet](Blender_Intro_Part_2.md)
++ 🌀 [OBJECT PLAY: Build an Abstract Sculpture or Creature](Object_Play_Activity.md)
 
 ## What is 3D Art?
 
