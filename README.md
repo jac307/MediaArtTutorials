@@ -5,7 +5,7 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 ## Index
 
-+ [Blender](Blender/README.md)
++ [3D Art in Blender](Blender/README.md)
 
 
 ________________________________________________________________________
