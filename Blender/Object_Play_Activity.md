@@ -1,3 +1,7 @@
+[Blender Tutorials](README.md) | [Home](../../README.md)
+
+-------------------------------------------------------------------------------
+
 # 🌀 OBJECT PLAY: Build an Abstract Sculpture or Creature
 
 **Time**: 1:00–2:00 PM  
