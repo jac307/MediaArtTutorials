@@ -7,6 +7,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 
 + [Blender Intro - Part 1](Blender_Intro_Part_1.md)
 + [Blender Intro - Part 2](Blender_Intro_Part_2.md)
++ [Object Play Activity](Object_Play_Activity.md)
 
 
 ________________________________________________________________________
