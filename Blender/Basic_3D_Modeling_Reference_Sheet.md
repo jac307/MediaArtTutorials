@@ -2,82 +2,85 @@
 
 -------------------------------------------------------------------------------
 
-# 🧱 Basic 3D Modeling Reference Sheet + Planning Activity
-
-**Activity:** Modeling Session 1 – Build Your Character  
-**Time:** 9:30–10:45 AM   
-
----
-
-## 🎯 Goal  
-Translate your sketched character into a 3D model using **simple shapes and transformations** in Blender.
+# 🧱 Character Modeling Session 1  
+**Time:** 10:20–10:45 AM  
+**Activity:** Start Building Your 3D Character  
+**Location:** Media Arts Lab  
+**Software:** Blender  
+**Goal:** Use basic shapes and tools to build a stylized creature or character based on your morning sketch.
 
 ---
 
-## ✍️ PART 1: From Sketch to Shapes (15–20 min)
-
-### Step 1: Look at Your Creature Sketch  
-In your sketchbook or handout, do the following:
-
-**🧠 Identify the basic building blocks:**  
-Break your character into geometric parts. Draw and label them.
-
-| Body Part        | Shape (Cube, Sphere, etc.) | Notes |
-|------------------|----------------------------|-------|
-| Head             |                            |       |
-| Torso            |                            |       |
-| Arms             |                            |       |
-| Legs             |                            |       |
-| Special Features |                            | (Tail, wings, horns, etc.) |
-
-Add arrows and notes to your drawing that show which **Blender mesh** you’ll use for each part.
+## 🎯 Objective  
+Begin modeling your stylized character in **Blender** using simple geometry.  
+You’ll use **Monday’s tools** and some **new ones** to build the **basic structure** of your creature.
 
 ---
 
-## 🖥️ PART 2: Build Your Base Character (20–25 min)
+## 👣 Step-by-Step Instructions
 
-Use the shapes you listed above to start building your character in Blender.  
-Use only the tools and modifiers from Monday plus the ones listed here:
-
-### 🔧 Basic Tools & Shortcuts
-
-| Tool               | Shortcut   | What it Does                     |
-|--------------------|------------|----------------------------------|
-| Add Mesh           | `Shift + A`| Add cube, sphere, etc.           |
-| Move               | `G`        | Move objects                     |
-| Rotate             | `R`        | Rotate parts                     |
-| Scale              | `S`        | Resize                           |
-| Mirror Modifier    | —          | Create symmetry                  |
-| Subdivision Surface| —          | Smooth shape (optional!)         |
-
-**Focus:** Combine shapes and build the structure — don’t worry about fine detail.
+### 🖍️ Step 1: Review Your Sketch (2 min)  
+- Look at your creature drawing and shape breakdown.  
+- What’s the main body shape? Where do you want to start?
 
 ---
 
-## ✏️ PART 3: Reflect & Refine on Paper (10–15 min)
-
-Now that your base character is taking shape, go back to your sketch and reflect:
-
-**Which tools can help shape it more clearly?**
-
-| Blender Tool      | What it Could Help You Do           |
-|-------------------|-------------------------------------|
-| Join (`Ctrl + J`) | Combine parts into one object       |
-| Mirror Modifier   | Keep symmetry between sides         |
-| Subdivision       | Add smooth curves                   |
-| Snap/Grid         | Line parts up                       |
-| Edge Loops (Later)| Add detail in specific places       |
-
-Update your drawing with arrows or notes showing what tools you'd use where.
+### 🧱 Step 2: Add Your First Shape (5 min)  
+- Open Blender  
+- Delete the default cube if needed  
+- Add a base mesh: `Shift + A → Mesh → (Sphere / Cube / Cylinder)`  
+- Use:
+  - `G` to Move  
+  - `R` to Rotate  
+  - `S` to Scale  
+- Add more parts (head, arms, legs) using new shapes
 
 ---
 
-## 💾 Save Your File  
-Save your Blender file to your USB or student folder.  
-**File name format:** `YourName_CreatureBase.blend`
+### ✨ Step 3: Use Modifiers & Tools (10–15 min)
+
+#### ✅ Monday’s Tools
+
+| Tool                  | Shortcut     | Use for...                     |
+|-----------------------|--------------|--------------------------------|
+| Add Object            | `Shift + A`  | Add basic shapes               |
+| Move                  | `G`          | Move object                    |
+| Rotate                | `R`          | Rotate object                  |
+| Scale                 | `S`          | Resize object                  |
+| Mirror Modifier       | —            | Create symmetry                |
+| Subdivision Modifier  | —            | Smooth shapes                  |
+| Join Objects          | `Ctrl + J`   | Combine two or more meshes     |
+
+#### 🆕 New Tools (Today)
+
+| Tool                  | How to Access       | Use for...                     |
+|-----------------------|---------------------|--------------------------------|
+| Wireframe Modifier    | Modifiers tab       | Start with a line “skeleton”   |
+| Snap Tool             | Shift + Tab or Toolbar | Align shapes perfectly      |
+| Shade Smooth          | Right-click on mesh | Make your shape look round     |
+| Object Origin/Transform | `N` panel or toolbar | Set pivot for rotation      |
 
 ---
 
-## 💡 Creative Prompt  
-**How do your shapes tell us something about your character?**  
-Are they funny? Fierce? Dreamlike? Keep it simple — but expressive!
+## 💡 Pro Tips
+
+- Start from the **torso** or main body shape  
+- Use the **Mirror Modifier** to work faster  
+- Keep your model **simple and expressive** — don’t worry about tiny details  
+- Make sure your character faces the **positive Y-axis** for future animation
+
+---
+
+## 💾 Save Your File
+
+- Go to: `File → Save As...`  
+- **File Name:** `YourName_CharacterStart.blend`  
+- Save to your USB or class folder
+
+---
+
+## ❓ Creative Question
+
+**How can basic shapes express personality?**  
+→ Are the eyes big and friendly? Is the body tall and skinny? Chunky and solid?
+
