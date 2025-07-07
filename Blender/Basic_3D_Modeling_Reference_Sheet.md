@@ -5,14 +5,11 @@
 # 🧱 Character Modeling Session 1  
 **Time:** 10:20–10:45 AM  
 **Activity:** Start Building Your 3D Character  
-**Location:** Media Arts Lab  
-**Software:** Blender  
-**Goal:** Use basic shapes and tools to build a stylized creature or character based on your morning sketch.
 
 ---
 
 ## 🎯 Objective  
-Begin modeling your stylized character in **Blender** using simple geometry.  
+Begin modeling your stylized character in **Blender**.  
 You’ll use **Monday’s tools** and some **new ones** to build the **basic structure** of your creature.
 
 ---
