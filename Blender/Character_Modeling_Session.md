@@ -56,9 +56,8 @@ Begin building your character in Blender using one of the two modeling approache
 | Shade Smooth              | Right-click            | Soften surface shading         |
 | Snap Tool                 | Shift + Tab            | Align objects easily           |
 | ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes        |
-| ✨Snap Tool               | Shift + Tab or Toolbar | Make your shape look round     |
-| ✨Shade Smooth            | Right-click on mesh    | Align shapes perfectly         |
-| ✨Object Origin/Transform | `N` panel or toolbar   | Set pivot for rotation         |
+| ✨Shade Smooth            | Right-click            | Soften surface shading         |
+| ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly         |
 
 | Modifier              | How to access   | Use for...                     |
 |-----------------------|-----------------|--------------------------------|
@@ -69,9 +68,15 @@ Begin building your character in Blender using one of the two modeling approache
 | Solidify              | Modifiers Tab   | Gives flat shapes a thickness  |
 | ✨Wireframe Modifier  | Modifiers Tab   | Start with a line “skeleton”   |
 
-#### Wireframe Modifier
+#### Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9zsoeV85yUk?si=S4OSa2sUklpqjNKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-bEbTGdIcQ?si=EtVJZGw82PGqjgC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9gn_1V1sCS8?si=ZWJ2m8zSvTYSyMyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
