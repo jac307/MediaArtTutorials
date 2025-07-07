@@ -4,10 +4,8 @@
 
 # 🧱 Basic 3D Modeling Reference Sheet + Planning Activity
 
-**Activity:** Modeling Session 1 – Build Your Stylized Character  
-**Time:** 9:30–10:45 AM  
-**Location:** Media Arts Lab  
-**Software:** Blender  
+**Activity:** Modeling Session 1 – Build Your Character  
+**Time:** 9:30–10:45 AM   
 
 ---
 
