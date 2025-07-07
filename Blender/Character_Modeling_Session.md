@@ -3,8 +3,7 @@
 -------------------------------------------------------------------------------
 
 # 🧱 Character Modeling Session  
-**Time:** 10:20–10:45 AM
-**Time:** 1:00–2:30 PM
+**Time:** 10:20–10:45 AM // 1:00–2:30 PM
 
 ---
 
@@ -17,13 +16,14 @@ Begin building your character in Blender using one of the two modeling approache
 
 - Look at your creature drawing and shape breakdown.  
 - Ask yourself: **Is my character more geometric or more organic/humanoid?**  
-  - If it's made of clear shapes (cubes, spheres, cylinders) → [**Go to Path A**](#️️️️️️️️️path-a-geometric-modeling-with-basic-shapes--modifiers)  
-  - If it looks more like a person or creature with limbs → [**Go to Path B**](#️️️️️️️️️path-b-fast-organic-modeling-with-the-skin-modifier)
+  - If it's made of clear shapes (cubes, spheres, cylinders) → [**Go to Path A**](#️️️️️️️️path-a)  
+  - If it looks more like a person or creature with limbs → [**Go to Path B**](#️️️️️️️️️path-b)
 
 ---
 
-## 🅰️ Path A: **Geometric Modeling with Basic Shapes + Modifiers**
+## Path A
 
+**Geometric Modeling with Basic Shapes + Modifiers**
 > Best for: **Robots, abstract beings, simple creatures**
 
 ### Tools You'll Use
@@ -40,8 +40,9 @@ Begin building your character in Blender using one of the two modeling approache
 
 ---
 
-## 🅱️ Path B: **Fast Organic Modeling with the Skin Modifier**
+## Path B
 
+**Fast Organic Modeling with the Skin Modifier**
 > Best for: **Humanoid or animal-like creatures with limbs**
 
 ### Tools You'll Use + Explanations & Tutorials
