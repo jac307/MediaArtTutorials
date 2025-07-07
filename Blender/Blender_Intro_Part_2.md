@@ -1,3 +1,7 @@
+[Blender Tutorials](README.md) | [Home](../../README.md)
+
+-------------------------------------------------------------------------------
+
 # 🧱 Blender Modifiers Reference Sheet
 
 **Activity**: Modifiers & Combining Shapes  
