@@ -58,7 +58,7 @@ Each axis helps you move, rotate, or scale objects with precision.
 | New Mesh            | Shift + A           | Add a new mesh: plane, cube, cylinder, sphere…         |
 
 
-<p>📺 YouTube Tutorial: <a href="[https://www.youtube.com/watch?v=TPrnSACiTJ4&t=55s](https://youtu.be/ENzqrkOGIRI?si=QPKLtfaUyirMCQDm&t=50)" target="_blank"><strong>Blender Tutorial for Beginners: Move, Rotate and Scale in Blender</strong></a> – min 0:55–2:50 by MH Tutorials</p>
+<p>📺 YouTube Tutorial: <a href="https://youtu.be/ENzqrkOGIRI?si=QPKLtfaUyirMCQDm&t=50" target="_blank"><strong>Blender Tutorial for Beginners: Move, Rotate and Scale in Blender</strong></a> – min 0:55–2:50 by MH Tutorials</p>
 
 <p>📺 YouTube Tutorial: <a href="https://www.youtube.com/watch?v=JYj6e-72RDs" target="_blank"><strong>ABSOLUTE Beginner Basic</strong></a> – 8:35 min – by RoBuilder</p>
 
