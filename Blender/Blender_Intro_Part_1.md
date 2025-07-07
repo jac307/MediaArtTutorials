@@ -42,7 +42,8 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 ![Mouse](mouse.jpg)
 
-<p>📺 <a href="https://www.youtube.com/watch?v=EPP4a0_P2vI" target="_blank"><strong>YouTube Tutorial: How to Move Around in Blender: Viewport Navigation – 1:27 min – by Michelle Guru</strong></a> </p>
+<p>📺 YouTube Tutorial</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tH46sGwAFfo?si=1z2mItpdBhTSKV27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -60,7 +61,7 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 <p>📺 YouTube Tutorial: <a href="https://youtu.be/ENzqrkOGIRI?si=QPKLtfaUyirMCQDm&t=50" target="_blank"><strong>Blender Tutorial for Beginners: Move, Rotate and Scale in Blender</strong></a> – min 0:55–2:50 by MH Tutorials</p>
 
-<p>📺 YouTube Tutorial: <a href="https://www.youtube.com/watch?v=JYj6e-72RDs" target="_blank"><strong>ABSOLUTE Beginner Basic</strong></a> – 8:35 min – by RoBuilder</p>
+<p>📺 YouTube Tutorial: <a href="[https://www.youtube.com/watch?v=JYj6e-72RDs](https://www.youtube.com/watch?v=Z8sg0nHNTTo)" target="_blank"><strong>ABSOLUTE Beginner Basic</strong></a> – 8:35 min – by RoBuilder</p>
 
 
 ---
