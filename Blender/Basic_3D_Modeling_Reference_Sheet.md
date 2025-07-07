@@ -1,3 +1,7 @@
+[Blender Tutorials](README.md) | [Home](../../README.md)
+
+-------------------------------------------------------------------------------
+
 # 🧱 Basic 3D Modeling Reference Sheet + Planning Activity
 
 **Activity:** Modeling Session 1 – Build Your Stylized Character  
