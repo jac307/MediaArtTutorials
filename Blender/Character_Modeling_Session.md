@@ -69,6 +69,9 @@ Begin building your character in Blender using one of the two modeling approache
 | Solidify              | Modifiers Tab   | Gives flat shapes a thickness  |
 | ✨Wireframe Modifier  | Modifiers Tab   | Start with a line “skeleton”   |
 
+#### Wireframe Modifier
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ---
