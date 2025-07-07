@@ -32,6 +32,8 @@ Duplicates objects in rows, circles, or repeating patterns.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L3ugGWySjI8?si=2yrrSHiEa2jW8vvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rTi5ApBgt8M?si=prQ5MT4OXcrPIreW&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Mirror  
 Automatically duplicates one half of your model to the other side.  
 
