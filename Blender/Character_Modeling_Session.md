@@ -74,9 +74,9 @@ Begin building your character in Blender using one of the two modeling approache
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-bEbTGdIcQ?si=EtVJZGw82PGqjgC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9gn_1V1sCS8?si=ZWJ2m8zSvTYSyMyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
@@ -85,19 +85,21 @@ Begin building your character in Blender using one of the two modeling approache
 
 > Best for: **Humanoid or animal-like creatures with limbs**
 
+For this approach, you will use the Skin Modifier along with other tools. Follow the tutorial bellow.
+
 ### Tools You'll Use + Explanations & Tutorials
 
-| Tool                     | Purpose                                                                 | Tutorial |
-|--------------------------|-------------------------------------------------------------------------|----------|
-| **Add Vertex**           | Use a single point instead of a full shape to start a character's “skeleton.”  | 📺 [How to Add a Single Vertex in Blender](https://youtu.be/KZBCb6EWq0s) (1 min) |
-| **Extrude (`E`)**        | Create connected “bones” by pulling out more points from the first vertex. | 📺 [Blender Beginner Tutorial: Extrude](https://youtu.be/qj2nA0Y8Xcg?t=99) (from 1:39) |
-| **Skin Modifier**        | Automatically wraps geometry around your skeleton-like structure. Easy for limbs! | 📺 [Skin Modifier Tutorial – Fast Character Base](https://youtu.be/xrHZzMr1qVw) (4 min) |
-| **Ctrl + A (Scale Vertices)** | Change the thickness of each “limb” or segment. Useful for different body parts. | (explained in video above) |
-| **Mirror Modifier**      | Create symmetry (works with the Skin Modifier too).                       | 📺 [Mirror Modifier Tutorial](https://youtu.be/IT4NBHD3vF4) (2 min) |
-| **Subdivision Surface**  | Smooth your final mesh for an organic look.                             | 📺 [Subdivision Modifier Tutorial](https://youtu.be/MnJZCwhz4hE) (2 min) |
-| **Shade Smooth**         | Soften the shading on your shape (no extra geometry).                    | 📺 [Shade Smooth vs Flat in Blender](https://youtu.be/npNn6z_OetI) (1 min) |
+| Tool                     | Purpose                                                                 |
+|--------------------------|-------------------------------------------------------------------------|
+| **Add Vertex**           | Use a single point instead of a full shape to start a character's “skeleton.”  |
+| **Extrude (`E`)**        | Create connected “bones” by pulling out more points from the first vertex. |
+| **Skin Modifier**        | Automatically wraps geometry around your skeleton-like structure. Easy for limbs! |
+| **Ctrl + A (Scale Vertices)** | Change the thickness of each “limb” or segment. Useful for different body parts. |
+| **Mirror Modifier**      | Create symmetry (works with the Skin Modifier too).                       |
+| **Subdivision Surface**  | Smooth your final mesh for an organic look.                             |
+| **Shade Smooth**         | Soften the shading on your shape (no extra geometry).                    |
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DAAwy_l4jw4?si=5kIERwnWNljiJ1sa&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
