@@ -29,13 +29,16 @@ Begin building your character in Blender using one of the two modeling approache
 
 | Tool                  | Shortcut     | Use for...                     |
 |-----------------------|--------------|--------------------------------|
-| Add Object            | `Shift + A`  | Add basic shapes               |
-| Move / Rotate / Scale| `G`, `R`, `S` | Place and transform objects    |
-| Join Objects          | `Ctrl + J`   | Combine multiple meshes        |
-| Mirror Modifier       | Modifiers Tab| Build symmetrical characters   |
-| Subdivision Surface   | Modifiers Tab| Smooth rounded shapes          |
-| Shade Smooth          | Right-click  | Soften surface shading         |
-| Snap Tool             | Shift + Tab  | Align objects easily           |
+| Add Object            | `Shift + A`     | Add basic shapes               |
+| Move / Rotate / Scale | `G` / `R` / `S` | Place and transform objects    |
+| Join Objects          | `Ctrl + J`      | Combine multiple meshes        |
+| Shade Smooth          | Right-click     | Soften surface shading         |
+| Snap Tool             | Shift + Tab     | Align objects easily           |
+| Mirror                | Modifiers Tab   | Build symmetrical characters   |
+| Subdivision Surface   | Modifiers Tab   | Smooth rounded shapes          |
+| Array                 | Modifiers Tab   | Repeats objects in rows        |
+| Boolean               | Modifiers Tab   | Combines or subtracts shapes   |
+| Solidify              | Modifiers Tab   | Gives flat shapes a thickness  |
 
 ---
 
