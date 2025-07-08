@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 
 # 👾 Character Modeling Session  
-**Time:** 10:20–10:45 AM // 1:00–2:30 PM
+**Time:** 1h30m
 
 ---
 
@@ -23,7 +23,7 @@ Begin building your character in Blender using one of the two modeling approache
 
 - Use **Path A** if your character is geometric or made of bold parts.  
 - Use **Path B** if your character has a body with limbs or curved shapes.  
-- Stay low-poly — don’t worry about detail right now.  
+- Start low-poly — you can refine and add details later.  
 - Ask for help choosing a method or applying a modifier.
   
 ---
@@ -44,6 +44,8 @@ Begin building your character in Blender using one of the two modeling approache
 
 ### Step 3: Use These Tools & Modifiers
 
+#### 🔧 Tools
+
 | Tool                      | Shortcut               | Use for...                     |
 |---------------------------|------------------------|--------------------------------|
 | Add Object                | `Shift + A`            | Add basic shapes               |
@@ -55,6 +57,8 @@ Begin building your character in Blender using one of the two modeling approache
 | ✨Shade Smooth            | Right-click            | Soften surface shading         |
 | ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly         |
 
+#### 🧰 Modifiers
+
 | Modifier              | How to access   | Use for...                     |
 |-----------------------|-----------------|--------------------------------|
 | Mirror                | Modifiers Tab   | Build symmetrical characters   |
@@ -64,6 +68,8 @@ Begin building your character in Blender using one of the two modeling approache
 | Solidify              | Modifiers Tab   | Gives flat shapes a thickness  |
 | ✨Wireframe Modifier  | Modifiers Tab   | Start with a line “skeleton”   |
 
+### Tutorial
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zRsLUXSTN_U?si=mbwgRH-vGkSSFE1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -72,19 +78,21 @@ Begin building your character in Blender using one of the two modeling approache
 
 > Best for: **Humanoid or animal-like creatures with limbs**
 
-For this approach, you will use the Skin Modifier along with other tools. Follow the tutorial bellow.
+In this method, you'll use a single vertex as a “skeleton” and grow your model using the **Skin Modifier**.
 
 ### Tools You'll Use + Explanations & Tutorials
 
-| Tool                     | Purpose                                                                 |
-|--------------------------|-------------------------------------------------------------------------|
-| **Add Vertex**           | Use a single point instead of a full shape to start a character's “skeleton.”  |
-| **Extrude (`E`)**        | Create connected “bones” by pulling out more points from the first vertex. |
-| **Skin Modifier**        | Automatically wraps geometry around your skeleton-like structure. Easy for limbs! |
-| **Ctrl + A (Scale Vertices)** | Change the thickness of each “limb” or segment. Useful for different body parts. |
-| **Mirror Modifier**      | Create symmetry (works with the Skin Modifier too).                       |
-| **Subdivision Surface**  | Smooth your final mesh for an organic look.                             |
-| **Shade Smooth**         | Soften the shading on your shape (no extra geometry).                    |
+| Tool                      | Purpose                                                            |
+|---------------------------|--------------------------------------------------------------------|
+| **Add Vertex**            | Begin with a single point to create a skeleton-like base           |
+| **Extrude (`E`)**         | Extend vertices to create connected limbs                          |
+| **Skin Modifier**         | Wraps a mesh around your skeleton automatically                    |
+| **Ctrl + A** (Scale)      | Adjust thickness of each limb or part                              |
+| **Mirror Modifier**       | Automatically mirror limbs and edits                               |
+| **Subdivision Surface**   | Smooths the mesh for a more organic look                           |
+| **Shade Smooth**          | Softens shading for visual polish                                  |
+
+### Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DAAwy_l4jw4?si=5kIERwnWNljiJ1sa&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -102,5 +110,7 @@ For this approach, you will use the Skin Modifier along with other tools. Follow
 
 **What shape or pose defines your character?**  
 → Focus on that as your anchor during this first modeling session.
+
+---
 
 
