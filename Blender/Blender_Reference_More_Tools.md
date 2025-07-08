@@ -21,12 +21,13 @@ Learn additional Blender tools that help refine your character’s shape and str
 | Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects              |
 | Join Objects              | `Ctrl + J`             | Combine multiple meshes                  |
 | Shade Smooth              | Right-click            | Soften surface shading                   |
-| ✨Select all              | `A`                    | Selects all objects of vertices          |
+| ✨Select all              | `A`                    | Selects all objects/vertices/edges/phases|
 | ✨Switch Modes            | Tab                    | Switch between object mode and edit mode |
 | ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes                  |
 | ✨Shade Smooth            | Right-click            | Soften surface shading                   |
 | ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly                   |
 | ✨Undo                    | `Ctrl + Z`             | Undo steps/actions                       |
+| ✨Delete                  | `X`                    | Deletes an object/vertice/edge/phase                            |
 
 ### Modifiers (✨New Options)
 
