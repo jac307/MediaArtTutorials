@@ -59,6 +59,8 @@ Preview Your Scene
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p03fspwMY64?si=vUHmsdUdqEi28eIk&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mURA2g1rOSc?si=wEaUgWflrpZuEVr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Step 2: Add Lighting  
