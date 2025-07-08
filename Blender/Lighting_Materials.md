@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# 💡 Lighting & Materials in Blender  
+# 💡 Lighting & Materials  
 **Time:** 1 hour
 
 ---
@@ -12,32 +12,38 @@ Use lights and materials to bring your scene to life. Create atmosphere and emot
 
 ---
 
-## 🧱 Start Here: Mood & Material Planning  
+## Mood & Material Planning  
 Before diving in, ask yourself:
 
 - What mood do you want? (warm, eerie, soft, mysterious?)  
 - What kind of materials would help? (glass, metal, cloth, plastic?)  
-- Where is the light coming from in your world?
+- Where is the light coming from in your world? Is it comming from the sun? the moon? a spot light? other type of light source?
 
 ---
 
-## 🎨 Step 1: Add Materials  
+## Step 1: Add Materials  
 1. Select an object  
-2. Go to the **Material Properties tab** (🟤 icon in bottom-right panel)  
+2. Go to the **Material Properties tab** (icon in bottom-right panel)  
 3. Click **+ New**  
 4. Change:
    - **Base Color**  
    - **Roughness** (smooth vs. matte)  
    - **Metallic** (non-metal to chrome)
 
-📌 **Tips**  
+**Tips**  
 - Lower roughness = more shine  
 - Increase metallic = more futuristic look  
 - You can add image textures, but start with basic settings
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E42OxbroToM?si=2CTEL1nATvRUWuOE&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4EaA4LUhgc?si=aY_lKYEV5tNt1-Jq&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73hPexS1YAY?si=geuihBcUvjSVxxlA&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-## 💡 Step 2: Add Lighting  
+## Step 2: Add Lighting  
 1. Go to `Shift + A → Light`  
 2. Choose a light type:  
    - **Point** – Emits light from a single spot in all directions  
@@ -53,13 +59,13 @@ Before diving in, ask yourself:
 
 ---
 
-## 👁️ Step 3: Preview Your Scene  
+## Step 3: Preview Your Scene  
 - Switch to **Rendered View**: `Z → Rendered`  
 - Or click the shaded ball icon in top-right of the 3D view
 
 ---
 
-## 🪄 Tips for Mood and Atmosphere  
+## Tips for Mood and Atmosphere  
 | Mood        | Color Palette | Light Style         | Material Ideas             |
 |-------------|---------------|---------------------|----------------------------|
 | Cozy/Warm   | Orange, red   | Soft, area lights    | Matte, rough, warm tones   |
