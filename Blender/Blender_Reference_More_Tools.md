@@ -26,6 +26,7 @@ Learn additional Blender tools that help refine your character’s shape and str
 | ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes                  |
 | ✨Shade Smooth            | Right-click            | Soften surface shading                   |
 | ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly                   |
+| ✨Undo                    | `Ctrl + Z`             | Undo steps/actions                       |
 
 ### Modifiers (✨New Options)
 
