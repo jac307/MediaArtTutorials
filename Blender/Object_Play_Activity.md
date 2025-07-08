@@ -4,7 +4,7 @@
 
 # 🌀 OBJECT PLAY: Build an Abstract Sculpture or Creature
 
-**Time**: 1:00–2:00 PM  
+**Time**: 1 hour  
 **Tools**: Blender *(only use the tools covered earlier today!)*
 
 ---
