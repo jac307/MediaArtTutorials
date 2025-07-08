@@ -7,6 +7,45 @@
 
 ---
 
+## What You Already Know (From Monday & Tuesday)
+
+#### 🔧 Tools
+
+| Tool                      | Shortcut               | Use for...                     |
+|---------------------------|------------------------|--------------------------------|
+| Add Object                | `Shift + A`            | Add basic shapes               |
+| Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects    |
+| Join Objects              | `Ctrl + J`             | Combine multiple meshes        |
+| Shade Smooth              | Right-click            | Soften surface shading         |
+| Snap Tool                 | Shift + Tab            | Align objects easily           |
+| Join Objects              | `Ctrl + J`             | Combine multiple meshes        |
+| Shade Smooth              | Right-click            | Soften surface shading         |
+| Snap Tool                 | Right-click on mesh    | Align shapes perfectly         |
+
+#### 🧰 Modifiers
+
+| Modifier              | How to access   | Use for...                        |
+|-----------------------|-----------------|-----------------------------------|
+| Mirror                | Modifiers Tab   | Build symmetrical characters      |
+| Subdivision Surface   | Modifiers Tab   | Smooth rounded shapes             |
+| Array                 | Modifiers Tab   | Repeats objects in rows           |
+| Boolean               | Modifiers Tab   | Combines or subtracts shapes      |
+| Solidify              | Modifiers Tab   | Gives flat shapes a thickness     |
+| Wireframe Modifier    | Modifiers Tab   | Start with a line “skeleton”      |
+| Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
+
+
+## ✨ Useful New Tools for Environments
+
+| Tool / Concept      | Shortcut / Where to Find     | Use It For...                     |
+|---------------------|------------------------------|-----------------------------------|
+| Extrude Faces       | `Tab → Edit Mode → E`        | Pull up walls or stretch planes  |
+| Loop Cuts           | `Ctrl + R` in Edit Mode      | Add structure or divisions       |
+| Inset Faces         | `I` in Edit Mode             | Create windows, frames, steps    |
+| Bevel Edges         | `Ctrl + B` in Edit Mode      | Round out or soften corners      |
+
+---
+
 ## Plan and Prepare
 
 ### Create a New Blender File
@@ -74,31 +113,6 @@ You're only building a **section** of your world — enough to give your charact
 - `File → Import → glTF 2.0 (.glb/.gltf)`
 - Locate your downloaded file  
 - Use `G` and `S` to position and scale
-
----
-
-## What You Already Know (From Monday & Tuesday)
-
-| Tool / Concept         | Shortcut / Location         | What It Does                      |
-|------------------------|-----------------------------|-----------------------------------|
-| Add Mesh Object        | `Shift + A → Mesh`          | Add cubes, planes, spheres, etc. |
-| Move / Rotate / Scale  | `G`, `R`, `S`               | Position and transform objects   |
-| Join Objects           | `Ctrl + J`                  | Combine multiple meshes          |
-| Modifiers (Mirror, Array) | Modifiers Tab           | Repeat or reflect objects        |
-| Boolean Modifier       | Modifiers Tab               | Subtract or combine shapes       |
-| Snap Tool              | `Shift + Tab` / Magnet icon | Align objects with each other    |
-| Shade Smooth           | Right-click on mesh         | Soften the object's shading      |
-
----
-
-## ✨ Useful New Tools for Environments
-
-| Tool / Concept      | Shortcut / Where to Find     | Use It For...                     |
-|---------------------|------------------------------|-----------------------------------|
-| **Extrude Faces**   | `Tab → Edit Mode → E`        | Pull up walls or stretch planes  |
-| **Loop Cuts**       | `Ctrl + R` in Edit Mode      | Add structure or divisions       |
-| **Inset Faces**     | `I` in Edit Mode             | Create windows, frames, steps    |
-| **Bevel Edges**     | `Ctrl + B` in Edit Mode      | Round out or soften corners      |
 
 ---
 
