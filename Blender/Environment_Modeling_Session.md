@@ -7,7 +7,7 @@
 
 ---
 
-## Start Here: Plan and Prepare
+## Plan and Prepare
 
 ### Create a New Blender File
 - Go to `File → New → General`
@@ -29,19 +29,27 @@ You're only building a **section** of your world — enough to give your charact
 
 ## Step-by-Step Instructions
 
-### Step 1: Add a Ground
-- `Shift + A → Mesh → Plane`  
-- `S` to scale it large enough for the scene
+### Step 1 – Create a Ground Plane
+- Press `Shift + A → Mesh → Plane`  
+- Press `S` to scale it large enough for your scene  
+- Add a **Solidify Modifier** to give it thickness (optional but recommended)
 
-### Step 2: Block Out Your Space
-Start with **walls, floors, or terrain**:
-- `Shift + A → Mesh → Cube` → Scale/rotate into walls or stairs  
-- `Tab` into Edit Mode → `E` to extrude upward  
-- Use `G`, `R`, and `S` to move, rotate, and scale
+![Ground](ground-image.png)
 
-### Step 3: Add Props or Environment Objects
-- Use primitive shapes  
-- OR import models from Sketchfab (see below)
+### Step 2 – Block Out Your Space *(for indoor environments only)*
+- Press `Shift + A → Mesh → Cube` → Scale/rotate into walls, floors, or stairs  
+- Press `Tab` to enter Edit Mode → Select four faces (as shown in the image) → Press `X` to delete them  
+- Use `G`, `R`, and `S` to move, rotate, and scale objects
+
+![Ground with Walls](groundWithWalls.png)
+
+- Create divisions and use **Extrude** on faces or the **Boolean Modifier** to create doors or windows
+
+![Ground with Walls](groundWithWalls.png)
+
+### Step 3 – Add Props or Environmental Objects
+- Use basic shapes (e.g., cylinders, spheres, cubes) and modifiers to create furniture or decorations  
+- **OR** import ready-made models from **Sketchfab** (see instructions below)
 
 ---
 
