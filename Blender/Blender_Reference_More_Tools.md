@@ -21,6 +21,7 @@ Learn additional Blender tools that help refine your character’s shape and str
 | Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects              |
 | Join Objects              | `Ctrl + J`             | Combine multiple meshes                  |
 | Shade Smooth              | Right-click            | Soften surface shading                   |
+| ✨Select all              | `A`                    | Selects all objects of vertices          |
 | ✨Switch Modes            | Tab                    | Switch between object mode and edit mode |
 | ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes                  |
 | ✨Shade Smooth            | Right-click            | Soften surface shading                   |
