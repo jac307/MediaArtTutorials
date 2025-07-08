@@ -2,8 +2,9 @@
 
 -------------------------------------------------------------------------------
 
-# 👾 Character Modeling Session 2: Final Touches & Scene Integration  
-
+# 👾 Character Modeling Session 2: Final Touches & Scene Integration
+**Time:** 1h30m
+  
 🎯 **Goal:** Finish modeling your character, export it, and place it in your environment scene with proper materials and lighting.
 
 ---
