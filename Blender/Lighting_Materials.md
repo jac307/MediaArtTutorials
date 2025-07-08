@@ -77,6 +77,7 @@ Before diving in, ask yourself:
 ---
 
 ## Tips for Mood and Atmosphere  
+
 | Mood        | Color Palette | Light Style         | Material Ideas             |
 |-------------|---------------|---------------------|----------------------------|
 | Cozy/Warm   | Orange, red   | Soft, area lights    | Matte, rough, warm tones   |
