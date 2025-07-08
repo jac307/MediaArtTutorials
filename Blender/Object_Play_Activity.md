@@ -37,7 +37,7 @@ Use only the tools from today’s lessons:
 ## 💾 Save Your Work
 
 Save your Blender file.  
-**File name format**: `YourName_ObjectPlay.blend`
+**File name format**: `YourName_Monday.blend`
 
 ---
 
