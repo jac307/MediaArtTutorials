@@ -19,6 +19,15 @@ Before diving in, ask yourself:
 - What kind of materials would help? (glass, metal, cloth, plastic?)  
 - Where is the light coming from in your world? Is it comming from the sun? the moon? a spot light? other type of light source?
 
+### Tips for Mood and Atmosphere  
+
+| Mood        | Color Palette | Light Style         | Material Ideas             |
+|-------------|---------------|---------------------|----------------------------|
+| Cozy/Warm   | Orange, red   | Soft, area lights    | Matte, rough, warm tones   |
+| Mysterious  | Purple, blue  | Low spotlight        | Glossy, glowing elements   |
+| Futuristic  | Cyan, silver  | Bright sun, contrast | Metal, glass, neon colors  |
+| Nature-like | Green, brown  | Sunlight, warm fill  | Earth tones, rough texture |
+
 ---
 
 ## Step 1: Add Materials  
@@ -29,6 +38,10 @@ Before diving in, ask yourself:
    - **Base Color**  
    - **Roughness** (smooth vs. matte)  
    - **Metallic** (non-metal to chrome)
+
+Preview Your Scene  
+- Switch to **Rendered View**: `Z → Rendered`  
+- Or click the shaded ball icon in top-right of the 3D view
 
 ### Tutorials
 
@@ -62,28 +75,15 @@ Before diving in, ask yourself:
    - **Color**  
    - **Size / Angle** (for softness)
 
+Preview Your Scene  
+- Switch to **Rendered View**: `Z → Rendered`  
+- Or click the shaded ball icon in top-right of the 3D view
+
 ### Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=XaQQgkkmNANoEW5Y&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=9X_TWfbGfh0QMeHi&amp;start=93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## Step 3: Preview Your Scene  
-- Switch to **Rendered View**: `Z → Rendered`  
-- Or click the shaded ball icon in top-right of the 3D view
-
----
-
-## Tips for Mood and Atmosphere  
-
-| Mood        | Color Palette | Light Style         | Material Ideas             |
-|-------------|---------------|---------------------|----------------------------|
-| Cozy/Warm   | Orange, red   | Soft, area lights    | Matte, rough, warm tones   |
-| Mysterious  | Purple, blue  | Low spotlight        | Glossy, glowing elements   |
-| Futuristic  | Cyan, silver  | Bright sun, contrast | Metal, glass, neon colors  |
-| Nature-like | Green, brown  | Sunlight, warm fill  | Earth tones, rough texture |
 
 ---
 
