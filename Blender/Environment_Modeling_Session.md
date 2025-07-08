@@ -7,45 +7,6 @@
 
 ---
 
-## What You Already Know (From Monday & Tuesday)
-
-#### 🔧 Tools
-
-| Tool                      | Shortcut               | Use for...                     |
-|---------------------------|------------------------|--------------------------------|
-| Add Object                | `Shift + A`            | Add basic shapes               |
-| Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects    |
-| Join Objects              | `Ctrl + J`             | Combine multiple meshes        |
-| Shade Smooth              | Right-click            | Soften surface shading         |
-| Snap Tool                 | Shift + Tab            | Align objects easily           |
-| Join Objects              | `Ctrl + J`             | Combine multiple meshes        |
-| Shade Smooth              | Right-click            | Soften surface shading         |
-| Snap Tool                 | Right-click on mesh    | Align shapes perfectly         |
-
-#### 🧰 Modifiers
-
-| Modifier              | How to access   | Use for...                        |
-|-----------------------|-----------------|-----------------------------------|
-| Mirror                | Modifiers Tab   | Build symmetrical characters      |
-| Subdivision Surface   | Modifiers Tab   | Smooth rounded shapes             |
-| Array                 | Modifiers Tab   | Repeats objects in rows           |
-| Boolean               | Modifiers Tab   | Combines or subtracts shapes      |
-| Solidify              | Modifiers Tab   | Gives flat shapes a thickness     |
-| Wireframe Modifier    | Modifiers Tab   | Start with a line “skeleton”      |
-| Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
-
-
-## ✨ Useful New Tools for Environments
-
-| Tool / Concept      | Shortcut / Where to Find     | Use It For...                     |
-|---------------------|------------------------------|-----------------------------------|
-| Extrude Faces       | `Tab → Edit Mode → E`        | Pull up walls or stretch planes  |
-| Loop Cuts           | `Ctrl + R` in Edit Mode      | Add structure or divisions       |
-| Inset Faces         | `I` in Edit Mode             | Create windows, frames, steps    |
-| Bevel Edges         | `Ctrl + B` in Edit Mode      | Round out or soften corners      |
-
----
-
 ## Plan and Prepare
 
 ### Create a New Blender File
@@ -56,7 +17,7 @@
 ### Think Small (But Meaningful)
 You're only building a **section** of your world — enough to give your character context.
 
-#### Examples:
+### Examples:
 - 🛏️ A **room** → Just 2 walls and part of the floor  
 - 🌲 A **forest** → A small clearing with 3–4 trees  
 - 🛰️ A **space station** → One hallway or pod  
@@ -99,6 +60,48 @@ You're only building a **section** of your world — enough to give your charact
 - Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
 
 <img src="spaces.png" alt="Walls with details" height="80%"/>
+
+#### Use These Tools & Modifiers
+
+##### 🔧 Tools
+
+| Tool                      | Shortcut                | Use for...                      |
+|---------------------------|-------------------------|---------------------------------|
+| Add Object                | `Shift + A`             | Add basic shapes                |
+| Move / Rotate / Scale     | `G` / `R` / `S`         | Place and transform objects     |
+| Join Objects              | `Ctrl + J`              | Combine multiple meshes         |
+| Shade Smooth              | Right-click             | Soften surface shading          |
+| Snap Tool                 | Shift + Tab             | Align objects easily            |
+| Join Objects              | `Ctrl + J`              | Combine multiple meshes         |
+| Shade Smooth              | Right-click             | Soften surface shading          |
+| Snap Tool                 | Right-click on mesh     | Align shapes perfectly          |
+| ✨ Loop Cuts              | `Ctrl + R` in Edit Mode | Add structure or divisions      |
+| ✨ Extrude Faces          | `Tab → Edit Mode → E`   | Pull up walls or stretch planes |
+| ✨ Inset Faces            | `I` in Edit Mode        | Create windows, frames, steps   |
+| ✨ Bevel Edges            | `Ctrl + B` in Edit Mode | Round out or soften corners     |
+
+##### 🧰 Modifiers
+
+| Modifier              | How to access   | Use for...                        |
+|-----------------------|-----------------|-----------------------------------|
+| Mirror                | Modifiers Tab   | Build symmetrical characters      |
+| Subdivision Surface   | Modifiers Tab   | Smooth rounded shapes             |
+| Array                 | Modifiers Tab   | Repeats objects in rows           |
+| Boolean               | Modifiers Tab   | Combines or subtracts shapes      |
+| Solidify              | Modifiers Tab   | Gives flat shapes a thickness     |
+| Wireframe Modifier    | Modifiers Tab   | Start with a line “skeleton”      |
+| Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
+
+
+##### Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fUYo5_If_5I?si=VmwiyBbvgaGFuN6Y&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EkGYtownblk?si=vA3A_hUPZG2pxJnt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJSf6Y83ZCo?si=NXwKooypXts_tpum&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OmlY9mpSRXI?si=2i5JlBuUSMSasgZR&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
