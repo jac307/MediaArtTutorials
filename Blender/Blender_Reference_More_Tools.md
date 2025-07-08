@@ -4,6 +4,10 @@
 
 # 🧱 Blender Reference - More Tools  
 
+**Activity**: Interface & Object Manipulation
+
+---
+
 ## 🎯 Objective  
 Learn additional Blender tools that help refine your character’s shape and structure. You’ll explore how to join shapes, edit with vertices, and use new modifiers to add more definition and creativity to your design.
 
