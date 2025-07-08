@@ -52,6 +52,12 @@ You're only building a **section** of your world — enough to give your charact
 - **OR** import ready-made models from **Sketchfab** (see instructions below)
 - You can also modify your ground to make it more rocky or organic.
 
+#### Tips for Blocking Your Space
+- Start **big to small**: ground → walls → details  
+- Don’t overbuild — focus on what your character sees  
+- Leave room for character movement or interaction  
+- Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
+
 <img src="spaces.png" alt="Walls with details" height="80%"/>
 
 ---
@@ -62,19 +68,12 @@ You're only building a **section** of your world — enough to give your charact
 <a href="https://sketchfab.com/search" target="_blank">https://sketchfab.com/search</a>
 - Search: `"chair"`, `"rock"`, `"tree"` etc.  
 - Filter: **Downloadable**, License: **CC**, Format: **glTF**
+- Look for free models
 
 ### Step 2: Import into Blender  
-- `File → Import → glTF 2.0 (.glb/.gltf)`  
+- `File → Import → glTF 2.0 (.glb/.gltf)`
 - Locate your downloaded file  
 - Use `G` and `S` to position and scale
-
----
-
-## Tips for Blocking Your Space
-- Start **big to small**: ground → walls → details  
-- Don’t overbuild — focus on what your character sees  
-- Leave room for character movement or interaction  
-- Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
 
 ---
 
