@@ -3,7 +3,7 @@
 ---
 
 # 🌆 Environment Modeling Instructions  
-**🕒 Time:** 45 min
+**Time:** 45 min
 
 ---
 
@@ -51,6 +51,7 @@
 ### Create a New Blender File
 - Go to `File → New → General`
 - Save your file as: `YourName_SceneModel.blend`
+- ⚠️ Don’t forget to press `Ctrl + S` regularly to save your progress.
 
 ### Think Small (But Meaningful)
 You're only building a **section** of your world — enough to give your character context.
@@ -106,13 +107,15 @@ You're only building a **section** of your world — enough to give your charact
 ### Step 1: Browse  
 <a href="https://sketchfab.com/search" target="_blank">https://sketchfab.com/search</a>
 - Search: `"chair"`, `"rock"`, `"tree"` etc.  
-- Filter: **Downloadable**, License: **CC**, Format: **glTF**
-- Look for free models
+- Filter: **Downloadable**, License: **CC**, Format: **OBJ**
+- Look for free simple models
 
 ### Step 2: Import into Blender  
-- `File → Import → glTF 2.0 (.glb/.gltf)`
+- `File → Import → .obj`
 - Locate your downloaded file  
 - Use `G` and `S` to position and scale
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlcbHnW12NM?si=MgsKhfUANAJesqrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
