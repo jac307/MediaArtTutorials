@@ -52,7 +52,7 @@ You're only building a **section** of your world — enough to give your charact
 - **OR** import ready-made models from **Sketchfab** (see instructions below)
 - You can also modify your ground to make it more rocky or organic.
 
-<img src="spaces.png" alt="Walls with details" height="500"/>
+<img src="spaces.png" alt="Walls with details" height="80%"/>
 
 ---
 
