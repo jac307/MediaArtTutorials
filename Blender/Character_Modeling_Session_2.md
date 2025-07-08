@@ -13,18 +13,34 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 
 ---
 
-## ✅ Step-by-Step Instructions
+## Step-by-Step Instructions
 
-### Step 1: Finish Modeling Your Character
+## 🧍 Character Prep Instructions
 
-- Add final **features**: limbs, eyes, accessories, etc.
-- 🛑 Hold off on adding materials for now.
-- Remove/Erase the Light and the Camera.
-- Save your character file one last time!
+1. **Open** the Blender file where you modeled your character.
+
+2. **Add final features and details**.
+
+3. ⚠️ **Wait before adding materials** — we’ll do that later.
+
+4. Press `Ctrl + S` to save any new changes you made before proceeding.
+
+5. **Delete** these default objects:
+   - Select the **Light** and press `X` to delete.
+   - Select the **Camera** and press `X` to delete.
+   - Delete any other unnecessary objects.
+
+6. **Select and Join** your character:
+   - Press `A` to select all objects.
+   - Press `Ctrl + J` to join everything into one object.
+
+7. 💾 **Save** your character file again using **Save As**!
+   - Go to `File → Save As`
+   - Name it: `YourName_Final_Character.blend`
 
 ---
 
-### 2️⃣ Export Your Character
+### Step 2: Export Your Character
 
 - File → Export → **Wavefront (.obj)**  
 - Save as: `YourName_Character.obj`
@@ -33,15 +49,9 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 
 ---
 
-### 3️⃣ Open Your Environment File
+### Step 3: Open Your Environment File and Import Your Character
 
 - Open `YourName_SceneModel.blend`  
-- Save as a new version if needed: `YourName_Scene_Final.blend`
-
----
-
-### 4️⃣ Import Your Character
-
 - File → Import → **Wavefront (.obj)**  
 - Find your `.obj` file and import it  
 - Select your character and **scale it proportionally**:
