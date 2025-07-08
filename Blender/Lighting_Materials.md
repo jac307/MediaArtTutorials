@@ -30,10 +30,7 @@ Before diving in, ask yourself:
    - **Roughness** (smooth vs. matte)  
    - **Metallic** (non-metal to chrome)
 
-**Tips**  
-- Lower roughness = more shine  
-- Increase metallic = more futuristic look  
-- You can add image textures, but start with basic settings
+### Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E42OxbroToM?si=2CTEL1nATvRUWuOE&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
