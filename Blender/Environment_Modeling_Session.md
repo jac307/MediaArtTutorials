@@ -45,13 +45,13 @@ You're only building a **section** of your world — enough to give your charact
 
 - Optional: Create divisions and use **Extrude** on faces or the **Boolean Modifier** to create doors or windows
 
-<img src="groundWithWalls.png" alt="Ground with Walls" width="400"/>
+<img src="wallsWithDetails.png" alt="Walls with details" width="400"/>
 
 ### Step 3 – Add Props or Environmental Objects
 - Use basic shapes (e.g., cylinders, spheres, cubes) and modifiers to create furniture or decorations  
 - **OR** import ready-made models from **Sketchfab** (see instructions below)
 
-<img src="groundWithWalls.png" alt="Ground with Walls" width="400"/>
+<img src="wallsWithDetails.png" alt="Walls with details" height="400"/>
 
 ---
 
