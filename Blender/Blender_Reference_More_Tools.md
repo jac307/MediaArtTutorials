@@ -13,7 +13,7 @@ Learn additional Blender tools that help refine your character’s shape and str
 
 ---
 
-### Modifiers & Tools (✨New Options)
+### Tools (✨New Options)
 
 | Tool                      | Shortcut               | Use for...                     |
 |---------------------------|------------------------|--------------------------------|
@@ -25,6 +25,8 @@ Learn additional Blender tools that help refine your character’s shape and str
 | ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes        |
 | ✨Shade Smooth            | Right-click            | Soften surface shading         |
 | ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly         |
+
+### Modifiers (✨New Options)
 
 | Modifier              | How to access   | Use for...                     |
 |-----------------------|-----------------|--------------------------------|
