@@ -3,9 +3,6 @@
 -------------------------------------------------------------------------------
 
 # 🧱 Blender Reference - More Tools  
-**Time:** 10:20–10:45 AM
-
----
 
 ## 🎯 Objective  
 Learn additional Blender tools that help refine your character’s shape and structure. You’ll explore how to join shapes, edit with vertices, and use new modifiers to add more definition and creativity to your design.
