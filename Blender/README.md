@@ -17,6 +17,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 + 👾 [Character Modeling Session](Character_Modeling_Session.md)
 + 🌆 [Environment Modeling Session](Environment_Modeling_Session.md)
 + 💡 [Lighting & Materials](Lighting_Materials.md)
++ 👾 [Character Modeling Session 2](Character_Modeling_Session_2.md)
 
 ## What is 3D Art?
 
