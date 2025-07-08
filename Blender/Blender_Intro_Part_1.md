@@ -4,8 +4,7 @@
 
 # 🧱 QuickStart Blender Guide
 
-**Activity**: Interface, Navigation & Object Manipulation  
-**Time**: Monday 9:45–10:45 AM  
+**Activity**: Interface, Navigation & Object Manipulation
 
 ---
 
