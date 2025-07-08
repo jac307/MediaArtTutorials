@@ -39,7 +39,7 @@ Learn additional Blender tools that help refine your character’s shape and str
 
 #### Tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tBpnKTAc5Eo?si=Pj-vgKcTdu0lVNWv&amp;start=581" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fuddZUv7MzA?si=FJaeF0xyqXQCo51u&amp;start=113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zsoeV85yUk?si=S4OSa2sUklpqjNKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
