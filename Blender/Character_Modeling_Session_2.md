@@ -91,7 +91,7 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 
 ---
 
-## 🪞 Creative Question
+## 📝 Creative Question
 
 **Does your character feel “at home” in the space you created?**  
 → Think about proportions, lighting, and textures — does everything belong together?
