@@ -4,8 +4,7 @@
 
 # 🧱 Blender Modifiers Reference Sheet
 
-**Activity**: Modifiers & Combining Shapes  
-**Time**: Monday 11:00–12:00 PM  
+**Activity**: Modifiers & Combining Shapes
 
 ---
 
