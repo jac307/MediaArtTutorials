@@ -11,11 +11,13 @@
 
 In this session, you’ll finalize your 3D character, **export it as a `.obj` file with materials**, and **import it into your environment scene**. You’ll make sure it fits the space in **scale, position**, and **style**, and begin applying materials and lighting for a unified look.
 
+⚠️ Don’t forget to press `Ctrl + S` regularly to save your progress.
+
 ---
 
 ## Step-by-Step Instructions
 
-## 🧍 Character Prep Instructions
+## Character Prep Instructions
 
 1. **Open** the Blender file where you modeled your character.
 
@@ -46,39 +48,40 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 
 ---
 
-### Step 3: Open Your Environment File and Import Your Character
+## Place Your Character in the Scene
 
-- Open `YourName_SceneModel.blend`  
-- File → Import → **Wavefront (.obj)**  
-- Find your `.obj` file and import it  
-- Select your character and **scale it proportionally**:
-  - Use `S` to scale  
-  - Use `G` to move it to the right position  
-  - Use `R` to rotate if needed
-- Add **materials** or **basic textures**: skin, metal, clothes, etc.  
-- Optional: Use the **Hair Particle System** for simple hair/fur.  
+⚠️ Don’t forget to press `Ctrl + S` regularly to save your progress.
 
-🪄 **Tip:** Your character should match the size of the space (e.g., not taller than the wall or smaller than a bench!).
+1. **Open** Your Scene File. Go to `File → Open` and select `YourName_SceneModel.blend`
 
----
+2. Import Your Character
+- Go to `File → Import → Wavefront (.obj)`
+- Locate and import your exported `.obj` file
 
-### 5️⃣ Add/Adjust Materials & Lighting
+3. Scale Proportionally and Position Your Character
+-💡 **Tip**: Your character should match the size of the space (e.g., not taller than a wall or smaller than a bench)
 
-- Go to the **Shading** workspace  
-- Add or tweak materials for:
-  - Skin, eyes, hair, clothes, etc.  
-- In your **Scene File**, add or reposition lights for dramatic effect:
-  - Use **Area**, **Point**, or **Sun** lights  
-  - Position for shadows, highlights, or mood
-  - Adjust strength and color
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRlpVa1g2EQ?si=UJqM7cfl63nOKv5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+4. Add Materials and Textures. Create and assign materials for skin, metal, clothing...
 
-## 💾 Save Frequently!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E42OxbroToM?si=2CTEL1nATvRUWuOE&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- File → Save  
-- Final name: `YourName_CharacterInScene.blend`  
-- Save to your USB or class folder
+5. Optional – Add Hair or Fur. Use the **Particle System → Hair**. Tweak hair length, density, and shape for basic stylized hair
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnmCOeqfZ5o?si=u5h8CNqinrK8K_J4&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+6. Add or Reposition Lights
+- Use `Shift + A → Light` to add:
+  - **Area Light** for soft shadows
+  - **Point Light** for localized brightness
+  - **Sun Light** for global directional light
+- Use `G` to move the light
+- Adjust intensity and color in the **Light Properties** tab
+
+7. Save Your Scene
+- `File → Save As`
+- Name it: `YourName_SceneWithCharacter.blend`
 
 ---
 
