@@ -15,16 +15,16 @@ Learn additional Blender tools that help refine your character’s shape and str
 
 ### Tools (✨New Options)
 
-| Tool                      | Shortcut               | Use for...                     |
-|---------------------------|------------------------|--------------------------------|
-| Add Object                | `Shift + A`            | Add basic shapes               |
-| Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects    |
-| Join Objects              | `Ctrl + J`             | Combine multiple meshes        |
-| Shade Smooth              | Right-click            | Soften surface shading         |
-| Snap Tool                 | Shift + Tab            | Align objects easily           |
-| ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes        |
-| ✨Shade Smooth            | Right-click            | Soften surface shading         |
-| ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly         |
+| Tool                      | Shortcut               | Use for...                               |
+|---------------------------|------------------------|------------------------------------------|
+| Add Object                | `Shift + A`            | Add basic shapes                         |
+| Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects              |
+| Join Objects              | `Ctrl + J`             | Combine multiple meshes                  |
+| Shade Smooth              | Right-click            | Soften surface shading                   |
+| ✨Switch Modes            | Tab                    | Switch between object mode and edit mode |
+| ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes                  |
+| ✨Shade Smooth            | Right-click            | Soften surface shading                   |
+| ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly                   |
 
 ### Modifiers (✨New Options)
 
