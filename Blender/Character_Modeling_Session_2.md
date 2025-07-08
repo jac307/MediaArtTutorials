@@ -4,8 +4,6 @@
 
 # 👾 Character Modeling Session 2: Final Touches & Scene Integration
 **Time:** 1h30m
-  
-🎯 **Goal:** Finish modeling your character, export it, and place it in your environment scene with proper materials and lighting.
 
 ---
 
@@ -17,24 +15,21 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 
 ## ✅ Step-by-Step Instructions
 
-### 1️⃣ Finish Modeling Your Character
+### Step 1: Finish Modeling Your Character
 
-- Add final **features**: limbs, eyes, accessories, etc.  
-- Add **materials** or **basic textures**: skin, metal, clothes, etc.  
-- Optional: Use the **Hair Particle System** for simple hair/fur.  
+- Add final **features**: limbs, eyes, accessories, etc.
+- 🛑 Hold off on adding materials for now.
+- Remove/Erase the Light and the Camera.
 - Save your character file one last time!
 
 ---
 
-### 2️⃣ Export Your Character (with Materials)
+### 2️⃣ Export Your Character
 
 - File → Export → **Wavefront (.obj)**  
-- Check these options:
-  - ✅ **Selection Only** (select your character first!)  
-  - ✅ **Include Normals**  
-  - ✅ **Include Materials**  
-- Save as: `YourName_Character.obj`  
-- Keep the `.MTL` file and textures in the same folder.
+- Save as: `YourName_Character.obj`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-uCRr6NOFI?si=AFioUkVWksMotQ1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -53,6 +48,8 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
   - Use `S` to scale  
   - Use `G` to move it to the right position  
   - Use `R` to rotate if needed
+- Add **materials** or **basic textures**: skin, metal, clothes, etc.  
+- Optional: Use the **Hair Particle System** for simple hair/fur.  
 
 🪄 **Tip:** Your character should match the size of the space (e.g., not taller than the wall or smaller than a bench!).
 
