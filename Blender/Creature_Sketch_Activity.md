@@ -33,6 +33,8 @@ Sketch your character on a piece of paper. Focus on:
 - 2–3 key features: big eyes? horns? one leg?  
 - Clear silhouette — can you recognize it from the outline alone?
 
+![Character Design](character-design.png)
+
 **❗ Try to avoid:**
 
 - Too much detail like fingers, fur, or tiny features  
