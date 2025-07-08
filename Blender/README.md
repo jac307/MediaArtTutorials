@@ -12,6 +12,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 + 🧱 [QuickStart Blender Guide](Blender_Intro_Part_1.md)
 + 🧱 [Blender Modifiers Reference Sheet](Blender_Intro_Part_2.md)
 + 🌀 [OBJECT PLAY: Build an Abstract Sculpture or Creature](Object_Play_Activity.md)
++ 🧱 [Blender Reference - More Tools](Blender_Reference_More_Tools.md)
 + ✏️ [Creature Sketch Activity](Creature_Sketch_Activity.md)
 + 🧱 [Character Modeling Session](Character_Modeling_Session.md)
 
