@@ -4,8 +4,7 @@
 
 # ✏️ Creature Sketch Activity
 
-**Activity:** Warm-Up Sketch – Draw Your Ideal Character  
-**Time:** 9:50–10:20 AM
+**Activity:** Draw Your Ideal Character 
 
 ---
 
@@ -46,8 +45,8 @@ Sketch your character on a piece of paper. Focus on:
 Next to your drawing, add relevant notes answering these questions:
 
 - What kind of movement or pose do you imagine?  
-- Does your creature have a catchphrase or sound?  
-- What inspired your idea?  
+- Does your character have a catchphrase or sound?  
+- What inspired your idea? 
 - Any other ideas? Texture? Light? Color?
 
 ---
