@@ -37,11 +37,8 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 7. 💾 **Save** your character file again using **Save As**!
    - Go to `File → Save As`
    - Name it: `YourName_Final_Character.blend`
-
----
-
-### Step 2: Export Your Character
-
+  
+8. **Export** your character as OBJ
 - File → Export → **Wavefront (.obj)**  
 - Save as: `YourName_Character.obj`
 
