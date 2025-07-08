@@ -34,22 +34,24 @@ You're only building a **section** of your world — enough to give your charact
 - Press `S` to scale it large enough for your scene  
 - Add a **Solidify Modifier** to give it thickness (optional but recommended)
 
-![Ground](ground-image.png)
+<img src="ground-image.png" alt="Ground" width="400"/>
 
 ### Step 2 – Block Out Your Space *(for indoor environments only)*
 - Press `Shift + A → Mesh → Cube` → Scale/rotate into walls, floors, or stairs  
 - Press `Tab` to enter Edit Mode → Select four faces (as shown in the image) → Press `X` to delete them  
 - Use `G`, `R`, and `S` to move, rotate, and scale objects
 
-![Ground with Walls](groundWithWalls.png)
+<img src="groundWithWalls.png" alt="Ground with Walls" width="400"/>
 
-- Create divisions and use **Extrude** on faces or the **Boolean Modifier** to create doors or windows
+- Optional: Create divisions and use **Extrude** on faces or the **Boolean Modifier** to create doors or windows
 
-![Ground with Walls](groundWithWalls.png)
+<img src="groundWithWalls.png" alt="Ground with Walls" width="400"/>
 
 ### Step 3 – Add Props or Environmental Objects
 - Use basic shapes (e.g., cylinders, spheres, cubes) and modifiers to create furniture or decorations  
 - **OR** import ready-made models from **Sketchfab** (see instructions below)
+
+<img src="groundWithWalls.png" alt="Ground with Walls" width="400"/>
 
 ---
 
