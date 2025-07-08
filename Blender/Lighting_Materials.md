@@ -41,6 +41,12 @@ Before diving in, ask yourself:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/73hPexS1YAY?si=geuihBcUvjSVxxlA&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4qT5zNPxiY?si=4Up74H1QOiqX0sAU&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oavPuJuRc3E?si=Laa5dq18QhnCYZMk&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p03fspwMY64?si=vUHmsdUdqEi28eIk&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Step 2: Add Lighting  
