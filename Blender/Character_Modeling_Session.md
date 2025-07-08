@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# 🧱 Character Modeling Session  
+# 👾 Character Modeling Session  
 **Time:** 10:20–10:45 AM // 1:00–2:30 PM
 
 ---
@@ -32,21 +32,17 @@ Begin building your character in Blender using one of the two modeling approache
 
 > Best for: **Robots, abstract beings, simple creatures**
 
-### 🖍️ Step 1: Review Your Sketch 
-- Look at your creature drawing and shape breakdown.  
+### Step 1: Review Your Sketch 
 - What’s the main body shape? Where do you want to start?
 
----
-
-### 🧱 Step 2: Add Your First Shape  
+### Step 2: Add Your First Shape  
 - Open Blender  
 - Delete the default cube if needed  
-- Add a base mesh: `Shift + A → Mesh → (Sphere / Cube / Cylinder)`   
-- Add more parts (head, arms, legs) using new shapes
+- Add a base mesh: `Shift + A → Mesh → (Sphere / Cube / Cylinder)`  
+- Add more parts (head, arms, legs) using new shapes  
+- Combine shapes using tools and modifiers
 
----
-
-### Step 3: Use Modifiers & Tools (✨New Options)
+### Step 3: Use These Tools & Modifiers
 
 | Tool                      | Shortcut               | Use for...                     |
 |---------------------------|------------------------|--------------------------------|
@@ -68,18 +64,7 @@ Begin building your character in Blender using one of the two modeling approache
 | Solidify              | Modifiers Tab   | Gives flat shapes a thickness  |
 | ✨Wireframe Modifier  | Modifiers Tab   | Start with a line “skeleton”   |
 
-#### Tutorials
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9zsoeV85yUk?si=S4OSa2sUklpqjNKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9zsoeV85yUk?si=S4OSa2sUklpqjNKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-bEbTGdIcQ?si=EtVJZGw82PGqjgC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9gn_1V1sCS8?si=ZWJ2m8zSvTYSyMyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zRsLUXSTN_U?si=mbwgRH-vGkSSFE1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -103,15 +88,12 @@ For this approach, you will use the Skin Modifier along with other tools. Follow
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DAAwy_l4jw4?si=5kIERwnWNljiJ1sa&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ---
 
 ## 💾 File Saving
 
 - File → Save As  
-- **Name it based on your method:**  
-  - `YourName_GeoChar.blend` or `YourName_SkinChar.blend`  
+- **Name it:** `YourName_Tuesday.blend`  
 - Save to your USB or class folder
 
 ---
