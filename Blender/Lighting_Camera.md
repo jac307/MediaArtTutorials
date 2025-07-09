@@ -97,7 +97,8 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FApegTD0a5M?si=T1bZkj1ZeWCYjaof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Learn more about Camera settins - ⚠️ Watch it only until 9:16 
+### Learn more about the Camera settings - ⚠️ Watch it only until 9:16 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=l-VcJvGLSdknDt8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
