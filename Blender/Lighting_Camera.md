@@ -37,14 +37,6 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ---
 
-## Tutorials
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 ## 💡 Lighting Preset Ideas
 
 | Style/Setting        | Setup Tips                                                                  |
@@ -55,6 +47,14 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 | 🧪 Sci-Fi/Neon       | Use colored **Point Lights** (blue, green, pink), low ambient light         |
 | 🌫️ Foggy/Moody       | Use **Sun Light** with grayish color, soft shadows, low intensity           |
 | 🎬 3-Point Studio    | Use **Key Light**, **Fill Light**, and **Back Light** with Area or Spot     |
+
+---
+
+## Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -77,15 +77,6 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ---
 
-## Tutorials
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FApegTD0a5M?si=T1bZkj1ZeWCYjaof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Learn more about Camera settins - ⚠️ Watch it only until 9:16 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=l-VcJvGLSdknDt8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 ## 📸 Camera Preset Ideas
 
 | Camera Type              | Description & Use                                                         |
@@ -97,6 +88,15 @@ Learn more about Camera settins - ⚠️ Watch it only until 9:16
 | 🤖 Dolly/Tracking Shot   | Animate camera moving beside a character or object                        |
 | 🎬 Close-Up              | Zoom in on a face, detail, or emotion; tight framing with shallow depth   |
 | 🌍 Wide Shot             | Show the whole environment; helps with mood and scale                     |
+
+---
+
+## Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FApegTD0a5M?si=T1bZkj1ZeWCYjaof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Learn more about Camera settins - ⚠️ Watch it only until 9:16 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=l-VcJvGLSdknDt8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
