@@ -106,7 +106,7 @@ In this method, you'll use a single vertex as a “skeleton” and grow your mod
 
 ---
 
-## ❓ Creative Question
+## 📝 Reflection
 
 **What shape or pose defines your character?**  
 → Focus on that as your anchor during this first modeling session.
