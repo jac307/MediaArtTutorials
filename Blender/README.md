@@ -31,6 +31,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 ### Thursday
 
 + 💡 [Lighting & 🎥 Camera](Lighting_Camera.md)
++ 🦴 [Intro to Armatures](Intro_to_Armatures.md)
 
 ### Extra
 
