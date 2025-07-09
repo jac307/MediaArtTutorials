@@ -22,6 +22,8 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
   - **Area** – Soft, rectangular light source (good for studio or room lighting)  
   - **Spot** – Cone-shaped light (useful for dramatic or focused light)
 
+![Light Scenes](light.png)
+
 ### Step 2: Position the Light  
 - Use `G` to **move**, `R` to **rotate**
 
