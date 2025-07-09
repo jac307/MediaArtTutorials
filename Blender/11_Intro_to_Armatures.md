@@ -10,6 +10,24 @@
 
 **Goal**: Add bones (armatures) to your character, pose them, and create expressive still shots using camera and lighting.
 
+## 🔧 Tools You’ll Use
+
+| Tool / Feature             | Shortcut / Location                      | Purpose / Use                                                  |
+|---------------------------|------------------------------------------|----------------------------------------------------------------|
+| **New Blender File**       | `File → New → General`                  | Start fresh to practice armatures                              |
+| **Add Armature**           | `Shift + A → Armature → Single Bone`    | Add the first bone to start building skeleton                  |
+| **Edit Mode**              | `Tab`                                   | Switch modes to edit bone structure                            |
+| **Extrude Bone**           | `E`                                     | Extend armature by adding more connected bones                 |
+| **Pose Mode**              | Mode dropdown or `Ctrl + Tab`           | Pose your character by rotating bones                          |
+| **Rotate Bone**            | `R`                                     | Rotate bones for posing                                        |
+| **Render Image**           | `F12`                                   | Render a still image from your scene                           |
+| **Save Render**            | `Image → Save As`                       | Save a still image (.png) from rendered view                   |
+| **Camera + Lighting**      | `Shift + A → Camera / Light`            | Add camera and lights for rendering poses                      |
+| **Viewport Navigation**    | `Scroll`, `MMB`, `Shift + MMB`          | Zoom, rotate, and pan your scene                               |
+| **Bone Tab**               | Properties panel (orange stick icon)    | Adjust and rename bones                                        |
+| **File Save**              | `File → Save As`                        | Save your .blend file with a clear filename                    |
+
+
 ---
 
 ## Step 1: Learn the Basics of Armatures
