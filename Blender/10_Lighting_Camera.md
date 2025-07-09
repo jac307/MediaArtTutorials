@@ -10,6 +10,20 @@
 ## 🎯 Objective  
 Learn how to set up lighting and a camera in Blender to create a mood or focus attention in your scene. Experiment with color, strength, and angle to change how your scene feels.
 
+## 🔧 Tools You’ll Use
+
+| Tool / Feature               | Shortcut / Location                | Purpose / Use                                                   |
+|-----------------------------|------------------------------------|-----------------------------------------------------------------|
+| **Add Light**               | `Shift + A → Light`                | Add Point, Sun, Area, or Spot lights                            |
+| **Move / Rotate**           | `G`, `R`                           | Position lights and cameras                                     |
+| **Rendered View**           | `Z → Rendered`                     | Preview lighting in real-time                                   |
+| **Light Settings**          | Light Properties Tab (💡 icon)     | Adjust strength, color, softness                                |
+| **Add Camera**              | `Shift + A → Camera`               | Add a camera to your scene                                      |
+| **Look Through Camera**     | `Numpad 0`                         | Switch to camera view                                           |
+| **Lock Camera to View**     | `N → View → Lock Camera to View`   | Move the camera using viewport navigation                       |
+| **Camera Settings**         | Camera Properties Tab (📷 icon)    | Adjust focal length, depth of field, and other options          |
+| **Save Your Work**          | `File → Save`                      | Keep progress safe; use clear filenames                         |
+
 ---
 
 ## Add Lighting  
