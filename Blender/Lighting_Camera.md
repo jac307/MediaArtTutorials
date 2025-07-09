@@ -48,6 +48,12 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 | 🌫️ Foggy/Moody      | Use **Sun Light** with grayish color, soft shadows, low intensity          |
 | 🎬 3-Point Studio    | Use **Key Light**, **Fill Light**, and **Back Light** with Area or Spot    |
 
+## 📺 Tutorials
+
+<iframe width="70%" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 🎥 Add a Camera  
@@ -80,13 +86,6 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 | 🤖 Dolly/Tracking Shot   | Animate camera moving beside a character or object                         |
 | 🎬 Close-Up             | Zoom in on a face, detail, or emotion; tight framing with shallow depth   |
 | 🌍 Wide Shot            | Show the whole environment; helps with mood and scale                     |
-
----
-
-## 📺 Tutorials
-
-- [Lighting for Beginners – CG Fast Track (Start at 2:36)](https://www.youtube.com/embed/FdbnzfjoOJU?si=XaQQgkkmNANoEW5Y&start=156)  
-- [3-Point Lighting Setup in Blender – CG Boost (Start at 1:33)](https://www.youtube.com/embed/JJV8l6MaXxA?si=9X_TWfbGfh0QMeHi&start=93)
 
 ---
 
