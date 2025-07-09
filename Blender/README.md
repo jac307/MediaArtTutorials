@@ -35,7 +35,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 
 ### Extra
 
-+ 🔤 [Blender Shortcut Reference Guide](Shortcut_Reference_Guide.md)
++ 🔤 [Blender Shortcut Reference Guide](0_Shortcut_Reference_Guide.md)
 
 ---
 
