@@ -67,6 +67,7 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 - Use `G` to move, `R` to rotate  
 - Press `Numpad 0` to **look through the camera**  
 - Use `G` and `R` in Camera View to reframe the shot
+- ⚠️ For now, we’re only working with still cameras. **Don’t animate your camera yet**.
 
 ### Step 2: Lock Camera to View (Optional)  
 - Press `N` → View → Check **Lock Camera to View**  
@@ -76,8 +77,6 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 - Select camera → **Camera Properties tab**  
   - Adjust **Focal Length** for wide/zoomed view  
   - Choose **Depth of Field** to blur background (optional)
-
-⚠️ For now, we’re only working with still cameras. Don’t animate your camera yet.
 
 ---
 
