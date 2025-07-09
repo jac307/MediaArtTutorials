@@ -41,7 +41,7 @@ Save your Blender file.
 
 ---
 
-## 🗣️ 3. Reflection (last 5 minutes)
+## 📝 Reflection
 
 Answer these questions on a piece of paper:
 
