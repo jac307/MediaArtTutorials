@@ -130,7 +130,7 @@ You're only building a **section** of your world — enough to give your charact
 
 ---
 
-## ❓ Creative Question
+## 📝 Reflection
 What feeling do you want your space to give your character (and the viewer)?  
 → Is it cozy, eerie, magical, futuristic, chaotic, peaceful, or something else?
 ---
