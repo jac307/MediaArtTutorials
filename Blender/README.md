@@ -10,16 +10,30 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 
 ## Index
 
+### Monday
+
 + 🧱 [QuickStart Blender Guide](Blender_Intro_Part_1.md)
 + 🧱 [Blender Modifiers Reference Sheet](Blender_Intro_Part_2.md)
 + 🌀 [OBJECT PLAY: Build an Abstract Sculpture or Creature](Object_Play_Activity.md)
+
+### Tuesday
+
 + 🧱 [Blender Reference - More Tools](Blender_Reference_More_Tools.md)
 + ✏️ [Creature Sketch Activity](Creature_Sketch_Activity.md)
 + 👾 [Character Modeling Session](Character_Modeling_Session.md)
+
+### Wednesday
+
 + 🌆 [Environment Modeling Session](Environment_Modeling_Session.md)
 + 💠 [Materials](Materials.md)
 + 👾 [Character Modeling Session 2](Character_Modeling_Session_2.md)
+
+### Thursday
+
 + 💡 [Lighting & 🎥 Camera](Lighting_Camera.md)
+
+### Extra
+
 + 🔤 [Blender Shortcut Reference Guide](Shortcut_Reference_Guide.md)
 
 ---
