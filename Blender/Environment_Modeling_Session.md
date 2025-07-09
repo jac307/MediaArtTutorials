@@ -59,7 +59,7 @@ You're only building a **section** of your world — enough to give your charact
 - Leave room for character movement or interaction  
 - Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
 
-<img src="spaces.png" alt="Walls with details" height="80%"/>
+<img src="spaces.png" alt="Walls with details"/>
 
 #### Use These Tools & Modifiers
 
