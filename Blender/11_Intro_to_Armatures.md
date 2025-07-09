@@ -3,6 +3,7 @@
 ---
 
 # 🦴 Intro to Armatures
+**Time:** 1 hour
 
 ---
 
