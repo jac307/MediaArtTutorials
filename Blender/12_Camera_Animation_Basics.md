@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Objective
-Use Blender’s **Timeline** and **Dope Sheet** to animate one meaningful camera movement and export a short video clip.
+Use Blender’s **Timeline** and **Dope Sheet** to animate one meaningful camera movement and export a short video clips.
 
 ---
 
