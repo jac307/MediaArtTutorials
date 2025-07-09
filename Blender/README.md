@@ -19,6 +19,8 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 + 💡 [Lighting & Materials](Lighting_Materials.md)
 + 👾 [Character Modeling Session 2](Character_Modeling_Session_2.md)
 
++ 🔤 [Blender Shortcut Reference Guide](Shortcut_Reference_Guide.md)
+
 ## What is 3D Art?
 
 **3D art** is a form of digital or physical creation that uses three-dimensional space to represent objects with depth, height, and width. Unlike flat, two-dimensional artwork, 3D art allows for realistic modeling, pers
