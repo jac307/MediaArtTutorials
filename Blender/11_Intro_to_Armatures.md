@@ -4,6 +4,10 @@
 
 # 🦴 Intro to Armatures
 
+---
+
+## 🎯 Objective  
+
 **Goal**: Add bones (armatures) to your character, pose them, and create expressive still shots using camera and lighting.
 
 ---
