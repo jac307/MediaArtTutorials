@@ -35,6 +35,12 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 - `Z → Rendered` OR click the shaded ball in the top-right viewport corner  
 - Switch to **Rendered View** to see how the light affects your scene
 
+#### 📺 Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 💡 Lighting Preset Ideas
@@ -47,12 +53,6 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 | 🧪 Sci-Fi/Neon       | Use colored **Point Lights** (blue, green, pink), low ambient light         |
 | 🌫️ Foggy/Moody      | Use **Sun Light** with grayish color, soft shadows, low intensity          |
 | 🎬 3-Point Studio    | Use **Key Light**, **Fill Light**, and **Back Light** with Area or Spot    |
-
-## 📺 Tutorials
-
-<iframe width="70%" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
