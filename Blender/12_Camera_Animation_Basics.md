@@ -1,6 +1,6 @@
 # 🧱 Camera Animation Basics  
 
-**Time:** 1:30 h
+**Time:** 1h30m
 
 ---
 
@@ -61,4 +61,9 @@ For each video, **recreate the movement using keyframes**, then render a short p
 > Does it make the moment feel slow, fast, intense, peaceful, or cinematic?
 
 ---
+
+## ➕ **Extra**  
+If you have extra time, try experimenting with object animation!  
+Follow the tutorial below in a **separate Blender file** so you don’t affect your main project.
+
 
