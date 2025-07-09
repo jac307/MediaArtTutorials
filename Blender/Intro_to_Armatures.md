@@ -31,24 +31,29 @@ Follow along in Blender and try:
 **Open Your Character File**  
 - File → Open → `YourName_Character.blend`
 
-🔧 **Add an Armature**
+🦴 **Add an Armature**
 - `Shift + A → Armature → Single Bone`
 - Enter **Edit Mode** (`Tab`) to build your skeleton
 - Use `E` to extrude more bones (arms, legs, spine, etc.)
 
-🧠 Think about the shape of your character:
+Think about the shape of your character:
 - Robot or blocky? You may only need a few bones.
 - Humanoid or organic? Add a basic spine, arms, and legs.
 - Unusual shape? Be creative with the rig!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqnhLzPw8Kc?si=8-yDlE5celFgs9rg&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nlMZx0vp6E?si=pvxFyvKawCh5Ntq5&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-## 🖼️ Step 3: Pose and Capture Your Character
+## Step 3: Pose and Capture Your Character
 
-🕹️ **Pose Your Character**
+👾 **Pose Your Character**
 - Switch to **Pose Mode**
 - Use `R` (rotate) to change bone angles
 - Experiment with expressive poses
+- ⚠️ For now, just pose your character. **Don’t animate with armatures yet**.
 
 📷 **Set Up a Camera and Lights**
 - Add or adjust camera angle and lighting (use earlier guides)
@@ -58,6 +63,8 @@ Follow along in Blender and try:
 - Save as `.png`: `Image → Save As`
 
 🎯 Try rendering 2–3 different poses!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YtRpBj_T07Q?si=hLa5lY-l56yf09Wk&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
