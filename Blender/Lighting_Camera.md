@@ -77,6 +77,8 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
   - Adjust **Focal Length** for wide/zoomed view  
   - Choose **Depth of Field** to blur background (optional)
 
+⚠️ For now, we’re only working with still cameras. Don’t animate your camera yet.
+
 ---
 
 ## 📸 Camera Preset Ideas
