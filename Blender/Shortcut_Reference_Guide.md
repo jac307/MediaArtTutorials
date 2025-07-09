@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# Blender Shortcut Reference Guide
+# 🔤 Blender Shortcut Reference Guide
 
 | 🔧 Action                        | ⌨️ Shortcut                  | 📌 Description                                               |
 |----------------------------------|------------------------------|--------------------------------------------------------------|
@@ -35,3 +35,17 @@
 | **Split Viewport**               | Right-click edge → Split     | Split workspace horizontally or vertically                   |
 | **Toggle Sidebar**               | `N`                          | Show/hide right-side panel                                   |
 | **Toggle Toolbar**               | `T`                          | Show/hide the left toolbar                                   |
+
+## 🧰 Modifiers
+
+| Modifier              | How to access   | Use for...                        |
+|-----------------------|-----------------|-----------------------------------|
+| Mirror                | Modifiers Tab   | Build symmetrical characters      |
+| Subdivision Surface   | Modifiers Tab   | Smooth rounded shapes             |
+| Array                 | Modifiers Tab   | Repeats objects in rows           |
+| Boolean               | Modifiers Tab   | Combines or subtracts shapes      |
+| Solidify              | Modifiers Tab   | Gives flat shapes a thickness     |
+| Wireframe Modifier    | Modifiers Tab   | Start with a line “skeleton”      |
+| Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
+
+--
