@@ -23,11 +23,9 @@ Use Blender’s **Timeline** and **Dope Sheet** to animate one meaningful camera
 
 ---
 
-## 🎬 Step-by-Step Instructions
+### Learn how to animate your camera
 
-### 🎥 Step 1: Follow These Tutorials First
-
-Watch and apply these camera animation techniques in your own Blender scene.  
+Watch and **apply** these camera animation techniques in your own scene.  
 For each video, **recreate the movement using keyframes**, then render a short preview (5–10 sec).
 
 1. **Basic Camera Pan**  
@@ -43,32 +41,6 @@ For each video, **recreate the movement using keyframes**, then render a short p
    → Pull camera in or out slowly
 
 > ✅ Apply each type of movement directly in your scene and export a tiny preview (Render → Animation).
-
----
-
-### 🎥 Step 2: Add Your Own Camera and Keyframes
-
-1. **Open Your Scene**
-   - Use the environment file with your character
-
-2. **Add and Place the Camera**
-   - `Shift + A → Camera`
-   - `Ctrl + Alt + Numpad 0` to snap it to your current view
-   - Use `G` and `R` to move and aim the camera
-
-3. **Insert First Keyframe**
-   - Set timeline to **Frame 1**
-   - Press `I → Location & Rotation`
-
-4. **Move the Camera**
-   - Go to **Frame 60** or **Frame 120**
-   - Move and rotate camera (`G`, `R`)
-   - Press `I → Location & Rotation`
-
-5. **Preview & Adjust**
-   - `Spacebar` to preview
-   - Use **Dope Sheet** to refine timing
-   - Optional: Open **Graph Editor** to adjust speed curves
 
 ---
 
