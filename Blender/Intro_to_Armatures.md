@@ -69,7 +69,7 @@ Think about the shape of your character:
 ---
 
 ## 💡 Tips
-- Keep bones simple—this is just a pose, not full animation
+- Keep bones simple—this is just a pose, ⚠️ **not full animation**
 - Zoom in/out with `Scroll`, rotate with `Middle Mouse`, pan with `Shift + Middle Mouse`
 - Use the **Bone tab** to rename or tweak bones
 - If your mesh doesn’t move with the bones, don’t worry—we’re focusing on visual posing for now
