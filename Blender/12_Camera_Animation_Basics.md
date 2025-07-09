@@ -1,6 +1,6 @@
 # 🧱 Camera Animation Basics  
 
-**Time:** 1 hour, 30 min
+**Time:** 1 h
 
 ---
 
