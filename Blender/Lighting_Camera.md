@@ -37,7 +37,7 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ---
 
-## 📺 Tutorials
+## Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,17 +77,25 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ---
 
+## Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 📸 Camera Preset Ideas
 
-| Camera Type             | Description & Use                                                         |
+| Camera Type              | Description & Use                                                         |
 |--------------------------|---------------------------------------------------------------------------|
 | 👁️ Over-the-Shoulder     | Great for storytelling; place camera behind character                     |
 | 🐜 Low Angle             | Camera placed near the ground, looking up — makes subject feel powerful   |
 | 🛰️ Top Down (Bird’s Eye) | Use for maps, layouts, or god-like perspective                            |
 | 🪟 Framed View           | Position camera through a window or doorway for visual framing            |
-| 🤖 Dolly/Tracking Shot   | Animate camera moving beside a character or object                         |
-| 🎬 Close-Up             | Zoom in on a face, detail, or emotion; tight framing with shallow depth   |
-| 🌍 Wide Shot            | Show the whole environment; helps with mood and scale                     |
+| 🤖 Dolly/Tracking Shot   | Animate camera moving beside a character or object                        |
+| 🎬 Close-Up              | Zoom in on a face, detail, or emotion; tight framing with shallow depth   |
+| 🌍 Wide Shot             | Show the whole environment; helps with mood and scale                     |
 
 ---
 
