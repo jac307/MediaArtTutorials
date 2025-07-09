@@ -96,7 +96,7 @@ Preview Your Scene
 
 ---
 
-## ❓ Creative Question  
+## 📝 Reflection 
 **What kind of mood or feeling do your lighting and materials create?**  
 → Describe it in one or two words!
 
