@@ -6,6 +6,7 @@
 
 Blender is a powerful, free, and open-source 3D creation suite used by artists, designers, and animators around the world. In this series of beginner-friendly tutorials, you’ll learn how to navigate the Blender interface, manipulate objects, and explore essential tools like modifiers, materials, and animation basics. These tutorials are designed to give you a solid foundation in 3D design while encouraging creativity, experimentation, and play.
 
+---
 
 ## Index
 
@@ -19,6 +20,8 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 + 💡 [Lighting & Materials](Lighting_Materials.md)
 + 👾 [Character Modeling Session 2](Character_Modeling_Session_2.md)
 + 🔤 [Blender Shortcut Reference Guide](Shortcut_Reference_Guide.md)
+
+---
 
 ## What is 3D Art?
 
