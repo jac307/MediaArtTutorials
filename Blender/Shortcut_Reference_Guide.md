@@ -35,6 +35,7 @@
 | **Split Viewport**               | Right-click edge → Split     | Split workspace horizontally or vertically                   |
 | **Toggle Sidebar**               | `N`                          | Show/hide right-side panel                                   |
 | **Toggle Toolbar**               | `T`                          | Show/hide the left toolbar                                   |
+
 ---
 
 ## 🧰 Modifiers
