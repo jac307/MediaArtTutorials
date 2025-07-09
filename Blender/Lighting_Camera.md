@@ -12,7 +12,7 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ---
 
-## 🔦 Add Lighting  
+## Add Lighting  
 
 ### Step 1: Add a Light  
 - `Shift + A → Light`  
@@ -35,6 +35,8 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 - `Z → Rendered` OR click the shaded ball in the top-right viewport corner  
 - Switch to **Rendered View** to see how the light affects your scene
 
+---
+
 #### 📺 Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -45,14 +47,14 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ## 💡 Lighting Preset Ideas
 
-| Style/Setting       | Setup Tips                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| 🌞 Sunny Day         | Use **Sun Light** with slight yellow tint, medium strength, soft shadows   |
-| 💡 Cozy Room         | Use **Area Light** near the ceiling + **Point Light** near objects         |
-| 🎭 Dramatic          | Use **Spot Light** from the side, high contrast, colored rim light         |
+| Style/Setting        | Setup Tips                                                                  |
+|----------------------|-----------------------------------------------------------------------------|
+| 🌞 Sunny Day         | Use **Sun Light** with slight yellow tint, medium strength, soft shadows    |
+| 💡 Cozy Room         | Use **Area Light** near the ceiling + **Point Light** near objects          |
+| 🎭 Dramatic          | Use **Spot Light** from the side, high contrast, colored rim light          |
 | 🧪 Sci-Fi/Neon       | Use colored **Point Lights** (blue, green, pink), low ambient light         |
-| 🌫️ Foggy/Moody      | Use **Sun Light** with grayish color, soft shadows, low intensity          |
-| 🎬 3-Point Studio    | Use **Key Light**, **Fill Light**, and **Back Light** with Area or Spot    |
+| 🌫️ Foggy/Moody       | Use **Sun Light** with grayish color, soft shadows, low intensity           |
+| 🎬 3-Point Studio    | Use **Key Light**, **Fill Light**, and **Back Light** with Area or Spot     |
 
 ---
 
