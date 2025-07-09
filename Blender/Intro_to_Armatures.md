@@ -14,7 +14,13 @@
 - Go to `File → New → General`  
 - Save as: `YourName_ArmaturePractice.blend`
 
-**Watch and follow this tutorial**  
+**Watch and follow this tutorial** 
+
+Follow along in Blender and try:
+- Adding an armature: `Shift + A → Armature → Single Bone`
+- Going into Edit Mode to add more bones (`Tab`)
+- Extruding (`E`) to add limbs
+- Switching between **Edit**, **Pose**, and **Object** Modes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdOaUv0_TC8?si=lY-v3eS2EEH05ESC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
