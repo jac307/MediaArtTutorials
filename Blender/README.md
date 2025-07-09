@@ -19,6 +19,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 + 🌆 [Environment Modeling Session](Environment_Modeling_Session.md)
 + 💠 [Materials](Materials.md)
 + 👾 [Character Modeling Session 2](Character_Modeling_Session_2.md)
++ [💡 Lighting & 🎥 Camera](Lighting_Camera.md)
 + 🔤 [Blender Shortcut Reference Guide](Shortcut_Reference_Guide.md)
 
 ---
