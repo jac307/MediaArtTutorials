@@ -25,7 +25,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 ### Wednesday
 
 + 🌆 [Environment Modeling Session](7_Environment_Modeling_Session.md)
-+ 💠 [Materials](8_Materials.md)
++ 💠 [Materials](8_Intro_to_Materials.md)
 + 👾 [Character Modeling Session 2](9_Character_Modeling_Session_2.md)
 
 ### Thursday
