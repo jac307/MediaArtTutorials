@@ -2,13 +2,13 @@
 
 -------------------------------------------------------------------------------
 
-# 💡 Lighting & Camera  
+# 💡 Lighting & 🎥 Camera  
 **Time:** 1 hour
 
 ---
 
 ## 🎯 Objective  
-Use lights and materials to bring your scene to life. Create atmosphere and emotion using color, surface texture, and light.
+Use 
 
 ---
 
