@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# 👾 Character Modeling: More references and ways to character model in Blender
+# 👾 Character Modeling: More References and Ways to Model in Blender
 
 ---
 
