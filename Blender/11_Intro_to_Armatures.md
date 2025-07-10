@@ -58,8 +58,9 @@ Follow along in Blender and try:
 
 🦴 **Add an Armature**
 - `Shift + A → Armature → Single Bone`
-- Enter **Edit Mode** (`Tab`) to build your skeleton
-- Use `E` to extrude more bones (arms, legs, spine, etc.)
+- Enter **Edit Mode** (`Tab`) to build your skeleton --use wireframeview
+- Select one end of the Bone, then use `E` to extrude more bones
+- Follow the tutorial to learn how to link your object to your armature and go into **Pose Mode**
 
 Think about the shape of your character:
 - Robot or blocky? You may only need a few bones.
