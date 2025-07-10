@@ -63,8 +63,4 @@ Apply each type of movement directly in your scene and export a tiny preview (Re
 
 ---
 
-## ➕ **Extra**  
-If you have extra time, try experimenting with object animation!  
-Follow the tutorial below in a **separate Blender file** so you don’t affect your main project.
-
 
