@@ -44,10 +44,33 @@ Watch and **apply** this basic camera animation in your own scene, then export i
 
 ---
 
+## Experiment 
+
+Try adding these kinds of motion to your scene:
+- 🎥 **Zoom In**: Move the camera closer over time    
+- 👀 **Pan**: Move the camera side to side or up and down
+
+Each animation should have its **own camera**.  
+- To add a new one: `Shift + A → Camera`  
+- Hide any previous ones in the **Outliner** (click the 👁️ icon)
+
+💾 **Render each preview** as a short clip (`Render → Render Animation`) and save it with a clear filename like:  
+`YourName_CamOrbit.mp4`, `YourName_CamZoom.mp4`, etc.
+
+---
+
 ## Learn more camera animation techniques
 
-Apply each type of movement directly in your scene and export a tiny preview (Render → Animation).
+Follow these video tutorials to learn the basics of camera animation in Blender.  
+For each tutorial:
+1. Watch the video and follow the steps in **your own scene**.
+2. Add a new camera for each animated movement.
+3. **Hide any unused cameras** by clicking the eye icon in the Outliner.
+4. Export a small preview:  
+   - `Render → Render Animation`  
+   - Save as a short `.mp4` file to review your work.
 
+### Tutorials to Try
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0N8ucYi_eOM?si=ZJ5m3vK-7rz5cdKo&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a7qyW1G350g?si=ee1ydymaHqnuWUcx&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
