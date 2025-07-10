@@ -46,13 +46,13 @@ Watch and **apply** this basic camera animation in your own scene, then export i
 
 ## Learn more camera animation techniques
 
-For each video, **recreate the movement using keyframes**, then render a short preview (5–10 sec).
+Apply each type of movement directly in your scene and export a tiny preview (Render → Animation).
 
-### **Smooth Orbit Around Object**: Rotate the camera around your character
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0N8ucYi_eOM?si=ZJ5m3vK-7rz5cdKo&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oR52jcMdQBQ?si=prmydtb4PLVSJWF0&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a7qyW1G350g?si=ee1ydymaHqnuWUcx&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> ✅ Apply each type of movement directly in your scene and export a tiny preview (Render → Animation).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COwENnPwWJ8?si=8K7O_RORWteJp_7B&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
