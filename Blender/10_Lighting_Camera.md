@@ -114,6 +114,8 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sDZ0zRVn1M?si=itt5NR0yr4NRvYTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fTVED78bnio?si=3UclY175KnzWIcY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Learn how to have two views at the same time
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Q_-R4UjtB8?si=8iqCxJ6WnJLAWzXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
