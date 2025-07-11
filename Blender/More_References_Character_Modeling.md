@@ -37,3 +37,5 @@ A sculpting-based workflow that starts with a simple shape and pushes it into fo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lxem4yMs5Dg?si=6bSJvoX63ijdHWy5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CBJp82tlR3M?si=2zG-vW9GZdyLETNL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
