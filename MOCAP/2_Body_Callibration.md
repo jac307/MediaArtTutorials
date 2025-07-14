@@ -32,26 +32,61 @@
 ### 2. Enter Posture Calibration
 - Click on the T-Pose Human Icon on the right panel.
 - Enable **T-Pose**, **W (Beta)**, and **P-Pose**.
-- Click **Start**.
 
 ![Light Scenes](images/body_callibration_1.png)
 
 ---
 
-### 2. Enter Neutral T-Pose
-- Stand upright with **feet shoulder-width apart**.
+### 2. 🎯 Start Calibration
+- Click **Start Calibration** and follow the instructions.
+- ⏱️ The calibration will run for a few seconds. Avoid movement during this step.
+
+---
+
+#### T-Pose
+- Stand upright with **feet and knees close together**.
 - Extend arms out horizontally to the sides (like a T).
 - Keep head forward, knees slightly relaxed, and hands flat.
 - Stand still during the process.
 
+![Light Scenes](images/body_callibration_2.png)
+
 ---
 
-### 3. 🎯 Start Calibration
-- In Axis Studio, navigate to the **Calibration Panel**.
-- Select **Body Calibration** or **T-pose Calibration**.
-- Click **Start Calibration**.
+#### A-Pose
+- Stand upright with **feet and knees close together**.
+- Lower your hand and place them next to your body.
+- Keep head forward, knees slightly relaxed, and hands flat facing your body.
+- Stand still during the process.
 
-> ⏱️ The calibration will run for a few seconds. Avoid movement during this step.
+![Light Scenes](images/body_callibration_3.png)
+
+---
+
+#### W (Beta)
+- Keet A-Pose and do NOT move during the countdown.
+- Start walking AFTER the the process bar starts to record.
+- You must walk straight six steps (3 meters), in the same direction as A-Pose.
+- Walk calmly and in a gentle pace, do not jump or run.
+
+![Light Scenes](images/body_callibration_4.png)
+
+---
+
+#### B
+- Keep your hands clasped in front of your body, fingers parallel to the ground, and the angle between thumb and fingers is about 45 degrees.
+- AFTER the the process bar starts to record: take the elbow as the axis, keep the palms closed, and swing the forearm up sunchronously with the hand for about 70 degrees and then stand still.
+
+![Light Scenes](images/body_callibration_6.png)
+
+---
+
+#### P-Pose
+- Keep your the tips of the thumb and index finger touch, forming a circular “OK” shape.
+- The other fingers are relaxed and slightly curved.
+- Both hands mirror this gesture.
+
+![Light Scenes](images/body_callibration_7.png)
 
 ---
 
