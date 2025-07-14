@@ -23,6 +23,7 @@ In this series of tutorials, you will learn how to **record your own movements u
 
 ### Monday
 
++ ⚙️ [PN3 QuickStart Guide](1_QuickStart_Neuron3_Guide.md)
 + 🧍‍♂️ / 🧍‍♀️ [Posture Calibration in Axis Studio](2_Body_Callibration.md)
 
 ---
