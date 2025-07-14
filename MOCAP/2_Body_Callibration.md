@@ -2,11 +2,11 @@
 
 -------------------------------------------------------------------------------
 
-# 🧍‍♂️ Perception Neuron 3 (PN3) – Posture Calibration in Axis Studio
+# 🧍‍♂️ Posture Calibration in Axis Studio
 
 ---
 
-## 🔍 What is Body Calibration?
+## 🤔 What is Body Calibration?
 
 **Body calibration** is the process of aligning the motion capture system with the performer’s body to ensure accurate tracking. It creates a digital skeleton that reflects individual body proportions and neutral posture. Accurate calibration is essential for reliable movement capture and clean animation data.
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 1. 🔗 Launch & Connect
+### 1. Launch & Connect
 - Open **Axis Studio**.
 - Go to the **Device** tab.
 - Confirm that the **Hub** and **all sensors (typically 18)** show green status.
@@ -29,7 +29,7 @@
 
 ---
 
-### 2. 🧍‍♂️ Enter Posture Calibration
+### 2. Enter Posture Calibration
 - Click the **T-Pose icon** on the right-side toolbar to open the Posture Calibration panel.
 - Enable the relevant posture types: **T-Pose**, **W (Beta)**, and **P-Pose**.
 
@@ -37,13 +37,13 @@
 
 ---
 
-### 3. 🎯 Start Calibration
+### 3. Start Calibration
 - Click **Start Calibration** and follow the on-screen instructions.
 - ⏱️ The calibration will run for a few seconds. Remain completely still during this time.
 
 ---
 
-## 🧩 Calibration Poses Explained
+## Calibration Poses Explained
 
 Each posture calibrates a specific aspect of the body tracking system. Perform each pose exactly as described:
 
@@ -98,21 +98,20 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 
 ---
 
-### 4. ✅ Confirm Calibration
+### 4. Confirm Calibration
 - After calibration, a **success message** will appear.
 - Check that the **virtual avatar mirrors your movements** smoothly.
 - If limbs or posture look off, **repeat the calibration** or recheck sensor placement.
 
 ---
 
-### 5. 🧪 Test Motion
+### 5. Test Motion
 - Perform a walk cycle or arm gestures to validate tracking accuracy.
 - Ensure no drift, snapping, or jittering occurs.
 
 ---
 
-## 📝 Tips
+## 💡 Tips
 - **Recalibrate** whenever sensors shift or tracking becomes inaccurate.
-- Use **secure, snug-fitting straps** for consistent readings.
 - **Each user must calibrate separately** for personalized skeleton tracking.
 
