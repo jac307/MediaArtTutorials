@@ -43,7 +43,7 @@ The system will automatically run the following diagnostics:
 - All sensors must show as **Connected**
 - Click **Finish**
 
-![Sensor Check](setup_2.png)
+![Sensor Check](images/setup_2.png)
 
 ### Tutorial
 
@@ -63,7 +63,7 @@ Key sensor locations:
 - **Feet, arms, and wrists** – Follow strap guides for symmetrical placement
 
 *Sensor Placement Reference:*  
-![Sensor Wear](setup_1.png)
+![Sensor Wear](images/setup_1.png)
 
 ### 🧠 How Sensors Work
 Each PN3 sensor uses an **inertial measurement unit (IMU)** to track movement through acceleration, rotation, and orientation.  
