@@ -23,6 +23,8 @@
 > Open **Axis Studio → Capturing Tab → Sensor Check** Panel  
 > Follow the on-screen instructions
 
+![Sensor Check](images/setup_2.png)
+
 ### 🔌 Turn On Sensors
 Choose one method, then click **Next**:
 - **Manual**: Hold the power button on the hub for 2 seconds  
@@ -43,8 +45,6 @@ The system will automatically run the following diagnostics:
 - All sensors must show as **Connected**
 - Click **Finish**
 
-![Sensor Check](images/setup_2.png)
-
 ### Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yB58PIHUVw?si=XxTpHW7UXU7YPR9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -56,14 +56,13 @@ The system will automatically run the following diagnostics:
 ### 🟢 Proper Sensor Placement  
 > Use the [PN Studio] tab in Axis Studio for reference.
 
+![Sensor Wear](images/setup_1.png)
+
 Key sensor locations:
 - **[1] Shoulders** – Attach to the **upper back** of each shoulder  
 - **[2] Hip** – Place firmly on the **back of your pelvis**, not lower back  
 - **[3] Upper Legs** – Attach on the **outside of each thigh**, not the front  
 - **Feet, arms, and wrists** – Follow strap guides for symmetrical placement
-
-*Sensor Placement Reference:*  
-![Sensor Wear](images/setup_1.png)
 
 ### 🧠 How Sensors Work
 Each PN3 sensor uses an **inertial measurement unit (IMU)** to track movement through acceleration, rotation, and orientation.  
