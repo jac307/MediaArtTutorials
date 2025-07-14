@@ -20,7 +20,7 @@
 
 ## Step 1: Sensor Check
 
-> Open **Axis Studio → Sensor Check** Panel  
+> Open **Axis Studio → Capturing Tab → Sensor Check** Panel  
 > Follow the on-screen instructions
 
 ### 🔌 Turn On Sensors
