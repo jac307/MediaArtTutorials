@@ -19,6 +19,14 @@ In this series of tutorials, you will learn how to **record your own movements u
 
 ---
 
+## Index
+
+### Monday
+
++ 🧍‍♂️ / 🧍‍♀️ [Posture Calibration in Axis Studio](MOCAP/2_Body_Callibration.md)
+
+---
+
 ## 🎥 What is Motion Capture?
 
 **Motion capture (or mocap)** is a technology that records the movement of real-world bodies—typically human performers—and translates that movement into digital data. This data is then applied to virtual characters or objects, allowing them to move in realistic or stylized ways. You can use it in:
