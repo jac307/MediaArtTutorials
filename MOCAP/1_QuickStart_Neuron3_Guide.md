@@ -18,7 +18,7 @@
 
 ---
 
-## 📡 Step 1: Sensor Check
+## Step 1: Sensor Check
 
 > Open **Axis Studio → Sensor Check** Panel  
 > Follow the on-screen instructions
@@ -62,7 +62,7 @@ Key sensor locations:
 - **[3] Upper Legs** – Attach on the **outside of each thigh**, not the front  
 - **Feet, arms, and wrists** – Follow strap guides for symmetrical placement
 
-📸 *Sensor Placement Reference:*  
+*Sensor Placement Reference:*  
 ![Sensor Wear](setup_1.png)
 
 ### 🧠 How Sensors Work
@@ -71,7 +71,9 @@ The hub **receives data wirelessly** from each sensor and streams it to Axis Stu
 
 ---
 
-Let me know if you’d like to continue with:
-- **Step 3: Posture Calibration**
-- Export to PDF or `.md` file
-- Add a **“Troubleshooting”** or **“Common Errors”** section
+## Step 3: Posture Calibration
+
+Follow the instructions in [🧍‍♂️ Posture Calibration in Axis Studio](2_Body_Callibration.md) to complete body alignment before recording.
+
+---
+
