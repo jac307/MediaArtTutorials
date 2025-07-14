@@ -45,6 +45,10 @@ The system will automatically run the following diagnostics:
 
 ![Sensor Check](setup_2.png)
 
+### Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8yB58PIHUVw?si=XxTpHW7UXU7YPR9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 🧍 Step 2: Wear the Sensors
