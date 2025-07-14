@@ -19,6 +19,10 @@
 - Connect the **Hub** via USB and confirm it’s recognized by your computer.
 - Launch **Axis Studio** and verify that your **Perception Neuron 3 profile** is active.
 
+### 💡 Tips
+- **Recalibrate** whenever sensors shift or tracking becomes inaccurate.
+- **Each user must calibrate separately** for personalized skeleton tracking.
+
 ---
 
 ### 1. Launch & Connect
@@ -110,8 +114,4 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 - Ensure no drift, snapping, or jittering occurs.
 
 ---
-
-## 💡 Tips
-- **Recalibrate** whenever sensors shift or tracking becomes inaccurate.
-- **Each user must calibrate separately** for personalized skeleton tracking.
 
