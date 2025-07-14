@@ -23,7 +23,7 @@ In this series of tutorials, you will learn how to **record your own movements u
 
 ### Monday
 
-+ 🧍‍♂️ / 🧍‍♀️ [Posture Calibration in Axis Studio](MOCAP/2_Body_Callibration.md)
++ 🧍‍♂️ / 🧍‍♀️ [Posture Calibration in Axis Studio](2_Body_Callibration.md)
 
 ---
 
