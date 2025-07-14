@@ -4,81 +4,68 @@
 
 # 🧱 Body Callibration
 
-**Activity**: Interface, Navigation & Object Manipulation
+# 🎯 Mocap QuickStart Guide  
+## Perception Neuron 3 (PN3) – Body Calibration in Axis Studio
 
 ---
 
-## Blender Basics
+### 🔍 What is Body Calibration?
 
-1. **Open Blender**
-2. Start with the default cube – that’s your first object!
-
-### Understanding the X, Y, Z Axes in Blender
-
-Blender’s 3D space is built around three axes that define direction and position:
-
-- **X Axis (Red)** → Left ↔ Right  
-- **Y Axis (Green)** → Front ↔ Back  
-- **Z Axis (Blue)** → Up ↕ Down  
-
-Each axis helps you move, rotate, or scale objects with precision.
-
-![X, Y, and Z axis graph](axis.png)
-
+**Body calibration** is the process of aligning the motion capture system with the user’s physical body to ensure accurate tracking. During calibration, the software creates a digital skeleton that matches the performer’s proportions and posture, enabling clean motion data. It’s a crucial first step before recording or streaming mocap data.
 
 ---
 
-## Navigation in 3D View
+## 🛠️ Setup & Calibration Steps in Axis Studio
 
-| **Action**              | **Mouse / Shortcut**             |
-|-------------------------|----------------------------------|
-| Orbit / Rotate View     | Middle Mouse Button (MMB)        |
-| Pan View                | Shift + MMB                      |
-| Zoom                    | Scroll Wheel                     |
-
-
-➡️ **MMB = Middle Mouse Button**
-
-![Mouse](mouse.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tH46sGwAFfo?si=1z2mItpdBhTSKV27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### ✅ Before You Begin
+- Ensure all **sensors are charged**, paired, and properly attached to the **PN3 suit/straps**.
+- Connect the **Hub** via USB and confirm it’s recognized by the computer.
+- Launch **Axis Studio** and verify that your **Perception Neuron 3 profile** is loaded.
 
 ---
 
-## Basic Object Controls
-
-| **Action**          | **Shortcut**        | **Description**                                         |
-|---------------------|---------------------|---------------------------------------------------------|
-| Select              | Left Click          | Select objects                                          |
-| Move                | G                   | Grab/move object                                        |
-| Rotate              | R                   | Rotate object                                           |
-| Scale               | S                   | Resize object                                           |
-| Confirm / Cancel    | Left Click / Esc    | Finalize or cancel the action                           |
-| New Mesh            | Shift + A           | Add a new mesh: plane, cube, cylinder, sphere…         |
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ENzqrkOGIRI?si=AzE8ZBnQEYlxLeh0&amp;start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8sg0nHNTTo?si=NoV9u0vGHYeP7CB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+### 1. 🧍 Launch & Connect
+- Open **Axis Studio**.
+- Go to the **Device** tab.
+- Confirm the **Hub** and **all sensors (18 for PN3 full-body)** are online (green lights).
+- Click **Connect** if not already connected.
 
 ---
 
-## Practice Activity
-
-Try these three things in Blender:
-
-- ✅ Move your cube above the ground  
-- ✅ Scale your cube to make it bigger  
-- ✅ Rotate your cube  
-- ✅ Add a new mesh. Move, scale, and rotate the new mesh  
-
-**Save your file**:  
-Go to **Top Menu** → **File** → **Save** (your file will be saved as `.blend`)
+### 2. 🧍‍♂️ Enter Neutral T-Pose
+- Stand upright with **feet shoulder-width apart**.
+- Extend arms out horizontally to the sides (like a T).
+- Keep head forward, knees slightly relaxed, and hands flat.
+- Stand still during the process.
 
 ---
 
-## 📝 Reflection
+### 3. 🎯 Start Calibration
+- In Axis Studio, navigate to the **Calibration Panel**.
+- Select **Body Calibration** or **T-pose Calibration**.
+- Click **Start Calibration**.
 
-- How does it feel to move in a 3D space?  
-- What’s harder—navigating the view or moving objects?
+> ⏱️ The calibration will run for a few seconds. Avoid movement during this step.
+
+---
+
+### 4. ✅ Confirm Calibration
+- Once finished, Axis Studio will show a **success notification**.
+- You’ll see the virtual avatar match your body posture in real time.
+- If the avatar looks distorted or offset, **repeat the calibration** or adjust sensor positions.
+
+---
+
+### 5. 🧪 Test Motion
+- Walk around or perform a few simple gestures.
+- Confirm that movements are tracking smoothly and accurately.
+
+---
+
+## 📝 Tips
+- **Recalibrate** anytime sensors are moved or tracking appears off.
+- Use **tight straps** and correct **sensor placement** for best results.
+- If you're using multiple users, calibrate for **each individual body**.
+
+---
+
