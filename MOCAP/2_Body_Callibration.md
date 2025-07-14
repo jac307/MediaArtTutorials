@@ -2,14 +2,11 @@
 
 -------------------------------------------------------------------------------
 
-# 🧱 Body Callibration
-
-# 🎯 Mocap QuickStart Guide  
-## Perception Neuron 3 (PN3) – Body Calibration in Axis Studio
+# 🧍🧍‍♂️ Perception Neuron 3 (PN3) – Posture Calibration in Axis Studio
 
 ---
 
-### 🔍 What is Body Calibration?
+## 🔍 What is Body Calibration?
 
 **Body calibration** is the process of aligning the motion capture system with the user’s physical body to ensure accurate tracking. During calibration, the software creates a digital skeleton that matches the performer’s proportions and posture, enabling clean motion data. It’s a crucial first step before recording or streaming mocap data.
 
@@ -17,14 +14,14 @@
 
 ## 🛠️ Setup & Calibration Steps in Axis Studio
 
-### ✅ Before You Begin
+### Before You Begin
 - Ensure all **sensors are charged**, paired, and properly attached to the **PN3 suit/straps**.
 - Connect the **Hub** via USB and confirm it’s recognized by the computer.
 - Launch **Axis Studio** and verify that your **Perception Neuron 3 profile** is loaded.
 
 ---
 
-### 1. 🧍 Launch & Connect
+### 1.  Launch & Connect
 - Open **Axis Studio**.
 - Go to the **Device** tab.
 - Confirm the **Hub** and **all sensors (18 for PN3 full-body)** are online (green lights).
@@ -32,7 +29,16 @@
 
 ---
 
-### 2. 🧍‍♂️ Enter Neutral T-Pose
+### 2. Enter Posture Calibration
+- Click on the T-Pose Human Icon on the right panel.
+- Enable **T-Pose**, **W (Beta)**, and **P-Pose**.
+- Click **Start**.
+
+![Light Scenes](images/body_callibration_1.png)
+
+---
+
+### 2. Enter Neutral T-Pose
 - Stand upright with **feet shoulder-width apart**.
 - Extend arms out horizontally to the sides (like a T).
 - Keep head forward, knees slightly relaxed, and hands flat.
