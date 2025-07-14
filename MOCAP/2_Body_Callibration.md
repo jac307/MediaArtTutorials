@@ -115,3 +115,9 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 
 ---
 
+## Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdryfjN8pvs?si=ANNxJWdKtMohntUB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
