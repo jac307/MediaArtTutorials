@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# 🧍‍♂️ Posture Calibration in Axis Studio
+# 🧍‍♂️ / 🧍‍♀️ Posture Calibration in Axis Studio
 
 ---
 
