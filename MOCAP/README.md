@@ -29,6 +29,7 @@ In this series of tutorials, you will learn how to **record your own movements u
 ### Tuesday
 
 + 🎥 [Intro to Record & Export Motion Data in Axis Studio](3_Recording_And_Exporting.md)
++ 🌀 [Re-targeting Movements in Blender](4_Retargeting_Blender.md)
 
 
 ---
