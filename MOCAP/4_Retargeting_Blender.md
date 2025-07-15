@@ -28,13 +28,13 @@ This method works best when you want to manually align BVH motion to a static me
 
 ### Step-by-Step Instructions
 
-1. **Import Your Character Mesh**  
+#### 1. **Import Your Character Mesh**  
    - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
    - Make sure your model **does not include an armature**
   
 ![Sensor Check](images/import-mocap-1.png)
 
-2. **Import Your BVH File**  
+#### 2. **Import Your BVH File**  
    - Go to `File → Import → Motion Capture (.bvh)`  
    - Select your `.bvh` file  
    - Before importing: In the **Transform** panel on the right, set the **Scale** to `0.1`  
@@ -43,14 +43,14 @@ This method works best when you want to manually align BVH motion to a static me
 
 ![Sensor Check](images/import-mocap-2.png)
 
-3. **Align BVH Scale with Character**  
+#### 3. **Align BVH Scale with Character**  
    - Your mocap character may appear larger/smaller than your mesh  
    - Use **`S` (scale)** on the **BVH armature only** (Object Mode)  
    - Do **not scale the armature in Edit Mode** or using non-uniform transforms
 
 ![Sensor Check](images/import-mocap-3.png)
 
-4. **Match Bone Positions**  
+#### 4. **Match Bone Positions**  
    - Select the **BVH armature**  
    - Enter **Edit Mode**  
    - Move and adjust bones so they **visually align with your character’s mesh**  
@@ -58,7 +58,7 @@ This method works best when you want to manually align BVH motion to a static me
 
 ![Sensor Check](images/import-mocap-4.png)
 
-5. **Parent the Mesh**  
+#### 5. **Parent the Mesh**  
    - To apply the BVH armature to your mesh, select the **mesh first**, then **Shift+click the armature**  
    - Press `Ctrl+P` and choose **With Automatic Weights**  
    - **Note**: This works best if your mesh is **roughly aligned** with the armature  
@@ -66,13 +66,13 @@ This method works best when you want to manually align BVH motion to a static me
 
 ![Sensor Check](images/import-mocap-5.png)
 
-6. **Play the Timeline**  
+#### 6. **Play the Timeline**  
    - Press `Spacebar` or drag the timeline to preview the movement  
    - Your BVH skeleton should animate based on the captured motion
   
 ![Sensor Check](images/import-mocap-6.png)
 
-7. **Export short video**  
+#### 7. **Export short video**  
    - Go to the **Output Properties** tab (printer icon in the Properties Panel).
    - Set the **frame range** to max 1-500.
    - Under **Output**, choose a location to save and set the file format to `FFmpeg video`.
