@@ -67,3 +67,20 @@
 | **Rotate Bone**            | `R`                                       | Rotate bones for posing                                         |
 
 ---
+
+## 🕹️ Animation Basics
+
+| **Action**               | **Shortcut / Location**                  | **Purpose / Use**                                              |
+|--------------------------|-------------------------------------------|----------------------------------------------------------------|
+| **Set Keyframe**         | `I` (in 3D Viewport)                     | Insert keyframes for location, rotation, scale, or all         |
+| **Play / Pause**         | `Spacebar`                               | Play or pause the animation in the timeline                    |
+| **Move to Next Frame**   | `Right Arrow`                            | Advance one frame forward                                      |
+| **Move to Previous Frame**| `Left Arrow`                            | Go back one frame                                              |
+| **Timeline Panel**       | Bottom of interface                      | View and manage keyframes and playback                         |
+| **Dope Sheet**           | Editor Type Dropdown → Dope Sheet        | See and adjust keyframe timing and spacing                     |
+| **Graph Editor**         | Editor Type Dropdown → Graph Editor      | Fine-tune animation curves (e.g. ease in/out)                  |
+| **Delete Keyframe**      | `Alt + I`                                | Remove keyframe from selected property                         |
+| **Render Animation**     | `Ctrl + F12` or `Render → Render Animation` | Export animation to video                                    |
+| **Save File**            | `File → Save As`                         | Save your Blender project file                                 |
+
+---
