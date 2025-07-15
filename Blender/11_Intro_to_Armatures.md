@@ -2,14 +2,20 @@
 
 ---
 
-# 🦴 Intro to Armatures
+# 🦴 Intro to Armatures (Rigging)
 **Time:** 1 hour
 
 ---
 
 ## 🎯 Objective  
 
-**Goal**: Add bones (armatures) to your character, pose them, and create expressive still shots using camera and lighting.
+**Goal**: Rig your character by adding an armature (bones) to your character, pose them, and create expressive still shots using camera and lighting.
+
+## 🦴 What is Rigging?
+
+**Rigging** is the process of creating a digital skeleton (called an *armature*) for a 3D model so it can move. Each "bone" in the armature controls part of the model, allowing artists to pose and animate characters or objects. Rigging connects the static mesh to this bone structure using *weight painting*, which determines how much each bone influences nearby parts of the model. It's a key step for bringing 3D characters to life in animation and games.
+
+---
 
 ## 🔧 Tools You’ll Use
 
