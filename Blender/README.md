@@ -38,6 +38,7 @@ Blender is a powerful, free, and open-source 3D creation suite used by artists, 
 
 + 🔤 [Blender Shortcut Reference Guide](0_Shortcut_Reference_Guide.md)
 + 👾 [Character Modeling: More References and Ways to Model in Blender](More_References_Character_Modeling.md)
++ 🕹️ [Mesh Animation Basics](13_Mesh_Animation_Basics.md)
 
 ---
 
