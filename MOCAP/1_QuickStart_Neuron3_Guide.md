@@ -20,7 +20,8 @@
 
 ## Step 1: Check Everything is Connected
 
-> In **Axis Studio**, go to the **Capturing** tab → **Sensor Check** panel.  
+> Open **Axis Studio** and **Create New Project**. 
+> Go to the **Capturing** tab → **Sensor Check** panel.  
 > Make sure the device shows as **Connected** and all sensors are online.
 
 ![Sensor Check](images/setup_0.png)
@@ -74,6 +75,11 @@ Key sensor locations:
 ### 🧠 How Sensors Work
 Each PN3 sensor uses an **inertial measurement unit (IMU)** to track movement through acceleration, rotation, and orientation.  
 The hub **receives data wirelessly** from each sensor and streams it to Axis Studio in real time for live motion tracking.
+
+> Click **Next** and follow the instructions to complete the initial general calibration.  
+> This calibration won’t be perfect — you will need to perform a full **Posture Calibration** in **Step 4**.
+
+![Sensor Wear](images/setup_4.png)
 
 ---
 
