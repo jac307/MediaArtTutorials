@@ -22,6 +22,7 @@ Index
 - [Option 3: Retargeting with Auto-Rig Pro – Existing Rig + Remap](#option-3-retargeting-with-auto-rig-pro--existing-rig--remap)
 
 ---
+---
 
 ## Option 1: Manual Retargeting (No Armature on Import)
 
@@ -96,6 +97,7 @@ Then, follow these steps:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=ZCpno06akClY-OWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
 ---
 
 ## Option 2: Retargeting with Auto-Rig Pro – Smart + Remap
@@ -184,6 +186,7 @@ Play the timeline to see your character animated with the mocap data
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHnt-3uLSUo?si=HYVElLSfyM7YldYb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
 ---
 
 ## Option 3: Retargeting with Auto-Rig Pro – Existing Rig + Remap
