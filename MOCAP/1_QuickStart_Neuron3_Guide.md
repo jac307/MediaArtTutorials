@@ -18,9 +18,16 @@
 
 ---
 
-## Step 1: Sensor Check
+## Step 1: Check Everything is Connected
 
-> Open **Axis Studio → Capturing Tab → Sensor Check** Panel  
+> In **Axis Studio**, go to the **Capturing** tab → **Sensor Check** panel.  
+> Make sure the device shows as **Connected** and all sensors are online.
+
+![Sensor Check](images/setup_0.png)
+
+## Step 2: Sensor Check
+
+> **Axis Studio → Capturing Tab → Sensor Check** Panel  
 > Follow the on-screen instructions
 
 ![Sensor Check](images/setup_2.png)
