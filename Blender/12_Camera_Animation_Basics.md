@@ -1,4 +1,4 @@
-# 🧱 Camera Animation Basics  
+# 🕹️ Camera Animation Basics  
 
 **Time:** 1h30m
 
