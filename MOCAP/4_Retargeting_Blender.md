@@ -119,16 +119,19 @@ This option uses the **Auto-Rig Pro** add-on for Blender — a powerful tool des
 First, create a new Blender project and **save the file** as `Character-with-MOCAP-2.blend`.
 Then, follow these steps:
 
-### 1. **Import Your Character Mesh**  
+1. **Import Your Character Mesh**  
    - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
    - Make sure your model **does not include an armature**
 
-### 2. **Watch the video tutorial**  
+2. **Watch the video tutorial**
+   - 🎥 **Follow only the first 10 minutes of the linked tutorial video** to complete the steps below.
+   - The rest of the video covers advanced features that are not required for this exercise.
 
-🎥 **Follow only the first 10 minutes of the linked tutorial video** to complete the steps below.  
-The rest of the video covers advanced features that are not required for this exercise.
+3. **Play the Timeline**  
+   - Press `Spacebar` or scrub through the timeline to preview the animation on your character
 
-### 3. **Play the Timeline** and **Export short video** 
+4. **Export a Short Video**  
+   - Use `Render → Render Animation` to export a short `.mp4` showcasing the result
 
 ---
 
@@ -175,18 +178,55 @@ Play the timeline to see your character animated with the mocap data
 
 ---
 
-## Option 3: Retargeting with Auto-Rig Pro: Existing Rigging + Remap
+## Option 3: Retargeting with Auto-Rig Pro – Existing Rig + Remap
+
+This method is ideal if your character already comes **fully rigged with Auto-Rig Pro**, such as a model you purchased or prepared earlier. Instead of creating a new rig from scratch, you simply **retarget motion capture data onto the existing rig** using Auto-Rig Pro’s **Remap** tool.
+
+This is the fastest workflow if:
+- Your model already has a working Auto-Rig Pro rig
+- You want to test BVH motion on multiple characters quickly
+- You're only interested in applying and previewing motion data
 
 ---
 
 ## Step-by-Step Instructions
 
-First, create a new Blender project and **save the file** as `Character-with-MOCAP-3.blend`.
+First, create a new Blender project and **save the file** as:  
+`Character-with-MOCAP-3.blend`
+
 Then, follow these steps:
 
-1. Import Your Character Mesh **with an armature**
-2. **Watch the video tutorial** 
-3. **Play the Timeline** and **Export short video** 
+1. **Import Your Character Mesh**  
+   - Go to `File → Import → FBX` or open a Blender file that includes your **Auto-Rig Pro rigged character**
+
+2. **Import the BVH File**  
+   - Go to `File → Import → Motion Capture (.bvh)`  
+   - Set **scale to 0.1** in the Transform panel before importing
+
+3. **Use Auto-Rig Pro → Remap**  
+   - Open the **Remap** panel from the Auto-Rig Pro tab  
+   - Set the **BVH Armature** as the **source**  
+   - Set your **existing Auto-Rig Pro rig** as the **target**  
+   - Enable **Auto-Scale**, **Retarget Actions**, and **set the hip bone as Root**
+   - Click **Remap**
+
+⚠️ **Warning**: Before retargeting, make sure your **existing character rig** has:
+- Bone names that **match the BVH armature** (e.g., `hip`, `spine`, `left_arm`)  
+- Adjusted bone positions that align with the **BVH motion structure**
+
+If needed, enter **Edit Mode** on the target armature to rename or reposition bones.
+
+## 💡 Tips
+- If animations look off, check the bone mapping or realign your source and target rigs 
+
+---
+
+4. **Play the Timeline**  
+   - Press `Spacebar` or scrub through the timeline to preview the animation on your character
+
+5. **Export a Short Video**  
+   - Use `Render → Render Animation` to export a short `.mp4` showcasing the result
+
 
 ---
 
