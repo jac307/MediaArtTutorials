@@ -15,6 +15,14 @@
 
 ---
 
+Index
+
+- [Option 1: Manual Retargeting (No Armature on Import)](#option-1-manual-retargeting-no-armature-on-import)
+- [Option 2: Retargeting with Auto-Rig Pro – Smart + Remap](#option-2-retargeting-with-auto-rig-pro--smart--remap)
+- [Option 3: Retargeting with Auto-Rig Pro – Existing Rig + Remap](#option-3-retargeting-with-auto-rig-pro--existing-rig--remap)
+
+---
+
 ## Option 1: Manual Retargeting (No Armature on Import)
 
 This method works best when you want to manually align BVH motion to a static mesh model without pre-existing rig constraints.
