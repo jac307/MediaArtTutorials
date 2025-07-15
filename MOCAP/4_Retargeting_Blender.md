@@ -20,6 +20,7 @@
 This method works best when you want to manually align BVH motion to a static mesh model without pre-existing rig constraints.
 
 ### 💡 Tips
+- Make sure your character is in **T-pose or A-pose** before rigging
 - Avoid scaling bones in **Edit Mode** — this can break animation playback  
 - Use orthographic views (`Numpad 1/3/7`) to check alignment  
 - You can clean up or simplify keyframes using the **Graph Editor**
@@ -89,9 +90,75 @@ Then, follow these steps:
 
 ---
 
-## 🔄 Option 2: [Coming Soon]
+## 🔄 Option 2: Retargeting with Auto-Rig Pro
 
-This section will cover using **Rigify or other rig retargeting systems** for automated bone mapping and constraint setup.
+This option uses the **Auto-Rig Pro** add-on for Blender — a powerful tool designed to simplify rigging, animation retargeting, and character preparation for games or film.
 
+## 💡 Tips
+- Make sure your character is in **T-pose or A-pose** before rigging
+- If joints don’t align properly, you can manually adjust bone mapping in the **Remap** tab
+- Auto-Rig Pro also supports batch retargeting for multiple animations
+
+---
+
+### Install Auto-Rig Pro
+
+**Auto-Rig Pro** is a paid Blender add-on that provides tools for:
+- Creating advanced rigging systems with controllers and constraints
+- Retargeting motion from external sources (like BVH or FBX files)
+- Exporting animations to game engines
+
+➡️ Download and install it from your Blender Preferences:
+- `Edit → Preferences → Add-ons → Install...`
+- Select the `.zip` file, install, and enable **Auto-Rig Pro: Rig Tools**
+
+---
+
+### Step-by-Step Instructions
+
+First, create a new Blender project and **save the file** as `Character-with-MOCAP-2.blend`.
+Then, follow these steps:
+
+#### 1. **Import Your Character Mesh**  
+   - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
+   - Make sure your model **does not include an armature**
+
+### 2. Create a Rig with Auto-Rig Pro: Smart
+
+- Select your **character mesh**  
+- Open the **Auto-Rig Pro → Smart** panel (found in the `N` sidebar under the Auto-Rig tab)
+- Place the rig markers following your character’s anatomy (chin, shoulders, hips, knees, etc.)
+- Click **Go!** to generate a full Auto-Rig Pro armature
+
+🛠️ You can tweak the rig to better fit your model after generation.
+
+### 3. Retarget Using Auto-Rig Pro: Remap
+
+- Go to **Auto-Rig Pro → Remap**
+- Set:
+  - **Source Armature** → your imported **BVH armature**
+  - **Target Armature** → your newly created **Auto-Rig Pro rig**
+
+Then configure the following:
+- Enable **Auto-Scale** to match proportions
+- Check **Retarget Actions** to transfer animation
+- Set **Root Bone** to the **hip** of the source rig (usually `hip` or `Hips`)
+
+Click **Remap** to complete the transfer.
+
+#### 4. **Play the Timeline**  
+   - Press `Spacebar` or drag the timeline to preview the movement  
+   - Your BVH skeleton should animate based on the captured motion
+
+#### 5. **Export short video**  
+   - Go to the **Output Properties** tab (printer icon in the Properties Panel).
+   - Set the **frame range** to max 1-500.
+   - Under **Output**, choose a location to save and set the file format to `FFmpeg video`.
+   - In the **Encoding** section (appears when FFmpeg is selected):
+      - Set **Container** to `MPEG-4`
+      - Set **Video Codec** to `H.264`
+   - Go to **Render → Render Animation** (`Ctrl + F12`).
+   - Once done, your video file will be saved in the selected folder.
+     
 ---
 
