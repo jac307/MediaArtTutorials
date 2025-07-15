@@ -13,20 +13,23 @@
 
 ## 🔧 Tools You’ll Use
 
-| Tool / Feature             | Shortcut / Location                      | Purpose / Use                                                  |
-|---------------------------|------------------------------------------|----------------------------------------------------------------|
-| **New Blender File**       | `File → New → General`                  | Start fresh to practice armatures                              |
-| **Add Armature**           | `Shift + A → Armature → Single Bone`    | Add the first bone to start building skeleton                  |
-| **Edit Mode**              | `Tab`                                   | Switch modes to edit bone structure                            |
-| **Extrude Bone**           | `E`                                     | Extend armature by adding more connected bones                 |
-| **Pose Mode**              | Mode dropdown or `Ctrl + Tab`           | Pose your character by rotating bones                          |
-| **Rotate Bone**            | `R`                                     | Rotate bones for posing                                        |
-| **Render Image**           | `F12`                                   | Render a still image from your scene                           |
-| **Save Render**            | `Image → Save As`                       | Save a still image (.png) from rendered view                   |
-| **Camera + Lighting**      | `Shift + A → Camera / Light`            | Add camera and lights for rendering poses                      |
-| **Viewport Navigation**    | `Scroll`, `MMB`, `Shift + MMB`          | Zoom, rotate, and pan your scene                               |
-| **Bone Tab**               | Properties panel (orange stick icon)    | Adjust and rename bones                                        |
-| **File Save**              | `File → Save As`                        | Save your .blend file with a clear filename                    |
+| **Tool / Feature**         | **Shortcut / Location**                   | **Purpose / Use**                                               |
+|---------------------------|--------------------------------------------|-----------------------------------------------------------------|
+| **New Blender File**       | `File → New → General`                    | Start fresh to practice armatures                               |
+| **Add Armature**           | `Shift + A → Armature → Single Bone`      | Add the first bone to start building a skeleton                 |
+| **Edit Mode**              | `Tab`                                     | Switch to edit bone structure                                   |
+| **Extrude Bone**           | `E`                                       | Extend the armature by adding connected bones                   |
+| **Bone Tab**               | Properties Panel → Bone icon              | Rename and adjust individual bones                              |
+| **Apply Armature Modifier**| Properties Panel → Modifiers tab          | Apply armature to the mesh (after parenting)                    |
+| **Parent to Armature**     | Select mesh, then armature → `Ctrl + P` → With Automatic Weights | Bind the mesh to the skeleton                                   |
+| **Weight Paint Mode**      | Select mesh → Mode dropdown → Weight Paint| Adjust how bones influence parts of the mesh                    |
+| **Pose Mode**              | Select armature → Mode dropdown or `Ctrl + Tab` | Pose your character by rotating bones                    |
+| **Rotate Bone**            | `R`                                       | Rotate bones for posing                                         |
+| **Viewport Navigation**    | `Scroll`, `MMB`, `Shift + MMB`            | Zoom, rotate, and pan your scene                                |
+| **Camera + Lighting**      | `Shift + A → Camera / Light`              | Add camera and lights for rendering poses                       |
+| **Render Image**           | `F12`                                     | Render a still image from your scene                            |
+| **Save Render**            | `Image → Save As` (in Render window)      | Save a .png or .jpg from the rendered image                     |
+| **File Save**              | `File → Save As`                          | Save your .blend file with a clear name                         |
 
 
 ---
