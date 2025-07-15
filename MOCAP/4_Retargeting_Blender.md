@@ -101,7 +101,7 @@ This option uses the **Auto-Rig Pro** add-on for Blender — a powerful tool des
 
 ---
 
-### Install Auto-Rig Pro
+## Install Auto-Rig Pro
 
 **Auto-Rig Pro** is a paid Blender add-on that provides tools for:
 - Creating advanced rigging systems with controllers and constraints
@@ -114,16 +114,27 @@ This option uses the **Auto-Rig Pro** add-on for Blender — a powerful tool des
 
 ---
 
-### Step-by-Step Instructions
+## Step-by-Step Instructions
 
 First, create a new Blender project and **save the file** as `Character-with-MOCAP-2.blend`.
 Then, follow these steps:
 
-#### 1. **Import Your Character Mesh**  
+### 1. **Import Your Character Mesh**  
    - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
    - Make sure your model **does not include an armature**
 
-### 2. Create a Rig with Auto-Rig Pro: Smart
+### 2. **Watch the video tutorial**  
+
+🎥 **Follow only the first 10 minutes of the linked tutorial video** to complete the steps below.  
+The rest of the video covers advanced features that are not required for this exercise.
+
+### 3. **Play the Timeline** and **Export short video** 
+
+---
+
+## Overview of the process
+
+### Create a Rig with Auto-Rig Pro: Smart
 
 - Select your **character mesh**  
 - Open the **Auto-Rig Pro → Smart** panel (found in the `N` sidebar under the Auto-Rig tab)
@@ -132,7 +143,9 @@ Then, follow these steps:
 
 🛠️ You can tweak the rig to better fit your model after generation.
 
-### 3. Retarget Using Auto-Rig Pro: Remap
+![Sensor Check](images/import-mocap-7.png)
+
+### Retarget Using Auto-Rig Pro: Remap
 
 - Go to **Auto-Rig Pro → Remap**
 - Set:
@@ -146,19 +159,19 @@ Then configure the following:
 
 Click **Remap** to complete the transfer.
 
-#### 4. **Play the Timeline**  
-   - Press `Spacebar` or drag the timeline to preview the movement  
-   - Your BVH skeleton should animate based on the captured motion
+![Sensor Check](images/import-mocap-8.png)
 
-#### 5. **Export short video**  
-   - Go to the **Output Properties** tab (printer icon in the Properties Panel).
-   - Set the **frame range** to max 1-500.
-   - Under **Output**, choose a location to save and set the file format to `FFmpeg video`.
-   - In the **Encoding** section (appears when FFmpeg is selected):
-      - Set **Container** to `MPEG-4`
-      - Set **Video Codec** to `H.264`
-   - Go to **Render → Render Animation** (`Ctrl + F12`).
-   - Once done, your video file will be saved in the selected folder.
+### Preview & Adjust
+
+Play the timeline to see your character animated with the mocap data
+
+![Sensor Check](images/import-mocap-10.png)
      
+---
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHnt-3uLSUo?si=HYVElLSfyM7YldYb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
