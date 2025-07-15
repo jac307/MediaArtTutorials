@@ -58,7 +58,7 @@ The system will automatically run the following diagnostics:
 
 ---
 
-## 🧍 Step 2: Wear the Sensors
+## 🧍 Step 3: Wear the Sensors
 
 ### 🟢 Proper Sensor Placement  
 > Use the [PN Studio] tab in Axis Studio for reference.
@@ -77,7 +77,7 @@ The hub **receives data wirelessly** from each sensor and streams it to Axis Stu
 
 ---
 
-## Step 3: Posture Calibration
+## Step 4: Posture Calibration
 
 Follow the instructions in [🧍‍♂️ Posture Calibration in Axis Studio](2_Body_Callibration.md) to complete body alignment before recording.
 
