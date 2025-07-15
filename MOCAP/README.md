@@ -26,6 +26,11 @@ In this series of tutorials, you will learn how to **record your own movements u
 + ⚙️ [PN3 QuickStart Guide](1_QuickStart_Neuron3_Guide.md)
 + 🧍‍♂️ / 🧍‍♀️ [Posture Calibration in Axis Studio](2_Body_Callibration.md)
 
+### Tuesday
+
++ 🎥 [Intro to Record & Export Motion Data in Axis Studio](3_Recording_And_Exporting.md)
+
+
 ---
 
 ## 🎥 What is Motion Capture?
