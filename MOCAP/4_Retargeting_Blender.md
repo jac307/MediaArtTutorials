@@ -59,14 +59,30 @@ This method works best when you want to manually align BVH motion to a static me
 ![Sensor Check](images/import-mocap-4)
 
 5. **Parent the Mesh**  
-   - If desired, use modifiers or parenting (`Ctrl+P → With Automatic Weights`)  
-   - Note: This works only if the character mesh is roughly aligned and weight-painted
+   - To apply the BVH armature to your mesh, select the **mesh first**, then **Shift+click the armature**  
+   - Press `Ctrl+P` and choose **With Automatic Weights**  
+   - **Note**: This works best if your mesh is **roughly aligned** with the armature  
+   - **Tip**: Use **Weight Paint mode** to fine-tune how bones influence the mesh if deformations look incorrect
 
-![Sensor Check](images/import-mocap-4)
+![Sensor Check](images/import-mocap-5)
 
 6. **Play the Timeline**  
    - Press `Spacebar` or drag the timeline to preview the movement  
    - Your BVH skeleton should animate based on the captured motion
+  
+![Sensor Check](images/import-mocap-6)
+
+7. **Export short video**  
+   - Go to the **Output Properties** tab (printer icon in the Properties Panel).
+   - Set the **frame range** to max 1-500.
+   - Under **Output**, choose a location to save and set the file format to `FFmpeg video`.
+   - In the **Encoding** section (appears when FFmpeg is selected):
+      - Set **Container** to `MPEG-4`
+      - Set **Video Codec** to `H.264`
+   - Go to **Render → Render Animation** (`Ctrl + F12`).
+   - Once done, your video file will be saved in the selected folder.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=ZCpno06akClY-OWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
