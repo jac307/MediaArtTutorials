@@ -51,3 +51,19 @@
 | Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
 
 ---
+
+## 🧰 Rigging
+
+| **Tool / Feature**         | **Shortcut / Location**                   | **Purpose / Use**                                               |
+|---------------------------|--------------------------------------------|-----------------------------------------------------------------|
+| **Add Armature**           | `Shift + A → Armature → Single Bone`      | Add the first bone to start building a skeleton                 |
+| **Edit Mode**              | `Tab`                                     | Switch to edit bone structure                                   |
+| **Extrude Bone**           | `E`                                       | Extend the armature by adding connected bones                   |
+| **Bone Tab**               | Properties Panel → Bone icon              | Rename and adjust individual bones                              |
+| **Apply Armature Modifier**| Properties Panel → Modifiers tab          | Apply armature to the mesh (after parenting)                    |
+| **Parent to Armature**     | Select mesh, then armature → `Ctrl + P` → With Automatic Weights | Bind the mesh to the skeleton                                   |
+| **Weight Paint Mode**      | Select mesh → Mode dropdown → Weight Paint| Adjust how bones influence parts of the mesh                    |
+| **Pose Mode**              | Select armature → Mode dropdown or `Ctrl + Tab` | Pose your character by rotating bones                    |
+| **Rotate Bone**            | `R`                                       | Rotate bones for posing                                         |
+
+---
