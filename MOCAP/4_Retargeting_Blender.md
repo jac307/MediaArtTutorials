@@ -28,6 +28,9 @@ This method works best when you want to manually align BVH motion to a static me
 
 ### Step-by-Step Instructions
 
+First, create a new Blender project and **save the file** as `Character-with-MOCAP-1.blend`.
+Then, follow these steps:
+
 #### 1. **Import Your Character Mesh**  
    - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
    - Make sure your model **does not include an armature**
