@@ -1,6 +1,6 @@
 # 🕹️ Mesh Animation Basics
 
-**Time:** 45m
+**Time:** 1h30m
 
 ---
 
@@ -26,19 +26,18 @@ Use Blender’s **Timeline** to animate one meaningful mesh movement and export 
 
 ---
 
-## 📺 Step 1: Follow the Tutorial (10 minutes)
+## Step 1: Follow the Tutorial (10 minutes)
 
-Watch the first **10 minutes only** of this YouTube video:
+- Watch the first **10 minutes only** of this YouTube video.
+- **Your goal**: Animate a cube using keyframes (location, rotation, and/or scale).
+- **Tip**: Use the timeline at the bottom of your screen to add and view keyframes.
+- Save your Blender file as: `YourName_AnimatedObject.blend`
 
-🔗 <a href="https://www.youtube.com/watch?v=CBJp82tlR3M&t=1394s" target="_blank"><strong>Blender Beginner Tutorial - Part 10: Animation (by Blender Guru)</strong></a>
-
-✅ **Your goal**: Animate a cube using keyframes (location, rotation, and/or scale).
-
-✋ **Tip**: Use the timeline at the bottom of your screen to add and view keyframes.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CBJp82tlR3M?si=FtOz4SfgG9wkrnhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 🎨 Step 2: Animate Your Own Object
+## Step 2: Animate Your Own Object
 
 Now it’s your turn!
 
@@ -52,7 +51,7 @@ Now it’s your turn!
 
 ---
 
-## 🎞️ Step 3: Export Your Animation as a Video
+## Step 3: Export Your Animation as a Video
 
 1. Go to the **Output Properties** tab (printer icon in the Properties Panel).
 2. Set the **frame range** (e.g. 1–60 for a 2-second animation).
@@ -63,11 +62,11 @@ Now it’s your turn!
 5. Go to **Render → Render Animation** (`Ctrl + F12`).
 6. Once done, your video file will be saved in the selected folder.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=ZCpno06akClY-OWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 💾 Save Your Work
-
-- Save your Blender file as: `YourName_AnimatedObject.blend`
 - Save your video as: `YourName_Animation.mp4`
 
 ---
