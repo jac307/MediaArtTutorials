@@ -31,24 +31,38 @@ This method works best when you want to manually align BVH motion to a static me
 1. **Import Your Character Mesh**  
    - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
    - Make sure your model **does not include an armature**
+  
+![Sensor Check](images/import-mocap-1)
 
 2. **Import Your BVH File**  
    - Go to `File → Import → Motion Capture (.bvh)`  
-   - This creates a BVH armature with keyframes and motion baked in
+   - Select your `.bvh` file  
+   - Before importing: In the **Transform** panel on the right, set the **Scale** to `0.1`  
+   - Click **Import BVH**  
+   - This will create a **BVH armature** with baked motion keyframes
+
+![Sensor Check](images/import-mocap-2)
 
 3. **Align BVH Scale with Character**  
    - Your mocap character may appear larger/smaller than your mesh  
    - Use **`S` (scale)** on the **BVH armature only** (Object Mode)  
    - Do **not scale the armature in Edit Mode** or using non-uniform transforms
 
-4. **Match Bone Positions**  
-   - Enter **Pose Mode** for the BVH armature  
-   - Select and move bones so they **align visually with your character’s body**  
-   - Make sure joints like shoulders, hips, knees line up properly
+![Sensor Check](images/import-mocap-3)
 
-5. **Parent the Mesh (Optional)**  
+4. **Match Bone Positions**  
+   - Select the **BVH armature**  
+   - Enter **Edit Mode**  
+   - Move and adjust bones so they **visually align with your character’s mesh**  
+   - Focus on key joints like the **shoulders, hips, knees, and feet** for accurate alignment
+
+![Sensor Check](images/import-mocap-4)
+
+5. **Parent the Mesh**  
    - If desired, use modifiers or parenting (`Ctrl+P → With Automatic Weights`)  
    - Note: This works only if the character mesh is roughly aligned and weight-painted
+
+![Sensor Check](images/import-mocap-4)
 
 6. **Play the Timeline**  
    - Press `Spacebar` or drag the timeline to preview the movement  
