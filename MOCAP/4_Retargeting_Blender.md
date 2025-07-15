@@ -175,3 +175,24 @@ Play the timeline to see your character animated with the mocap data
 
 ---
 
+## Option 3: Retargeting with Auto-Rig Pro: Existing Rigging + Remap
+
+---
+
+## Step-by-Step Instructions
+
+First, create a new Blender project and **save the file** as `Character-with-MOCAP-3.blend`.
+Then, follow these steps:
+
+1. Import Your Character Mesh **with an armature**
+2. **Watch the video tutorial** 
+3. **Play the Timeline** and **Export short video** 
+
+---
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dv2oS0OsJqE?si=snc_H0h28BKN6cwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
