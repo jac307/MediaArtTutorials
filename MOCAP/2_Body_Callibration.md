@@ -37,7 +37,7 @@
 - Click the **T-Pose icon** on the right-side toolbar to open the Posture Calibration panel.
 - Enable the relevant posture types: **T-Pose**, **W (Beta)**, and **P-Pose**.
 
-![Light Scenes](images/body_callibration_1.png)
+![Light Scenes](images/body_callibration_0.png)
 
 ---
 
