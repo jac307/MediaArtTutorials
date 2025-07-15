@@ -90,7 +90,7 @@ Then, follow these steps:
 
 ---
 
-## 🔄 Option 2: Retargeting with Auto-Rig Pro
+## Option 2: Retargeting with Auto-Rig Pro: Smart + Remap
 
 This option uses the **Auto-Rig Pro** add-on for Blender — a powerful tool designed to simplify rigging, animation retargeting, and character preparation for games or film.
 
