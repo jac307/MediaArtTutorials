@@ -48,10 +48,13 @@ If Blender’s automatic weight painting doesn’t work well, reset and start ma
 Select the **Brush**, then go to **Tool Settings → Settings → Falloff**, and choose **Projected**.  
 → This makes painting more accurate over complex or hidden surfaces.
 
+<!-- 
 #### Use Mirror Painting
 
 In the same **Tool Settings**, go to the **Mirror** section and enable **X-Axis Mirror**.  
 → Useful for symmetrical characters (e.g. left and right arms/legs).
+-->
+
 
 #### Use Auto Normalize
 
