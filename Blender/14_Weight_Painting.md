@@ -63,7 +63,7 @@ In **Tool Settings → Options**, turn on **Auto Normalize**.
 
 ---
 
-### Working with Pose and Weight Paint Mode: Pose and Refine
+### Pose and Refine
 
 Switch to **Pose Mode**, adjust your rig to try different positions, then return to **Weight Paint Mode**.  
 → This allows you to reach and fix hard-to-paint areas based on realistic deformations.
