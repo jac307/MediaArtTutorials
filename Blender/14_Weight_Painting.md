@@ -53,7 +53,7 @@ Select the **Brush**, then go to **Tool Settings → Settings → Falloff**, and
 In the same **Tool Settings**, go to the **Mirror** section and enable **X-Axis Mirror**.  
 → Useful for symmetrical characters (e.g. left and right arms/legs).
 
-#### ⚖Use Auto Normalize
+#### Use Auto Normalize
 
 In **Tool Settings → Options**, turn on **Auto Normalize**.  
 → Prevents overlapping or uneven influence by ensuring all vertex weights total 1.0.
