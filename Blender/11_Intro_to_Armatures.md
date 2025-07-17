@@ -90,7 +90,32 @@ Think about the shape of your character:
 
 ---
 
-## Step 3: Pose and Capture Your Character
+## Step 3: Weight Paint your bones
+
+- Switch to **Weight Paint Mode**
+- Select each point and paint over the areas you want that bone to affect.
+
+### Tips for Weight Painting in Blender
+
+- **Enable Projected Falloff**:  
+  Select the **Brush**, go to the **Tool Settings** panel on the right, click **Settings**, then under **Falloff**, choose **Projected**.  
+  → This allows you to paint more effectively across complex surfaces and multiple faces.
+
+- **Use Mirror Painting**:  
+  In the **same Settings panel**, go to the **Mirror** section and enable **X-Axis Mirror**.  
+  → This lets you mirror your weight painting across symmetrical limbs (like arms or legs), saving time and ensuring balance.
+
+- **Pose and Refine**:  
+  Switch to **Pose Mode**, move your character into a new position, then return to **Weight Paint Mode**.  
+  → Posing helps expose areas that are hard to reach in the default pose, making it easier to fine-tune weights where the mesh isn't deforming correctly.
+
+- **Use Auto Normalize**:  
+  In the **Tool Settings** under **Options**, make sure **Auto Normalize** is turned on.  
+  → This ensures all vertex weights across bones add up to 1.0, preventing deformation issues and making your painting more predictable and accurate.
+
+---
+
+## Step 4: Pose and Capture Your Character
 
 👾 **Pose Your Character**
 - Switch to **Pose Mode**
@@ -116,6 +141,8 @@ Think about the shape of your character:
 - Zoom in/out with `Scroll`, rotate with `Middle Mouse`, pan with `Shift + Middle Mouse`
 - Use the **Bone tab** to rename or tweak bones
 - If your mesh doesn’t move with the bones, don’t worry—we’re focusing on visual posing for now
+
+---
 
 ---
 
