@@ -2,48 +2,60 @@
 
 ---
 
-# 🦴 Tips for Weight Painting in Blender 
+# 🖍️ Tips for Weight Painting in Blender
 
 ---
 
-## 🦴 What is Weight Painting?
+## What is Weight Painting?
 
-add something here
+**Weight Painting** is the process of defining how much influence each bone in an armature has over the vertices of a 3D mesh. By painting different levels of "influence" (weights) onto the surface of your model, you control how it deforms when posed or animated. This is especially important for characters or creatures, where smooth, natural movement depends on well-balanced weights across joints like shoulders, elbows, and knees.
 
 ---
 
 ## 🔧 Tools You’ll Use
 
-[add here shortcuts for going into Pose and Weight Paint Mode]
+| **Tool / Mode**       | **Shortcut / Location**                                 | **Use**                                             |
+|------------------------|----------------------------------------------------------|------------------------------------------------------|
+| Pose Mode              | `Ctrl + Tab` (or use Mode dropdown)                      | Poses the skeleton to test deformation               |
+| Weight Paint Mode      | `Ctrl + Tab` (or use Mode dropdown)                      | Paints bone influence directly onto the mesh         |
+| Toggle X-Axis Mirror   | Tool Settings → Mirror                                   | Mirrors brush strokes across the X-axis              |
+| Falloff Settings       | Tool Settings → Settings → Falloff → Projected           | Enables painting across curved and hidden surfaces   |
+| Auto Normalize         | Tool Settings → Options → Auto Normalize                 | Keeps total bone influence at 100% for all vertices  |
 
-### Tips for Weight Painting in Blender
+---
 
-- **Erase Default Weight Painting (Start from Scratch)**:  
-  If Blender’s automatic weight painting gives poor results, you can reset everything and manually paint from a clean slate:
+## Tips for Weight Painting in Blender
 
-  1. Select your **Mesh**, go to the **Object Data Properties** tab (green icon with three connected dots).  
-  2. In the **Vertex Groups** section, delete all groups.  
-  3. Go to the **Modifiers** tab and remove the **Armature Modifier**.  
-  4. Re-parent: Select the **Mesh**, then `Shift + Click` the **Armature**. Press `Ctrl + P` and choose **With Empty Groups**.  
-  5. Check that the **Armature Modifier** has been re-added under **Modifiers**, and that bones now appear under **Vertex Groups** in Object Data.  
-  6. Select the **Armature**, then `Shift + Click` the **Mesh** and switch to **Weight Paint Mode**.  
-  → Each bone now has no influence by default — paint only where you want each bone to affect the mesh.
+### Erase Default Weight Painting (Start from Scratch)
 
-- **Enable Projected Falloff**:  
-  Select the **Brush**, go to the **Tool Settings** panel on the right, click **Settings**, then under **Falloff**, choose **Projected**.  
-  → This allows you to paint more effectively across complex surfaces and multiple faces.
+If Blender’s automatic weight painting doesn’t work well, reset and start manually:
 
-- **Use Mirror Painting**:  
-  In the **same Settings panel**, go to the **Mirror** section and enable **X-Axis Mirror**.  
-  → This lets you mirror your weight painting across symmetrical limbs (like arms or legs), saving time and ensuring balance.
+1. Select your **Mesh**, go to the **Object Data Properties** tab (green icon with 3 connected dots).  
+2. In **Vertex Groups**, delete all the groups.  
+3. Go to the **Modifiers** tab and remove the **Armature Modifier**.  
+4. Re-parent: Select the **Mesh**, then `Shift + Click` the **Armature`. Press `Ctrl + P`, choose **With Empty Groups**.  
+5. Confirm that the **Armature Modifier** and all bones now appear again in the **Vertex Groups** list.  
+6. Select the **Armature**, then `Shift + Click` the **Mesh**, and switch to **Weight Paint Mode**.  
+→ Each bone will have no influence — paint only where needed.
 
-- **Pose and Refine**:  
-  Switch to **Pose Mode**, move your character into a new position, then return to **Weight Paint Mode**.  
-  → Posing helps expose areas that are hard to reach in the default pose, making it easier to fine-tune weights where the mesh isn't deforming correctly.
+### Enable Projected Falloff
 
-- **Use Auto Normalize**:  
-  In the **Tool Settings** under **Options**, make sure **Auto Normalize** is turned on.  
-  → This ensures all vertex weights across bones add up to 1.0, preventing deformation issues and making your painting more predictable and accurate.
+Select the **Brush**, then go to **Tool Settings → Settings → Falloff**, and choose **Projected**.  
+→ This makes painting more accurate over complex or hidden surfaces.
 
+### Use Mirror Painting
+
+In the same **Tool Settings**, go to the **Mirror** section and enable **X-Axis Mirror**.  
+→ Useful for symmetrical characters (e.g. left and right arms/legs).
+
+### 🧍‍♂Pose and Refine
+
+Switch to **Pose Mode**, adjust your rig, then return to **Weight Paint Mode**.  
+→ This helps you access and fix hard-to-reach areas based on realistic poses.
+
+### ⚖Use Auto Normalize
+
+In **Tool Settings → Options**, turn on **Auto Normalize**.  
+→ Prevents overlapping or uneven influence by ensuring all vertex weights total 1.0.
 
 ---
