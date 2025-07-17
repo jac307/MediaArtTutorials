@@ -92,7 +92,7 @@ Think about the shape of your character:
 
 ## Step 3: Weight Paint your bones
 
-- Switch to **Weight Paint Mode**
+- Select your armature, then your model and switch to **Weight Paint Mode**.
 - Select each point and paint over the areas you want that bone to affect.
 
 ### Tips for Weight Painting in Blender
@@ -118,7 +118,7 @@ Think about the shape of your character:
 ## Step 4: Pose and Capture Your Character
 
 👾 **Pose Your Character**
-- Switch to **Pose Mode**
+- Select your model, then your armature and switch to **Pose Mode**.
 - Use `R` (rotate) to change bone angles
 - Experiment with expressive poses
 - ⚠️ For now, just pose your character. **Don’t animate with armatures yet**.
