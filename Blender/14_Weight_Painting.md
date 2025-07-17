@@ -26,7 +26,11 @@
 
 ## Tips for Weight Painting in Blender
 
-### Erase Default Weight Painting (Start from Scratch)
+---
+
+### On Object Mode:
+
+#### Erase Default Weight Painting (Start from Scratch)
 
 If Blender’s automatic weight painting doesn’t work well, reset and start manually:
 
@@ -38,24 +42,40 @@ If Blender’s automatic weight painting doesn’t work well, reset and start ma
 6. Select the **Armature**, then `Shift + Click` the **Mesh**, and switch to **Weight Paint Mode**.  
 → Each bone will have no influence — paint only where needed.
 
-### Enable Projected Falloff
+---
+
+### On Weight Paint Mode:
+
+#### Enable Projected Falloff
 
 Select the **Brush**, then go to **Tool Settings → Settings → Falloff**, and choose **Projected**.  
 → This makes painting more accurate over complex or hidden surfaces.
 
-### Use Mirror Painting
+#### Use Mirror Painting
 
 In the same **Tool Settings**, go to the **Mirror** section and enable **X-Axis Mirror**.  
 → Useful for symmetrical characters (e.g. left and right arms/legs).
 
-### 🧍‍♂Pose and Refine
-
-Switch to **Pose Mode**, adjust your rig, then return to **Weight Paint Mode**.  
-→ This helps you access and fix hard-to-reach areas based on realistic poses.
-
-### ⚖Use Auto Normalize
+#### ⚖Use Auto Normalize
 
 In **Tool Settings → Options**, turn on **Auto Normalize**.  
 → Prevents overlapping or uneven influence by ensuring all vertex weights total 1.0.
+
+---
+
+### Working with Pose and Weight Paint Mode: Pose and Refine
+
+Switch to **Pose Mode**, adjust your rig to try different positions, then return to **Weight Paint Mode**.  
+→ This allows you to reach and fix hard-to-paint areas based on realistic deformations.
+
+**Using a MOCAP (animated) armature?**  
+Scrub through the **timeline** to find a specific pose, then switch back to **Weight Paint Mode**.  
+→ This lets you see how your weights behave during motion and refine them at problem frames.
+
+---
+
+## More information on Weight Painting
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUIIauuXveE?si=sFluA-G-db_YvBA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
