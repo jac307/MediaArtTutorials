@@ -34,9 +34,10 @@ If Blender’s automatic weight painting doesn’t work well, reset and start ma
 1. Select your **Mesh**, go to the **Object Data Properties** tab (green icon with 3 connected dots).  
 2. In **Vertex Groups**, delete all the groups.  
 3. Go to the **Modifiers** tab and remove the **Armature Modifier**.  
-4. Re-parent: Select the **Mesh**, then `Shift + Click` the **Armature`. Press `Ctrl + P`, choose **With Empty Groups**.  
-5. Confirm that the **Armature Modifier** and all bones now appear again in the **Vertex Groups** list.  
-6. Select the **Armature**, then `Shift + Click` the **Mesh**, and switch to **Weight Paint Mode**.  
+4. Re-parent: Select the **Mesh**, then `Shift + Click` the **Armature.
+5. Press `Ctrl + P`, choose **With Empty Groups**.  
+6. Confirm that the **Armature Modifier** and all bones now appear again in the **Vertex Groups** list.  
+7. Select the **Armature**, then `Shift + Click` the **Mesh**, and switch to **Weight Paint Mode**.  
 → Each bone will have no influence — paint only where needed.
 
 ---
