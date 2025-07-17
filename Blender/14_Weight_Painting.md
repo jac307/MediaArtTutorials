@@ -12,15 +12,12 @@
 
 ---
 
-## 🔧 Tools You’ll Use
+## 🔧 Modes You’ll Use
 
-| **Tool / Mode**       | **Shortcut / Location**                                 | **Use**                                             |
-|------------------------|----------------------------------------------------------|------------------------------------------------------|
-| Pose Mode              | `Ctrl + Tab` (or use Mode dropdown)                      | Poses the skeleton to test deformation               |
-| Weight Paint Mode      | `Ctrl + Tab` (or use Mode dropdown)                      | Paints bone influence directly onto the mesh         |
-| Toggle X-Axis Mirror   | Tool Settings → Mirror                                   | Mirrors brush strokes across the X-axis              |
-| Falloff Settings       | Tool Settings → Settings → Falloff → Projected           | Enables painting across curved and hidden surfaces   |
-| Auto Normalize         | Tool Settings → Options → Auto Normalize                 | Keeps total bone influence at 100% for all vertices  |
+| **Mode**               | **Shortcut**                                                           |
+|------------------------|------------------------------------------------------------------------|
+| Pose Mode              | `Ctrl + Tab` while the armature is selected                            | 
+| Weight Paint Mode      | Select the mesh, then select the armature, and then press `Ctrl + Tab` |
 
 ---
 
