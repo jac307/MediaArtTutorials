@@ -97,6 +97,17 @@ Think about the shape of your character:
 
 ### Tips for Weight Painting in Blender
 
+- **Erase Default Weight Painting (Start from Scratch)**:  
+  If Blender’s automatic weight painting gives poor results, you can reset everything and manually paint from a clean slate:
+
+  1. Select your **Mesh**, go to the **Object Data Properties** tab (green icon with three connected dots).  
+  2. In the **Vertex Groups** section, delete all groups.  
+  3. Go to the **Modifiers** tab and remove the **Armature Modifier**.  
+  4. Re-parent: Select the **Mesh**, then `Shift + Click` the **Armature**. Press `Ctrl + P` and choose **With Empty Groups**.  
+  5. Check that the **Armature Modifier** has been re-added under **Modifiers**, and that bones now appear under **Vertex Groups** in Object Data.  
+  6. Select the **Armature**, then `Shift + Click` the **Mesh** and switch to **Weight Paint Mode**.  
+  → Each bone now has no influence by default — paint only where you want each bone to affect the mesh.
+
 - **Enable Projected Falloff**:  
   Select the **Brush**, go to the **Tool Settings** panel on the right, click **Settings**, then under **Falloff**, choose **Projected**.  
   → This allows you to paint more effectively across complex surfaces and multiple faces.
