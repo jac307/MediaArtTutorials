@@ -8,7 +8,6 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 + [3D Art in Blender](Blender/README.md)
 + [Motion Capture with Perception Neuron 3](MOCAP/README.md)
 + [Digital Art in GIMP](GIMP.md)
-+ [Digital Art in GIMP](GIMP.html)
 
 
 ________________________________________________________________________
