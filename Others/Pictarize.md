@@ -16,7 +16,7 @@ There are two ways to use Pictarize:
 
 ---
 
-## Tutorials
+## 📚 Tutorials on Pictarize Studio
 
 <iframe src="https://www.iorad.com/player/2574789/Studio-Pictarize-1--Create-a-basic-project?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
