@@ -12,7 +12,7 @@ Whether you're sketching, creating concept art, or animating a short scene, Krit
 
 ---
 
-## Intro to Digital Illustration
+## 🖌️ Intro to Digital Illustration
 
 <iframe src="https://www.iorad.com/player/2581890/Krita-1--New-project--workspace--and-save-project?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
