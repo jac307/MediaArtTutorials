@@ -26,7 +26,7 @@ Whether you're sketching, creating concept art, or animating a short scene, Krit
 
 ---
 
-## Intro to Animation in Krita
+## 🌀 Intro to Animation in Krita
 
 Coming soon
 
