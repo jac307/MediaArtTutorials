@@ -8,6 +8,10 @@
 
 **Pictarize** is a free, browser-based tool that lets users create simple AR experiences by linking virtual content (like images, videos, and sound) to physical images called targets. No app installation is required—just open your camera and point to the target!
 
+There are two ways to use Pictarize:
+- **Try Out Mode**: No sign-up required, great for quick tests—but your projects will be **automatically deleted after 24 hours**.
+- **Registered Account**: Free to sign up. You can **save your projects**, return to them later, and organize multiple AR scenes under one account.
+
 👉 [Access Pictarize](https://pictarize.com)
 
 ---
