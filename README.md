@@ -6,8 +6,15 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 ## Index
 
 + [Digital Art in GIMP](Others/GIMP.md)
+  
++ [Video Editing in DaVinci Resolve](Others/DaVinci.md)
+  
++ [Digital Illustration and Animation in Krita](Others/Krita.md)
+  
 + [Augmented Reality in Pictarize](Others/Pictarize.md)
+  
 + [3D Art in Blender](Blender/README.md)
+  
 + [Motion Capture with Perception Neuron 3](MOCAP/README.md)
 
 
