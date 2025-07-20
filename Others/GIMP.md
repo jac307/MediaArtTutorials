@@ -10,7 +10,7 @@ GIMP is a powerful, free, and open-source image editing software used by artists
 
 ---
 
-## Tutorials for Basic Photographic Editing
+## Tutorials for 📷 Basic Photographic Editing
 
 ---
 
@@ -30,7 +30,7 @@ GIMP is a powerful, free, and open-source image editing software used by artists
 
 ---
 
-## Tutorials for Digital Collage
+## Tutorials for ✂️ Digital Collage
 
 ---
 
@@ -54,7 +54,7 @@ GIMP is a powerful, free, and open-source image editing software used by artists
 
 ---
 
-## Tutorials for Digital Illustration
+## Tutorials for 🖌️ Digital Illustration
 
 ---
 
