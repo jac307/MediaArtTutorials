@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# ✏️ Creature Sketch Activity
+# ✏️ Character Sketch Activity
 
 **Activity:** Draw Your Ideal Character 
 
