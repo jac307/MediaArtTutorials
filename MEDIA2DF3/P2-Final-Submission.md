@@ -74,18 +74,39 @@ Start preparing your layout **before** the printing session. You will mount your
 
 <h3 style="color: darkred;">📥 Final Submission Checklist (after Class Exhibition)</h3>
 
-Each student must submit the following:
+Each student must complete two final steps:
 
-1. **Two final printed compositions**  
-   - Must be trimmed and ready for mounting
-   - Printed at correct scale and resolution
+#### In-person submission (during the Printing Session)
 
-2. **Exhibition layout and mounting**  
-   - Completed during final class exhibition
-   - Professor will check for framing, spacing, and consistency
+- **Final Digital Compositions**  
+  - Submit the same files that were printed and exhibited  
+  - Format: High-quality Adobe PDF  
+  - Naming Protocol:  
+    - `Lastname-Firstname-P2-1.pdf`  
+    - `Lastname-Firstname-P2-2.pdf`
+    - `Lastname-Firstname-P2-3.pdf`  
+    - `Lastname-Firstname-P2-4.pdf`  
+    - `Group-#-P2.pdf` *(Photographic reference composition)*
 
-3. **One photograph** of your animation setup (Composition 5)  
-   - Use the **same aspect ratio** as the rest of your compositions  
-   - Include this photo in the final printed display  
+#### Online submission (on A2L)
 
-> 📌 **Late submissions or missing components will result in a grade deduction.**
+- **Exhibition Info Document**  
+  This document should reflect the kind of information typically submitted for a gallery, portfolio, or group show.
+
+  📄 **Required Content**:
+  - **Title of the Work**  
+  - **Photo of the Mounted Work in the Class Exhibition**  
+  - **Authors** 
+  - **Short Description** (3–5 sentence artist statement about the concept)  
+  - **Author Bio** (2–3 sentences per student, written in third person)  
+  - **Three Additional Photos** showing your work within the context of the exhibition  
+    (e.g., wide shots of the wall, interaction with peers or audience, exhibition signage, etc.)
+
+  **File Format**: PDF  
+  **Naming Protocol**: `Group-#-P2-ExhibitionInfo.pdf`
+
+> **Think of this as your exhibition record**—a digital folder that could be submitted to a gallery, added to a portfolio, or included in a grant application.
+> 📌 **All materials must be uploaded to Avenue to Learn by the stated deadline. Late or incomplete submissions will result in a grade deduction.**
+
+---
+
