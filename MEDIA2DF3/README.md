@@ -6,7 +6,8 @@ The course concludes with a public exhibition of student work, where students wi
 
 ## Composition Techniques
 
-+ [Composition Techniques I - Part 1](1_Comp-Tech-1-Part1.md)
++ [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
++ [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
 
 ---
 
