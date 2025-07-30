@@ -67,50 +67,39 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 ---
 
-### 🖼 Graphic Design (Logo or Poster)  
-**Primary Software**: Adobe Illustrator  
-**Optional**: Adobe Photoshop (for prepping raster images)
+### Graphic Design (Logo or Poster)  
 
-📺 **Setup Tutorials**:  
-- Setup for Logo Design in Adobe Illustrator  
-- Setup for Poster Design in Adobe Illustrator  
+- **Primary Software**: Adobe Illustrator
+- **Optional**: Adobe Photoshop (for prepping raster images)
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-1.ai`
+- Don’t forget to **embed all linked images**.
 
-📌 **Naming Protocol**: `Lastname-Firstname-CompTechIII-1.ai`  
-> 🔁 Don’t forget to **embed all linked images**.
+#### Follow these tutorials to properly set up your document
 
----
-
-### 📱 UI/UX Design (Website or App Screens)  
-**Primary Software**: Adobe Illustrator  
-**Optional**: Adobe Photoshop (for preparing assets/images)
-
-📺 **Setup Tutorials**:  
-- Setup for Website Design in Adobe Illustrator  
-- Setup for App Design in Adobe Illustrator  
-
-📌 **Naming Protocol**: `Lastname-Firstname-CompTechIII-2.ai`  
-> 🔁 Don’t forget to **embed all linked images**.
-
-📚 **Recommended Tutorials**:
-- How to Create a Vector Logo from a Sketch  
-- How to Use Image Trace in Adobe Illustrator  
-- How to Vectorize an Image in Illustrator  
+#### Recommended tutorials
 
 ---
 
-### 🖼 Photomontage  
-**Primary Software**: Adobe Photoshop  
+### UI/UX Design (Website or App Screens)  
 
-📋 Setup:
-- Go to **File → New Document → Print Options → Default Photoshop Size**  
-- Choose any orientation that suits your design
+- **Primary Software**: Adobe Illustrator
+- **Optional**: Adobe Photoshop (for preparing assets/images)
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.ai`
+- Don’t forget to **embed all linked images**.
 
-📌 **Naming Protocol**: `Lastname-Firstname-CompTechIII-3.psd`  
+#### Follow these tutorials to properly set up your document
 
-📚 **Recommended Tutorials**:
-- Intro to Photomontage Tools in Photoshop  
-- How to Blend Images and Create a Composite  
-- Double Exposure Effect – Photoshop Tutorial  
+---
+
+### Photomontage  
+
+- **Primary Software**: Adobe Photoshop
+- **Optional**: Adobe Illustrator ((for preparing or exporting vector-based elements)
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.psd`
+
+#### Follow these tutorials to properly set up your document
+
+#### Recommended tutorials
 
 ---
 
