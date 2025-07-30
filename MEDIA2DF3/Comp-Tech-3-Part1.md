@@ -136,7 +136,7 @@ Ask yourself as you work:
 Submit the following:
 
 1. A **single PDF** file containing your **three sketches**  
-   - Naming: `Lastname-Firstname-Sketches.pdf`
+   - Naming: `Lastname-Firstname-CompTech3-Sketches.pdf`
 
 2. **Three separate PDF files**, one for each **digital composition**  
    - **Naming:** `Lastname-Firstname-CompTech3-1.pdf`
