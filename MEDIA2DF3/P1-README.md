@@ -1,4 +1,4 @@
-[MEDIA 2DF3](../README.md)
+[MEDIA 2DF3](README.md)
 
 -------------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Compositions will range in style from **abstraction** to **realism**, challengin
 
 ---
 
-## 📁 Index
+## Index
 
 - [Part 1 – In-Class Work I: Sketching & First Composition](P2-InClassWork-I.pdf)
 - [Part 2 – In-Class Work II: Finalizing & Layout Planning](P2-InClassWork-II.pdf)
@@ -26,4 +26,6 @@ Compositions will range in style from **abstraction** to **realism**, challengin
 
 ---
 
-📌 **Reminder:** All parts of this project involve both collaborative planning and individual execution. Be sure to follow all file setup, submission protocols, and deadlines as outlined in each linked document.
+❗ **Reminder:** All parts of this project involve both collaborative planning and individual execution. Be sure to follow all file setup, submission protocols, and deadlines as outlined in each linked document.
+
+---
