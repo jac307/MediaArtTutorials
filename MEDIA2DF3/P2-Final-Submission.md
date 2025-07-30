@@ -57,7 +57,8 @@ Start preparing your layout **before** the printing session. You will mount your
 ### Print Size:
 - Each composition should measure **6–8 inches** on the **longest side**
 - **Maintain the same aspect ratio** in all of your compositions for consistency.
-- ⚠️ **Important**: Follow all setup and submission instructions carefully to avoid losing points.
+
+> ⚠️ **Important**: Follow all setup and submission instructions carefully to avoid losing points.
 
 ### Mounting Guidelines:
 
