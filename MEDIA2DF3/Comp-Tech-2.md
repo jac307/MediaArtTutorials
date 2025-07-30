@@ -110,6 +110,7 @@ In professional design workflows, it is essential to understand and correctly ap
 ### Select Compositions
 - Choose **three compositions** from **Composition Techniques I – Part 1 & 2**
 - Duplicate your Illustrator files for editing (do not overwrite originals)
+- Don’t forget to **embed all linked images** on Adobe Illustrator.
 
 ### Apply Your Colour Palettes  
 Apply one of your custom palettes to each duplicated composition.  
