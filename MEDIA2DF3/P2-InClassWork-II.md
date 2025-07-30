@@ -1,4 +1,4 @@
-[MEDIA 2DF3](README.md) // [Project 2](P2-README.md)
+[MEDIA 2DF3](README.md) | [Project 2](P2-README.md)
 
 -------------------------------------------------------------------------------
 
