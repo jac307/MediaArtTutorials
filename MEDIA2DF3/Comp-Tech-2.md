@@ -19,7 +19,7 @@ Create **five colour palettes** using the following colour schemes:
 - Triadic  
 - Tetradic (Square)
 
-<img src="imgs/16.png" style="width: 50vw; height: auto;">
+<img src="imgs/16.jpeg" style="width: 50vw; height: auto;">
 
 Then apply **three of these palettes** to compositions you created in **Composition Techniques I (Parts 1 & 2)**.  
 Each resulting composition should demonstrate a thoughtful use of colour, especially in relation to **contrast**, **perspective**, and **gradation**.
