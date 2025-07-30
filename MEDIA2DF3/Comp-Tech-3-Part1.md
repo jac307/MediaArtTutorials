@@ -105,23 +105,13 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 <h3 style="color: darkred;">[Rest of class] Execute</h3>
 
-### 🛠️ Create Your Compositions
+### 🛠Create Your Compositions
 
 Ask yourself as you work:
 - Are the **Gestalt principles clearly integrated** and visually understandable?
 - Does the composition **guide the viewer’s eye** effectively?
 - Are **form, space, contrast, and balance** working together harmoniously?
 - Does the final output align with your **sketch and chosen format**?
-
-### 💾 Save and Export
-
-Export each completed composition as an **Adobe PDF (.pdf)**  
-📌 **Naming Protocol**:  
-- `Lastname-Firstname-CompTechIII-1.pdf`  
-- `Lastname-Firstname-CompTechIII-2.pdf`  
-- `Lastname-Firstname-CompTechIII-3.pdf`  
-
-> ⚠️ Make sure your exported PDFs are **sharp**, **correctly coloured**, and **include all embedded images**.
 
 ---
 
@@ -130,18 +120,18 @@ Export each completed composition as an **Adobe PDF (.pdf)**
 Submit the following:
 
 1. A **single PDF** file containing your **three sketches**  
-   - Naming: `Lastname-Firstname-CompTechIII-Sketches.pdf`
+   - Naming: `Lastname-Firstname-Sketches.pdf`
 
-2. **Three final compositions** as separate PDF files  
-   - `Lastname-Firstname-CompTechIII-1.pdf`  
-   - `Lastname-Firstname-CompTechIII-2.pdf`  
-   - `Lastname-Firstname-CompTechIII-3.pdf`
+2. **Three separate PDF files**, one for each **digital composition**  
+   - **Naming:** `Lastname-Firstname-CompTech3-1.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-2.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-3.pdf`
 
 3. **Two-sentence description for each composition**  
    - Post directly into **Avenue to Learn** (not as a file)  
    - Each description must briefly explain the concept and identify the Gestalt principles used  
 
-📌 **Example**:  
+**Example**:  
 > "This composition explores urban isolation through the use of Figure/Ground and Continuity. The contrast between overlapping silhouettes and blurred cityscapes emphasizes the fragmented experience of city life."
 
 > ❗ **Follow submission and naming instructions carefully to avoid losing points.**
