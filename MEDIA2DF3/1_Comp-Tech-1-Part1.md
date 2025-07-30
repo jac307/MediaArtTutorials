@@ -1,5 +1,13 @@
 # Composition Techniques I – Part 1
 
+<figure style="width: 80vw; margin: auto;">
+  <img src="imgs/01.jpg" alt="Examples by previous students" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Your caption goes here.
+  </figcaption>
+</figure>
+
+
 ## Objective
 Create **four digital compositions**, each visualizing one of the following **Interrelationships of Form**:  
 1. Detached  
@@ -23,22 +31,34 @@ Each composition must demonstrate a **thoughtful and cohesive integration** of f
 ## Activities
 **Complete the following activities in order. Ask your professor for help as needed.**
 
-### 🖊️ [15–20 min] Sketching
+### [15–20 min] Sketching
 You may sketch using a **digital or physical notebook**.  
 According to Wikipedia, a sketch is “a rapidly executed freehand drawing that is not usually intended as a finished work.”
+
+<img src="imgs/02.png" style="width: 80vw; height: auto;">
 
 #### Super-Units
 - Create **four sketches** using simple geometric shapes in black and white, each representing one of the Interrelationships of Form listed above.
 - Focus on **visual experimentation** and form exploration.
+- Examples:
+
+<img src="imgs/03.png" style="width: 80vw; height: auto;">
 
 #### Grids
-- Create a **1:1 (square)** grid for each composition.
+
+- Create a **1:1 (square)** grid for each composition. Choose from the following grids:
+
+<img src="imgs/04.png" style="width: 80vw; height: auto;">
+
 - In each grid, emphasize one of the following Wong principles:
   1. Repetition
   2. Structure
   3. Similarity
   4. Gradation
 - Grids may be **Inactive, Active, Visible**, or **Repetition-based**.
+
+<img src="imgs/05.png" style="width: 80vw; height: auto;">
+
 - Take your time—**this step is foundational** to a strong composition.
 
 📥 **First Submission:** Upload a scan or photo of your **sketches** (Super-Units + Grids) to **Avenue to Learn**.
@@ -68,13 +88,15 @@ Create **one separate file per composition**.
 - Follow the tutorial on visualizing **Interrelationships of Form** in Illustrator.
 - Place the main shapes in the **"Composition" layer**.
 
+<img src="imgs/06.png" style="width: 80vw; height: auto;">
+
 #### Build Your Compositions
 - Combine your Super-Units with the appropriate grid structure.
 - Each design must clearly integrate both a **relationship of form** and a **principle of design**.
 
 ---
 
-## 💾 Export and Save Files
+## Export and Save Files
 
 ### Final Submission Files:
 1. A **single PDF file** that includes your **sketches** (Super-Units and Grids)  
