@@ -15,7 +15,7 @@
 
 Create **two typographic compositions** that visually express the meaning of selected words by manipulating letterforms. Inspired by **Bruno Munari’s** ideas in *The Shape of Words*, this activity explores how **typographic form, contrast, spacing, distortion, and composition** can be used to visually communicate ideas.
 
-<img src="imgs/24.png" style="width: 50vw; height: auto;">
+<img src="imgs/24.jpeg" style="width: 50vw; height: auto;">
 
 Each composition should:
 - Clearly reflect the meaning of the word through visual treatment of type
