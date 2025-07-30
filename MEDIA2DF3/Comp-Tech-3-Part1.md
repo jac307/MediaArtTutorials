@@ -135,3 +135,5 @@ Submit the following:
 > "This composition explores urban isolation through the use of Figure/Ground and Continuity. The contrast between overlapping silhouettes and blurred cityscapes emphasizes the fragmented experience of city life."
 
 > ❗ **Follow submission and naming instructions carefully to avoid losing points.**
+
+---
