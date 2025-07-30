@@ -22,9 +22,7 @@ The course concludes with a public exhibition of student work.
 
 ## Projects
 
-+ [Project 1](P1-README.md)
-+ Project 2
-
++ [Project 2](P2-README.md)
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
