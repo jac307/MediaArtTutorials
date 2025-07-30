@@ -26,7 +26,7 @@ Create **three digital compositions**, each combining **two different Gestalt Pr
 Each composition should demonstrate how the selected principles interact to affect **form**, **structure**, and **visual perception**.  
 Use what you’ve learned so far (e.g., layout, grids, colour theory, texture) along with the **new Gestalt concepts and examples** introduced in class to produce designs that are **intentional**, **engaging**, and **format-aware**.
 
-## Software** 
+**Software** 
 - **Adobe Illustrator** (vector-based) – for general layout, shapes, and composition setup  
 - **Adobe Photoshop** (pixel-based) – for textures, photomontage, or image-based enhancements
 
