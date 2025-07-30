@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">P2 – In-Class Work II: Finalizing & Layout Planning</h1>  
+<h1 style="color: darkred;">P2 – In-Class Work II: Second Composition & Layout Planning</h1>  
 *Project 2 – In Pairs with Individual Work*
 
 <figure style="width: 80vw; margin: auto;">
