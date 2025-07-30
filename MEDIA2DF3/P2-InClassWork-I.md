@@ -45,7 +45,7 @@ Each pair must create four compositions:
    - Geometric or minimalistic  
    - Inspired by **Gestalt principles**, **negative space**, or **shape simplification**
 
-> Each student creates one abstract composition and either the realistic or figurative piece. Decide this collaboratively.
+> Each student creates one abstract composition and either the realistic or figurative piece. Decide this collaboratively. You must **maintain the same aspect ratio** in all of your compositions to ensure visual consistency across the project.
 
 ---
 
@@ -96,8 +96,8 @@ Each student must complete **at least 80%** of their realistic or figurative com
 - **Color Mode:** RGB
 - **Raster Effects:** High (300 PPI)  
 
+> **Maintain the same aspect ratio** in all of your compositions to ensure visual consistency across the project.
 > ⚠️ **Important**: Make sure you follow the document setup instructions to avoid losing points.
-
 
 ---
 
