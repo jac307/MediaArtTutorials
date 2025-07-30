@@ -22,7 +22,7 @@ The course concludes with a public exhibition of student work.
 
 ## Projects
 
-+ Project 1
++ [Project 1](P1-README.md)
 + Project 2
 
 ________________________________________________________________________
