@@ -14,7 +14,7 @@ Create **four digital compositions**, each visualizing one of the following **In
 3. Overlapped  
 4. Interpenetration
 
-<img src="imgs/02.png" style="width: 80vw; height: auto;">
+<img src="imgs/02.png" style="width: 50vw; height: auto;">
 
 In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Form, Repetition, Structure, Similarity, and Gradation**—to explore and highlight the visual characteristics of each interrelationship.  
 
@@ -41,13 +41,13 @@ According to Wikipedia, a sketch is “a rapidly executed freehand drawing that 
 - Focus on **visual experimentation** and form exploration.
 - Examples:
 
-<img src="imgs/03.png" style="width: 80vw; height: auto;">
+<img src="imgs/03.png" style="width: 50vw; height: auto;">
 
 #### Grids
 
 - Create a **1:1 (square)** grid for each composition. Choose from the following grids:
 
-<img src="imgs/04.png" style="width: 80vw; height: auto;">
+<img src="imgs/04.png" style="width: 50vw; height: auto;">
 
 - In each grid, emphasize one of the following Wong principles:
   1. Repetition
@@ -56,7 +56,7 @@ According to Wikipedia, a sketch is “a rapidly executed freehand drawing that 
   4. Gradation
 - Grids may be **Inactive, Active, Visible**, or **Repetition-based**.
 
-<img src="imgs/05.png" style="width: 80vw; height: auto;">
+<img src="imgs/05.png" style="width: 50vw; height: auto;">
 
 - Take your time—**this step is foundational** to a strong composition.
 
@@ -107,7 +107,7 @@ These settings ensure your file is compatible with export and review processes. 
 - Combine your Super-Units with the appropriate grid structure.
 - Each design must clearly integrate both a **relationship of form** and a **principle of design**.
 
-<img src="imgs/06.png" style="width: 80vw; height: auto;">
+<img src="imgs/06.png" style="width: 50vw; height: auto;">
 
 ---
 
