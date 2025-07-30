@@ -7,9 +7,7 @@
 
 ---
 
-## Final Objective
-
-This is a **physical, in-person submission**. Students will submit their two completed compositions, printed and mounted for the **Project 2 & Project 1 exhibition**.
+This is a **physical, in-person submission**. Students will submit their two completed compositions, printed and mounted for the **Class Exhibition**.
 
 Final marks will reflect your attention to:
 - File preparation and setup
@@ -23,30 +21,28 @@ Final marks will reflect your attention to:
 
 Each student must schedule a printing session with Prof. Rodriguez using the link provided on Avenue to Learn.
 
-> 🎟️ **Limited to four students per time slot**.  
-> 📌 You must arrive **on time** and with your files **fully prepared**.
+> **Limited to four students per time slot**.  
+> ⚠️ You must arrive **on time** and with your files **fully prepared**.
 
 ---
 
-## 🖨 File Prep Checklist (Before Your Session)
+## 💾 File Prep Checklist (Before Your Session)
 
 Make sure your files are:
-- Exported from Adobe Illustrator as high-quality PDFs
-- Set to the correct size: **6–8 inches on the longest side**
-- Saved on a **USB drive**
-- Reviewed and refined based on class feedback
 
-**Follow this tutorial** to prepare your files for printing:  
-
-
+- Reviewed and refined based on feedback provided by the professor  
+- Exported from Adobe Illustrator as high-quality PDFs  
+- **Export a fifth PDF file** with the original photographic reference used in your project  
+  - This file should follow the **same aspect ratio and Illustrator document settings** as your other compositions  
+- Saved on a **USB drive** and ready for review at your scheduled session
 
 > ⚠️ **Important**: Students who arrive without properly set-up files **will lose marks**.
 
 ---
 
-## During the Printing Session
+## 🖨 During the Printing Session
 
-- Arrive at your scheduled time and meet the professor
+- Arrive at **five minutes before** your scheduled time and meet the professor
 - Bring your **USB drive** with your final compositions
 - The professor will verify and approve the files
 - Once approved, your files will be printed and handed to you
@@ -54,28 +50,29 @@ Make sure your files are:
 
 ---
 
-## Exhibition Preparation
+## 🖼️ Exhibition Preparation (before the Class Exhibition)
 
 Start preparing your layout **before** the printing session. You will mount your work for display during the final exhibition.
 
-### 📐 Print Size:
+### Print Size:
 - Each composition should measure **6–8 inches** on the **longest side**
-- Maintain **consistent aspect ratio** across all compositions
+- **Maintain the same aspect ratio** in all of your compositions for consistency.
+- ⚠️ **Important**: Follow all setup and submission instructions carefully to avoid losing points.
 
-### 🖼️ Mounting Guidelines:
-- Reuse foam boards from Project 1 if possible  
-- Alternatively, purchase foam boards (e.g., Dry-Erase Foam Board from Dollarama)
-- Keep spacing and framing consistent for visual unity
-- Use the **same aspect ratio** and align your pieces carefully
+### Mounting Guidelines:
 
-> 🖼️ *The fifth composition is the original photograph of the animation setup, using the same aspect ratio as your digital compositions.*
+- You are responsible for mounting your printed compositions for the final exhibition  
+- You may use **any external materials** for mounting, such as **Dry-Erase Foam Boards** (available at Dollarama), cardstock, or other creative supports  
+- Keep spacing and framing **consistent** across all four pieces  
+- Use the **same aspect ratio** and align your pieces carefully 
 
-> ✅ **Maintain the same aspect ratio** in all of your compositions for consistency.  
-> ⚠️ **Important**: Follow all setup and submission instructions carefully to avoid losing points.
+> **Be creative!** Your mounting choices—such as layout, layering, or added textures—can visually reinforce the **theme or characteristics** of your animal.  
+> Consider how the animal’s **movement, behaviour, or environment** might influence how your work is presented.  
+> Let your final display **tell a story** and serve as a cohesive visual statement.
 
 ---
 
-<h3 style="color: darkred;">📥 Final Submission Checklist</h3>
+<h3 style="color: darkred;">📥 Final Submission Checklist (after Class Exhibition)</h3>
 
 Each student must submit the following:
 
