@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">Composition Techniques III – Part 1</h1>
 
 <figure style="width: 80vw; margin: auto;">
-  <img src="imgs/19.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/21.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
   </figcaption>
@@ -14,14 +14,13 @@
 ## Objective
 
 Create **three digital compositions**, each combining **two different Gestalt Principles of Design** from the list below:  
-1. Proximity  
-2. Similarity  
-3. Continuity  
-4. Closure  
-5. Figure/Ground  
-6. Prägnanz
+1. Symmetry  
+2. Connectedness  
+3. Common Region  
+4. Focal Point  
+5. Common Fate  
 
-<img src="imgs/20.png" style="width: 50vw; height: auto;">
+<img src="imgs/22.png" style="width: 50vw; height: auto;">
 
 Each composition should demonstrate how the selected principles interact to affect **form**, **structure**, and **visual perception**.  
 Use what you’ve learned so far (e.g., layout, grids, colour theory, texture) along with the **new Gestalt concepts and examples** introduced in class to produce designs that are **intentional**, **engaging**, and **format-aware**.
@@ -43,6 +42,7 @@ According to Wikipedia, a sketch is “a rapidly executed freehand drawing that 
 #### Task:
 - Sketch **three compositions** (one per format), each combining **two different Gestalt principles** from the list above.
 - Explore how these principles interact visually to create structure and meaning.
+- Use the formats you did **not use in Part 1** (one format per composition).
 
 #### Composition Formats (Choose one per sketch):
 - **Graphic Design** → Logo or Poster  
@@ -71,7 +71,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Illustrator
 - **Optional**: Adobe Photoshop (for prepping raster images)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-1.ai`
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-4.ai`
 - Don’t forget to **embed all linked images**.
 
 #### Follow these tutorials to properly set up your document
@@ -94,7 +94,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Illustrator
 - **Optional**: Adobe Photoshop (for preparing assets/images)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.ai`
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-5.ai`
 - Don’t forget to **embed all linked images**.
 
 #### Follow these tutorials to properly set up your document
@@ -109,7 +109,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Photoshop
 - **Optional**: Adobe Illustrator ((for preparing or exporting vector-based elements)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.psd`
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-6.psd`
 
 #### Follow these tutorials to properly set up your document
 
@@ -136,12 +136,12 @@ Ask yourself as you work:
 Submit the following:
 
 1. A **single PDF** file containing your **three sketches**  
-   - Naming: `Lastname-Firstname-Sketches.pdf`
+   - Naming: `Lastname-Firstname-CompTech3-Sketches.pdf`
 
 2. **Three separate PDF files**, one for each **digital composition**  
-   - **Naming:** `Lastname-Firstname-CompTech3-1.pdf`
-   - **Naming:** `Lastname-Firstname-CompTech3-2.pdf`
-   - **Naming:** `Lastname-Firstname-CompTech3-3.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-4.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-5.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-6.pdf`
 
 3. **Two-sentence description for each composition**  
    - Post directly into **Avenue to Learn** (not as a file)  
