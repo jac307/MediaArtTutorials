@@ -30,7 +30,7 @@ Each composition must demonstrate a **thoughtful and cohesive integration** of f
 - Designs must be in **black and white**
 - You must incorporate a **grid structure** for each composition (choose one per composition from the following):
 
-<img src="imgs/11.jpeg" style="width: 50vw; height: auto;">
+<img src="imgs/11.png" style="width: 50vw; height: auto;">
 
 **Software**:  
 - **Adobe Illustrator** (vector-based composition)  
@@ -64,10 +64,16 @@ A sketch is “a rapidly executed freehand drawing that is not usually intended 
 - Emphasize both **Contrast** and **Texture** in your design
 
 ### Composition No. 4 – Spatial Line Drawing  
-- Using **only lines**, sketch a composition inspired by one of the following Wong’s Principles of Space:
-  - Flat Space,  
-  - Illusory Space, or  
-  - Fluctuating and Conflicting Space
+Using **only lines**, sketch a composition inspired by one of the following Wong’s Principles of Space:
+
+- Flat Space,
+<img src="imgs/12.png" style="width: 50vw; height: auto;">
+
+- Illusory Space, or
+<img src="imgs/13.png" style="width: 50vw; height: auto;">
+  
+- or Fluctuating and Conflicting Space
+<img src="imgs/14.png" style="width: 50vw; height: auto;">
 
 ---
 
