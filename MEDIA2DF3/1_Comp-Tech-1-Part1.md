@@ -133,3 +133,5 @@ These settings ensure your file is compatible with export and review processes. 
    - **Naming:** `Lastname-Firstname-CompTech1-4.pdf`
 
 > 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
+
+---
