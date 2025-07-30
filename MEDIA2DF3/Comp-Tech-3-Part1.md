@@ -78,7 +78,21 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 <iframe src="https://www.iorad.com/player/2516211/Adobe-Illustrator--Logo-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
+**Your Illustrator document must include the following settings for Logo Design:**
+- **Units:** Pixels  
+- **Size:** 1000 × 1000 px (1:1 aspect ratio)
+- **Bleed:** 10 px (on all sides)   
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI)  
+
 <iframe src="https://www.iorad.com/player/2516192/Adobe-Illustrator--Poster-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+**Your Illustrator document must include the following settings for Poster Design:**
+- **Units:** Inches  
+- **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
+- **Bleed:** 0.3 in (on all sides)   
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI) 
 
 #### Recommended tutorials
 
@@ -101,7 +115,21 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 <iframe src="https://www.iorad.com/player/2516233/Adobe-Illustrator--Website-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
+**Your Illustrator document must include the following settings for Web Design:**
+- **Units:** Pixels  
+- **Size:** 1920 x 1080 px (Web-Large size)
+- **Bleed:** 10 px (on all sides)   
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI) 
+
 <iframe src="https://www.iorad.com/player/2516262/Adobe-Illustrator--App-Design-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+**Your Illustrator document must include the following settings for Mobile Design:**
+- **Units:** Pixels  
+- **Size:** 1125 x 2436 px (iPhone X)
+- **Bleed:** 10 px (on all sides)   
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI) 
 
 ---
 
@@ -112,6 +140,13 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-2.psd`
 
 #### Follow these tutorials to properly set up your document
+
+
+**Your Photoshop document must include the following settings for Photo-Collage:**
+- **Units:** Inches  
+- **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI) 
 
 #### Recommended tutorials
 
