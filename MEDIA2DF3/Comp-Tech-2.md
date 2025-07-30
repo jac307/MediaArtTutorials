@@ -76,6 +76,8 @@ These settings ensure your file is compatible with export and review processes. 
 
 ### Create and Organize Your Palettes
 
+<img src="imgs/18.png" style="width: 50vw; height: auto;">
+
 Use the hex codes from Adobe Color to manually recreate and organize your palettes in Illustrator:
 
 - Create **one palette per artboard**
