@@ -24,7 +24,7 @@ In each composition should incorporate **Wucius Wong’s Principles of Two-Dimen
 
 Each composition must demonstrate a **thoughtful and cohesive integration** of form relationships and design principles.
 
-<img src="imgs/07.jpg" style="width: 50vw; height: auto;">
+<img src="imgs/07.jpeg" style="width: 50vw; height: auto;">
 
 ## Design Restrictions
 - Use **geometric shapes only**  
