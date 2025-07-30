@@ -94,7 +94,8 @@ Each student must complete two final steps:
   This document should reflect the kind of information typically submitted for a gallery, portfolio, or group show.
 
   📄 **Required Content**:
-  - **Title of the Work**  
+  - **Title of the Work**
+  - **Type of Work** (digital illustration, collage, mixed-media, etc.) 
   - **Photo of the Mounted Work in the Class Exhibition**  
   - **Authors** 
   - **Short Description** (3–5 sentence artist statement about the concept)  
