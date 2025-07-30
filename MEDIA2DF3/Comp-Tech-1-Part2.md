@@ -66,13 +66,13 @@ A sketch is “a rapidly executed freehand drawing that is not usually intended 
 ### Composition No. 4 – Spatial Line Drawing  
 Using **only lines**, sketch a composition inspired by one of the following Wong’s Principles of Space:
 
-- Flat Space,
+- Flat Space,  
 <img src="imgs/12.png" style="width: 50vw; height: auto;">
 
-- Illusory Space, or
+- Illusory Space, or  
 <img src="imgs/13.png" style="width: 50vw; height: auto;">
   
-- or Fluctuating and Conflicting Space
+- or Fluctuating and Conflicting Space  
 <img src="imgs/14.png" style="width: 50vw; height: auto;">
 
 ---
