@@ -1,9 +1,9 @@
 # Composition Techniques I – Part 1
 
 <figure style="width: 80vw; margin: auto;">
-  <img src="imgs/01.jpg" alt="Examples by previous students" style="width: 100%; height: auto;">
+  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Your caption goes here.
+    Examples by previous students.
   </figcaption>
 </figure>
 
