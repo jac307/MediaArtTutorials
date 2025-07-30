@@ -121,9 +121,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 ---
 
-<h3 style="color: darkred;">[Rest of class] Execute</h3>
-
-### 🛠Create Your Compositions
+<h3 style="color: darkred;">[Rest of class] Create Your Compositions</h3>
 
 Ask yourself as you work:
 - Are the **Gestalt principles clearly integrated** and visually understandable?
