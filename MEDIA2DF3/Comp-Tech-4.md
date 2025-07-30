@@ -4,9 +4,18 @@
 
 <h1 style="color: darkred;">Composition Techniques IV – Typographic Expression</h1>
 
+<figure style="width: 80vw; margin: auto;">
+  <img src="imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Examples by previous students.
+  </figcaption>
+</figure>
+
 ## Objective
 
 Create **two typographic compositions** that visually express the meaning of selected words by manipulating letterforms. Inspired by **Bruno Munari’s** ideas in *The Shape of Words*, this activity explores how **typographic form, contrast, spacing, distortion, and composition** can be used to visually communicate ideas.
+
+<img src="imgs/24.png" style="width: 50vw; height: auto;">
 
 Each composition should:
 - Clearly reflect the meaning of the word through visual treatment of type
