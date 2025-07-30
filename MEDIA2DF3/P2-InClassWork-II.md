@@ -37,7 +37,6 @@ Each student must complete **at least 90%** of their **second** realistic or fig
 ### Document Setup:
 
 
-
 **Your Illustrator document must include the following settings:**
 - **Units:** Inches  
 - **6–8 inches** on its **longest side** (either width or height)
@@ -45,13 +44,16 @@ Each student must complete **at least 90%** of their **second** realistic or fig
 - **Color Mode:** RGB
 - **Raster Effects:** High (300 PPI)  
 
+> **Maintain the same aspect ratio** in all of your compositions to ensure visual consistency across the project.
 > ⚠️ **Important**: Make sure you follow the document setup instructions to avoid losing points.
 
 ---
 
 <h3 style="color: darkred;">[30 min] Exhibition Layout & Assembly Planning</h3>
 
-Each pair will begin planning their layout for the final exhibition. Discuss the visual presentation of your four-piece composition as a unified display.
+Each pair will begin planning their layout for the final exhibition. Discuss the visual presentation of your five-piece composition as a unified display.  
+
+> *The fifth composition is the original photograph of the animation setup, using the same aspect ratio as your digital compositions.*
 
 ### Consider the Following:
 - **Framing/Border Thickness**: Should be consistent or intentionally varied  
