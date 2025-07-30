@@ -51,18 +51,16 @@ Each student must complete **at least 90%** of their **second** realistic or fig
 
 <h3 style="color: darkred;">[30 min] Exhibition Layout & Assembly Planning</h3>
 
-Each pair will begin planning their layout for the final exhibition. Discuss the visual presentation of your five-piece composition as a unified display.  
+Each group will begin planning their layout for the final exhibition. Discuss the visual presentation of your five-piece composition as a unified display.  
 
 > *The fifth composition is the original photograph of the animation setup, using the same aspect ratio as your digital compositions.*
+> **Final Print Size**: Each composition must measure **6–8 inches** on its **longest side** (either width or height)
 
 ### Consider the Following:
 - **Framing/Border Thickness**: Should be consistent or intentionally varied  
 - **Spacing Between Pieces**: Balanced visual spacing enhances clarity  
 - **Overall Arrangement**: Explore grid-based or freeform layout  
-- **Labels or Contextual Text** (optional): Think about minimal descriptions, titles, or captions  
-- **Mounting Materials**: Reuse what you have from Project 1 or purchase foam boards (e.g., Dry-Erase Foam Boards from Dollarama)
-
-**Final Print Size**: Each composition must measure **6–8 inches** on its **longest side** (either width or height)
+- **Mounting Materials**: coming soon
 
 ### Group Submission Requirement:
 Create a simple PDF with notes on your layout plan, material list, and arrangement ideas.  
