@@ -124,6 +124,7 @@ These settings ensure your file is compatible with export and review processes. 
 - Use your sketches as guides.
 - Follow the tutorial on visualizing **Interrelationships of Form** in Illustrator.
 - Place the main shapes in the **"Composition" layer**.
+- Don’t forget to **embed all linked images** on Adobe Illustrator.
 
 <iframe src="https://www.iorad.com/player/2498921/Interrelationships-of-Form-in-Adobe-Illustrator-2?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
@@ -142,6 +143,7 @@ Textures must be in **black and white**, minimum **800px** on their shortest sid
 - Follow your sketches closely.  
 - Integrate the appropriate Interrelationship of Form and Design Principles into each layout.  
 - *(For Composition 4 only)* – Use the **Curvature Tool** and **Pen Tool** in Illustrator.
+- Don’t forget to **embed all linked images** on Adobe Illustrator.
 
 <iframe src="https://www.iorad.com/player/2499038/Curvature-and-Pen-Tool-in-Adobe-Illustrator-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
