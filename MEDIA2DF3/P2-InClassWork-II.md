@@ -41,7 +41,7 @@ Each student must complete **at least 90%** of their **second** realistic or fig
 **Your Illustrator document must include the following settings:**
 - **Units:** Inches  
 - **6–8 inches** on its **longest side** (either width or height)
-- **Bleed:** 10 px (on all sides)
+- **Bleed:** 0.3 in (on all sides)
 - **Color Mode:** RGB
 - **Raster Effects:** High (300 PPI)  
 
