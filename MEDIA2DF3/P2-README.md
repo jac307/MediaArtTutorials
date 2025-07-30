@@ -8,17 +8,17 @@
 <figure style="width: 80vw; margin: auto;">
   <img src="imgs/25.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students.
+    Examples by previous students working with the Morphologies of Animals from the Deep Sea.
   </figcaption>
 </figure>
 
 ## Overview
 
-In this project, students will work in **pairs** to create a **series of four digital compositions** that explore different visual interpretations of a sea animal. Each student will produce **two compositions individually**: one abstract and one either realistic or figurative.  
+In this project, students will work in **pairs** to create a **series of four digital compositions** that explore different visual interpretations of an animal. Each student will produce **two compositions individually**: one abstract and one either realistic or figurative.  
 
 Compositions will range in style from **abstraction** to **realism**, challenging students to apply formal design principles and techniques across varied representational modes. The final project will be showcased in a public exhibition.
 
-> **The assigned sea animal will be announced in class.**  
+> **The assigned animal will be announced in class.**  
 > **Animal selection will happen through a randomized draw, in class.**
 
 ---
