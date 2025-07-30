@@ -5,24 +5,17 @@
 <h1 style="color: darkred;">P2 – Final Submission: Printing & Exhibition</h1>  
 *Project 2 – In Pairs with Individual Work*
 
-<figure style="width: 80vw; margin: auto;">
-  <img src="imgs/25.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Exhibition documentation from a previous cohort.
-  </figcaption>
-</figure>
-
 ---
 
-## 🎯 Final Objective
+## Final Objective
 
 This is a **physical, in-person submission**. Students will submit their two completed compositions, printed and mounted for the **Project 2 & Project 1 exhibition**.
 
 Final marks will reflect your attention to:
-- ✅ File preparation and setup
-- ✅ Printing quality and technical accuracy
-- ✅ Conceptual clarity and visual execution
-- ✅ Participation in the exhibition display
+- File preparation and setup
+- Printing quality and technical accuracy
+- Conceptual clarity and visual execution
+- Participation in the exhibition display
 
 ---
 
@@ -38,19 +31,20 @@ Each student must schedule a printing session with Prof. Rodriguez using the lin
 ## 🖨 File Prep Checklist (Before Your Session)
 
 Make sure your files are:
-- ✅ Exported from Adobe Illustrator as high-quality PDFs
-- ✅ Set to the correct size: **6–8 inches on the longest side**
-- ✅ Saved on a **USB drive**
-- ✅ Reviewed and refined based on class feedback
+- Exported from Adobe Illustrator as high-quality PDFs
+- Set to the correct size: **6–8 inches on the longest side**
+- Saved on a **USB drive**
+- Reviewed and refined based on class feedback
 
-📺 **Follow this tutorial** to prepare your files for printing:  
-[Set-Up for Printing – Tutorial Video](https://www.dropbox.com/scl/fi/st2mdmp4nbixw9x3b377v/Set-Up-For-Printing.mp4?rlkey=gmc504p2pf7g3llh8q84n1twp&dl=0)
+**Follow this tutorial** to prepare your files for printing:  
+
+
 
 > ⚠️ **Important**: Students who arrive without properly set-up files **will lose marks**.
 
 ---
 
-## 🧑‍🏫 During the Printing Session
+## During the Printing Session
 
 - Arrive at your scheduled time and meet the professor
 - Bring your **USB drive** with your final compositions
@@ -60,7 +54,7 @@ Make sure your files are:
 
 ---
 
-## 🧰 Exhibition Preparation
+## Exhibition Preparation
 
 Start preparing your layout **before** the printing session. You will mount your work for display during the final exhibition.
 
