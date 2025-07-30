@@ -83,9 +83,18 @@ Each pair must submit a brainstorming document that includes:
 Each student begins working on either the **realistic** or **figurative** composition in **Adobe Illustrator**.  
 Photoshop may be used for minor **texture or image effects** only.  
 
-Each student must complete **at least 90%** of their realistic or figurative composition before the next class.
+Each student must complete **at least 80%** of their realistic or figurative composition before the next class.
 
 ### Document Setup:
+
+
+
+**Your Illustrator document must include the following settings:**
+- **Units:** Inches  
+- **6–8 inches** on its **longest side** (either width or height)
+- **Bleed:** 10 px (on all sides)
+- **Color Mode:** RGB
+- **Raster Effects:** High (300 PPI)  
 
 > ⚠️ **Important**: Make sure you follow the document setup instructions to avoid losing points.
 
