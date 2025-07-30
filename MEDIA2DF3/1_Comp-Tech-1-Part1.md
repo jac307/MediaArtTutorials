@@ -13,7 +13,9 @@ Create **four digital compositions**, each visualizing one of the following **In
 1. Detached  
 2. Touching  
 3. Overlapped  
-4. Interpenetration  
+4. Interpenetration
+
+<img src="imgs/02.png" style="width: 80vw; height: auto;">
 
 In each composition, incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Form, Repetition, Structure, Similarity, and Gradation**—to explore and highlight the visual characteristics of each interrelationship.  
 
@@ -34,8 +36,6 @@ Each composition must demonstrate a **thoughtful and cohesive integration** of f
 ### [15–20 min] Sketching
 You may sketch using a **digital or physical notebook**.  
 According to Wikipedia, a sketch is “a rapidly executed freehand drawing that is not usually intended as a finished work.”
-
-<img src="imgs/02.png" style="width: 80vw; height: auto;">
 
 #### Super-Units
 - Create **four sketches** using simple geometric shapes in black and white, each representing one of the Interrelationships of Form listed above.
