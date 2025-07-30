@@ -64,10 +64,11 @@ Before you begin, **watch the provided tutorial** on Illustrator document setup.
 **Your Illustrator document must include the following settings:**
 - **Units:** Pixels  
 - **Size:** 1000 × 1000 px (1:1 aspect ratio)  
-- **Color Mode:** RGB  
+- **Color Mode:** RGB
+- **Bleed:** 10 px (on all sides) 
 - **Raster Effects:** High (300 PPI)
-- **Artboards**: 5 (one for each palette)  
-- **Bleed**: 10 px (on all sides)  
+- **Artboards**: 5 (one for each palette)
+- **Spacing:** 30 px 
 - **Naming Protocol:** `Lastname-Firstname-ColourPalettes.ai`
 
 These settings ensure your file is compatible with export and review processes. Files that do not follow the setup guidelines may be marked down.
