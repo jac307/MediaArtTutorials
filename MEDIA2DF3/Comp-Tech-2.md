@@ -137,7 +137,7 @@ Focus on:
 Submit the following:
 
 1. A **single PDF file** containing your **five colour palettes**  
-   - `Lastname-Firstname-ColourPalettes.pdf`
+   - `Lastname-Firstname-CompTech2-ColourPalettes.pdf`
 
 2. **Three separate PDF files** for your **coloured compositions**  
    - `Lastname-Firstname-CompTech2-1.pdf`  
