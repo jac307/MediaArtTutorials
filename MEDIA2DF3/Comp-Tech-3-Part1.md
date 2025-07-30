@@ -4,6 +4,13 @@
 
 <h1 style="color: darkred;">Composition Techniques III – Part 1</h1>
 
+<figure style="width: 80vw; margin: auto;">
+  <img src="imgs/19.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Examples by previous students.
+  </figcaption>
+</figure>
+
 ## Objective
 
 Create **three digital compositions**, each combining **two different Gestalt Principles of Design** from the list below:  
@@ -12,14 +19,16 @@ Create **three digital compositions**, each combining **two different Gestalt Pr
 3. Continuity  
 4. Closure  
 5. Figure/Ground  
-6. Prägnanz  
+6. Prägnanz
+
+<img src="imgs/20.png" style="width: 50vw; height: auto;">
 
 Each composition should demonstrate how the selected principles interact to affect **form**, **structure**, and **visual perception**.  
 Use what you’ve learned so far (e.g., layout, grids, colour theory, texture) along with the **new Gestalt concepts and examples** introduced in class to produce designs that are **intentional**, **engaging**, and **format-aware**.
 
-> 🖥 Software: Adobe Illustrator (vector-based) & Adobe Photoshop (pixel-based, textures/montage)
-
----
+## Software** 
+- **Adobe Illustrator** (vector-based) – for general layout, shapes, and composition setup  
+- **Adobe Photoshop** (pixel-based) – for textures, photomontage, or image-based enhancements
 
 ## Activities  
 **Complete the following activities in order. Ask your professor for help if needed.**
@@ -28,25 +37,26 @@ Use what you’ve learned so far (e.g., layout, grids, colour theory, texture) a
 
 <h3 style="color: darkred;">[15–20 min] Sketching</h3>
 
+You may sketch using a **digital or physical notebook**.  
 According to Wikipedia, a sketch is “a rapidly executed freehand drawing that is not usually intended as a finished work.”
 
-### 🔹 Task:
+#### Task:
 - Sketch **three compositions** (one per format), each combining **two different Gestalt principles** from the list above.
 - Explore how these principles interact visually to create structure and meaning.
 
-### 🎨 Composition Formats (Choose one per sketch):
+#### Composition Formats (Choose one per sketch):
 - **Graphic Design** → Logo or Poster  
 - **UI Design** → One-page website mockup or App intro + second screen  
 - **Photomontage** → A photographic composition using collage and texture  
 
-### 💡 Focus on:
+#### Focus on:
 - Artistic experimentation – explore **unexpected visual relationships**  
 - Communication – ensure Gestalt principles support **clarity and impact**  
 - Negative space and layering – enhance **visual hierarchy**  
 - Viewer experience – guide the eye and create **unity in complexity**  
 - Colour & contrast – use them to support perceptual grouping and focus  
 
-> 🔍 Ask the professor for feedback during sketching!
+> Ask the professor for feedback during sketching!
 
 ---
 
