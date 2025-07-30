@@ -72,7 +72,25 @@ Before you begin, **watch the provided tutorial** on Illustrator document setup.
 
 These settings ensure your file is compatible with export and review processes. Files that do not follow the setup guidelines may be marked down.
 
-##### 🎨 Why Colour Modes & Formats Matter
+---
+
+### Create and Organize Your Palettes
+
+Use the hex codes from Adobe Color to manually recreate and organize your palettes in Illustrator:
+
+- Create **one palette per artboard**
+- Clearly **label each colour scheme** (e.g., Monochromatic, Analogous, etc.)
+- For each swatch, include the following information:
+  - **RGB values**
+  - **CMYK values**
+  - **Hex code**
+  - **HSV (Hue, Saturation, Value)**
+
+<iframe src="https://www.iorad.com/player/2502354/Adobe-Illustrator--Colour-Palettes?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+- Ensure your file is **visually organized** and professionally presented. Be intentional with **font choice**, **typographic hierarchy**, and the **placement** of labels and titles—this will contribute to the overall **visual identity** of your palette sheet.
+
+##### ❗ Why Colour Modes & Formats Matter
 
 In professional design workflows, it is essential to understand and correctly apply colour models and values depending on the intended output.
 
@@ -81,56 +99,33 @@ In professional design workflows, it is essential to understand and correctly ap
 - **Hex codes** are a standard in **web design and development**, offering a six-digit alphanumeric representation of RGB colours that ensures consistency across browsers and devices.  
 - **HSV (Hue, Saturation, Value)** is a model used to adjust colours intuitively in design tools—especially useful for refining tonal balance, contrast, and mood in an artwork.
 
-> 📌 Setting up your colour palettes with these values ensures your work is **adaptable, consistent, and ready for real-world applications**—from digital publishing to professional printing and web deployment.
-
----
-
-### 🎨 Create and Organize Your Palettes
-
-Use the hex codes from Adobe Color to manually recreate and organize your palettes in Illustrator:
-- One palette per artboard
-- Clearly label each scheme (Monochromatic, Analogous, etc.)
-
-📥 Export your document as an **Adobe PDF**  
-**Naming Protocol**: `Lastname-Firstname-ColourPalettes.pdf`
+> Setting up your colour palettes with these values ensures your work is **adaptable, consistent, and ready for real-world applications**—from digital publishing to professional printing and web deployment.
 
 ---
 
 <h3 style="color: darkred;">[60–80 min] Add Colour to Previous Compositions</h3>
 
-### 🎨 Select Compositions
+### Select Compositions
 - Choose **three compositions** from **Composition Techniques I – Part 1 & 2**
 - Duplicate your Illustrator files for editing (do not overwrite originals)
 
-### 🛠 Change Colour Mode to CMYK
-In Illustrator:  
-**File → Document Color Mode → CMYK**
-
----
-
-### 🖌️ Apply Your Colour Palettes  
+### Apply Your Colour Palettes  
 Apply one of your custom palettes to each duplicated composition.  
 Focus on:
 - **Contrast** (light vs dark, warm vs cool)  
 - **Perspective** (depth, spatial effect using colour)  
 - **Gradation** (smooth transitions of hue, saturation, or brightness)
+- **Naming Protocol:** `Lastname-Firstname-CompTech2-#.ai`
 
-#### Optional Enhancements:
-- **Use Gradients**  
-  📺 [Adobe Illustrator: Colour Gradients](https://www.iorad.com/player/2496108/Adobe-Illustrator--Colour-Gradients?src=iframe&oembed=1)
+<img src="imgs/17.png" style="width: 50vw; height: auto;">
 
-- **Add Coloured Textures in Photoshop**  
-  📺 [Adobe Photoshop: Colour Filters](https://www.iorad.com/player/2496109/Adobe-Photoshop--Colour-Filters?src=iframe&oembed=1)
+#### Use Gradients
 
----
+<iframe src="https://www.iorad.com/player/2502356/Adobe-Illustrator--Colour-Gradients?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-### 💾 Save Your Files
+#### Add Coloured Textures in Photoshop
 
-Export each coloured composition as a **separate Adobe PDF**  
-**Naming Protocol**:
-- `Lastname-Firstname-CompTech2-1.pdf`
-- `Lastname-Firstname-CompTech2-2.pdf`
-- `Lastname-Firstname-CompTech2-3.pdf`
+<iframe src="https://www.iorad.com/player/2502360/Adobe-Photoshop--Colour-Filters?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 ---
 
@@ -147,3 +142,5 @@ Submit the following:
    - `Lastname-Firstname-CompTech2-3.pdf`
 
 > 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
+
+---
