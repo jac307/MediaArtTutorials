@@ -90,7 +90,8 @@ Before you begin, **watch the provided tutorial** on Illustrator document setup.
   
 **Your Illustrator document must include the following settings:**
 - **Units:** Pixels  
-- **Size:** 1000 × 1000 px (1:1 aspect ratio)  
+- **Size:** 1000 × 1000 px (1:1 aspect ratio)
+- **Bleed:** 10 px 
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI)  
 - **Naming Protocol:** `Lastname-Firstname-CompTech1-#.ai` -- starting with number 5.
