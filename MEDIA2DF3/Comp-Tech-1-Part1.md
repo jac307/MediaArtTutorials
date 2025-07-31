@@ -18,7 +18,7 @@ Create **four digital compositions**, each visualizing one of the following **In
 3. Overlapped  
 4. Interpenetration
 
-<img src="imgs/02.png" style="width: 50vw; height: auto;">
+<img src="imgs/02.png" style="width: 30vw; height: auto;">
 
 In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Form, Repetition, Structure, Similarity, and Gradation**—to explore and highlight the visual characteristics of each interrelationship.  
 
