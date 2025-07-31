@@ -4,8 +4,8 @@
 
 <h1 style="color: darkred;">Composition Techniques I – Part 1</h1>
 
-<figure style="width: 50vw; margin: auto;">
-  <img src="imgs/01.jpg" style="width: 50vw; height: auto;">
+<figure style="width: 40vw; margin: auto;">
+  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
   </figcaption>
