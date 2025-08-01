@@ -47,13 +47,13 @@ Each resulting composition should demonstrate a thoughtful use of colour, especi
   - Tetradic (Square)
 - Experiment with **hue, saturation, and brightness**
 - Save the **hex codes** for each swatch in a safe place.
-- **Follow this tutorial**:  
 
 <iframe src="https://www.iorad.com/player/2502344/Adobe--Colour-Palette-Generator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 ---
 
-#### Document Setup (Required)  
+### Document Setup (Required)  
+
 > ⚠️ **You must follow the tutorial and file setup instructions exactly to avoid losing points.**  
 > Skipping or incorrectly completing this step will affect your grade.
 
