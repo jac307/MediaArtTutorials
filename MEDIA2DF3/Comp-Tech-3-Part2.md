@@ -128,7 +128,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 #### Setup for Website design.
 
-<img src="imgs/web.png" style="width: 50vw; height: auto;">
+<img src="imgs/website.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Web Design:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-Website`
