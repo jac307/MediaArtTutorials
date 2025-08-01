@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Composition Techniques I – Part 2</h1>
 
-<figure style="width: 50vw; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/08.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
@@ -17,20 +17,20 @@ Create **four digital compositions** that explore the **Interrelationships of Fo
 2. Subtraction
 3. Intersection
 
-<img src="imgs/09.png" style="width: 40vw; height: auto;">
+<img src="imgs/09.png" style="width: 80%; height: auto;">
 
 In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Radiation, Anomaly, Contrast, Concentration, Texture, and Space**—to explore and highlight the visual characteristics of each interrelationship.  
 
 Each composition must demonstrate a **thoughtful and cohesive integration** of form relationships and design principles.
 
-<img src="imgs/10.jpeg" style="width: 50vw; height: auto;">
+<img src="imgs/10.jpeg" style="width: 80%; height: auto;">
 
 ## Design Restrictions
 - Use **geometric, organic, or accidental shapes**
 - Designs must be in **black and white**
 - You must incorporate a **grid structure** for each composition (choose one per composition from the following):
 
-<img src="imgs/11.png" style="width: 50vw; height: auto;">
+<img src="imgs/11.png" style="width: 80%; height: auto;">
 
 **Software**:  
 - **Adobe Illustrator** (vector-based composition)  
@@ -67,13 +67,13 @@ A sketch is “a rapidly executed freehand drawing that is not usually intended 
 Using **only lines**, sketch a composition inspired by one of the following Wong’s Principles of Space:
 
 - Flat Space,  
-<img src="imgs/12.png" style="width: 50vw; height: auto;">
+<img src="imgs/12.png" style="width: 80%; height: auto;">
 
 - Illusory Space, or  
-<img src="imgs/13.png" style="width: 50vw; height: auto;">
+<img src="imgs/13.png" style="width: 80%; height: auto;">
   
 - or Fluctuating and Conflicting Space  
-<img src="imgs/14.png" style="width: 50vw; height: auto;">
+<img src="imgs/14.png" style="width: 80%; height: auto;">
 
 ---
 
