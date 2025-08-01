@@ -90,10 +90,12 @@ Use the hex codes from Adobe Color to manually recreate and organize your palett
   - **HSV (Hue, Saturation, Value)**
 - Ensure your file is **visually organized** and professionally presented. Be intentional with **font choice**, **typographic hierarchy**, and the **placement** of labels and titles—this will contribute to the overall **visual identity** of your palette sheet.
 
-<img src="imgs/18-2.png" style="width: 40vw; height: auto;">
-
 To check the information about a color in Adobe Illustrator, select the shape with the color, then double-click on the **Fill** tool.  
 You can view the **CMYK**, **RGB**, **Hex**, and **HSV** values here.
+
+Alternatively, you can also choose the **Eyedropper Tool** from the Fill settings to sample colors directly from your artwork.
+
+<img src="imgs/18-2.png" style="width: 40vw; height: auto;">
 
 ##### ❗ Why Colour Modes & Formats Matter
 
