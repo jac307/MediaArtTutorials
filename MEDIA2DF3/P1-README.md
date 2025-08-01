@@ -17,6 +17,7 @@
 In this project, students will collaborate in small groups (**3–4 students**) to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
 
 Working from sketch to prototype, students will explore how flat geometry can be transformed into dynamic structures through repetition, layering, and spatial organization.  
+
 The process includes **hand-sketching**, **digital design using Illustrator and Inkscape**, and **laser-cutting on birchwood**.  
 
 Final compositions will demonstrate the application of **Wong’s Elements of Two-Dimensional Design** and **basic Colour Theory**, while experimenting with physical materiality and structure.
