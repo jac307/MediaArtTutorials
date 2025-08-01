@@ -90,7 +90,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Composition Layer**: This is where your main shapes should go.  
 - **Background Layer**: Add any background colors or images here.
 
-#### Setup for Poster design.
+#### Setup for Poster design
 
 <img src="imgs/poster.png" style="width: 50vw; height: auto;">
 
@@ -126,7 +126,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Optional**: Adobe Photoshop (for preparing assets/images)
 - Don’t forget to **embed all linked images**.
 
-#### Setup for Website design.
+#### Setup for Website design
 
 <img src="imgs/website.png" style="width: 50vw; height: auto;">
 
@@ -143,7 +143,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Composition Layer**: This is where your main shapes should go.  
 - **Background Layer**: Add any background colors or images here.
 
-#### Setup for App design.
+#### Setup for App design
 
 <img src="imgs/app.png" style="width: 50vw; height: auto;">
 
@@ -167,16 +167,18 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Photoshop
 - **Optional**: Adobe Illustrator ((for preparing or exporting vector-based elements)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.psd`
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Photomontage`
 
-#### Follow these tutorials to properly set up your document for Photomontage.
+#### Setup for Photomontage
 
+<img src="imgs/photomontage.png" style="width: 50vw; height: auto;">
 
 **Your Photoshop document must include the following settings for Photo-Collage:**
 - **Units:** Inches  
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
-- **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Resolution:** 300 PPI
+- **Color Mode:** RGB
+- **Bits:** 16 bits
 
 ---
 
@@ -206,9 +208,9 @@ Submit the following:
    - Naming: `Lastname-Firstname-CompTech3-Sketches.pdf`
 
 2. **Three separate PDF files**, one for each **digital composition**  
-   - **Naming:** `Lastname-Firstname-CompTech3-4.pdf`
-   - **Naming:** `Lastname-Firstname-CompTech3-5.pdf`
-   - **Naming:** `Lastname-Firstname-CompTech3-6.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-Logo.pdf` or `Lastname-Firstname-CompTech3-Poster.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-Website.pdf` or `Lastname-Firstname-CompTech3-App.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-Photomontage.pdf`
 
 3. **Two-sentence description for each composition**  
    - Post directly into **Avenue to Learn** (not as a file)  
