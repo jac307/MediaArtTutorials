@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Composition Techniques II – Colour Application</h1>
 
-<figure style="width: 80vw; margin: auto;">
+<figure style="width: 50vw; margin: auto;">
   <img src="imgs/15.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
@@ -57,9 +57,7 @@ Each resulting composition should demonstrate a thoughtful use of colour, especi
 > ⚠️ **You must follow the tutorial and file setup instructions exactly to avoid losing points.**  
 > Skipping or incorrectly completing this step will affect your grade.
 
-<iframe src="https://www.iorad.com/player/2502350/Adobe-Illustrator--Colour-Palettes-set-up?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-
-Before you begin, **watch the provided tutorial** on Illustrator document setup. Follow it step-by-step to create **one separate file per composition**.
+Before you begin, **watch the provided tutorial** on Illustrator document setup. Follow it step-by-step to create **one file for all compositions**.
 
 **Your Illustrator document must include the following settings:**
 - **Units:** Pixels  
