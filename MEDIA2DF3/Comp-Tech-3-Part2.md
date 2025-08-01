@@ -151,6 +151,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-App`
 - **Units:** Pixels  
 - **Size:** 1125 x 2436 px (iPhone X)
+- **Artboards:** 2
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI)
