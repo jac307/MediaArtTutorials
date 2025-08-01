@@ -48,11 +48,10 @@ Follow the provided step-by-step tutorial on **expressive typography** to unders
 
 <h3 style="color: darkred;">[15–20 min] Sketching – Concept Development</h3>
 
-### Task:  
 Choose **two words** that you will explore through typographic design.  
 Create **two sketches**—one for each word—conceptualizing how you will convey its meaning visually.
 
-### Use the following references and techniques:
+#### Use the following references and techniques:
 - **Munari’s The Shape of Words** – Think about how letterforms can reflect meaning  
 - **Visual Weight** – Bold vs. light, dense vs. open  
 - **Visual Direction** – Flow, alignment, movement  
@@ -66,27 +65,28 @@ Create **two sketches**—one for each word—conceptualizing how you will conve
 
 #### Document Setup (Required)  
 
-> ⚠️ **You must follow the tutorial and file setup instructions exactly to avoid losing points.**  
-> Skipping or incorrectly completing this step will affect your grade.
+<img src="imgs/poster.png" style="width: 50vw; height: auto;">
 
-Before you begin, **watch the provided tutorial** on Illustrator document setup. Follow it step-by-step to create **one separate file per composition**.
+**Your Illustrator document must include the following settings for Poster Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech4-#`
+- **Units:** Inches  
+- **Size:** 11 × 17 in
+- **Bleed:** 0.3 in (on all sides)   
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI)
 
-  
-**Your Illustrator document must include the following settings:**
-- **Units:** Pixels  
-- **Size:** 1000 × 1000 px (1:1 aspect ratio)
-- **Bleed:** 10 px (on all sides)
-- **Color Mode:** RGB
-- **Raster Effects:** High (300 PPI)  
-- **Naming Protocol:** `Lastname-Firstname-CompTech4-#.ai`
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–0.5 in** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
-### Design Requirements:
+#### Design Requirements:
 - Use **Adobe Illustrator** to build your final compositions
 - Present **three variations** per word (as done in the tutorial)
 - Letterforms must be **manually modified**
 - If using images or textures, make sure they are **embedded** in the Illustrator file.
 
-### Things to Consider:
+Things to Consider:
 - **Legibility vs. Expression** – Ensure the word is still readable while expressive  
 - **Negative Space** – Use space intentionally to reinforce meaning  
 - **Hierarchy & Composition** – Guide the viewer’s eye across the layout  
@@ -96,10 +96,12 @@ Before you begin, **watch the provided tutorial** on Illustrator document setup.
 
 <h3 style="color: darkred;">📥 Final Submission</h3>
 
-1. A **single PDF file** containing your **sketches** for all four compositions  
+1. Resulting document from following tutorial: `Lastname-Firstname-CompTech4-Tutorial.pdf`
+
+2. A **single PDF file** containing your **sketches** for all four compositions  
    - **Naming:** `Lastname-Firstname-CompTech4-Sketches.pdf`
 
-2. **Two separate PDF files**, one for each **final composition**  
+3. **Two separate PDF files**, one for each **final composition**  
    - **Naming:**  
      - `Lastname-Firstname-CompTech4-1.pdf`  
      - `Lastname-Firstname-CompTech4-2.pdf`
