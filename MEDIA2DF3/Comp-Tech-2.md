@@ -79,16 +79,13 @@ These settings ensure your file is compatible with export and review processes. 
 
 Use the hex codes from Adobe Color to manually recreate and organize your palettes in Illustrator:
 
-- Create **one palette per artboard**
+- Create **one palette per artboard** following the above example.
 - Clearly **label each colour scheme** (e.g., Monochromatic, Analogous, etc.)
 - For each swatch, include the following information:
   - **RGB values**
   - **CMYK values**
   - **Hex code**
   - **HSV (Hue, Saturation, Value)**
-
-<iframe src="https://www.iorad.com/player/2502354/Adobe-Illustrator--Colour-Palettes?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-
 - Ensure your file is **visually organized** and professionally presented. Be intentional with **font choice**, **typographic hierarchy**, and the **placement** of labels and titles—this will contribute to the overall **visual identity** of your palette sheet.
 
 ##### ❗ Why Colour Modes & Formats Matter
