@@ -71,28 +71,44 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Illustrator
 - **Optional**: Adobe Photoshop (for prepping raster images)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-1.ai`
 - Don’t forget to **embed all linked images**.
 
-#### Follow these tutorials to properly set up your document
+#### Setup for Logo design
 
-<iframe src="https://www.iorad.com/player/2516211/Adobe-Illustrator--Logo-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<img src="imgs/logo.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Logo Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Logo`
 - **Units:** Pixels  
 - **Size:** 1000 × 1000 px (1:1 aspect ratio)
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI)  
+- **Raster Effects:** High (300 PPI)
 
-<iframe src="https://www.iorad.com/player/2516192/Adobe-Illustrator--Poster-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **-20 px** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
+
+#### Setup for Poster design
+
+<img src="imgs/poster.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Poster Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Poster`
 - **Units:** Inches  
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
 - **Bleed:** 0.3 in (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Raster Effects:** High (300 PPI)
+- Inner rectangle boundaries of -0.5 in.
+
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–0.5 in** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
+
+---
 
 #### Recommended tutorials
 
@@ -108,28 +124,42 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Illustrator
 - **Optional**: Adobe Photoshop (for preparing assets/images)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.ai`
 - Don’t forget to **embed all linked images**.
 
-#### Follow these tutorials to properly set up your document
+#### Setup for Website design
 
-<iframe src="https://www.iorad.com/player/2516233/Adobe-Illustrator--Website-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<img src="imgs/website.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Web Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Website`
 - **Units:** Pixels  
 - **Size:** 1920 x 1080 px (Web-Large size)
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Raster Effects:** High (300 PPI)
 
-<iframe src="https://www.iorad.com/player/2516262/Adobe-Illustrator--App-Design-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–50 px** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
+
+#### Setup for App design
+
+<img src="imgs/app.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Mobile Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-App`
 - **Units:** Pixels  
 - **Size:** 1125 x 2436 px (iPhone X)
+- **Artboards:** 2
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Raster Effects:** High (300 PPI)
+
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–50 px** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
 ---
 
@@ -137,16 +167,20 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Photoshop
 - **Optional**: Adobe Illustrator ((for preparing or exporting vector-based elements)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.psd`
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Photomontage`
 
-#### Follow these tutorials to properly set up your document
+#### Setup for Photomontage
 
+<img src="imgs/photomontage.png" style="width: 50vw; height: auto;">
 
 **Your Photoshop document must include the following settings for Photo-Collage:**
 - **Units:** Inches  
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
-- **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Resolution:** 300 PPI
+- **Color Mode:** RGB
+- **Bits:** 16 bits
+
+---
 
 #### Recommended tutorials
 
@@ -174,9 +208,9 @@ Submit the following:
    - Naming: `Lastname-Firstname-CompTech3-Sketches.pdf`
 
 2. **Three separate PDF files**, one for each **digital composition**  
-   - **Naming:** `Lastname-Firstname-CompTech3-1.pdf`
-   - **Naming:** `Lastname-Firstname-CompTech3-2.pdf`
-   - **Naming:** `Lastname-Firstname-CompTech3-3.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-Logo.pdf` or `Lastname-Firstname-CompTech3-Poster.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-Website.pdf` or `Lastname-Firstname-CompTech3-App.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech3-Photomontage.pdf`
 
 3. **Two-sentence description for each composition**  
    - Post directly into **Avenue to Learn** (not as a file)  
