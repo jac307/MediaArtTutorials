@@ -174,6 +174,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 <img src="imgs/photomontage.png" style="width: 50vw; height: auto;">
 
 **Your Photoshop document must include the following settings for Photo-Collage:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Photomontage`
 - **Units:** Inches  
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
 - **Resolution:** 300 PPI
