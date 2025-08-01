@@ -87,14 +87,18 @@ Each student must complete **at least 80%** of their realistic or figurative com
 
 ### Document Setup:
 
-
-
-**Your Illustrator document must include the following settings:**
+**Your Illustrator document must include the following settings for Logo Design:**
+- **Naming Protocol**: `Lastname-Firstname-P2-1` or `Lastname-Firstname-P2-2`
 - **Units:** Inches  
-- **6–8 inches** on its **longest side** (either width or height)
-- **Bleed:** 0.3 in (on all sides)
-- **Color Mode:** RGB
-- **Raster Effects:** High (300 PPI)  
+- **Size:** **6–8 inches** on its **longest side** (either width or height)
+- **Bleed:** 0.3 in (on all sides) 
+- **Color Mode:** RGB  
+- **Raster Effects:** High (300 PPI)
+
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **0.3 in** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
 > **Maintain the same aspect ratio** in all of your compositions to ensure visual consistency across the project.
 > ⚠️ **Important**: Make sure you follow the document setup instructions to avoid losing points.
