@@ -101,7 +101,6 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Bleed:** 0.3 in (on all sides)   
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI)
-- Inner rectangle boundaries of -0.5 in.
 
 **Required Layers:**
 - **Guides Layer**: Include an inner rectangular border at **–0.5 in** from the edges.  
