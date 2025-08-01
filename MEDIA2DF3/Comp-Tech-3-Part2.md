@@ -156,7 +156,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Raster Effects:** High (300 PPI)
 
 **Required Layers:**
-- **Guides Layer**: Include an inner rectangular border at **–20 px** from the edges.  
+- **Guides Layer**: Include an inner rectangular border at **–50 px** from the edges.  
 - **Composition Layer**: This is where your main shapes should go.  
 - **Background Layer**: Add any background colors or images here.
 
