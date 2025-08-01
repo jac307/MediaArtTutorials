@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">Project 2 – Morphologies</h1> 
 *In Pairs with Individual Work*
 
-<figure style="width: 50%; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/25.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students working with the Morphologies of Animals from the Deep Sea.
