@@ -71,7 +71,6 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Illustrator
 - **Optional**: Adobe Photoshop (for prepping raster images)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-1.ai`
 - Don’t forget to **embed all linked images**.
 
 #### Setup for Logo design
@@ -79,6 +78,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 <img src="imgs/logo.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Logo Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Logo`
 - **Units:** Pixels  
 - **Size:** 1000 × 1000 px (1:1 aspect ratio)
 - **Bleed:** 10 px (on all sides)   
@@ -95,6 +95,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 <img src="imgs/poster.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Poster Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Poster`
 - **Units:** Inches  
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
 - **Bleed:** 0.3 in (on all sides)   
@@ -123,7 +124,6 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 - **Primary Software**: Adobe Illustrator
 - **Optional**: Adobe Photoshop (for preparing assets/images)
-- **Naming Protocol**: `Lastname-Firstname-CompTech3-2.ai`
 - Don’t forget to **embed all linked images**.
 
 #### Setup for Website design.
@@ -131,6 +131,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 <img src="imgs/web.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Web Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-Website`
 - **Units:** Pixels  
 - **Size:** 1920 x 1080 px (Web-Large size)
 - **Bleed:** 10 px (on all sides)   
@@ -138,7 +139,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Raster Effects:** High (300 PPI)
 
 **Required Layers:**
-- **Guides Layer**: Include an inner rectangular border at **–20 px** from the edges.  
+- **Guides Layer**: Include an inner rectangular border at **–50 px** from the edges.  
 - **Composition Layer**: This is where your main shapes should go.  
 - **Background Layer**: Add any background colors or images here.
 
@@ -147,6 +148,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 <img src="imgs/app.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Mobile Design:**
+- **Naming Protocol**: `Lastname-Firstname-CompTech3-App`
 - **Units:** Pixels  
 - **Size:** 1125 x 2436 px (iPhone X)
 - **Bleed:** 10 px (on all sides)   
@@ -154,7 +156,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Raster Effects:** High (300 PPI)
 
 **Required Layers:**
-- **Guides Layer**: Include an inner rectangular border at **–10 px** from the edges.  
+- **Guides Layer**: Include an inner rectangular border at **–20 px** from the edges.  
 - **Composition Layer**: This is where your main shapes should go.  
 - **Background Layer**: Add any background colors or images here.
 
