@@ -17,7 +17,7 @@ Create **four digital compositions** that explore the **Interrelationships of Fo
 2. Subtraction
 3. Intersection
 
-<img src="imgs/09.png" style="width: 50vw; height: auto;">
+<img src="imgs/09.png" style="width: 40vw; height: auto;">
 
 In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Radiation, Anomaly, Contrast, Concentration, Texture, and Space**—to explore and highlight the visual characteristics of each interrelationship.  
 
