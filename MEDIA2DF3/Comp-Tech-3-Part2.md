@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Composition Techniques III – Part 1</h1>
 
-<figure style="width: 80vw; margin: auto;">
+<figure style="width: 50vw; margin: auto;">
   <img src="imgs/21.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
@@ -74,9 +74,9 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-1.ai`
 - Don’t forget to **embed all linked images**.
 
-#### Follow these tutorials to properly set up your document
+#### Follow these tutorials to properly set up your document for Logo design.
 
-<iframe src="https://www.iorad.com/player/2516211/Adobe-Illustrator--Logo-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator-1--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 **Your Illustrator document must include the following settings for Logo Design:**
 - **Units:** Pixels  
@@ -85,7 +85,9 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI)  
 
-<iframe src="https://www.iorad.com/player/2516192/Adobe-Illustrator--Poster-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+#### Follow these tutorials to properly set up your document for Poster design.
+
+
 
 **Your Illustrator document must include the following settings for Poster Design:**
 - **Units:** Inches  
@@ -93,6 +95,8 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Bleed:** 0.3 in (on all sides)   
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI) 
+
+---
 
 #### Recommended tutorials
 
@@ -111,9 +115,9 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-2.ai`
 - Don’t forget to **embed all linked images**.
 
-#### Follow these tutorials to properly set up your document
+#### Follow these tutorials to properly set up your document for Website design.
 
-<iframe src="https://www.iorad.com/player/2516233/Adobe-Illustrator--Website-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
 
 **Your Illustrator document must include the following settings for Web Design:**
 - **Units:** Pixels  
@@ -122,7 +126,9 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI) 
 
-<iframe src="https://www.iorad.com/player/2516262/Adobe-Illustrator--App-Design-Setup?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+#### Follow these tutorials to properly set up your document for App design.
+
+
 
 **Your Illustrator document must include the following settings for Mobile Design:**
 - **Units:** Pixels  
@@ -139,7 +145,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Optional**: Adobe Illustrator ((for preparing or exporting vector-based elements)
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-2.psd`
 
-#### Follow these tutorials to properly set up your document
+#### Follow these tutorials to properly set up your document for Photomontage.
 
 
 **Your Photoshop document must include the following settings for Photo-Collage:**
@@ -147,6 +153,8 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
 - **Color Mode:** RGB  
 - **Raster Effects:** High (300 PPI) 
+
+---
 
 #### Recommended tutorials
 
