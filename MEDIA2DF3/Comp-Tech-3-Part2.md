@@ -74,27 +74,38 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-1.ai`
 - Don’t forget to **embed all linked images**.
 
-#### Follow these tutorials to properly set up your document for Logo design.
+#### Setup for Logo design
 
-<iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator-1--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<img src="imgs/logo.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Logo Design:**
 - **Units:** Pixels  
 - **Size:** 1000 × 1000 px (1:1 aspect ratio)
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI)  
+- **Raster Effects:** High (300 PPI)
 
-#### Follow these tutorials to properly set up your document for Poster design.
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **-20 px** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
+#### Setup for Poster design.
 
+<img src="imgs/poster.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Poster Design:**
 - **Units:** Inches  
 - **Size:** 11 × 17 in (vertical) or 17 × 11 in (horizontal) (Tabloid size)
 - **Bleed:** 0.3 in (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Raster Effects:** High (300 PPI)
+- Inner rectangle boundaries of -0.5 in.
+
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–0.5 in** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
 ---
 
@@ -115,27 +126,37 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-2.ai`
 - Don’t forget to **embed all linked images**.
 
-#### Follow these tutorials to properly set up your document for Website design.
+#### Setup for Website design.
 
-
+<img src="imgs/web.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Web Design:**
 - **Units:** Pixels  
 - **Size:** 1920 x 1080 px (Web-Large size)
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Raster Effects:** High (300 PPI)
 
-#### Follow these tutorials to properly set up your document for App design.
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–20 px** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
+#### Setup for App design.
 
+<img src="imgs/app.png" style="width: 50vw; height: auto;">
 
 **Your Illustrator document must include the following settings for Mobile Design:**
 - **Units:** Pixels  
 - **Size:** 1125 x 2436 px (iPhone X)
 - **Bleed:** 10 px (on all sides)   
 - **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI) 
+- **Raster Effects:** High (300 PPI)
+
+**Required Layers:**
+- **Guides Layer**: Include an inner rectangular border at **–10 px** from the edges.  
+- **Composition Layer**: This is where your main shapes should go.  
+- **Background Layer**: Add any background colors or images here.
 
 ---
 
