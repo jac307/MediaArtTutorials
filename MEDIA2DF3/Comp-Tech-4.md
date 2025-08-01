@@ -36,7 +36,7 @@ Each composition should:
 ### Task:
 Follow the provided step-by-step tutorial on **expressive typography** to understand how to manipulate letterforms effectively.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3wk9KfgIj7I?si=6lZyZLtmrfT6CMzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Complete the tutorial **exactly as instructed**
 - Export and upload your final document as your **first submission**
