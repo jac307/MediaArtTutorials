@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">P2 – In-Class Work I: Sketching & First Composition</h1>  
 *Project 2 – In Pairs with Individual Work*
 
-<figure style="width: 80vw; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/26.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
