@@ -42,7 +42,7 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 - **Required materials** include: 
   - Birchwood sheets (0.3 in thick, 24 × 12 in).
   - Paint, and basic tools provided by the students.
-  > Estimated shared cost: **$50 per group**, charged through the **School of the Arts**.
+  > Estimated shared cost: **$50 per group** --Birchwood sheets will be charged through the McMaster's accounts.
 - All plates must be designed in **Inkscape**, the software required by the Makerspace.
 
 ---
