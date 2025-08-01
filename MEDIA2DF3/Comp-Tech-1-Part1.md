@@ -18,7 +18,7 @@ Create **four digital compositions**, each visualizing one of the following **In
 3. Overlapped  
 4. Interpenetration
 
-<img src="imgs/02.png" style="width: 30vw; height: auto;">
+<img src="imgs/02.png" style="width: 40vw; height: auto;">
 
 In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Form, Repetition, Structure, Similarity, and Gradation**—to explore and highlight the visual characteristics of each interrelationship.  
 
@@ -97,7 +97,7 @@ These settings ensure your file is compatible with export and review processes. 
 
 #### Create Your Grids
 - Use your **sketched grids** as a reference when recreating them in Adobe Illustrator.
-- Place all grid elements in the **"Grid"** or **"Guides"** layer to keep your file organized and editable.
+- Place all grid elements in the **"Guides"** layer to keep your file organized and editable.
 - ⚠️ Grids must be properly structured to support your final composition. **Watch this tutorial** to learn how to properly set up your grids in Illustrator:  
 
 <iframe src="https://www.iorad.com/player/2496032/Creating-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
