@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Composition Techniques IV – Typographic Expression</h1>
 
-<figure style="width: 50vw; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/23.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
@@ -20,7 +20,7 @@ Each composition should:
 - Demonstrate conceptual strength and creative experimentation
 - Maintain consistency in **quality**, **craft**, and **style** across all three compositions
 
-<img src="imgs/24.jpeg" style="width: 50vw; height: auto;">
+<img src="imgs/24.jpeg" style="width: 80%; height: auto;">
 
 **Software**:  
 - **Adobe Illustrator** (vector-based composition)  
@@ -65,7 +65,7 @@ Create **two sketches**—one for each word—conceptualizing how you will conve
 
 #### Document Setup (Required)  
 
-<img src="imgs/poster.png" style="width: 50vw; height: auto;">
+<img src="imgs/poster.png" style="width: 100%; height: auto;">
 
 **Your Illustrator document must include the following settings for Poster Design:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech4-#`
