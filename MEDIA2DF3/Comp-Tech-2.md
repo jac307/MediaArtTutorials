@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Composition Techniques II – Colour Application</h1>
 
-<figure style="width: 50vw; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/15.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
@@ -19,7 +19,7 @@ Create **five colour palettes** using the following colour schemes:
 - Triadic  
 - Tetradic (Square)
 
-<img src="imgs/16.jpeg" style="width: 50vw; height: auto;">
+<img src="imgs/16.jpeg" style="width: 80%; height: auto;">
 
 Then apply **three of these palettes** to compositions you created in **Composition Techniques I (Parts 1 & 2)**.  
 Each resulting composition should demonstrate a thoughtful use of colour, especially in relation to **contrast**, **perspective**, and **gradation**.
@@ -77,7 +77,7 @@ These settings ensure your file is compatible with export and review processes. 
 
 ### Create and Organize Your Palettes
 
-<img src="imgs/18.png" style="width: 50vw; height: auto;">
+<img src="imgs/18.png" style="width: 80%; height: auto;">
 
 Use the hex codes from Adobe Color to manually recreate and organize your palettes in Illustrator:
 
@@ -95,7 +95,7 @@ You can view the **CMYK**, **RGB**, **Hex**, and **HSV** values here.
 
 Alternatively, you can also choose the **Eyedropper Tool** from the Fill settings to sample colors directly from your artwork.
 
-<img src="imgs/18-2.png" style="width: 40vw; height: auto;">
+<img src="imgs/18-2.png" style="width: 80%; height: auto;">
 
 ##### ❗ Why Colour Modes & Formats Matter
 
@@ -125,7 +125,7 @@ Focus on:
 - **Gradation** (smooth transitions of hue, saturation, or brightness)
 - **Naming Protocol:** `Lastname-Firstname-CompTech2-#.ai`
 
-<img src="imgs/17.png" style="width: 50vw; height: auto;">
+<img src="imgs/17.png" style="width: 80%; height: auto;">
 
 #### Use Gradients
 
