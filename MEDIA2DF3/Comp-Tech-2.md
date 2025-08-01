@@ -59,6 +59,8 @@ Each resulting composition should demonstrate a thoughtful use of colour, especi
 
 Before you begin, **watch the provided tutorial** on Illustrator document setup. Follow it step-by-step to create **one file for all compositions**.
 
+<iframe src="https://www.iorad.com/player/2588725/Adobe-Illustrator-8--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
 **Your Illustrator document must include the following settings:**
 - **Units:** Pixels  
 - **Size:** 1000 × 1000 px (1:1 aspect ratio)  
@@ -87,6 +89,11 @@ Use the hex codes from Adobe Color to manually recreate and organize your palett
   - **Hex code**
   - **HSV (Hue, Saturation, Value)**
 - Ensure your file is **visually organized** and professionally presented. Be intentional with **font choice**, **typographic hierarchy**, and the **placement** of labels and titles—this will contribute to the overall **visual identity** of your palette sheet.
+
+<img src="imgs/18-2.png" style="width: 40vw; height: auto;">
+
+To check the information about a color in Adobe Illustrator, select the shape with the color, then double-click on the **Fill** tool.  
+You can view the **CMYK**, **RGB**, **Hex**, and **HSV** values here.
 
 ##### ❗ Why Colour Modes & Formats Matter
 
