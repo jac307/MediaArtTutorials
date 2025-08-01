@@ -8,7 +8,7 @@
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/25.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students working with the Morphologies of Animals from the Deep Sea.
+    Examples by previous students working with Project 1 – Vector to Volume
   </figcaption>
 </figure>
 
