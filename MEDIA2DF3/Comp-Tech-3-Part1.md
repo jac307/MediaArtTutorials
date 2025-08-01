@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Composition Techniques III – Part 1</h1>
 
-<figure style="width: 50vw; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/19.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
@@ -21,7 +21,7 @@ Create **three digital compositions**, each combining **two different Gestalt Pr
 5. Figure/Ground  
 6. Prägnanz
 
-<img src="imgs/20.png" style="width: 50vw; height: auto;">
+<img src="imgs/20.png" style="width: 80%; height: auto;">
 
 Each composition should demonstrate how the selected principles interact to affect **form**, **structure**, and **visual perception**.  
 Use what you’ve learned so far (e.g., layout, grids, colour theory, texture) along with the **new Gestalt concepts and examples** introduced in class to produce designs that are **intentional**, **engaging**, and **format-aware**.
@@ -75,7 +75,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 #### Setup for Logo design
 
-<img src="imgs/logo.png" style="width: 50vw; height: auto;">
+<img src="imgs/logo.png" style="width: 100%; height: auto;">
 
 **Your Illustrator document must include the following settings for Logo Design:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-Logo`
@@ -92,7 +92,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 #### Setup for Poster design
 
-<img src="imgs/poster.png" style="width: 50vw; height: auto;">
+<img src="imgs/poster.png" style="width: 100%; height: auto;">
 
 **Your Illustrator document must include the following settings for Poster Design:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-Poster`
@@ -127,7 +127,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 #### Setup for Website design
 
-<img src="imgs/website.png" style="width: 50vw; height: auto;">
+<img src="imgs/website.png" style="width: 100%; height: auto;">
 
 **Your Illustrator document must include the following settings for Web Design:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-Website`
@@ -144,7 +144,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 #### Setup for App design
 
-<img src="imgs/app.png" style="width: 50vw; height: auto;">
+<img src="imgs/app.png" style="width: 100%; height: auto;">
 
 **Your Illustrator document must include the following settings for Mobile Design:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-App`
@@ -170,7 +170,7 @@ You must follow the appropriate setup tutorial and use correct **file naming** c
 
 #### Setup for Photomontage
 
-<img src="imgs/photomontage.png" style="width: 50vw; height: auto;">
+<img src="imgs/photomontage.png" style="width: 100%; height: auto;">
 
 **Your Photoshop document must include the following settings for Photo-Collage:**
 - **Naming Protocol**: `Lastname-Firstname-CompTech3-Photomontage`
