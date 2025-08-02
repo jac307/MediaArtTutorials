@@ -74,7 +74,7 @@ All materials can be purchased at:
   *Recommendation:* 1–2 per group
 
 - **Wood Glue**  
-  *Option:* 2 × Elmer's® Glue-All® Extra Strong (225 ml) – **$7.99 × 2**
+  *Option:* Gorilla® Wood Glue (118.29 ml) – **$4.99 × 2**
 
 ---
 
