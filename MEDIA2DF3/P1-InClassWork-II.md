@@ -66,10 +66,15 @@ After cutting, your group will design a **gradient effect across your entire com
 
 ---
 
-## Before Final S
+<h3 style="color: darkred;">📥 Submission</h3>
 
-- Finish all colour mixing and label each final tone.
-- Upload a photo of your **final colour palette + HSV breakdown** to Avenue to Learn.
-- Make sure all your cut shapes are complete and organized for assembly.
-- Come prepared for **Part 3 – Final Assembly & Submission**.
+1. Upload a photo of your **final colour palette + HSV breakdown** to Avenue to Learn.
+   - **Naming Protocol**: `Group-#-ColorPalette.pdf`
 
+2. Make sure all your cut shapes are complete and organized for assembly.
+
+Review the **required materials list** for Part 2 and bring them to the next class.
+
+> 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
+
+---
