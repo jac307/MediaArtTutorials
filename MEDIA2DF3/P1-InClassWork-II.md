@@ -60,8 +60,7 @@ Allow the white base coat to **fully dry** before moving to colour application.
 After prepping your pieces, your group will applied your **gradient effect across your entire composition**, using **solid colours** assigned **one per plane** to simulate colour flow and variation.
 
 ### Colour Mixing Rules:
-- You may use only: **red, yellow, blue, white, and black**
-- All colours must be **hand-mixed**—no pre-mixed paints allowed
+- All colours must be **hand-mixed**—no pre-mixed paints allowed. Allow paints: **red, yellow, blue, white, and black**
 - Mix your full palette in advance before applying colour to the pieces
 - Mix **enough paint for at least 2–3 coats** per shape.  
 - Store your mixed colours in the **required labeled containers** for later use and touch-ups.
