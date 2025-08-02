@@ -6,9 +6,9 @@
 *Group Project – 3 to 4 students per group*
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/27.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/33.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Birchwood compositions enhanced with layered colour and controlled gradients.
+    Examples from the internet.
   </figcaption>
 </figure>
 
