@@ -72,10 +72,17 @@ During the final hour of class, we will walk together to the **Thode Makerspace*
 
 ---
 
-## ⚠️ Before Next Class
+<h3 style="color: darkred;">📥 Submission</h3>
 
-- Complete and upload your finalized **.SVG vector files** to Avenue To Learn.  
-  > **File naming:** `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
-- Double-check all **measurements**, **spacing**, and **layer organization**.
-- Review the **required materials list** for Part 2 and bring them to the next class.
+1. Group brainstorming notes and sketches
+   - **Naming Protocol**: `Group-#-Notes.pdf`
 
+2. Two **Individual** Submission
+   - **File naming:** `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
+     - Double-check all **measurements**, **spacing**, and **layer organization**.
+
+Review the **required materials list** for Part 2 and bring them to the next class.
+
+> 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
+
+---
