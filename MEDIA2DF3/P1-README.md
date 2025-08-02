@@ -94,7 +94,7 @@ All materials can be purchased at:
 ### Paints (per group)
 
 All groups **must purchase**:
-- **White** and **Black** acrylic paint (for adjusting value and saturation)
+- **White** and **Black** acrylic paint (for base coating, and adjusting value & saturation)
 - At least **two** of the **primary colours (Red, Blue, Yellow)**  
 >   Select based on the hues needed for your group's gradient palette.
 
