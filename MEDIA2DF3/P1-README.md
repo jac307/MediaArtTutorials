@@ -6,7 +6,7 @@
 *Group Project (3–4 students)*
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/25.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/28.JPG" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students working with Project 1 – Vector to Volume
   </figcaption>
@@ -78,6 +78,10 @@ All materials can be purchased at:
 
 ---
 
+<img src="imgs/29.png" style="width: 80%; height: auto;">
+
+--
+
 ### Individual Materials (each student)
 
 - **Acrylic Brush (Level 1: Academic, Medium–Large size)**  
@@ -103,12 +107,16 @@ All groups **must purchase**:
 - Primary Yellow (250 ml) – **$13.99**
 - Ivory Black (250 ml) – **$13.99**
 
+<img src="imgs/30.png" style="width: 80%; height: auto;">
+
 #### **Option 2: Artist’s Loft Acrylic**
 - Titanium White (250 ml) × 2 – **$10.49 × 2**
 - Cerulean Blue (250 ml) – **$10.49**
 - Deep Red (250 ml) – **$10.49**
 - Deep Yellow (250 ml) – **$10.49**
 - Ivory Black (250 ml) – **$10.49**
+
+<img src="imgs/31.png" style="width: 80%; height: auto;">
 
 ---
 
