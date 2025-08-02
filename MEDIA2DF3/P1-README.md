@@ -22,7 +22,7 @@ The process includes **hand-sketching**, **digital design using Illustrator and 
 
 Final compositions will demonstrate the application of **Wong’s Elements of Two-Dimensional Design** and **basic Colour Theory**, while experimenting with physical materiality and structure.
 
-> **This project is inspired by the paper-engineered sculptural work of Matt Shlian.**
+> **This project is inspired by the paper-engineered sculptural work of [Matt Shlian](https://www.mattshlian.com/).**
 
 ---
 
