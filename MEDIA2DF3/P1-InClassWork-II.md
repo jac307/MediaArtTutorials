@@ -13,14 +13,14 @@
 </figure>
 
 In this session, you will move from digital preparation to **material production and colour design**. Each group will:
-- Finalize and print their components using the **laser cutter** at the Thode Makerspace.
+- Print their components using the **laser cutter** at the Thode Makerspace.
 - Develop and mix a **custom gradient-based colour scheme** using **HSV principles** and **primary pigments** only.
 
-> 🎯 Your goal is to create a consistent and visually engaging **gradient transition** across your composition—no texture is allowed.
+> Your goal is to create a consistent and visually engaging **gradient transition** across your composition—no texture is allowed.
 
 ---
 
-<h2 style="color: darkred;">⏳ Laser Cutting Session (45–60 min)</h2>
+<h2 style="color: darkred;">Laser Cutting Session (45–60 min)</h2>
 
 Each group will meet their scheduled appointment at the **Thode Makerspace** to complete the laser-cutting of their designs.
 
@@ -36,24 +36,24 @@ Each group will meet their scheduled appointment at the **Thode Makerspace** to 
 
 <h2 style="color: darkred;">🎨 Colour Mixing & Gradient Design (45–60 min)</h2>
 
-Once cutting is complete, your group will begin planning and **mixing the colours** for your final composition.
+After cutting, your group will design a **gradient effect across your entire composition**, using **solid colours** assigned **one per plane** to simulate colour flow and variation.
 
 ### Colour Mixing Rules:
 - You may use only: **red, yellow, blue, white, and black**.
-- All colours must be **mixed by hand**—no pre-mixed paints allowed.
-- Store colours in labeled containers (provided in class).
+- All colours must be **hand-mixed**—no pre-mixed colours.
+- Mix your palette in advance before painting any pieces.
 
-### Gradient Requirements:
-- You must apply **colour gradients** across your composition—no solid or flat fills.
-- Gradients can be:
-  - Simple (e.g., one colour fading to another)
-  - Complex (e.g., multi-stop or rainbow gradients)
-- All gradients must be designed using **HSV values** (Hue, Saturation, Value):
-  - **Hue:** adjust for colour change across the form
-  - **Saturation:** control intensity
-  - **Value:** define light-to-dark transitions
+### Gradient Strategy:
+- Assign each shape a **single solid colour**, arranged to produce a **visible gradient transition** across the composition.
+- You may design:
+  - **Linear gradients** (e.g., red to blue)
+  - **Complex or multi-hue gradients** (e.g., rainbow transitions)
+- Use **HSV (Hue, Saturation, Value)** to guide your colour changes:
+  - **Hue** → controls the shift in colour
+  - **Saturation** → adjusts intensity across steps
+  - **Value** → sets brightness and darkness across the range
 
-> 🖌️ **Texture is not allowed**—the emphasis is on colour interaction and flow.
+> **Do not paint blended gradients onto the pieces**. Each plane must be filled with a solid colour.
 
 ---
 
@@ -66,7 +66,7 @@ Once cutting is complete, your group will begin planning and **mixing the colour
 
 ---
 
-## ✅ Before Next Class
+## Before Final S
 
 - Finish all colour mixing and label each final tone.
 - Upload a photo of your **final colour palette + HSV breakdown** to Avenue to Learn.
