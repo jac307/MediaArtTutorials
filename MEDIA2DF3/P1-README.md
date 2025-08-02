@@ -22,7 +22,7 @@ The process includes **hand-sketching**, **digital design using Illustrator and 
 
 Final compositions will demonstrate the application of **Wong’s Elements of Two-Dimensional Design** and **basic Colour Theory**, while experimenting with physical materiality and structure.
 
-> **This project is inspired by the paper-engineered sculptural work of [Matt Shlian](https://www.mattshlian.com/).**
+> **This project is inspired by the paper-engineered sculptural work of <a href="https://www.mattshlian.com/" target="_blank">Matt Shlian</a>.**
 
 ---
 
@@ -36,7 +36,7 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 
 ## Notes
 
-- Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** and the **in-person training** prior to any Project-1 session.
+- ⚠️ Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** and the **in-person training** prior to any Project-1 session. ⚠️
 - A **laser-cutting session must be booked** at the **Thode Makerspace** in advance for production.  
   The instructor will confirm group printing schedules during Week 2.
 - **Required materials** include: 
