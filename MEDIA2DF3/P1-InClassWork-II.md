@@ -14,7 +14,7 @@
 
 ---
 
-> ⚠️ You must complete the setup of your **Inkscape documents** *before* this session to participate in lasser-printing session.
+> ⚠️ You must complete the setup of your **Inkscape documents** *before* this session to participate in the lasser-printing session.
 
 In this session, you will move from digital preparation to **material production and colour design**. Each group will:
 - Print their components using the **laser cutter** at the Thode Makerspace.
