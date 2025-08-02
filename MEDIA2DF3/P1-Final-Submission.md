@@ -14,11 +14,10 @@ Final marks will reflect your attention to:
 - Craftsmanship and colour execution (smooth finishes, clean gradients)
 - Consistency and alignment across shapes
 - Laser-cutting precision and structural assembly
-- Participation in the final exhibition and care in presentation
 
 ---
 
-## 🎨 Painting & Assembly Guidelines
+## Painting & Assembly Guidelines
 
 Your group must:
 
@@ -33,6 +32,7 @@ Your group must:
 - Use **2–3 thin, even layers** of colour
 - Let paint **dry completely** between layers
 - Ensure **consistency of colour progression and tone** across all pieces
+- ⚠️ **Don't forget to paint your base too before assembling**
 
 ### Assembly Instructions:
 - Assemble your structure following your sketch plan
@@ -47,11 +47,7 @@ You will install your final group project during our **Class Exhibition Session*
 
 ### Display Requirements:
 - Your piece must be **fully assembled and dry**
-- You must mount or display your work in a way that:
-  - Prevents damage or tipping
-  - Communicates your gradient design and structure clearly
-
-> You may use optional supports (cardboard base, plinth, foam board) as long as they don’t obstruct or overpower the piece.
+- The instructor will assign a designated space for exhibiting **Project 1**
 
 > ⚠️ Late or incomplete assembly will affect your grade.
 
@@ -61,14 +57,14 @@ You will install your final group project during our **Class Exhibition Session*
 
 Each group must complete the following:
 
-### ✅ In-Person (at the Exhibition):
+### In-Person (at the Exhibition):
 - Submit your **fully assembled and painted composition**
 - Instructor will check:
   - Craftsmanship
   - Gradient clarity
   - Assembly quality
 
-### ✅ Online (A2L – upload by midnight):
+### Online (A2L – upload by midnight):
 - **Group Exhibition Info PDF**
 
 📄 Must include:
@@ -88,3 +84,5 @@ Each group must complete the following:
 
 > All materials must be submitted to **Avenue to Learn** by the deadline.  
 > **Late or incomplete submissions will receive a grade deduction.**
+
+---
