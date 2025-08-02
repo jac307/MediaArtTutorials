@@ -61,12 +61,14 @@ After cutting, your group will design a **gradient effect across your entire com
 
 ---
 
-### Tips for Successful Colour Design:
+### Follow these tips for Successful Colour Design:
 - Mix **small test batches** before committing to full sets.
-- Plan your gradient transitions on paper before applying to wood.
-- Keep brush strokes smooth and consistent.
-- Apply **2–3 layers** as needed for even coverage.
-- Allow layers to fully dry between applications.
+- Plan your **gradient transitions on paper** before painting the wood.
+- You **must** apply a base coat of **white** to all shapes **before adding any color**.  
+  > This ensures brightness, consistency, and proper color accuracy on birchwood.
+- Keep brush strokes **smooth and consistent** to avoid marks.
+- Apply **2–3 thin layers** of paint for full, even coverage.
+- Allow each layer to **fully dry** before applying the next.
 
 ---
 
