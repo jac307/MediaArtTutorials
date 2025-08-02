@@ -7,7 +7,7 @@
 
 ---
 
-This is a **physical, in-person submission**. Each group will present their completed birchwood composition as part of the **Class Exhibition**.
+This is a **physical, in-person submission**. Each group will present their completed composition as part of the **Class Exhibition**.
 
 Final marks will reflect your attention to:
 
