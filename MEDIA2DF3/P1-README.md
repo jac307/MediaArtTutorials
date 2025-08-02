@@ -36,16 +36,14 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 
 ## Notes
 
+- Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** prior to any Project-1 session.
 - A **laser-cutting session must be booked** at the **Thode Makerspace** in advance for production.  
   The instructor will confirm group printing schedules during Week 2.
-- Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** prior to any laser-cutting session.
 - **Required materials** include: 
   - Birchwood sheets (0.3 in thick, 24 × 12 in).
   - Paint, and basic tools provided by the students --see below.
   > Estimated shared cost: **$50 per group** --Birchwood sheets will be charged through the McMaster's accounts.
 - All plates must be designed in **Inkscape**, the software required by the Makerspace.
-
----
 
 ❗ **Reminder:** This is a collaborative project. Design work, cutting, and assembly must be shared equally among all group members. Participation, time management, and group communication will be factored into the evaluation.
 
