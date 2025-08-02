@@ -85,6 +85,8 @@ Include a rough sketch or mock-up if helpful.
      - `Lastname-Firstname-P2-3.pdf`  
      - `Lastname-Firstname-P2-4.pdf`
 
+Check [Final Submission Guidelines](P2-Final-Submission.md)
+
 > 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
 
 ---
