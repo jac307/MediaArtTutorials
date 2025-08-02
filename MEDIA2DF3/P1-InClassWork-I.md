@@ -26,16 +26,16 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
 
 ### Your group sketch must:
 - Include **20–30 individual planes** arranged over a defined **base**.
-  > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick) --charged to your **McMaster School of the Arts account**.
-- Apply at least one of the following design principles:  
-  *Similarity, Gradation, Anomaly, Contrast, Concentration, Texture*.
+  > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick) --charged to your **McMaster account**.
+- Apply at least two of the following design principles:  
+  *Form, Repetition, Structure, Similarity, Gradation, Radiation, Anomaly, Contrast, Concentration, Texture*.
 - Clearly define the **shape**, **dimensions**, and **spacing** of each plane.
 - Incorporate variation in **height**, **depth**, and **angle**.
 - Propose a **colour scheme** based on gradation.
 - Identify potential **connectors or supports** between planes.
 - You must consider the shape, size, and color of the base.
 
-### Gradient Strategy:
+### Color Scheme - Gradient Strategy:
 - Assign each shape a **single solid colour**, arranged to produce a **visible gradient transition**
 - You may design:
   - **Linear gradients** (e.g., red to blue)
