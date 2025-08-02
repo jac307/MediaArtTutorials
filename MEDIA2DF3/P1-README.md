@@ -105,7 +105,7 @@ All groups **must purchase**:
 - Primary Yellow (250 ml) – **$13.99**
 - Ivory Black (250 ml) – **$13.99**
 
-<img src="imgs/30.png" style="width: 80%; height: auto;">
+<img src="imgs/30.png" style="width: 60%; height: auto;">
 
 #### **Option 2: Artist’s Loft Acrylic**
 - Titanium White (250 ml) × 2 – **$10.49 × 2**
@@ -114,7 +114,7 @@ All groups **must purchase**:
 - Deep Yellow (250 ml) – **$10.49**
 - Ivory Black (250 ml) – **$10.49**
 
-<img src="imgs/31.png" style="width: 80%; height: auto;">
+<img src="imgs/31.png" style="width: 60%; height: auto;">
 
 ---
 
