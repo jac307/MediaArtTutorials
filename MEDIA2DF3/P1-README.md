@@ -41,7 +41,7 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 - Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** prior to any laser-cutting session.
 - **Required materials** include: 
   - Birchwood sheets (0.3 in thick, 24 × 12 in).
-  - Paint, and basic tools provided by the students.
+  - Paint, and basic tools provided by the students --see below.
   > Estimated shared cost: **$50 per group** --Birchwood sheets will be charged through the McMaster's accounts.
 - All plates must be designed in **Inkscape**, the software required by the Makerspace.
 
@@ -50,3 +50,74 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 ❗ **Reminder:** This is a collaborative project. Design work, cutting, and assembly must be shared equally among all group members. Participation, time management, and group communication will be factored into the evaluation.
 
 ---
+
+## Required Materials for Project 1
+
+All materials can be purchased at:
+
+- [Michaels](https://www.michaels.com/), or  
+- **Mixed Media Art Shop**, 1058 King St W, Hamilton, ON L8S 1G7
+
+> **Important:** Each student must purchase a **good quality brush** for painting.  
+> Visible brush marks on birchwood surfaces will result in **grade deductions**.
+
+---
+
+### Group Materials (1 set per group)
+
+- **Fine Grit Sandpaper** (for smoothing laser-cut edges)  
+  *Option:* Craft Smart Fine Grit Sandpaper – **$12.99**
+
+- **Bead Landing Jewelry Organizer** (for storing mixed paints)  
+  Size: 6.2 in × 4.7 in × 2 in, 12 compartments  
+  *Option:* Bead Landing Organizer – **$12.99**  
+  *Recommendation:* 1–2 per group
+
+- **Wood Glue**  
+  *Option:* 2 × Elmer's® Glue-All® Extra Strong (225 ml) – **$7.99 × 2**
+
+---
+
+### Individual Materials (each student)
+
+- **Acrylic Brush (Level 1: Academic, Medium–Large size)**  
+  *Option:* Acrylic Brush – **$5–7**  
+  > ✨ Must be **good quality** to avoid streaks and marks on painted wood.
+
+- **Cheap Brush (for glue application, medium size)**  
+  *Option:* Budget brush – **$1–2**
+
+---
+
+### Paints (per group)
+
+All groups **must purchase**:
+- **White** and **Black** acrylic paint (for adjusting value and saturation)
+- At least **two** of the **primary colours (Red, Blue, Yellow)**  
+>   Select based on the hues needed for your group's gradient palette.
+
+#### **Option 1: Liquitex Basics Acrylics**
+- Titanium White (400 ml) – **$19.99**
+- Primary Blue (250 ml) – **$13.99**
+- Primary Red (250 ml) – **$13.99**
+- Primary Yellow (250 ml) – **$13.99**
+- Ivory Black (250 ml) – **$13.99**
+
+#### **Option 2: Artist’s Loft Acrylic**
+- Titanium White (250 ml) × 2 – **$10.49 × 2**
+- Cerulean Blue (250 ml) – **$10.49**
+- Deep Red (250 ml) – **$10.49**
+- Deep Yellow (250 ml) – **$10.49**
+- Ivory Black (250 ml) – **$10.49**
+---
+
+### Notes
+
+- Shared materials should be divided fairly across group members.
+- All paints must be **mixed by hand** using only the **primary colours + black and white**.
+- Brushes must be cleaned and dried properly after each use.
+- Bring your materials to class **Part 2 – Colour Planning & Assembly**.
+
+---
+
+
