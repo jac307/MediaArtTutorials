@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">P1 – In-Class Work II: Laser Cutting, Colour Mixing & Gradient Planning</h1>  
 *Group Project – 3 to 4 students per group*
 
-<figure style="width: 100%; margin: auto;">
+<figure style="width: 80%; margin: auto;">
   <img src="imgs/33.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples from the internet.
