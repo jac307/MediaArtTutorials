@@ -62,7 +62,7 @@ Being proficient across both proprietary and open-source tools strengthens your 
 
 ---
 
-<h2 style="color: darkred;">🛠️ Final Hour: In-Person Training at Thode Makerspace</h2>
+<h2 style="color: darkred;"> Final Hour: In-Person Training at Thode Makerspace</h2>
 
 During the final hour of class, we will walk together to the **Thode Makerspace** for a **required in-person orientation**. This session includes:
 
