@@ -28,6 +28,7 @@ Your group must:
 > ⚠️ Visible brush strokes, uneven finishes, or unpainted sides will result in **grade deductions**.
 
 ### Painting Protocol:
+- Lightly **sand all pieces** to remove burn marks or imperfections from laser-cutting before painting
 - Paint each shape **white first** before applying colour
 - Use **2–3 thin, even layers** of colour
 - Let paint **dry completely** between layers
