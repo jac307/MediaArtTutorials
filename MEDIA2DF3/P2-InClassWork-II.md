@@ -74,7 +74,7 @@ Include a rough sketch or mock-up if helpful.
 
 ---
 
-<h3 style="color: darkred;">📥 Final Submission</h3>
+<h3 style="color: darkred;">📥 Submission</h3>
 
 1. **Group Layout Planning PDF**  
    - **Naming Protocol**: `Group-#-Notes.pdf`
