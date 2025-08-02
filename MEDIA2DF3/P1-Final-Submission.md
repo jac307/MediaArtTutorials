@@ -40,6 +40,8 @@ Your group must:
 - Use **minimal glue** and ensure secure connections
 - Keep spacing, layering, and alignment consistent and intentional
 
+> ⚠️ Visible glue marks or misaligned pieces will result in **grade deductions**.
+
 ---
 
 ## 🖼️ Exhibition Setup (in class)
@@ -65,7 +67,7 @@ Each group must complete the following:
   - Gradient clarity
   - Assembly quality
 
-### Online (A2L – upload by midnight):
+### Online (A2L):
 - **Group Exhibition Info PDF**
 
 📄 Must include:
