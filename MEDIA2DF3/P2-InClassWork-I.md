@@ -105,7 +105,7 @@ Each student must complete **at least 80%** of their realistic or figurative com
 
 ---
 
-<h3 style="color: darkred;">📥 Final Submission</h3>
+<h3 style="color: darkred;">📥 Submission</h3>
 
 1. Group brainstorming notes and sketches
    - **Naming Protocol**: `Group-#-Notes.pdf`
