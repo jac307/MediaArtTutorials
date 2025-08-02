@@ -14,6 +14,8 @@
 
 ---
 
+> ⚠️ You must complete the setup of your **Inkscape documents** *before* this session to participate in lasser-printing session.
+
 In this session, you will move from digital preparation to **material production and colour design**. Each group will:
 - Print their components using the **laser cutter** at the Thode Makerspace.
 - Develop and mix a **custom gradient-based colour scheme** using **HSV principles** and **primary pigments** only.
