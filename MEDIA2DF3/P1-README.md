@@ -109,14 +109,6 @@ All groups **must purchase**:
 - Deep Red (250 ml) – **$10.49**
 - Deep Yellow (250 ml) – **$10.49**
 - Ivory Black (250 ml) – **$10.49**
----
-
-### Notes
-
-- Shared materials should be divided fairly across group members.
-- All paints must be **mixed by hand** using only the **primary colours + black and white**.
-- Brushes must be cleaned and dried properly after each use.
-- Bring your materials to class **Part 2 – Colour Planning & Assembly**.
 
 ---
 
