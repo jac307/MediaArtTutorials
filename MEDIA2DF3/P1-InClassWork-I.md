@@ -6,7 +6,7 @@
 *Group Project – 3 to 4 students per group*
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/26.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/32.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples from previous student work using form and repetition.
   </figcaption>
