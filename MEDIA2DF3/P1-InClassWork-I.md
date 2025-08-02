@@ -12,7 +12,8 @@
   </figcaption>
 </figure>
 
-  
+---
+
 > ⚠️ You must complete the **online Thode Makerspace training modules** on **Avenue to Learn** *before* this session to participate in laser-cutting.
 
 In this session, your group will collaboratively **plan and prototype** a three-dimensional composition using sketches and digital tools. You will explore **form, repetition, and spatial relationships**, and prepare your designs for **laser-cutting using Inkscape**—the required software for the Thode Makerspace.
