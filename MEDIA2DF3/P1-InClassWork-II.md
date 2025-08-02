@@ -2,7 +2,7 @@
 
 ---
 
-<h1 style="color: darkred;">P1 – In-Class Work II: Laser Cutting, Colour Mixing & Gradient Planning</h1>  
+<h1 style="color: darkred;">P1 – In-Class Work II: Laser Cutting, Surface Prep, & Colour Planning</h1>  
 *Group Project – 3 to 4 students per group*
 
 <figure style="width: 80%; margin: auto;">
