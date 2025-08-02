@@ -73,7 +73,7 @@ After cutting, your group will design a **gradient effect across your entire com
 
 2. Make sure all your cut shapes are complete and organized for assembly.
 
-Review the **required materials list** for Part 2 and bring them to the next class.
+Check [Final Submission Guidelines](P1-Final-Submission.md)
 
 > 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
 
