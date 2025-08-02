@@ -1,71 +1,80 @@
-[MEDIA 2DF3](README.md) | [Project 1](P1-README.md)
+[← MEDIA 2DF3](README.md) | [Project 1 Overview](P1-README.md)
 
--------------------------------------------------------------------------------
+---
 
 <h1 style="color: darkred;">P1 – In-Class Work I: Brainstorm, Sketch & Laser-Cut Prep</h1>  
-*Project 2 – In Pairs with Individual Work*
+*Group Project – 3 to 4 students per group*
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/26.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students.
+    Examples from previous student work using form and repetition.
   </figcaption>
 </figure>
 
-In this session, your group will collaboratively plan and prototype your composition using sketches and digital tools. You will explore **form, repetition, and composition**, and prepare your files for laser-cutting using **Inkscape**, the required software for the Thode Makerspace.
+> ⚠️ You must complete the **online Thode Makerspace training modules** on **Avenue to Learn** *before* this session to participate in laser-cutting.
+
+In this session, your group will collaboratively **plan and prototype** a three-dimensional composition using sketches and digital tools. You will explore **form, repetition, and spatial relationships**, and prepare your designs for **laser-cutting using Inkscape**—the required software for the Thode Makerspace.
 
 > ⏱️ *The final hour of class will take place at the Thode Makerspace for mandatory in-person training.*
 
 ---
 
-## 🧠 Brainstorming & Concept Sketching (20–30 min)
+<h2 style="color: darkred;">[20–30 min] Brainstorming & Concept Sketching</h2>
 
-Start by generating ideas as a group. Focus on **Wong’s Elements of Two-Dimensional Design** and the theme of **Form through Repetition**.
+Work together to generate ideas for your composition, inspired by **Wong’s Elements of Two-Dimensional Design** and sculptural principles of **form through repetition**.
 
-### Your sketch must:
-- Include **at least 30 individual planes** arranged over a **base of minimum 20 × 20 cm**.
+### Your group sketch must:
+- Include **20–30 individual planes** arranged over a defined **base**.
+  > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick). Each group may use up to **4 plates**, charged to your **McMaster School of the Arts account**.
 - Apply at least one of the following design principles:  
   *Similarity, Gradation, Anomaly, Contrast, Concentration, Texture*.
-- Define the **shape**, **size**, and **spacing** of each plane.
-- Show variation in **height**, **depth**, and **angle**.
-- Include a **colour scheme** that uses contrast or gradation.
-- Plan for potential **connectors or supports** between planes.
-
-> 📏 You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick). Each group may use up to **3 plates**, charged to your **School of the Arts account**.
+- Clearly define the **shape**, **dimensions**, and **spacing** of each plane.
+- Incorporate variation in **height**, **depth**, and **angle**.
+- Propose a **colour scheme** based on contrast and/or gradation.
+- Identify potential **connectors or supports** between planes.
 
 ---
 
-## 💻 Digital Vector Setup in Inkscape (45–60 min)
+<h2 style="color: darkred;">[45–60 min] Digital Vector Setup in Inkscape</h2>
 
-Use **Inkscape** to convert your sketch into vector files for laser cutting. This work must be done in class with the support of your instructor.
+Use **Inkscape** to transform your sketch into vector-ready files for laser-cutting.
 
-### Guidelines:
-- Follow the provided **Inkscape setup tutorial** carefully.
-- Create a separate layer for each plane if needed.
-- Make sure your file is in the correct format (vector paths only, no fills).
-- Align your design to fit within the size limits of the birchwood plates (24 × 12 in per sheet).
-- Save your file as **.SVG** and label it clearly with your group name and version.
+### What is Inkscape?
 
-> ⚠️ Inkscape is mandatory, as it is the only format supported by the Thode laser cutter.
+**Inkscape** is a free, open-source vector graphics editor similar to Adobe Illustrator. It allows you to design using precise **paths**, making it ideal for digital fabrication.
 
----
+While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist.  
+Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.
 
-## 🧪 Last Hour: In-Person Training at Thode Makerspace
+### Setup Guidelines:
+- **Divide tasks** evenly among group members.
+- Follow the **step-by-step Inkscape tutorial** provided in class.
+- Use only **vector paths** (no fills or strokes).
+- Each birchwood plate must be represented in a **separate document** sized 24 × 12 in.
+- Arrange and align all elements to maximize material use.
+- Save files as **.SVG**, named as:  
+  `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
 
-During the final hour of this class session, we will walk as a group to the **Thode Makerspace**. You will receive a **required safety and equipment orientation**, including:
-
-- Machine operation overview  
-- Material safety guidelines  
-- File upload and print preparation  
-- Questions and file checks with staff
-
-> ✅ You must complete the **online Thode Makerspace training modules** on **Avenue to Learn** *before* this session to participate.
+> ⚠️ Inkscape is mandatory, as it is the only format accepted by the laser-cutting equipment at Thode Makerspace.
 
 ---
 
-## ✅ Before Next Class
+<h2 style="color: darkred;">🛠️ Final Hour: In-Person Training at Thode Makerspace</h2>
 
-- Finish your **vector files** and upload them to the shared folder before your group’s assigned laser-cutting session.
-- Double-check all measurements and materials.
-- Come prepared for **Part 2 – Colour Planning & Final Assembly**.
+During the final hour of class, we will walk together to the **Thode Makerspace** for a **required in-person orientation**. This session includes:
+
+- Equipment and laser-cutting overview  
+- Material handling and safety procedures  
+- File preparation and submission protocol  
+- Individual file checks and Q&A with Makerspace staff
+
+---
+
+## ⚠️ Before Next Class
+
+- Complete and upload your finalized **.SVG vector files** to Avenue To Learn.  
+  > **File naming:** `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
+- Double-check all **measurements**, **spacing**, and **layer organization**.
+- Review the **required materials list** for Part 2 and bring them to the next class.
 
