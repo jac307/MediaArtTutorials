@@ -49,7 +49,7 @@ After cutting and collecting your pieces, your group must prepare the surfaces f
 - Once sanded, clean them and apply a **solid white base coat** to each shape.  
   > This primer layer ensures brightness and consistency in your final colours.
 
-> ⚠️ Do not skip this step. Groups will lose points if visible imperfections or inconsistent colour coverage are observed in the final exhibition.
+> ⚠️ Do not skip this step. Groups will lose points if visible imperfections or inconsistent colour coverage are observed in the final project.
 
 Allow the white base coat to **fully dry** before moving to colour application.
 
