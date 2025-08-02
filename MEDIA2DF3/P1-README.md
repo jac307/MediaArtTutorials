@@ -41,8 +41,9 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
   The instructor will confirm group printing schedules during Week 2.
 - **Required materials** include: 
   - Birchwood sheets (0.3 in thick, 24 × 12 in).
+  > Estimated shared cost: **$20 per group** --Birchwood sheets will be charged through the McMaster's accounts.
   - Paint, and basic tools provided by the students --see below.
-  > Estimated shared cost: **$50 per group** --Birchwood sheets will be charged through the McMaster's accounts.
+  > Estimated shared cost: **$30 per group** --Each group must bring the required materials for Part 2 – In-Class Work II.
 - All plates must be designed in **Inkscape**, the software required by the Makerspace.
 
 ❗ **Reminder:** This is a collaborative project. Design work, cutting, and assembly must be shared equally among all group members. Participation, time management, and group communication will be factored into the evaluation.
