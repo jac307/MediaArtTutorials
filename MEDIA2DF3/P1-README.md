@@ -78,7 +78,7 @@ All materials can be purchased at:
 
 <img src="imgs/29.png" style="width: 80%; height: auto;">
 
---
+---
 
 ### Individual Materials (each student)
 
