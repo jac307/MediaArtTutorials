@@ -31,9 +31,19 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
   *Similarity, Gradation, Anomaly, Contrast, Concentration, Texture*.
 - Clearly define the **shape**, **dimensions**, and **spacing** of each plane.
 - Incorporate variation in **height**, **depth**, and **angle**.
-- Propose a **colour scheme** based on contrast and/or gradation.
+- Propose a **colour scheme** based on gradation.
 - Identify potential **connectors or supports** between planes.
 - You must consider the shape, size, and color of the base.
+
+### Gradient Strategy:
+- Assign each shape a **single solid colour**, arranged to produce a **visible gradient transition**
+- You may design:
+  - **Linear gradients** (e.g., red to blue)
+  - **Multi-step gradients** (e.g., rainbow blends)
+- Use **HSV (Hue, Saturation, Value)** to guide your colour shifts:
+  - **Hue** → controls colour change
+  - **Saturation** → intensity of each step
+  - **Value** → brightness and darkness across the range
 
 ---
 
