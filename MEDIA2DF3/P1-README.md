@@ -43,7 +43,7 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
   - Birchwood sheets (0.3 in thick, 24 × 12 in).
   > Estimated shared cost: **$20 per group** --Birchwood sheets will be charged through the McMaster's accounts.
   - Paint, and basic tools --see below.
-  > Estimated shared cost: **$30 per group** --Each group must bring the required materials for Part 2 – In-Class Work II.
+  > Estimated shared cost: aprox **$30/40 per group** --Each group must bring the required materials for Part 2 – In-Class Work II.
   - **Fine Grit Sandpaper** (for smoothing laser-cut edges)
   > The instructor will provide the sandpaper.
 - All plates must be designed in **Inkscape**, the software required by the Makerspace.
