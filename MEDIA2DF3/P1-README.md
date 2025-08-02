@@ -55,8 +55,8 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 
 All materials can be purchased at:
 
-- [Michaels](https://www.michaels.com/), or  
-- **Mixed Media Art Shop**, 1058 King St W, Hamilton, ON L8S 1G7
+- <a href="https://www.michaels.com/" target="_blank">Michaels</a> , or  
+- <a href="https://g.co/kgs/x8QeG6p" target="_blank">Mixed Media Art Shop</a>, 1058 King St W, Hamilton, ON L8S 1G7
 
 > **Important:** Each student must purchase a **good quality brush** for painting.  
 > Visible brush marks on birchwood surfaces will result in **grade deductions**.
