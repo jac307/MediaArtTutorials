@@ -36,7 +36,7 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 
 ## Notes
 
-- Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** prior to any Project-1 session.
+- Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** and the **in-person training** prior to any Project-1 session.
 - A **laser-cutting session must be booked** at the **Thode Makerspace** in advance for production.  
   The instructor will confirm group printing schedules during Week 2.
 - **Required materials** include: 
