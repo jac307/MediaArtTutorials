@@ -20,7 +20,7 @@ This is your last step: bring together storytelling, analogue intervention, and 
 - Digitized frames from Part 2 (PNG or JPEG files)  
 - Computer with **DaVinci Resolve** installed  
 - Headphones (for audio mixing)  
-- Optional: mouse or drawing tablet  
+- Royalty-free audio library access from <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a>
 
 ---
 
@@ -75,12 +75,34 @@ This is your last step: bring together storytelling, analogue intervention, and 
 
 ---
 
+<h3 style="color: darkred;">Submission Form</h3>
+
+Create a 1-page PDF document that includes the following:
+
+1. **Title of the Video Composition**
+> Choose a clear or poetic title that reflects your work.
+
+2. **Still Image / Screenshot**
+> Insert a still frame from the final video that captures the mood or visual essence of your piece.
+
+3. **Short Description (3–5 sentences)**
+> Briefly explain your concept, what the video explores, and how you used sound and movement to build atmosphere or narrative.
+
+4. **Author Names + Short Bios**
+> List all group members with a **3-line description** each.
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Group-#-Submission-Info.pdf`
+
+---
+
 <h3 style="color: darkred;">📤 Submissions</h3>
 
 | Type       | File Name                          | Who Submits     |
 |------------|------------------------------------|-----------------|
 | Individual | `Lastname-Firstname-Animation.mp4` | Each student    |
 | Group      | `Group-#-FinalComposition.mp4`     | One per group   |
+| Group      | `Group-#-Submission-Info.pdf`           | One per group   |
 
 > 📝 **Use exact filenames and confirm proper export quality (720p minimum). Submissions not following guidelines may lose points.**
 
