@@ -92,7 +92,7 @@ Take **40–60 photographs** using **only** the following techniques:
 
 ---
 
-<h3 style="color: darkred;">Photo Selection</h3>
+<h3 style="color: darkred;">[20 min] Photo Selection</h3>
 
 ### Create Your Photo Grid
 
