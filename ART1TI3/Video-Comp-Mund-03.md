@@ -100,7 +100,7 @@ Create a 1-page PDF document that includes the following:
 > List all group members with a **3-line description** each.
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-Submission.pdf`
+📄 **Filename:** `Group-#-Submission-Info.pdf`
 
 ---
 
@@ -109,7 +109,7 @@ Create a 1-page PDF document that includes the following:
 | File Type         | File Name                   | Who Submits     |
 |-------------------|-----------------------------|-----------------|
 | Final Video       | `Group-#-FinalVideo.mp4`    | One per group   |
-| Submission Form   | `Group-#-Submission.pdf`    | One per group   |
+| Group             | `Group-#-Submission-Info.pdf`    | One per group   |
 
 > 📝 **Make sure all files follow naming conventions. Incomplete or incorrectly named files may lose points.**
 
