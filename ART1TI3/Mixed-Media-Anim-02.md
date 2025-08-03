@@ -58,7 +58,7 @@ This stage explores analogue creativity and material storytelling, adding expres
 
 ---
 
-<h3 style="color: darkred;">📌 Before Next Class (Feb 26): Digitize Your Frames</h3>
+<h3 style="color: darkred;">📌 Before Next Class: Digitize Your Frames</h3>
 
 After completing your analogue interventions, you must **scan or photograph** each frame to prepare for reanimation in Part 3.
 
