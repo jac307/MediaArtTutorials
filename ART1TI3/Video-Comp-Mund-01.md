@@ -74,7 +74,7 @@ Take **40–60 photographs** using **only** the following techniques:
 - Extreme Close-Up  
 - Macro
 
-> 🎯 **Your goal**: capture detailed, overlooked aspects of campus space.
+> **Goal**: capture detailed, overlooked aspects of campus space.
 
 ### Restrictions
 - ❌ No staged objects or interventions  
@@ -92,26 +92,20 @@ Take **40–60 photographs** using **only** the following techniques:
 
 ---
 
-<h3 style="color: darkred;">📤 Homework (Before Next Class)</h3>
+<h3 style="color: darkred;">Photo Selection</h3>
 
-### 🧩 Create Your Photo Grid
+### Create Your Photo Grid
 
-- Select **26 best images**  
+- Select **24 best images**, 12 per student.
 - Arrange in a grid layout (max 4 per page) using:
   - PowerPoint, Word, Canva, Pages, or Keynote  
 - Export as **PDF**
 
-📄 **Filename:** `Lastname-Name-Photogrid.pdf`  
-Submit this individually.
-
-### 🔁 Review with Partner
-
-- Share your photo grid  
-- Offer feedback, adjust if needed
+📄 **Filename:** `Lastname-Name-Photogrid.pdf`
 
 ---
 
-<h3 style="color: darkred;">✅ What to Submit</h3>
+<h3 style="color: darkred;">📤 Submissiont</h3>
 
 | Type       | File Name                     | Who Submits     |
 |------------|-------------------------------|-----------------|
@@ -121,10 +115,3 @@ Submit this individually.
 > 📝 **Follow naming formats exactly. Submissions not matching protocol may lose points.**
 
 ---
-
-<figure style="width: 100%; margin-top: 3em;">
-  <img src="imgs/macrophotos.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Macro photography examples from campus environments.
-  </figcaption>
-</figure>
