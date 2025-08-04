@@ -15,9 +15,9 @@
 
 ## Objective
 
-Create a **first iteration (rough cut)** of an experimental video composition using only the photographs from Part 1. This version should explore rhythm, repetition, movement, and transitions using non-linear editing in **DaVinci Resolve**.
+Explore the foundations of **non-linear video editing** and learn how to conceptually plan an experimental video composition using only the photographs from Part 1.  
 
-This is not a final polished piece—your goal is to **experiment with visual storytelling and editing techniques**.
+This session is about **learning the editing environment**, understanding basic tools, and **developing your artistic and technical vision**—you will not create a full video yet.
 
 ---
 
@@ -34,77 +34,52 @@ This is not a final polished piece—your goal is to **experiment with visual st
 
 ---
 
-<h3 style="color: darkred;">[40 min] Learn the Tools</h3>
+<h3 style="color: darkred;">[1h20m] Learn the Tools</h3>
 
 ### Individual Work: Create one short test video using DaVinci Resolve.
 
-View the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>.  
+View the tutorials: <a href="Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>. Breakdown:
 
-Breakdown:
+1. **Intro to Linear Video Editing**  
+   - Learn timeline navigation, cuts, imports, transitions, effects  
+2. **Intro to Video Collage**  
+   - Experiment with layering images, adding text or overlays  
+3. **Intro to Keyframe Animation**  
+   - Try animating position, opacity, and scale  
 
-1. **Intro to DaVinci Resolve**  
-   - Learn timeline navigation, cuts, imports, transitions  
-2. **Collage Techniques**  
-   - Experiment with position, opacity, filters, and audio
+Your goal is to explore—not perfect—your editing.  
 
 ➡️ Export your test video as an **MP4**
-
 📄 **Filename:** `Lastname-Name-TestVideo.mp4`
-
-> 📝 Submit your test video before you begin your rough cut composition.
 
 ---
 
 <h3 style="color: darkred;">[20 min] Conceptualize Your Composition</h3>
 
-With your partner, open a document (Word or Google Docs) and answer the following:
+With your partner, open a document (Word or Google Docs) and answer the following questions. Use this time to develop a strong **conceptual direction** for your video.
 
 ### Conceptual
-- What mood, story, or atmosphere do we want to convey?
-- How do our selected photographs support this?
+- What story, mood, or atmosphere might we want to convey?
+- How could the photographs from Part 1 support this?
 
 ### Artistic
-- What transitions, audio, or effects will we use to elevate the visuals?
-- What experimental techniques might we include?
+- What visual strategies (transitions, rhythm, layering) could you explore?
+- What experimental - nonlinear editing approaches are you interested in?
+- What kinds of effects, juxtapositions, or disruptions interest you?
 
 ### Technical
-- What aspect ratio fits our idea (e.g., horizontal, vertical)?
-- How will we animate images using keyframes (e.g., scale, opacity, position)?
+- What aspect ratio might suit your concept (e.g., vertical, square, or widescreen)?
+- What tools or effects in DaVinci could help achieve your goals?
 
-### Collaborative
-- How will you divide the work?
-- Each group member must edit **approximately half of the video**, but **plan and design the composition as a unified whole**.
+### ⚠️ **Remember the following restrictions and requirements:**  
+– You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).  
+– You must include **royalty-free music or ambient sound** that supports your mood or concept.  
+– You must add a **title screen** and **end credits** with your names.  
+– This is a **non-linear, experimental composition**—do not follow a traditional narrative or slideshow format.
 
-➡️ **Export as PDF**  
+➡️ **Export your responses as a PDF**  
 📄 **Filename:** `Group-#-Notes.pdf`  
 Include **both names + student numbers**
-
----
-
-<h3 style="color: darkred;">[40 min] Create a Rough Cut of Your Composition</h3>
-
-A **rough cut** is the first editable version of your video. It includes all major elements (visuals, movement, transitions), but does not need to be fully refined or finalized. You will improve this in the next session.
-
-### Editing Instructions:
-
-- Use **10–12 photographs only**
-- Total length: **1–2 minutes**  
-  → Split the time equally between both group members  
-- Include **movement, layering, and transitions**  
-- Use the same resolution: **minimum 720p**  
-- Maintain consistency in pacing, colour, and tone across both halves
-
-### Allowed Tools:
-- Keyframe animation (zoom, pan, opacity)
-- Transitions (crossfades, wipes, etc.)
-- Filters, effects, and colour grading
-- Titles and text (optional)
-
-❌ **No external visual material allowed**  
-✅ **Only use your own photographs from Part 1**
-
-➡️ Export your rough cut as an **MP4**
-📄 **Filename:** `Lastname-Name-RoughCut.mp4`
 
 ---
 
@@ -114,6 +89,5 @@ A **rough cut** is the first editable version of your video. It includes all maj
 |------------|-----------------------------------|-----------------|
 | Individual | `Lastname-Name-TestVideo.mp4`     | Each student    |
 | Group      | `Group-#-Notes.pdf`               | One per group   |
-| Individual | `Lastname-Name-RoughCut.mp4`      | Each student    |
 
 > 📝 **Follow naming formats exactly. Submissions that do not follow the required format may lose points.**
