@@ -98,6 +98,14 @@ Take **40–60 photographs** using **only** the following techniques:
 - Carefully consider focus, exposure, and framing  
 - Avoid blurring or overexposure
 
+### References
+
+<img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/04.jpeg" style="width: 80%; height: auto;">
+
 ### Helpful Resources
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKM3jkEOpuE?si=X3OO9E7NsZZp46x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -118,14 +126,6 @@ Take **40–60 photographs** using **only** the following techniques:
 - Export as **PDF**
 
 📄 **Filename:** `Lastname-Name-Photogrid.pdf`
-
-#### References
-
-<img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
-
-<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
-
-<img src="imgs/04.jpeg" style="width: 80%; height: auto;">
 
 ---
 
