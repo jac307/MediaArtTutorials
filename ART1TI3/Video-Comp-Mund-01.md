@@ -60,9 +60,17 @@ Make sure your camera is set correctly:
 
 ### Tutorials (Choose based on your device):
 
-- [iPhone] How to Use the iPhone Camera Rule of Thirds Grid  
-- [Samsung] Turn ON/OFF Camera GRID LINES  
-- [General] Make Your Smartphone Camera Look Professional
+#### Enable Gridlines
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/osvmY_YtolI?si=8H9chgmRc49_wi5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcrEk7afOE8?si=y53NZlbjGormpDah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### General improvements
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FRLTOBBkm2I?si=a7ED7JXuVh0gDpmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v-Jeu7YsvGk?si=6ol6-Hck33WBEMGN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
