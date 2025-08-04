@@ -85,7 +85,7 @@ Take **40–60 photographs** using **only** the following techniques:
 - Medium Close-Up  
 - Close-Up  
 - Extreme Close-Up  
-- Macro
+- Macro (optional)
 
 > **Goal**: capture detailed, overlooked aspects of campus space.
 
@@ -93,10 +93,11 @@ Take **40–60 photographs** using **only** the following techniques:
 - ❌ No staged objects or interventions  
 - ✅ Use only observational photography techniques  
 
-### Recommendations
+### Recommendations  
 - Seek interesting textures, lighting, reflections  
 - Carefully consider focus, exposure, and framing  
-- Avoid blurring or overexposure
+- Avoid blurring or overexposure  
+- Try unexpected points of view: **look up, lay on the ground, get close to edges or corners**—shift your perspective to see familiar spaces in unfamiliar ways
 
 ### References
 
