@@ -130,7 +130,7 @@ Take **40–60 photographs** using **only** the following techniques:
 
 ---
 
-<h3 style="color: darkred;">📤 Submissiont</h3>
+<h3 style="color: darkred;">📤 Submission</h3>
 
 | Type       | File Name                     | Who Submits     |
 |------------|-------------------------------|-----------------|
