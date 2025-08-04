@@ -94,9 +94,12 @@ Take **40–60 photographs** using **only** the following techniques:
 - Avoid blurring or overexposure
 
 ### Helpful Resources
-- *Close-up Shots in Film – Guide to Lighting & Framing*  
-- *4 Framing & Composition Techniques for Beginners*  
-- *iPhone 13 Pro Macro Photography Tips and Tricks*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKM3jkEOpuE?si=X3OO9E7NsZZp46x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfaZXlJso-s?si=aoDZe-vi8WO-zWXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vp55RypeK_g?si=LFWhWFJm1VPb-d9Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
