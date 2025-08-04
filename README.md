@@ -5,13 +5,13 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 ## Index
 
-+ [Digital Art in GIMP](Others/GIMP.md)
-  
-+ [Video Editing in DaVinci Resolve](Others/DaVinci.md)
-  
-+ [Digital Illustration and Animation in Krita](Others/Krita.md)
-  
-+ [Augmented Reality in Pictarize](Others/Pictarize.md)
++ [Digital Art in GIMP](Others/index.html?file=GIMP.json)
+
++ [Video Editing in DaVinci Resolve](Others/index.html?file=DaVinci.json)
+
++ [Digital Illustration and Animation in Krita](Others/index.html?file=Krita.json)
+
++ [Augmented Reality in Pictarize](Others/index.html?file=Pictarize.json)
   
 + [3D Art in Blender](Blender/README.md)
   

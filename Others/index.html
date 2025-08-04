@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Vuetify CDN Example</title>
+
+    <!-- Vue 3 -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+
+    <!-- Vuetify 3 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/vuetify@3.9.2/dist/vuetify.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@3.9.2/dist/vuetify.min.js"></script>
+
+    <!-- Material Design Icons (for nav icon) -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.x/css/materialdesignicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div id="app">
+        <v-app id="inspire">
+            <v-navigation-drawer v-model="drawer">
+                <v-list>
+                    <template v-for="(item, index) in items" :key="index">
+                        <v-list-group v-if="item.children" :value="false">
+                          <!-- 👇 Custom activator slot so parent item is clickable -->
+                          <template #activator="{ props }">
+                            <v-list-item
+                              v-bind="props"
+                              :title="item.title"
+                              @click="selectItem(item)"
+                            />
+                          </template>
+                      
+                          <v-list-item
+                            v-for="(child, cIndex) in item.children"
+                            :key="cIndex"
+                            :title="child.title"
+                            @click="selectItem(child)"
+                          />                        
+                        </v-list-group>
+                      
+                        <!-- regular item -->
+                        <v-list-item
+                          v-else
+                          :title="item.title"
+                          @click="selectItem(item)"
+                        />
+                      </template>
+                      
+                </v-list>
+              </v-navigation-drawer>
+              
+        
+            <v-app-bar>
+              <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+        
+              <v-app-bar-title>Digital Art in GIMP</v-app-bar-title>
+            </v-app-bar>
+        
+            <v-main>
+                <v-container class="pa-4">
+                    <v-card
+                       v-if="selectedItem"
+                        outlined
+                        >
+                    <v-card-title>{{selectedItem.title}}</v-card-title>
+                    <v-card-text>{{selectedItem.description}}</v-card-text>    
+                    <v-divider class="my-4"></v-divider>
+
+                    <!-- Show embed if available -->
+                    <div v-if="selectedItem.tutorialEmbedCode" v-html="selectedItem.tutorialEmbedCode"></div>
+                  </v-card>               
+                    </v-card>                  
+                    
+                  </v-container>
+            </v-main>
+          </v-app>
+    </div>
+    <script type="module" src="vue.js"></script> 
+
+   
+  </body>
+</html>

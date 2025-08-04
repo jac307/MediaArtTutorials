@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Home",
+      "description":"GIMP is a powerful, free, and open-source image editing software used by artists, designers, and photographers worldwide. In this series of beginner-friendly tutorials, you’ll learn how to navigate the GIMP interface, work with layers and selections, and explore essential tools for digital painting, photo editing, and graphic design. These tutorials are designed to build your confidence in 2D digital art while encouraging creativity, experimentation, and play."
+    },
+    {
+      "title": "📷 Basic Photographic Editing",
+      "description": "Learn how to edit your photos!",
+      "children": [
+        {
+          "title": "GIMP 1: Import/Export, Rotate, Scale, Flip",
+          "description": "Learn to open, rotate, scale, and export images in GIMP.", 
+          "tutorialEmbedCode": "<iframe src=\"https://www.iorad.com/player/2571138/GIMP-1--Basics--import-export--rotate--scale--flip?src=iframe&oembed=1\" width=\"100%\" height=\"500px\" style=\"width: 100%; height: 500px; border-bottom: 1px solid #ccc;\" referrerpolicy=\"strict-origin-when-cross-origin\" frameborder=\"0\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\" allow=\"camera; microphone; clipboard-write;\" sandbox=\"allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation\"></iframe>"
+        },
+        {
+          "title": "GIMP 2: Brightness/Contrast, Invert, Colorize",
+          "description": "Explore basic photo enhancement tools in GIMP.", 
+          "tutorialEmbedCode": "<iframe src=\"https://www.iorad.com/player/2571153/GIMP-2--Basics--brightness-contrast--invert--and-colorize?src=iframe&oembed=1\" width=\"100%\" height=\"500px\" style=\"width: 100%; height: 500px; border-bottom: 1px solid #ccc;\" referrerpolicy=\"strict-origin-when-cross-origin\" frameborder=\"0\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\" allow=\"camera; microphone; clipboard-write;\" sandbox=\"allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "✂️ Digital Collage",
+      "description": "Create layered digital collages with photos and textures."
+    }
+  ]
