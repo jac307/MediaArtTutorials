@@ -1,7 +1,7 @@
 <h1 style="color: darkred;">Digital Mixed Media Animation – Part 1 (Feb 5)</h1>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/mixed_media_reference.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Mixed-media frame with video and hand-drawn interventions.
   </figcaption>
