@@ -9,7 +9,7 @@
   <img src="imgs/02.gif" alt="Test video 2" style="width: 48%; height: auto;">
 </figure>
 <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-  Samples from test (work-in-progress) video compositions created with DaVinci Resolve.
+  Samples from test (work-in-progress) video compositions.
 </figcaption>
 
 
