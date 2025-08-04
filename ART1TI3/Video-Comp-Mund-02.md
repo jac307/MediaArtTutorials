@@ -24,7 +24,7 @@ This is not a final polished piece—your goal is to **experiment with visual st
 ## Software Required
 
 - Computer with DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)
-  > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on an iPad is **not recommended** due to limited screen space and functionality.*
+  > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on tablets is **not recommended** due to limited screen space and functionality.*
 - Headphones (recommended for audio design)  
 
 ---
