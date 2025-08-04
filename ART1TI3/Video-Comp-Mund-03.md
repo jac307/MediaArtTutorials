@@ -13,75 +13,70 @@
 
 ## Objective
 
-Finalize your experimental video composition by:
+In this final session, you and your partner will **complete your experimental video composition** by:
 
-1. Reviewing and improving your **rough cut** in collaboration with your partner  
-2. Adding **sound design** and **titles** to enhance meaning and coherence  
-3. Exporting a clean, polished **final version** for presentation and submission
+1. Reviewing and refining your rough cut together  
+2. Adding intentional **sound design**, **titles**, and **credits**  
+3. Exporting your final polished video for submission
 
 ---
 
 ## Software Required
 
 - DaVinci Resolve  
-- Royalty-free audio library access from <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a>
-- Headphones (recommended for sound mixing)
+- Access to royalty-free audio via <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a>  
+- Headphones (recommended for sound mixing and focus)
 
 ---
 
 ## Activities  
-**Complete the following in order. Ask your professor or TA for help as needed.**
+**Complete each step carefully during class. Ask your professor or TA for support as needed.**
 
 ---
 
-<h3 style="color: darkred;">[40 min] Peer Review and Improvements</h3>
+<h3 style="color: darkred;">[40 min] Review & Refine Together</h3>
 
-### Exchange and review each other's rough cut videos.
+### Peer Feedback & Revisions
 
-With your partner:
+- Watch each rough cut side by side.
+- Give each other feedback on:
+  - Rhythm and pacing  
+  - Transitions and flow  
+  - Visual clarity and detail  
+  - Emotional impact and coherence  
+- Agree on a unified tone and make revisions accordingly.
 
-1. Watch both rough cuts together.  
-2. Provide each other feedback on:
-   - Visual rhythm and pacing  
-   - Image clarity and movement  
-   - Effectiveness of transitions  
-   - Overall emotional impact  
-3. Make **technical and artistic adjustments** based on this review.
-
-> 🎯 Focus on consistency between both parts of the video and improving overall flow.
+> 🎯 This is your chance to **polish, align, and finalize your shared video vision**.
 
 ---
 
-<h3 style="color: darkred;">[40 min] Assemblage: Audio + Titles</h3>
-
-Once you've made visual adjustments, **add finishing touches** to your final video:
+<h3 style="color: darkred;">[40 min] Final Assembly: Audio + Titles</h3>
 
 ### Sound Design
-- Choose **royalty-free music or ambient sound** that matches the tone and pacing of your piece.  
-- Adjust audio levels to avoid distortion or overpowering effects.  
-- Sync sound purposefully with movement and transitions.
+- Add **royalty-free background music or ambient audio** from [Freesound.org](https://freesound.org)
+- Ensure sound supports the atmosphere—don’t overwhelm the visuals.
+- Adjust volume levels for balance and clarity.
 
 ### Titles & Credits
-- Add a **title screen** at the beginning
-  - Choose a clear or poetic title that reflects your work.
-- Add **credits** at the end:
-  - Group members' names  
-  - Music source (if applicable)
+- Begin your video with a **title screen**
+  - Choose something expressive, poetic, or direct.
+- End with a **credit screen** that includes:
+  - All group members’ names  
+  - Music source credit  
 
-> ✅ Title and sound should **enhance**, not distract. Be intentional and minimal.
+> ✅ Keep text simple, clear, and stylistically consistent.
 
 ---
 
 <h3 style="color: darkred;">[15 min] Export Final Video</h3>
 
-Double-check:
-
-- No missing elements or blank screens  
-- Sound plays clearly  
+### Final Checks:
+- Ensure both parts are smoothly integrated  
+- Audio plays correctly throughout  
 - Minimum resolution: **720p**  
-- Video format: **MP4**
+- Format: **MP4**
 
-➡️ **Export your final video as a single file, combining both parts into one unified work.**
+➡️ **Export a single final file.**
 
 📄 **Filename:** `Group-#-FinalVideo.mp4`
 
@@ -89,19 +84,19 @@ Double-check:
 
 <h3 style="color: darkred;">Submission Form</h3>
 
-Create a 1-page PDF document that includes the following:
+### Create a 1-page PDF with the following:
 
-1. **Title of the Video Composition**
-> Choose a clear or poetic title that reflects your work.
+1. **Project Title**  
+   > A poetic or direct title that reflects your composition.
 
-2. **Still Image / Screenshot**
-> Insert a still frame from the final video that captures the mood or visual essence of your piece.
+2. **Still Frame / Screenshot**  
+   > Choose a representative frame from the video.
 
-3. **Short Description (3–5 sentences)**
-> Briefly explain your concept, what the video explores, and how you used sound and movement to build atmosphere or narrative.
+3. **Short Description (3–5 sentences)**  
+   > Describe the mood or concept behind the video and how visuals and sound work together.
 
-4. **Author Names + Short Bios**
-> List all group members with a **3-line description** each.
+4. **Group Member Names + 3-line Bios**  
+   > Share a few lines about each contributor and their role.
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-Submission-Info.pdf`
@@ -110,11 +105,9 @@ Create a 1-page PDF document that includes the following:
 
 <h3 style="color: darkred;">📤 Submissions</h3>
 
-| File Type         | File Name                   | Who Submits     |
-|-------------------|-----------------------------|-----------------|
-| Final Video       | `Group-#-FinalVideo.mp4`    | One per group   |
-| Group             | `Group-#-Submission-Info.pdf`    | One per group   |
+| File Type         | File Name                     | Who Submits     |
+|-------------------|-------------------------------|-----------------|
+| Final Video       | `Group-#-FinalVideo.mp4`      | One per group   |
+| Submission Form   | `Group-#-Submission-Info.pdf` | One per group   |
 
-> 📝 **Make sure all files follow naming conventions. Incomplete or incorrectly named files may lose points.**
-
----
+> 📝 **Double check all naming conventions. Submissions that are incomplete or misnamed may receive deductions.**
