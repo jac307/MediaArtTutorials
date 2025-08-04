@@ -45,6 +45,8 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 ### Technical
 - What devices are we using?
 - How will we ensure focus, resolution, and lighting consistency?
+- How will we apply medium close-up, close-up, and extreme close-up photography techniques?
+  > Macro photography is optional. Check if your phone or camera supports it before including it in your shoot.
 
 ➡️ **Export as PDF**  
 **Filename:** `Group-#-Notes.pdf`  
@@ -116,6 +118,14 @@ Take **40–60 photographs** using **only** the following techniques:
 - Export as **PDF**
 
 📄 **Filename:** `Lastname-Name-Photogrid.pdf`
+
+#### References
+
+<img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/04.jpeg" style="width: 80%; height: auto;">
 
 ---
 
