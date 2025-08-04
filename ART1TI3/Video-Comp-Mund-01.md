@@ -107,7 +107,7 @@ Take **40–60 photographs** using **only** the following techniques:
 
 <img src="imgs/04.jpeg" style="width: 80%; height: auto;">
 
-### Helpful Resources
+### Other Helpful Resources
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKM3jkEOpuE?si=X3OO9E7NsZZp46x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
