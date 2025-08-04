@@ -3,7 +3,7 @@
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/davinci_example.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Sample frame from a video composition created with DaVinci Resolve.
+    Samples from test (work-in-progress) video compositions created with DaVinci Resolve.
   </figcaption>
 </figure>
 
