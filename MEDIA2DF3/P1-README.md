@@ -68,7 +68,7 @@ All materials can be purchased at:
 
 - **Bead Landing Jewelry Organizer** (for storing mixed paints)  
   Size: 6.2 in × 4.7 in × 2 in, at least 15 **separate** compartments  
-  - *Option:* <a href="https://www.michaels.com/product/simply-simmons-short-handle-flat-wash-brush-10472892?michaelsStore=5610&inv=2" target="_blank">30 Container Bead Organizer by Bead Landing – **$18** </a>
+  - *Option:* <a href="https://www.michaels.com/product/30-container-bead-organizer-by-bead-landing-10164848" target="_blank">30 Container Bead Organizer by Bead Landing – **$18** </a>
   - *Option:* <a href="https://www.amazon.ca/Huaxiangoh-Containers-8-85x5-31x2-16in-Embroidery-Accessories/dp/B08GH8964N/ref=sr_1_10?dib=eyJ2IjoiMSJ9.I3YLW1Fb0_vOKsin33IJCeRn77bC5E07aT5U-P4Hmn21qQK5bZjlaNJ5VxsFbsDHPAIPy2-GUngmVRN8VzVm7GHG4CRCCUnL9j8w0BL53GK9QbJ6r2fb9Og20GK4YefBvxldUddOWNb30HDVBy0FoFmVZU6XERGR814ViD5-1AQxgBNQrs32odbIujZFgi95Gebx-o3rJ2k-tDaUhGHLkiTduc8HZkXOyWcV5SJZfYw5jMzmxD6CaEMwl1Jje0nGHaWyVZb70lYy9wJxpqV6D861vnHq-LsFQrkzAYWgNJE.j0KTphf1aHe7mRoGuJcCflx1M8itYuEK1yBCVFDBmMQ&dib_tag=se&gad_source=1&hvadid=679286654804&hvdev=c&hvexpln=0&hvlocphy=9060779&hvnetw=g&hvocijid=1908508043514503255--&hvqmt=e&hvrand=1908508043514503255&hvtargid=kwd-2257552828487&hydadcr=13567_13405808&keywords=bead%2Blanding%2Bjewelry%2Borganizer&mcid=a6023cbfe3ad3a9fb179bd3fcf439089&qid=1754154074&sr=8-10&th=1" target="_blank">30 Slots Diamond Painting Storage Containers – **$14** </a>
 
 - **Wood Glue**  
