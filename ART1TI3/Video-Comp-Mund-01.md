@@ -35,7 +35,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - How can we highlight the uniqueness of the space through the mundane?
 - References:
   - <a href="https://photzy.com/7-ways-to-shoot-the-mundane/" target="_blank" rel="noopener noreferrer">7 Ways to Shoot the Mundane</a>
-  <a href="https://www.boredpanda.com/close-up-photography-pyanek/" target="_blank" rel="noopener noreferrer">28 Stunning Close-Up Photos Of Everyday Objects By Self-Taught Photographer</a>
+  - <a href="https://www.boredpanda.com/close-up-photography-pyanek/" target="_blank" rel="noopener noreferrer">28 Stunning Close-Up Photos Of Everyday Objects By Self-Taught Photographer</a>
 
 ### Artistic
 - What specific locations on campus will we photograph?
