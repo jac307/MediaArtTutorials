@@ -71,7 +71,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - What aspect ratio might suit your concept (e.g., vertical, square, or widescreen)?
 - What tools or effects in DaVinci could help achieve your goals?
 
-### ⚠️ **Remember the following restrictions and requirements:**  
+### ⚠️ **Restrictions and requirements:**  
 - You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).
 - You must include **royalty-free music or ambient sound** that supports your mood or concept.
 - You must add a **title screen** and **end credits** with your names.
