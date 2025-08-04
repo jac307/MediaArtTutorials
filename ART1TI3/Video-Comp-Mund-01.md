@@ -1,7 +1,7 @@
 <h1 style="color: darkred;">Video Composition of the Mundane – Part 1</h1>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/photo_examples.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Photographs from previous students using close-up techniques.
   </figcaption>
@@ -33,6 +33,9 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 ### Conceptual
 - What story, emotion, or theme do we want to convey?
 - How can we highlight the uniqueness of the space through the mundane?
+- References:
+  - <a href="https://photzy.com/7-ways-to-shoot-the-mundane/" target="_blank" rel="noopener noreferrer">7 Ways to Shoot the Mundane</a>
+  - <a href="https://www.boredpanda.com/close-up-photography-pyanek/" target="_blank" rel="noopener noreferrer">28 Stunning Close-Up Photos Of Everyday Objects By Self-Taught Photographer</a>
 
 ### Artistic
 - What specific locations on campus will we photograph?
@@ -60,9 +63,17 @@ Make sure your camera is set correctly:
 
 ### Tutorials (Choose based on your device):
 
-- [iPhone] How to Use the iPhone Camera Rule of Thirds Grid  
-- [Samsung] Turn ON/OFF Camera GRID LINES  
-- [General] Make Your Smartphone Camera Look Professional
+#### Enable Gridlines
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/osvmY_YtolI?si=8H9chgmRc49_wi5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcrEk7afOE8?si=y53NZlbjGormpDah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### General improvements
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FRLTOBBkm2I?si=a7ED7JXuVh0gDpmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v-Jeu7YsvGk?si=6ol6-Hck33WBEMGN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -86,9 +97,12 @@ Take **40–60 photographs** using **only** the following techniques:
 - Avoid blurring or overexposure
 
 ### Helpful Resources
-- *Close-up Shots in Film – Guide to Lighting & Framing*  
-- *4 Framing & Composition Techniques for Beginners*  
-- *iPhone 13 Pro Macro Photography Tips and Tricks*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKM3jkEOpuE?si=X3OO9E7NsZZp46x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfaZXlJso-s?si=aoDZe-vi8WO-zWXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vp55RypeK_g?si=LFWhWFJm1VPb-d9Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
