@@ -38,7 +38,7 @@ This is not a final polished piece—your goal is to **experiment with visual st
 
 ### Individual Work: Create one short test video using DaVinci Resolve.
 
-Follow the provided beginner tutorials and practice:
+View the tutorials: <a href="Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>. Breakdown:
 
 1. **Intro to DaVinci Resolve**  
    - Learn timeline navigation, cuts, imports, transitions  
