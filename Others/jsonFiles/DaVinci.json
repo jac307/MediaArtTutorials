@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Video Editing in DaVinci Resolve",
+      "description": "<strong>DaVinci Resolve</strong> is a professional-grade video editing software used in film, television, and online media production. It combines editing, color correction, audio post-production, visual effects, and motion graphics in one powerful platform. The <strong>free version</strong> of DaVinci Resolve offers an impressive range of tools that are more than enough for most creative projects. From cutting and trimming to adding transitions, effects, and color grading, the free version supports high-quality workflows without limitations for beginners and intermediate users. <br> <br> 👉 <a target = _blank href='https://www.blackmagicdesign.com/ca/products/davinciresolve'>Download DaVinci Resolve</a>"
+    },
+    {
+      "title": "🎥 Intro to Linear Video Editing",
+      "description": "",
+      "children": [
+        {
+          "title": "Basics: open new, import, timeline, export, and save",
+          "description": "",
+          "tutorialEmbedCode": "https://www.iorad.com/player/2581771/DaVinci-Resolve-1--Basics--open-new--import--timeline--export--and-save-?src=iframe&oembed=1"
+        },
+        {
+          "title": "Basics: cut and split clips",
+          "description": "",
+          "tutorialEmbedCode": "https://www.iorad.com/player/2581785/DaVinci-Resolve-2--Basics--cut-and-split-clips-?src=iframe&oembed=1"
+        },
+        {
+          "title": "Basics: apply transitions",
+          "description": "",
+          "tutorialEmbedCode": "https://www.iorad.com/player/2581773/DaVinci-Resolve-3--Basics--apply-transitions?src=iframe&oembed=1"
+        }
+      ]
+    },
+    {
+      "title": "🎞️ Intro to Video Collage",
+      "description": "",
+      "children": [
+        {
+          "title": "Working with multiple layers + transform clips",
+          "description": "",
+          "tutorialEmbedCode": "https://www.iorad.com/player/2582811/DaVinci-Resolve-5--Working-with-multiple-layers---transform-clips?src=iframe&oembed=1"
+        },
+        {
+          "title": "Transforming Clips: Adding Transitions, Effects, and working with Composite Mode",
+          "description": "",
+          "tutorialEmbedCode": "https://www.iorad.com/player/2582818/DaVinci-Resolve-6--Transforming-Clips--Adding-Transitions--Effects--and-working-with-Composite-Mode?src=iframe&oembed=1"
+        },
+        {
+          "title": "Titles: Adding text",
+          "description": "",
+          "tutorialEmbedCode": "https://www.iorad.com/player/2582828/DaVinci-Resolve-7--Titles--Adding-text-?src=iframe&oembed=1"
+        }
+      ]
+    }
+  ]

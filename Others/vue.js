@@ -1,18 +1,18 @@
 const app = Vue.createApp({
   data() {
     return {
-      drawer: false,
+      drawer: true,
       items: [],
-      selectedItem: null
+      selectedItem: { title: "", description: "" } // Default value
     };
   },
   async created() {
     // Get the JSON file name from the URL query parameter
     const urlParams = new URLSearchParams(window.location.search);
-    const jsonFile = urlParams.get('file') 
+    const jsonFile = urlParams.get('file') || "Krita.json";
 
     try {
-      const response = await fetch(`./${jsonFile}`); // Dynamically load the JSON file
+      const response = await fetch(`./jsonFiles/${jsonFile}`); // Dynamically load the JSON file
       const data = await response.json();
       this.items = data;
       this.selectedItem = data[0];
