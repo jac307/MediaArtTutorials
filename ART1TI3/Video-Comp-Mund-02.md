@@ -17,13 +17,13 @@
 
 Create a **first iteration (rough cut)** of an experimental video composition using only the photographs from Part 1. This version should explore rhythm, repetition, movement, and transitions using non-linear editing in **DaVinci Resolve**.
 
-This is not a final polished piece—your goal is to **experiment with visual storytelling and editing techniques**. The rough cut will serve as a foundation for future revisions.
+This is not a final polished piece—your goal is to **experiment with visual storytelling and editing techniques**.
 
 ---
 
 ## Software Required
 
-- DaVinci Resolve (download [here](https://www.blackmagicdesign.com/products/davinciresolve))  
+- DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)  
 - Headphones (recommended for audio design)  
 - A computer (editing is **not** recommended on phones or tablets)
 
