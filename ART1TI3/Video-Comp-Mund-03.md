@@ -5,9 +5,11 @@
 <h1 style="color: darkred;">Video Composition of the Mundane – Part 3</h1>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/final_video_review.jpg" style="width: 100%; height: auto;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/01.mp4" type="video/mp4">
+  </video>
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Peer review and final edits in DaVinci Resolve.
+    Video compositions from previous students.
   </figcaption>
 </figure>
 
