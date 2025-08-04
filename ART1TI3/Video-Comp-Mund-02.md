@@ -1,11 +1,13 @@
 <h1 style="color: darkred;">Video Composition of the Mundane – Part 2</h1>
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/davinci_example.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Samples from test (work-in-progress) video compositions created with DaVinci Resolve.
-  </figcaption>
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/01.gif" alt="Test video 1" style="width: 48%; height: auto;">
+  <img src="imgs/02.gif" alt="Test video 2" style="width: 48%; height: auto;">
 </figure>
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Samples from test (work-in-progress) video compositions created with DaVinci Resolve.
+</figcaption>
+
 
 ## Objective
 
