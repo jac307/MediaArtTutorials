@@ -9,7 +9,7 @@ const app = Vue.createApp({
   async created() {
     // Get the JSON file name from the URL query parameter
     const urlParams = new URLSearchParams(window.location.search);
-    const jsonFile = urlParams.get('file') || 'GIMP.json'; // Default to GIMP.json if no parameter is provided
+    const jsonFile = urlParams.get('file') 
 
     try {
       const response = await fetch(`./${jsonFile}`); // Dynamically load the JSON file
