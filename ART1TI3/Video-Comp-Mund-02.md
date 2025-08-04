@@ -38,7 +38,7 @@ This session is about **learning the editing environment**, understanding basic 
 
 ### Individual Work: Create one short test video using DaVinci Resolve.
 
-View the tutorials: <a href="Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>. Breakdown:
+View the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>. Breakdown:
 
 1. **Intro to Linear Video Editing**  
    - Learn timeline navigation, cuts, imports, transitions, effects  
