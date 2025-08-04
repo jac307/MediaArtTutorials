@@ -17,6 +17,12 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
   
 + [Motion Capture with Perception Neuron 3](MOCAP/README.md)
 
+---
+
+## Classes
+
++ [MEDIA 2DF3](MEDIA2DF3/README.md)
+
 
 ________________________________________________________________________
 
