@@ -43,8 +43,8 @@ This is your last step: bring together storytelling, analogue intervention, and 
 - Do **not** add any further effects or edits at this stage
 
 ➡️ Export your animation as a **short MP4 file**  
+📄 **Filename:** `Lastname-Firstname-Animation.mp4`
 > Individual videos should be 10-15 seconds.
-**Filename:** `Lastname-Firstname-Animation.mp4`
 
 ---
 
@@ -71,7 +71,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 - Adjust volume levels to avoid distortion
 
 ➡️ Export the **final group composition** as MP4  
-**Filename:** `Group-#-FinalComposition.mp4`
+📄 **Filename:** `Group-#-FinalComposition.mp4`
 
 ---
 
