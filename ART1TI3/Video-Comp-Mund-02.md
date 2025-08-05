@@ -21,7 +21,7 @@ This session is about **learning the editing environment**, understanding basic 
 
 ---
 
-## Software Required
+## Materials Required
 
 - Computer with DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)
   > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on tablets is **not recommended** due to limited screen space and functionality.*
