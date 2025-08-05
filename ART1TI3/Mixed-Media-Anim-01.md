@@ -84,23 +84,33 @@ Prepare your device for filming.
 
 ---
 
-<h3 style="color: darkred;">[40 min] Capture Your Footage</h3>
+<h3 style="color: darkred;">[40 min] Record</h3>
 
-🎥 **Task:** Film your raw material for the 30-second short.
+Film your raw material for the 30-second short.  
 
 ### Tips:
 - Record more than you need so you have options  
 - Keep shots stable and well-lit  
 - Apply cinematic techniques from class:
-  - **Composition Structures:** Rule of Thirds, Symmetry, Leading Lines  
+  - **Composition Structures:** Rule of Thirds, Symmetry, Leading Lines, etc.  
   - **Camera Shots:** Close-Up, Medium Shot, Full Shot, etc.  
   - **Angles:** Eye-level, High, Low, Tilted
 
+### References
+
+<img src="imgs/06.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/07.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/08.jpeg" style="width: 80%; height: auto;">
+
 ---
 
-<h3 style="color: darkred;">[20–30 min] Edit Your Video in DaVinci Resolve</h3>
+<h3 style="color: darkred;">[20–25 min] Edit Your Video in DaVinci Resolve</h3>
 
-🎬 **Task:** Edit your 30-second video using **DaVinci Resolve**.
+Edit your 30-second video using **DaVinci Resolve**.
+
+Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
 
 ### Editing Guidelines:
 - Final video must be in **black and white**  
@@ -113,9 +123,9 @@ Prepare your device for filming.
 
 ---
 
-<h3 style="color: darkred;">[30 min] Create Printable Frame Grids</h3>
+<h3 style="color: darkred;">[20 min] Create Printable Frame Grids</h3>
 
-🎞️ **Task:** Convert your video into frames for mixed-media animation.
+Convert your video into frames.
 
 ### Steps:
 1. Use **VLC Media Player** to export your video as still frames.  
