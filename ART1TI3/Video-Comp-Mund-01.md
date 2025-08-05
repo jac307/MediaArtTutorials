@@ -141,6 +141,6 @@ Take **40–60 photographs** using **only** the following techniques:
 | Group      | `Group-#-Notes.pdf`           | One per group   |
 | Individual | `Lastname-Name-Photogrid.pdf` | Each student    |
 
-> 📝 **Follow naming formats exactly. Submissions not matching protocol may lose points.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
