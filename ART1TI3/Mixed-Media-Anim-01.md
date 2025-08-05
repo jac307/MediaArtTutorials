@@ -125,35 +125,32 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 <h3 style="color: darkred;">[20 min] Create Printable Frame Grids</h3>
 
-Convert your video into frames.
+Start by converting your video into still frames using the tutorial provided.
 
-### Steps:
-1. Use **VLC Media Player** to export your video as still frames.  
-   Tutorial: *VLC – Export Video as Images*
-2. Divide the frames equally among your group members.
-3. Each student must prepare their own printable frame grid:
+Then, divide the frames evenly among your group.  
+Each student will design their own printable grid layout using their assigned frames:
 
-### Grid Format:
 - **Paper Size:** Letter (8.5 × 11 in)  
-- Orientation: Portrait or Landscape  
-- **Max 2 columns per page**
-- Keep frames evenly spaced and same size  
-- Tools: PowerPoint, Keynote, Canva, Google Slides, etc.
+- **Orientation:** Portrait or Landscape  
+- **Maximum:** 2 columns per page  
+- Keep all frames evenly spaced and the same size  
+- Suggested tools: PowerPoint, Keynote, Canva, Google Slides, etc.
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-Photogrid-FirstLastName.pdf`
+📄 **Filename:** `Lastname-Name-Frames.pdf`
 
-📌 **Print your grid in black and white** and bring it to class next week (Feb 12) for *Part 2*.
+📌 **Print your grid in black and white** and bring it to class for *Part 2*.  
+⚠️ Failure to bring your printed frames will result in a grade deduction.
 
 ---
 
 <h3 style="color: darkred;">📤 Submissions</h3>
 
-| Type       | File Name                                | Who Submits     |
+| Type       | File Name                                 | Who Submits     |
 |------------|-------------------------------------------|-----------------|
 | Group      | `Group-#-Notes.pdf`                       | One per group   |
 | Group      | `Group-#-Video.mp4`                       | One per group   |
-| Individual | `Group-#-Photogrid-FirstLastName.pdf`     | Each student    |
+| Individual | `Lastname-Name-Frames.pdf`                | Each student    |
 
 > 📝 **Use exact filenames. Incorrect or missing submissions may lose points.**
 
