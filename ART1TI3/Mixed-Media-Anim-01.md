@@ -1,4 +1,4 @@
-<h1 style="color: darkred;">Digital Mixed Media Animation – Part 1 (Feb 5)</h1>
+<h1 style="color: darkred;">Digital Mixed Media Animation – Part 1</h1>
 
 <figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
   <img src="imgs/03.gif" alt="Video" style="width: 48%; height: auto;">
