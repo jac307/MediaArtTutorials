@@ -1,7 +1,7 @@
 <h1 style="color: darkred;">Digital Mixed Media Animation – Part 2 (Feb 12)</h1>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/frame_intervention.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/08.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Handcrafted intervention using pastel, thread, and ink on printed video frames.
   </figcaption>
@@ -12,13 +12,6 @@
 Transform your printed black-and-white frame grids into a **mixed-media animation sequence** by applying physical interventions such as drawing, collage, painting, and texture.
 
 This stage explores analogue creativity and material storytelling, adding expressive and tactile qualities to your digital footage.
-
----
-
-## References
-
-- [Transforming my Cinematography with Mixed Media Animation](https://www.youtube.com/watch?v=1tOaWcN-P88)  
-- [Mixed Media Animation Vol. 2](https://www.youtube.com/watch?v=8KzZkZlUmtw)
 
 ---
 
@@ -40,7 +33,7 @@ This stage explores analogue creativity and material storytelling, adding expres
 
 <h3 style="color: darkred;">[Class Time] Animate Frame by Frame</h3>
 
-🎨 **Task:** Apply physical interventions to each printed frame to create a dynamic, evolving sequence.
+Apply physical interventions to each printed frame to create a dynamic, evolving sequence.
 
 ### Approaches to Try:
 - **Hand-Drawn Animation**  
@@ -54,13 +47,13 @@ This stage explores analogue creativity and material storytelling, adding expres
 - **Erasure & Reconstruction**  
   - Modify or partially erase parts of frames to show visual evolution.
 
-> 🎯 **Goal**: Make each frame different while maintaining flow across your sequence.
+> **Goal**: Make each frame different while maintaining flow across your sequence.
 
 ---
 
-<h3 style="color: darkred;">📌 Before Next Class: Digitize Your Frames</h3>
+<h3 style="color: darkred;">Before Next Class: Digitize Your Frames</h3>
 
-After completing your analogue interventions, you must **scan or photograph** each frame to prepare for reanimation in Part 3.
+After completing your analogue interventions, you must **scan or photograph** each frame to prepare for reanimation in *Part 3*.
 
 ### If Scanning (recommended):
 - Use a **flatbed scanner** at 300 DPI  
@@ -75,19 +68,19 @@ After completing your analogue interventions, you must **scan or photograph** ea
 - Avoid shadows, distortion, or reflections  
 - Use a plain white or neutral background
 
-➡️ Each student must bring **10 digitized frames** as individual images (not a single image of a full grid) to class on **Feb 26**.
+➡️ Bring the **digitized frames** as individual images (not a single image of a full grid) to class for *Part 3*.  
+⚠️ Failure to bring your printed frames will result in a grade deduction.
 
 ---
 
 <h3 style="color: darkred;">📤 Submissions</h3>
 
-| Type       | File Name                    | Who Submits     |
-|------------|------------------------------|-----------------|
+| Type       | File Name                       | Who Submits     |
+|------------|---------------------------------|-----------------|
 | Individual | `LastName-FirstName-Frames.pdf` | Each student    |
 
-📄 Submit a **PDF containing 10 digitized frames**, in the correct order for animation.  
-Each image should appear on its own page.
+📄 Submit a **PDF containing altered 10 digitized frames**.
 
-> 📝 **Use exact filenames. Incorrect submissions may result in lost points.**
+> ⚠️ **Use exact filenames. Incorrect submissions may result in lost points.**
 
 ---
