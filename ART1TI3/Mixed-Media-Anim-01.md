@@ -1,11 +1,13 @@
 <h1 style="color: darkred;">Digital Mixed Media Animation – Part 1 (Feb 5)</h1>
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Mixed-media frame with video and hand-drawn interventions.
-  </figcaption>
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/03.gif" alt="Video" style="width: 48%; height: auto;">
+  <img src="imgs/05.png" alt="Frames" style="width: 48%; height: auto;">
 </figure>
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Samples from test (work-in-progress) video compositions.
+</figcaption>
+
 
 ## Objective
 
@@ -15,19 +17,12 @@ This first stage focuses on structure, clarity, and visual storytelling using **
 
 ---
 
-## References
-
-- [How to TELL A STORY in 30 seconds](https://www.youtube.com/watch?v=dQY-jZrN5aA)  
-- [Transforming my Cinematography with Mixed Media Animation Vol. 2](https://www.youtube.com/watch?v=1tOaWcN-P88)
-
----
-
 ## Materials Required
 
-- Smartphone or personal camera  
-- Computer with **DaVinci Resolve** installed  
+- Computer with DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)
+  > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on tablets is **not recommended** due to limited screen space and functionality.*
+- Optional: Headphones (recommended for audio design)
 - Optional: tripod or phone stabilizer  
-- Optional: headphones
 
 ---
 
@@ -43,15 +38,19 @@ Work in groups. Open a Word or Google Doc and answer the following:
 ### Conceptual
 - What message or emotion will your story convey?
 - How will the story unfold in 30 seconds? (Beginning → Middle → End)
+- References
+  - [How to TELL A STORY in 30 seconds](https://www.youtube.com/watch?v=dQY-jZrN5aA)
+  - [Transforming my Cinematography with Mixed Media Animation Vol. 2](https://www.youtube.com/watch?v=1tOaWcN-P88)
 
-### Artistic
-- What framing or composition styles will you use?
-
-### Technical
+### Artistic and Technical
 - Where will you film? (Indoors is recommended for consistent artificial lighting)
+- What framing or composition styles will you use?
+  > For this project, you may use **close-ups, medium close-ups, medium shots, cowboy shots, medium full shots, and full shots**.  
+  > Consider how each framing choice offers a distinct perspective and supports your storytelling goals.
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-Notes.pdf` (Replace # with your group number)
+**Filename:** `Group-#-Notes.pdf` (Replace # with your group number)  
+Include both names + student numbers
 
 ---
 
