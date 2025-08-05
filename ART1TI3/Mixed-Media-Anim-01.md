@@ -102,8 +102,6 @@ Film your raw material for the 30-second short.
 
 <img src="imgs/07.jpeg" style="width: 80%; height: auto;">  
 
-<img src="imgs/08.jpeg" style="width: 80%; height: auto;">
-
 ---
 
 <h3 style="color: darkred;">[20–25 min] Edit Your Video in DaVinci Resolve</h3>
