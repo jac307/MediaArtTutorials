@@ -150,6 +150,6 @@ Each student will design their own printable grid layout using their assigned fr
 | Group      | `Group-#-Video.mp4`                       | One per group   |
 | Individual | `Lastname-Name-Frames.pdf`                | Each student    |
 
-> 📝 **Use exact filenames. Incorrect or missing submissions may lose points.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
