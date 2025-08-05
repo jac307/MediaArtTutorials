@@ -55,8 +55,9 @@ This is your last step: bring together storytelling, analogue intervention, and 
 Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
 
 ### Instructions:
-- Import all individual animations into a shared DaVinci Resolve project  
-- Sequence them in a meaningful order (choose what flows best)  
+- Import individual animations into a shared DaVinci Resolve project  
+- Sequence them in a meaningful order (choose what flows best)
+- Add Transitions and Effects if need it. 
 - Add:
   - **Title screen** at the beginning  
   - **End credits** listing all group members  
@@ -64,15 +65,13 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ### Sound Design Guidelines:
 - Choose royalty-free music or ambient sound  
-  - [Freesound.org](https://freesound.org){:target="_blank"}  
-  - [YouTube Audio Library](https://www.youtube.com/audiolibrary){:target="_blank"}  
+  - [Freesound.org](https://freesound.org){:target="_blank"}
+  - Music and audio should **enhance** the animation—not distract.
 - Sync sound with animation pacing  
 - Adjust volume levels to avoid distortion
 
-> 🎧 Music and audio should **enhance** the animation—not distract.
-
 ➡️ Export the **final group composition** as MP4  
-📄 **Filename:** `Group-#-FinalComposition.mp4`
+**Filename:** `Group-#-FinalComposition.mp4`
 
 ---
 
@@ -103,8 +102,8 @@ Create a 1-page PDF document that includes the following:
 |------------|------------------------------------|-----------------|
 | Individual | `Lastname-Firstname-Animation.mp4` | Each student    |
 | Group      | `Group-#-FinalComposition.mp4`     | One per group   |
-| Group      | `Group-#-Submission-Info.pdf`           | One per group   |
+| Group      | `Group-#-Submission-Info.pdf`      | One per group   |
 
-> 📝 **Use exact filenames and confirm proper export quality (720p minimum). Submissions not following guidelines may lose points.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
