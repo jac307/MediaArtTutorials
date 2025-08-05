@@ -90,4 +90,4 @@ Include **both names + student numbers**
 | Individual | `Lastname-Name-TestVideo.mp4`     | Each student    |
 | Group      | `Group-#-Notes.pdf`               | One per group   |
 
-> 📝 **Follow naming formats exactly. Submissions that do not follow the required format may lose points.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
