@@ -79,7 +79,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 ➡️ **Export your responses as a PDF**  
 📄 **Filename:** `Group-#-Notes.pdf`  
-Include **both names + student numbers**
+> Include **both names + student numbers**
 
 ---
 
