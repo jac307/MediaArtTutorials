@@ -64,9 +64,8 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
   - **Royalty-free background sound** that complements the tone and rhythm
 
 ### Sound Design Guidelines:
-- Choose royalty-free music or ambient sound  
-  - [Freesound.org](https://freesound.org){:target="_blank"}
-  - Music and audio should **enhance** the animation—not distract.
+- Choose royalty-free music or ambient sound from [Freesound.org](https://freesound.org){:target="_blank"}
+  > Music and audio should **enhance** the animation—not distract.
 - Sync sound with animation pacing  
 - Adjust volume levels to avoid distortion
 
