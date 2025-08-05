@@ -122,4 +122,4 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 | Final Video       | `Group-#-FinalVideo.mp4`      | One per group   |
 | Submission Form   | `Group-#-Submission-Info.pdf` | One per group   |
 
-> ⚠️ **Double check all naming conventions. Submissions that are incomplete or misnamed may receive deductions.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
