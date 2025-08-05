@@ -1,4 +1,4 @@
-<h1 style="color: darkred;">Digital Mixed Media Animation – Part 2 (Feb 12)</h1>
+<h1 style="color: darkred;">Digital Mixed Media Animation – Part 2</h1>
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/08.png" style="width: 100%; height: auto;">
