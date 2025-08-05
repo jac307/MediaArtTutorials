@@ -34,27 +34,25 @@ This is your last step: bring together storytelling, analogue intervention, and 
 
 <h3 style="color: darkred;">[30 min] Prepare and Sequence Your Frames</h3>
 
-🎞️ **Task:** Assemble your 10 analogue-enhanced frames into a short animation.
-
-### Steps:
-1. Open DaVinci Resolve  
-2. Import your 10 scanned/photographed frames  
-3. Arrange them in order on the timeline  
-4. Set each frame duration to **2–4 frames** (aim for 10–12 FPS)
+**Task:** Individually, assemble your analogue-enhanced frames into a short animation using the tutorial provided.
 
 ### Editing Tips:
-- Make sure all frames are the same size and aligned properly  
-- Use basic transitions sparingly  
-- Adjust playback speed if needed to enhance pacing
+- Ensure all frames are the same size and properly aligned  
+- Adjust playback speed if needed to enhance pacing  
+  > ⚠️ Make sure both of you use the **same settings**
+- Do **not** add any further effects or edits at this stage
 
-➡️ Export your animation as a **short MP4 file** (5–10 seconds)  
-📄 **Filename:** `Lastname-Firstname-Animation.mp4`
+➡️ Export your animation as a **short MP4 file**  
+> Individual videos should be 10-15 seconds.
+**Filename:** `Lastname-Firstname-Animation.mp4`
 
 ---
 
 <h3 style="color: darkred;">[30–40 min] Combine Group Animations + Add Sound</h3>
 
-🎬 **Task:** Collaborate with your group to create a single, unified short film.
+**Task:** Collaborate with your group to create a single, unified short film.
+
+Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
 
 ### Instructions:
 - Import all individual animations into a shared DaVinci Resolve project  
