@@ -1,9 +1,11 @@
 <h1 style="color: darkred;">Digital Mixed Media Animation – Part 3 (Feb 26)</h1>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/final_animation_timeline.jpg" style="width: 100%; height: auto;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/02.mp4" type="video/mp4">
+  </video>
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Final editing and sound design in DaVinci Resolve.
+    Video compositions from previous students.
   </figcaption>
 </figure>
 
@@ -18,7 +20,8 @@ This is your last step: bring together storytelling, analogue intervention, and 
 ## Materials Required
 
 - Digitized frames from Part 2 (PNG or JPEG files)  
-- Computer with **DaVinci Resolve** installed  
+- Computer with DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)
+  > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on tablets is **not recommended** due to limited screen space and functionality.*
 - Headphones (for audio mixing)  
 - Royalty-free audio library access from <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a>
 
