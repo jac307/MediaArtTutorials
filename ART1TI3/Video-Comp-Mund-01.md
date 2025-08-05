@@ -53,8 +53,8 @@ With your partner, open a document (Word or Google Docs) and answer the followin
   > Macro photography is optional. Check if your phone or camera supports it before including it in your shoot.
 
 ➡️ **Export as PDF**  
-**Filename:** `Group-#-Notes.pdf`  
-Include **both names + student numbers**
+📄 **Filename:** `Group-#-Notes.pdf`  
+> Include **both names + student numbers**
 
 ---
 
