@@ -49,8 +49,8 @@ Work in groups. Open a Word or Google Doc and answer the following:
   > Consider how each framing choice offers a distinct perspective and supports your storytelling goals.
 
 ➡️ **Export as PDF**  
-**Filename:** `Group-#-Notes.pdf` (Replace # with your group number)  
-Include both names + student numbers
+📄 **Filename:** `Group-#-Notes.pdf` (Replace # with your group number)  
+> Include both names + student numbers
 
 ---
 
