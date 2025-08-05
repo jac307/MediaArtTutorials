@@ -57,7 +57,7 @@ You will use the photographs captured in Part 1 to produce a cohesive, non-linea
   - Mood and atmosphere  
   - Conceptual and aesthetic coherence  
 
-📚 Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
+Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
 
 > This is your time to **bring your shared vision to life**—start from scratch and build a complete, expressive video artwork.
 
