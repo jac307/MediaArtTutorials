@@ -26,7 +26,7 @@ Students will critically engage with contemporary political, cultural, or advert
 - Laptop or iPad with internet access  
 - Access to a news article, campaign ad, or current media message (student-selected)  
 - [Photopea](https://www.photopea.com/){:target="_blank"} -free software for image/GIF creation)  
-- Group Self-Assessment Form (available on A2L)  
+- [GIF-Meme Politics Self Assessment Form](1.GIF-MemePolitics-Self-Assessment.pdf)  
 
 ---
 
