@@ -7,7 +7,7 @@
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/11.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Handcrafted intervention using pastel, thread, and ink on printed video frames.
+    Experiments by students during the first session.
   </figcaption>
 </figure>
 
