@@ -25,14 +25,14 @@ Students will collaboratively brainstorm and conceptualize their desktop cinema 
 
 ---
 
-## 🧩 Activities  
-**Complete the following in order. Ask your professor or TA for help or feedback as needed.**
+## Activities  
+**Complete the following in order. Ask your professor or TA for help as needed.**
 
 ---
 
 <h3 style="color: darkred;">[15 minutes] Brainstorm</h3>
 
-Discuss the following questions and write your answers as short bullet points:
+With your group, open a document (Word or Google Docs) and answer the following:
 
 - What story about privacy/surveillance do you want to tell?  
 - Which digital platform(s) (SMS, email, social media) will you portray?  
@@ -79,34 +79,33 @@ Submit a **PDF** file to A2L by the end of the session. It must include:
 - Task Assignment (who does what)  
 - Brainstorming notes  
 
-📄 **Filename:** `Planning-Group#.pdf`
+📄 **Filename:** `Planning-Group-#.pdf`
 
 ---
 
 <h3 style="color: darkred;">[45 minutes] Learn How to Use Clipchamp</h3>
 
-Log in to <a href="https://m365.cloud.microsoft/launch/Clipchamp/" target="_blank" rel="noopener noreferrer">Clipchamp</a> with your McMaster email.  
+Individually, log in to <a href="https://m365.cloud.microsoft/launch/Clipchamp/" target="_blank" rel="noopener noreferrer">Clipchamp</a> with your McMaster email.  
 Start a “Video Project” and follow the tutorials:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mIMeB8xZt2o?si=ZuNmOQ5S4SJYSUA5&amp;start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyiU_Ew6E3w?si=WpCuBFhkn_A0Y58h&amp;start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### ✅ Create a 30-second test video
+### Create a 30-second test video
 Your test video must:
 - Combine **2–3 video clips**  
 - Include **animated text**  
 - Include **picture-in-picture**
 
 Then:
-- Export and name your video: `Tutorial-Lastname.mp4`  
-- Take a screenshot of your Clipchamp timeline: `Tutorial-Lastname.jpeg`
+- Export and name your video: `Tutorial-Lastname-Name.mp4`  
+- Take a screenshot of your Clipchamp timeline: `Tutorial-Lastname-Name.jpeg`
 
 ---
 
-<h3 style="color: darkred;">📌 Before the Next Session</h3>
+<h3 style="color: darkred;">Before the Next Session</h3>
 
-- Upload your **individual submission** (test video + screenshot)  
 - Finalize and bring your **multimedia materials** based on your storyboard  
 - Ensure your assets are high-quality (clear visuals and sound)  
 - ⚠️ Do not start editing your final video yet — assembly begins next session!
@@ -117,8 +116,8 @@ Then:
 
 | Type                  | File Name                | Who Submits     |
 |-----------------------|--------------------------|-----------------|
-| Group Planning Doc    | `Planning-Group#.pdf`     | One per group   |
-| Individual Test Video | `Tutorial-Lastname.mp4`   | Each student    |
-| Individual Screenshot | `Tutorial-Lastname.jpeg`  | Each student    |
+| Group Planning Doc    | `Planning-Group-#.pdf`   | One per group   |
+| Individual Test Video | `Tutorial-Lastname.mp4`  | Each student    |
+| Individual Screenshot | `Tutorial-Lastname.jpeg` | Each student    |
 
 > ⚠️ Make sure filenames are correct. Submissions without proper formatting may lose marks.
