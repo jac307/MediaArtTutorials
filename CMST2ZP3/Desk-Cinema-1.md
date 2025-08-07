@@ -8,11 +8,11 @@
 ## 🎯 Objective  
 Students will collaboratively brainstorm and conceptualize their desktop cinema narrative around themes of **privacy** and **surveillance**.
 
-> **Note:** *“Desktop cinema”* refers to narratives that are exclusively visualized through screens, emulating the experience of watching a film or documentary on a desktop or mobile device—where digital interactions and messaging serve as the primary medium for storytelling.
+> *“Desktop cinema”* refers to narratives that are exclusively visualized through screens, emulating the experience of watching a film or documentary on a desktop or mobile device—where digital interactions and messaging serve as the primary medium for storytelling.
 
 ---
 
-## 🧰 Materials Required
+## Materials Required
 
 - Laptop or iPad with internet access  
 - Digital or physical notebook  
@@ -30,7 +30,7 @@ Students will collaboratively brainstorm and conceptualize their desktop cinema 
 
 ---
 
-<h3 style="color: darkred;">[15 minutes] 1. Brainstorm</h3>
+<h3 style="color: darkred;">[15 minutes] Brainstorm</h3>
 
 Discuss the following questions and write your answers as short bullet points:
 
@@ -41,7 +41,7 @@ Discuss the following questions and write your answers as short bullet points:
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] 2. Storyboard Creation</h3>
+<h3 style="color: darkred;">[30 minutes] Storyboard Creation</h3>
 
 Use the **Storyboard Template** provided. Create a storyboard with at least **5–7 frames** including “screen interactions” (e.g., messages, alerts, notifications).  
 
@@ -54,7 +54,7 @@ Your story should fit within **1 minute**.
 
 ---
 
-<h3 style="color: darkred;">[20 minutes] 3. Materials List</h3>
+<h3 style="color: darkred;">[20 minutes] Materials List</h3>
 
 Identify the media you need based on your storyboard.
 
@@ -68,7 +68,7 @@ Identify the media you need based on your storyboard.
 
 ---
 
-<h3 style="color: darkred;">[15 minutes] 4. Group Submission: Project Planning Document</h3>
+<h3 style="color: darkred;">[15 minutes] Group Submission: Project Planning Document</h3>
 
 Submit a **PDF** file to A2L by the end of the session. It must include:
 
@@ -83,13 +83,14 @@ Submit a **PDF** file to A2L by the end of the session. It must include:
 
 ---
 
-<h3 style="color: darkred;">[45 minutes] 5. Learn How to Use Clipchamp</h3>
+<h3 style="color: darkred;">[45 minutes] Learn How to Use Clipchamp</h3>
 
 Log in to <a href="https://m365.cloud.microsoft/launch/Clipchamp/" target="_blank" rel="noopener noreferrer">Clipchamp</a> with your McMaster email.  
 Start a “Video Project” and follow the tutorials:
 
-- *Clipchamp: Intro*  
-- *Clipchamp: Picture-in-Picture*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIMeB8xZt2o?si=ZuNmOQ5S4SJYSUA5&amp;start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DyiU_Ew6E3w?si=WpCuBFhkn_A0Y58h&amp;start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### ✅ Create a 30-second test video
 Your test video must:
