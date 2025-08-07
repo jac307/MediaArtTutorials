@@ -36,7 +36,7 @@ This first stage focuses on structure, clarity, and visual storytelling using **
 
 ---
 
-<h3 style="color: darkred;">[20 min] Conceptualize Your Project</h3>
+<h3 style="color: darkred;">[15 min] Conceptualize Your Project</h3>
 
 Work in groups. Open a Word or Google Doc and answer the following:
 
@@ -59,7 +59,7 @@ Work in groups. Open a Word or Google Doc and answer the following:
 
 ---
 
-<h3 style="color: darkred;">[15 min] Set Up Your Equipment</h3>
+<h3 style="color: darkred;">[10 min] Set Up Your Equipment</h3>
 
 Prepare your device for filming.
 
@@ -109,7 +109,7 @@ Film your raw material for the 30-second short.
 
 ---
 
-<h3 style="color: darkred;">[20–25 min] Edit Your Video in DaVinci Resolve</h3>
+<h3 style="color: darkred;">[20 min] Edit Your Video in DaVinci Resolve</h3>
 
 Edit your 30-second video using **DaVinci Resolve**.
 
@@ -126,7 +126,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">[20 min] Create Printable Frame Grids</h3>
+<h3 style="color: darkred;">[homework] Create Printable Frame Grids</h3>
 
 Start by converting your video into still frames using the tutorial provided.
 
