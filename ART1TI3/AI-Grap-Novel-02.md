@@ -7,7 +7,7 @@
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/10.jpeg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Final Graphic Novel from Students.
+    Graphic Novel Screenshots from a Final Project by previous students.
   </figcaption>
 </figure>
 
