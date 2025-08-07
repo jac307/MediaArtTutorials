@@ -16,7 +16,7 @@
 
 ## Objective
 
-In this session, students will **finalize their projects** by applying the skills developed in Part 1. The focus is on **cohesion**, **refinement**, and **documentation** of the creative process. This phase emphasizes:
+In this session, students will **create an artistic project** by applying the skills developed in Part 1. The focus is on **cohesion**, **refinement**, and **documentation** of the creative process. This phase emphasizes:
 - Conceptual consistency  
 - Technical execution  
 - Critical reflection on artistic and technical challenges
