@@ -126,7 +126,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">[homework] Create Printable Frame Grids</h3>
+<h3 style="color: darkred;">[10m] Create Printable Frame Grids</h3>
 
 Start by converting your video into still frames using the tutorial provided.
 
