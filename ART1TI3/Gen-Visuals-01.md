@@ -45,17 +45,17 @@ Ensure that editing access is granted to both group members.
 In your journal (under **"General Notes"**), answer the following:  
 > Add the **date** at the beginning of this entry.
 
-#### 🔹 Choosing a Tool
+#### Choosing a Tool
 - Why are we choosing Hydra for our project?  
 - How does it support our creative vision?
 
-#### 🔹 Project Direction
+#### Project Direction
 - What kind of generative visuals do we want to explore?  
 - Will they reflect a specific emotion, idea, or theme?  
 - What color palettes, shapes, and textures will we experiment with?  
 - How will we ensure visual connection across all compositions?
 
-#### 🔹 Process & Collaboration
+#### Process & Collaboration
 - How will we divide roles in the group?  
 - How will we document progress? *(e.g., screenshots, prompts, short notes)*
 
