@@ -112,8 +112,8 @@ Test the loop for:
 | Type       | File Name                     | Who Submits     |
 |------------|-------------------------------|-----------------|
 | Group      | `Analysis-Group-#.pdf`        | One per group   |
-| Group      | `Meme-Group#.gif`             | Each student    |
-| Group      | `SelfAssessment-Group-#.pdf`  | Each student    |
+| Group      | `Meme-Group#.gif`             | One per group   |
+| Group      | `SelfAssessment-Group-#.pdf`  | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
