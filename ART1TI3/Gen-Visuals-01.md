@@ -56,8 +56,8 @@ In your journal (under **"General Notes"**), answer the following:
 - How will we ensure visual connection across all compositions?
 
 #### 🔹 Process & Collaboration
-- How will we divide the work evenly?  
-- How will we document progress? (screenshots, sketches, short videos)
+- How will we divide roles in the group?  
+- How will we document progress? *(e.g., screenshots, prompts, short notes)*
 
 ---
 
