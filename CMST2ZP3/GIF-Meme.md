@@ -89,7 +89,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 ---
 
-<h3 style="color: darkred;">[10 minutes] Finalize GIF</h3>
+<h3 style="color: darkred;">[5 min] Finalize GIF</h3>
 
 Test the loop for:  
 - Seamless replay
