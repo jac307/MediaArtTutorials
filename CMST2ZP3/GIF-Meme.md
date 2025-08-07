@@ -3,6 +3,7 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">GIF-Meme Politics</h1>
+<p><strong>In Pairs</strong></p>
 
 <figure style="width: 100%; margin: auto;">
   <img src="materials/01.png" style="width: 100%; height: auto;">
@@ -12,8 +13,6 @@
 </figure>
 
 ## Objective
-
-Project in Pairs.  
 
 Students will critically engage with contemporary political, cultural, or advertising messages by creating a short-form visual commentary in the form of a looping GIF-Meme. This project builds **visual literacy** and **media critique** skills through analysis, creative synthesis, and reflective evaluation.
 
