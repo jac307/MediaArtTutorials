@@ -32,7 +32,7 @@ Students will explore **AI-generated storytelling** in the shape of a **Graphic 
 
 ---
 
-<h3 style="color: darkred;">[5 min] Set Up an Online Collaborative Journal</h3>
+<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
 
 Create a shared document with the following tabs/sections:
 
@@ -66,7 +66,7 @@ In your journal (under **"General Notes"**), answer the following:
 
 ---
 
-<h3 style="color: darkred;">[5 min] Share your journal's link</h3>
+<h3 style="color: darkred;">[10 min] Share your journal's link</h3>
 
 This is your only **Avenue To Learn** submission for this session.
 
@@ -76,7 +76,7 @@ This is your only **Avenue To Learn** submission for this session.
 
 ---
 
-<h3 style="color: darkred;">[80 min] Microsoft Copilot Excercise</h3>
+<h3 style="color: darkred;">[1h] Learn & Experiment</h3>
 
 Each student must complete the following:
 
