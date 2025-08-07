@@ -27,13 +27,14 @@ Students will explore **generative visuals** by experimenting with **Hydra** via
 
 ---
 
-<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
+<h3 style="color: darkred;">[5 min] Set Up an Online Collaborative Journal</h3>
 
 Create a shared document with the following sections:
 
-- Tool Selection & Approach  
-- Screenshots of work-in-progress  
-- Links to references or inspirations  
+- General Notes  
+- `Student 1 Name`: Work-in-progress
+- `Student 2 Name`: Work-in-progress  
+- Collective Work  
 
 Ensure that editing access is granted to both group members.
 
@@ -41,7 +42,8 @@ Ensure that editing access is granted to both group members.
 
 <h3 style="color: darkred;">[20 min] Conceptualize Your Project</h3>
 
-In your journal, answer the following:
+In your journal (under "General Notes"), answer the following:
+> Add Date at the beginning of this entry.
 
 #### Choosing a Tool
 - Why are we choosing Hydra for our project?  
@@ -59,71 +61,47 @@ In your journal, answer the following:
 
 ---
 
-<h3 style="color: darkred;">[40 min] Record</h3>
+<h3 style="color: darkred;">[5 min] Share your journal's link</h3>
+
+As your only Avenue To Learn Submission, you need to share your journal's link.
+
+Notes:
+➡️ Share your journal making sure you are sharing with open (no-restriction) settings.
+📄 Submit your link directly on Avenue To Learn.
+⚠️ Failure to properly setup your 
+
+---
+
+<h3 style="color: darkred;">[80 min] Learn & Experiment with Hydra</h3>
 
 Film your raw material for the 30-second short.  
 
-### Tips:
-- Record more than you need so you have options  
-- Keep shots stable and well-lit  
-- Apply cinematic techniques from class:
-  - **Composition Structures:** Rule of Thirds, Symmetry, Leading Lines, etc.  
-  - **Camera Shots:** Close-Up, Medium Shot, Full Shot, etc.  
-  - **Angles:** Eye-level, High, Low, Tilted
+Each student must complete the following **Hydra tutorials**:
 
-### References
+<ul>
+  <li><a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-Intro.html" target="_blank" rel="noopener noreferrer">Hydra: Intro</a></li>
+  <li><a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-TranformPatterns.html" target="_blank" rel="noopener noreferrer">Hydra: Transformers</a></li>
+  <li><a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-AdvanceReferences.html" target="_blank" rel="noopener noreferrer">Hydra: Modulators and Operators</a></li>
+  <li><a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-Cheatsheet.html" target="_blank" rel="noopener noreferrer">Hydra Cheatsheet</a></li>
+</ul>
 
-<img src="imgs/06.jpeg" style="width: 80%; height: auto;">  
+Then:
 
-<img src="imgs/07.jpeg" style="width: 80%; height: auto;">  
-
----
-
-<h3 style="color: darkred;">[20–25 min] Edit Your Video in DaVinci Resolve</h3>
-
-Edit your 30-second video using **DaVinci Resolve**.
-
-Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
-
-### Editing Guidelines:
-- Final video must be in **black and white**  
-- Avoid underexposure — make sure brightness reveals detail  
-- Ensure smooth pacing and clear storytelling  
-- Use simple transitions and cuts (no text or sound yet)
-
-➡️ **Export as MP4**  
-📄 **Filename:** `Group-#-Video.mp4`
+- Experiment freely with different sources and transformations  
+- Take **screenshots of at least 10 unique experiments** and add them to your Online journal under your tab.
+- For each screenshot, write a **4–5 sentence reflection** covering:
+  - What challenges did you face?  
+  - How did the tool respond to your changes?  
+  - What creative potential do you see in Hydra?
 
 ---
 
-<h3 style="color: darkred;">[20 min] Create Printable Frame Grids</h3>
+<h3 style="color: darkred;">📤 Submissions on Journal</h3>
 
-Start by converting your video into still frames using the tutorial provided.
-
-Then, divide the frames evenly among your group.  
-Each student will design their own printable grid layout using their assigned frames:
-
-- **Paper Size:** Letter (8.5 × 11 in)  
-- **Orientation:** Portrait or Landscape  
-- **Maximum:** 2 columns per page  
-- Keep all frames evenly spaced and the same size  
-- Suggested tools: PowerPoint, Keynote, Canva, Google Slides, etc.
-
-➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Name-Frames.pdf`
-
-📌 **Print your grid in black and white** and bring it to class for *Part 2*.  
-⚠️ Failure to bring your printed frames will result in a grade deduction.
-
----
-
-<h3 style="color: darkred;">📤 Submissions</h3>
-
-| Type       | File Name                                 | Who Submits     |
+| Type       | Description                               | Who Submits     |
 |------------|-------------------------------------------|-----------------|
-| Group      | `Group-#-Notes.pdf`                       | One per group   |
-| Group      | `Group-#-Video.mp4`                       | One per group   |
-| Individual | `Lastname-Name-Frames.pdf`                | Each student    |
+| Group      | Brainstorming Notes                       | One per group   |
+| Individual | Learning process and experimentation      | Each student    |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
