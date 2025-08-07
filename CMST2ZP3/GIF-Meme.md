@@ -26,7 +26,7 @@ Students will critically engage with contemporary political, cultural, or advert
 - Laptop or iPad with internet access  
 - Access to a news article, campaign ad, or current media message (student-selected)  
 - [Photopea](https://www.photopea.com/){:target="_blank"} -free software for image/GIF creation)  
-- [GIF-Meme Politics Self Assessment Form](materials/1.GIF-MemePolitics-Self-Assessment.pdf)  
+- [GIF-Meme Politics Self Assessment Form](materials/1.GIF-MemePolitics-Self-Assessment.pdf){:target="_blank"}  
 
 ---
 
@@ -101,7 +101,7 @@ Test the loop for:
 
 <h3 style="color: darkred;">[10 min] Group Self-Assessment</h3>
 
-- Complete the [GIF-Meme Politics Self Assessment Form](materials/1.GIF-MemePolitics-Self-Assessment.pdf) **thoughtfully**.
+- Complete the [GIF-Meme Politics Self Assessment Form](materials/1.GIF-MemePolitics-Self-Assessment.pdf){:target="_blank"} **thoughtfully**.
 - Reflect critically on your final project.
 - 📄 **Filename:** `SelfAssessment-Group-#.pdf`
 
