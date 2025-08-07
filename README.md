@@ -23,6 +23,7 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 + [MEDIA 2DF3](MEDIA2DF3/README.md)
 + [ART 1TI3](ART1TI3/README.md)
++ [CMST 2ZP3](CMST2ZP3/README.md)
 
 
 ________________________________________________________________________
