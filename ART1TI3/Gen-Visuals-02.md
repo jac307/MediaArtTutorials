@@ -1,9 +1,11 @@
 <h1 style="color: darkred;">Generative Visuals with Hydra – Part 1</h1>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/08.png" style="width: 100%; height: auto;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/03.webm" type="video/webm">
+  </video>
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Handcrafted intervention using pastel, thread, and ink on printed video frames.
+    Video compositions from previous students.
   </figcaption>
 </figure>
 
