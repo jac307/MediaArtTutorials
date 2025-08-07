@@ -51,7 +51,7 @@ In your journal (under **"General Notes"**), answer the following:
 
 ---
 
-<h3 style="color: darkred;">[40 min] Work on Your Project</h3>
+<h3 style="color: darkred;">[60 min] Work on Your Project</h3>
 
 **Goal:** Develop a **fictional story** and present it as a **graphic novel** using **5–8 AI-generated images**. Ensure **cohesion** in visual storytelling through consistent style, color scheme, and framing and composition. 
 
@@ -84,7 +84,7 @@ In your journal (under **“General Notes”**), answer:
 
 ---
 
-<h3 style="color: darkred;">[30 min] 📤 Final Submission</h3>
+<h3 style="color: darkred;">📤 Final Submission</h3>
 
 #### Submission 1
 
