@@ -7,7 +7,7 @@
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/09.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Handcrafted intervention using pastel, thread, and ink on printed video frames.
+     Recreation images from Hafidz’s *The Rapid Decline* short story as Part 1 experiments.
   </figcaption>
 </figure>
 
