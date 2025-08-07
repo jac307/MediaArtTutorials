@@ -120,4 +120,6 @@ Then:
 | Individual Test Video | `Tutorial-Lastname.mp4`  | Each student    |
 | Individual Screenshot | `Tutorial-Lastname.jpeg` | Each student    |
 
-> ⚠️ Make sure filenames are correct. Submissions without proper formatting may lose marks.
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+
+---
