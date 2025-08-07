@@ -42,7 +42,7 @@ Generative visuals or AI-generated Graphic Novel. Choose one of these two option
 ### Option 2
 
 + [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 1](AI-Grap-Novel-01.md)
-+ [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 2](AI-Grap-Novel-01.md)
++ [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 2](AI-Grap-Novel-02.md)
 
 ________________________________________________________________________
 
