@@ -1,48 +1,58 @@
 # ART 1TI3
 
-This hands-on, introductory course explores the **intersection of art, technology, and society** through a series of collaborative projects. Students will work with a range of media—including **photography, video, collage, mixed media, AI tools, and generative tools**—to develop creative responses to contemporary themes.
+This course investigates **digital ways of doing as both critical inquiry and creative process**, where digital tools are treated not just as media, but as cultural practices that **shape how we think, communicate, and create**. Students will explore the political, aesthetic, and ethical dimensions of contemporary media through hands-on experimentation, conceptual development, and collaborative production.
 
-Students are expected to **actively participate** in class, **bring required materials**, and **collaborate respectfully** with their peers. Emphasis is placed on both the **creative process** and **conceptual engagement**, preparing students to critically navigate the evolving landscape of **digital art and culture**.
+Each assignment engages distinct digital logics such as looping, layering, mapping, remixing, and poisoning, encouraging students to question the tools and techniques they use. Assessments emphasize **process-based learning**, including **peer critique**, **self-assessment**, and **iterative feedback** to support creative risk-taking and critical reflection.
 
 > Linked tutorials are accessible only while the course is in session.
 
 ---
 
-# Projects
+# In-Class Projects
 
-## Video composition of the Mundane (Pairs)
+## GIF-Meme Politics (in pairs)
 
-Create an experimental video using only photographic close-up footage of the university campus.
+Analyze a political, cultural, or advertising message, then design a 3–5 second looping GIF that critiques, amplifies, or subverts its core ideology.
 
-+ [Video composition of the Mundane  - Part 1](Video-Comp-Mund-01.md)
-+ [Video composition of the Mundane  - Part 2](Video-Comp-Mund-02.md)
-+ [Video composition of the Mundane  - Part 3](Video-Comp-Mund-03.md)
++ [GIF-Meme Politics](GIF-Meme.md)
+
+## Desktop Cinema / SMS Storytelling (groups of 3 students)
+
+Create a 1-minute narrative using simulated digital interactions (e.g., SMS, social media) to explore themes of privacy, surveillance, and digital communication.
+
++ [Desktop Cinema / SMS Storytelling  - Part 1](Desk-Cinema-1.md)
++ [Desktop Cinema / SMS Storytelling  - Part 2](Desk-Cinema-2.md)
+
+## Mapping of Local Mobility Issues (groups of 3-4 students)
+
+Investigate a mobility issue in Hamilton and design a digital sensorial map that blends public data with emotional and visual insights.
+
++ [Mapping of Local Mobility Issues  - Part 1](Mapping-Mobility-01.md)
++ [Mapping of Local Mobility Issues  - Part 2](Mapping-Mobility-02.md)
 
 ---
 
-## Mixed Media Animation (Groups of three students)
+## Research-Creation Project (groups of 3-4 students)
 
-Animate a sequence using printed frames and physical materials (paint, paper, thread, etc.) to create a mixed-media video.
+Completed in groups of 3–4, this multi-week project includes class-weekly activities, progress check-ins, and a final deliverable/class-showcase. Attendance, participation, and collaborative contribution are essential and graded individually and collectively.
 
-+ [Mixed Media Animation  - Part 1](Mixed-Media-Anim-01.md)
-+ [Mixed Media Animation  - Part 2](Mixed-Media-Anim-02.md)
-+ [Mixed Media Animation  - Part 3](Mixed-Media-Anim-03.md)
+### Option 1: Cyborg Storytelling using Augmented Reality
 
----
+Explore the human–technology relationship through a cyborg lens. Using individual research and the Pictarize AR platform, your group will create a speculative storybook that blends analogue materials with digital overlays and reflects themes such as retro-futurism and BIPOC futurism.
 
-## Mixed Media Animation (Groups of three students)
++ [W8: Conduct Individual Research](Cyborg-Storytelling-W8.md)
++ [W9: Finalize Research Report, Brainstorm Project Learn Pictarize](Cyborg-Storytelling-W9.md)
++ [W10: Define the Project, Finalize Visual Materials, Begin Pictarize Prototyping](Cyborg-Storytelling-W10.md)
++ [W11: Implement and Assemble in Pictarize](Cyborg-Storytelling-W11.md)
 
-Generative visuals or AI-generated Graphic Novel. Choose one of these two options.
+### Option 2: Glitching tools - AI data poisoning
 
-### Option 1
+Use adversarial prompting, Nightshade data poisoning, and AI remixing tools to create a series of glitch-based images. This option emphasizes the creative and ethical implications of manipulating AI-generated media to disrupt machine perception and explore speculative aesthetics.
 
-+ [Generative visuals with Hydra  - Part 1](Gen-Visuals-01.md)
-+ [Generative visuals with Hydra  - Part 2](Gen-Visuals-02.md)
-
-### Option 2
-
-+ [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 1](AI-Grap-Novel-01.md)
-+ [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 2](AI-Grap-Novel-02.md)
++ [W8: Conduct Individual Research](AI-Poisoning-W8.md)
++ [W9: Final Research Report + AI Data Poisoning Workflow](AI-Poisoning-W9.md)
++ [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)
++ [W11: Complete final images](AI-Poisoning-W11.md)
 
 ________________________________________________________________________
 
