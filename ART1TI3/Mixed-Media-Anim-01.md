@@ -15,7 +15,7 @@
 
 ## Objective
 
-Create a **30-second storytelling short** using video footage and analogue **mixed-media techniques**. This video will become the foundation for your final animation project. You will record video, convert it into printable frames, and later enhance it using hand-drawn and physical elements.
+Create a **30-second storytelling short** using video footage. This video will become the foundation for your final mixed-media animation project. You will record video, convert it into printable frames, and later enhance it using hand-drawn and physical elements.
 
 This first stage focuses on structure, clarity, and visual storytelling using **DaVinci Resolve**.
 
