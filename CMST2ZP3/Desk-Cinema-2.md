@@ -2,13 +2,13 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Desktop Cinema / SMS Storytelling</h1>  
-<p><strong>Groups of 2–3 students · Session 2</strong></p>
+<h1 style="color: darkred;">Desktop Cinema / SMS Storytelling - Session 1</h1>  
+<p><strong>Groups of 2–3 students</strong></p>
 
 ## 🎯 Objective  
 Students will bring their desktop cinema narrative to life by recording, assembling, editing, and post-producing their planned 1-minute digital story.
 
-> **Note:** *“Desktop cinema”* refers to narratives that are exclusively visualized through screens, emulating the experience of watching a film or documentary on a desktop or mobile device—where digital interactions and messaging serve as the primary medium for storytelling.
+> *“Desktop cinema”* refers to narratives that are exclusively visualized through screens, emulating the experience of watching a film or documentary on a desktop or mobile device—where digital interactions and messaging serve as the primary medium for storytelling.
 
 ---
 
