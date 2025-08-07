@@ -23,6 +23,7 @@ This first stage focuses on structure, clarity, and visual storytelling using **
 
 ## Materials Required
 
+- Smartphone or personal camera
 - Computer with DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)
   > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on tablets is **not recommended** due to limited screen space and functionality.*
 - Optional: Headphones (recommended for audio design)
