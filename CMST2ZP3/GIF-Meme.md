@@ -26,7 +26,7 @@ Students will critically engage with contemporary political, cultural, or advert
 - Laptop or iPad with internet access  
 - Access to a news article, campaign ad, or current media message (student-selected)  
 - [Photopea](https://www.photopea.com/){:target="_blank"} -free software for image/GIF creation)  
-- [GIF-Meme Politics Self Assessment Form](1.GIF-MemePolitics-Self-Assessment.pdf)  
+- [GIF-Meme Politics Self Assessment Form](materials/1.GIF-MemePolitics-Self-Assessment.pdf)  
 
 ---
 
@@ -58,8 +58,8 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - Articulate the impact or significance of the message.
 - Cite all sources in **APA style**. Use: [APA Reference Guide](https://apastyle.apa.org/style-grammar-guidelines/references/examples){:target="_blank"}
 
-➡️ Export your written response as a **PDF** 
-📄 **Filename:** `Analysis-Group-#.pdf`  
+➡️ Export your written response as a **PDF**   
+📄 **Filename:** `Analysis-Group-#.pdf`   
 > Include **both names + student numbers**
 
 ---
@@ -75,6 +75,9 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 #### 2. Collect Visual Materials (5 min)
 - Gather imagery, short clips, or text snippets.
 - Use copyright-free sources or remix copyrighted materials under **fair use**.
+- Options for copyright-free sources:
+  - [https://www.pexels.com/](https://www.pexels.com/){:target="_blank"}
+  - [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
 
 #### 3. Design the GIF (20–30 min)
 - Use [Photopea](https://www.photopea.com/){:target="_blank"} to build your GIF.
@@ -84,22 +87,23 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IYZLc3k45Lo?si=846xjVmtaQGVuTTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Test the loop for:
-  - Seamless replay
-  - Visual clarity and contrast
-  - Symbolic commentary
+#### Finalize (5 min)
 
-#### 4. Export and Save (5 min)
-- Export your GIF as a `.gif` file  
-**Filename:** `Meme-Group#.gif`
+Test the loop for:  
+- Seamless replay
+- Visual clarity and contrast
+- Symbolic commentary
+  
+➡️ Export your GIF as a `.gif` file  
+📄 **Filename:** `Meme-Group-#.gif`
   
 ---
 
 <h3 style="color: darkred;">[10 min] Group Self-Assessment</h3>
 
-- Complete the attached self-assessment form thoughtfully.
-- Reflect critically on your final project.  
-**Filename:** `SelfAssessment-Group-#.pdf`
+- Complete the [GIF-Meme Politics Self Assessment Form](materials/1.GIF-MemePolitics-Self-Assessment.pdf) **thoughtfully**.
+- Reflect critically on your final project.
+- 📄 **Filename:** `SelfAssessment-Group-#.pdf`
 
 ---
 
