@@ -9,7 +9,7 @@
     <source src="imgs/03.webm" type="video/webm">
   </video>
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Video compositions from previous students.
+    Video composition created by students as their Final Submission.
   </figcaption>
 </figure>
 
