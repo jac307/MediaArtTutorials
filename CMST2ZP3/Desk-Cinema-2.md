@@ -86,6 +86,8 @@ Students will bring their desktop cinema narrative to life by recording, assembl
 | Group Video          | `Video-Group-#.mp4`         | One per group   |
 | Self-Eval            | `SelfAssessment-Group#.pdf` | One per group   |
 
-> ⚠️ Make sure all files are properly named and submitted to avoid lost marks.
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+
+---
 
 ---
