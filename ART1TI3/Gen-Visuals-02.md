@@ -52,7 +52,7 @@ In your journal (under **"General Notes"**), answer the following:
 
 ---
 
-<h3 style="color: darkred;">[40 min] Work on Your Project</h3>
+<h3 style="color: darkred;">[60 min] Work on Your Project</h3>
 
 **Goal:** Create a cohesive series of **4 digital paintings**, each using distinct code.
 
@@ -89,7 +89,7 @@ In your journal (under **“General Notes”**), answer:
 
 ---
 
-<h3 style="color: darkred;">[30 min] 📤 Final Submission</h3>
+<h3 style="color: darkred;">📤 Final Submission</h3>
 
 Prepare a **Project Information PDF** that includes the following:
 
