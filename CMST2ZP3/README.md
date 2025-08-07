@@ -14,7 +14,7 @@ Each assignment engages distinct digital logics such as looping, layering, mappi
 
 Analyze a political, cultural, or advertising message, then design a 3–5 second looping GIF that critiques, amplifies, or subverts its core ideology.
 
-+ [GIF-Meme Politics](materials/GIF-Meme.md)
++ [GIF-Meme Politics](GIF-Meme.md)
 
 ## Desktop Cinema / SMS Storytelling (groups of 3 students)
 
