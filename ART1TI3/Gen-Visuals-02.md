@@ -1,3 +1,7 @@
+[ART 1TI3](README.md)
+
+-------------------------------------------------------------------------------
+
 <h1 style="color: darkred;">Generative Visuals with Hydra – Part 1</h1>
 
 <figure style="width: 100%; margin: auto;">
