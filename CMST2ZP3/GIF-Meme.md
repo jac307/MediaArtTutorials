@@ -35,7 +35,7 @@ Students will critically engage with contemporary political, cultural, or advert
 
 ---
 
-<h3 style="color: darkred;">[40 minutes] 1. Written Analysis</h3>
+<h3 style="color: darkred;">[40 minutes] Written Analysis</h3>
 
 With your partner, open a document (Word or Google Docs) and answer the following:
 
@@ -64,7 +64,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 ---
 
-<h3 style="color: darkred;">[50 minutes] 2. GIF File</h3>
+<h3 style="color: darkred;">[50 minutes] Create GIF with Photopea</h3>
 
 #### 1. Define Your Concept (10 min)
 - Based on your analysis, decide whether your GIF will **critique, amplify, or subvert** the original message.
@@ -87,7 +87,9 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IYZLc3k45Lo?si=846xjVmtaQGVuTTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Finalize (5 min)
+---
+
+<h3 style="color: darkred;">[10 minutes] Finalize GIF</h3>
 
 Test the loop for:  
 - Seamless replay
