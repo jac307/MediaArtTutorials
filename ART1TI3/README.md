@@ -47,5 +47,3 @@ Generative visuals or AI-generated Graphic Novel. Choose one of these two option
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
-
-
