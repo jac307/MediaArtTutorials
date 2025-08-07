@@ -16,7 +16,7 @@
 
 Students will critically engage with contemporary political, cultural, or advertising messages by creating a short-form visual commentary in the form of a looping GIF-Meme. This project builds **visual literacy** and **media critique** skills through analysis, creative synthesis, and reflective evaluation.
 
-> **Note:** “Political” in this context can include responses to advertisements, political campaigns, news articles, or any media conveying ideological messages.
+> “Political” in this context can include responses to advertisements, political campaigns, news articles, or any media conveying ideological messages.
 
 ---
 
