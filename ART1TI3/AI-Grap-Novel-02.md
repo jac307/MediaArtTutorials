@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Generative Visuals with Hydra – Part 1</h1>
+<h1 style="color: darkred;">AI-Generated Graphic Novel with Microsoft Co-Pilot – Part 2</h1>
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/10.jpeg" style="width: 100%; height: auto;">
