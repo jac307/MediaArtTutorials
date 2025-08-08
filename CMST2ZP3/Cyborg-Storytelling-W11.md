@@ -43,6 +43,9 @@ Meet as a group and review:
 
 > Update your Planning Document with any changes made during this check-in.
 
+➡️ Export your file as a **PDF**  
+📄 **Filename:** `Planning-Group-#.pdf`
+
 ---
 
 <h3 style="color: darkred;">[1h 10m] Second Prototype in Pictarize</h3>
@@ -97,9 +100,12 @@ Create a PDF titled `ARStorybook-Group#.pdf` with:
 
 <h3 style="color: darkred;">📤 Final Submission</h3>
 
-| Type                    | File Name                     | Who Submits     |
-|-------------------------|-------------------------------|-----------------|
-| Project PDF             | `ARStorybook-Group-#.pdf`      | One per group   |
-| First Prototype Video   | `FirstPrototype-Group-#.mp4`   | One per group   |
+| Type                      | File Name                     | Who Submits     |
+|---------------------------|-------------------------------|-----------------|
+| Updated Planning Document | `Planning-Group-#.pdf`        | One per group   |
+| Project PDF               | `ARStorybook-Group-#.pdf`     | One per group   |
+| First Prototype Video     | `FirstPrototype-Group-#.mp4`  | One per group   |
 
-> ⚠️ Make sure your file names follow the correct format.
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+
+---
