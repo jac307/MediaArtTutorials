@@ -119,7 +119,7 @@ Then:
 
 ---
 
-## 📤 Submission Summary
+## 📤 Submission
 
 | Type                  | File Name                | Who Submits     |
 |-----------------------|--------------------------|-----------------|
