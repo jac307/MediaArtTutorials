@@ -122,7 +122,7 @@ You submission document must have:
 - APA citations  
 - 3–5 sentence annotations per source
 
-➡️ Export your file as a **PDF**
+➡️ Export your file as a **PDF**  
 📄 **Filename:** `PartialResearchReport-Lastname.pdf`
 
 ---
