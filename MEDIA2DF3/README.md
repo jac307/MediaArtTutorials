@@ -1,4 +1,4 @@
-# MEDIA 2DF3
+# MEDIAART 2DF3 – Design Fundamental
 
 This studio-based course introduces students to the fundamentals of visual design through weekly hands-on exercises and guided projects. Working with both digital and physical tools, students develop skills in composition, colour theory, typography, and layout using Adobe Illustrator and Photoshop.  
 
