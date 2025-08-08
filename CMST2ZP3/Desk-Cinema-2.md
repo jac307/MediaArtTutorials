@@ -25,7 +25,7 @@ Students will bring their desktop cinema narrative to life by recording, assembl
 - Gathered or created media assets (images, sounds, GIFs, screenshots, etc.)  
 - <a href="https://m365.cloud.microsoft/launch/Clipchamp/" target="_blank" rel="noopener noreferrer">Clipchamp</a> (Video editing software — access with McMaster email)  
 - Headphones (for reviewing audio elements)  
-- [Desktop Cinema / SMS Storytelling Self Assessment Form](materials/2.DesktopCinemaSMSStorytelling-Self-Assessment.pdf)
+- [Desktop Cinema / SMS Storytelling Self Assessment Form](materials/2.DesktopCinemaSMSStorytelling-Self-Assessment.pdf){:target="_blank"}
 
 ---
 
@@ -79,7 +79,7 @@ Students will bring their desktop cinema narrative to life by recording, assembl
 
 <h3 style="color: darkred;">📝 Group Self-Assessment</h3>
 
-- Complete the [Desktop Cinema / SMS Storytelling Self Assessment Form](materials/2.DesktopCinemaSMSStorytelling-Self-Assessment.pdf) **thoughtfully**.  
+- Complete the [Desktop Cinema / SMS Storytelling Self Assessment Form](materials/2.DesktopCinemaSMSStorytelling-Self-Assessment.pdf){:target="_blank"} **thoughtfully**.  
 - Reflect on your collaboration and creative decisions
 - 📄 **Filename:** `SelfAssessment-Group-#.pdf`
 
