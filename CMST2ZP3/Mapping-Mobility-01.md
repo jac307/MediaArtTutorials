@@ -141,7 +141,7 @@ Your **test StoryMapJS** must include:
 
 ---
 
-## 📤 Submission Summary
+## 📤 Submission
 
 | Type                      | File Name                                 | Who Submits     |
 |---------------------------|-------------------------------------------|-----------------|
