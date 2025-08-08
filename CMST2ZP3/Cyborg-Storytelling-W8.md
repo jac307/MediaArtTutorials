@@ -2,13 +2,14 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Research-Creation Project</h1>  
-<p><strong>Groups of 3–4 students · Option 1: Cyborg Storytelling using Augmented Reality · Week 8 Activities</strong></p>
+<h1 style="color: darkred;">W8: Conduct Individual Research </h1>  
+<p><strong>Research-Creation Project · Cyborg Storytelling using Augmented Reality</strong></p>
+<p><strong>Groups of 3–4 students</strong></p>
 
-## 🎯 Objective  
+## Objective  
 Students will conduct independent critical research to establish the **conceptual foundation** for their group’s *Cyborg Storytelling using Augmented Reality* project.
 
-> **Note:** *Cyborg Storytelling* refers to speculative, hybrid narratives that explore the intersection of humans and technology—blending analogue and digital elements to reimagine identity, embodiment, and future worlds.
+> *Cyborg Storytelling* refers to speculative, hybrid narratives that explore the intersection of humans and technology—blending analogue and digital elements to reimagine identity, embodiment, and future worlds.
 
 Each student will explore one of four key themes:
 
@@ -21,21 +22,21 @@ They will define a specific research angle, select and annotate relevant sources
 
 ---
 
-## 🧰 Materials Required
+## Materials Required
 
 - Digital or physical notebook for organizing citations and ideas  
 - Laptop or device for research  
 
 ---
 
-## 🧩 Activities  
-**Complete the following activities in order. Ask your professor or TA for help or feedback as needed.**
+## Activities  
+**Complete the following in order. Ask your professor or TA for help as needed.**
 
 ---
 
-<h3 style="color: darkred;">[5 minutes] Topic Selection (Group)</h3>
+<h3 style="color: darkred;">[5 minutes] Topic Selection</h3>
 
-As a group, divide the four themes so that **each student focuses on one**:
+With your **group**, divide the four themes so that **each student focuses on one**:
 
 - **Cyborg Theory**: Analyze *Donna Haraway’s Cyborg Manifesto* and its relevance to human-machine merging  
 - **Retro-futurism**: Explore historical/speculative design shaping cyborg narratives  
@@ -48,8 +49,9 @@ As a group, divide the four themes so that **each student focuses on one**:
 
 <h3 style="color: darkred;">[30 minutes] Research Angle + Source Planning</h3>
 
+Open a document (Word or Google Docs) and answer the following:
+
 ### 1. Define Your Research Angle  
-Ask yourself:
 - What fascinates me about this topic?  
 - Do I want to focus on a specific time, theory, or artistic/cultural example?  
 - What types of examples (art, design, literature, activism, etc.) interest me?
@@ -80,7 +82,7 @@ Choose:
 
 Create an **annotated bibliography**:
 - Cite each source in **APA format**  
-  ➡️ [APA Citation Guide](https://apastyle.apa.org/style-grammar-guidelines/references/examples)  
+  - [APA Citation Guide](https://apastyle.apa.org/style-grammar-guidelines/references/examples){:target="_blank"}  
 - Write a **3–5 sentence summary** of each source’s key ideas  
 - Explain how each connects to your topic or storytelling concept
 
@@ -94,7 +96,7 @@ These should help you:
 - Analyze your topic from cultural, political, or aesthetic perspectives  
 - Reflect on your own relationship to the theme (identity, body, memory, tech, etc.)
 
-### 🔍 Sample Questions:
+### Sample Questions:
 - *“How does Haraway’s idea of the cyborg help me rethink my own body as a site of hybridity or resistance?”*  
 - *“What retro-futuristic tropes speak to my cultural background or challenge my expectations of the future?”*  
 - *“How does BIPOC futurism center my identity in tech-based storytelling?”*  
@@ -104,32 +106,32 @@ These should help you:
 
 ---
 
-<h3 style="color: darkred;">#5: Submit Partial (Individual) Research Report</h3>
+<h3 style="color: darkred;">Submit Partial (Individual) Research Report</h3>
 
-Submit a **PDF file** with the following:
+You submission document must have:  
 
 - Full Name + Student Number  
 - Theme Title (e.g., Retro-futurism)  
 
-### 📝 Research Notes:
+### Research Notes:
 - Brief description of your chosen research angle  
 - 2–3 guiding research questions  
 
-### 📚 Annotated Bibliography:
+### Annotated Bibliography:
 - **1 academic source** + **2 public sources**  
 - APA citations  
 - 3–5 sentence annotations per source
 
+➡️ Export your file as a **PDF**
 📄 **Filename:** `PartialResearchReport-Lastname.pdf`
 
 ---
 
-<h3 style="color: darkred;">📌 Before the Next Class</h3>
+<h3 style="color: darkred;">Before the Next Class</h3>
 
 - Read your three sources thoroughly  
 - Highlight **key arguments, case studies, or examples**  
 - Gather **quotes**, notes, or visuals that inspire you  
-> These will help shape your **creative direction** in the next group activity.
 
 ---
 
@@ -139,5 +141,6 @@ Submit a **PDF file** with the following:
 |---------------------------|-------------------------------------|-----------------|
 | Individual Research Report| `PartialResearchReport-Lastname.pdf`| Each student    |
 
-> ⚠️ All submissions must follow the required file naming and include all components to receive full credit.
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
+---
