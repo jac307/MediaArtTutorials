@@ -32,7 +32,7 @@ This session focuses on defining your group’s *Cyborg Storytelling AR* project
 
 Review your group’s brainstorming materials from Week 9.
 
-In a shared document, under **“Cyborg Storybook Structure”**, define:
+In a new shared document, under **“Cyborg Storybook Structure”**, define:
 
 - **Tentative Title:** A working title that reflects your mood, concept, or speculative world  
 - **Concept Description (3–4 sentences):**
@@ -78,6 +78,9 @@ Each student begins developing their materials. Follow these guidelines:
   - Organize files in shared folders  
   - Add credits for all external media
 
+➡️ Export your file as a **PDF**  
+📄 **Filename:** `Planning-Group-#.mp4`
+
 ---
 
 <h3 style="color: darkred;">Early Prototype in Pictarize</h3>
@@ -113,7 +116,7 @@ Within the shared account, each student must:
 
 | Type                           | File Name                     | Who Submits     |
 |--------------------------------|-------------------------------|-----------------|
-| Group Planning Document        | `Planning-Group#.pdf`         | One per group   |
+| Group Planning Document        | `Planning-Group-#.pdf`        | One per group   |
 | Individual Materials Summary   | `Materials-Lastname.pdf`      | Each student    |
 | Early Prototype Test Video     | `EarlyPrototype-Lastname.mp4` | Each student    |
 
