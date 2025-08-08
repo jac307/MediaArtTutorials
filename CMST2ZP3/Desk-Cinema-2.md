@@ -5,6 +5,8 @@
 <h1 style="color: darkred;">Desktop Cinema / SMS Storytelling - Session 1</h1>  
 <p><strong>Groups of 2–3 students</strong></p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/104fUNBeqcY?si=vG36gpxzBKuCBEL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 🎯 Objective  
 Students will bring their desktop cinema narrative to life by recording, assembling, editing, and post-producing their planned 1-minute digital story.
 
