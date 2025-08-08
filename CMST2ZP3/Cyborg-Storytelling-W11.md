@@ -50,7 +50,7 @@ Meet as a group and review:
 
 <h3 style="color: darkred;">[1h 10m] Second Prototype in Pictarize</h3>
 
-Use your shared <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account, and your existing project to build your **final group project**.
+Use your shared <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account, and your existing project to build a **second group prototype**.
 
 ### Team Workflow:
 - Assign clear roles:
@@ -73,23 +73,6 @@ Use your shared <a href="https://pictarize.app" target="_blank" rel="noopener no
 
 ---
 
-<h3 style="color: darkred;">Assemble the Group Submission Document</h3>
-
-Create a PDF titled `ARStorybook-Group#.pdf` with:
-
-1. **Project Title + Description**
-2. Project's link - from Pictarized.  
-3. **2–3 Screenshots** of your AR Storybook in action  
-   - For each screenshot, include:
-     - What analogue image was used (e.g., “hand-drawn circuit veins”)  
-     - What digital media was added (e.g., “overlay of glitch video + sound”)  
-     - What story/mood/idea the page conveys
-
-➡️ Export your file as a **PDF**  
-📄 Save and upload as `ARStorybook-Group-#.pdf`
-
----
-
 <h3 style="color: darkred;">What’s Next?</h3>
 
 - Complete **at least 60%** of your group’s Pictarize project before next class  
@@ -103,8 +86,7 @@ Create a PDF titled `ARStorybook-Group#.pdf` with:
 | Type                      | File Name                     | Who Submits     |
 |---------------------------|-------------------------------|-----------------|
 | Updated Planning Document | `Planning-Group-#.pdf`        | One per group   |
-| Project PDF               | `ARStorybook-Group-#.pdf`     | One per group   |
-| First Prototype Video     | `FirstPrototype-Group-#.mp4`  | One per group   |
+| First Prototype Video     | `SecondPrototype-Group-#.mp4` | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
