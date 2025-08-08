@@ -141,4 +141,6 @@ Your **test StoryMapJS** must include:
 | Group Research Document   | `PreliminaryResearchDocument-Group-#.pdf` | One per group   |
 | Individual Test Project   | `TestProject-Lastname.pdf`                | Each student    |
 
-> ⚠️ Make sure all files follow correct naming conventions to receive full credit.
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+
+---
