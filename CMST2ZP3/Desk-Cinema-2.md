@@ -5,7 +5,12 @@
 <h1 style="color: darkred;">Desktop Cinema / SMS Storytelling - Session 1</h1>  
 <p><strong>Groups of 2–3 students</strong></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/104fUNBeqcY?si=vG36gpxzBKuCBEL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figure style="width: 100%; margin: auto;">
+  <img src="materials/03.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    <a href="https://www.youtube.com/watch?v=104fUNBeqcY" target="_blank" rel="noopener noreferrer">WAR OF THE WORLDS Trailer</a>, 2025, movie, Director: Rich Lee
+  </figcaption>
+</figure>
 
 ## 🎯 Objective  
 Students will bring their desktop cinema narrative to life by recording, assembling, editing, and post-producing their planned 1-minute digital story.
