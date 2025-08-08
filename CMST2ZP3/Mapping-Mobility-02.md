@@ -116,7 +116,7 @@ Update your existing Research Document and include the following:
 
 ---
 
-## 📤 Final Group Submission
+<h3 style="color: darkred;">📤 Final Group Submission</h3>
 
 | Type                         | File Name                       | Who Submits     |
 |------------------------------|---------------------------------|-----------------|
