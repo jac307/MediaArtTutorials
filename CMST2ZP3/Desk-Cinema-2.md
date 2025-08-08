@@ -96,5 +96,3 @@ Students will bring their desktop cinema narrative to life by recording, assembl
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
-
----
