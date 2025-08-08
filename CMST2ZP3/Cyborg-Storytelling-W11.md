@@ -81,7 +81,7 @@ Use your shared <a href="https://pictarize.app" target="_blank" rel="noopener no
 
 ---
 
-<h3 style="color: darkred;">📤 Final Submission</h3>
+<h3 style="color: darkred;">📤 Submission</h3>
 
 | Type                      | File Name                     | Who Submits     |
 |---------------------------|-------------------------------|-----------------|
