@@ -1,4 +1,4 @@
-# ART 1TI3
+# ART 1TI3 (C01) – Making Art & Understanding Technology & Images
 
 This hands-on, introductory course explores the **intersection of art, technology, and society** through a series of collaborative projects. Students will work with a range of media—including **photography, video, collage, mixed media, AI tools, and generative tools**—to develop creative responses to contemporary themes.
 
