@@ -6,9 +6,9 @@
 <p><strong>Groups of 3–4 students</strong></p>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="materials/02.png" style="width: 100%; height: auto;">
+  <img src="materials/05.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    <a href="https://www.alsolikelife.com/transformers-the-premake" target="_blank" rel="noopener noreferrer">Transformers: The Premake</a>, 2014, 25 minutes, digital video by alsolikelife
+    <a href="https://www.tiffanychung.net/projects-archive/the-syria-project-2015-ongoing" target="_blank" rel="noopener noreferrer">The Syria Project</a> by Tiffany Chung
   </figcaption>
 </figure>
 
