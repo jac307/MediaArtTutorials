@@ -21,9 +21,9 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 ## Classes
 
-+ [MEDIA 2DF3](MEDIA2DF3/README.md)
-+ [ART 1TI3](ART1TI3/README.md)
-+ [CMST 2ZP3](CMST2ZP3/README.md)
++ [MEDIAART 2DF3 – Design Fundamental](MEDIA2DF3/README.md)
++ [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md)
++ [CMST 2ZP3 - Splat, Ping, Zip: Digital Ways of Doing](CMST2ZP3/README.md)
 
 
 ________________________________________________________________________
