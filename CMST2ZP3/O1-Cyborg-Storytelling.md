@@ -64,3 +64,17 @@ Complete the **Self-Assessment Form** as a group.
 Ensure your responses are thoughtful and critically reflect on your final outcome.
 
 ---
+
+## Project Breakdown
+
+| **Activity**         | **Focus**                                                              | **Points** |
+|----------------------|------------------------------------------------------------------------|------------|
+| Week 8 Activities    | Conduct Individual Research                                             | 5          |
+| Week 9 Activities    | Finalize Research Report<br>Brainstorm Project<br>Learn Pictarize       | 5          |
+| Week 10 Activities   | Define the Project<br>Finalize Visual Materials<br>Begin Prototyping    | 5          |
+| Week 11 Activities   | Implement and Assemble in Pictarize                                     | 5          |
+| Week 12              | Class showcase: work-in-progress projects                               | 5          |
+| Final Submission     | Final project + deliverables                                            | 13         |
+| **Total Points**     |                                                                        | **38**     |
+
+---
