@@ -12,14 +12,14 @@
   </figcaption>
 </figure>
 
-## 🎯 Objective  
+## Objective  
 Students will bring their desktop cinema narrative to life by recording, assembling, editing, and post-producing their planned 1-minute digital story.
 
 > *“Desktop cinema”* refers to narratives that are exclusively visualized through screens, emulating the experience of watching a film or documentary on a desktop or mobile device—where digital interactions and messaging serve as the primary medium for storytelling.
 
 ---
 
-## 🧰 Materials Required
+## Materials Required
 
 - Personal devices (laptops, tablets, or smartphones for editing)  
 - Gathered or created media assets (images, sounds, GIFs, screenshots, etc.)  
