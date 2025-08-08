@@ -40,14 +40,9 @@ Completed in groups of 3–4, this multi-week project includes class-weekly acti
 
 Explore the human–technology relationship through a cyborg lens. Using individual research and the Pictarize AR platform, your group will create a speculative storybook that blends analogue materials with digital overlays and reflects themes such as retro-futurism and BIPOC futurism.
 
-### Option 2: Glitching tools - AI data poisoning
+### Option 2: [Glitching tools - AI data poisoning](O2-AI-Data-Poisioning.md)
 
 Use adversarial prompting, Nightshade data poisoning, and AI remixing tools to create a series of glitch-based images. This option emphasizes the creative and ethical implications of manipulating AI-generated media to disrupt machine perception and explore speculative aesthetics.
-
-+ [W8: Conduct Individual Research](AI-Poisoning-W8.md)
-+ [W9: Final Research Report + AI Data Poisoning Workflow](AI-Poisoning-W9.md)
-+ [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)
-+ [W11: Complete final images](AI-Poisoning-W11.md)
 
 ________________________________________________________________________
 
