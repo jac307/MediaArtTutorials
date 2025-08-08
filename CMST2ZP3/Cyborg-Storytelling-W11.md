@@ -1,4 +1,4 @@
-[CMST 2ZP3](README.md)
+[CMST 2ZP3](README.md) [CMST 2ZP3](README.md) | [Cyborg Storytelling using Augmented Reality](O1-Cyborg-Storytelling.md)
 
 -------------------------------------------------------------------------------
 
