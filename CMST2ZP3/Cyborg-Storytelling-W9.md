@@ -119,7 +119,7 @@ Sketch or list these ideas in your notebook or shared group doc.
 
 | Type                    | File Name                    | Who Submits     |
 |-------------------------|------------------------------|-----------------|
-| Group Brainstorm Notes  | `Brainstorming-Group#.pdf`   | One per group   |
+| Group Brainstorm Notes  | `Brainstorming-Group-#.pdf`  | One per group   |
 | Updated Research Report | `ResearchReport-Lastname.pdf`| Each student    |
 | Pictarize Test Video    | `Tutorial-Lastname.mp4`      | Each student    |
 
