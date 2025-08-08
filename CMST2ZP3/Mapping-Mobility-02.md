@@ -5,6 +5,13 @@
 <h1 style="color: darkred;">Mapping of Local Mobility Issues - Session 2</h1>  
 <p><strong>Groups of 3–4 students</strong></p>
 
+<figure style="width: 100%; margin: auto;">
+  <img src="materials/02.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    <a href="https://www.alsolikelife.com/transformers-the-premake" target="_blank" rel="noopener noreferrer">Transformers: The Premake</a>, 2014, 25 minutes, digital video by alsolikelife
+  </figcaption>
+</figure>
+
 ## Objective  
 Students will translate the qualitative and public data insights gathered in Session 1 into a **Digital Sensorial Map** using StoryMapJS.
 
