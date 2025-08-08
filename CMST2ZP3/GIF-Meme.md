@@ -108,7 +108,7 @@ Test the loop for:
 
 ---
 
-<h3 style="color: darkred;">📤 Submission</h3>
+<h3 style="color: darkred;">📤 Final Group Submission</h3>
 
 | Type       | File Name                     | Who Submits     |
 |------------|-------------------------------|-----------------|
