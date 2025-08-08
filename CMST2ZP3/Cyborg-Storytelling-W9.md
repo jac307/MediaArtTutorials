@@ -11,14 +11,16 @@ Students will complete individual research reports (initiated in Week 8), collab
 
 > *Augmented Reality (AR)* overlays digital content—such as text, images, video, or sound—onto physical spaces or objects using a smartphone or tablet.
 
-**Example Reference:** *Keiichi Matsuda – Hyper-Reality*  
+**Example Reference:** *Keiichi Matsuda – Hyper-Reality*
 While not app-based AR, this speculative film critiques how AR could restructure identity, agency, and perception, imagining a world where physical and digital layers fully collapse.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJg02ivYzSs?si=zYhsUzXNPJbrL1TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 ---
 
 ## Materials Required
 
-- Research Notes from [W8: Conduct Individual Research](AI-Poisoning-W8.md)  
+- Research Notes from [W8: Conduct Individual Research](AI-Poisoning-W8.md){:target="_blank"}    
 - Laptop or tablet with internet access  
 - Notebook (digital or physical)  
 - <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> (Create a free trial account)
