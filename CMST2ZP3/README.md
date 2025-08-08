@@ -1,4 +1,4 @@
-# CMST 2ZP3
+# CMST 2ZP3 - Splat, Ping, Zip: Digital Ways of Doing
 
 This course investigates **digital ways of doing as both critical inquiry and creative process**, where digital tools are treated not just as media, but as cultural practices that **shape how we think, communicate, and create**. Students will explore the political, aesthetic, and ethical dimensions of contemporary media through hands-on experimentation, conceptual development, and collaborative production.
 
