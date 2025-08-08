@@ -119,7 +119,7 @@ Then:
 
 ---
 
-## 📤 Submission
+<h3 style="color: darkred;">📤 Submission</h3>
 
 | Type                  | File Name                | Who Submits     |
 |-----------------------|--------------------------|-----------------|
