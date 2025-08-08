@@ -12,7 +12,7 @@
   </figcaption>
 </figure>
 
-## 🎯 Objective  
+## Objective  
 Students will collaboratively brainstorm and conceptualize their desktop cinema narrative around themes of **privacy** and **surveillance**.
 
 > *“Desktop cinema”* refers to narratives that are exclusively visualized through screens, emulating the experience of watching a film or documentary on a desktop or mobile device—where digital interactions and messaging serve as the primary medium for storytelling.
