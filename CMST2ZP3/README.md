@@ -36,7 +36,7 @@ Investigate a mobility issue in Hamilton and design a digital sensorial map that
 
 Completed in groups of 3–4, this multi-week project includes class-weekly activities, progress check-ins, and a final deliverable/class-showcase. Attendance, participation, and collaborative contribution are essential and graded individually and collectively.
 
-### Option 1: Cyborg Storytelling using Augmented Reality
+### Option 1: [Cyborg Storytelling using Augmented Reality](O1-Cyborg-Storytelling.md)
 
 Explore the human–technology relationship through a cyborg lens. Using individual research and the Pictarize AR platform, your group will create a speculative storybook that blends analogue materials with digital overlays and reflects themes such as retro-futurism and BIPOC futurism.
 
