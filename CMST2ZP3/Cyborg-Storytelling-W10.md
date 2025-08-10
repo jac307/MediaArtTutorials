@@ -15,7 +15,7 @@ This session focuses on defining your group’s *Cyborg Storytelling AR* project
 
 ## Materials Required
 
-- Final version of your **Research Report** from [W9: Final Research Report + AI Data Poisoning Workflow](Cyborg-Storytelling-W9.md)    
+- Final version of your **Research Report** from [W9: Final Research Report + AI Data Poisoning Workflow](Cyborg-Storytelling-W9.md){:target="_blank"}     
 - Group **Brainstorming Document**  
 - Lists of possible visual materials  
 - Laptop/tablet and mobile device  
