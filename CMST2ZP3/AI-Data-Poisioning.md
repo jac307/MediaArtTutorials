@@ -32,7 +32,12 @@ Each group must test, refine, and finalize their interactive AR experience. Subm
 - **Microsoft Copilot** – For generating base AI images using adversarial prompts  
 - **Pollo.ai** – For remixing poisoned images with mislabeled or contradictory prompts
 - **Nightshade** – For poisoning image data and altering AI model perception
-- **[Photopea](https://www.photopea.com/)** – For image editing.
+- [Photopea](https://www.photopea.com/){:target="_blank"} – For image editing.
+
+  
+- - [Adobe Express – Free collage generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} or [Microsoft PowerPoint](https://m365.cloud.microsoft/launch/PowerPoint){:target="_blank"} – For moodboard creation.
+- 
+- [Clipchamp](https://m365.cloud.microsoft/launch/Clipchamp){:target="_blank"} (McMaster login) – For video editing.
 
 ---
 
