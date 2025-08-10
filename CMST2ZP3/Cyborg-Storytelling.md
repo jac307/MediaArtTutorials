@@ -15,10 +15,12 @@ Drawing from your individual research, your group will create a **speculative Au
 
 ## Software
 
-- Start with the **trial version** of [Pictarize Studio](https://pictarize.app)  
-- For the **final project**, each group must:
+- Start with the **trial version** of [Pictarize Studio](https://pictarize.com/){:target="_blank"} – For augmented reality. For the **final project**, each group must:
   - Create a shared account  
   - Purchase a 1-month subscription (USD $25), divided among members
+- [Adobe Express – Free collage generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} or [Microsoft PowerPoint](https://m365.cloud.microsoft/launch/PowerPoint){:target="_blank"} – For moodboard creation.
+- [Photopea](https://www.photopea.com/){:target="_blank"} – For image editing.
+- [Clipchamp](https://m365.cloud.microsoft/launch/Clipchamp){:target="_blank"} (McMaster login) – For video editing.
 
 ---
 
