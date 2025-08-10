@@ -20,7 +20,7 @@ While not app-based AR, this speculative film critiques how AR could restructure
 
 ## Materials Required
 
-- Research Notes from [W8: Conduct Individual Research](Cyborg-Storytelling-W8.md){:target="_blank"}    
+- **Research Notes** from [W8: Conduct Individual Research](Cyborg-Storytelling-W8.md){:target="_blank"}    
 - Laptop or tablet with internet access  
 - Notebook (digital or physical)  
 - <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> (Create a free trial account)
