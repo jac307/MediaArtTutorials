@@ -8,7 +8,7 @@
 
 ## Objective  
 Complete your final Cyborg Storytelling AR Storybook using Pictarize Studio.  
-Each group must test, refine, and finalize their interactive AR experience. Submit all final materials as outlined below.
+Each group must **test**, **refine**, and **finalize** their interactive AR experience. **Submit all final final materials** as outlined below.
 
 ---
 
@@ -30,13 +30,13 @@ All components must be complete, tested, and submitted by the deadline.
   - Broken or missing media
 - Work as a group to ensure **a cohesive and complete user experience.**
 
-➡️ Build Project and Save the Link / QR Code.  
+➡️ Build Project and Save the **Link / QR Code**.  
 
 ---
 
 ## Step 2: Final Group Submission Document
 
-Each group must submit a PDF file titled:
+Each group must submit a **PDF** file titled:
 
 📄 **Filename:**  `ARStorybook-Group-#.pdf`  
 
@@ -70,7 +70,7 @@ This document must include:
 
 ## Step 3: Individual Research Report
 
-Each student must submit a **research report** as a separate PDF:  
+Each student must submit a **research report** as a separate **PDF**:  
 
 📄 **Filename:**  `ResearchReport-Lastname.pdf`
 
@@ -101,7 +101,7 @@ Your responses must thoughtfully reflect on:
 
 ---
 
-## 📤 Final Submission Summary
+## 📤 Final Submission
 
 | Type                       | File Name                     | Who Submits     |
 |----------------------------|-------------------------------|-----------------|
