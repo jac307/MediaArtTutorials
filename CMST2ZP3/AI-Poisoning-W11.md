@@ -47,28 +47,26 @@ Gather as a group to review and compare the **8–10 images** from Week 10, alon
 
 #### Step 1: Refine + Generate Final Copilot Images  
 
-If needed, rework or regenerate your images using original prompt logic.
-- Go to [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"}  
-  > Access with McMaster email credentials  
-- Finalize **4–5 images** that best align with your group’s visual direction.
-
-**Remix or alter** your images.
-- Recommended tools:  
-  - [Photopea](https://www.photopea.com/){:target="_blank"}
-  - [Adobe Express Collage Generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} 
-- Maintain **consistent aspect ratio** (e.g., 1:1 or 4:5) and high resolution.  
-
-Document in your **Process Journal:**  
-- Include prompt lists, iterations, and selection/revision notes.  
+- If needed, rework or regenerate your images using original prompt logic.
+  - Go to [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"}  
+    > Access with McMaster email credentials  
+  - Finalize **4–5 images** that best align with your group’s visual direction.
+- **Remix or alter** your images.
+  - Recommended tools:  
+    - [Photopea](https://www.photopea.com/){:target="_blank"}
+    - [Adobe Express Collage Generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} 
+  - Maintain **consistent aspect ratio** (e.g., 1:1 or 4:5) and high resolution.  
+- Document in your **Process Journal:**  
+  - Include prompt lists, iterations, and selection/revision notes.  
 
 ---
 
 #### Step 2: Apply Nightshade Poisoning  
-- Open **Nightshade**
-  > Reference: [User Guide](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"}  
-- Apply poisoning settings to your selected images.  
+- Open **Nightshade** 
+- Apply poisoning settings to your selected images.
+  > Reference: [User Guide](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"} 
 - Export/save corrupted versions.  
-- **Process Journal:**  
+- Document in your **Process Journal:**  
   - Add screenshots of Nightshade in use  
   - Write notes on settings used (e.g., noise level, trigger classes) and resulting distortions  
 
