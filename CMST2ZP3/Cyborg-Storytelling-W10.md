@@ -9,7 +9,7 @@
 ## Objective  
 This session focuses on defining your group’s *Cyborg Storytelling AR* project, finalizing required materials, and testing an early prototype using **Pictarize Studio**.
 
-> *Cyborg Storytelling using Augmented Reality* is a collaborative media project that explores speculative futures, technological embodiment, and hybrid identities. Each student contributes an individually researched section that blends analogue visuals (photos, textiles, drawings, etc.) with digital layers (text, audio, video, GIFs).
+> **Cyborg Storytelling using Augmented Reality** is a collaborative media project that explores speculative futures, technological embodiment, and hybrid identities. Each student contributes an individually researched section that blends analogue visuals (photos, textiles, drawings, etc.) with digital layers (text, audio, video, GIFs).
 
 ---
 
