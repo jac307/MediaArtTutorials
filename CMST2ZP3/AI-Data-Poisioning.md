@@ -24,6 +24,7 @@ Each group must test, refine, and finalize their interactive AR experience. Subm
 + [W9: Final Research Report + AI Data Poisoning Workflow](AI-Poisoning-W9.md)
 + [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)
 + [W11: Complete final images](AI-Poisoning-W11.md)
++ [Final Submission](AI-Poisoning-Final.md)
   
 ---
 
