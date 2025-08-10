@@ -9,7 +9,7 @@
 ## Objective  
 Students will conduct independent critical research to establish the **conceptual foundation** for their group’s *Cyborg Storytelling using Augmented Reality* project.
 
-> *Cyborg Storytelling* refers to speculative, hybrid narratives that explore the intersection of humans and technology—blending analogue and digital elements to reimagine identity, embodiment, and future worlds.
+> **Cyborg Storytelling** refers to speculative, hybrid narratives that explore the intersection of humans and technology—blending analogue and digital elements to reimagine identity, embodiment, and future worlds.
 
 Each student will explore one of four key themes:
 
