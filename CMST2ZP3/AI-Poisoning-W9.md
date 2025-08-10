@@ -11,11 +11,6 @@ Students will complete their **individual research reports** on AI data poisonin
 
 > **AI data poisoning** refers to the intentional insertion of misleading, corrupted, or contradictory data into machine learning systems to disrupt or subvert their output.
 
-**Example Reference:** *Keiichi Matsuda – Hyper-Reality*  
-While not app-based AR, this speculative film critiques how AR could restructure identity, agency, and perception, imagining a world where physical and digital layers fully collapse.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YJg02ivYzSs?si=zYhsUzXNPJbrL1TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-
 ---
 
 ## Materials Required
