@@ -107,7 +107,7 @@ These should help you:
 You submission document must have:  
 
 - Full Name + Student Number  
-- Theme Title (e.g., Retro-futurism)  
+- Theme Title (e.g., Algorithmic Bias and the Ethics of Data Corruption)  
 
 ### Research Notes:
 - Brief description of your chosen research angle  
