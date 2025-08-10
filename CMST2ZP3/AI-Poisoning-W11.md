@@ -48,8 +48,7 @@ Gather as a group to review and compare the **8–10 images** from Week 10, alon
 #### Step 1: Refine + Generate Final Copilot Images  
 
 - If needed, rework or regenerate your images using original prompt logic.
-  - Go to [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"}  
-    > Access with McMaster email credentials  
+  - Go to [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"} -Access with McMaster email credentials.    
   - Finalize **4–5 images** that best align with your group’s visual direction.
 - **Remix or alter** your images.
   - Recommended tools:  
