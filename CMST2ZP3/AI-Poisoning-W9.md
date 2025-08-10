@@ -66,7 +66,7 @@ You will **individually** begin testing AI image manipulation tools and simulate
 #### **Step 1: Adversarial Prompting with Copilot**
 
 - Access [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"} using your McMaster email credentials.    
-- Review the following tutorials:
+- Check the following tutorials:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_1PHumohN8?si=rlYAh_dY8H4wPzRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,13 +84,19 @@ You will **individually** begin testing AI image manipulation tools and simulate
 ---
 
 #### **Step 2: Nightshade Data Poisoning Test**
-1. Install [Nightshade (data poisoning tool)](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"}.  
-2. Choose your OS and install. Wait for libraries to download.  
-3. Review tutorials:  
-   - *How to Use Nightshade Art Software*  
-   - *Secrets to Creating Stunning AI Images: Expert Prompts*  
-4. Select **1–2 CoPilot images** and poison them. Save both corrupted and original versions.  
-5. In your Process Journal:  
+
+- Install [Nightshade (data poisoning tool)](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"}.  
+- Go to *Download Links*, choose your Computer Operating System and download Nightshade.
+- Open the software — it may take some time to launch each time you open it.
+  > The software will automatically download the required libraries, wait until it is finished.
+- Review the following tutorials:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onGm0Kf7CQA?si=E3NHiw5IM4MopVFK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Od3FRMLqwFk?si=rs6UEyrXYlPvRDu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+- Select **1–2 CoPilot images** and poison them. Save both corrupted and original versions.  
+- In your **Process Journal**:  
    - Include screenshots of the process  
    - Describe settings used (e.g., trigger classes, noise level, poison strength)  
    - Note any distortions, issues, or unexpected behaviours  
@@ -98,53 +104,55 @@ You will **individually** begin testing AI image manipulation tools and simulate
 ---
 
 #### **Step 3: Pollo.ai Remix**
-1. Go to [Pollo.ai](https://pollo.ai/image-to-image-ai).  
-2. Review tutorials:  
-   - *Image-To-Image with Pollo.io*  
-   - *Secrets to Creating Stunning AI Images: Expert Prompts*  
-3. Upload poisoned image(s) from Nightshade.  
-4. Enter a mislabelled or contradictory prompt (e.g., corrupted face labelled `"peaceful flower garden"`).  
-5. Save results, then repeat the process with original (non-poisoned) images using the same prompts.  
-6. In your Process Journal:  
+
+- Go to [Pollo.ai (Image-To-Image AI Generator)](https://pollo.ai/image-to-image-ai){:target="_blank"}.  
+- Review the following tutorials:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Od3FRMLqwFk?si=q166b7Hp68Y5W91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+- Upload poisoned image(s) from Nightshade.  
+- Enter a mislabelled or contradictory prompt (e.g., corrupted face labelled `"peaceful flower garden"`).  
+- Save results, then repeat the process with original (non-poisoned) images using the same prompts.  
+- In your **Process Journal**:  
    - Include **side-by-side comparisons** (poisoned remix vs. non-poisoned remix)  
    - Reflect on how poisoning affected Pollo.ai’s interpretation  
 
 ---
 
 #### **Step 4: Final Reflections**
-In your Process Journal, answer:  
+
+In your **Process Journal**, answer:  
 - What worked, what broke, and what surprised you?  
 - What creative ideas or questions emerged from this process?  
 
 ---
 
 ### Final Output for Submission  
-Submit a **single, organized PDF** titled:  
-`ProcessJournal-Lastname.pdf`  
 
-Include:  
+Organize a **single, organized document** that includes:  
 - Full Name + Student Number  
 - Clear section headers for each step (Steps 1–4)  
 - All relevant screenshots, prompts, notes, and comparative images  
 - Thoughtful responses to final reflection questions  
 - Approx. 3–5 pages  
 
+➡️ Export your file as a **PDF**  
+📄 **Filename:** `ProcessJournal-Lastname.pdf`  
+
 ---
 
-📌 **Before the next class**  
-Review your generated and processed images. Identify which techniques created the most interesting visual glitches and conceptual possibilities. Bring your strongest results to class for group discussion and planning.
+<h3 style="color: darkred;">Before the Next Class</h3>  
+
+Review your generated and processed images. **Identify which techniques created the most interesting visual glitches and conceptual possibilities**. Bring your strongest results to class for group discussion and planning.
 
 ---
 
 ### 📤 Submission  
 
-| Type                 | File Name                          | Who Submits   |
-|----------------------|-------------------------------------|---------------|
+| Type                    | File Name                           | Who Submits   |
+|-------------------------|-------------------------------------|---------------|
 | Updated Research Report | `ResearchReport-Lastname.pdf`       | Each student  |
-| Process Journal      | `ProcessJournal-Lastname.pdf`       | Each student  |
-
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
-
+| Process Journal         | `ProcessJournal-Lastname.pdf`       | Each student  |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
