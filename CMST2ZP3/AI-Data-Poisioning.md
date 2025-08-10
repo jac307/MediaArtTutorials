@@ -2,13 +2,14 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Option 1: Cyborg Storytelling using Augmented Reality</h1>  
+<h1 style="color: darkred;">Option 2: Glitching tools - AI data poisoning</h1>  
 <p><strong>Groups of 3–4 students · Research-Creation Project</strong></p>
 
 ## Project Overview
 
-Complete your final Cyborg Storytelling AR Storybook using Pictarize Studio.  
-Each group must test, refine, and finalize their interactive AR experience. Submit all final materials as outlined below.
+In this project, you will critically and creatively explore **AI data poisoning** as a glitch art methodology. Through **adversarial prompting**, **data poisoning** (using Nightshade), and **image-to-image remixing** (via Dream by Wombo), you will generate a series of speculative images that challenge machine perception and aesthetic logic. This process allows you to examine the ethical, technical, and artistic stakes of manipulating AI-generated media.  
+
+---
 
 ## Artistic Production Guidelines  
 - As a group, you must create a **cohesive series of images** that reflect a shared theme, aesthetic, and conceptual direction.  
