@@ -36,10 +36,10 @@ Drawing from your individual research, your group will create a **speculative Au
 
 ### 1. Conduct Individual Research
 Each student will choose **one theme**:
-- Cyborg Theory  
-- Retro-futurism  
-- BIPOC Futurism  
-- Technological Influence on Culture  
+- **Cyborg Theory**  
+- **Retro-futurism**  
+- **BIPOC Futurism**  
+- **Technological Influence on Culture**  
 
 Write a **300–400 word report** grounded in:
 - **1 academic source**  
