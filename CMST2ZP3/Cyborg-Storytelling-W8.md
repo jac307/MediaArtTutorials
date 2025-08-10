@@ -101,10 +101,10 @@ These should help you:
 - Reflect on your own relationship to the theme (identity, body, memory, tech, etc.)
 
 ### Sample Questions:
-- *“How does Haraway’s idea of the cyborg help me rethink my own body as a site of hybridity or resistance?”*  
-- *“What retro-futuristic tropes speak to my cultural background or challenge my expectations of the future?”*  
-- *“How does BIPOC futurism center my identity in tech-based storytelling?”*  
-- *“How do current technologies shape the way I tell stories—or how I see myself in them?”*
+- *How does Haraway’s idea of the cyborg help me rethink my own body as a site of hybridity or resistance?*  
+- *What retro-futuristic tropes speak to my cultural background or challenge my expectations of the future?*  
+- *How does BIPOC futurism center my identity in tech-based storytelling?*  
+- *How do current technologies shape the way I tell stories—or how I see myself in them?*
 
 > Good questions connect **theory**, **culture**, and **self**.
 
