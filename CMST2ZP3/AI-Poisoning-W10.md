@@ -91,15 +91,12 @@ Complete your **Planning Document** by including:
 
 <h3 style="color: darkred;">Process Journal – Phase 2</h3>
 
-**Individually**, follow the group’s **shared conceptual + aesthetic direction** and update your `ProcessJournal-Lastname.pdf` document with:
+**Individually**, follow the group’s **shared conceptual + aesthetic direction** and update your `ProcessJournal-Lastname` document with:
 
 - Write/refine **8–10 prompts** based on your group’s theme/visual strategy  
    - Test prompts in Microsoft Copilot, keeping conceptual alignment  
-   - Save all images in a consistent aspect ratio (1:1, 4:5, or 16:9) for presentation cohesion  
-- **Remix or alter** your 8-10 images. Recommended tools:
-  - [Photopea](https://www.photopea.com/){:target="_blank"}
-  - [Adobe Express Collage Generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"}  
-- In your **Process Jorunal**, include:
+   - Save all images in a consistent aspect ratio (1:1, 4:5, or 16:9) for presentation cohesion   
+- In your **Process Journal**, include:
   - All prompts used + corresponding images  
   - Brief notes (1–2 sentences) on each image’s success/relevance  
 
@@ -110,7 +107,7 @@ Complete your **Planning Document** by including:
 
 <h3 style="color: darkred;">Before the Next Session</h3>
 
-- **Bring 8–10 finalized test images to the next class.** 
+- **Bring 8–10 test images to the next class.** 
 
 ---
 
@@ -118,7 +115,7 @@ Complete your **Planning Document** by including:
 
 | Type                     | File Name                      | Who Submits   |
 |--------------------------|--------------------------------|---------------|
-| Planning Document        | `Planning-Group-#.pdf`          | One per group |
+| Planning Document        | `Planning-Group-#.pdf`         | One per group |
 | Process Journal – Phase 2| `ProcessJournal-Lastname.pdf`  | Each student  |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
