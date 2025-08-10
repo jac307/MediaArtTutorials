@@ -15,11 +15,11 @@ This session focuses on defining your group’s *Cyborg Storytelling AR* project
 
 ## Materials Required
 
-- Final version of your **Research Report** from [W9: Final Research Report + AI Data Poisoning Workflow](AI-Poisoning-W9.md)    
+- Final version of your **Research Report** from [W9: Final Research Report + AI Data Poisoning Workflow](Cyborg-Storytelling-W9.md)    
 - Group **Brainstorming Document**  
 - Lists of possible visual materials  
 - Laptop/tablet and mobile device  
-- <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> (shared group account + 1-month subscription USD $25, divided among group members)
+- <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> (shared group account + 1-month subscription USD $25, divided among group members)
 
 ---
 
