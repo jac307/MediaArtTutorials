@@ -78,7 +78,7 @@ Each student begins developing their materials. Follow these guidelines:
   - Add credits for all external media
 
 ➡️ Export your file as a **PDF**  
-📄 **Filename:** `Planning-Group-#.mp4`
+📄 **Filename:** `Planning-Group-#.pdf`
 
 ---
 
