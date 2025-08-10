@@ -15,7 +15,7 @@ Each group will collaboratively define the **core concept** and **artistic direc
 
 - Individual **research findings** and **Process Journals** from [W9: Final Research Report + AI Data Poisoning Workflow](Cyborg-Storytelling-W9.md){:target="_blank"}     
 - Laptop or tablet with internet access  
-- [Microsoft Copilot](https://copilot.cloud.microsoft/) – access with McMaster email credentials  
+- [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"} – access with McMaster email credentials  
 
 ---
 
