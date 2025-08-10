@@ -70,19 +70,23 @@ You will **individually** begin testing AI image manipulation tools and simulate
 - Generate **6–8 images** using adversarial/contradictory prompts.  
    - Use poetic, surreal, or logically impossible language.  
    - Example: `"A transparent mirror that reflects nothing but noise"`.  
-- Select **1–2 images** that are most interesting or glitched.  
+- Select **2 images** that are most interesting or glitched.
+- **Remix or alter** your one image. Recommended tools:
+  - [Photopea](https://www.photopea.com/){:target="_blank"}
+  - [Adobe Express Collage Generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"}  
 - In your **Process Journal**:  
    - List all prompt iterations  
    - Include screenshots of all generated images  
-   - Add short notes on unexpected results or glitches  
+   - Add short notes on unexpected results or glitches
+   - Add a short notes on the alterations you made to one of the images.   
 
 ---
 
 #### **Step 2: Nightshade Data Poisoning Test**
 
 - Install [Nightshade (data poisoning tool)](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"}.  
-- Go to *Download Links*, choose your Computer Operating System and download Nightshade.
-- Open the software — it may take some time to launch each time you open it.
+- Go to *Download Links*, choose your "Computer Operating System" and download Nightshade.
+- Open the software in your computer — it may take some time to launch the first time.
   > The software will automatically download the required libraries, wait until it is finished.
 - Review the following tutorials:  
 
@@ -90,11 +94,12 @@ You will **individually** begin testing AI image manipulation tools and simulate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Od3FRMLqwFk?si=rs6UEyrXYlPvRDu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-- Select **1–2 CoPilot images** and poison them. Save both corrupted and original versions.  
+- Select the **two images** generated on the first step and poison them. Save both corrupted and original versions.  
 - In your **Process Journal**:  
    - Include screenshots of the process  
    - Describe settings used (e.g., trigger classes, noise level, poison strength)  
-   - Note any distortions, issues, or unexpected behaviours  
+   - Note any distortions, issues, or unexpected behaviours
+   - Note the creative differences between the altered Co-Pilot image and the un-altered one.
 
 ---
 
@@ -105,8 +110,8 @@ You will **individually** begin testing AI image manipulation tools and simulate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Od3FRMLqwFk?si=q166b7Hp68Y5W91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-- Upload poisoned image(s) from Nightshade.  
-- Enter a mislabelled or contradictory prompt (e.g., corrupted face labelled `"peaceful flower garden"`).  
+- Upload the two poisoned images from Nightshade.  
+- For each, enter a mislabelled or contradictory prompt (e.g., corrupted face labelled `"peaceful flower garden"`).  
 - Save results, then repeat the process with original (non-poisoned) images using the same prompts.  
 - In your **Process Journal**:  
    - Include **side-by-side comparisons** (poisoned remix vs. non-poisoned remix)  
@@ -138,7 +143,7 @@ Organize a **single, organized document** that includes:
 
 <h3 style="color: darkred;">Before the Next Class</h3>  
 
-Review your generated and processed images. **Identify which techniques created the most interesting visual glitches and conceptual possibilities**. Bring your strongest results to class for group discussion and planning.
+Review your generated and processed images. **Identify which techniques created the most interesting visual glitches and conceptual possibilities**. Bring your results to class for group discussion and planning.
 
 ---
 
