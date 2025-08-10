@@ -15,7 +15,7 @@ This session is fully dedicated to implementing your **final Cyborg Storytelling
 
 ## Materials Required
 
-- Final analogue (digitized), digital materials, and Group Planning Document from [W10: Group Brainstorming, Project Planning, and Image Testing](Cyborg-Storytelling-W10.md){:target="_blank"}   
+- Final analogue (digitized), digital **materials**, and **Group Planning Document** from [W10: Group Brainstorming, Project Planning, and Image Testing](Cyborg-Storytelling-W10.md){:target="_blank"}   
 - Shared <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account (1-month subscription – USD $25)  
 - Laptop/tablet + smartphone with camera access  
 - Headphones (for audio overlay testing)
