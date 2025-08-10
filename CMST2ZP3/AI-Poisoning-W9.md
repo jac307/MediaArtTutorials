@@ -7,7 +7,7 @@
 <p><strong>Groups of 3–4 students</strong></p>
 
 ## Objective  
-Students will complete their **individual research reports** on AI data poisoning and glitch art, and begin hands-on experimentation with glitched AI image generation and manipulation. Each student will document this exploratory phase in a **Process Journal** that includes visuals, reflections, and technical observations.  
+Students will complete their **individual research reports** on AI data poisoning and glitch art, and **begin hands-on experimentation** with glitched AI image generation and manipulation. Each student will document this exploratory phase in a **Process Journal** that includes visuals, reflections, and technical observations.  
 
 > **AI data poisoning** refers to the intentional insertion of misleading, corrupted, or contradictory data into machine learning systems to disrupt or subvert their output.
 
@@ -15,7 +15,7 @@ Students will complete their **individual research reports** on AI data poisonin
 
 ## Materials Required
 
-- Research Notes from [W8: Conduct Individual Research](AI-Poisioning-W8.md){:target="_blank"}    
+- Research Notes from [W8: Conduct Individual Research](AI-Poisoning-W8.md){:target="_blank"}    
 - Laptop or tablet with internet access  
 - Notebook (digital or physical)  
 - [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"} – access with McMaster email credentials  
