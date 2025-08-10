@@ -38,12 +38,16 @@ They will define a specific research angle, select and annotate relevant sources
 
 With your **group**, divide the four themes so that **each student focuses on one**:
 
-- **Cyborg Theory**: Analyze *Donna Haraway’s Cyborg Manifesto* and its relevance to human-machine merging  
-- **Retro-futurism**: Explore historical/speculative design shaping cyborg narratives  
-- **BIPOC Futurism**: Investigate how BIPOC futurism reimagines the future and cultural identity  
-- **Technological Influence on Culture**: Examine how tech shapes social and cultural identities in speculative narratives
+- **Cyborg Theory**
+  > Analyze *Donna Haraway’s Cyborg Manifesto* and its relevance to human-machine merging  
+- **Retro-futurism**
+  > Explore historical/speculative design shaping cyborg narratives  
+- **BIPOC Futurism**
+  > Investigate how BIPOC futurism reimagines the future and cultural identity  
+- **Technological Influence on Culture**
+  > Examine how tech shapes social and cultural identities in speculative narratives
 
-> Once themes are chosen, students **work independently** for the remainder of this activity.
+Once themes are chosen, students **work independently** for the remainder of this activity.  
 
 ---
 
@@ -64,7 +68,7 @@ Open a document (Word or Google Docs) and answer the following:
 - Example keywords: `"Cyborg Manifesto" AND digital identity`, `"Retro-futurism" AND speculative design`
 
 **Public Sources (5–8 options):**  
-Look for:
+Look for reliable public-facing media such as:  
 - News articles (e.g., CBC, Wired, The Guardian)  
 - Podcasts (e.g., *Code Switch*, *IRL by Mozilla*)  
 - TED Talks (via ted.com)  
