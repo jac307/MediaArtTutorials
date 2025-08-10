@@ -73,12 +73,12 @@ Gather as a group to review and compare the **8–10 images** from Week 10, alon
 ---
 
 #### Step 3: Remix with Pollo.ai  
-- Visit [Pollo.ai](https://pollo.ai/image-to-image-ai){:target="_blank"} 
+- Visit [Pollo.ai: image-to-image](https://pollo.ai/image-to-image-ai){:target="_blank"} 
 - Upload **both** original and Nightshade-poisoned images.  
-- Use contradictory/mislabelled prompts (e.g., “serene garden” for a ruined cityscape).  
+- Use contradictory/mislabelled prompts (e.g., `“serene garden” for a ruined cityscape`).  
 - Maintain consistent aspect ratio and resolution.  
 - Generate **2–3 versions per image**, saving the most visually compelling or glitched results.  
-- **Process Journal:**  
+- Document in your **Process Journal:**  
   - Add comparison images (poisoned remix vs. unpoisoned remix)  
   - Reflect on how poisoning affected the output  
 
