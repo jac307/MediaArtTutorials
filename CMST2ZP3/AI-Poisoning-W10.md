@@ -10,7 +10,14 @@
 Each group will collaboratively define the **core concept** and **artistic direction** of your glitch art project. You will establish a unified theme, determine the visual style and tone, and develop a concrete production plan for generating, poisoning, and remixing a cohesive series of AI-generated images.
 
 **Example Reference:** *Claudia Larcher – [AI and the art of historical reinterpretation](https://www.claudialarcher.com/ai-and-the-art-of-historical-reinterpretation){:target="_blank"}*  
-While not using Nightshade for poisoning data, the project digitally alters historical images to replace male figures with female ones, with the hope that AI tools will later incorporate these altered images into their datasets and begin representing women in the recreation of historical scenes.
+While not using Nightshade for poisoning data, the project digitally alters historical images to replace male figures with female ones, with the hope that AI tools will later incorporate these altered images into their datasets and begin representing women in the recreation of historical scenes.  
+
+<figure style="width: 100%; margin: auto;">
+  <img src="materials/06.webp" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Re-intepretation of two historical photos by Claudia Larcher
+  </figcaption>
+</figure>
 
 ---
 
