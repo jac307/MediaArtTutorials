@@ -7,13 +7,13 @@
 
 ## Project Overview
 
-In this project, you will critically and creatively explore **AI data poisoning** as a glitch art methodology. Through **adversarial prompting**, **data poisoning** (using Nightshade), and **image-to-image remixing** (via Dream by Wombo), you will generate a series of speculative images that challenge machine perception and aesthetic logic. This process allows you to examine the ethical, technical, and artistic stakes of manipulating AI-generated media.  
+In this project, you will critically and creatively explore **AI data poisoning** as a glitch art methodology. Through **adversarial prompting**, **data poisoning** (using Nightshade), and **image-to-image remixing** (via Pollo.ai), you will generate a series of speculative images that challenge machine perception and aesthetic logic. This process allows you to examine the ethical, technical, and artistic stakes of manipulating AI-generated media.  
 
 ---
 
 ## Artistic Production Guidelines  
 - As a group, you must create a **cohesive series of images** that reflect a shared theme, aesthetic, and conceptual direction.  
-- **Each student** is responsible for producing **3–4 images** that align with the group’s agreed-upon visual and thematic logic.  
+- **Each student** is responsible for producing **3–4 final images** that align with the group’s agreed-upon visual and thematic logic and saving all of the prompts used to create them.  
 - Your group must also decide how the images will be arranged and visually assembled as a cohesive series in the **digital portfolio**.  
 - Your arrangement strategy should enhance the impact of the series, amplifying the glitch aesthetics and critical themes you’re engaging with.  
 
@@ -57,9 +57,9 @@ Write a **300–400 word report** grounded in:
 ---
 
 ### 2. AI Data Poisoning Workflow  
-Individually and collectively, create a cohesive series of images by following this structured workflow:  
+Individually and collectively, **create a cohesive series of images by following this structured workflow**:  
 
-- **Generate base images** using adversarial prompting in Microsoft CoPilot.  
+- **Generate base images** using adversarial prompting in Microsoft CoPilot and slightlyh modify them using any image editing software.  
 - **Apply Nightshade** to poison selected images, distorting or confusing their machine-learned features.  
 - **Remix poisoned images** in Pollo.ai, using mislabelled or contradictory prompts to create unexpected visual outcomes.  
 - **Document each step** in your individual Process Journal, including prompts, screenshots, and observations.  
