@@ -9,7 +9,7 @@
 ## Objective  
 Students will complete individual research reports (initiated in Week 8), collaborate with their group to begin shaping the creative direction of the *Cyborg Storytelling AR* project, and individually complete an intro activity to learn how to use the **Pictarize** AR tool.
 
-> *Augmented Reality (AR)* overlays digital content—such as text, images, video, or sound—onto physical spaces or objects using a smartphone or tablet.
+> **Augmented Reality (AR)** overlays digital content—such as text, images, video, or sound—onto physical spaces or objects using a smartphone or tablet.
 
 **Example Reference:** *Keiichi Matsuda – Hyper-Reality*  
 While not app-based AR, this speculative film critiques how AR could restructure identity, agency, and perception, imagining a world where physical and digital layers fully collapse.
