@@ -15,9 +15,9 @@ This session is fully dedicated to implementing your **final Cyborg Storytelling
 
 ## Materials Required
 
-- Final analogue (digitized) and digital materials from [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)  
+- Final analogue (digitized) and digital materials from [W10: Group Brainstorming, Project Planning, and Image Testing](Cyborg-Storytelling-W10.md){:target="_blank"}   
 - Group Planning Document  
-- Shared <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account (1-month subscription – USD $25)  
+- Shared <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account (1-month subscription – USD $25)  
 - Laptop/tablet + smartphone with camera access  
 - Headphones (for audio overlay testing)
 
@@ -50,7 +50,7 @@ Meet as a group and review:
 
 <h3 style="color: darkred;">[1h 10m] Second Prototype in Pictarize</h3>
 
-Use your shared <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account, and your existing project to build a **second group prototype**.
+Use your shared <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account, and your existing project to build a **second group prototype**.
 
 ### Team Workflow:
 - Assign clear roles:
