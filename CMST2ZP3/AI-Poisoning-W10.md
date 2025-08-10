@@ -9,10 +9,8 @@
 ## Objective  
 Each group will collaboratively define the **core concept** and **artistic direction** of your glitch art project. You will establish a unified theme, determine the visual style and tone, and develop a concrete production plan for generating, poisoning, and remixing a cohesive series of AI-generated images.
 
-**Example Reference:** *Keiichi Matsuda – Hyper-Reality*  
-While not app-based AR, this speculative film critiques how AR could restructure identity, agency, and perception, imagining a world where physical and digital layers fully collapse.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YJg02ivYzSs?si=zYhsUzXNPJbrL1TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+**Example Reference:** *Claudia Larcher – [AI and the art of historical reinterpretation](https://www.claudialarcher.com/ai-and-the-art-of-historical-reinterpretation){:target="_blank"}*  
+While not using Nightshade for poisoning data, the project digitally alters historical images to replace male figures with female ones, with the hope that AI tools will later incorporate these altered images into their datasets and begin representing women in the recreation of historical scenes.
 
 ---
 
