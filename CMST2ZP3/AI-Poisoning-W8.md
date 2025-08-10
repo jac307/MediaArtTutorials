@@ -7,16 +7,16 @@
 <p><strong>Groups of 3–4 students</strong></p>
 
 ## Objective  
-Students will conduct independent critical research to establish the **conceptual foundation** for their group’s *Cyborg Storytelling using Augmented Reality* project.
+Students will begin individual research on AI data poisoning and its artistic application in glitch art. This research establishes the critical foundation for your group’s glitch-based creative project. Each student will explore one of four key themes by identifying a specific angle of interest, selecting and annotating relevant sources, and drafting guiding research questions.
 
-> *Cyborg Storytelling* refers to speculative, hybrid narratives that explore the intersection of humans and technology—blending analogue and digital elements to reimagine identity, embodiment, and future worlds.
+> **AI data poisoning** is a technique in which manipulated or malicious data is deliberately introduced into a training dataset to corrupt an AI model’s behavior. This tactic can be used to subvert surveillance systems, critique algorithmic bias, or explore creative disruption.
 
 Each student will explore one of four key themes:
 
-- **Cyborg Theory**  
-- **Retro-futurism**  
-- **BIPOC Futurism**  
-- **Technological Influence on Culture**
+- **Glitch Aesthetics and Machine Error as Art**
+- **Algorithmic Bias and the Ethics of Data Corruption**
+- **Poetics of Prompting: Language, Contradiction, and AI Interpretation**
+- **Speculative Media and Machine Perception**  
 
 They will define a specific research angle, select and annotate relevant sources, and draft guiding research questions.
 
@@ -38,37 +38,34 @@ They will define a specific research angle, select and annotate relevant sources
 
 With your **group**, divide the four themes so that **each student focuses on one**:
 
-- **Cyborg Theory**: Analyze *Donna Haraway’s Cyborg Manifesto* and its relevance to human-machine merging  
-- **Retro-futurism**: Explore historical/speculative design shaping cyborg narratives  
-- **BIPOC Futurism**: Investigate how BIPOC futurism reimagines the future and cultural identity  
-- **Technological Influence on Culture**: Examine how tech shapes social and cultural identities in speculative narratives
+- **Glitch Aesthetics and Machine Error as Art**
+  > Explore how visual glitches, distortions, and digital errors can be embraced as creative tools. Consider how artists use these breakdowns to critique perfection, destabilize meaning, or represent rupture.  
+- **Algorithmic Bias and the Ethics of Data Corruption**
+  > Investigate how data poisoning reveals or disrupts biases within AI systems. Reflect on the ethical implications of using corruption intentionally—whether as resistance, critique, or subversion.  
+- **Poetics of Prompting: Language, Contradiction, and AI Interpretation**
+  > Examine how the phrasing of prompts shapes image generation. Focus on how contradiction, ambiguity, or poetic inputs can mislead or confuse the AI, turning language into a glitch-producing tool.  
+- **Speculative Media and Machine Perception**
+  > Study how machines “see” and generate images through training data. Consider how artists can manipulate or disrupt these processes to explore speculative futures, alternative visions, or synthetic realities.  
 
-> Once themes are chosen, students **work independently** for the remainder of this activity.
+Once themes are chosen, students **work independently** for the remainder of this activity.  
 
 ---
 
 <h3 style="color: darkred;">[30 minutes] Research Angle + Source Planning</h3>
 
-Open a document (Word or Google Docs) and answer the following:
-
-### 1. Define Your Research Angle  
-- What fascinates me about this topic?  
-- Do I want to focus on a specific time, theory, or artistic/cultural example?  
-- What types of examples (art, design, literature, activism, etc.) interest me?
-
-### 2. Identify and Skim Potential Sources  
+Open a document (Word or Google Docs) and **Identify and Skim Potential Sources**:  
 
 **Academic Sources (3–5 options):**  
 - Use McMaster Library databases or Google Scholar  
 - Search for scholarly articles, chapters, or papers  
-- Example keywords: `"Cyborg Manifesto" AND digital identity`, `"Retro-futurism" AND speculative design`
+- Suggested search terms: `"AI data poisoning" AND ethics`, `"machine learning" AND "artistic manipulation"`, `"AI bias" AND aesthetics OR art`  
 
 **Public Sources (5–8 options):**  
-Look for:
-- News articles (e.g., CBC, Wired, The Guardian)  
-- Podcasts (e.g., *Code Switch*, *IRL by Mozilla*)  
-- TED Talks (via ted.com)  
-- Artist essays, blogs, or cultural commentary
+Look for reliable public-facing media such as:  
+- News articles (e.g., CBC, The Guardian, Wired, The New Yorker)  
+- Podcasts (e.g., *Code Switch*, *IRL Podcast* by Mozilla)  
+- TED Talks (search on [ted.com](https://www.ted.com/))  
+- Critical essays or blog posts by artists, activists, or cultural critics  
 
 > Skim headlines, intros, and section titles — look for **relevance**, not depth (yet)
 
@@ -94,15 +91,14 @@ Based on your research, write **2–3 open-ended questions** that will guide you
 
 These should help you:
 - Analyze your topic from cultural, political, or aesthetic perspectives  
-- Reflect on your own relationship to the theme (identity, body, memory, tech, etc.)
+- Reflect on your own relationship to the theme (identity, body, memory, tech, etc.) 
 
 ### Sample Questions:
-- *“How does Haraway’s idea of the cyborg help me rethink my own body as a site of hybridity or resistance?”*  
-- *“What retro-futuristic tropes speak to my cultural background or challenge my expectations of the future?”*  
-- *“How does BIPOC futurism center my identity in tech-based storytelling?”*  
-- *“How do current technologies shape the way I tell stories—or how I see myself in them?”*
+- *How can corrupted visual data function as a critique of surveillance capitalism?*   
+- *In what ways do glitch aesthetics reflect digital decay, failure, or resistance?*  
+- *What are the ethical stakes of using adversarial inputs in art and design?*  
 
-> Good questions connect **theory**, **culture**, and **self**.
+> Strong research questions should not only engage with the technical and ethical dimensions of AI, but also open up space for artistic intervention and experimentation.
 
 ---
 
