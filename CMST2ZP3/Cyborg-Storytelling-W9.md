@@ -59,18 +59,19 @@ Open a share document (Word or Google Docs) and answer the following:
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] Research Report (Individual)</h3>
+<h3 style="color: darkred;">[30 minutes] Research Report </h3>
 
-Update and finalize your **Research Report** with the following:
+Individually, update and finalize your **Research Report** with the following:
 
 ### Your report should include:
 - Full Name + Student Number  
 - Title of your assigned theme (e.g., BIPOC Futurism)  
 - Brief description of your research angle  
 - 2–3 guiding research questions  
-- ❗ **New:** 300–400 word draft analysis  
+- ❗ **New:** 300–400 word **draft** analysis  
   - Engage with your academic + public sources  
-  - Connect to ideas of cyborg identity, futurist aesthetics, and/or cultural transformation  
+  - Connect to ideas of cyborg identity, futurist aesthetics, and/or cultural transformation
+  - Have a personal voice — responses with only general ideas will lose points.  
 - Annotated Bibliography:
   - 1 academic + 2 public sources  
   - APA-style citations  
@@ -83,7 +84,7 @@ Update and finalize your **Research Report** with the following:
 
 <h3 style="color: darkred;">Test Pictarize Project</h3>
 
-Individually, learn how to use <a href="https://pictarize.app" target="_blank">Pictarize Studio</a> — the tool that will link your analogue and digital content.
+Individually, learn how to use <a href="https://pictarize.com/" target="_blank">Pictarize Studio</a> — the tool that will link your analogue and digital content.
 
 ### Instructions:
 - Go to: <a href="https://pictarize.com/" target="_blank">pictarize.com</a>  
