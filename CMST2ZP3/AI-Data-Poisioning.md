@@ -7,7 +7,15 @@
 
 ## Project Overview
 
-I
+Complete your final Cyborg Storytelling AR Storybook using Pictarize Studio.  
+Each group must test, refine, and finalize their interactive AR experience. Submit all final materials as outlined below.
+
+## Artistic Production Guidelines  
+- As a group, you must create a **cohesive series of images** that reflect a shared theme, aesthetic, and conceptual direction.  
+- **Each student** is responsible for producing **3–4 images** that align with the group’s agreed-upon visual and thematic logic.  
+- Your group must also decide how the images will be arranged and visually assembled as a cohesive series in the **digital portfolio**.  
+- Your arrangement strategy should enhance the impact of the series, amplifying the glitch aesthetics and critical themes you’re engaging with.  
+
 ---
 
 ## Software
@@ -32,10 +40,10 @@ I
 
 ### 1. Conduct Individual Research
 Each student will choose **one theme**:
-- Cyborg Theory  
-- Retro-futurism  
-- BIPOC Futurism  
-- Technological Influence on Culture  
+- **Glitch Aesthetics and Machine Error as Art**
+- **Algorithmic Bias and the Ethics of Data Corruption**
+- **Poetics of Prompting: Language, Contradiction, and AI Interpretation**
+- **Speculative Media and Machine Perception**  
 
 Write a **300–400 word report** grounded in:
 - **1 academic source**  
@@ -44,19 +52,28 @@ Write a **300–400 word report** grounded in:
 
 ---
 
-### 2. Create a Collaborative AR Storybook
-Design a **cyborg-themed narrative** that explores how technology shapes **culture, identity, and futures**. Includes:
+### 2. AI Data Poisoning Workflow  
+Individually and collectively, create a cohesive series of images by following this structured workflow:  
 
-- **Analogue + Digital Components**:
-  - Physical: hand-drawn illustrations, vintage photos, cultural symbols, textile patterns  
-  - Digital: collages, GIFs, short videos  
-
-- **Augmented Reality**:
-  - Use **Pictarize Studio** to create interactive AR experiences by linking analogue materials to digital layers
+- **Generate base images** using adversarial prompting in Microsoft CoPilot.  
+- **Apply Nightshade** to poison selected images, distorting or confusing their machine-learned features.  
+- **Remix poisoned images** in Pollo.ai, using mislabelled or contradictory prompts to create unexpected visual outcomes.  
+- **Document each step** in your individual Process Journal, including prompts, screenshots, and observations.  
 
 ---
 
-### 3. Group Self-Assessment
+### 3. Assemblage and Final Image Arrangement  
+As a group:  
+- Select, sequence, and present your strongest images in a curated **digital portfolio (PDF)**.  
+- Consider:  
+  - **Layout**: grid, visual narrative, collage, or progression  
+  - **Supporting text**: image titles, captions, or poetic fragments  
+  - **Consistent visual formatting**: aspect ratio, color treatment, and tone  
+- The final format can include visual sequences, speculative layouts, or layered image-text compositions that amplify your artistic intent.  
+
+---
+
+### 4. Group Self-Assessment
 Complete the **Self-Assessment Form** as a group.  
 Ensure your responses are thoughtful and critically reflect on your final outcome.
 
@@ -64,14 +81,14 @@ Ensure your responses are thoughtful and critically reflect on your final outcom
 
 ## Project Breakdown
 
-| **Activity**         | **Focus**                                                              | **Points** |
-|----------------------|------------------------------------------------------------------------|------------|
-| Week 8 Activities    | Conduct Individual Research                                             | 5          |
-| Week 9 Activities    | Finalize Research Report<br>Brainstorm Project<br>Learn Pictarize       | 5          |
-| Week 10 Activities   | Define the Project<br>Finalize Visual Materials<br>Begin Prototyping    | 5          |
-| Week 11 Activities   | Implement and Assemble in Pictarize                                     | 5          |
-| Week 12              | Class showcase: work-in-progress projects                               | 5          |
-| Final Submission     | Final project + deliverables                                            | 13         |
-| **Total Points**     |                                                                        | **38**     |
+| **Activity**         | **Focus**                                                   | **Points** |
+|----------------------|-------------------------------------------------------------|------------|
+| Week 8 Activities    | Conduct Individual Research                                 | 5          |
+| Week 9 Activities    | Final Research Report + AI Data Poisoning Workflow          | 5          |
+| Week 10 Activities   | Group Brainstorming, Project Planning, and Image Testing    | 5          |
+| Week 11 Activities   | Complete final images                                       | 5          |
+| Week 12              | Class showcase: work-in-progress projects                   | 5          |
+| Final Submission     | Final project + deliverables                                | 13         |
+| **Total Points**     |                                                             | **38**     |
 
 ---
