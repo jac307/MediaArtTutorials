@@ -1,4 +1,4 @@
-[CMST 2ZP3](README.md) | [Cyborg Storytelling using Augmented Reality](Cyborg-Storytelling.md)
+[CMST 2ZP3](README.md) | [Glitching tools - AI data poisoning](AI-Data-Poisioning.md)
 
 -------------------------------------------------------------------------------
 
