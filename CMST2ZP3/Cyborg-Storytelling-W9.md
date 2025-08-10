@@ -47,11 +47,11 @@ Open a share document (Word or Google Docs) and answer the following:
 
 ### In your shared **brainstorming document**, include:
 - A **working title** or central mood/theme  
-- A **moodboard** to express your concept visually  
+- A **moodboard** to express your concept visually
+  > A moodboard is a visual collage that communicates the overall style, tone, and aesthetic direction of your project.
   - Tools:
     - <a href="https://www.adobe.com/express/create/photo-collage" target="_blank">Adobe Express – Free collage generator</a>  
     - <a href="https://m365.cloud.microsoft/launch/PowerPoint" target="_blank">Microsoft PowerPoint</a> (use McMaster login)
-    > A moodboard is a visual collage that communicates the overall style, tone, and aesthetic direction of your project.
 - Bullet points explaining how each member’s research can shape their contribution  
 
 ➡️ Export your file as a **PDF**  
