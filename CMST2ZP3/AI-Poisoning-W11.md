@@ -85,7 +85,7 @@ Gather as a group to review and compare the **8–10 images** from Week 10, alon
 ---
 
 #### Step 4: Final Reflections  
-At the end of your **Process Journal**, answer:  
+In your **Process Journal**, answer:  
 - What technical or creative discoveries did you make this week?  
 - Did you notice patterns in how different prompts or poisons affected results?  
 
