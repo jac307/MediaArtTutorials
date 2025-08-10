@@ -18,15 +18,6 @@ Each group must test, refine, and finalize their interactive AR experience. Subm
 
 ---
 
-## Software
-
-- Start with the **trial version** of [Pictarize Studio](https://pictarize.app)  
-- For the **final project**, each group must:
-  - Create a shared account  
-  - Purchase a 1-month subscription (USD $25), divided among members
-
----
-
 ## Index
 
 + [W8: Conduct Individual Research](AI-Poisoning-W8.md)
@@ -34,6 +25,15 @@ Each group must test, refine, and finalize their interactive AR experience. Subm
 + [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)
 + [W11: Complete final images](AI-Poisoning-W11.md)
   
+---
+
+## Software
+
+- **Microsoft Copilot** – For generating base AI images using adversarial prompts  
+- **Pollo.ai** – For remixing poisoned images with mislabeled or contradictory prompts
+- **Nightshade** – For poisoning image data and altering AI model perception
+- **[Photopea](https://www.photopea.com/)** – For image editing.
+
 ---
 
 ## Project Components
