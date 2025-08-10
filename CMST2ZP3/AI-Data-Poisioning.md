@@ -31,9 +31,10 @@ In this project, you will critically and creatively explore **AI data poisoning*
 
 ## Software
 
-- **Microsoft Copilot** – For generating base AI images using adversarial prompts  
-- **Pollo.ai** – For remixing poisoned images with mislabeled or contradictory prompts
-- **Nightshade** – For poisoning image data and altering AI model perception
+- [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"} – For generating base AI images using adversarial prompts
+  > Access with McMaster email credentials  
+- [Nightshade (data poisoning tool)](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"} – For poisoning image data and altering AI model perception
+- [Pollo.ai (Image-To-Image AI Generator)](https://pollo.ai/image-to-image-ai){:target="_blank"} – For remixing poisoned images with mislabeled or contradictory prompts
 - [Photopea](https://www.photopea.com/){:target="_blank"} – For image editing.
 
   
