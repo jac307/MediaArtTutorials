@@ -8,8 +8,8 @@
 
 ## Objective  
 This session focuses on **aligning and advancing** your collaborative glitch art project.  
-- As a group: review and refine your visual strategy by sharing initial images, giving feedback, and choosing a cohesive direction.  
-- Individually: generate final Microsoft Copilot images and apply the poisoning workflow using **Nightshade** and **Pollo.ai**.
+- As a group: **review and refine your visual strategy** by sharing initial images, giving feedback, and choosing a cohesive direction.  
+- Individually: **generate final Microsoft Copilot images, modify them using image editing software, apply the poisoning workflow using **Nightshade**, and generated more AI-variations using **Pollo.ai**.
 
 ---
 
@@ -46,14 +46,20 @@ Gather as a group to review and compare the **8–10 images** from Week 10, alon
 <h3 style="color: darkred;">[1h 10m] AI Data Poisoning Workflow</h3>
 
 #### Step 1: Refine + Generate Final Copilot Images  
-- If needed, rework or regenerate your images using original prompt logic.
+
+If needed, rework or regenerate your images using original prompt logic.
 - Go to [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"}  
   > Access with McMaster email credentials  
-- Finalize **4–5 images** that best align with your group’s visual direction.    
-- Enhance/remix using other tools for image editing.  
+- Finalize **4–5 images** that best align with your group’s visual direction.
+
+**Remix or alter** your images.
+- Recommended tools:  
+  - [Photopea](https://www.photopea.com/){:target="_blank"}
+  - [Adobe Express Collage Generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} 
 - Maintain **consistent aspect ratio** (e.g., 1:1 or 4:5) and high resolution.  
-- **Process Journal:**
-  = Include prompt lists, iterations, and selection/revision notes.  
+
+Document in your **Process Journal:**  
+- Include prompt lists, iterations, and selection/revision notes.  
 
 ---
 
