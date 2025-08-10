@@ -11,7 +11,7 @@ Students will complete individual research reports (initiated in Week 8), collab
 
 > *Augmented Reality (AR)* overlays digital content—such as text, images, video, or sound—onto physical spaces or objects using a smartphone or tablet.
 
-**Example Reference:** *Keiichi Matsuda – Hyper-Reality*
+**Example Reference:** *Keiichi Matsuda – Hyper-Reality*  
 While not app-based AR, this speculative film critiques how AR could restructure identity, agency, and perception, imagining a world where physical and digital layers fully collapse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJg02ivYzSs?si=zYhsUzXNPJbrL1TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -20,10 +20,10 @@ While not app-based AR, this speculative film critiques how AR could restructure
 
 ## Materials Required
 
-- Research Notes from [W8: Conduct Individual Research](AI-Poisoning-W8.md){:target="_blank"}    
+- Research Notes from [W8: Conduct Individual Research](Cyborg-Storytelling-W8.md){:target="_blank"}    
 - Laptop or tablet with internet access  
 - Notebook (digital or physical)  
-- <a href="https://pictarize.app" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> (Create a free trial account)
+- <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> (Create a free trial account)
 
 ---
 
@@ -50,7 +50,8 @@ Open a share document (Word or Google Docs) and answer the following:
 - A **moodboard** to express your concept visually  
   - Tools:
     - <a href="https://www.adobe.com/express/create/photo-collage" target="_blank">Adobe Express – Free collage generator</a>  
-    - <a href="https://m365.cloud.microsoft/launch/PowerPoint" target="_blank">Microsoft PowerPoint</a> (use McMaster login)  
+    - <a href="https://m365.cloud.microsoft/launch/PowerPoint" target="_blank">Microsoft PowerPoint</a> (use McMaster login)
+    > A moodboard is a visual collage that communicates the overall style, tone, and aesthetic direction of your project.
 - Bullet points explaining how each member’s research can shape their contribution  
 
 ➡️ Export your file as a **PDF**  
