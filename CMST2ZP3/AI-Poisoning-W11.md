@@ -16,9 +16,9 @@ This session focuses on **aligning and advancing** your collaborative glitch art
 ## Materials Required
 
 - Updated **Process Journal** and **Group Planning Document** from [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md){:target="_blank"}   
-- [Microsoft Copilot](https://copilot.cloud.microsoft/) – access with McMaster email credentials  
-- [Nightshade](https://nightshade.cs.uchicago.edu/userguide.html) – data poisoning tool  
-- [Pollo.ai](https://pollo.ai/image-to-image-ai) – Image-to-Image AI Generator  
+- [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"} – access with McMaster email credentials  
+- [Nightshade](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"} – data poisoning tool  
+- [Pollo.ai](https://pollo.ai/image-to-image-ai){:target="_blank"} – Image-to-Image AI Generator  
 
 ---
 
@@ -45,43 +45,64 @@ Gather as a group to review and compare the **8–10 images** from Week 10, alon
 
 <h3 style="color: darkred;">[1h 10m] AI Data Poisoning Workflow</h3>
 
-Use your shared <a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer">Pictarize Studio</a> account, and your existing project to build a **second group prototype**.
+#### Step 1: Refine + Generate Final Copilot Images  
+- If needed, rework or regenerate your images using original prompt logic.
+- Go to [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"}  
+  > Access with McMaster email credentials  
+- Finalize **4–5 images** that best align with your group’s visual direction.    
+- Enhance/remix using other tools for image editing.  
+- Maintain **consistent aspect ratio** (e.g., 1:1 or 4:5) and high resolution.  
+- **Process Journal:**
+  = Include prompt lists, iterations, and selection/revision notes.  
 
-### Team Workflow:
-- Assign clear roles:
-  - Who uploads and overlays materials  
-  - Who tests each section after upload  
-  - Who documents progress (screenshots + captions)  
-- Build your project slide by slide:
-  - Upload analogue targets (e.g., scans, photos)  
-  - Add media overlays (e.g., videos, GIFs, sounds, 3D models)  
-  - Focus on **functionality**, **flow**, and **emotional coherence**
+---
 
-> ⚠️ **Do not edit the shared Pictarize project at the same time.** Take turns logging in to avoid conflicts.
+#### Step 2: Apply Nightshade Poisoning  
+- Open **Nightshade**
+  > Reference: [User Guide](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"}  
+- Apply poisoning settings to your selected images.  
+- Export/save corrupted versions.  
+- **Process Journal:**  
+  - Add screenshots of Nightshade in use  
+  - Write notes on settings used (e.g., noise level, trigger classes) and resulting distortions  
 
-### Test and Record
-- Test your AR project using a **mobile device**
-- Record a short screen video of your test  
+---
 
-➡️ Export your file as a **MP4**  
-📄 **Filename:** `FirstPrototype-Group-#.mp4`
+#### Step 3: Remix with Pollo.ai  
+- Visit [Pollo.ai](https://pollo.ai/image-to-image-ai){:target="_blank"} 
+- Upload **both** original and Nightshade-poisoned images.  
+- Use contradictory/mislabelled prompts (e.g., “serene garden” for a ruined cityscape).  
+- Maintain consistent aspect ratio and resolution.  
+- Generate **2–3 versions per image**, saving the most visually compelling or glitched results.  
+- **Process Journal:**  
+  - Add comparison images (poisoned remix vs. unpoisoned remix)  
+  - Reflect on how poisoning affected the output  
+
+---
+
+#### Step 4: Final Reflections  
+At the end of your **Process Journal**, answer:  
+- What technical or creative discoveries did you make this week?  
+- Did you notice patterns in how different prompts or poisons affected results?  
+
+➡️ Export your file as a **PDF**  
+📄 **Filename:** `ProcessJournal-Lastname.pdf`
 
 ---
 
 <h3 style="color: darkred;">What’s Next?</h3>
 
-- Complete **at least 60%** of your group’s Pictarize project before next class  
+- Complete **at least 60%** of your group’s AI data poisoning project before next class  
 - Prepare for your **class presentation**  
-- Review and submit **all deliverables** for Option 1 before the deadline  
+- Review and submit **all deliverables** for Option 2 before the deadline  
 
 ---
 
 <h3 style="color: darkred;">📤 Submission</h3>
 
-| Type                      | File Name                     | Who Submits     |
-|---------------------------|-------------------------------|-----------------|
-| Updated Planning Document | `Planning-Group-#.pdf`        | One per group   |
-| First Prototype Video     | `SecondPrototype-Group-#.mp4` | One per group   |
+| Type                      | File Name                     | Who Submits   |
+|---------------------------|-------------------------------|---------------|
+| Process Journal – Phase 3 | `ProcessJournal-Lastname.pdf` | Each student  |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
