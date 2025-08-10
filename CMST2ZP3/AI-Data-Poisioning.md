@@ -35,7 +35,7 @@ In this project, you will critically and creatively explore **AI data poisoning*
   > Access with McMaster email credentials  
 - [Nightshade (data poisoning tool)](https://nightshade.cs.uchicago.edu/userguide.html){:target="_blank"} – For poisoning image data and altering AI model perception
 - [Pollo.ai (Image-To-Image AI Generator)](https://pollo.ai/image-to-image-ai){:target="_blank"} – For remixing poisoned images with mislabeled or contradictory prompts
-- [Photopea](https://www.photopea.com/){:target="_blank"} – For image editing.
+- [Photopea](https://www.photopea.com/){:target="_blank"} or [Adobe Express – Free collage generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} – For image editing.
 - [Adobe Express – Free collage generator](https://www.adobe.com/express/create/photo-collage){:target="_blank"} or [Microsoft PowerPoint](https://m365.cloud.microsoft/launch/PowerPoint){:target="_blank"} – For moodboard creation.
 
 ---
