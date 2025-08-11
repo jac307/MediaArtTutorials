@@ -1,11 +1,10 @@
-# MEDIAART 2DF3 – Design Fundamental
+# IARTS 3PE3 – Perspectives E: Key Issues of Equity, Diversity, and Inclusion in the Arts
 
-This studio-based course introduces students to the fundamentals of visual design through weekly hands-on exercises and guided projects. Working with both digital and physical tools, students develop skills in composition, colour theory, typography, and layout using Adobe Illustrator and Photoshop.  
+This course **examines artistic practices that challenge systemic inequities through the lenses of body, identity, community, and place**.  
 
-The course draws from core design concepts introduced in *Design as Art* by Bruno Munari and *Elements of Design* by Wucius Wong, and gradually applies them through practical assignments focused on two-dimensional design, Gestalt principles, and expressive typography.  
-The course concludes with a public exhibition of student work.
+Drawing on frameworks from **testimony**, **techno-feminism**, **decolonial aesthetics**, and **queer/trans-feminisms**, students will explore how artists use their work to resist oppression, reclaim narratives, and envision alternative futures. Through artist case studies and research-creation projects, students will develop **skills in arts-based research, ethical engagement, and collaborative production**, culminating in original works that integrate critical reflection with creative practice.  
 
-> Linked tutorials are accessible only while the course is in session.
+> Linked instructions are accessible only while the course is in session.
 
 ---
 
@@ -13,7 +12,7 @@ The course concludes with a public exhibition of student work.
 
 ### P1: Embodied Archival Entry
 
-Completed in pairs, students will research an artist or collective whose work engages with body, identity, and equity, producing a curated archival entry. This includes biographical context, documentation of three works, and a short curatorial text connecting the artist’s practice to course themes.
+Completed in **pairs**, students will **research an artist or collective whose work engages with body, identity, and equity, producing a curated archival entry**. This includes biographical context, documentation of three works, and a short curatorial text connecting the artist’s practice to course themes.
 
 #### Index
 
@@ -27,7 +26,7 @@ Completed in pairs, students will research an artist or collective whose work en
 
 ### P2: Research-Creation Project
 
-Completed in groups of 3/4 students, they will develop an original artistic work in response to an artist from the class archive, using any medium or format. The project must critically reflect on identity as community, place, or body, accompanied by a written reflection linking the work to course themes and personal context.
+Completed in groups of **3/4 students**, they will **develop an original artistic work in response to an artist from the class archive**, using any medium or format. The project must critically reflect on identity as community, place, or body, accompanied by a written reflection linking the work to course themes and personal context.
 
 #### Index
 
