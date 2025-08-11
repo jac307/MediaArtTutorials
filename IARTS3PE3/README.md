@@ -13,6 +13,7 @@ Drawing on frameworks from **testimony**, **techno-feminism**, **decolonial aest
 ### **P1: Embodied Archival Entry**  
 
 Completed in **pairs**, students will **research an artist or collective from the course archive whose work engages with body, identity, and equity**, producing a curated **archival entry**.  
+
 The entry will include:  
 - **Biographical context** of the artist/collective.  
 - **Documentation and analysis of three artworks/projects** (images, titles, years, descriptions, and significance).  
@@ -31,6 +32,7 @@ The entry will include:
 ### **P2: Research–Creation Project**  
 
 Completed in groups of **3–4 students**, students will **develop an original artistic work** in response to an **artist/collective from the class archive**.  
+
 The work may take any **medium or format** (performance, installation, sound art, digital media, etc.) and must:  
 - Critically reflect on **identity** through **community**, **place**, and/or **body**.  
 - Demonstrate a clear **conceptual dialogue** with the selected artist’s/collective’s practice.  
