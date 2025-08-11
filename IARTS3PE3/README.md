@@ -19,7 +19,6 @@ Completed in **pairs**, students will **research an artist or collective whose w
 + [P1 - In-class Work 1](P1-W2.md)
 + [P1 - In-class Work 2](P1-W3.md)
 + [P1 - In-class Work 3](P1-W4.md)
-+ [P1 - Final Submission](P1-W6.md)
 
 ---
 
