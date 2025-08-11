@@ -21,9 +21,13 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 ## Classes
 
-+ [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md)
++ [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md)  
+  
 + [CMST 2ZP3 - Splat, Ping, Zip: Digital Ways of Doing](CMST2ZP3/README.md)
+  
 + [MEDIAART 2DF3 – Design Fundamental](MEDIA2DF3/README.md)
+
++ [IARTS 3PE3 – Perspectives E: Key Issues of Equity, Diversity, and Inclusion in the Arts](IARTS3PE3/README.md)
 
 
 ________________________________________________________________________
