@@ -32,8 +32,6 @@ Completed in groups of **3/4 students**, they will **develop an original artisti
 + [P2 - In-class Work 2](P2-W8.md)
 + [P2 - In-class Work 3](P2-W9.md)
 + [P2 - In-class Work 4](P2-W10.md)
-+ [P2 - Final Submission](P2-W12.md)
-+ [P2 - Class showcase/fair](P2-W13.md)
   
 ________________________________________________________________________
 
