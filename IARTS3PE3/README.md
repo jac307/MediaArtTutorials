@@ -19,7 +19,6 @@ Completed in **pairs**, students will **research an artist or collective whose w
 + [P1 - In-class Work 1](P1-W2.md)
 + [P1 - In-class Work 2](P1-W3.md)
 + [P1 - In-class Work 3](P1-W4.md)
-+ [P1 - Mini-Presentations](P1-W5.md)
 + [P1 - Final Submission](P1-W6.md)
 
 ---
@@ -34,7 +33,6 @@ Completed in groups of **3/4 students**, they will **develop an original artisti
 + [P2 - In-class Work 2](P2-W8.md)
 + [P2 - In-class Work 3](P2-W9.md)
 + [P2 - In-class Work 4](P2-W10.md)
-+ [P2 - Mini-Presentations](P2-W11.md)
 + [P2 - Final Submission](P2-W12.md)
 + [P2 - Class showcase/fair](P2-W13.md)
   
