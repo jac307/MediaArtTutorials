@@ -16,7 +16,7 @@ Completed in **pairs**, students will **research an artist or collective from th
 
 The entry will include:  
 - **Biographical context** of the artist/collective.  
-- **Documentation and analysis of three artworks/projects** (images, titles, years, descriptions, and significance).  
+- **Documentation and analysis of two artworks/projects** (images, titles, years, descriptions, and significance).  
 - A **short curatorial text** linking the artist’s practice to course themes of **body**, **identity**, and **equity**.  
 - A **bibliography** in **APA style** including all referenced resources.  
 
@@ -36,7 +36,7 @@ Completed in groups of **3–4 students**, students will **develop an original a
 The work may take any **medium or format** (performance, installation, sound art, digital media, etc.) and must:  
 - Critically reflect on **identity** through **community**, **place**, and/or **body**.  
 - Demonstrate a clear **conceptual dialogue** with the selected artist’s/collective’s practice.  
-- Be accompanied by a **written reflection** linking the work to course themes, personal perspectives, and research sources.  
+- Link the work to course themes, personal perspectives, and research sources.  
 
 #### Index  
 + [P2 - In-class Work 1](P2-W7.md) — Artist/collective selection, archival entry review, and concept seeding.  
