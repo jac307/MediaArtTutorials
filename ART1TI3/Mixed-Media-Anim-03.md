@@ -46,9 +46,7 @@ This is your last step: bring together storytelling, analogue intervention, and 
   > ⚠️ Make sure both of you use the **same settings**
 - Do **not** add any further effects or edits at this stage
 
-➡️ Export your animation as a **short MP4 file**  
-📄 **Filename:** `Lastname-Firstname-Animation.mp4`
-> Individual videos should be 10-15 seconds.
+➡️ Export your animation as a **short MP4 file** and share with partner.  
 
 ---
 
@@ -103,7 +101,6 @@ Create a 1-page PDF document that includes the following:
 
 | Type       | File Name                          | Who Submits     |
 |------------|------------------------------------|-----------------|
-| Individual | `Lastname-Firstname-Animation.mp4` | Each student    |
 | Group      | `Group-#-FinalComposition.mp4`     | One per group   |
 | Group      | `Group-#-Submission-Info.pdf`      | One per group   |
 
