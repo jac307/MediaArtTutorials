@@ -114,7 +114,7 @@ Follow these guidelines:
   - Use a **comic-style layout**, combining multiple panels per page
 
 **Naming Protocol:**  
-`Group-#_GraphicNovel.pdf`
+`Group-#-GraphicNovel.pdf`
 
 > ⚠️ Make sure all files are clearly named and properly formatted to avoid point deductions.
 
