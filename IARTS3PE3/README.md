@@ -22,8 +22,8 @@ The entry will include:
 
 #### Index  
 + [Week 2](P1-W2.md) — Artist/collective selection and initial research 
-+ [Week 3](P1-W3.md) — Detailed artwork analysis and curatorial text draftin
-+ [Week 4](P1-W4.md) — Finalization of archival entry and preparation for submission
+<!--+ [Week 3](P1-W3.md) — Detailed artwork analysis and curatorial text draftin-->
+<!--+ [Week 4](P1-W4.md) — Finalization of archival entry and preparation for submission-->
 
 > **Note:** This project includes a **poster-presentation session** and a **final submission**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  
 
@@ -38,13 +38,13 @@ The work may take any **medium or format** (performance, installation, sound art
 - Demonstrate a clear **conceptual dialogue** with the selected artist’s/collective’s practice.  
 - Link the work to course themes, personal perspectives, and research sources.  
 
-#### Index  
+<!--#### Index  
 + [Week 7](P2-W7.md) — Artist/Collective Inspiration & Concept Seeding 
 + [Week 8](P2-W8.md) — Artistic Translation: Style & Process Research  
 + [Week 9](P2-W9.md) — First Iteration: Bringing the Concept to Life 
 + [Week 10](P2-W10.md) — Refinement & Public Presentation Prep
 
-> **Note:** This project includes a **poster-presentation session**, a **final submission**, and a **public sharing event**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  
+> **Note:** This project includes a **poster-presentation session**, a **final submission**, and a **public sharing event**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  -->
   
 ________________________________________________________________________
 
