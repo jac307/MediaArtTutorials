@@ -101,7 +101,7 @@ Prepare a **Project Information PDF** that includes the following:
 6. Link to your collaborative journal  
 
 **Naming Protocol:**  
-`Group-#_Info.pdf`
+`Group-#-Info.pdf`
 
 #### 7. Share Info about Your Digital Paintings
 
