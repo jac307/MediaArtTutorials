@@ -21,9 +21,9 @@ The entry will include:
 - A **bibliography** in **APA style** including all referenced resources.  
 
 #### Index  
-+ [P1 - In-class Work 1](P1-W2.md) — Artist/collective selection and initial research.  
-+ [P1 - In-class Work 2](P1-W3.md) — Detailed artwork analysis and curatorial text drafting.  
-+ [P1 - In-class Work 3](P1-W4.md) — Finalization of archival entry and preparation for submission.  
++ [Week 2](P1-W2.md) — Artist/collective selection and initial research 
++ [Week 3](P1-W3.md) — Detailed artwork analysis and curatorial text draftin
++ [Week 4](P1-W4.md) — Finalization of archival entry and preparation for submission
 
 > **Note:** This project includes a **poster-presentation session** and a **final submission**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  
 
