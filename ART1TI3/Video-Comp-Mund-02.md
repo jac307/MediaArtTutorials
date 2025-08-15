@@ -49,7 +49,7 @@ View the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/i
 
 Your goal is to explore—not perfect—your editing.  
 
-➡️ Export your test video as an **MP4**
+➡️ Export your test video as an **MP4**  
 📄 **Filename:** `Lastname-Name-TestVideo.mp4`
 
 ---
@@ -78,7 +78,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - This is a **non-linear, experimental composition**—do not follow a traditional narrative or slideshow format.
 
 ➡️ **Export your responses as a PDF**  
-📄 **Filename:** `Group-#-Notes.pdf`  
+📄 **Filename:** `Group-#-Notes2.pdf`  
 > Include **both names + student numbers**
 
 ---
@@ -88,6 +88,6 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 | Type       | File Name                         | Who Submits     |
 |------------|-----------------------------------|-----------------|
 | Individual | `Lastname-Name-TestVideo.mp4`     | Each student    |
-| Group      | `Group-#-Notes.pdf`               | One per group   |
+| Group      | `Group-#-Notes2.pdf`               | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
