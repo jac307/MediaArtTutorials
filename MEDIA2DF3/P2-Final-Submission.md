@@ -7,7 +7,7 @@
 
 ---
 
-This is a **physical, in-person submission**. Students will submit their two completed compositions, printed and mounted for the **Class Exhibition**.
+This includes and **online submission** and a **physical, in-person submission**. Each group will present their completed composition as part of the **Class Exhibition**.
 
 Final marks will reflect your attention to:
 - File preparation and setup
