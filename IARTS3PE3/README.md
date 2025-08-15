@@ -39,10 +39,10 @@ The work may take any **medium or format** (performance, installation, sound art
 - Link the work to course themes, personal perspectives, and research sources.  
 
 #### Index  
-+ [P2 - In-class Work 1](P2-W7.md) — Artist/collective selection, archival entry review, and concept seeding.  
-+ [P2 - In-class Work 2](P2-W8.md) — Project definition, drafting, and materials planning.  
-+ [P2 - In-class Work 3](P2-W9.md) — Production to 50% completion and work-in-progress documentation.  
-+ [P2 - In-class Work 4](P2-W10.md) — Project to 80% completion, draft submission package, and poster plan.
++ [Week 7](P2-W7.md) — Artist/Collective Inspiration & Concept Seeding 
++ [Week 8](P2-W8.md) — Artistic Translation: Style & Process Research  
++ [Week 9](P2-W9.md) — First Iteration: Bringing the Concept to Life 
++ [Week 10](P2-W10.md) — Refinement & Public Presentation Prep
 
 > **Note:** This project includes a **poster-presentation session**, a **final submission**, and a **public sharing event**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  
   
