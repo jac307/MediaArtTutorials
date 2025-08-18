@@ -25,14 +25,13 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 > **This project is inspired by the paper-engineered sculptural work of <a href="https://www.mattshlian.com/" target="_blank">Matt Shlian</a>.**
 
 ---
-<!--
+
 ## Index
 
 - [Part 1 – In-Class Work I: Brainstorm, Sketch & Laser-Cut Prep](P1-InClassWork-I.md)
 - [Part 2 – In-Class Work II: Laser Cutting, Surface Prep, & Colour Planning](P1-InClassWork-II.md)
 - [Final Submission Guidelines](P1-Final-Submission.md)
 
--->
 ---
 
 ## Notes
