@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">W10: Group Brainstorming, Project Planning, and Image Testing</h1>  
-<p><strong>Research-Creation Project · Group Brainstorming, Project Planning, and Image Testing</strong></p>
+<p><strong>Research-Creation Project · Glitching tools - AI data poisoning</strong></p>
 <p><strong>Groups of 3–4 students</strong></p>
 
 ## Objective  
