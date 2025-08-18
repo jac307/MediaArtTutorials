@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">W9: Final Research Report + AI Data Poisoning Workflow</h1>  
-<p><strong>Research-Creation Project · Cyborg Storytelling using Augmented Reality</strong></p>
+<p><strong>Research-Creation Project · Glitching tools - AI data poisoning</strong></p>
 <p><strong>Groups of 3–4 students</strong></p>
 
 ## Objective  
