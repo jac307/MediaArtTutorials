@@ -2,8 +2,8 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W11: Second Prototype</h1>  
-<p><strong>Research-Creation Project · Complete final images</strong></p>
+<h1 style="color: darkred;">W11: Complete final images</h1>  
+<p><strong>Research-Creation Project · Glitching tools - AI data poisoning</strong></p>
 <p><strong>Groups of 3–4 students</strong></p>
 
 ## Objective  
