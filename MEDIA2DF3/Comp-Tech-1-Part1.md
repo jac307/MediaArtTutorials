@@ -128,7 +128,7 @@ These settings ensure your file is compatible with export and review processes. 
 <h3 style="color: darkred;">📥 Final Submission</h3>
 
 1. A **single PDF file** that includes your **sketches** (Super-Units and Grids)  
-   - **Naming:** `Lastname-Firstname-CompTech1-Sketches.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech1-Sketches1.pdf`
 
 2. **Four separate PDF files**, one for each **digital composition**  
    - **Naming:** `Lastname-Firstname-CompTech1-1.pdf`
