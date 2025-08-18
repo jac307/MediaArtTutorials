@@ -153,14 +153,14 @@ Textures must be in **black and white**, minimum **800px** on their shortest sid
 <h3 style="color: darkred;">📥 Final Submission</h3>
 
 1. A **single PDF file** containing your **sketches** for all four compositions  
-   - **Naming:** `Lastname-Firstname-CompTech2-Sketches2.pdf`
+   - **Naming:** `Lastname-Firstname-CompTech1-Sketches2.pdf`
 
 2. **Four separate PDF files**, one for each **final composition**  
    - **Naming:**  
-     - `Lastname-Firstname-CompTech2-5.pdf`  
-     - `Lastname-Firstname-CompTech2-6.pdf`  
-     - `Lastname-Firstname-CompTech2-7.pdf`  
-     - `Lastname-Firstname-CompTech2-8.pdf`
+     - `Lastname-Firstname-CompTech1-5.pdf`  
+     - `Lastname-Firstname-CompTech1-6.pdf`  
+     - `Lastname-Firstname-CompTech1-7.pdf`  
+     - `Lastname-Firstname-CompTech1-8.pdf`
 
 > 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
 
