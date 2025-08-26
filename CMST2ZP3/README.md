@@ -20,15 +20,15 @@ Analyze a political, cultural, or advertising message, then design a 3–5 secon
 
 Create a 1-minute narrative using simulated digital interactions (e.g., SMS, social media) to explore themes of privacy, surveillance, and digital communication.
 
-+ [Desktop Cinema / SMS Storytelling  - Session 1](Desk-Cinema-1.md)
-+ [Desktop Cinema / SMS Storytelling  - Session 2](Desk-Cinema-2.md)
+<!--+ [Desktop Cinema / SMS Storytelling  - Session 1](Desk-Cinema-1.md)-->
+<!--+ [Desktop Cinema / SMS Storytelling  - Session 2](Desk-Cinema-2.md)-->
 
 ## Mapping of Local Mobility Issues (groups of 3-4 students)
 
 Investigate a mobility issue in Hamilton and design a digital sensorial map that blends public data with emotional and visual insights.
 
-+ [Mapping of Local Mobility Issues  - Session 1](Mapping-Mobility-01.md)
-+ [Mapping of Local Mobility Issues  - Session 2](Mapping-Mobility-02.md)
+<!--+ [Mapping of Local Mobility Issues  - Session 1](Mapping-Mobility-01.md)-->
+<!--+ [Mapping of Local Mobility Issues  - Session 2](Mapping-Mobility-02.md)-->
 
 ---
 
@@ -36,11 +36,13 @@ Investigate a mobility issue in Hamilton and design a digital sensorial map that
 
 Completed in groups of 3–4, this multi-week project includes class-weekly activities, progress check-ins, and a final deliverable/class-showcase. Attendance, participation, and collaborative contribution are essential and graded individually and collectively.
 
-### Option 1: [Cyborg Storytelling using Augmented Reality](Cyborg-Storytelling.md)
+### Option 1: Cyborg Storytelling using Augmented Reality
+<!--[Cyborg Storytelling using Augmented Reality](Cyborg-Storytelling.md)-->
 
 Explore the human–technology relationship through a cyborg lens. Using individual research and the Pictarize AR platform, your group will create a speculative storybook that blends analogue materials with digital overlays and reflects themes such as retro-futurism and BIPOC futurism.
 
-### Option 2: [Glitching tools - AI data poisoning](AI-Data-Poisioning.md)
+### Option 2: Glitching tools - AI data poisoning
+<!--[Glitching tools - AI data poisoning](AI-Data-Poisioning.md)-->
 
 Use adversarial prompting, Nightshade data poisoning, and AI remixing tools to create a series of glitch-based images. This option emphasizes the creative and ethical implications of manipulating AI-generated media to disrupt machine perception and explore speculative aesthetics.
 
