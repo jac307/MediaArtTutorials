@@ -124,6 +124,10 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 ➡️ **Export as MP4**  
 📄 **Filename:** `Group-#-Video.mp4`
 
+### Additional Resources
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq5NbRANm3c?si=6kbsx6urUx5-u07-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 <h3 style="color: darkred;">[10m] Create Printable Frame Grids</h3>
