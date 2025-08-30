@@ -16,10 +16,10 @@ Drawing from your individual research, your group will create a **speculative Au
 ## Index
 
 + [W8: Conduct Individual Research](Cyborg-Storytelling-W8.md)
-+ [W9: Finalize Research Report, Brainstorm Project Learn Pictarize](Cyborg-Storytelling-W9.md)
-+ [W10: Define the Project, Finalize Visual Materials, Begin Pictarize Prototyping](Cyborg-Storytelling-W10.md)
-+ [W11: Second Prototype](Cyborg-Storytelling-W11.md)
-+ [Final Submission](Cyborg-Storytelling-Final.md)
+<!---+ [W9: Finalize Research Report, Brainstorm Project Learn Pictarize](Cyborg-Storytelling-W9.md)-->
+<!---+ [W10: Define the Project, Finalize Visual Materials, Begin Pictarize Prototyping](Cyborg-Storytelling-W10.md)-->
+<!---+ [W11: Second Prototype](Cyborg-Storytelling-W11.md)-->
+<!---+ [Final Submission](Cyborg-Storytelling-Final.md)-->
 
 ---
 
