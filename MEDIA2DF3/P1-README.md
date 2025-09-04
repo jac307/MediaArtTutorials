@@ -12,6 +12,12 @@
   </figcaption>
 </figure>
 
+## ⚠️⚠️⚠️ McMaster Those Makerspace ⚠️⚠️⚠️
+
+For this project, you must complete the **online Thode Makerspace training modules** on **Avenue to Learn**. Check <a href="https://library.mcmaster.ca/spaces/makerspace#tab-equipment-training" target="_blank">Thode Makerspace: Equipment Training</a> to enroll in the Avenue to Learn course "Thode Makerspace Training and Community".
+
+---
+
 ## Overview
 
 In this project, students will collaborate in small groups (**3–4 students**) to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
@@ -23,10 +29,6 @@ The process includes **hand-sketching**, **digital design using Inkscape**, and 
 Final compositions will demonstrate the application of **Wong’s Elements of Two-Dimensional Design** and **basic Colour Theory**, while experimenting with physical materiality and structure.
 
 > **This project is inspired by the paper-engineered sculptural work of <a href="https://www.mattshlian.com/" target="_blank">Matt Shlian</a>.**
-
-## ⚠️⚠️⚠️ McMaster Those Makerspace ⚠️⚠️⚠️
-
-You must complete the **online Thode Makerspace training modules** on **Avenue to Learn**. Check <a href="https://library.mcmaster.ca/spaces/makerspace#tab-equipment-training" target="_blank">Thode Makerspace: Equipment Training</a> to enroll in the Avenue to Learn course "Thode Makerspace Training and Community".
 
 ---
 
