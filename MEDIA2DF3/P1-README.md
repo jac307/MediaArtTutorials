@@ -26,7 +26,7 @@ Final compositions will demonstrate the application of **Wong’s Elements of Tw
 
 ## ⚠️⚠️⚠️ McMaster Those Makerspace ⚠️⚠️⚠️
 
-⚠️ You must complete the **online Thode Makerspace training modules** on **Avenue to Learn**. Check <a href="https://library.mcmaster.ca/spaces/makerspace#tab-equipment-training" target="_blank">Thode Makerspace: Equipment Training</a> to enroll in the Avenue to Learn course "Thode Makerspace Training and Community".
+You must complete the **online Thode Makerspace training modules** on **Avenue to Learn**. Check <a href="https://library.mcmaster.ca/spaces/makerspace#tab-equipment-training" target="_blank">Thode Makerspace: Equipment Training</a> to enroll in the Avenue to Learn course "Thode Makerspace Training and Community".
 
 ---
 
