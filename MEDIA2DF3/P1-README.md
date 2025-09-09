@@ -12,7 +12,7 @@
   </figcaption>
 </figure>
 
-## ⚠️⚠️⚠️ McMaster Those Makerspace ⚠️⚠️⚠️
+## ⚠️⚠️⚠️ McMaster Thode Makerspace ⚠️⚠️⚠️
 
 For this project, you must complete the **online "Thode Makerspace Training and Community"** on **Avenue to Learn**. Check <a href="https://library.mcmaster.ca/spaces/makerspace#tab-equipment-training" target="_blank">Thode Makerspace: Equipment Training</a> to enroll in this Avenue to Learn course.
 
