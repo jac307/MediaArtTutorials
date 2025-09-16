@@ -21,7 +21,7 @@ Create **three digital compositions** that explore the **Interrelationships of F
 
 In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Radiation, Anomaly, Contrast, Concentration, Texture**—to explore and highlight the visual characteristics of each interrelationship.  
 
-Create **one digital composition** that incorporate Wucius Wong’s Principles of Two-Dimensional Design: ##Space**
+Create **one digital composition** that incorporate Wucius Wong’s Principles of Two-Dimensional Design: **Space**
 
 Each composition must demonstrate a **thoughtful and cohesive integration** of form relationships and design principles.
 
