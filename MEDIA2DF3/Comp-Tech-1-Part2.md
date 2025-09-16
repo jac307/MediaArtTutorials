@@ -12,14 +12,16 @@
 </figure>
 
 ## Objective
-Create **four digital compositions** that explore the **Interrelationships of Form**:  
+Create **three digital compositions** that explore the **Interrelationships of Form**:  
 1. Union
 2. Subtraction
 3. Intersection
 
 <img src="imgs/09.png" style="width: 80%; height: auto;">
 
-In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Radiation, Anomaly, Contrast, Concentration, Texture, and Space**—to explore and highlight the visual characteristics of each interrelationship.  
+In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Radiation, Anomaly, Contrast, Concentration, Texture**—to explore and highlight the visual characteristics of each interrelationship.  
+
+Create **one digital composition** that incorporate Wucius Wong’s Principles of Two-Dimensional Design: ##Space**
 
 Each composition must demonstrate a **thoughtful and cohesive integration** of form relationships and design principles.
 
