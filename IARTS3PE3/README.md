@@ -22,7 +22,7 @@ The entry will include:
 
 #### Index  
 + [Week 2](P1-W2.md) — Artist/collective selection and initial research
-<!--+ [Week 3](P1-W3.md) — Detailed artwork analysis and curatorial text drafting  -->
++ [Week 3](P1-W3.md) — Detailed artwork analysis and curatorial text drafting
 <!--+ [Week 4](P1-W4.md) — Finalization of archival entry and preparation for submission  -->
 
 > **Note:** This project includes a **poster-presentation session** and a **final submission**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  
