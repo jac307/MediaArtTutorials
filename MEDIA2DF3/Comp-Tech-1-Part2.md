@@ -30,7 +30,7 @@ Each composition must demonstrate a **thoughtful and cohesive integration** of f
 ## Design Restrictions
 - Use **geometric, organic, or accidental shapes**
 - Designs must be in **black and white**
-- You must incorporate a **grid structure** for each composition (choose one per composition from the following):
+- You must incorporate a **grid structure** for Composition 1 and Composition 2 only (choose one per composition from the following):
 
 <img src="imgs/11.png" style="width: 80%; height: auto;">
 
