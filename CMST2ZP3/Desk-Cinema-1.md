@@ -23,7 +23,7 @@ Students will collaboratively brainstorm and conceptualize their desktop cinema 
 
 - Laptop or iPad with internet access  
 - Digital or physical notebook  
-- **Storyboard template** (provided by instructor)  
+- [Storyboard Template](materials/Storyboard-Template.pdf){:target="_blank"} 
 - Online copyright-free media archives:
   - <a href="https://commons.wikimedia.org/wiki" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>  
   - <a href="https://www.pexels.com/" target="_blank" rel="noopener noreferrer">Pexels</a>  
@@ -49,6 +49,8 @@ With your group, open a document (Word or Google Docs) and answer the following:
 ---
 
 <h3 style="color: darkred;">[30 minutes] Storyboard Creation</h3>
+
+[Storyboard Template](materials/Storyboard-Template.pdf){:target="_blank"}
 
 Use the **Storyboard Template** provided. Create a storyboard with at least **5–7 frames** including “screen interactions” (e.g., messages, alerts, notifications).  
 
