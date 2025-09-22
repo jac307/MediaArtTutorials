@@ -59,6 +59,13 @@ Each frame must include:
 
 Your story should fit within **1 minute**.
 
+👉 A good rhythm is 5-6 scenes, with each lasting about 10–12 seconds with this general structure recommended:  
+
+- An introduction / setup,
+- Rising action with interactions (typing, searching, scrolling),
+- A turning point or reveal,
+- A closing action or resolution.
+
 ---
 
 <h3 style="color: darkred;">[20 minutes] Materials List</h3>
