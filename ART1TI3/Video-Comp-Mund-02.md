@@ -48,6 +48,7 @@ View the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/i
    - Try animating position, opacity, and scale  
 
 Your goal is to explore—not perfect—your editing.  
+Your test video should be 30-60 seconds long and should be the result of following all of the tutorials above and showcasing the tools learnt such as keyframe animation, text, multiple layers, effects, and transitions.
 
 ➡️ Export your test video as an **MP4**  
 📄 **Filename:** `Lastname-Name-TestVideo.mp4`
@@ -72,6 +73,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - What tools or effects in DaVinci could help achieve your goals?
 
 ### ⚠️ **Restrictions and requirements:**  
+- your video must be 1-2 minutes long.
 - You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).
 - You must include **royalty-free music or ambient sound** that supports your mood or concept.
 - You must add a **title screen** and **end credits** with your names.
