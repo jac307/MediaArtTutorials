@@ -118,7 +118,7 @@ In professional design workflows, it is essential to understand and correctly ap
 - Don’t forget to **embed all linked images** on Adobe Illustrator.
 
 ### Apply Your Colour Palettes  
-Apply one of your custom palettes to each duplicated composition.  
+Apply your custom palettes to your three duplicated composition.  
 When applying your color palettes, you can also work with Colour Contrast, Perspective and/or Gradation.  
 - **Naming Protocol:** `Lastname-Firstname-CompTech2-#.pdf`
 
