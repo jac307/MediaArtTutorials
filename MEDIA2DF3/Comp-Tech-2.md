@@ -119,11 +119,7 @@ In professional design workflows, it is essential to understand and correctly ap
 
 ### Apply Your Colour Palettes  
 Apply one of your custom palettes to each duplicated composition.  
-Focus on:
-- **Contrast** (light vs dark, warm vs cool)  
-- **Perspective** (depth, spatial effect using colour)  
-- **Gradation** (smooth transitions of hue, saturation, or brightness)
-- **Naming Protocol:** `Lastname-Firstname-CompTech2-#.ai`
+- **Naming Protocol:** `Lastname-Firstname-CompTech2-#.pdf`
 
 <img src="imgs/17.png" style="width: 80%; height: auto;">
 
