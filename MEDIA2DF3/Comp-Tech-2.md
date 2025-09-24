@@ -119,6 +119,7 @@ In professional design workflows, it is essential to understand and correctly ap
 
 ### Apply Your Colour Palettes  
 Apply one of your custom palettes to each duplicated composition.  
+When applying your color palettes, you can also work with Colour Contrast, Perspective and/or Gradation.  
 - **Naming Protocol:** `Lastname-Firstname-CompTech2-#.pdf`
 
 <img src="imgs/17.png" style="width: 80%; height: auto;">
