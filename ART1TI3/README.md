@@ -16,7 +16,7 @@ Create an experimental video using only photographic close-up footage of the uni
 
 + [Video composition of the Mundane  - Part 1](Video-Comp-Mund-01.md)
 + [Video composition of the Mundane  - Part 2](Video-Comp-Mund-02.md)
-<!--+ [Video composition of the Mundane  - Part 3](Video-Comp-Mund-03.md)-->
++ [Video composition of the Mundane  - Part 3](Video-Comp-Mund-03.md)
 
 ---
 
