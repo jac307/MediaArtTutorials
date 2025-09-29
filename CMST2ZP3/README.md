@@ -21,7 +21,7 @@ Analyze a political, cultural, or advertising message, then design a 3–5 secon
 Create a 1-minute narrative using simulated digital interactions (e.g., SMS, social media) to explore themes of privacy, surveillance, and digital communication.
 
 + [Desktop Cinema / SMS Storytelling  - Session 1](Desk-Cinema-1.md)
-<!--+ [Desktop Cinema / SMS Storytelling  - Session 2](Desk-Cinema-2.md)-->
++ [Desktop Cinema / SMS Storytelling  - Session 2](Desk-Cinema-2.md)
 
 ## Mapping of Local Mobility Issues (groups of 3-4 students)
 
