@@ -2,6 +2,32 @@
 
 -------------------------------------------------------------------------------
 
+<!-- 1) Where you want the widget -->
+<div id="google_translate_element"></div>
+
+<!-- 2) Init script -->
+<script>
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en', // change to your source language code
+      includedLanguages: 'es,fr,zh-CN,ar,hi,pt', // pick your list
+      autoDisplay: false,
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+  }
+</script>
+
+<!-- 3) Loader (must be after the init function) -->
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- Optional: reduce the top toolbar footprint -->
+<style>
+  body { top: 0 !important; }
+  .goog-te-banner-frame { display:none !important; }
+  .goog-logo-link, .goog-te-gadget span { display:none !important; }
+  .goog-te-gadget { font-size:0; }
+</style>
+
 <h1 style="color: darkred;">Video Composition of the Mundane – Part 3</h1>
 
 <figure style="width: 100%; margin: auto;">
