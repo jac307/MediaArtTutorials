@@ -103,7 +103,7 @@ Submit a **PDF** file to A2L by the end of the session. It must include:
 
 Log in to <a href="https://m365.cloud.microsoft/launch/Clipchamp/" target="_blank" rel="noopener noreferrer">Clipchamp</a> with your McMaster email.  
 
-Individually, your will create a 30-second **test** video as proof that you completed the below tutorials. Your test video must:
+Individually, your will create a 30-second **test** video as **proof that you completed the below tutorials**. Your test video must:
 - Combine **2–3 video clips**  
 - Include **animated text**
 - Add transmisions and effects
