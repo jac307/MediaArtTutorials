@@ -106,7 +106,7 @@ Individually, your will create a 30-second *test* video as proof that you comple
 - Include **animated text**
 - Add transmisions and effects
 - Include **picture-in-picture**
-  > Note: A picture-in-picture (PiP) is a video editing or display technique where one image or video plays **inside a smaller frame** overlaid on top of another, larger image or video as it is shown on the above video.  
+  > Note: A picture-in-picture (PiP) is a video editing or display technique where one image or video plays **inside a smaller frame** overlaid on top of another, larger image or video as it is shown on the second video-tutorial.  
 
 Log in to <a href="https://m365.cloud.microsoft/launch/Clipchamp/" target="_blank" rel="noopener noreferrer">Clipchamp</a> with your McMaster email. Start a “Video Project” and follow the tutorials:  
 
