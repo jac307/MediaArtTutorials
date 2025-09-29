@@ -10,7 +10,7 @@
   function googleTranslateElementInit() {
     new google.translate.TranslateElement({
       pageLanguage: 'en', // change to your source language code
-      includedLanguages: 'es,fr,zh-CN,ar,hi,pt', // pick your list
+      includedLanguages: 'en,es,fr,zh-CN,ar,hi,pt', // pick your list
       autoDisplay: false,
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE
     }, 'google_translate_element');
@@ -34,7 +34,7 @@
   <video controls style="width: 100%; height: auto;">
     <source src="imgs/01.mp4" type="video/mp4">
   </video>
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  <figcaption style="text-align: left; font-style: italic; margin-top: 0.5em;">
     Video compositions from previous students.
   </figcaption>
 </figure>
