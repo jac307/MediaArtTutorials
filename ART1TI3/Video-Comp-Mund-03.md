@@ -154,7 +154,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 1. **Project Title**  
    > A poetic or direct title that reflects your composition.
 
-2. **Still Frame / Screenshot**  
+2. **Still Frame / Screenshot / Thumbnail**  
    > Choose a representative frame from the video.
 
 3. **Short Description (3–5 sentences)**  
