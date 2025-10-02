@@ -73,39 +73,6 @@ Examples: feelings of fear, comfort, exclusion, relief.
 
 ---
 
-<h3 style="color: darkred;">[20 minutes] Brainstorming</h3>
-
-Add the following information on your share document (Word or Google Docs).  
-
-### Visual Representation  
-Discuss how the emotional and physical aspects of your mobility issue could be visualized through:
-- **Icons** — to symbolize key spaces or emotions  
-- **Images** — e.g., photos of streets, sidewalks, intersections  
-- **Videos** — short clips to evoke atmosphere or movement  
-
-> All media must be **found online and embeddable**, such as from YouTube, Wikimedia Commons, or news sources.
-
-### Creative Planning  
-Sketch or list your ideas in your notebook or digital doc:  
-- Use keywords, color notes, textures, or embedded media links  
-- Begin shaping your map’s **emotional tone** and **symbolism**
-
----
-
-<h3 style="color: darkred;">[10 minutes] Group Submission: Preliminary Research Document</h3>
-
-Your document must include:  
-- Local mobility issue + 3–4 sentence description  
-- Annotated bibliography (APA format)  
-- Qualitative insights (2 per student)  
-- Brainstorming notes (visual strategy ideas: colors, textures, imagery)
-
-➡️ Export your document as a **PDF**   
-📄 **Filename:** `PreliminaryResearchDocument-Group-#.pdf`  
-📤 Submit on A2L before the end of the session
-
----
-
 <h3 style="color: darkred;">Learn How to Use StoryMapJS (Individual Work)</h3>
 
 Individually, access <a href="https://storymap.knightlab.com/" target="_blank" rel="noopener noreferrer">StoryMapJS</a> using a personal Google account.
@@ -130,6 +97,39 @@ Your **test StoryMapJS** must include:
 ➡️ Save your project link and export it in a **PDF** document.  
 📄 **Filename:** `TestProject-Lastname.pdf`  
 📤 Submit on A2L before the Grace Period ends.  
+
+---
+
+<h3 style="color: darkred;">[20 minutes] Brainstorming</h3>
+
+Add the following information on your share document (Word or Google Docs).  
+
+### Visual Representation  
+Discuss how the emotional and physical aspects of your mobility issue could be visualized through:
+- **Icons** — to symbolize key spaces or emotions  
+- **Images** — e.g., photos of streets, sidewalks, intersections  
+- **Videos** — short clips to evoke atmosphere or movement  
+
+> All media must be **found online and embeddable**, such as from YouTube, Wikimedia Commons, or news sources.
+
+### Creative Planning  
+Sketch or list your ideas in your notebook or digital doc:  
+- Use keywords, color notes, textures, or embedded media links  
+- Begin shaping your map’s **emotional tone** and **symbolism**
+
+---
+
+<h3 style="color: darkred;">Group Submission: Preliminary Research Document</h3>
+
+Your document must include:  
+- Local mobility issue + 3–4 sentence description  
+- Annotated bibliography (APA format)  
+- Qualitative insights (2 per student)  
+- Brainstorming notes (visual strategy ideas: colors, textures, imagery)
+
+➡️ Export your document as a **PDF**   
+📄 **Filename:** `PreliminaryResearchDocument-Group-#.pdf`  
+📤 Submit on A2L before the end of the session
 
 ---
 
