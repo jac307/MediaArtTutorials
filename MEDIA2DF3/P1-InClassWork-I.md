@@ -28,7 +28,7 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
 - Include **20–30 individual planes** arranged over a defined **base**.
   > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick) --charged to your **McMaster account**.
 - Apply at least **three** of the following design principles:  
-  *Form, Repetition, Structure, Similarity, Gradation, Radiation, Anomaly, Contrast, Concentration, Texture*.
+  *Form, Repetition, Structure, Similarity, Gradation, Radiation, Anomaly, Contrast, Concentration*.
 - Clearly define the **shape**, **dimensions**, and **spacing** of each plane.
 - Incorporate variation in **height**, **depth**, and **angle**.
 - Propose a **colour scheme** based on gradation.
