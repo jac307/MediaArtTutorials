@@ -47,6 +47,19 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
 
 ---
 
+<h2 style="color: darkred;"> Illustrator → Inkscape Workflow </h2>
+
+Use **Adobe Illustrator** and **Inkscape** to transform your sketches into vector-ready files for laser-cutting.
+
+### What is Inkscape?
+
+**Inkscape** is a free, open-source vector graphics editor similar to Adobe Illustrator. It allows you to design using precise **paths**, making it ideal for digital fabrication.
+
+While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist.  
+Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.
+
+---
+
 <h2 style="color: darkred;">[20 min] Individual Exercise – Illustrator → Inkscape Workflow Practice</h2>
 
 Before starting the group prototype, **each student** will complete a **short individual exercise** to practice the laser-cut file workflow.  
@@ -92,28 +105,37 @@ Follow this step-by-step tutorial:
 
 ---
 
-<h2 style="color: darkred;">[45–60 min] Digital Vector Setup in Inkscape: Lasser-Cutting Prep Files</h2>
+<h2 style="color: darkred;">[45–60 min] Group Work – Vector File Production for Laser-Cutting</h2>
 
-Use **Adobe Illustrator** and **Inkscape** to transform your sketches into vector-ready files for laser-cutting.
+Once everyone has completed the individual practice, your group will begin preparing the **actual vector files** for your collaborative design.
 
-### What is Inkscape?
+### Group Tasks
+- **Divide shapes among members** so each student is responsible for a section of the design.  
+- After dividing the shapes, **each group member** should create their shapes in a similar document as follows:
 
-**Inkscape** is a free, open-source vector graphics editor similar to Adobe Illustrator. It allows you to design using precise **paths**, making it ideal for digital fabrication.
+  1. **Open a new Adobe Illustrator file:**
+     - Size: Letter  
+     - Color Mode: RGB  
+     - Artboards: Choose the number of shapes you have  
 
-While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist.  
-Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.
+  2. **Create your vector shapes** (e.g., square, circle, or custom polygon):  
+     - Use **one artboard per shape**.  
+     - Do **not use fill**; set the stroke to **black (1 pt)**.  
+     - Each must be a **single closed shape** — use **Pathfinder** to combine multiple objects if needed.
+     - ⚠️ **Be careful with the measurements of your shapes!** Follow the **width and height** your group agreed on for each shape.  
 
-### Setup Guidelines:
-- **Divide tasks** evenly among group members.
-- Follow the **step-by-step Inkscape tutorial** provided below.
-- Use only **vector paths** (no fills or strokes).
-- Each birchwood plate must be represented in a **separate document** sized 24 × 12 in.
-- You must be **conscious of the measurements** of your planes.
-- Arrange and align all elements to maximize material use.
-- Save files as **.SVG**, named as:  
-  `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
+  3. **Export each shape as an `.SVG` file.**
 
-> ⚠️ Inkscape is mandatory, as it is the only format accepted by the laser-cutting equipment at Thode Makerspace.
+**Once all members finish**, import all shapes into a shared Inkscape document(s) to assemble the group’s full composition.  
+
+  4. Open a new document(s) sized **24 × 12 in** and **import your SVGs into Inkscape**  
+     - Each birchwood plate must be represented in a **separate 24 × 12 in document**.
+     - Carefully plan the **layout and spacing** to maximize use of the sheet and **avoid wasted material**.
+     - Prepare each file for **laser-cutting** by removing fills, setting stroke color to **Red (R=255, G=0, B=0)**, and adjusting the stroke width to **0.001 in (or 0.10 px)**.
+     - Save your Inkscape files as **.SVG**, named as: `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
+
+> ⚠️ The birchwood plates are **24 × 12 in** — ensure your compositions fit within this limit to avoid material waste.  
+> Double-check all **measurements, spacing, and layer organization** before saving.
 
 ---
 
