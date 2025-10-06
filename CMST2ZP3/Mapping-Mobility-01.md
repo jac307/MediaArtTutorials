@@ -47,7 +47,7 @@ With your group, open a share document (Word or Google Docs) and answer the foll
 
 ---
 
-<h3 style="color: darkred;">[45 minutes] Research and Data Gathering</h3>
+<h3 style="color: darkred;">[30 minutes] Research and Data Gathering</h3>
 
 Add the following information on your share document (Word or Google Docs).  
 
