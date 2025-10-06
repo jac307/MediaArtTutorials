@@ -47,9 +47,39 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
 
 ---
 
+<h2 style="color: darkred;">[20 min] Individual Exercise – Illustrator → Inkscape Workflow Practice</h2>
+
+Before starting the group prototype, **each student** will complete a **short individual exercise** to practice the laser-cut file workflow.  
+
+Follow the step-by-step tutorial provided in class or on Avenue. Overview:  
+
+1. Open New Adobe Illustrator file:
+   + Size: Letter  
+   + Color Mode: RGB  
+   + Artboards: 2  
+2. In Adobe Illustrator, create two simple vector shapes (e.g., square, circle, or custom polygon).
+   + Use one artboard per shape.  
+   + Don't use fill, set the stroke to black.
+   + Must be a single shape. Use patfinder to combine multiple objects into a single shape.  
+3. Export your shapes as .SVG files.
+4. Open a New Inkscape file:
+   + Units: Inches
+   + Size: 24 × 12 in
+   + Color Mode: RGB
+   + Artboards: 1
+6. Import the SVGs into Inkscape and prepare them for laser-cutting by:
+   + Remove all fills
+   + Set the colour to R=255, G,B, and Opacity should be 0
+   + Setting stroke = 0.10 **pixels**
+9. Aligning them on a 24 × 12 in canvas
+
+Saving your file as:
+
+---
+
 <h2 style="color: darkred;">[45–60 min] Digital Vector Setup in Inkscape: Lasser-Cutting Prep Files</h2>
 
-Use **Inkscape** to transform your sketch into vector-ready files for laser-cutting.
+Use **Adobe Illustrator** and **Inkscape** to transform your sketches into vector-ready files for laser-cutting.
 
 ### What is Inkscape?
 
