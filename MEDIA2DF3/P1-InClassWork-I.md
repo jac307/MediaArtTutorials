@@ -50,30 +50,45 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
 <h2 style="color: darkred;">[20 min] Individual Exercise – Illustrator → Inkscape Workflow Practice</h2>
 
 Before starting the group prototype, **each student** will complete a **short individual exercise** to practice the laser-cut file workflow.  
+> ⚠️ **Before leaving class**, you must **show your test file to the instructor** to receive comments and troubleshooting feedback.
 
-Follow the step-by-step tutorial provided in class or on Avenue. Overview:  
+Follow this step-by-step tutorial:    
 
-1. Open New Adobe Illustrator file:
-   + Size: Letter  
-   + Color Mode: RGB  
-   + Artboards: 2  
-2. In Adobe Illustrator, create two simple vector shapes (e.g., square, circle, or custom polygon).
-   + Use one artboard per shape.  
-   + Don't use fill, set the stroke to black.
-   + Must be a single shape. Use patfinder to combine multiple objects into a single shape.  
-3. Export your shapes as .SVG files.
-4. Open a New Inkscape file:
-   + Units: Inches
-   + Size: 24 × 12 in
-   + Color Mode: RGB
-   + Artboards: 1
-6. Import the SVGs into Inkscape and prepare them for laser-cutting by:
-   + Remove all fills
-   + Set the colour to R=255, G,B, and Opacity should be 0
-   + Setting stroke = 0.10 **pixels**
-9. Aligning them on a 24 × 12 in canvas
+### Overview
 
-Saving your file as:
+1. **Open a new Adobe Illustrator file:**
+   - Size: Letter  
+   - Color Mode: RGB  
+   - Artboards: 2  
+
+2. **Create two simple vector shapes** (e.g., square, circle, or custom polygon):  
+   - Use **one artboard per shape**.  
+   - Do **not use fill**; set the stroke to **black (1 pt)**.  
+   - Each must be a **single closed shape** — use **Pathfinder** to combine multiple objects if needed.  
+
+3. **Export each shape as an `.SVG` file.**
+
+4. **Open a new Inkscape file:**
+   - Units: Inches  
+   - Page Size: **24 × 12 in**  
+   - Color Mode: RGB  
+   - Artboards: 1  
+
+5. **Import the SVGs into Inkscape** and prepare them for laser-cutting:
+   - Remove all fills.  
+   - Set the stroke color to **Red (R=255, G=0, B=0)**.  
+   - Opacity should be **100%**.  
+   - Set **stroke width = 0.001 in** (or **0.10 px** if your version uses pixels).  
+
+6. **Align both shapes** within the 24 × 12 in canvas.  
+
+7. **Save your Inkscape file** as SVG. No unique name required.
+
+8. **Add your name** to the waiting list for the professor to check your file before you leave class.  
+*No submission is required for this activity.*
+
+> ⚠️ **Before leaving class**, you must **show your test file to the instructor** to receive comments and troubleshooting feedback.  
+> This ensures your workflow and file setup are correct before starting the group design.
 
 ---
 
