@@ -112,26 +112,24 @@ Once everyone has completed the individual practice, your group will begin prepa
 - **Divide shapes among members** so each student is responsible for a section of the design.  
 - After dividing the shapes, **each group member** should create their shapes in a similar document as follows:
 
-  1. **Open a new Adobe Illustrator file:**
-     - Size: Letter  
-     - Color Mode: RGB  
-     - Artboards: Choose the number of shapes you have  
+1. **Open a new Adobe Illustrator file:**
+   - Size: Letter  
+   - Color Mode: RGB  
+   - Artboards: Choose the number of shapes you have  
 
-  2. **Create your vector shapes** (e.g., square, circle, or custom polygon):  
-     - Use **one artboard per shape**.  
-     - Do **not use fill**; set the stroke to **black (1 pt)**.  
-     - Each must be a **single closed shape** — use **Pathfinder** to combine multiple objects if needed.
-     - ⚠️ **Be careful with the measurements of your shapes!** Follow the **width and height** your group agreed on for each shape.  
+2. **Create your vector shapes** (e.g., square, circle, or custom polygon):  
+   - Use **one artboard per shape**.  
+   - Do **not use fill**; set the stroke to **black (1 pt)**.  
+   - Each must be a **single closed shape** — use **Pathfinder** to combine multiple objects if needed.
+   - ⚠️ **Be careful with the measurements of your shapes!** Follow the **width and height** your group agreed on for each shape.  
 
-  3. **Export each shape as an `.SVG` file.**
+3. **Export each shape as an `.SVG` file.**
 
-**Once all members finish**, import all shapes into a shared Inkscape document(s) to assemble the group’s full composition.  
-
-  4. Open a new document(s) sized **24 × 12 in** and **import your SVGs into Inkscape**  
-     - Each birchwood plate must be represented in a **separate 24 × 12 in document**.
-     - Carefully plan the **layout and spacing** to maximize use of the sheet and **avoid wasted material**.
-     - Prepare each file for **laser-cutting** by removing fills, setting stroke color to **Red (R=255, G=0, B=0)**, and adjusting the stroke width to **0.001 in (or 0.10 px)**.
-     - Save your Inkscape files as **.SVG**, named as: `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
+4. **Once all members finish**, import all shapes into a shared Inkscape document(s) to assemble the group’s full composition. Open a new document(s) sized **24 × 12 in** and **import your SVGs into Inkscape**  
+   - Each birchwood plate must be represented in a **separate 24 × 12 in document**.
+   - Carefully plan the **layout and spacing** to maximize use of the sheet and **avoid wasted material**.
+   - Prepare each file for **laser-cutting** by removing fills, setting stroke color to **Red (R=255, G=0, B=0)**, and adjusting the stroke width to **0.001 in (or 0.10 px)**.
+   - Save your Inkscape files as **.SVG**, named as: `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
 
 > ⚠️ The birchwood plates are **24 × 12 in** — ensure your compositions fit within this limit to avoid material waste.  
 > Double-check all **measurements, spacing, and layer organization** before saving.
