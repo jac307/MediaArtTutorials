@@ -73,10 +73,10 @@ Follow this step-by-step tutorial:
    - Color Mode: RGB  
    - Artboards: 2  
 
-2. **Create two simple vector shapes** (e.g., square, circle, or custom polygon):  
+2. **Create two simple composed vector shapes** combining two shapes together using the *Relationships of Form*:  
    - Use **one artboard per shape**.  
    - Do **not use fill**; set the stroke to **black (1 pt)**.  
-   - Each must be a **single closed shape** — use **Pathfinder** to combine multiple objects if needed.  
+   - Each must be a **single closed shape** — use **Pathfinder** to combine multiple shapes.  
 
 3. **Export each shape as an `.SVG` file.**
 
