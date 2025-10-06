@@ -27,7 +27,7 @@ Create a 1-minute narrative using simulated digital interactions (e.g., SMS, soc
 
 Investigate a mobility issue in Hamilton and design a digital sensorial map that blends public data with emotional and visual insights.
 
-<!--+ [Mapping of Local Mobility Issues  - Session 1](Mapping-Mobility-01.md)-->
++ [Mapping of Local Mobility Issues  - Session 1](Mapping-Mobility-01.md)
 <!--+ [Mapping of Local Mobility Issues  - Session 2](Mapping-Mobility-02.md)-->
 
 ---
