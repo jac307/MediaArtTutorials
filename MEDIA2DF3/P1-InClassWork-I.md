@@ -57,6 +57,15 @@ Use **Adobe Illustrator** and **Inkscape** to transform your sketches into vecto
 
 While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist. Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.  
 
+### Adobe Illustrator
+
+Use the previous tutorials + this new tutorial on Rulers and Grid to complete this project.
+
++ [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
++ [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
+
+<iframe src="https://www.iorad.com/player/2622699/Adobe-Illustrator-9--Rulers--Grids--and-Snap-to-Grid?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
 ---
 
 <h2 style="color: darkred;">[20 min] Individual Exercise – Illustrator → Inkscape Workflow Practice</h2>
