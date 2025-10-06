@@ -135,7 +135,8 @@ Your document must include:
 
 <h3 style="color: darkred;">Before the Next Session</h3>
 
-- Complete your **individual submission** (Test Project PDF)  
+- Complete your **individual submission** (Test Project PDF)
+- Visit the space you selected and gather personal insights (feelings, emotions, comments)  
 - Ensure your group’s brainstorming and qualitative insights are complete  
 - Do not begin editing your final StoryMap yet — that will happen next session
 
