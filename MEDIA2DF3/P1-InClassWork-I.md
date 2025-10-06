@@ -55,8 +55,7 @@ Use **Adobe Illustrator** and **Inkscape** to transform your sketches into vecto
 
 **Inkscape** is a free, open-source vector graphics editor similar to Adobe Illustrator. It allows you to design using precise **paths**, making it ideal for digital fabrication.
 
-While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist.  
-Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.
+While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist. Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.  
 
 ---
 
