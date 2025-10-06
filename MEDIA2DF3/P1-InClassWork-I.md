@@ -22,9 +22,13 @@ In this session, your group will collaboratively **plan and prototype** a three-
 
 <h2 style="color: darkred;">[30 min] Brainstorming & Concept Sketching</h2>
 
-Work together to generate ideas for your composition, inspired by **Wong’s Elements of Two-Dimensional Design** and sculptural principles of **form through repetition**. Create a Brainstorming document where you can add notes + sketches.  
+Work together to generate ideas for your composition, inspired by **Wong’s Elements of Two-Dimensional Design** and sculptural principles of **form through repetition**.  
 
-### Your group sketch must:
+Create a **Brainstorming Document** that includes **both written notes and sketches**.  
+Use it to record your group’s **concepts, visual ideas, and initial layout planning**.  
+Each team member should actively contribute written ideas and at least one quick sketch.
+
+### Your group sketch and notes must:
 - Include **20–30 individual planes** arranged over a defined **base**.
   > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick) --charged to your **McMaster account**.
 - Apply at least **three** of the following design principles:  
@@ -44,6 +48,8 @@ Work together to generate ideas for your composition, inspired by **Wong’s Ele
   - **Hue** → controls colour change
   - **Saturation** → intensity of each step
   - **Value** → brightness and darkness across the range
+
+> ✏️ Your Brainstorming Document should combine **hand sketches**, **digital mockups**, and **written notes** that explain your visual decisions. You will submit this document at the end of class.
 
 ---
 
