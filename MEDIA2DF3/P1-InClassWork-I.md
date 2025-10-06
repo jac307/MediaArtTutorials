@@ -20,9 +20,9 @@ In this session, your group will collaboratively **plan and prototype** a three-
 
 ---
 
-<h2 style="color: darkred;">[30–40 min] Brainstorming & Concept Sketching</h2>
+<h2 style="color: darkred;">[30 min] Brainstorming & Concept Sketching</h2>
 
-Work together to generate ideas for your composition, inspired by **Wong’s Elements of Two-Dimensional Design** and sculptural principles of **form through repetition**.
+Work together to generate ideas for your composition, inspired by **Wong’s Elements of Two-Dimensional Design** and sculptural principles of **form through repetition**. Create a Brainstorming document where you can add notes + sketches.  
 
 ### Your group sketch must:
 - Include **20–30 individual planes** arranged over a defined **base**.
