@@ -33,6 +33,7 @@ Each team member should actively contribute written ideas and at least one quick
   > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick) --charged to your **McMaster account**.
 - Apply at least **three** of the following design principles:  
   *Form, Repetition, Structure, Similarity, Gradation, Radiation, Anomaly, Contrast, Concentration*.
+  > For reference, check: [Elements of Design Cheatsheet](imgs/Elements-Of-Design-CheatSheet.pdf)
 - Clearly define the **shape**, **dimensions** (width and height), and **spacing** of each plane.
 - Incorporate variation in **height**, **depth**, and/or **angle**.
 - Propose a **colour scheme** based on gradation (see below).  
@@ -65,7 +66,7 @@ While we are using Inkscape because it is **required by the Thode Makerspace**, 
 
 ### Adobe Illustrator
 
-Use the previous tutorials + this new tutorial on Rulers and Grid to complete this project.
+Use the previous tutorials + this new tutorial to complete this project.
 
 + [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
 + [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
@@ -145,7 +146,7 @@ Once everyone has completed the individual practice, your group will begin prepa
 4. **Once all members finish**, import all shapes into a shared Inkscape document(s) to assemble the group’s full composition. Open a new document(s) sized **24 × 12 in** and **import your SVGs into Inkscape**  
    - Each birchwood plate must be represented in a **separate 24 × 12 in document**.
    - Carefully plan the **layout and spacing** to maximize use of the sheet and **avoid wasted material**.
-   - Prepare each file for **laser-cutting** by removing fills, setting stroke color to **Red (R=255, G=0, B=0)**, and adjusting the stroke width to **0.001 in (or 0.10 px)**.
+   - Prepare each file for **laser-cutting** by removing fills, setting stroke color to **Red (R=255, G=0, B=0)**, setting **Opacity=100%**, and adjusting the stroke width to **0.001 in (or 0.10 px)**.
    - Save your Inkscape files as **.SVG**, named as: `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
 
 > ⚠️ The birchwood plates are **24 × 12 in** — ensure your compositions fit within this limit to avoid material waste.  
