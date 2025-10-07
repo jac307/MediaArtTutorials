@@ -25,13 +25,39 @@ In this session, you will move from digital preparation to **material production
 
 ---
 
-<h2 style="color: darkred;">Laser Cutting Session (45–60 min)</h2>
+<h2 style="color: darkred;">Colour Mixing & Gradient Design (45–60 min)</h2>
+
+Your group will applied your **gradient effect across your entire composition**, using **solid colours** assigned **one per plane** to simulate colour flow and variation.
+
+### Colour Mixing Rules:
+- All colours must be **hand-mixed**—no pre-mixed paints allowed. Allow paints: **red, yellow, blue, white, and black**
+- Mix your full palette in advance before applying colour to the pieces
+- Mix **enough paint for at least 2–3 coats** per shape.  
+- Store your mixed colours in the **required labeled containers** for later use and touch-ups.
+
+### Follow these tips for Successful Colour Design:
+- Mix **small test batches** before committing to full sets
+- Plan your **gradient transitions on paper** before painting
+
+---
+
+<h3 style="color: darkred;">📥 Submission</h3>
+
+1. Upload a photo of your **final colour palette + HSV breakdown** to Avenue to Learn using the provided format.  
+   - **Naming Protocol**: `Group-#-ColorPalette.pdf`
+
+Check the rest of the instruction below as well as the [Final Submission Guidelines](P1-Final-Submission.md)
+
+> 📌 **Failure to follow file setup or naming instructions may result in a grade deduction.**
+
+---
+
+<h2 style="color: darkred;">Laser Cutting Session (2-3 hours) </h2>
 
 Each group will meet their scheduled appointment at the **Thode Makerspace** to complete the laser-cutting of their designs.
 
 ### Reminders:
 - The instructor will be present during these sessions.  
-- 📤 You must upload your **ready-to-print files** to **Avenue to Learn** by the required deadline.
 - Carefully handle and collect your cut birchwood pieces.
 - Keep track of any small components or connectors.
 
@@ -55,36 +81,12 @@ Allow the white base coat to **fully dry** before moving to colour application.
 
 ---
 
-<h2 style="color: darkred;">Colour Mixing & Gradient Design</h2>
+<h2 style="color: darkred;">Colour Application</h2>
 
-After prepping your pieces, your group will applied your **gradient effect across your entire composition**, using **solid colours** assigned **one per plane** to simulate colour flow and variation.
-
-### Colour Mixing Rules:
-- All colours must be **hand-mixed**—no pre-mixed paints allowed. Allow paints: **red, yellow, blue, white, and black**
-- Mix your full palette in advance before applying colour to the pieces
-- Mix **enough paint for at least 2–3 coats** per shape.  
-- Store your mixed colours in the **required labeled containers** for later use and touch-ups.
-
-> ⚠️ Do not paint blended gradients directly onto the wood. Each piece must be a **clean solid colour**.
-
-### Follow these tips for Successful Colour Design:
-- Mix **small test batches** before committing to full sets
-- Plan your **gradient transitions on paper** before painting
+Follow these tips for Successful Colour Design:  
 - You **must** apply a base coat of **white** before any colour
 - Keep brush strokes **smooth and consistent**
 - Apply **2–3 thin layers** for full, even coverage
 - Allow each layer to **fully dry** before continuing
 
 ---
-
-<h3 style="color: darkred;">📥 Submission</h3>
-
-1. Upload a photo of your **final colour palette + HSV breakdown** to Avenue to Learn using the provided format.  
-   - **Naming Protocol**: `Group-#-ColorPalette.pdf`
-
-2. Make sure all your cut shapes are **complete** and that you **begin sanding them** during this session.
-   > This item will be **graded in-person**.
-
-Check [Final Submission Guidelines](P1-Final-Submission.md)
-
-> 📌 **Failure to follow file setup or naming instructions may result in a grade deduction.**
