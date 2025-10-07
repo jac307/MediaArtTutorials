@@ -70,6 +70,7 @@ Use the previous tutorials + this new tutorial to complete this project.
 
 + [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
 + [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
++ [Adobe Illustrator Shortcuts](shortcuts.md)
 
 <iframe src="https://www.iorad.com/player/2622699/Adobe-Illustrator-9--Rulers--Grids--and-Snap-to-Grid?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
