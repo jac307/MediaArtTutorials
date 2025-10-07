@@ -18,6 +18,9 @@ The course concludes with a public exhibition of student work.
 <!--+ [Composition Techniques III - Part 2](Comp-Tech-3-Part2.md)-->
 <!--+ [Composition Techniques IV](Comp-Tech-4.md)-->
 
+
++ [Adobe Illustrator Shortcuts](shortcuts.md)
+
 ---
 
 ## Projects
