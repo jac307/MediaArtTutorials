@@ -2,9 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Adobe Illustrator Shortcuts</h1>
-
-# 🎨 Basic Adobe Illustrator Shortcuts
+<h1 style="color: darkred;">Basic Adobe Illustrator Shortcuts</h1>
 
 A quick reference guide to help you navigate and create efficiently in Adobe Illustrator — perfect for Project 1 workflows.
 
