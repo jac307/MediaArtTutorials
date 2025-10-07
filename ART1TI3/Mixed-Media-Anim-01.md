@@ -136,12 +136,13 @@ Start by converting your video into still frames using the tutorial provided.
 
 <iframe src="https://www.iorad.com/player/2600841/DaVinci-Resolve--Export-video-as-sequence-of-images?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-Then, divide the frames evenly among your group.  
+You should get 480 frames or individual images after exporting your video.  
+Divide the frames evenly among your group. Each student must have 160 frames/images.   
 Each student will design their own printable grid layout using their assigned frames:
 
 - **Paper Size:** Letter (8.5 × 11 in)  
 - **Orientation:** Portrait or Landscape  
-- **Maximum:** 2 columns per page  
+- **Maximum:** 2 columns per page, 8 images in total per page.  
 - Keep all frames evenly spaced and the same size  
 - Suggested tools: PowerPoint, Keynote, Canva, Google Slides, etc.
 
