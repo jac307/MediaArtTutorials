@@ -55,15 +55,7 @@ A quick reference guide to help you navigate and create efficiently in Adobe Ill
 | Duplicate | **Opt + Drag** | **Alt + Drag** |
 | Constrain Proportions | **Shift (while dragging)** | **Shift (while dragging)** |
 
----
-
-## 🧩 Pathfinder & Shape Builder
-
-| Action | Mac | Windows |
-|--------|-----|----------|
-| Combine Shapes (Unite) | **Shift + Cmd + F9 → Click Unite** | **Shift + Ctrl + F9 → Click Unite** |
-| Shape Builder Tool | **Shift + M** | **Shift + M** |
-| Pathfinder Panel | **Shift + Cmd + F9** | **Shift + Ctrl + F9** |
+✨ **Tip:** Hold **Shift** while drawing with shape tools (e.g., rectangles, ellipses) to maintain perfect proportions.
 
 ---
 
@@ -76,9 +68,5 @@ A quick reference guide to help you navigate and create efficiently in Adobe Ill
 | Save | **Cmd + S** | **Ctrl + S** |
 | Save As | **Cmd + Shift + S** | **Ctrl + Shift + S** |
 | Export | **Cmd + E** | **Ctrl + E** |
-
----
-
-✨ **Tip:** Hold **Shift** while drawing with shape tools (e.g., rectangles, ellipses) to maintain perfect proportions.
 
 ---
