@@ -95,7 +95,7 @@ Choose and prepare all elements that will visually communicate your findings.
 
 <h3 style="color: darkred;">[50 minutes] Create Your Physical Map</h3>
 
-After reading about Tiffany Chung’s *Vietnam Exodus Project*, students will produce a **Physical Map** that reflects both **data** and **experience**.  
+After reading about Tiffany Chung’s *Vietnam Exodus Project*, students will create a **Physical Map** that represents both **data** and **lived experience**. This map serves as a **reflective translation** of the digital StoryMap, exploring how color, texture, and layering can convey meanings and emotions that data—such as statistics, photos, or videos—alone cannot.  
 
 ### Step 1: Brainstorm
 - In groups, discuss what aspects of your research could be represented physically (movement, obstacles, emotion, memory).  
@@ -108,7 +108,9 @@ Use the provided materials to build a large collaborative map. You may:
 - Annotate with keywords, phrases, or visual symbols  
 
 > Like Tiffany Chung, allow both factual and emotional storytelling to coexist in your design.
-> You must give your physical maps to the instructor.  
+
+➡️ Submission Note:  
+At the end of the session, you must **submit your physical map to the instructor** for documentation and evaluation. Make sure your group name and project title are written clearly on the back or corner of the map.  
 
 ---
 
