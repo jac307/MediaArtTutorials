@@ -146,6 +146,7 @@ Update your existing Research Document (from Session 1) and include the followin
 |------------------------------|---------------------------------|-----------------|
 | Updated Research Document    | `ResearchDocument-Group-#.pdf`  | One per group   |
 | StoryMapJS Project Link      | (in research document)          | One per group   |
+| Photo of Physical Map        | (in research document)          | One per group   |
 | Self-Assessment Form         | `SelfAssessment-Group-#.pdf`    | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
