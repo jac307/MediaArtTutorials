@@ -13,7 +13,8 @@
 </figure>
 
 ## Objective  
-Students will translate the qualitative and public data insights gathered in Session 1 into a **Digital Sensorial Map** using StoryMapJS.
+Students will translate the qualitative and public data insights gathered in Session 1 into a **Digital Sensorial Map** using StoryMapJS.  
+They will also create a **Physical Map**, inspired by Tiffany Chung’s artistic practice to explore how materials, texture, and layering shape meaning in spatial storytelling.
 
 > **Note:** *“Sensorial mapping”* means using creative elements like colours, textures, symbols, and imagery to evoke the emotional and sensory experiences associated with specific locations and mobility challenges—not just plotting streets or routes.
 
@@ -26,6 +27,7 @@ Students will translate the qualitative and public data insights gathered in Ses
 - Digital or physical notebook  
 - <a href="https://storymap.knightlab.com/" target="_blank" rel="noopener noreferrer">StoryMapJS</a> (login using personal Google account)
 - [Mapping Local Mobility Issues Self Assessment Form](materials/3.MappingLocalMobility-Self-Assessment.pdf){:target="_blank"}
+- **For Physical Map Activity:** Large paper, cardboard, recycled maps, string, thread, markers, tape, glue sticks, tracing paper, acetate sheets, collage materials
 
 ---
 
@@ -34,7 +36,7 @@ Students will translate the qualitative and public data insights gathered in Ses
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] Quick Review, Planning, and Content Definition</h3>
+<h3 style="color: darkred;">[20 minutes] Quick Review, Planning, and Content Definition</h3>
 
 Improve and add the following information on your share document (Word or Google Docs).  
 
@@ -91,16 +93,36 @@ Choose and prepare all elements that will visually communicate your findings.
 
 ---
 
+<h3 style="color: darkred;">[50 minutes] Create Your Physical Map</h3>
+
+After reading about Tiffany Chung’s *Vietnam Exodus Project*, students will produce a **Physical Map** that reflects both **data** and **experience**.  
+
+### Step 1: Brainstorm
+- In groups, discuss what aspects of your research could be represented physically (movement, obstacles, emotion, memory).  
+- Consider layering, transparency, or collage to express overlapping experiences.
+
+### Step 2: Create Your Physical Map
+Use the provided materials to build a large collaborative map. You may:
+- Combine drawn, printed, and collaged elements  
+- Include thread, string, or other tactile materials to show paths or networks  
+- Annotate with keywords, phrases, or visual symbols  
+
+> Like Tiffany Chung, allow both factual and emotional storytelling to coexist in your design.
+> You must give your physical maps to the instructor.  
+
+---
+
 <h3 style="color: darkred;">[15 minutes] Finalize Research Document</h3>
 
-Update your existing Research Document and include the following:
+Update your existing Research Document (from Session 1) and include the following:
 
 - Your selected **mobility issue + 3–4 sentence description**  
-- ❗ **New:** Digital Sensorial Map **link**  
+- ❗ **New:** Digital Sensorial Map **link**
+- ❗ **New:** Physical Sensorial Map **photo**  
 - Annotated bibliography (APA format, 3–4 sources)  
 - Qualitative insights (2 per student)  
 - Brainstorming notes  
-- ❗ **New:** Brief explanation of your **visual decisions**  
+- ❗ **New:** Brief explanation of your **visual decisions** for both, the digital and physical applications. 
   > Why did you choose these icons, colors, emojis, images, or video?
 
 ➡️ Export your document as a **PDF**   
