@@ -25,7 +25,7 @@ Create an experimental video using only photographic close-up footage of the uni
 Animate a sequence using printed frames and physical materials (paint, paper, thread, etc.) to create a mixed-media video.
 
 + [Mixed Media Animation  - Part 1](Mixed-Media-Anim-01.md)
-<!--+ [Mixed Media Animation  - Part 2](Mixed-Media-Anim-02.md)-->
++ [Mixed Media Animation  - Part 2](Mixed-Media-Anim-02.md)
 <!--+ [Mixed Media Animation  - Part 3](Mixed-Media-Anim-03.md)-->
 
 ---
