@@ -43,7 +43,7 @@ Your group will applied your **gradient effect across your entire composition**,
 
 <h3 style="color: darkred;">📥 Submission</h3>
 
-1. Upload a photo of your **final colour palette + HSV breakdown** to Avenue to Learn using the provided format.  
+1. Upload a photo of your **final colour palette ** to Avenue to Learn using the provided format.  
    - **Naming Protocol**: `Group-#-ColorPalette.pdf`
 
 Check the rest of the instruction below as well as the [Final Submission Guidelines](P1-Final-Submission.md)
