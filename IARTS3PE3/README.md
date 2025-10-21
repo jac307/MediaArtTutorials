@@ -39,7 +39,7 @@ The work may take any **medium or format** (performance, installation, sound art
 - Link the work to course themes, personal perspectives, and research sources.  
 
 #### Index  
-<!--+ [Week 7](P2-W7.md) — Artist/Collective Inspiration & Concept Seeding -->
++ [Week 7](P2-W7.md) — Artist/Collective Inspiration & Concept Seeding
 <!--+ [Week 8](P2-W8.md) — Artistic Translation: Style & Process Research  -->
 <!--+ [Week 9](P2-W9.md) — First Iteration: Bringing the Concept to Life -->
 <!--+ [Week 10](P2-W10.md) — Refinement & Public Presentation Prep  -->
