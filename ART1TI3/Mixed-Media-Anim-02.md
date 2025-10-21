@@ -73,7 +73,7 @@ After completing your analogue interventions, you must **scan or photograph** ea
 - Use a plain white or neutral background
 
 ➡️ Bring the **digitized frames** as individual images (not a single image of a full grid) to class for *Part 3*.  
-⚠️ Failure to bring your printed frames will result in a grade deduction.
+⚠️ Failure to bring your digitalized frames will result in a grade deduction.
 
 ---
 
@@ -83,7 +83,7 @@ After completing your analogue interventions, you must **scan or photograph** ea
 |------------|---------------------------------|-----------------|
 | Individual | `LastName-FirstName-Frames.pdf` | Each student    |
 
-📄 Submit a **PDF containing altered 10 digitized frames**.
+📄 Submit a **PDF containing altered 10 digitized frames that best represent your work**.
 
 > ⚠️ **Use exact filenames. Incorrect submissions may result in lost points.**
 
