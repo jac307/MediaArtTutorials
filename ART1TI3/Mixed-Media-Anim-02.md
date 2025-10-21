@@ -72,7 +72,7 @@ After completing your analogue interventions, you must **scan or photograph** ea
 - Avoid shadows, distortion, or reflections  
 - Use a plain white or neutral background
 
-➡️ Bring the **digitized frames** as individual images (not a single image of a full grid) to class for *Part 3*.  
+➡️ Bring the **digitized frames** as individual images to class for *Part 3*.  
 ⚠️ Failure to bring your digitalized frames will result in a grade deduction.
 
 ---
