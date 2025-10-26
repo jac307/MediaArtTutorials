@@ -37,12 +37,12 @@ Investigate a mobility issue in Hamilton and design a digital sensorial map that
 Completed in groups of 3–4, this multi-week project includes class-weekly activities, progress check-ins, and a final deliverable/class-showcase. Attendance, participation, and collaborative contribution are essential and graded individually and collectively.
 
 ### Option 1: Cyborg Storytelling using Augmented Reality
-<!--[Cyborg Storytelling using Augmented Reality](Cyborg-Storytelling.md)-->
+[Cyborg Storytelling using Augmented Reality](Cyborg-Storytelling.md)
 
 Explore the human–technology relationship through a cyborg lens. Using individual research and the Pictarize AR platform, your group will create a speculative storybook that blends analogue materials with digital overlays and reflects themes such as retro-futurism and BIPOC futurism.
 
 ### Option 2: Glitching tools - AI data poisoning
-<!--[Glitching tools - AI data poisoning](AI-Data-Poisioning.md)-->
+[Glitching tools - AI data poisoning](AI-Data-Poisioning.md)
 
 Use adversarial prompting, Nightshade data poisoning, and AI remixing tools to create a series of glitch-based images. This option emphasizes the creative and ethical implications of manipulating AI-generated media to disrupt machine perception and explore speculative aesthetics.
 
