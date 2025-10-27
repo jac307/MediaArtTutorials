@@ -26,7 +26,7 @@ Animate a sequence using printed frames and physical materials (paint, paper, th
 
 + [Mixed Media Animation  - Part 1](Mixed-Media-Anim-01.md)
 + [Mixed Media Animation  - Part 2](Mixed-Media-Anim-02.md)
-<!--+ [Mixed Media Animation  - Part 3](Mixed-Media-Anim-03.md)-->
++ [Mixed Media Animation  - Part 3](Mixed-Media-Anim-03.md)
 
 ---
 
