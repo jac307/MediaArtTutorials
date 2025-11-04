@@ -96,7 +96,7 @@ Then:
 
 ---
 
-<h3 style="color: darkred;">📤 Submissions on Journal</h3>
+<h3 style="color: darkred;">📤 Submissions on Journal (Online Document)</h3>
 
 | Type       | Description                          | Who Submits     |
 |------------|--------------------------------------|-----------------|
