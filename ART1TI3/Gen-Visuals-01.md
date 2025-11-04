@@ -87,7 +87,7 @@ Each student must complete the following Hydra tutorials:
 Then:
 
 - Experiment freely with different **sources** and **transformations**  
-- Take **screenshots of at least 10 unique experiments**  
+- Take **screenshots of at least 5 unique experiments**  
 - Paste them into your individual section of the journal  
 - For each screenshot, include a **4–5 sentence reflection**:
   - What challenges did you face?  
