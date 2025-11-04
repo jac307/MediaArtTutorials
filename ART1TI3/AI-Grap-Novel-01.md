@@ -82,7 +82,7 @@ Each student must complete the following:
 
 #### ✅ Tutorials & Resources
  
-- **Read:** Hafidz Zulkifli's article *[Writing Stories with Illustrations with GPT-3 and DALL-E — A Short Exploration](https://hafidz.medium.com/writing-stories-with-illustrations-with-gpt-3-and-dall-e-9b17fe409442){:target="_blank"}*  
+- **Read:** Hafidz Zulkifli's article *[Writing Stories with Illustrations with GPT-3 and DALL-E — A Short Exploration](imgs/Article-Copilot.pdf){:target="_blank"}*  
  > Full PDF is attached on the Avenue To Learn Submission Folder.
 - **Learn Prompting:**
 
