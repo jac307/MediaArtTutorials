@@ -45,7 +45,7 @@ Ensure that editing access is granted to both group members.
 
 ---
 
-<h3 style="color: darkred;">[20 min] Conceptualize Your Project</h3>
+<h3 style="color: darkred;">[20 min] Conceptualize Your Project (Group Work)</h3>
 
 In your journal (under **"General Notes"**), answer the following:  
 > Add the **date** at the beginning of this entry.
@@ -76,7 +76,7 @@ This is your only **Avenue To Learn** submission for this session.
 
 ---
 
-<h3 style="color: darkred;">[1h] Learn & Experiment</h3>
+<h3 style="color: darkred;">[1h] Learn & Experiment (Individual Work)</h3>
 
 Each student must complete the following:
 
