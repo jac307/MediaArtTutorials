@@ -79,10 +79,10 @@ This is your only **Avenue To Learn** submission for this session.
 
 Each student must complete the following Hydra tutorials:
 
-- [Hydra: Intro](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-Intro.html){:target="_blank"}  
-- [Hydra: Transformers](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-TranformPatterns.html){:target="_blank"}  
-- [Hydra: Modulators and Operators](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-AdvanceReferences.html){:target="_blank"}  
-- [Hydra Cheatsheet](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-Cheatsheet.html){:target="_blank"}
+- [Hydra: Intro](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Intro.html){:target="_blank"}  
+- [Hydra: Transformers](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Transformers.html){:target="_blank"}  
+- [Hydra: Modulators and Operators](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-AdvanceReferences.html){:target="_blank"}  
+- [Hydra Cheatsheet](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Cheatsheet.html){:target="_blank"}
 
 Then:
 
