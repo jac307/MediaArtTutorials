@@ -30,7 +30,7 @@ Animate a sequence using printed frames and physical materials (paint, paper, th
 
 ---
 
-## Mixed Media Animation (Groups of three students)
+## Project 3 (In pairz)
 
 Generative visuals or AI-generated Graphic Novel. Choose one of these two options.
 
