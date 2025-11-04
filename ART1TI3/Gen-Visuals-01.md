@@ -31,7 +31,7 @@ Students will explore **generative visuals** by experimenting with **Hydra** via
 
 ---
 
-<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
+<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal (Group Work) </h3>
 
 Create a shared document with the following tabs/sections:
 
@@ -75,7 +75,7 @@ This is your only **Avenue To Learn** submission for this session.
 
 ---
 
-<h3 style="color: darkred;">[1h] Learn & Experiment</h3>
+<h3 style="color: darkred;">[1h] Learn & Experiment (Individual Work) </h3>
 
 Each student must complete the following Hydra tutorials:
 
