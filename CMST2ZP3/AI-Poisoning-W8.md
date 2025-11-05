@@ -34,7 +34,7 @@ They will define a specific research angle, select and annotate relevant sources
 
 ---
 
-<h3 style="color: darkred;">[5 minutes] Topic Selection</h3>
+<h3 style="color: darkred;">[5 minutes] Topic Selection (Collaborative Work)</h3>
 
 With your **group**, divide the four themes so that **each student focuses on one**:
 
@@ -51,7 +51,7 @@ Once themes are chosen, students **work independently** for the remainder of thi
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] Research Angle + Source Planning</h3>
+<h3 style="color: darkred;">[30 minutes] Research Angle + Source Planning (Individual Work)</h3>
 
 Open a document (Word or Google Docs) and **Identify and Skim Potential Sources**:  
 
@@ -71,7 +71,7 @@ Look for reliable public-facing media such as:
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] Select Final Sources + Annotated Bibliography</h3>
+<h3 style="color: darkred;">[30 minutes] Select Final Sources + Annotated Bibliography (Individual Work)</h3>
 
 Choose:
 - **1 academic source**  
