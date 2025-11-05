@@ -29,7 +29,7 @@ Students will complete their **individual research reports** on AI data poisonin
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] Research Report </h3>
+<h3 style="color: darkred;">[30 minutes] Research Report (Individual Work)</h3>
 
 Individually, update and finalize your **Research Report** with the following:
 
@@ -52,7 +52,7 @@ Individually, update and finalize your **Research Report** with the following:
 
 ---
 
-<h3 style="color: darkred;">[60 minutes] AI Data Poisoning Workflow + Process Journal </h3>
+<h3 style="color: darkred;">[60 minutes] AI Data Poisoning Workflow + Process Journal (Individual Work)</h3>
 
 You will **individually** begin testing AI image manipulation tools and simulate data poisoning through a **creative glitching workflow**. Document each step in your **Process Journal (word document)** with screenshots, prompts, technical notes, and reflections.
 
