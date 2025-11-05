@@ -32,7 +32,7 @@ While not app-based AR, this speculative film critiques how AR could restructure
 
 ---
 
-<h3 style="color: darkred;">[40 minutes] Group Brainstorming</h3>
+<h3 style="color: darkred;">[40 minutes] Group Brainstorming (Collaborative Work)</h3>
 
 Begin by discussing insights from the three sources you reviewed thoroughly in Week 8.  
 
@@ -59,7 +59,7 @@ Open a share document (Word or Google Docs) and answer the following:
 
 ---
 
-<h3 style="color: darkred;">[30 minutes] Research Report </h3>
+<h3 style="color: darkred;">[30 minutes] Research Report (Individual Work)</h3>
 
 Individually, update and finalize your **Research Report** with the following:
 
@@ -82,7 +82,7 @@ Individually, update and finalize your **Research Report** with the following:
 
 ---
 
-<h3 style="color: darkred;">Test Pictarize Project</h3>
+<h3 style="color: darkred;">Test Pictarize Project (Individual Work)</h3>
 
 Individually, learn how to use <a href="https://pictarize.com/" target="_blank">Pictarize Studio</a> — the tool that will link your analogue and digital content.
 
