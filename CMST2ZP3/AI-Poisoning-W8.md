@@ -85,7 +85,7 @@ Create an **annotated bibliography**:
 
 ---
 
-<h3 style="color: darkred;">[25 minutes] Draft 2–3 Research Questions</h3>
+<h3 style="color: darkred;">[25 minutes] Draft 2–3 Research Questions (Individual Work)</h3>
 
 Based on your research, write **2–3 open-ended questions** that will guide your thinking and creative work.
 
