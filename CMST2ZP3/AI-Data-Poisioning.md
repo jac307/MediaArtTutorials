@@ -23,8 +23,8 @@ In this project, you will critically and creatively explore **AI data poisoning*
 
 + [W8: Conduct Individual Research](AI-Poisoning-W8.md)
 + [W9: Final Research Report + AI Data Poisoning Workflow](AI-Poisoning-W9.md)
-<!---+ [W10: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)-->
-<!---+ [W11: Complete final images](AI-Poisoning-W11.md)-->
+<!---+ [W10-11: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)-->
+<!---+ [W12: Complete final images](AI-Poisoning-W11.md)-->
 <!---+ [Final Submission](AI-Poisoning-Final.md)-->
   
 ---
@@ -85,14 +85,14 @@ Ensure your responses are thoughtful and critically reflect on your final outcom
 
 ## Project Breakdown
 
-| **Activity**         | **Focus**                                                   | **Points** |
-|----------------------|-------------------------------------------------------------|------------|
-| Week 8 Activities    | Conduct Individual Research                                 | 5          |
-| Week 9 Activities    | Final Research Report + AI Data Poisoning Workflow          | 5          |
-| Week 10 Activities   | Group Brainstorming, Project Planning, and Image Testing    | 5          |
-| Week 11 Activities   | Complete final images                                       | 5          |
-| Week 12              | Class showcase: work-in-progress projects                   | 5          |
-| Final Submission     | Final project + deliverables                                | 13         |
-| **Total Points**     |                                                             | **38**     |
+| **Activity**          | **Focus**                                                   | **Points** |
+|-----------------------|-------------------------------------------------------------|------------|
+| Week 8 Activities     | Conduct Individual Research                                 | 5          |
+| Week 9 Activities     | Final Research Report + AI Data Poisoning Workflow          | 5          |
+| Week 10-11 Activities | Group Brainstorming, Project Planning, and Image Testing    | 5          |
+| Week 12 Activities    | Complete final images                                       | 5          |
+| Week 13               | Class showcase: work-in-progress projects                   | 5          |
+| Final Submission      | Final project + deliverables                                | 13         |
+| **Total Points**      |                                                             | **38**     |
 
 ---
