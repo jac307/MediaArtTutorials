@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W10: Group Brainstorming, Project Planning, and Image Testing</h1>  
+<h1 style="color: darkred;">W10: Define the Project, Finalize Visual Materials, and Begin Pictarize Prototyping</h1>  
 <p><strong>Research-Creation Project · Cyborg Storytelling using Augmented Reality</strong></p>
 <p><strong>Groups of 3–4 students</strong></p>
 
