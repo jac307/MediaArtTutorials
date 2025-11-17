@@ -117,7 +117,7 @@ Within the shared account, each student must:
 |--------------------------------|-------------------------------|-----------------|
 | Group Planning Document        | `Planning-Group-#.pdf`        | One per group   |
 | Individual Materials Summary   | `Materials-Lastname.pdf`      | Each student    |
-| Early Prototype Test Video     | `EarlyPrototype-Lastname.mp4` | Each student    |
+| Early Prototype Test Video     | `EarlyPrototype-Lastname.mp4` | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
