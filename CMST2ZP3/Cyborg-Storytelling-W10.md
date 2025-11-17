@@ -89,7 +89,7 @@ Each student begins developing their materials. Follow these guidelines:
 - Purchase the 1-month subscription  
 > ⚠️ Do not edit on this group account at the same time —coordinate logins!
 
-### 2. Create Your Early Individual Prototype
+### 2. Create Your Individual Addition to the Group's Early Prototype
 Within the shared account, each student must:
 - Upload **1 target image** (e.g., drawing, collage, printed texture)  
 - Add **2 media overlays** (e.g., video, text, or 3D model)  
