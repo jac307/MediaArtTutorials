@@ -24,8 +24,8 @@ In this project, you will critically and creatively explore **AI data poisoning*
 + [W8: Conduct Individual Research](AI-Poisoning-W8.md)
 + [W9: Final Research Report + AI Data Poisoning Workflow](AI-Poisoning-W9.md)
 + [W10-11: Group Brainstorming, Project Planning, and Image Testing](AI-Poisoning-W10.md)
-<!---+ [W12: Complete final images](AI-Poisoning-W11.md)-->
-<!---+ [Final Submission](AI-Poisoning-Final.md)-->
++ [W12: Complete final images](AI-Poisoning-W11.md)
++ [Final Submission](AI-Poisoning-Final.md)
   
 ---
 
