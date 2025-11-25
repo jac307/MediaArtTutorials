@@ -25,9 +25,9 @@ Compositions will range in style from **abstraction** to **realism**, challengin
 
 ## Index
 
- [Part 1 – In-Class Work I: Sketching & First Composition](P2-InClassWork-I.md)
- <!--- [Part 2 – In-Class Work II: Second Composition & Layout Planning](P2-InClassWork-II.md)-->
- <!--- [Final Submission Guidelines](P2-Final-Submission.md)-->
++ [Part 1 – In-Class Work I: Sketching & First Composition](P2-InClassWork-I.md)
++ [Part 2 – In-Class Work II: Second Composition & Layout Planning](P2-InClassWork-II.md)
++ [Final Submission Guidelines](P2-Final-Submission.md)
 
 
 ---
