@@ -133,7 +133,7 @@ Take **40–60 photographs** using **only** the following techniques:
 
 📄 **Filename:** `Lastname-Name-Photogrid.pdf`
 
-<img src="imgs/png" style="width: 80%; height: auto;">
+<img src="imgs/12.png" style="width: 80%; height: auto;">
 
 ---
 
