@@ -141,9 +141,9 @@ With your partner, open a document (Word or Google Docs) and answer the followin
   - Mood and atmosphere  
   - Conceptual and aesthetic coherence  
 
-Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
+**Important:** All animations in this session must be created using **manual keyframes**. Do **not** use DaVinci Resolve’s default animated behaviours (e.g., Dynamic Zoom, preset transitions, auto-animation tools). Your goal is to demonstrate control over timing, motion, and visual changes through **intentional keyframe editing**.  
 
-> This is your time to **bring your shared vision to life**—start from scratch and build a complete, expressive video artwork.
+Review DaVinci tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
 
 ---
 
@@ -161,7 +161,9 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
   - All group members’ names  
   - Music source credit  
 
-> Keep text simple, clear, and stylistically consistent.
+### Key aspects to remember
+- Include at least 4 keyframed animation.  
+- No default animated behaviours (Dynamic Zoom, auto-transitions, etc.).
 
 ---
 
@@ -193,6 +195,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 4. **Group Member Names + 3-line Bios**  
    > Share a few lines about each contributor and their role.
+   > Example **Alex Chen** — Second-year Humanities student interested in visual storytelling. Shot most of the close-up footage and organized the project’s file structure.  
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-Submission-Info.pdf`
