@@ -36,7 +36,7 @@ This first stage focuses on structure, clarity, and visual storytelling using **
 
 ---
 
-<h3 style="color: darkred;">[15 min] Conceptualize Your Project</h3>
+<h3 style="color: darkred;">[15 min] Conceptualize Your Project (Group Work)</h3>
 
 Work in groups. Open a Word or Google Doc and answer the following:
 
@@ -59,7 +59,7 @@ Work in groups. Open a Word or Google Doc and answer the following:
 
 ---
 
-<h3 style="color: darkred;">[10 min] Set Up Your Equipment</h3>
+<h3 style="color: darkred;">[10 min] Set Up Your Equipment (Individual Work)</h3>
 
 Prepare your device for filming.
 
@@ -89,7 +89,7 @@ Prepare your device for filming.
 
 ---
 
-<h3 style="color: darkred;">[40 min] Record</h3>
+<h3 style="color: darkred;">[40 min] Record (Group Work)</h3>
 
 Film your raw material for the 30-second short.  
 
@@ -109,7 +109,7 @@ Film your raw material for the 30-second short.
 
 ---
 
-<h3 style="color: darkred;">[20 min] Edit Your Video in DaVinci Resolve</h3>
+<h3 style="color: darkred;">[20 min] Edit Your Video in DaVinci Resolve (Group Work)</h3>
 
 Edit your 30-second video using **DaVinci Resolve**.
 
@@ -130,28 +130,28 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">[10m] Create Printable Frame Grids</h3>
+<h3 style="color: darkred;">[10m] Create Printable Frame Grids (Group and Individual Work)</h3>
 
 Start by converting your video into still frames using the tutorial provided.
 
 <iframe src="https://www.iorad.com/player/2600841/DaVinci-Resolve--Export-video-as-sequence-of-images?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
 
-  
 1. You should get 480 frames or individual images after exporting your video.  
-2. Divide the frames evenly among your group. Each student must have 160 frames/images.   
+2. Divide the frames evenly among your group. **Each student must have 160 frames/images**.   
 3. Each student will design their own printable grid layout using their assigned frames:
 
 - **Paper Size:** Letter (8.5 × 11 in)  
-- **Orientation:** Portrait or Landscape  
-- **Maximum:** 2 columns per page, 8 images in total per page.  
-- Keep all frames evenly spaced and the same size  
-- Suggested tools: PowerPoint, Keynote, Canva, Google Slides, etc.
+- **Orientation:** Portrait or Landscape (depending on how you filmed your video) 
+- Arrange in a grid (2x8) layout using:
+  > PowerPoint, Word, Canva, Pages, or Keynote
+  > Keep all frames evenly spaced and the same size
+  > See examples bellow
+- ➡️ **Export as PDF**
+  > 📄 **Filename:** `Lastname-Name-Frames.pdf`
+- 📌 **Print your grid in black and white** and bring it to class for *Part 2*.
+  > ⚠️ Failure to bring your printed frames will result in a grade deduction.  
 
-➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Name-Frames.pdf`
-
-📌 **Print your grid in black and white** and bring it to class for *Part 2*.  
-⚠️ Failure to bring your printed frames will result in a grade deduction.
+<img src="imgs/13.png" style="width: 80%; height: auto;">
 
 ---
 
