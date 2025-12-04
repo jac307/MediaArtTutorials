@@ -59,29 +59,29 @@ Apply physical interventions to each printed frame to create a dynamic, evolving
 
 After completing your analogue interventions, you must digitize your frames and prepare them as individual image files for use in Part 3 of the project.  
 
-## Step 1 — Digitize Your Artwork (Scan or Photograph)  
+### Step 1 — Digitize Your Artwork (Scan or Photograph)  
 
-### If Scanning (recommended):
+#### If Scanning (recommended):
 - Use a **flatbed scanner** at 300 DPI  
 - Scan entire page or individual frames  
 - Save as **PNG** or **high-resolution JPEG**  
 - Align frames before scanning
 
-### If Photographing:
+#### If Photographing:
 - Photograph each frame **individually**  
 - Use consistent lighting and angle  
 - Mount paper on a wall or table  
 - Avoid shadows, distortion, or reflections  
 - Use a plain white or neutral background
 
-## Step 2 — Separate Frames Into Individual Images 
+### Step 2 — Separate Frames Into Individual Images 
 
 After scanning/photographing, you must create one file per frame.  
 - You can separate your frames using: Canvas, PowerPoint, or any basic image-editing tool
 - Crop each frame cleanly
 - Export each frame as its own PNG or JPEG
 
-## Step 3 — Correct Naming Protocol (Mandatory)  
+### Step 3 — Correct Naming Protocol (Mandatory)  
 
 Each student must prepare and name their own images using the following format: `Lastname-Image-#`
 
@@ -89,7 +89,7 @@ Each student must prepare and name their own images using the following format: 
 - Only your own last name should appear in your filenames
 - Do not submit group-named files — each student submits their own set
 
-## Step 4 — ZIP Your Files 
+### Step 4 — ZIP Your Files 
 
 Once all your image files are ready and correctly named:
 1. Place all your images into one folder
