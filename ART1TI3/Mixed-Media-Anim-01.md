@@ -142,7 +142,7 @@ Start by converting your video into still frames using the tutorial provided.
 
 - **Paper Size:** Letter (8.5 × 11 in)  
 - **Orientation:** Portrait or Landscape (depending on how you filmed your video) 
-- Arrange in a grid (2x8) layout using:
+- Arrange in a grid (2x4) layout using:
   > PowerPoint, Word, Canva, Pages, or Keynote
   > Keep all frames evenly spaced and the same size
   > See examples bellow
