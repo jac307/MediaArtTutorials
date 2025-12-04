@@ -15,9 +15,9 @@
 
 ## Objective
 
-Explore the foundations of **non-linear video editing** and learn how to conceptually plan an experimental video composition using only the photographs from Part 1.  
+Explore the foundations of **non-linear video editing**.  
 
-This session is about **learning the editing environment**, understanding basic tools, and **developing your artistic and technical vision**—you will not create a full video yet.
+This session is about **learning Da Vinci Resolve**: understanding basic and more advance tools.
 
 ---
 
