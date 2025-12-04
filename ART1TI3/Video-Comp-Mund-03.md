@@ -117,13 +117,14 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - your video must be 1-2 minutes long.
 - You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).
 - You must include **royalty-free music or ambient sound** that supports your mood or concept.
-- You must add a **title screen** and **end credits** with your names.
+- Include at least 4 keyframed animation.   
+- No default animated behaviours (Dynamic Zoom, auto-transitions, etc.).
 - This is a **non-linear, experimental composition**—do not follow a traditional narrative or slideshow format.
+- You must add a **title screen** and **end credits** with your names.  
 
 ➡️ **Export your responses as a PDF**  
 📄 **Filename:** `Group-#-Notes2.pdf`  
 > Include **both names + student numbers**
-
 
 ---
 
@@ -134,16 +135,14 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 - Divide your timeline into **two parts**—each student must edit **approximately half** of the video.  
   > This ensures both members contribute equally while maintaining a unified composition.
 - Import, arrange, and animate your photographs.
-  > Use keyframe animation, transitions, and layering techniques to build rhythm and flow.
+  > Use keyframe animation and layering techniques to build rhythm and flow.
 - Focus on:
   - Pacing and visual rhythm  
   - Movement and transformation  
   - Mood and atmosphere  
   - Conceptual and aesthetic coherence  
 
-**Important:** All animations in this session must be created using **manual keyframes**. Do **not** use DaVinci Resolve’s default animated behaviours (e.g., Dynamic Zoom, preset transitions, auto-animation tools). Your goal is to demonstrate control over timing, motion, and visual changes through **intentional keyframe editing**.  
-
-Review DaVinci tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>
+**Important:** All animations must be created using **manual keyframes**. Do **not** use DaVinci Resolve’s default animated behaviours. Your goal is to demonstrate control over timing, motion, and visual changes through **intentional keyframe editing**. Review DaVinci tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>.  
 
 ---
 
@@ -160,10 +159,6 @@ Review DaVinci tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Ot
 - End with a **credit screen** that includes:
   - All group members’ names  
   - Music source credit  
-
-### Key aspects to remember
-- Include at least 4 keyframed animation.  
-- No default animated behaviours (Dynamic Zoom, auto-transitions, etc.).
 
 ---
 
