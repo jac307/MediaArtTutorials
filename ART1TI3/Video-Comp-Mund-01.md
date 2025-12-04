@@ -30,7 +30,7 @@ Document the McMaster campus through the lens of **the beauty of the mundane**, 
 
 ---
 
-<h3 style="color: darkred;">[15 min] Conceptualize Your Project</h3>
+<h3 style="color: darkred;">[15 min] Conceptualize Your Project (Group Work)</h3>
 
 With your partner, open a document (Word or Google Docs) and answer the following:
 
@@ -58,7 +58,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 ---
 
-<h3 style="color: darkred;">[15 min] Set Up Your Equipment</h3>
+<h3 style="color: darkred;">[15 min] Set Up Your Equipment (Individual Work)</h3>
 
 Make sure your camera is set correctly:
 
@@ -83,7 +83,7 @@ Make sure your camera is set correctly:
 
 ---
 
-<h3 style="color: darkred;">[40–60 min] Photograph</h3>
+<h3 style="color: darkred;">[40–60 min] Photograph (Individual and Group Work)</h3>
 
 Take **40–60 photographs** using **only** the following techniques:
 - Medium Close-Up  
@@ -121,16 +121,19 @@ Take **40–60 photographs** using **only** the following techniques:
 
 ---
 
-<h3 style="color: darkred;">[20 min] Photo Selection</h3>
+<h3 style="color: darkred;">[20 min] Photo Selection (Individual Work)</h3>
 
 ### Create Your Photo Grid
 
-- Select **24 best images**, 12 per student.
-- Arrange in a grid layout (max 4 per page) using:
-  - PowerPoint, Word, Canva, Pages, or Keynote  
+- Select **12 best images**, 24 for both students.
+- Arrange in a grid (2x2) layout using:
+  - PowerPoint, Word, Canva, Pages, or Keynote
+  - See examples bellow
 - Export as **PDF**
 
 📄 **Filename:** `Lastname-Name-Photogrid.pdf`
+
+<img src="imgs/png" style="width: 80%; height: auto;">
 
 ---
 
