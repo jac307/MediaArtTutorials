@@ -126,6 +126,8 @@ Take **40–60 photographs** using **only** the following techniques:
 ### Create Your Photo Grid
 
 - Select **12 best images**, 24 for both students.
+- **Paper Size:** Letter (8.5 × 11 in)  
+- **Orientation:** Portrait or Landscape (depending on your photographs) 
 - Arrange in a grid (2x2) layout using:
   - PowerPoint, Word, Canva, Pages, or Keynote
   - See examples bellow
