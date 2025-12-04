@@ -117,7 +117,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ### Editing Guidelines:
 - Final video must be in **black and white**  
-- Avoid underexposure — make sure brightness reveals detail  
+- Avoid underexposure — increase brightness considering you will print the frames in B&W.
 - Ensure smooth pacing and clear storytelling  
 - Use simple transitions and cuts (no text or sound yet)
 
@@ -130,15 +130,17 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">[10m] Create Printable Frame Grids (Group and Individual Work)</h3>
+<h3 style="color: darkred;">[5 min] Export Frames (Group Work)</h3>
 
-Start by converting your video into still frames using the tutorial provided.
+Export your video into still frames using the tutorial provided. You should get **480 frames** or individual images after exporting your video.  
 
 <iframe src="https://www.iorad.com/player/2600841/DaVinci-Resolve--Export-video-as-sequence-of-images?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
 
-1. You should get 480 frames or individual images after exporting your video.  
-2. Divide the frames evenly among your group. **Each student must have 160 frames/images**.   
-3. Each student will design their own printable grid layout using their assigned frames:
+--- 
+
+<h3 style="color: darkred;"> Create A Printable Frame Grid (Individual Work)</h3>
+
+Divide the frames evenly among your group. **Each student must have 160 frames/images**. Individually, design your own printable grid layout using your assigned frames. Requirements:  
 
 - **Paper Size:** Letter (8.5 × 11 in)  
 - **Orientation:** Portrait or Landscape (depending on how you filmed your video) 
