@@ -157,7 +157,7 @@ Divide the frames evenly among your group. **Each student must have 160 frames/i
 
 ---
 
-<h3 style="color: darkred;">For Class, Bring:</h3>
+<h3 style="color: darkred;">For the Next Class, Bring:</h3>
 
 - **Printed black-and-white grid** 
 - **Mixed-media materials**:
