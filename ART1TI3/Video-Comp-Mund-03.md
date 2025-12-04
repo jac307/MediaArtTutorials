@@ -116,10 +116,10 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 ### ⚠️ **Restrictions and requirements:**  
 - your video must be 1-2 minutes long.
 - You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).
-- You must include **royalty-free music or ambient sound** that supports your mood or concept.
-- Include at least 4 keyframed animation.   
+- **Include at least 4 keyframed animation**.   
 - No default animated behaviours (Dynamic Zoom, auto-transitions, etc.).
 - This is a **non-linear, experimental composition**—do not follow a traditional narrative or slideshow format.
+- You must include **royalty-free music or ambient sound** that supports your mood or concept.
 - You must add a **title screen** and **end credits** with your names.  
 
 ➡️ **Export your responses as a PDF**  
