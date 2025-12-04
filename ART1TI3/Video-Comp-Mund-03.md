@@ -96,7 +96,38 @@ You will use the photographs captured in Part 1 to produce a cohesive, non-linea
 
 ---
 
-<h3 style="color: darkred;">[1h] Create Your Video Composition</h3>
+<h3 style="color: darkred;">[20 min] Conceptualize Your Composition (Group Work)</h3>
+
+With your partner, open a document (Word or Google Docs) and answer the following questions. Use this time to develop a strong **conceptual direction** for your video.
+
+### Conceptual
+- What story, mood, or atmosphere might we want to convey?
+- How could the photographs from Part 1 support this?
+
+### Artistic
+- What visual strategies (transitions, rhythm, layering) could you explore?
+- What experimental - nonlinear editing approaches are you interested in?
+- What kinds of effects, juxtapositions, or disruptions interest you?
+
+### Technical
+- What aspect ratio might suit your concept (e.g., vertical, square, or widescreen)?
+- What tools or effects in DaVinci could help achieve your goals?
+
+### ⚠️ **Restrictions and requirements:**  
+- your video must be 1-2 minutes long.
+- You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).
+- You must include **royalty-free music or ambient sound** that supports your mood or concept.
+- You must add a **title screen** and **end credits** with your names.
+- This is a **non-linear, experimental composition**—do not follow a traditional narrative or slideshow format.
+
+➡️ **Export your responses as a PDF**  
+📄 **Filename:** `Group-#-Notes2.pdf`  
+> Include **both names + student numbers**
+
+
+---
+
+<h3 style="color: darkred;">[1h20m] Create Your Video Composition (Individual Work)</h3>
 
 ### Collaborative Editing & Assembly
 
@@ -116,7 +147,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">[30 min] Final Assembly: Audio + Titles</h3>
+<h3 style="color: darkred;">Final Assembly: Audio + Titles (Group Work)</h3>
 
 ### Sound Design
 - Add **royalty-free background music or ambient audio** from [Freesound.org](https://freesound.org)
@@ -134,7 +165,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">[10 min] Export Final Video</h3>
+<h3 style="color: darkred;">Export Final Video</h3>
 
 ### Final Checks:
 - Ensure both parts are smoothly integrated  
@@ -172,6 +203,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 | File Type         | File Name                     | Who Submits     |
 |-------------------|-------------------------------|-----------------|
+| Group             | `Group-#-Notes2.pdf`          | One per group   |
 | Final Video       | `Group-#-FinalVideo.mp4`      | One per group   |
 | Submission Form   | `Group-#-Submission-Info.pdf` | One per group   |
 
