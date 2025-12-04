@@ -55,9 +55,11 @@ Apply physical interventions to each printed frame to create a dynamic, evolving
 
 ---
 
-<h3 style="color: darkred;">Before Next Class: Digitize Your Frames</h3>
+<h3 style="color: darkred;">Digitize and Prepare Your Frames</h3>
 
-After completing your analogue interventions, you must **scan or photograph** each frame to prepare for reanimation in *Part 3*.
+After completing your analogue interventions, you must digitize your frames and prepare them as individual image files for use in Part 3 of the project.  
+
+## Step 1 — Digitize Your Artwork (Scan or Photograph)  
 
 ### If Scanning (recommended):
 - Use a **flatbed scanner** at 300 DPI  
@@ -72,18 +74,41 @@ After completing your analogue interventions, you must **scan or photograph** ea
 - Avoid shadows, distortion, or reflections  
 - Use a plain white or neutral background
 
-➡️ Bring the **digitized frames** as individual images to class for *Part 3*.  
-⚠️ Failure to bring your digitalized frames will result in a grade deduction.
+## Step 2 — Separate Frames Into Individual Images 
+
+After scanning/photographing, you must create one file per frame.  
+- You can separate your frames using: Canvas, PowerPoint, or any basic image-editing tool
+- Crop each frame cleanly
+- Export each frame as its own PNG or JPEG
+
+## Step 3 — Correct Naming Protocol (Mandatory)  
+
+Each student must prepare and name their own images using the following format: `Lastname-Image-#`
+
+- Files must be numbered sequentially
+- Only your own last name should appear in your filenames
+- Do not submit group-named files — each student submits their own set
+
+## Step 4 — ZIP Your Files 
+
+Once all your image files are ready and correctly named:
+1. Place all your images into one folder
+2. Name the folder using the format: `Lastname-FirstName-MixedMediaFrames`
+3. ZIP the folder
+4. Check that the ZIP file opens correctly and contains:
+   - Individual images
+   - Correct naming format
+   - No duplicates or missing files
 
 ---
 
 <h3 style="color: darkred;">📤 Submissions</h3>
 
-| Type       | File Name                       | Who Submits     |
-|------------|---------------------------------|-----------------|
-| Individual | `LastName-FirstName-Frames.pdf` | Each student    |
+| Type       | File Name                                 | Who Submits     |
+|------------|-------------------------------------------|-----------------|
+| Individual | `Lastname-FirstName-MixedMediaFrames.zip` | Each student    |
 
-📄 Submit a **PDF containing altered 10 digitized frames that best represent your work**.
+📄 Submit all 160 altered (and individually digitalized) frames with the correct naming protocol into a ZIP file.
 
 > ⚠️ **Use exact filenames. Incorrect submissions may result in lost points.**
 
