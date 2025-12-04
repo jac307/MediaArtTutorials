@@ -162,7 +162,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 ---
 
-<h3 style="color: darkred;">Export Final Video</h3>
+<h3 style="color: darkred;">Export Final Video (Group Work)</h3>
 
 ### Final Checks:
 - Ensure both parts are smoothly integrated  
@@ -175,7 +175,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 ---
 
-<h3 style="color: darkred;">Submission Form</h3>
+<h3 style="color: darkred;">Submission Form (Group Work)</h3>
 
 ### Create a 1-page PDF with the following:
 
