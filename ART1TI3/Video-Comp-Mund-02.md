@@ -17,7 +17,7 @@
 
 Explore the foundations of **non-linear video editing**.  
 
-This session is about **learning Da Vinci Resolve**: understanding basic and more advance tools.
+This session is about **learning Da Vinci Resolve**: understanding basic and more advance tools that will be helpful for Project 2 third, and final submission.
 
 ---
 
@@ -34,54 +34,76 @@ This session is about **learning Da Vinci Resolve**: understanding basic and mor
 
 ---
 
-<h3 style="color: darkred;">[1h20m] Learn the Tools</h3>
+<h3 style="color: darkred;"> Learn the Tools (Individual Work) </h3>
 
-### Individual Work: Create one short test video using DaVinci Resolve.
+### Create one short **test video** using **DaVinci Resolve**.
 
-View the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>. Breakdown:
+Before you begin, **you must watch all of the tutorials**:
+<a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">Video Editing in DaVinci Resolve</a>.  
 
-1. **Intro to Linear Video Editing**  
-   - Learn timeline navigation, cuts, imports, transitions, effects  
-2. **Intro to Video Collage**  
-   - Experiment with layering images, adding text or overlays  
-3. **Intro to Keyframe Animation**  
-   - Try animating position, opacity, and scale  
-
-Your goal is to explore—not perfect—your editing.  
-Your test video should be 30-60 seconds long and should be the result of following all of the tutorials above and showcasing the tools learnt such as keyframe animation, text, multiple layers, effects, and transitions.
-
-➡️ Export your test video as an **MP4**  
-📄 **Filename:** `Lastname-Name-TestVideo.mp4`
+These tutorials introduce the basic editing tools you’ll be expected to use in all video-based projects this term.  
+Your test video must **demonstrate that you explored each tool shown**.
 
 ---
 
-<h3 style="color: darkred;">[20 min] Conceptualize Your Composition</h3>
+## Tutorial Breakdown & Required Application
 
-With your partner, open a document (Word or Google Docs) and answer the following questions. Use this time to develop a strong **conceptual direction** for your video.
+### 1. **Intro to Linear Video Editing**
+You will learn:
+- Timeline navigation  
+- Cuts  
+- Imports  
+- Transitions  
+- Effects  
 
-### Conceptual
-- What story, mood, or atmosphere might we want to convey?
-- How could the photographs from Part 1 support this?
+**In your test video, you must:**  
+- Add **3–5 photos**  
+- Adjust their **size and position**  
+- Apply **at least one transition or effect**
 
-### Artistic
-- What visual strategies (transitions, rhythm, layering) could you explore?
-- What experimental - nonlinear editing approaches are you interested in?
-- What kinds of effects, juxtapositions, or disruptions interest you?
+---
 
-### Technical
-- What aspect ratio might suit your concept (e.g., vertical, square, or widescreen)?
-- What tools or effects in DaVinci could help achieve your goals?
+### 2. **Intro to Video Collage**
+You will learn:
+- Layering images  
+- Adding text  
+- Visual overlays  
 
-### ⚠️ **Restrictions and requirements:**  
-- your video must be 1-2 minutes long.
-- You may only use **photos taken during Part 1** using the assigned techniques (medium close-up, close-up, extreme close-up).
-- You must include **royalty-free music or ambient sound** that supports your mood or concept.
-- You must add a **title screen** and **end credits** with your names.
-- This is a **non-linear, experimental composition**—do not follow a traditional narrative or slideshow format.
+**In your test video, you must:**  
+- Layer **3–4 images**  
+- Add **text in two separate sections**  
+- Apply **3–4 effects**
 
-➡️ **Export your responses as a PDF**  
-📄 **Filename:** `Group-#-Notes2.pdf`  
-> Include **both names + student numbers**
+---
+
+### 3. **Intro to Keyframe Animation**
+You will learn to animate:
+- Position  
+- Opacity  
+- Scale  
+
+**In your test video, you must:**  
+- Use **keyframe animation** (at least one animated element)  
+- **Do not rely on default transitions** — show manual animation
+
+---
+
+## 🎯 Purpose
+Your goal is **exploration**, not perfection.  
+This video simply demonstrates that you followed the tutorials and tried the tools:
+- Keyframe animation  
+- Text  
+- Layering  
+- Effects  
+- Transitions  
+
+Your finished video should be **30–60 seconds long**.
+
+---
+
+## 📤 Exporting & Submission
+- Export as **MP4**  
+- **Filename:** `Lastname-Name-TestVideo.mp4`
 
 ---
 
@@ -90,6 +112,5 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 | Type       | File Name                         | Who Submits     |
 |------------|-----------------------------------|-----------------|
 | Individual | `Lastname-Name-TestVideo.mp4`     | Each student    |
-| Group      | `Group-#-Notes2.pdf`               | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
