@@ -157,6 +157,17 @@ Divide the frames evenly among your group. **Each student must have 160 frames/i
 
 ---
 
+<h3 style="color: darkred;">For Class, Bring:</h3>
+
+- **Printed black-and-white grid** 
+- **Mixed-media materials**:
+  - Markers, crayons, pastels, paint  
+  - Coloured paper, cut-outs, thread, fabric  
+  - Tape, glue, scissors  
+  - Optional: stamps, found textures, magazine clippings
+
+---
+
 <h3 style="color: darkred;">📤 Submissions</h3>
 
 | Type       | File Name                                 | Who Submits     |
