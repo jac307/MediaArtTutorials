@@ -35,7 +35,7 @@ This stage explores analogue creativity and material storytelling, adding expres
 
 ---
 
-<h3 style="color: darkred;">[Class Time] Animate Frame by Frame</h3>
+<h3 style="color: darkred;">[Class Time] Animate Frame by Frame (Individual Work)</h3>
 
 Apply physical interventions to each printed frame to create a dynamic, evolving sequence.
 
@@ -55,7 +55,7 @@ Apply physical interventions to each printed frame to create a dynamic, evolving
 
 ---
 
-<h3 style="color: darkred;">Digitize and Prepare Your Frames</h3>
+<h3 style="color: darkred;">Digitize and Prepare Your Frames (Individual Work)</h3>
 
 After completing your analogue interventions, you must digitize your frames and prepare them as individual image files for use in Part 3 of the project.  
 
