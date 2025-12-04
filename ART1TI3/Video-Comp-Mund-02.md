@@ -15,9 +15,11 @@
 
 ## Objective
 
-Explore the foundations of **non-linear video editing**.  
+Explore the foundations of **non-linear video editing** through hands-on learning in **DaVinci Resolve**.
 
-This session is about **learning Da Vinci Resolve**: understanding basic and more advance tools that will be helpful for Project 2 third, and final submission.
+This session focuses on **learning the essential and intermediate tools** in DaVinci Resolve. Everything you practice here—editing, layering, effects, and keyframe animation—will be **directly useful for the third and final submission of Project 2**.   
+
+The goal is to build confidence with the software so you can make stronger creative decisions in later projects.
 
 ---
 
@@ -88,7 +90,7 @@ You will learn to animate:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 Your goal is **exploration**, not perfection.  
 This video simply demonstrates that you followed the tutorials and tried the tools:
 - Keyframe animation  
