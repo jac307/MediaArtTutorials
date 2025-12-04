@@ -36,14 +36,17 @@ This is your last step: bring together storytelling, analogue intervention, and 
 
 ---
 
-<h3 style="color: darkred;">[30 min] Prepare and Sequence Your Frames</h3>
+<h3 style="color: darkred;">[30 min] Import Your Frames Into Video (Individual Work)</h3>
 
-**Task:** Individually, assemble your analogue-enhanced frames into a short animation using the tutorial provided.
+**Task:** Individually, assemble your analogue-enhanced frames into a short animation using the tutorial provided.  
+
+### Before importing:
+- Ensure all frames follow the correct naming protocol: `Lastname-Image-#`
+- Ensure all frames are the same size and properly aligned
 
 <iframe src="https://www.iorad.com/player/2600885/DaVinci-Resolve--Import-Sequence-of-Images?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-### Editing Tips:
-- Ensure all frames are the same size and properly aligned  
+### After importing:
 - Adjust playback speed if needed to enhance pacing  
   > ⚠️ Make sure both of you use the **same settings**
 - Do **not** add any further effects or edits at this stage
@@ -52,7 +55,7 @@ This is your last step: bring together storytelling, analogue intervention, and 
 
 ---
 
-<h3 style="color: darkred;">[30–40 min] Combine Group Animations + Add Sound</h3>
+<h3 style="color: darkred;">[30–40 min] Combine Group Animations + Add Sound (Group Work)</h3>
 
 **Task:** Collaborate with your group to create a single, unified short film.
 
@@ -78,7 +81,7 @@ Review the tutorials: <a href="https://jac307.github.io/MediaArtTutorials/Others
 
 ---
 
-<h3 style="color: darkred;">Submission Form</h3>
+<h3 style="color: darkred;">Submission Form (Group Work)</h3>
 
 Create a 1-page PDF document that includes the following:
 
