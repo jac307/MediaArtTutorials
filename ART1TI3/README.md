@@ -30,7 +30,7 @@ Animate a sequence using printed frames and physical materials (paint, paper, th
 
 ---
 
-## Project 3 (In pairz)
+## Project 3 (In pais)
 
 Generative visuals or AI-generated Graphic Novel. Choose one of these two options.
 
