@@ -47,7 +47,7 @@ Create a document and include the following sections:
 
 ---
 
-<h3 style="color: darkred;">[1h30m] Learn & Experiment (Individual Work)</h3>
+<h3 style="color: darkred;">[1h20m] Learn & Experiment (Individual Work)</h3>
 
 #### ✅ Tutorials & Resources
  
@@ -67,7 +67,7 @@ In your **Experimentation** section, create an alternative visual narrative of *
 
 #### ✅ Document Your Process
 
-Create a table with four columns in the **Experimentation section**. For each attempted image (including the ones that failed), include:
+Create a table with four columns in the **Experimentation** section. For each attempted image (including the ones that failed), include:
 
 1. **Story Section**
    - Copy/paste the excerpt from The Rapid Decline that you visualized.
