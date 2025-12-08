@@ -37,61 +37,65 @@ In this session, students will **create an artistic project** by applying the sk
 
 ---
 
-<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal (Group Work) </h3>
+<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
 
-Create a shared document with the following tabs/sections:
+Create a shared journal with the following sections:
 
-- General Notes  
-- `Student 1 Name`: Work-in-progress  
-- `Student 2 Name`: Work-in-progress  
-- Collective Work  
+1. General Info
+   - Group member names
+   - Group number
+   - Tool used (Hydra)
+   - Project
+   - Reflection
+2. `Student 1 Name`: Work-in-progress  
+3. `Student 2 Name`: Work-in-progress
 
-Ensure that editing access is granted to both group members.
-
----
-
-<h3 style="color: darkred;">[20 min] Conceptualize Your Project</h3>
-
-In your journal (under **"General Notes"**), answer the following:  
-> Add the **date** at the beginning of this entry.
-
-#### Choosing a Tool
-- Why are we choosing Hydra for our project?  
-- How does it support our creative vision?
-
-#### Project Direction
-- What kind of generative visuals do we want to explore?  
-- Will they reflect a specific emotion, idea, or theme?  
-- What color palettes, shapes, and textures will we experiment with?  
-- How will we ensure visual connection across all compositions?
-
-#### Process & Collaboration
-- How will we divide roles in the group?  
-- How will we document progress? *(e.g., screenshots, prompts, short notes)*
-
-<h3 style="color: darkred;">[20 min] Review Your Conceptualization & Learning Notes</h3>
-
-- Share individual notes and process documentation from Part 1  
-- Revisit and refine your project concept if necessary  
-- Ensure alignment between your original idea and final execution plan
-
-In your journal (under **"General Notes"**), answer the following:  
-> Add the **date** at the beginning of this entry.
-
-- What discoveries or surprises came up during your individual experiments?  
-- What aesthetic or thematic elements do you want to keep or emphasize in the final project?  
-- What will you do differently now that you have a better understanding of the tool?
+> Ensure both partners have full editing access.
 
 ---
 
-<h3 style="color: darkred;">[60 min] Work on Your Project</h3>
+<h3 style="color: darkred;">[20 min] Conceptualize Your Project (Group Work)</h3>
+
+In your journal (under **"Project"**), answer:  
+
+1. Chosen Tool
+  - Why did you choose **Hydra**?  
+  - What discoveries or surprises emerged in Part 1?
+  - What will you do differently now that you understand the tool better?
+
+2. Project Direction
+  - What kind of generative visuals do you want to explore?
+  - Are you going to create a series of 4-6 individual images or 2-4 short videos? (Videos must not exceed **30 seconds** in length)
+  - Will they reflect a specific emotion, idea, or theme?
+  - What color palettes, shapes, and textures will you experiment with?
+  - How will your ensure visual connection across all compositions?
+
+3. Process & Collaboration
+  - How will you divide the work?
+    > Each student is expected to complete roughly half of the images.
+  - How will you document progress? (e.g., tables, screenshots, iterative prompts, notes)
+
+---
+
+<h3 style="color: darkred;">[1h10m] Work on Your Project</h3>
 
 **Goal:** Create a cohesive series of **4 digital paintings**, each using distinct code.
 
-In your journal (under **“Collective Notes”**), add **screenshots of your work-in-progress** along with **brief descriptions** of your process and decisions.
-  > Add the **date** at the beginning of this entry.
+### Documentation Requirements
 
-#### Artistic Guidelines:
+Each student must document their own process under their name. Create a **three-column table** for each attempted image (including failed ones):
+
+1. **Image**
+   - Insert all generated images—even unsuccessful ones.
+2. **Code**
+   - Copy/paste the exact code you used.
+3. **Comments** (4–5 sentences). Reflect on:
+   - What worked well and why?
+   - What limitations or issues came up?
+   - If unsuccessful, how will you adjust your code?
+   - How does this iteration move you toward a unique visual style?
+
+### Artistic Guidelines:
 
 - You may generate:
   - **Still digital paintings** (JPEG)
@@ -104,60 +108,55 @@ In your journal (under **“Collective Notes”**), add **screenshots of your wo
   - Adjust aspect ratio *(horizontal, vertical, or square)*
   - *(Optional)* Add text or additional visual elements for artistic enhancement
 
-- Document your process:
-  - Take screenshots at different stages of each composition
-  - Add short descriptions explaining your choices and iterations
-
 ---
 
 <h3 style="color: darkred;">[15 min] Reflection</h3>
 
-In your journal (under **“General Notes”**), answer:
-  > Add the **date** at the beginning of this entry.
-
+Under **Reflection**, answer:
 - How did your concept evolve from the initial idea to the final composition?  
-- What were the biggest technical challenges you encountered, and how did you resolve them?  
+- What were the biggest technical challenges you encountered, and how did you resolve them? 
 - How does your final work compare to traditional painting or digital art practices?
+
+Once documentation is complete:  
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Group-#-Documentation.pdf`  
 
 ---
 
-<h3 style="color: darkred;">📤 Final Submission</h3>
+<h3 style="color: darkred;">Assemble Your Project</h3>
 
-Prepare a **Project Information PDF** that includes the following:
+- Create a **Project PDF** with:
+  - Title of your project
+  - Group member names
+  - Year
+  - Your images or screenshots (ffrom videos). Include a **2–3 sentence description** for each.
+ 
+➡️ **Export as PDF**  
+📄 **Filename:** `Group-#-HydraProject.pdf`
 
-1. Representative image  
-2. Title  
-3. Year  
-4. Tools used  
-5. Authors  
-6. Link to your collaborative journal  
-
-**Naming Protocol:**  
-`Group-#-Info.pdf`
-
-#### 7. Share Info about Your Digital Paintings
-
-Depending on your output format, follow these guidelines:
-
-- **If you created JPEG images:**  
-  - Arrange each image within the **Project Information PDF**  
-  - Include a **2–3 sentence description** for each painting
-
-- **If you created videos or GIFs:**  
-  - For each composition, include a **representative screenshot** in the PDF  
-  - Add a **2–3 sentence description** next to each screenshot  
-  - Videos must not exceed **30 seconds** in length
-
-#### 📤 Upload Files Separately
-
-In addition to the Project Information PDF, you must upload the final **media files** (JPEGs, GIFs, or MP4s) separately using the following naming protocol:
+In addition to this PDF, you must upload the final **media files** (JPEGs, GIFs, or MP4s) separately using the following naming protocol:
 
 **Naming Protocol:**  
 `Group-#-Com-1`  
 `Group-#-Com-2`  
 `Group-#-Com-3`  
 `Group-#-Com-4`
+so on
 
 > ⚠️ Make sure all files are clearly named and properly formatted to avoid point deductions.
 
 ---
+
+---
+
+<h3 style="color: darkred;">📤 Submissions</h3>
+
+| Type       | File Name                                 | Who Submits     |
+|------------|-------------------------------------------|-----------------|
+| Group      | `Group-#-Documentation.pdf`               | One per group   |
+| Group      | `Group-#-HydraProject.pdf`               | One per group   |
+| Group      | Separate image or vidoes                  | One per group   |
+
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+
