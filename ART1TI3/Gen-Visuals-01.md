@@ -42,7 +42,7 @@ Create a document and include the following sections:
 
 ---
 
-<h3 style="color: darkred;">[1h20m] Learn & Experiment (Individual Work) </h3>
+<h3 style="color: darkred;">[1h30m] Learn & Experiment (Individual Work) </h3>
 
 #### ✅ Tutorials & Resources
 
