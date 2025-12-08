@@ -130,7 +130,7 @@ Once documentation is complete:
 
 ---
 
-<h3 style="color: darkred;">[20m] Assemble Your Project </h3>
+<h3 style="color: darkred;">Assemble Your Project</h3>
 
 Create your final **Graphic Novel** PDF. Guidelines:
 
