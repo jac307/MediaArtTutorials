@@ -14,7 +14,10 @@
 
 ## Objective
 
-Students will explore **AI-generated storytelling** in the shape of a **Graphic Novel** by experimenting with **Microsoft Copilot**. This session focuses on **tool selection**, **visual experimentation**, and **process documentation** through collaborative planning and individual learning.
+In this session, you will explore **AI-supported visual storytelling** by creating an **alternative visual interpretation** of Hafidz Zulkifli’s *The Rapid Decline*. You will experiment with **Microsoft Copilot**, refine your prompting strategies, analyze AI bias, and document your creative process in a shared online journal.  
+
+This part of the project focuses on:  
+**learning the tool → experimenting → documenting → reflecting**  
 
 ---
 
@@ -23,7 +26,6 @@ Students will explore **AI-generated storytelling** in the shape of a **Graphic 
 - Computer with internet Access
 - [Microsoft Copilot](https://copilot.cloud.microsoft/){:target="_blank"}
   > Log in with your McMaster account  
-- Online collaborative journal (Google Docs or Microsoft Word Online)
 
 ---
 
@@ -32,85 +34,69 @@ Students will explore **AI-generated storytelling** in the shape of a **Graphic 
 
 ---
 
-<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
+<h3 style="color: darkred;">[10 min] Set Up a Journal (Individual Work) </h3>
 
-Create a shared document with the following tabs/sections:
+Create a document and include the following sections:
 
-- General Notes  
-- `Student 1 Name`: Work-in-progress  
-- `Student 2 Name`: Work-in-progress  
-- Collective Work  
-
-Ensure that editing access is granted to both group members.
-
----
-
-<h3 style="color: darkred;">[20 min] Conceptualize Your Project (Group Work)</h3>
-
-In your journal (under **"General Notes"**), answer the following:  
-> Add the **date** at the beginning of this entry.
-
-#### Choosing a Tool
-- Why are we choosing **Microsoft Copilot** for this project?  
-- What kind of stories or visuals do we want to generate?
-
-#### Project Direction
-- What is the theme or genre of our story? *(e.g., sci-fi, fantasy, documentary, surreal)*  
-- What mood or tone are we aiming for?  
-- How can we maintain a **cohesive visual style** across all images?  
-  *(e.g., consistent color tones, lighting, filters)*
-
-#### Process & Collaboration
-- How will we divide roles in the group?  
-- How will we document progress? *(e.g., screenshots, prompts, short notes)*
+1. General Info
+   - Your name
+   - Group number
+   - Tool used (Microsoft Copilot)
+2. Experimentation
+3. Final Story
 
 ---
 
-<h3 style="color: darkred;">[10 min] Share your journal's link</h3>
-
-This is your only **Avenue To Learn** submission for this session.
-
-➡️ Share your journal using **no-restriction access** (anyone with the link can view)  
-📄 Submit the link directly on Avenue To Learn  
-⚠️ Incorrect or inaccessible links will result in a grade reduction  
-
----
-
-<h3 style="color: darkred;">[1h] Learn & Experiment (Individual Work)</h3>
-
-Each student must complete the following:
+<h3 style="color: darkred;">[1h30m] Learn & Experiment (Individual Work)</h3>
 
 #### ✅ Tutorials & Resources
  
 - **Read:** Hafidz Zulkifli's article *[Writing Stories with Illustrations with GPT-3 and DALL-E — A Short Exploration](imgs/Article-Copilot.pdf){:target="_blank"}*  
- > Full PDF is attached on the Avenue To Learn Submission Folder.
-- **Learn Prompting:**
+- **Learn about Prompting:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RAStep_3OI?si=6FOOlug8p2g1TGrG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### ✅ Creative Task
 
-Do the following on your individual section of the journal:
+In your **Experimentation** section, create an alternative visual narrative of *The Rapid Decline*:  
 
-- Create an **alternative visual narrative** of Hafidz’s *The Rapid Decline* short story.
-- Generate **5–8 AI images** that match the story’s theme and tone  
-- Ensure **stylistic cohesion** across all visuals  
-- Place each image next to a relevant section of the story  
-- For each image:
-  - Include the **prompt used**  
-  - Write **4–5 sentences** reflecting on:
-    - What worked well?
-    - What challenges or limitations did you face?
-    - How effective was your prompting strategy?
+- Generate a series of images that follow the **structure, tone, and emotional arc** of the story.
+- Maintain **stylistic cohesion** so your visuals feel like a unified graphic novel.
+- **Actively challenge AI bias**.
+  > Copilot often defaults to white or stereotypical characters. Intentionally diversify representation, avoid generic “AI aesthetics” (plastic textures, smooth unrealistic lighting, hyper-glossy detail), and push toward personal, meaningful styles.
+
+#### ✅ Document Your Process
+
+Create a table with four columns in the **Experimentation section**. For each attempted image (including the ones that failed), include:
+
+1. **Story Section**
+   - Copy/paste the excerpt from The Rapid Decline that you visualized.
+2. **Image**
+   - Insert all generated images—even unsuccessful ones.
+3. **Prompt**
+   - Copy/paste the exact prompt you used.
+4. **Comments** (4–5 sentences). Reflect on:
+   - What limitations or failures occurred?
+   - What forms of bias did you notice?
+   - How did you adjust your prompts?
+
+Your grade values creative **risk-taking**, **thoughtful reflection**, and **clear documentation**.
 
 ---
 
-<h3 style="color: darkred;">📤 Submissions on Journal (Online Document)</h3>
+<h3 style="color: darkred;">[10m] Assemble Your Story (Individual Work)</h3>
+
+In the **Final Story** section:
+1. Select **one image per story section**.
+2. Arrange the **story excerpt** + **chosen image** in sequence to form your graphic narrative.
+
+---
+
+<h3 style="color: darkred;">📤 Submission</h3>
 
 | Type       | Description                          | Who Submits     |
 |------------|--------------------------------------|-----------------|
-| Group      | Brainstorming Notes                  | One per group   |
-| Individual | Microsoft Co-Pilot Excercise         | Each student    |
+| Individual | `Lastname-Name-Experimentation.pdf`  | Each student    |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
