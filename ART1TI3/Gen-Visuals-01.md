@@ -55,7 +55,7 @@ Complete the following Hydra tutorials:
 
 #### ✅ Document Your Process
 
-Create a table with three columns in the **Experimentation** section. For each tutorial, create **three images**. For each image, include:
+Create a table with three columns in the **Experimentation** section. For each tutorial, create **four images**. For each image, include:
 
 1. **Image**
    - Insert generated images (screenshots).
