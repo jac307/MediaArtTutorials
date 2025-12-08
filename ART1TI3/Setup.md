@@ -2,14 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Video Composition of the Mundane – Part 1</h1>
-
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Photographs from previous students using close-up techniques.
-  </figcaption>
-</figure>
+<h1 style="color: darkred;">Setup Cellphone Camera</h1>
 
 ## Objective
 
