@@ -82,9 +82,7 @@ Create a table with four columns in the **Experimentation** section. For each at
 
 Your grade values creative **risk-taking**, **thoughtful reflection**, and **clear documentation**.
 
----
-
-<h3 style="color: darkred;">[10m] Assemble Your Story (Individual Work)</h3>
+#### ✅ Assemble Your Story
 
 In the **Final Story** section:
 1. Select **one image per story section**.
