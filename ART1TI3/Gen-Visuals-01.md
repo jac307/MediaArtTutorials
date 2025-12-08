@@ -14,7 +14,7 @@
 
 ## Objective
 
-Students will explore **generative visuals** by experimenting with **Hydra** via Estuary. This session focuses on **tool exploration**, **visual experimentation**, and **process documentation** through collaborative planning and individual learning.
+Students will explore **generative visuals** by experimenting with **Hydra** via Estuary. This session focuses on **tool exploration**, **visual experimentation**, and **process documentation** through individual learning.
 
 ---
 
@@ -22,7 +22,6 @@ Students will explore **generative visuals** by experimenting with **Hydra** via
 
 - Computer with internet Access
 - [Hydra via Estuary](http://estuary.mcmaster.ca/){:target="_blank"} 
-- Online collaborative journal (Google Docs or Microsoft Word Online)
 
 ---
 
@@ -31,77 +30,49 @@ Students will explore **generative visuals** by experimenting with **Hydra** via
 
 ---
 
-<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal (Group Work) </h3>
+<h3 style="color: darkred;">[10 min] Set Up a Journal (Individual Work) </h3>
 
-Create a shared document with the following tabs/sections:
+Create a document and include the following sections:
 
-- General Notes  
-- `Student 1 Name`: Work-in-progress  
-- `Student 2 Name`: Work-in-progress  
-- Collective Work  
-
-Ensure that editing access is granted to both group members.
-
----
-
-<h3 style="color: darkred;">[20 min] Conceptualize Your Project</h3>
-
-In your journal (under **"General Notes"**), answer the following:  
-> Add the **date** at the beginning of this entry.
-
-#### Choosing a Tool
-- Why are we choosing Hydra for our project?  
-- How does it support our creative vision?
-
-#### Project Direction
-- What kind of generative visuals do we want to explore?  
-- Will they reflect a specific emotion, idea, or theme?  
-- What color palettes, shapes, and textures will we experiment with?  
-- How will we ensure visual connection across all compositions?
-
-#### Process & Collaboration
-- How will we divide roles in the group?  
-- How will we document progress? *(e.g., screenshots, prompts, short notes)*
+1. General Info
+   - Your name
+   - Group number
+   - Tool used (Microsoft Copilot)
+2. Experimentation
 
 ---
 
-<h3 style="color: darkred;">[10 min] Share your journal's link</h3>
+<h3 style="color: darkred;">[1h20m] Learn & Experiment (Individual Work) </h3>
 
-This is your only **Avenue To Learn** submission for this session.
+#### ✅ Tutorials & Resources
 
-➡️ Share your journal using **no-restriction access** (anyone with the link can view)  
-📄 Submit the link directly on Avenue To Learn  
-⚠️ Incorrect or inaccessible links will result in a grade reduction  
-
----
-
-<h3 style="color: darkred;">[1h] Learn & Experiment (Individual Work) </h3>
-
-Each student must complete the following Hydra tutorials:
+Complete the following Hydra tutorials:
 
 - [Hydra: Intro](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Intro.html){:target="_blank"}  
 - [Hydra: Transformers](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Transformers.html){:target="_blank"}  
 - [Hydra: Modulators and Operators](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-AdvanceReferences.html){:target="_blank"}  
 - [Hydra Cheatsheet](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Cheatsheet.html){:target="_blank"}
 
-Then:
+#### ✅ Document Your Process
 
-- Experiment freely with different **sources** and **transformations**  
-- Take **screenshots of at least 5 unique experiments**  
-- Paste them into your individual section of the journal  
-- For each screenshot, include a **4–5 sentence reflection**:
-  - What challenges did you face?  
-  - How did the tool respond to your changes?  
-  - What creative potential do you see in Hydra?
+Create a table with three columns in the **Experimentation** section. For each tutorial, create **three images**. For each image, include:
+
+1. **Image**
+   - Insert generated images (screenshots).
+2. **Code**
+   - Copy/paste the exact code you used.
+3. **Comments** (4–5 sentences). Reflect on:
+   - What challenges did you face?
+   - How did the tool respond to your changes?  
+   - What creative potential do you see in Hydra?
 
 ---
 
-<h3 style="color: darkred;">📤 Submissions on Journal (Online Document)</h3>
+<h3 style="color: darkred;">📤 Submission</h3>
 
 | Type       | Description                          | Who Submits     |
 |------------|--------------------------------------|-----------------|
-| Group      | Brainstorming Notes                  | One per group   |
-| Individual | Learning process & experimentation   | Each student    |
+| Individual | `Lastname-Name-Experimentation.pdf`  | Each student    |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
