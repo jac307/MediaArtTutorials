@@ -37,6 +37,38 @@ In this session, students will **create an artistic project** by applying the sk
 
 ---
 
+<h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal (Group Work) </h3>
+
+Create a shared document with the following tabs/sections:
+
+- General Notes  
+- `Student 1 Name`: Work-in-progress  
+- `Student 2 Name`: Work-in-progress  
+- Collective Work  
+
+Ensure that editing access is granted to both group members.
+
+---
+
+<h3 style="color: darkred;">[20 min] Conceptualize Your Project</h3>
+
+In your journal (under **"General Notes"**), answer the following:  
+> Add the **date** at the beginning of this entry.
+
+#### Choosing a Tool
+- Why are we choosing Hydra for our project?  
+- How does it support our creative vision?
+
+#### Project Direction
+- What kind of generative visuals do we want to explore?  
+- Will they reflect a specific emotion, idea, or theme?  
+- What color palettes, shapes, and textures will we experiment with?  
+- How will we ensure visual connection across all compositions?
+
+#### Process & Collaboration
+- How will we divide roles in the group?  
+- How will we document progress? *(e.g., screenshots, prompts, short notes)*
+
 <h3 style="color: darkred;">[20 min] Review Your Conceptualization & Learning Notes</h3>
 
 - Share individual notes and process documentation from Part 1  
