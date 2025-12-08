@@ -14,10 +14,16 @@
 
 ## Objective
 
-In this session, students will **create an artistic project** by applying the skills developed in Part 1. The focus is on **cohesion**, **refinement**, and **documentation** of the creative process. This phase emphasizes:
-- Conceptual consistency  
-- Technical execution  
-- Critical reflection on artistic and technical challenges
+In this session, you will create **a complete artistic project** by applying the skills developed in Part 1. The emphasis is on:
+- Conceptual consistency
+- Cohesive visual style
+- Technical refinement
+- Clear documentation of your creative process
+- Critical reflection
+
+Your final output consists of:
+1. A Graphic Novel PDF (6–10 images + story)
+2. A Documentation PDF (process tables, prompts, iterations, reflection)
   
 ---
 
@@ -38,18 +44,18 @@ In this session, students will **create an artistic project** by applying the sk
 
 <h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
 
-Create a shared document with the following sections:
+Create a shared journal with the following sections:
 
 1. General Info
-   - Names
+   - Group member names
    - Group number
    - Tool used (Microsoft Copilot)
    - Project
    - Reflection
 2. `Student 1 Name`: Work-in-progress  
-3. `Student 2 Name`: Work-in-progress  
+3. `Student 2 Name`: Work-in-progress
 
-Ensure that editing access is granted to both group members.
+> Ensure both partners have full editing access.
 
 ---
 
@@ -58,78 +64,87 @@ Ensure that editing access is granted to both group members.
 In your journal (under **"Project"**), answer:  
 
 1. Chosen Tool
-  - Why did you choose **Microsoft Copilot** for this project?  
-  - What discoveries or surprises came up during your individual experiments?
-  - What will you do differently now that you have a better understanding of the tool?
+  - Why did you choose **Microsoft Copilot**?  
+  - What discoveries or surprises emerged in Part 1?
+  - What will you do differently now that you understand the tool better?
+
 2. Project Direction
-  - What is your story about? What is the theme or genre of your story? *(e.g., sci-fi, fantasy, documentary, surreal)* What mood or tone are you aiming for?
-  - What aesthetic or thematic elements do you want to keep or emphasize in the final project? How can you maintain a **cohesive visual style** across all images? *(e.g., consistent color tones, lighting, filters)*
+  - What is your story about?
+  - What is the theme/genre (*sci-fi, documentary, surreal, fantasy, etc.*)?
+  - What mood or emotional tone are you aiming for?
+  - What visual or thematic elements must remain consistent? (*color palette, lighting, filters, texture, composition, aspect ratio*)
+
 3. Process & Collaboration
-  - How will you divide roles in the group? *(each student is expected to do half the work, or half the images)*  
-  - How will you document progress? *(e.g., screenshots, prompts, short notes)*
+  - How will you divide the work?
+    > Each student is expected to complete roughly half of the images.
+  - How will you document progress? (e.g., tables, screenshots, iterative prompts, notes)
 
 ---
 
 <h3 style="color: darkred;">[1h10m] Work on Your Project</h3>
 
-**Goal:** Develop a **fictional story** and present it as a **graphic novel** using **6–10 AI-generated images**. Ensure **cohesion** in visual storytelling through consistent style, color scheme, and framing and composition. 
+**Goal:** Create a **fictional story** illustrated with **6–10 AI-generated images**, maintaining a cohesive narrative and visual style.
 
-### Documentation
+### Documentation Requirements
 
-In your journal, under your name, document everything. Create a table with four columns. For each attempted image (including the ones that failed), include:
+Each student must document their own process under their name. Create a **four-column table** for each attempted image (including failed ones):
 
 1. **Story Section**
-   - Excerpt of **your story** that you visualized.
+   - Insert the excerpt of **your story** that you attempted to visualize.
 2. **Image**
    - Insert all generated images—even unsuccessful ones.
 3. **Prompt**
    - Copy/paste the exact prompt you used.
 4. **Comments** (4–5 sentences). Reflect on:
    - What worked well and why?
-   - What limitations or failures occurred?
-   - If it didn't work, How will you adjust your prompt?
+   - What limitations or issues came up?
+   - If unsuccessful, how will you adjust your prompt?
+   - How does this iteration move you toward a cohesive visual style?
 
-### Steps for image creation
+### Steps for Image Creation
 
 1. Prompt Exploration & Style Refinement
-  - Create a **reference image** using Microsoft Copilot  
-  - Generate **at least 15 iterations** to refine visual style  
-  - Take **screenshots of all iterations** and add them to your **collaborative journal**
+  - Create an initial **reference image**.  
+  - Generate **at least 15 iterations/image-versions** experimenting with style, lighting, color palette, characters, composition
+  - Add **screenshots of all iterations** to your collaborative journal.
+
 2. Refine Prompts for Final Illustrations
-  - Select **5–8 key scenes** from your story to illustrate  
-  - Write detailed prompts specifying style (e.g., *watercolor, cyberpunk, comic book*)  
-  - Generate **multiple variations** per scene to maintain graphic consistency  
-  - Document your prompting process and iterations in the journal
+  - Collaboratively choose **6–8 key scenes** from your story and **divide these scenes**.  
+  - Write detailed prompts specifying visual style (e.g., watercolor, cyberpunk, graphic-novel inked look), character consistencies, backgrounds, and mood/tone. 
+  - Generate multiple variations per scene to maintain cohesion.
+  - Document every step in your journal.
 
 ---
 
 <h3 style="color: darkred;">[15 min] Reflection</h3>
 
-In your journal (under **"Reflection"**), answer:
-
-- How did your concept evolve from the initial idea to the final composition?  
-- What were the biggest technical challenges you encountered, and how did you resolve them? 
+Under **Reflection**, answer:
+- How did your concept evolve from initial idea to final composition?
+- What were the biggest technical challenges, and how did you solve them?
 - What are the artistic and ethical implications of using AI in creative work?
 
-When all of your notes and documentation is ready:
+Once documentation is complete:  
+
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-Documentation.pdf`
 
 ---
 
-<h3 style="color: darkred;">[20m] Assemble Graphic Novel </h3>
+<h3 style="color: darkred;">[20m] Assemble Your Graphic Novel </h3>
 
-Prepare a **Graphic Novel PDF** that includes your final visual narrative.
-
-Follow these guidelines:
+Create your final Graphic Novel PDF. Guidelines:
 
 - Use **graphic editing software** (e.g., Photoshop, Canva, InDesign)  
-- Combine **text and visuals** creatively into a **single PDF document**  
-- The **visual composition and layout choices will be graded**, so be intentional with your design decisions  
-- You may choose one of the following approaches:
-  - Present **one image per page**, using any aspect ratio
-  - Use a **comic-style layout**, combining multiple panels per page
-- Add a Cover Page with a representative or introductory image, the title of the story, your names as authors, and year
+- Combine **text and visuals** creatively.
+- Visual layout choices are part of your grade 
+- You may choose:
+  - **One image per page**, or
+  - **Comic-style layout**, combining multiple images per page
+- Include a **Cover Page** with:
+  - Title of your story
+  - A representative or introductory image
+  - Group member names
+  - Year
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-GraphicNovel.pdf`
@@ -144,7 +159,5 @@ Follow these guidelines:
 | Group      | `Group-#-GraphicNovel.pdf`                | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
-
----
 
 ---
