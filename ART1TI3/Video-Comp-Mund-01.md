@@ -19,7 +19,7 @@ Document the McMaster campus through the lens of **the beauty of the mundane**, 
 
 ## Materials Required
 
-- Smartphone or personal camera  
+- Smartphone or personal camera: [Setup your Smartphone Camera for Photo](Setup.md) 
 - Computer  
 - Optional: headphones (for tutorials)
 
@@ -55,31 +55,6 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-Notes.pdf`  
 > Include **both names + student numbers**
-
----
-
-<h3 style="color: darkred;">[15 min] Set Up Your Equipment (Individual Work)</h3>
-
-Make sure your camera is set correctly:
-
-- File format: **JPEG**  
-- Enable **gridlines** or **rule of thirds**  
-- Clean your lens  
-- Test focus and exposure
-
-### Tutorials (Choose based on your device):
-
-#### Enable Gridlines
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/osvmY_YtolI?si=8H9chgmRc49_wi5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lcrEk7afOE8?si=y53NZlbjGormpDah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### General improvements
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FRLTOBBkm2I?si=a7ED7JXuVh0gDpmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v-Jeu7YsvGk?si=6ol6-Hck33WBEMGN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
