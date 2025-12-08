@@ -16,10 +16,12 @@
 
 ## Objective
 
-In this session, students will **create an artistic project** by applying the skills developed in Part 1. The focus is on **cohesion**, **refinement**, and **documentation** of the creative process. This phase emphasizes:
-- Conceptual consistency  
-- Technical execution  
-- Critical reflection on artistic and technical challenges
+In this session, you will **create an artistic project** using Hydra by building on the skills learned in Part 1. The focus is on:
+- Conceptual consistency
+- Technical execution
+- Cohesive visual language
+- Critical reflection
+- Thorough documentation of your creative process
   
 ---
 
@@ -59,63 +61,69 @@ Create a shared journal with the following sections:
 In your journal (under **"Project"**), answer:  
 
 1. Chosen Tool
-  - Why did you choose **Hydra**?  
-  - What discoveries or surprises emerged in Part 1?
+  - Why did you choose **Hydra** for this project?
+  - What discoveries or surprises emerged during Part 1?
   - What will you do differently now that you understand the tool better?
 
 2. Project Direction
-  - What kind of generative visuals do you want to explore?
-  - Are you going to create a series of 4-6 individual images or 2-4 short videos? (Videos must not exceed **30 seconds** in length)
-  - Will they reflect a specific emotion, idea, or theme?
-  - What color palettes, shapes, and textures will you experiment with?
-  - How will your ensure visual connection across all compositions?
+  - What type of generative visuals do you want to create?
+  - Will you produce:
+    - 4–6 individual images, or
+    - 4–6 individual GIFs, or
+    - 2–4 short videos (each max 30 seconds)
+  - Do your visuals reflect a specific emotion, idea, or theme?
+  - What color palettes, shapes, textures, and transformations will you explore?
+  - How will you ensure visual cohesion across all compositions?
 
 3. Process & Collaboration
   - How will you divide the work?
-    > Each student is expected to complete roughly half of the images.
+    > Each student should complete roughly half of the outputs.
   - How will you document progress? (e.g., tables, screenshots, iterative prompts, notes)
 
 ---
 
 <h3 style="color: darkred;">[1h10m] Work on Your Project</h3>
 
-**Goal:** Create a cohesive series of **4 digital paintings**, each using distinct code.
+**Goal:** Produce a cohesive series of **4-6 digital paintings** (JPEG or GIF) or **2–4 short videos**, using Hydra and exploring a range of coding techniques.
 
 ### Documentation Requirements
 
 Each student must document their own process under their name. Create a **three-column table** for each attempted image (including failed ones):
 
 1. **Image**
-   - Insert all generated images—even unsuccessful ones.
+   - Include all generated outputs (successful, failed, and iterations).
 2. **Code**
-   - Copy/paste the exact code you used.
+   - Copy/paste the exact Hydra code you used.
 3. **Comments** (4–5 sentences). Reflect on:
-   - What worked well and why?
-   - What limitations or issues came up?
-   - If unsuccessful, how will you adjust your code?
-   - How does this iteration move you toward a unique visual style?
+   - What worked and why
+   - What didn’t work
+   - How you adjusted your code
+   - How this attempt moved you toward a consistent or unique visual style
 
 ### Artistic Guidelines:
 
 - You may generate:
-  - **Still digital paintings** (JPEG)
-  - **Moving digital paintings** (GIF or MP4)
-
-- All pieces must share a **common artistic thread**  
-  *(e.g., color palette, theme, pattern, or visual style)*
-
-- Modify your outputs using a photo or video editor if needed:
-  - Adjust aspect ratio *(horizontal, vertical, or square)*
-  - *(Optional)* Add text or additional visual elements for artistic enhancement
+  - Still digital paintings (JPEG)
+  - Moving digital paintings (GIF or MP4)
+- All pieces must share a cohesive artistic thread, such as:
+  - Color palette
+  - Shape language
+  - Pattern logic
+  - Visual rhythm
+  - A shared conceptual theme
+- You may refine outputs using editing software:
+  - Adjust aspect ratio (horizontal, vertical, square)
+  - Make small color or contrast edits
+  - (Optional) Add text or additional visual elements
 
 ---
 
 <h3 style="color: darkred;">[15 min] Reflection</h3>
 
 Under **Reflection**, answer:
-- How did your concept evolve from the initial idea to the final composition?  
-- What were the biggest technical challenges you encountered, and how did you resolve them? 
-- How does your final work compare to traditional painting or digital art practices?
+- How did your concept evolve from the initial idea to the final work?
+- What were the biggest technical challenges, and how did you solve them?
+- How does your final work compare to traditional digital art or painting practices?
 
 Once documentation is complete:  
 
@@ -126,18 +134,19 @@ Once documentation is complete:
 
 <h3 style="color: darkred;">Assemble Your Project</h3>
 
-- Create a **Project PDF** with:
-  - Title of your project
-  - Group member names
-  - Year
-  - Your images or screenshots (ffrom videos). Include a **2–3 sentence description** for each.
+Create a **Hydra Project PDF** that includes:
+- Title of your project
+- Group member names
+- Year
+- Your final still images or screenshots taken from your videos
+- A 2–3 sentence description for each final piece
  
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-HydraProject.pdf`
 
-In addition to this PDF, you must upload the final **media files** (JPEGs, GIFs, or MP4s) separately using the following naming protocol:
+In addition, upload your final media files separately (JPEG, GIF, or MP4):  
 
-**Naming Protocol:**  
+**Naming Protocol**  
 `Group-#-Com-1`  
 `Group-#-Com-2`  
 `Group-#-Com-3`  
@@ -155,8 +164,8 @@ so on
 | Type       | File Name                                 | Who Submits     |
 |------------|-------------------------------------------|-----------------|
 | Group      | `Group-#-Documentation.pdf`               | One per group   |
-| Group      | `Group-#-HydraProject.pdf`               | One per group   |
-| Group      | Separate image or vidoes                  | One per group   |
+| Group      | `Group-#-HydraProject.pdf`                | One per group   |
+| Group      | Final images/GIFs/videos                  | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
