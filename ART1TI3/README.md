@@ -10,6 +10,8 @@ Students are expected to **actively participate** in class, **bring required mat
 
 # Projects
 
++ [Setup your Smartphone Camera for Photo and Video](Setup.md)
+
 ## Video composition of the Mundane (Pairs)
 
 Create an experimental video using only photographic close-up footage of the university campus.
