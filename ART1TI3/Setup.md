@@ -14,12 +14,18 @@ Setup your smartphone camera for Project 1 and Project 2.
 
 Make sure your camera is set correctly:
 
-- File format: **JPEG**  
+- File format: **JPEG**
 - Enable **gridlines** or **rule of thirds**  
 - Clean your lens  
 - Test focus and exposure
 
 ### Tutorials (Choose based on your device):
+
+#### Change photo format to JPEG
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ms-7hjZL-oI?si=Pcb6AAcDUk9a1bos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1YPkIZY_tU?si=CRnbBiqZY1NgPmQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 #### Enable Gridlines
 
