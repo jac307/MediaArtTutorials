@@ -130,9 +130,9 @@ Once documentation is complete:
 
 ---
 
-<h3 style="color: darkred;">[20m] Assemble Your Graphic Novel </h3>
+<h3 style="color: darkred;">[20m] Assemble Your Project </h3>
 
-Create your final Graphic Novel PDF. Guidelines:
+Create your final **Graphic Novel** PDF. Guidelines:
 
 - Use **graphic editing software** (e.g., Photoshop, Canva, InDesign)  
 - Combine **text and visuals** creatively.
