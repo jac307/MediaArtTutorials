@@ -37,6 +37,14 @@ You must arrive prepared with:
 
 ---
 
+## Workflow Note (Important)
+
+You may complete **Part 1** and **Part 2** during the class session.
+
+You are responsible for managing your time so that **both parts are completed** by the end of class.
+
+---
+
 <h2 style="color: darkred;"> Part 1 — Narrative & Voice Script (≈ 30–40 minutes) </h2>
 
 You will begin by **finalizing a draft version of your narration**.
@@ -55,21 +63,11 @@ For a **1-minute documentary**, aim for **90–110 words of narration**.
 
 This script does not need to be perfect, but it **must be complete and usable**.
 
----
-
-## Workflow Note (Important)
-
-After completing **Part 1 — Narrative & Voice Script**, you may complete **Part 2** and **Part 3** in **any order** and **at any time** during the remaining class session.
-
-You are responsible for managing your time so that **both parts are completed** by the end of class.
-
----
-
-<h2 style="color: darkred;"> Part 2 — Scratch Voice Recording (≈ 15–20 minutes) </h2>
+### Scratch Voice Recording
 
 Using your **personal smartphone**, record a **test (scratch) version** of your narration.
 
-During this step, you should:
+You should:
 - Record yourself reading the full script aloud
 - Listen back at least once
 - Note pacing, tone, and clarity
