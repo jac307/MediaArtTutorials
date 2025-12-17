@@ -39,7 +39,7 @@ You must arrive prepared with:
 
 <h2 style="color: darkred;"> Part 1 — Analogue Experimentation (≈ 40 minutes) </h2>
 
-<img src="imgs/03.png" style="width: 80%; height: auto;">
+<img src="imgs/03.png" style="width: 100%; height: auto;">
 
 ### Available Stations
 
