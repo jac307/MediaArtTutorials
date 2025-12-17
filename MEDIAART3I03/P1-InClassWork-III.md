@@ -31,7 +31,7 @@ You must arrive prepared with:
   - Used for pacing and reference during editing
 
 > ⚠️ **Important:**  
-> Class Work III is a production-intensive session. Arriving without these materials will limi
+> Class Work III is a production-intensive session. Arriving without these materials will limit the work you will complete.
 
 ---
 
@@ -61,10 +61,7 @@ The **audio recording studio** will be available during this class for a total o
 
 During your recording session:
 - Record your narration **2–3 times** if time allows
-- Focus on:
-  - clarity
-  - pacing
-  - emotional tone
+- Focus on: clarity, pacing, and emotional tone
 - Avoid rushing — pauses and breath are part of the performance
 
 > ⚠️ Do **not** exceed your allocated recording time.  
@@ -76,19 +73,16 @@ During your recording session:
 When not in the audio studio, you are expected to be **editing your project**.
 
 You will:
+- Aspect ratio: **4:3** (min 1024x768)
 - Assemble your documentary into a **single timeline**
-- Start using your **scratch narration or an updated test recording** temporarily
+- Start using your **scratch narration** (or an updated test recording)
   > You will replace this with the final voice recording once done
 - Ensure **narrative cohesion** across intro, middle, & ending
 - Adjust pacing so the voice and visuals work together intentionally  
   > Your voice should guide the structure of the edit.
-- Aspect ratio: **4:3** (min 1024x768)
 
-### Rough Cut Goal
+### Rough Cut
 
-The goal of this session is to complete a **rough cut** of your documentary.
-
-A rough cut:
 - Includes **all narration** (final or near-final)
 - Includes **all primary visuals**
 - Clearly communicates the story and structure
@@ -123,30 +117,30 @@ You may use **royalty-free music and sounds** from the following sources:
 <h2 style="color: darkred;"> 📤 Required Upload — Class Work III </h2>
 **Due after class**
 
-Upload: **Rough Cut Video**
+Upload: **Rough Cut Version**
 - Duration: **2–3 minutes**
 - Aspect ratio: **4:3** (min 1024x768)
 - Includes:
   - final or near-final narration
   - all major visuals
-  - sound elements (music, ambient sound, silence)
+  - optional: sound elements (music, ambient sound, silence)
+    
 - **File format:** MP4
-- **File name:** `Lastname-Name-Materials.mp4`
+- **File name:** `Lastname-Name-RoughCut.mp4`
 
 > ⚠️ **Important:**  
-> Completing and submitting a rough cut is **required** in order to participate in the **Rough Cut Submission + Critique Activity**.  
-> Students without a rough cut will not be able to take part in the in-class critique.
+> Completing and submitting a rough cut is **required** in order to participate in the **Rough Cut Submission + Critique Activity**.
+> > You must submit it **at least one day** before the in-class critique session/class.
+> Students without a rough cut will not be able to take part in the in-class critique. 
 
 ---
 
 # Grading & Expectations (Maintenance-Based System)
 
-This course uses a **maintenance-based grading system**. All students begin at **100 points**, and grades are maintained through **consistent engagement, preparation, and completion of process work**.
-
 For **Class Work III**, maintaining your grade means:
 
 - Arriving with a finalized narration script
-- Recording your voice within the scheduled studio time
+- Recording your voice at the Sound Studio with professional equipment
 - Actively editing throughout the session
 - Producing and submitting a **complete rough cut**
 - Respecting studio protocols and peer recording time
