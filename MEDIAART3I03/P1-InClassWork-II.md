@@ -3,28 +3,141 @@
 ---
 
 <h1 style="color: darkred;">P1 – In-Class Work II</h1>  
-*Individual Project*
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/32.png" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples from the internet.
-  </figcaption>
+  <img src="imgs/03.png" style="width: 100%; height: auto;">
 </figure>
 
 ---
+### Narrative Development · Scratch Voice · Visual Recording (Production Session)
+
+This class-work session focuses on **committing to your story** and **recording all visual materials** needed for your autobiographical documentary.
+
+Unlike Class Work I (exploration), this session is about **intentional production**. You will move from planning to execution, guided by your narration and storyboard.
+
+This is a **3-hour production session**. You are expected to leave class with **all (or nearly all) visual materials recorded**.
 
 ---
 
-<h2 style="color: darkred;">[30 min] Brainstorming & Concept Sketching</h2>
+## What to Bring to Class (Required)
+
+You must arrive prepared with:
+
+- **Your completed Brainstorm + Storyboard (from Class Work I)**
+- **A USB drive** containing:
+  - Images and/or short videos from your personal archives
+- **Your personal smartphone**
+  - You will use your phone to record a scratch version of your narration
+- **Personal archival materials**, such as:
+  - Printed photographs
+  - Letters or paper materials
+  - Personal objects (books, fabrics, photos, small objects, etc.)
+- **Headphones** (recommended, for listening to your scratch narration)
+
+> ⚠️ **Important:**  
+> This session depends on preparation. Arriving without materials will limit your ability to complete the required recordings.
 
 ---
 
-<h2 style="color: darkred;"> Illustrator → Inkscape Workflow </h2>
+<h2 style="color: darkred;"> Part 1 — Narrative & Voice Script (≈ 30–40 minutes) </h2>
+
+You will begin by **finalizing a draft version of your narration**.
+
+During this time, you will:
+- Review your storyboard and narrative outline
+- Write or refine your **voice-over script**, thinking carefully about:
+  - a clear beginning, middle, and ending
+- Ensure the script has:
+  - natural pacing and tone
+  - a total length of **approximately 2–3 minutes**
+
+**Guideline:**  
+For a **1-minute documentary**, aim for **90–110 words of narration**.  
+*This allows space for pauses, silence, and visual moments without voice-over.*
+
+This script does not need to be perfect, but it **must be complete and usable**.
 
 ---
 
-<h3 style="color: darkred;">📥 Submission</h3>
+## Workflow Note (Important)
 
+After completing **Part 1 — Narrative & Voice Script**, you may complete **Part 2** and **Part 3** in **any order** and **at any time** during the remaining class session.
+
+You are responsible for managing your time so that **both parts are completed** by the end of class.
+
+---
+
+<h2 style="color: darkred;"> Part 2 — Scratch Voice Recording (≈ 15–20 minutes) </h2>
+
+Using your **personal smartphone**, record a **test (scratch) version** of your narration.
+
+During this step, you should:
+- Record yourself reading the full script aloud
+- Listen back at least once
+- Note pacing, tone, and clarity
+
+> This recording is **temporary** and will be replaced by a professional studio recording in Class Work III.
+
+---
+
+<h2 style="color: darkred;"> Part 3 - Visual Recording Session (≈ 2 hours) </h2>
+
+Using the analogue media stations, record all visual materials needed for your documentary.
+
+### Recording Note (Very Important)
+
+For **Class Work II**, **professional cameras will be available at the stations**.
+
+- You **must use the provided professional cameras** to record your visuals
+- **Cellphones are not permitted** for visual recording in this session
+- This ensures your footage meets the technical requirements for the final project
+
+You are expected to:
+- Record visuals guided by your narration
+- Capture material for the **intro, middle, and ending**
+- Record multiple takes or variations when possible
+
+The same four stations from Class Work I will be available:
+- **Scanners**
+- **Overhead projector**
+- **CRT TVs**
+- **Hand recorders** (ambient sound)
+
+---
+
+## 📤 Required Upload — Class Work II  
+**Due after class**
+
+You must upload the following three items:
+
+1. **Written Narration Script**
+   - Complete draft of your voice-over text
+   - **File format:** PDF
+   - **File name:** `Lastname-Name-Script.pdf`
+
+2. **Scratch Voice Recording**
+   - Recorded using your smartphone
+   - **File format:** MP3 or WAV
+   - **File name:** `Lastname-Name-Script.pdf`
+
+3. **Visual Materials Breakdown (PDF or Folder)**
+   - A short breakdown showing what you recorded
+   - Include **stills, screenshots, or photos** from your recordings
+   - Clearly label materials for Intro, Middle, & Ending
+   - **File format:** PDF
+   - **File name:** `Lastname-Name-Materials.pdf`
+
+> You do not need to upload individual video files; you must clearly demonstrate that you recorded the materials needed to proceed to editing.
+
+---
+
+## Grading & Expectations (Maintenance-Based System)
+
+To maintain your grade for **Class Work II**, you are expected to:
+- Complete Parts 1, 2, and 3 during the session
+- Manage your time responsibly
+- Upload all three required items on time
+
+Incomplete uploads or missing components may signal a **break in maintenance**.
 
 ---
