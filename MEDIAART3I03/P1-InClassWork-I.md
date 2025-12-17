@@ -109,7 +109,7 @@ This storyboard is not final. It is a **working document** that will evolve as y
 
 ### Draft Brainstorm + Storyboard (Required Template)
 
-You must submit the **completed Brainstorm + Storyboard template** provided by the instructor.
+You must submit the **completed Brainstorm template** provided by the instructor.
 
 The template must include:
 
@@ -133,15 +133,13 @@ This must be a **completed draft**. Submissions that are blank, mostly empty, or
 
 ## Grading & Expectations (Maintenance-Based System)
 
-This course uses a **maintenance-based grading system**. All students begin the term at **100 points**, and grades are maintained through **consistent engagement, preparation, and completion of process work**.
-
 For **Class Work I**, maintaining your grade means:
 
 - Arriving prepared with archival materials (USB and/or objects)
 - Attending the full class session
 - Actively experimenting at **2–3 analogue stations**
 - Engaging directly with the technologies (not only observing)
-- Submitting a **completed draft storyboard** using the provided template
+- Submitting a **completed Brainstorm template** provided by the instructor.
 
 Missing this upload, arriving unprepared, or not engaging with experimentation may signal a **break in maintenance**, which can result in a grade adjustment later in the term.
 
