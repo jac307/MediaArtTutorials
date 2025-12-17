@@ -59,8 +59,6 @@ The **audio recording studio** will be available during this class for a total o
 > You must arrive with your **finalized narration script** ready to record.  
 > There will be no extra time for rewriting in the studio.
 
----
-
 ### Voice Recording Expectations
 
 During your recording session:
@@ -81,13 +79,12 @@ When not in the audio studio, you are expected to be **editing your project**.
 
 You will:
 - Assemble your documentary into a **single timeline**
-- Use your **scratch narration or an updated test recording** if needed temporarily
-- Ensure **narrative cohesion** across:
-  - intro
-  - middle
-  - ending
+- Start using your **scratch narration or an updated test recording** temporarily
+  > You will replace this with the final voice recording once done
+- Ensure **narrative cohesion** across intro, middle, & ending
 - Adjust pacing so the voice and visuals work together intentionally  
   > Your voice should guide the structure of the edit.
+- Aspect ratio: **4:3** (min 1024x768)
 
 ### Rough Cut Goal
 
@@ -113,47 +110,44 @@ A rough cut:
 
 > If the story does not work without music, the narrative or pacing needs further refinement.
 
----
+### Royalty-Free Music & Sound Resources
 
-### Sound & Music Guidelines
+You may use **royalty-free music and sounds** from the following sources:
 
-- **Voice is the primary element** of this documentary
-- Music, if used, must:
-  - be **royalty-free**
-  - support the mood without overwhelming the narration
-- Music should never:
-  - distract from the voice
-  - dominate the emotional register
-  - tell the story *instead* of the voice
-
-You are **encouraged** to also include:
-- ambient sounds
-- recorded textures
-- analogue sound artifacts
-- moments of silence
-
----
-
-### Royalty-Free Music Resources
-
-You may use music from:
-- **FreePD** — https://freepd.com  
-- **Pixabay Music** — https://pixabay.com/music/  
-- **YouTube Audio Library** — https://www.youtube.com/audiolibrary  
-
-> ⚠️ Any music used must be royalty-free and properly credited if required by the source.
-
+- **FreePD** — <a href="https://freepd.com" target="_blank">https://freepd.com</a>  
+- **Pixabay Music** — <a href="https://pixabay.com/music/" target="_blank">https://pixabay.com/music/</a>  
+- **YouTube Audio Library** — <a href="https://www.youtube.com/audiolibrary" target="_blank">https://www.youtube.com/audiolibrary</a>  
+- **Freesound** — <a href="https://freesound.org" target="_blank">https://freesound.org</a>
+  > ⚠️ **Important:** If using Freesound, make sure the sound is **clearly marked as royalty-free** and follow any **attribution requirements** listed on the file page.
 
 ---
 
 <h2 style="color: darkred;"> 📤 Required Upload — Class Work I  </h2>
 **Due after class**
 
+Upload: **Rough Cut Video**
+- Duration: **2–3 minutes**
+- Aspect ratio: **4:3** (min 1024x768)
+- Includes:
+  - final or near-final narration
+  - all major visuals
+  - sound elements (music, ambient sound, silence)
+- 
 
 ---
 
-## Grading & Expectations (Maintenance-Based System)
+# Grading & Expectations (Maintenance-Based System)
 
-This
+This course uses a **maintenance-based grading system**. All students begin at **100 points**, and grades are maintained through **consistent engagement, preparation, and completion of process work**.
+
+For **Class Work III**, maintaining your grade means:
+
+- Arriving with a finalized narration script
+- Recording your voice within the scheduled studio time
+- Actively editing throughout the session
+- Producing and submitting a **complete rough cut**
+- Respecting studio protocols and peer recording time
+
+Incomplete recording, lack of editing progress, or missing submissions may signal a **break in maintenance**.
 
 ---
