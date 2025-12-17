@@ -21,7 +21,7 @@ This is a **3-hour production session**. You are expected to leave class with **
 
 You must arrive prepared with:
 
-- **Your completed Brainstorm + Storyboard (from Class Work I)**
+- **Your completed Brainstorm Document (from Class Work I)**
 - **A USB drive** containing:
   - Images and/or short videos from your personal archives
 - **Your personal smartphone**
