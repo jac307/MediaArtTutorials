@@ -44,7 +44,7 @@ You will work with some of the following tools:
 - Cassette recorders  
 - Scanners  
 
-<img src="imgs/02.png" style="width: 80%; height: auto;">
+<img src="imgs/02.png" style="width: 50%; height: auto;">
 
 Examples of valid re-mediation include:
 - Recording images or videos **off a CRT screen**
