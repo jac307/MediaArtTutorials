@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">P1 – In-Class Work I</h1>  
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/04.png" style="width: 100%; height: auto;">
+  <img src="imgs/03.png" style="width: 100%; height: auto;">
 </figure>
 
 ---
