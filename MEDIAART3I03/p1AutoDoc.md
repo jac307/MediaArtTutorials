@@ -5,12 +5,12 @@
 <h1 style="color: darkred;">Project 1 - Autobiographical Documentary</h1> 
 *Individual Project*
 
-<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
-  <img src="imgs/01.png" alt="Video" style="width: 48%; height: auto;">
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/01.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Examples (Stills) by previous students.
+  </figcaption>
 </figure>
-<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-  Examples (Stills) from previous students.
-</figcaption>
 
 ---
 
