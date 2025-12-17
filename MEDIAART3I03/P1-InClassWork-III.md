@@ -122,7 +122,7 @@ You may use **royalty-free music and sounds** from the following sources:
 
 ---
 
-<h2 style="color: darkred;"> 📤 Required Upload — Class Work I  </h2>
+<h2 style="color: darkred;"> 📤 Required Upload — Class Work III </h2>
 **Due after class**
 
 Upload: **Rough Cut Video**
@@ -132,7 +132,12 @@ Upload: **Rough Cut Video**
   - final or near-final narration
   - all major visuals
   - sound elements (music, ambient sound, silence)
-- 
+- **File format:** MP4
+- **File name:** `Lastname-Name-Materials.mp4`
+
+> ⚠️ **Important:**  
+> Completing and submitting a rough cut is **required** in order to participate in the **Rough Cut Submission + Critique Activity**.  
+> Students without a rough cut will not be able to take part in the in-class critique.
 
 ---
 
