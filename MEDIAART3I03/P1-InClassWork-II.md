@@ -99,7 +99,7 @@ The same four stations from Class Work I will be available:
 
 ### Note for Sony Video Cameras
 
-<img src="imgs/07.jpeg" style="width: 80%; height: auto;">
+<img src="imgs/07.jpeg" style="width: 50%; height: auto;">
 
 ---
 
