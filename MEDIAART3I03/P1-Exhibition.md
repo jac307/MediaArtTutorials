@@ -2,29 +2,110 @@
 
 ---
 
-<h1 style="color: darkred;">Open Exhibition</h1>  
-*Individual Project*
+<h1 style="color: darkred;"> Class Exhibition — Final Presentation of Project 1 </h1>  
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/32.png" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples from the internet.
-  </figcaption>
-</figure>
+The Class Exhibition is the public presentation of your autobiographical documentary. This event is a **collective responsibility** and should be approached as a **professional creative production**, not simply a screening of individual work.
 
----
+Specific details (date, time, location, equipment, and schedules) will be provided on **Avenue to Learn**.
+
+💡 *Reminder:*  
+This exhibition represents not only your individual project, but the collective work of the class. Care, responsibility, and collaboration matter.  
 
 ---
 
-<h2 style="color: darkred;">[30 min] Brainstorming & Concept Sketching</h2>
+<h2 style="color: darkred;"> Final Project Materials (Required) </h2>
+
+To be included in the exhibition, you must submit the following materials by the deadlines communicated on Avenue to Learn.
+
+### 1. Final Video
+- Final version of your documentary
+- Must meet all technical requirements outlined in Project 1
+- Videos must be submitted **at least two (2) days before the exhibition**
+  - Late submissions may not be included in the exhibition
+
+> The instructor will prepare and format all videos for the exhibition displays.
+
+### 2. Project Title
+- Choose a **clear and compelling title**
+- Do **not** include the course name
+- Think of this as a **professional portfolio piece**
+
+### 3. Project Description (100–150 words)
+Your description should:
+- Briefly introduce the concept and theme of your documentary
+- Provide context for viewers encountering your work in the exhibition space
+
+📌 **Important:**  
+Final **title and project description must be submitted at least one (1) week before the exhibition** in order to be included in exhibition materials (posters, programs, labels, or other visual elements).
 
 ---
 
-<h2 style="color: darkred;"> Illustrator → Inkscape Workflow </h2>
+<h2 style="color: darkred;"> Creative Production & Event Support (Required) </h2>
+
+The exhibition is a **collective production**, and all students are expected to contribute beyond their individual project.
+
+### Production Roles
+
+Each student will:
+- Be assigned (or volunteer for) a **specific production role**
+- Work collaboratively with peers and the instructor
+- Complete their responsibilities reliably and on time
+
+Roles may include:
+- **Design & Visual Materials** (posters, signage, digital assets)
+- **Communications / Text Editing**
+- **Technical Preparation**
+- **Transportation**
+- **Setup & Cleanup**
+- **Event Support**
+
+One student will be invited by the instructor to act as the **student coordinator**, helping manage communication and workflow.
+
+A **sign-up spreadsheet** for roles will be available on **Avenue to Learn** early in the term.
+
+This component emphasizes:
+- professionalism
+- collaboration
+- care for shared resources
+- respect for collective labor
 
 ---
 
-<h3 style="color: darkred;">📥 Submission</h3>
+<h3 style="color: darkred;"> Exhibition Presence </h3>
 
+Students are expected to arrive on time
+- Check in with the instructor or student coordinator
+
+During the exhibition:
+- Be mindful of the space and equipment
+- Respect the work of others
+- Present yourself and your work professionally
+
+---
+
+
+<h3 style="color: darkred;"> Artwork Documentation (Required) </h3>
+
+As part of your final submission, you must document your project **in the exhibition context**.
+
+### Documentation Requirements
+Capture **5–10 photographs** showing:
+- Your video playing in the exhibition space
+- Wide shots situating your work within the room
+- Close-ups of the screen or projection
+- Audience interaction (when appropriate)
+
+These images will be submitted after the exhibition as part of your final documentation.
+
+---
+
+## Grading & Expectations (Maintenance-Based System)
+
+Participation in the Class Exhibition includes:
+- timely submission of required materials
+- completion of your assigned production role
+- professional conduct during setup, exhibition, and cleanup
+
+Failure to meet these expectations may signal a **break in maintenance**, even if your individual project is complete.
 
 ---
