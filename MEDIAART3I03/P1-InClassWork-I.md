@@ -4,9 +4,7 @@
 
 <h1 style="color: darkred;">P1 – In-Class Work I</h1>  
 
-<figure style="width: 100%; margin: 0 auto; text-align: center;">
-  <img src="imgs/04.png" style="display: block; margin: 0 auto; width: 60%; height: auto;">
-</figure>
+<img src="imgs/04.png" style="width: 60%; height: auto;">
 
 ---
 ### Analogue Experimentation · Brainstorming (Process-Focused Session)
