@@ -1,8 +1,6 @@
-# ART 1TI3 (C01) – Making Art & Understanding Technology & Images
+# MEDIAART 3I03 – Narrative Strategies
 
-This hands-on, introductory course explores the **intersection of art, technology, and society** through a series of collaborative projects. Students will work with a range of media—including **photography, video, collage, mixed media, AI tools, and generative tools**—to develop creative responses to contemporary themes.
-
-Students are expected to **actively participate** in class, **bring required materials**, and **collaborate respectfully** with their peers. Emphasis is placed on both the **creative process** and **conceptual engagement**, preparing students to critically navigate the evolving landscape of **digital art and culture**.
+This course explores **audio-visual self and collective storytelling**, emphasizing **artistic observation as a critical activity** to portray cultures, social structures, political contexts, and community environments. We will review and practice strategies and techniques such as point of view, subject matter, narrative and multi-narrative arcs, style, character portrayal, storyboards and scripts, emphasis, and rhythm and tempo.
 
 > Linked tutorials are accessible only while the course is in session.
 
@@ -10,43 +8,14 @@ Students are expected to **actively participate** in class, **bring required mat
 
 # Projects
 
-+ [Setup your Smartphone Camera for Photo and Video](Setup.md)
+## [Project 1 - Individual Project: Autobiographical Documentary](p1AutoDoc.md)
 
-## Video composition of the Mundane (Pairs)
+Students will create an **autobiographical documentary** engaging with personal archival material, analogue media technologies (Voice Recorders, Digital Projectors, CRT TVs, and Light Projectors), auto-ethnography research, and documentary production.
 
-Create an experimental video using only photographic close-up footage of the university campus.
+## [Project 2 - Group Project: Performative Storytelling](p2PerSto.md)
 
-<!-- + [Video composition of the Mundane  - Part 1](Video-Comp-Mund-01.md)
-+ [Video composition of the Mundane  - Part 2](Video-Comp-Mund-02.md)
-+ [Video composition of the Mundane  - Part 3](Video-Comp-Mund-03.md) -->
+Students will create and present a **collective live storytelling performance**, engaging with video footage, audio mixing, live reading, and VJ/DJ practices. 
 
----
-
-## Mixed Media Animation (Groups of three students)
-
-Animate a sequence using printed frames and physical materials (paint, paper, thread, etc.) to create a mixed-media video.
-
-<!-- + [Mixed Media Animation  - Part 1](Mixed-Media-Anim-01.md)
-+ [Mixed Media Animation  - Part 2](Mixed-Media-Anim-02.md)
-+ [Mixed Media Animation  - Part 3](Mixed-Media-Anim-03.md) -->
-
----
-
-## Project 3 (In pais)
-
-Generative visuals or AI-generated Graphic Novel. Choose one of these two options.
-  
-<!--
-### Option 1
-
-+ [Generative visuals with Hydra  - Part 1](Gen-Visuals-01.md)
-+ [Generative visuals with Hydra  - Part 2](Gen-Visuals-02.md)
-
-### Option 2
-
-+ [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 1](AI-Grap-Novel-01.md)
-+ [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 2](AI-Grap-Novel-02.md)
- -->
 
 ________________________________________________________________________
 
