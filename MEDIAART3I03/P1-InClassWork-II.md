@@ -105,7 +105,7 @@ The same four stations from Class Work I will be available:
 
 ---
 
-## 📤 Required Upload — Class Work II  
+<h2 style="color: darkred;"> 📤 Required Upload — Class Work II  </h2>
 **Due after class**
 
 You must upload the following three items:
@@ -128,6 +128,19 @@ You must upload the following three items:
    - **File name:** `Lastname-Name-Materials.pdf`
 
 > You do not need to upload individual video files; you must clearly demonstrate that you recorded the materials needed to proceed to editing.
+
+---
+
+## After Class Work II (Important)
+
+Between **Class Work II** and **Class Work III**, your focus should be **only** on your narration.
+
+During this week, you are expected to:
+- Revise and refine your **written narration script**
+- Practice reading your script aloud
+- Adjust pacing, tone, and emphasis in preparation for the final recording
+
+Final voice recording will take place during **Class Work III** in the audio studio. Arriving prepared will allow you to focus fully on recording and editing your rough cut.
 
 ---
 
