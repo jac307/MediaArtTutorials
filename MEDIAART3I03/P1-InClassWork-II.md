@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">P1 – In-Class Work II</h1>  
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/03.png" style="width: 100%; height: auto;">
+  <img src="imgs/05.png" style="width: 100%; height: auto;">
 </figure>
 
 ---
@@ -102,6 +102,10 @@ The same four stations from Class Work I will be available:
 - **Overhead projector**
 - **CRT TVs**
 - **Hand recorders** (ambient sound)
+
+### Note for Sony Video Cameras
+
+<img src="imgs/07.jpeg" style="width: 80%; height: auto;">
 
 ---
 
