@@ -8,7 +8,7 @@
 figure style="width: 100%; margin: auto;">
   <img src="imgs/01.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students.
+    Examples (Stills) by previous students.
   </figcaption>
 </figure>
 
