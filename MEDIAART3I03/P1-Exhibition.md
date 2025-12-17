@@ -88,6 +88,17 @@ During the exhibition:
 - Respect the work of others
 - Present yourself and your work professionally
 
+## Contingencies & Flexibility
+
+Live events involve shared equipment, time constraints, and unpredictable conditions.  
+If technical or logistical issues arise during setup or the exhibition, students are expected to:
+
+- remain flexible and solution-oriented
+- communicate promptly with the instructor or student coordinator
+- support peers and help troubleshoot when appropriate
+
+Professionalism includes the ability to adapt calmly and collaboratively.
+
 ---
 
 
