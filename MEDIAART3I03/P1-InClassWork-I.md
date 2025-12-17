@@ -89,7 +89,7 @@ Acceptable outputs include:
 
 ---
 
-<h2 style="color: darkred;"> Part 2 — Brainstorming & Storyboard Draft (≈ 30 minutes) </h2>
+<h2 style="color: darkred;"> Part 2 — Brainstorming (≈ 30 minutes) </h2>
 
 After experimentation, you will shift from testing to **reflection and planning**.
 
@@ -98,16 +98,16 @@ Using what you observed across the stations, you will:
 - Decide which analogue processes felt meaningful or promising
 - Begin shaping a **clear narrative structure**
 
-You will then complete a **draft storyboard** using the **template provided by the instructor**.
+You will then complete a **draft brainstorming document** using the **template provided by the instructor**.
 
-This storyboard is not final. It is a **working document** that will evolve as you record and edit your project.
+This document is not final. It is a **working document** that will evolve as you record and edit your project.
 
 ---
 
 <h2 style="color: darkred;"> 📤 Required Upload — Class Work I  </h2>
 **Due after class**
 
-### Draft Brainstorm + Storyboard (Required Template)
+### Draft Brainstorm Document (Required Template)
 
 You must submit the **completed Brainstorm template** provided by the instructor.
 
@@ -124,7 +124,7 @@ The template must include:
 
 - **File format:** PDF  
 - **File name:**  
-  `Lastname-Name-P1storyboard.pdf`
+  `Lastname-Name-P1brainstorm.pdf`
 
 ⚠️ **Important:**  
 This must be a **completed draft**. Submissions that are blank, mostly empty, or missing required sections will not meet the expectations for Class Work I.
