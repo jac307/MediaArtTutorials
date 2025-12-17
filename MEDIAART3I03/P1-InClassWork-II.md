@@ -90,6 +90,7 @@ You are expected to:
 - Record visuals guided by your narration
 - Capture material for the **intro, middle, and ending**
 - Record multiple takes or variations when possible
+- ❗ Save all of your files in your USB before leaving class ❗
 
 The same four stations from Class Work I will be available:
 - **Scanners**
@@ -99,7 +100,7 @@ The same four stations from Class Work I will be available:
 
 ### Note for Sony Video Cameras
 
-<img src="imgs/07.jpeg" style="width: 50%; height: auto;">
+<img src="imgs/07.jpeg" style="width: 60%; height: auto;">
 
 ---
 
@@ -145,7 +146,7 @@ Final voice recording will take place during **Class Work III** in the audio stu
 ## Grading & Expectations (Maintenance-Based System)
 
 To maintain your grade for **Class Work II**, you are expected to:
-- Complete Parts 1, 2, and 3 during the session
+- Complete both activities during the session
 - Manage your time responsibly
 - Upload all three required items on time
 
