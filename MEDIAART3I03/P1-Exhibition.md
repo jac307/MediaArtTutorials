@@ -11,6 +11,8 @@
   </figcaption>
 </figure>
 
+---
+
 The Class Exhibition is the public presentation of your autobiographical documentary. This event is a **collective responsibility** and should be approached as a **professional creative production**, not simply a screening of individual work.
 
 Specific details (date, time, location, equipment, and schedules) will be provided on **Avenue to Learn**.
