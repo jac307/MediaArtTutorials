@@ -68,3 +68,22 @@ Guiding questions:
 - What happens when memory passes through obsolete or imperfect technologies?
 
 ---
+
+## Recording Equipment Requirements
+
+While **Class Work I** uses smartphones for exploratory testing and documentation, the **final documentary must be recorded using professional audio-visual equipment**.
+
+- **Video:** Professional cameras provided by the department (or approved equivalents)
+- **Audio:** Cassette recorders and/or professional audio equipment provided in class
+
+Smartphone recordings are:
+- ✔️ Appropriate for **Class Work I** experimentation
+- ❌ **Not acceptable** as primary footage for the final documentary
+
+Professional recording workflows will be introduced and supported during:
+- **Class Work II — Recording Session**
+- **Class Work III — Assembly & Editing**
+
+> This progression is intentional: you will move from **exploration → commitment → refinement** across the three class-work sessions.
+
+---
