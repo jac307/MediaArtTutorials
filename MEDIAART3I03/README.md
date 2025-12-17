@@ -16,6 +16,11 @@ Students will create an **autobiographical documentary** engaging with personal
 
 Students will create and present a **collective live storytelling performance**, engaging with video footage, audio mixing, live reading, and VJ/DJ practices. 
 
+---
+
+## Grading & Expectations (Maintenance-Based System)
+
+This course uses a **maintenance-based grading system**. All students begin the term at **100 points**, and grades are maintained through **consistent engagement, preparation, and completion of process work**.
 
 ________________________________________________________________________
 
