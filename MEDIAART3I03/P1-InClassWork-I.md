@@ -39,8 +39,6 @@ You must arrive prepared with:
 
 <h2 style="color: darkred;"> Part 1 — Analogue Experimentation (≈ 40 minutes) </h2>
 
-<img src="imgs/03.png" style="width: 100%; height: auto;">
-
 ### Available Stations
 
 - **Station 1 — Scanners**
@@ -61,7 +59,9 @@ You must arrive prepared with:
 - **Station 4 — Hand Recorders (Voice & Sound)**
   - Portable audio recorders
   - Record voice tests, ambient sounds, or spoken notes
-  - This station is for **audio experimentation only**  
+  - This station is for **audio experimentation only**
+
+<img src="imgs/03.png" style="width: 100%; height: auto;">
 
 ### Minimum Experimentation Requirements
 
