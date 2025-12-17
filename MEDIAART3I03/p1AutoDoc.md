@@ -5,6 +5,13 @@
 <h1 style="color: darkred;">Project 1 - Autobiographical Documentary</h1> 
 *Individual Project*
 
+figure style="width: 100%; margin: auto;">
+  <img src="imgs/01.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Examples by previous students.
+  </figcaption>
+</figure>
+
 ---
 
 ## Overview
@@ -36,6 +43,8 @@ You will work with some of the following tools:
 - Overhead projector  
 - Cassette recorders  
 - Scanners  
+
+<img src="imgs/01.png" style="width: 80%; height: auto;">
 
 Examples of valid re-mediation include:
 - Recording images or videos **off a CRT screen**
