@@ -26,6 +26,9 @@ You must arrive prepared with:
 - **A USB drive** containing:
   - Images and/or short videos from your **personal archives**
   - These can include family photos, personal videos, screenshots, scanned images, or other personal media you feel comfortable working with
+ 
+- **Your personal smartphone**
+  - You will use your phone to record short test videos, audio, and process documentation
 
 - **Optional but strongly encouraged:**  
   - **Small personal objects** (letters, notebooks, photographs, printed images, fabrics, objects, etc.)  
@@ -41,41 +44,43 @@ You must arrive prepared with:
 ### Available Stations
 
 - **Station 1 — Scanners**
-  - Two flatbed scanners
+  - Two flatbed scanners connected to separate computers
   - Explore scanning photos, letters, or objects
   - Experiment with movement during scanning to create distortions
 
-- **Station 2 — Overhead Projector + Camera**
-  - Light overhead projector with a camera pointing at the projection
+- **Station 2 — Overhead Projector**
+  - Two Light overhead projectors
   - Project photos, letters, drawings, or objects
-  - Record the projection or details of the projection surface
+  - Record the projection or details of the projection surface using your phone
 
-- **Station 3 — CRT TVs + Cameras**
-  - CRT televisions with cameras pointed at the screen
-  - Play images or videos and record the screen output
-  - Experiment with framing, focus, and screen texture
+- **Station 3 — CRT TVs**
+  - Three-Four CRT televisions
+  - Play images or videos from your USB and record the screen output using your phone
+  - Experiment with framing, focus, glare, and screen texture
 
 - **Station 4 — Hand Recorders (Voice & Sound)**
   - Portable audio recorders
   - Record voice tests, ambient sounds, or spoken notes
-  - This station is for **audio experimentation only**
+  - This station is for **audio experimentation only**  
 
 ### Minimum Experimentation Requirements
 
 During the 40-minute experimentation block, you **must**:
 
 - Visit **at least two (2)** stations  
-  *(you may visit up to three if time allows)*
+  *(you may explore up to three if time allows)*
 
 - At **each station**, produce **at least one test outcome**, such as:
   - A short video clip (5–30 seconds)
   - A short audio recording
   - A series of still images documenting the process or result
 
-- Work directly with **your own archival materials** whenever possible
+- Actively experiment using:
+  - Media from your USB **and/or**
+  - Personal objects brought to class
 
 Acceptable outputs include:
-- Short recordings (even with cellphones)
+- Short recordings
 - Fragmented tests
 - Process documentation photos taken for later reference
 
