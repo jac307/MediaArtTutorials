@@ -4,9 +4,7 @@
 
 <h1 style="color: darkred;">P1 – In-Class Work II</h1>  
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/05.png" style="width: 100%; height: auto;">
-</figure>
+<img src="imgs/05.png" style="width: 60%; height: auto;">
 
 ---
 ### Narrative Development · Scratch Voice · Visual Recording (Production Session)
