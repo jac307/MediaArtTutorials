@@ -11,7 +11,7 @@
 
 This class-work session focuses on **committing to your story** and **recording all visual materials** needed for your autobiographical documentary.
 
-Unlike Class Work I (exploration), this session is about **intentional production**. You will move from planning to execution, guided by your narration and storyboard.
+Unlike Class Work I (exploration), this session is about **intentional production**. You will move from planning to execution, guided by your narration and brainstorm document.
 
 This is a **3-hour production session**. You are expected to leave class with **all (or nearly all) visual materials recorded**.
 
