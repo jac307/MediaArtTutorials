@@ -124,7 +124,7 @@ The template must include:
 
 - **File format:** PDF  
 - **File name:**  
-  `Lastname-Name-P1brainstorm.pdf`
+  `Lastname-Name-Brainstorm.pdf`
 
 ⚠️ **Important:**  
 This must be a **completed draft**. Submissions that are blank, mostly empty, or missing required sections will not meet the expectations for Class Work I.
