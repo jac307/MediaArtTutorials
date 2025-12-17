@@ -39,13 +39,13 @@ You must arrive prepared with:
 
 ## Workflow Note (Important)
 
-You may complete **Part 1** and **Part 2** at any order during the class session.
+You may complete both of the following activities in any order during the class session.
 
 You are responsible for managing your time so that **both parts are completed** by the end of class.
 
 ---
 
-<h2 style="color: darkred;"> Part 1 — Narrative & Voice Script (≈ 30–40 minutes) </h2>
+<h2 style="color: darkred;"> Narrative & Voice Script (≈ 30–40 minutes) </h2>
 
 You will begin by **creating a draft version of your narration**.
 
@@ -74,7 +74,7 @@ You should:
 
 ---
 
-<h2 style="color: darkred;"> Part 2 - Visual Recording Session (≈ 2 hours) </h2>
+<h2 style="color: darkred;"> Visual Recording Session (≈ 2 hours) </h2>
 
 Using the analogue media stations, record all visual materials needed for your documentary.
 
