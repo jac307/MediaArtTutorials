@@ -9,7 +9,7 @@
 </figure>
 
 ---
-### Analogue Experimentation · Brainstorming · Storyboard (Process-Focused Session)
+### Analogue Experimentation · Brainstorming (Process-Focused Session)
 
 This first class-work session focuses on **hands-on experimentation** with analogue media technologies and the initial development of your project idea. The goal is not to produce finished material, but to **test, observe, and think through making**.
 
