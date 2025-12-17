@@ -50,7 +50,7 @@ You are responsible for managing your time so that **both parts are completed** 
 You will begin by **finalizing a draft version of your narration**.
 
 During this time, you will:
-- Review your storyboard and narrative outline
+- Review your brainstorm document and narrative outline
 - Write or refine your **voice-over script**, thinking carefully about:
   - a clear beginning, middle, and ending
 - Ensure the script has:
