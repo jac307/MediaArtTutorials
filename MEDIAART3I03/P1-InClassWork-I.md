@@ -104,25 +104,30 @@ This storyboard is not final. It is a **working document** that will evolve as y
 
 ---
 
-<h3 style="color: darkred;">📥 Required Upload — Class Work I</h3>
+## 📥 Required Upload — Class Work I  
 **Due after class**
 
-### Draft Storyboard (Required Template)
+### Draft Brainstorm + Storyboard (Required Template)
 
-- Use the **storyboard file provided by the instructor**
-- All three sections must be completed:
-  - **Intro**
-  - **Middle**
-  - **Conclusion**
-- Include notes on:
-  - Visual ideas
-  - Sound or narration ideas
-  - Which analogue stations/technologies you plan to use
+You must submit the **completed Brainstorm + Storyboard template** provided by the instructor.
+
+The template must include:
+
+- **Tentative project title**
+- **Short story/focus description** (2–3 lines)
+- **Planned analogue technologies**
+- **Brief narrative outline**:
+  - Intro (1–2 sentences)
+  - Middle (1–2 sentences)
+  - Ending (1–2 sentences)
+- **Planned archival materials**
 
 - **File format:** PDF  
-- **File name:** `Lastname-Name-P1storyboard.pdf`
+- **File name:**  
+  `Lastname-Name-P1storyboard.pdf`
 
-> ⚠️ This must be a **completed draft**, not a blank or partially filled file.
+⚠️ **Important:**  
+This must be a **completed draft**. Submissions that are blank, mostly empty, or missing required sections will not meet the expectations for Class Work I.
 
 ---
 
