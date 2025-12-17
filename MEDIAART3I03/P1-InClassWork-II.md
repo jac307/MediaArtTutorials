@@ -39,7 +39,7 @@ You must arrive prepared with:
 
 ## Workflow Note (Important)
 
-You may complete **Part 1** and **Part 2** during the class session.
+You may complete **Part 1** and **Part 2** at any order during the class session.
 
 You are responsible for managing your time so that **both parts are completed** by the end of class.
 
@@ -76,7 +76,7 @@ You should:
 
 ---
 
-<h2 style="color: darkred;"> Part 3 - Visual Recording Session (≈ 2 hours) </h2>
+<h2 style="color: darkred;"> Part 2 - Visual Recording Session (≈ 2 hours) </h2>
 
 Using the analogue media stations, record all visual materials needed for your documentary.
 
