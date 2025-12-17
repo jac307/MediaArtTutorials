@@ -3,28 +3,43 @@
 ---
 
 <h1 style="color: darkred;">P1 – In-Class Work III</h1>  
-*Individual Project*
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/32.png" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples from the internet.
-  </figcaption>
+  <img src="imgs/03.png" style="width: 100%; height: auto;">
 </figure>
 
 ---
+### Analogue Experimentation · Brainstorming (Process-Focused Session)
+
+
 
 ---
 
-<h2 style="color: darkred;">[30 min] Brainstorming & Concept Sketching</h2>
+## What to Bring to Class (Required)
+
+
 
 ---
 
-<h2 style="color: darkred;"> Illustrator → Inkscape Workflow </h2>
+<h2 style="color: darkred;"> Part 1 — Analogue Experimentation (≈ 40 minutes) </h2>
+
 
 ---
 
-<h3 style="color: darkred;">📥 Submission</h3>
+<h2 style="color: darkred;"> Part 2 — Brainstorming & Storyboard Draft (≈ 30 minutes) </h2>
 
+
+
+---
+
+<h2 style="color: darkred;"> 📤 Required Upload — Class Work I  </h2>
+**Due after class**
+
+
+---
+
+## Grading & Expectations (Maintenance-Based System)
+
+This
 
 ---
