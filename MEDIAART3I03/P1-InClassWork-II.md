@@ -47,21 +47,19 @@ You are responsible for managing your time so that **both parts are completed** 
 
 <h2 style="color: darkred;"> Part 1 — Narrative & Voice Script (≈ 30–40 minutes) </h2>
 
-You will begin by **finalizing a draft version of your narration**.
+You will begin by **creating a draft version of your narration**.
 
 During this time, you will:
-- Review your brainstorm document and narrative outline
-- Write or refine your **voice-over script**, thinking carefully about:
+- Review your brainstorm document and write a narrative script, thinking carefully about:
   - a clear beginning, middle, and ending
 - Ensure the script has:
   - natural pacing and tone
   - a total length of **approximately 2–3 minutes**
+- This script does not need to be perfect, this is a draft (or first) version.
 
 **Guideline:**  
 For a **1-minute documentary**, aim for **90–110 words of narration**.  
 *This allows space for pauses, silence, and visual moments without voice-over.*
-
-This script does not need to be perfect, but it **must be complete and usable**.
 
 ### Scratch Voice Recording
 
