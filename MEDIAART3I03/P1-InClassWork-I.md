@@ -104,7 +104,7 @@ This storyboard is not final. It is a **working document** that will evolve as y
 
 ---
 
-## 📥 Required Upload — Class Work I  
+<h2 style="color: darkred;"> 📤 Required Upload — Class Work I  </h2>
 **Due after class**
 
 ### Draft Brainstorm + Storyboard (Required Template)
