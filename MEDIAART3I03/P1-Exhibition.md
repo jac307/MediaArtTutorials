@@ -4,6 +4,13 @@
 
 <h1 style="color: darkred;"> Class Exhibition — Final Presentation of Project 1 </h1>  
 
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/09.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Examples of Graphic Design created for last year's Class Exhibition
+  </figcaption>
+</figure>
+
 The Class Exhibition is the public presentation of your autobiographical documentary. This event is a **collective responsibility** and should be approached as a **professional creative production**, not simply a screening of individual work.
 
 Specific details (date, time, location, equipment, and schedules) will be provided on **Avenue to Learn**.
