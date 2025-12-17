@@ -30,7 +30,7 @@ This project unfolds across **three structured class-work sessions**, each requi
 + [Class Work II](P1-InClassWork-II.md)
 + [Class Work III](P1-InClassWork-III.md)
 + [Rough Cut Submission + Critique Activity](P1-RoughCut.md)
-+ [Open Exhibition](P1-Exhibition.md)
++ [Class Exhibition — Final Presentation of Project 1](P1-Exhibition.md)
 + [Final Submission](P1-Final.md)
 
 ---
