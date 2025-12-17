@@ -29,6 +29,8 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 + [IARTS 3PE3 – Perspectives E: Key Issues of Equity, Diversity, and Inclusion in the Arts](IARTS3PE3/README.md)
 
++ [MEDIAART 3I03 – Narrative Strategies](MEDIAART3I03/README.md)
+
 
 ________________________________________________________________________
 
