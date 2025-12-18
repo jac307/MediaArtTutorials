@@ -73,7 +73,7 @@ During your recording session:
 When not in the audio studio, you are expected to be **editing your project**.
 
 You will:
-- Aspect ratio: **4:3** (min 1024x768)
+- Aspect ratio: **4:3** (min `1024 x 768 px`)
 - Assemble your documentary into a **single timeline**
 - Start using your **scratch narration** (or an updated test recording)
   > You will replace this with the final voice recording once done
@@ -119,7 +119,7 @@ You may use **royalty-free music and sounds** from the following sources:
 
 Upload: **Rough Cut Version**
 - Duration: **2–3 minutes**
-- Aspect ratio: **4:3** (min 1024x768)
+- Aspect ratio: **4:3** (min `1024 x 768 px`)
 - Includes:
   - final or near-final narration
   - all major visuals
