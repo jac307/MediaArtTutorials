@@ -65,6 +65,7 @@ Missing the deadline, arriving unprepared, or not completing peer feedback may s
 - Upload your **final video** at least **two (2) days before the exhibition** in order to be included.
 - Upload your **final title, project description, and high-quality screenshot** (instructions on the link below) and upload them at least **one (1) week before the exhibition** so they can be included in the exhibition design materials.
 - Carefully read and follow the instructions for the [**Class Exhibition**](P1-Exhibition.md).
+- Check instructions for [Final Submission](P1-Final.md)
 
 🚨 **Late submissions may result in your work not being included in the exhibition.**
 
