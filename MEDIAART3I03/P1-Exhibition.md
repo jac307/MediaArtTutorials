@@ -45,8 +45,12 @@ Your description should:
 - Briefly introduce the concept and theme of your documentary
 - Provide context for viewers encountering your work in the exhibition space
 
+### 4. High-Quality Screenshot
+- Chosen image should clearly represent the theme, the aesthetic, and the tone of your documentary
+- Good contrast and clarity (no pixelation, compression artifacts, or motion blur)
+
 📌 **Important:**  
-Final **title and project description must be submitted at least one (1) week before the exhibition** in order to be included in exhibition materials (posters, programs, labels, or other visual elements).
+Final **title, project description, and high-quality screenshot must be submitted at least one (1) week before the exhibition** in order to be included in exhibition materials (posters, programs, labels, or other visual elements).
 
 ---
 
