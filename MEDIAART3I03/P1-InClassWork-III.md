@@ -151,6 +151,7 @@ Incomplete recording, lack of editing progress, or missing submissions may signa
 
 <h2 style="color: darkred;"> After Class Work III (Important) </h2>
 
+- Read the expectations for [**Rough Cut Submission + Critique Activity**](P1-RoughCut.md)
 - Start preparing your **final title, project description, and high-quality screenshot** (instructions on the link below). You must upload these at least **one (1) week before the exhibition** so they can be included in the exhibition design materials.
 - Carefully read and follow the instructions for the [**Class Exhibition**](P1-Exhibition.md).
 
