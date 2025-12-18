@@ -15,8 +15,6 @@ This submission reflects:
 
 Specific deadlines will be communicated on **Avenue to Learn**.
 
----
-
 ## Submission Format & Naming
 
 - **Submission format:** ZIP file  
@@ -26,7 +24,7 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 
 ---
 
-<h2 style="color: darkred;">1. Final Autobiographical Documentary</h2>
+### 1. Final Autobiographical Documentary
 
 - **File format:** MP4  
 - **File name:** `LastName-FirstName-Title.mp4`
@@ -42,47 +40,10 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 
 ---
 
-### 1. Final Autobiographical Documentary
-
-- **File format:** MP4  
-- **File name:**  
-  `LastName-FirstName-Title.mp4`
-
-#### Technical Requirements
-- **Aspect ratio:** 4:3  
-- **Resolution:**  
-  - `1200 × 900 px` **or**  
-  - `1600 × 1200 px`
-- **English subtitles required**
-- **Title card at the beginning**
-- **Credits at the end**
-
-> You may make **final improvements or refinements** to your exhibition version before submitting this file.
-
----
-
-### 2. High-Quality Screenshot
-
-- **File format:** JPEG  
-- **File name:**  
-  `LastName-FirstName-Screenshot.jpeg`
-
-#### Image Requirements
-- Minimum **1280 px wide**
-- Chosen image should clearly represent:
-  - the theme
-  - the aesthetic
-  - the tone of your documentary
-- Good contrast and clarity  
-  (no pixelation, compression artifacts, or motion blur)
-
----
-
 ### 3. Documentary Info Sheet (Single PDF)
 
 - **File format:** PDF  
-- **File name:**  
-  `LastName-FirstName-InfoSheet.pdf`
+- **File name:** `LastName-FirstName-InfoSheet.pdf`
 
 This document must include:
 
