@@ -141,10 +141,6 @@ During this week, you are expected to:
 
 Final voice recording will take place during **Class Work III** in the audio studio. Arriving prepared will allow you to focus fully on recording and editing your rough cut.
 
-Additionally:
-- Start preparing your **final title, project description, and high-quality screenshot** (instructions on the link below). You must upload these at least **one (1) week before the exhibition** so they can be included in the exhibition design materials.
-- Carefully read and follow the instructions for the [**Class Exhibition**](P1-Exhibition.md).
-
 ---
 
 ## Grading & Expectations (Maintenance-Based System)
