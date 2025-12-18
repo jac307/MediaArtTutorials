@@ -40,7 +40,7 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 
 ---
 
-### 3. Documentary Info Sheet (Single PDF)
+### 2. Info Sheet (Single PDF)
 
 - **File format:** PDF  
 - **File name:** `LastName-FirstName-InfoSheet.pdf`
@@ -48,6 +48,7 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 This document must include:
 
 - **Film title**
+- **High-Quality Screenshot**
 - **Year of production**
 - **Author** (your name)
 - **Duration** (total runtime)
@@ -58,7 +59,7 @@ This document must include:
 - **Short artist bio** (80–150 words)  
   Write in a professional tone suitable for portfolios or festival submissions.
 - **Exhibition documentation**
-  - 2–3 photos of your work installed and shown in the exhibition
+  - 3-4 photos of your work installed and shown in the exhibition
   - Images should show context (screen, space, audience, or setup)
 
 > This document functions as a **professional press / documentation sheet**.
@@ -89,7 +90,7 @@ Missing components, incorrect formatting, or incomplete documentation may signal
 
 ---
 
-## 🎥 Why This Submission Format?
+## Why This Submission Format?
 
 This submission structure mirrors what is commonly required by:
 - documentary festivals
