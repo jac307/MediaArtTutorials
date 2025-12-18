@@ -119,7 +119,7 @@ You must upload the following three items:
    - **File format:** MP3 or WAV
    - **File name:** `Lastname-Name-Script.pdf`
 
-3. **Visual Materials Breakdown (PDF or Folder)**
+3. **Visual Materials Breakdown**
    - A short breakdown showing what you recorded
    - Include **stills, screenshots, or photos** from your recordings
    - Clearly label materials for Intro, Middle, & Ending
