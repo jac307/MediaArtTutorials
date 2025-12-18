@@ -66,14 +66,17 @@ This document must include:
 
 ---
 
-<h3 style="color: darkred;">📥 Final Submission Steps/h3>
+## Why This Submission Format?
 
-1. Create a folder named:  
-   `LastName-FirstName`
-2. Place **all required files** inside this folder
-3. Compress the folder into a ZIP file named:  
-   `LastName-FirstName-P1.zip`
-4. Upload the ZIP file to **Avenue to Learn**
+This submission structure mirrors what is commonly required by:
+- documentary festivals
+- artist portfolios
+- screenings and exhibitions
+
+By completing this package, you will leave the course with:
+- a finished work
+- exhibition documentation
+- a reusable professional presentation set
 
 ---
 
@@ -87,19 +90,5 @@ To maintain your grade for **Project 1**, you are expected to:
 - Present your work professionally and clearly
 
 Missing components, incorrect formatting, or incomplete documentation may signal a **break in maintenance**, even if the documentary itself is complete.
-
----
-
-## Why This Submission Format?
-
-This submission structure mirrors what is commonly required by:
-- documentary festivals
-- artist portfolios
-- screenings and exhibitions
-
-By completing this package, you will leave the course with:
-- a finished work
-- exhibition documentation
-- a reusable professional presentation set
 
 ---
