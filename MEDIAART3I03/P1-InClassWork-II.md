@@ -130,19 +130,6 @@ You must upload the following three items:
 
 ---
 
-## After Class Work II (Important)
-
-Between **Class Work II** and **Class Work III**, your focus should be **only** on your narration.
-
-During this week, you are expected to:
-- Revise and refine your **written narration script**
-- Practice reading your script aloud
-- Adjust pacing, tone, and emphasis in preparation for the final recording
-
-Final voice recording will take place during **Class Work III** in the audio studio. Arriving prepared will allow you to focus fully on recording and editing your rough cut.
-
----
-
 ## Grading & Expectations (Maintenance-Based System)
 
 To maintain your grade for **Class Work II**, you are expected to:
@@ -153,3 +140,15 @@ To maintain your grade for **Class Work II**, you are expected to:
 Incomplete uploads or missing components may signal a **break in maintenance**.
 
 ---
+
+<h2 style="color: darkred;"> After Class Work II (Important) </h2>
+
+During this week, you are expected to:
+- Revise and refine your **written narration script**
+- Practice reading your script aloud
+- Adjust pacing, tone, and emphasis in preparation for the final recording
+
+Final voice recording will take place during **Class Work III** in the audio studio. Arriving prepared will allow you to focus fully on recording and editing your rough cut.
+
+---
+
