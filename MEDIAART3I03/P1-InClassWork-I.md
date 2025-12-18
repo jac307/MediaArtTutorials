@@ -127,7 +127,7 @@ The template must include:
   `Lastname-Name-Brainstorm.pdf`
 
 ⚠️ **Important:**  
-This must be a **completed draft**. Submissions that are blank, mostly empty, or missing required sections will not meet the expectations for Class Work I.
+This must be a **completed draft**. Submissions that are blank, mostly empty, or missing required sections will not meet the expectations for Class Work I.  
 
 ---
 
@@ -143,6 +143,16 @@ For **Class Work I**, maintaining your grade means:
 
 Missing this upload, arriving unprepared, or not engaging with experimentation may signal a **break in maintenance**, which can result in a grade adjustment later in the term.
 
-This session lays the **foundation** for your entire project. The care and curiosity you bring here will directly shape the clarity and depth of your final documentary.
+---
+
+<h2 style="color: darkred;"> After Class Work I (Important) </h2>
+
+Gather the **personal archival materials** you plan to include in your autobiographical documentary (images, videos, audio, texts, objects).
+
+**Note:**  
+Defining the **script (narrative layer)** and completing all **recording and production** will take place during  
+[**Class Work II**](P1-InClassWork-II.md).
+
+Arriving prepared with your materials will allow you to focus fully on recording during the next session.
 
 ---
