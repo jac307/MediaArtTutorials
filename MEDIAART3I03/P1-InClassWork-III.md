@@ -137,14 +137,8 @@ Upload: **Rough Cut Version**
 
 ## After Class Work III (Important)
 
-Between **Class Work III** and the **Class Exhibition**, you are required to:
+Between **Class Work III** and the **Rough Cut Submission + Critique Activity**, you are required to:
 
-- Complete the **final version of your video**, including:
-  - English subtitles  
-  - A title at the beginning  
-  - Credits at the end
-
-Additionally:
 - Start preparing your **final title, project description, and high-quality screenshot** (instructions on the link below). You must upload these at least **one (1) week before the exhibition** so they can be included in the exhibition design materials.
 - Carefully read and follow the instructions for the [**Class Exhibition**](P1-Exhibition.md).
 
