@@ -144,7 +144,7 @@ Between **Class Work III** and the **Class Exhibition**, you are required to:
   - A title at the beginning  
   - Credits at the end
 - Upload your **final video** at least **two (2) days before the exhibition** in order to be included.
-- Prepare your **final title and project description** and upload them at least **one (1) week before the exhibition** so they can be included in the exhibition design materials.
+- Upload your **final title, project description, and high-quality screenshot** (instructions on the link below) and upload them at least **one (1) week before the exhibition** so they can be included in the exhibition design materials.
 - Carefully read and follow the instructions for the [**Class Exhibition**](P1-Exhibition.md).
 
 🚨 **Late submissions may result in your work not being included in the exhibition.**
