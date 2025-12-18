@@ -20,8 +20,7 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 ## Submission Format & Naming
 
 - **Submission format:** ZIP file  
-- **ZIP file name:**  
-  `LastName-FirstName-P1.zip`
+- **ZIP file name:** `LastName-FirstName-P1.zip`
 
 ⚠️ Failure to follow the submission and naming guidelines may result in a grade adjustment.
 
@@ -30,14 +29,11 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 <h2 style="color: darkred;">1. Final Autobiographical Documentary</h2>
 
 - **File format:** MP4  
-- **File name:**  
-  `LastName-FirstName-Title.mp4`
+- **File name:** `LastName-FirstName-Title.mp4`
 
 #### Technical Requirements
 - **Aspect ratio:** 4:3  
-- **Resolution:**  
-  - `1200 × 900 px` **or**  
-  - `1600 × 1200 px`
+- **Resolution:** min `1024 x 768 px`
 - **English subtitles required**
 - **Title card at the beginning**
 - **Credits at the end**
