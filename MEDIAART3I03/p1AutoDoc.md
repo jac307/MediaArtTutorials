@@ -74,7 +74,8 @@ Guiding questions:
 While **Class Work I** uses smartphones for exploratory testing and documentation, the **final documentary must be recorded using professional audio-visual equipment**.
 
 - **Video:** Professional cameras provided by the department (or approved equivalents)
-- **Audio:** Cassette recorders and/or professional audio equipment provided in class
+- **Audio:** Professional audio equipment provided in class
+  > Audio recorded with Cassette recorders must be re-recorded using professional audio equipment too.
 
 Smartphone recordings are:
 - ✔️ Appropriate for **Class Work I** experimentation
