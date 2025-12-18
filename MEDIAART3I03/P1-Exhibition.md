@@ -28,6 +28,7 @@ To be included in the exhibition, you must submit the following materials by the
 
 ### 1. Final Video
 - Final version of your documentary
+- English subtitles required
 - Must meet all technical requirements outlined in Project 1
 - Videos must be submitted **at least two (2) days before the exhibition**
   - Late submissions may not be included in the exhibition
