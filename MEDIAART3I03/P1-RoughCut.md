@@ -43,9 +43,20 @@ Your job is to help the maker understand how their story is landing right now.
 
 ---
 
-## After Class Rough Cut Submission + Critique Activity (Important)
+## Grading & Expectations (Maintenance-Based System)
 
-Between **Class Rough Cut Submission + Critique Activity** and the **Class Exhibition**, you are required to:
+For the **Rough Cut Submission + Critique Activity**, maintaining your grade means:
+
+- Uploading your rough cut **at least one (1) day before** the critique session
+- Attending the full session and participating professionally
+- Completing and submitting the **Peer Review Sheet** for each assigned project
+- Respecting the time, attention, and work of your peers
+
+Missing the deadline, arriving unprepared, or not completing peer feedback may signal a **break in maintenance**, which can affect your overall standing in the course.
+
+---
+
+<h2 style="color: darkred;"> After Class Rough Cut Submission + Critique Activity (Important) </h2>
 
 - Complete the **final version of your video**, including:
   - English subtitles  
@@ -58,3 +69,4 @@ Between **Class Rough Cut Submission + Critique Activity** and the **Class Exhib
 🚨 **Late submissions may result in your work not being included in the exhibition.**
 
 ---
+
