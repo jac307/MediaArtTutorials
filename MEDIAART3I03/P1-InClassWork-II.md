@@ -148,7 +148,7 @@ During this week, you are expected to:
 - Practice reading your script aloud
 - Adjust pacing, tone, and emphasis in preparation for the final recording
 
-Final voice recording will take place during **Class Work III** in the audio studio. Arriving prepared will allow you to focus fully on recording and editing your rough cut.
+Final voice recording will take place during [**Class Work III**](P1-InClassWork-III.md) in the audio studio. Arriving prepared will allow you to focus fully on recording and editing your rough cut.
 
 ---
 
