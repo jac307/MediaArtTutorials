@@ -126,11 +126,15 @@ These images will be submitted after the exhibition as part of your final docume
 
 ## Grading & Expectations (Maintenance-Based System)
 
-Participation in the Class Exhibition includes:
-- timely submission of required materials
-- completion of your assigned production role
-- professional conduct during setup, exhibition, and cleanup
+Maintaining your grade for the Class Exhibition requires:
 
-Failure to meet these expectations may signal a **break in maintenance**, even if your individual project is complete.
+- **Uploading all required materials on time**, including:
+  - final video **at least two days before** the Class exhibition
+  - project title, project description, and high-quality screenshot **at least one week before** the Class exhibition
+- Completing your **assigned production role** reliably
+- Being present and participating professionally during the exhibition
+- Respecting shared time, equipment, and peer labor
+
+Failure to upload required materials by the stated deadlines or to fulfill exhibition responsibilities may signal a **break in maintenance**, even if your individual project is otherwise complete., even if your individual project is complete.
 
 ---
