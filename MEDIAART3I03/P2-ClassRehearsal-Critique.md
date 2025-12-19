@@ -25,7 +25,7 @@ This activity will begin **at the scheduled class time, sharp**. The instructor 
 
 Each group will have **20–25 minutes total**, which includes:
 
-1. **Setup**
+1. **Setup**  
    *(while the before group removes their materials)*
 3. **Single Performance Round** (8–10 minutes)
 4. **In-Class Critique & Spoken Feedback**
