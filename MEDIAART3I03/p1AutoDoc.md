@@ -88,3 +88,34 @@ Professional recording workflows will be introduced and supported during:
 > This progression is intentional: you will move from **exploration → commitment → refinement** across the three class-work sessions.
 
 ---
+
+<h2 style="color: darkred;"> Creative Production & Event Support (Required) </h2>
+
+The exhibition is a **collective production**, and all students are expected to contribute beyond their individual project.
+
+### Production Roles
+
+Each student will:
+- Be assigned (or volunteer for) a **specific production role**
+- Work collaboratively with peers and the instructor
+- Complete their responsibilities reliably and on time
+
+Roles may include:
+- **Design & Visual Materials** (posters, signage, digital assets)
+- **Communications / Text Editing**
+- **Technical Preparation**
+- **Transportation**
+- **Setup & Cleanup**
+- **Event Support**
+
+One student will be invited by the instructor to act as the **student coordinator**, helping manage communication and workflow.
+
+A **sign-up spreadsheet** for roles will be available on **Avenue to Learn** early in the term.
+
+This component emphasizes:
+- professionalism
+- collaboration
+- care for shared resources
+- respect for collective labor
+
+---
