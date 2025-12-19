@@ -163,9 +163,9 @@ Failure to prepare, attend, or engage meaningfully may signal a **break in maint
 
 Before the [**Class Rehearsal + Critique Activity**](P2-ClassRehearsal-Critique.md), you are expected to:
 - gather all final required materials
-- read the instructions for the Class Rehearsal + Critique Activityactivity to understand expectations
+- read the instructions for the Class Rehearsal + Critique Activity activity to understand expectations
 
-## Independent Rehearsal (Strongly Recommended)
+### Independent Rehearsal (Strongly Recommended)
 
 In addition to instructor-led rehearsals, groups are **strongly encouraged** to rehearse independently, even if:
 - not all equipment is available
