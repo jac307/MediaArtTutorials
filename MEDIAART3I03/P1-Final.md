@@ -15,13 +15,6 @@ This submission reflects:
 
 Specific deadlines will be communicated on **Avenue to Learn**.
 
-## Submission Format & Naming
-
-- **Submission format:** ZIP file  
-- **ZIP file name:** `LastName-FirstName-P1.zip`
-
-⚠️ Failure to follow the submission and naming guidelines may result in a grade adjustment.
-
 ---
 
 ### Info Sheet (Single PDF)
