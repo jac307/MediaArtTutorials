@@ -26,20 +26,20 @@ You are responsible for editing, organizing, and presenting these materials.
 
 This document must include:
 
-- Representative image/photo
-- Project title
-- Year of production
-- Group members (with country of origin, role, and short 50-80 words bio)
-- Duration of performance
+- **Project title**
+- **High-Quality Representative image/photo**
+- **Year of production**
+- **Group members** (with country of origin, role, and short 50-80 words bio)
+- **Duration** of performance
 - **Description** (150–200 words)
   - Focus on concept, structure, and live elements
-- Link to Full Performance
+- **Link to Full Performance**
   **read requirements below)  
-- List of materials and technologies used
-- Performance context:
+- **List of materials and technologies used**
+- **Performance context**:
   - Open Performance (public concert)
   - Location and date (as provided on Avenue)
-- 3-5 concert photos. These should show:
+- **3-5 concert photos**. These should show:
   - the performance in the concert space
   - performers in action
   - interaction between sound, visuals, and space
