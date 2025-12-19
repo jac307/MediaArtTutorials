@@ -4,7 +4,12 @@
 
 <h1 style="color: darkred;">Open Performance — Public Concert Presentation</h1>  
 
-<img src="imgs/18.png" style="width: 60%; height: auto;">
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/18.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Class Concert Winter 2025
+  </figcaption>
+</figure>
 
 The **Open Performance** is the final public presentation of your performative storytelling project.  
 This concert marks the culmination of weeks of planning, technical coordination, rehearsal, and refinement.
