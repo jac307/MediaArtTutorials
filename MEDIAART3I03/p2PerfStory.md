@@ -46,15 +46,10 @@ Visuals will be generated using:
 - A **light table** with a **live camera feed**
 - Physical materials placed, moved, layered, or manipulated on the light table  
   (e.g. paper, transparencies, drawings, found objects, textures)
-- An optional **second live camera feed** pointing to an alternative visual source  
-  (e.g. hands, objects, gestures, small environments)
+- **Optional:** a small projection on the floor or table, using the **same live camera feed** to switch between the light table and the projection surface
 
-Both camera feeds will be routed into a **single computer**, where groups can:
-- mix between feeds
-- layer or switch visuals
-- experiment with live compositing
-
-> Pre-recorded videos or pre-rendered animations are **not permitted**.  
+> Pre-recorded videos or pre-rendered animations are **not permitted**,  
+> **unless** they are played and **actively altered live** through the optional setup.  
 > Visual storytelling must rely on **improvisation, material exploration, and live manipulation**.
 
 <img src="imgs/11.png" style="width: 50%; height: auto;">
@@ -70,9 +65,7 @@ Groups may use:
 - Cassette players or other analogue playback devices
 - Voice (spoken, whispered, or performed)
 
-Sound will be captured using:
-- **Microphones**
-- **Contact microphones**
+Sound will be captured using **microphones**.
 
 Audio will be mixed live and should respond to:
 - the visuals
@@ -80,7 +73,8 @@ Audio will be mixed live and should respond to:
 - the space
 - the unfolding structure of the performance
 
-> Pre-recorded soundtracks or fixed compositions are **not permitted**.  
+> Pre-recorded soundtracks or fixed compositions are **not permitted**,  
+> **unless** they are played and **actively altered live** through cassette players or other analogue playback devices.  
 > Sound should be treated as a **performative and responsive element**, not background.
 
 ---
