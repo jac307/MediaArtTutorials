@@ -35,8 +35,6 @@ Each group will have **20–25 minutes total**, which includes:
 ⚠️ Because time is shared, **groups must respect time limits**.  
 Late arrivals or slow setup will reduce performance or critique time.
 
----
-
 ## Performance Requirements
 
 - This rehearsal takes place in the **concert space**
@@ -65,8 +63,6 @@ Groups must:
 
 This activity is about **listening, observing, and responding thoughtfully** to live work.
 
----
-
 ## Grading & Expectations (Maintenance-Based System)
 
 For the **Class Rehearsal + Critique Activity**, maintaining your grade means:
@@ -90,8 +86,6 @@ These changes must be:
 - focused on timing, clarity, pacing, or coordination
 - **not** structural, conceptual, or technical redesigns
 
----
-
 ### Independent Rehearsal (Strongly Recommended)
 
 Groups are **strongly encouraged** to rehearse independently between this session and the **Concert Rehearsal**, even if:
@@ -105,8 +99,6 @@ Independent rehearsal should focus on:
 - coordination between roles
 - transitions and flow
 
----
-
 ### Preparation for Concert Rehearsal (Required)
 
 By the time of the **Concert Rehearsal**/**Open Performance**:
@@ -118,5 +110,3 @@ By the time of the **Concert Rehearsal**/**Open Performance**:
 
 
 ---
-
-
