@@ -29,7 +29,7 @@ This rehearsal will function as a **real-time run** of the entire concert, with:
 - no extended discussion
 - full attention to timing and flow
 
-### Pre-Concert Rehearsal Structure
+### Structure
 
 - Groups will perform in the **same order** as the **Class Rehearsal + Critique Activity**
 - Each group must arrive **ready to set up**
@@ -61,17 +61,14 @@ The public concert will follow this structure:
      - set up the next group
    - Groups must work efficiently and collaboratively during transitions
 
-## Expectations for the Day of the Concert
+## Expectations
 
 ### Arrival & Professional Conduct
 
 - Students must arrive at the **required call time** communicated on Avenue
-- All performers must be:
-  - present
-  - prepared
-  - professional
+- All performers must be present, prepared, and professional
 
-All materials used in the performance must be brought to the **Pre-Concert Rehearsal** and will remain ready for the concert, which will take place **one or two days later** (preferably the following day).
+All materials used in the performance must be brought to the **Pre-Concert Rehearsal** and will remain ready for the concert, which will take place **one or two days later**.
 
 ### During the Concert
 
@@ -108,38 +105,6 @@ Students are encouraged to:
 This is an opportunity to present your work beyond the classroom.
 
 ---
-
-<h2 style="color: darkred;"> Creative Production & Event Support (Required) </h2>
-
-The **Open Performance** is a **collective production**, and all students are expected to contribute beyond their individual group performance.
-
-This component emphasizes:
-- professionalism
-- collaboration
-- care for shared resources
-- respect for collective labor
-
-### Production Roles
-
-Each student will:
-- be assigned (or volunteer for) a **specific production role**.
-- work collaboratively with peers and the instructor
-- complete their responsibilities **reliably and on time**
-
-For this activity, production roles include:
-
-- **Design & Visual Materials**  
-  (posters, signage, digital assets)
-- **Communications / Text Editing**
-- **Technical Preparation**
-- **Transportation**
-- **Setup & Cleanup**
-- **Concert Presenter**  
-  (introducing the event and/or individual performances)
-
-One student will be invited by the instructor to act as the **Student Coordinator**, helping manage communication, scheduling, and workflow across roles.
-
-A **sign-up spreadsheet** for production roles will be available on **Avenue to Learn** early in the term.
 
 ## Grading & Expectations (Maintenance-Based System)
 
