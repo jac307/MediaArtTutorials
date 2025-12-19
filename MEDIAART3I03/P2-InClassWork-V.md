@@ -64,7 +64,7 @@ This allows for discussion of:
 <img src="imgs/15.png" style="width: 60%; height: auto;">
 
 Each group must define a **lighting plan**, including:
-- type and position: spotlights (focused, directional beam), floodlights / wash lights (wide, even spread of light), side lighting (illuminates performers from the sides), backlighting (light performers from behind), practical Lights (visible light sources used as part of the performance)
+- type and position
 - colour(s) and intensity
 - cue points (based on time) and any motion or transitions
 
