@@ -48,9 +48,9 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 This document must include:
 
 - **Film title**
-- **High-Quality Screenshot**
+- **High-Quality Representative Screenshot**
 - **Year of production**
-- **Author** (your name)
+- **Author** (name with country of origin)
 - **Duration** (total runtime)
 - **Short description** (100–150 words)  
   A concise explanation of the documentary’s concept, theme, and approach.
