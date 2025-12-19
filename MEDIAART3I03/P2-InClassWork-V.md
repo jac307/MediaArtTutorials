@@ -146,8 +146,8 @@ This document must include:
    - acknowledgment of fixed equipment locations
    - list of instruments / objects being used
    - confirmation that no additional major changes are planned
-6. Floor Plan (Near-Final Version)
-7. Performance / Visual Score (Near-Final Version)
+6. **Floor Plan** (Near-Final Version)
+7. **Performance / Visual Score** (Near-Final Version)
 
 **File format:** PDF  
 **File name:** `GroupName-P2-Project.pdf`
