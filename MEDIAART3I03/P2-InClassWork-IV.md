@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">P1 – In-Class Work II</h1>  
 
-<img src="imgs/05.png" style="width: 60%; height: auto;">
+<img src="imgs/12.png" style="width: 60%; height: auto;">
 
 ---
 
@@ -27,25 +27,32 @@ These materials will guide your **technical meetings in Class Work V** and your 
 
 <h2 style="color: darkred;">Group Formation & Required Roles</h2>
 
-Project 2 is a **group-based performance**. Each group must include **at minimum** the following roles:
+Project 2 is a **group-based performance** of **4–5 students per group**.  
+Each group must include **at minimum** the following roles:
 
 - **Spoken Word / Performer**
   - Live voice presence (spoken word, poetry, singing, improvisation, or other vocal performance)
+
 - **Live Sound**
   - Sound generated live using instruments, objects, toys, recorders, microphones, or contact microphones
+
 - **Live Visuals**
   - Live visuals using the light table and/or live camera feeds
-- **Coordinator / Lighting & Space**
-  - Oversees spatial layout, lighting logic, transitions, and coordination between elements
 
-> One person may take on **more than one role** if needed, but responsibilities must be clearly defined.
+- **Coordinator / Lighting & Space**
+  - Oversees spatial layout  
+  - Runs lighting cues and checks sound levels live  
+  - Coordinates transitions between elements
+
+> Each **student must take only one role**.  
+> Responsibilities must be clearly defined and **evenly distributed**.
 
 ### Optional / Expanded Roles
 
 Groups may also choose to include:
 - dancers or movers
-- additional performers
-- collaborators outside the class (must be communicated clearly)
+- additional performer roles
+- collaborators outside the class *(talk to the instructor first)*
 
 ---
 
@@ -56,8 +63,10 @@ Before planning, **review the project restrictions**:
 - **All sound must be live**
 - **All visuals must be live**
 - No pre-rendered video
-- No fixed soundtracks
-- Performance must respond to space, audience, and duration
+- No fixed soundtracks  
+  *(unless sound is played and actively manipulated using old recorders)*
+- Performance must respond to **space, audience, and duration**
+- **Duration:** 8–10 minutes
 
 The spoken word component may include:
 - reading poetry or text
@@ -74,11 +83,14 @@ For this project, the instructor will provide:
 - Live cameras
 - Microphones and contact microphones
 - Main computer to manage live video feeds
+- Old recorders
+- General props (chairs, tables, etc.)
 
 ### What You Must Bring / Source
 
 Each group is responsible for bringing:
-- physical materials for visuals (paper, transparencies, drawings, objects, textures)
+- physical materials for visuals  
+  (paper, transparencies, drawings, objects, textures)
 - instruments, toys, recorders, or sound objects
 - any additional props or materials required for performance
 
@@ -92,6 +104,13 @@ As a group, discuss:
 - the core idea or atmosphere of the performance
 - themes, emotions, or narratives
 - how sound, visuals, voice, and space interact
+
+**The shared theme for this project is *Space*.**  
+Reflect collectively on what *space* can mean, such as:
+- geographical space
+- the body as space
+- cultural or social space
+- imagined or abstract space
 
 ---
 
@@ -108,13 +127,14 @@ Each student must begin drafting **their individual approach** so they arrive pr
 
 ### 3. Floor Plan (Work-in-Progress)
 
-Using the **architectural ground plan** provided by the instructor, draft a floor plan that considers:
-- performance area
-- audience position
-- projection surface(s)
+Using the **architectural ground plan** provided by the instructor, draft a floor plan that considers the position of all elements and performers within the performance area.
+
+Consider the fixed positions of:
+- audience
+- projection surfaces
+- light table
 - speakers
-- performer(s)
-- lighting zones
+- control table (lighting and sound)
 
 This plan may change later — it is a **planning tool**, not a final diagram.
 
@@ -137,18 +157,8 @@ This can be:
 
 The goal is to **communicate structure**, not perfection.
 
----
-
-## Preparation for Class Work V (Important)
-
-Before **Class Work V — Technical Meetings**, each student must:
-- review their assigned role
-- bring notes, sketches, or ideas specific to:
-  - sound
-  - visuals
-  - lighting
-  - performance
-- be ready to discuss concrete needs with technicians
+Examples:  
+<img src="imgs/13.png" style="width: 60%; height: auto;">
 
 ---
 
@@ -178,20 +188,27 @@ To maintain your grade for **Class Work IV**, you are expected to:
 - contribute ideas and planning materials
 - complete and upload the required planning document on time
 
-This session is foundational.  
+This session is **foundational**.  
 Lack of preparation here will affect **Class Work V, rehearsals, and the final performance**, and may signal a **break in maintenance**.
-
 
 ---
 
 <h2 style="color: darkred;">After Class Work IV (Important)</h2>
 
-Before **Class Work V**, you are expected to:
-- refine your role-specific ideas
-- gather or source materials you will need
-- review the live sound and live visual restrictions
-- come prepared to speak clearly with technicians
+Before **Class Work V — Technical Meetings**, each student must:
+- review their assigned role
+- bring notes, sketches, question, or ideas specific to:
+  - sound
+  - visuals
+  - lighting
+  - performance
+- be ready to discuss **concrete technical needs** with technicians
 
-Class Work V will focus on **technical feasibility**, not conceptual brainstorming.
+Additionally, begin to:
+- defin your role-specific ideas
+- gather source materials you will need
+- review the live sound and live visual restrictions
+
+Class Work V will focus on **technical feasibility**, not conceptual brainstorming. Be open to work with the possibilities and restrictions of the space and available equipment.  
 
 ---
