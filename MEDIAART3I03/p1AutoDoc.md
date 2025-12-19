@@ -26,12 +26,12 @@ This project unfolds across **three structured class-work sessions**, each requi
 
 ## Index
 
-+ [Class Work I](P1-InClassWork-I.md)
-+ [Class Work II](P1-InClassWork-II.md)
-+ [Class Work III](P1-InClassWork-III.md)
++ [Class Work I - Analogue Experimentation & Brainstorming](P1-InClassWork-I.md)
++ [Class Work II - Narrative Development, Scratch Voice, & Visual Recording](P1-InClassWork-II.md)
++ [Class Work III - Final Voice Recording, Editing, & Rough Cut Assembly](P1-InClassWork-III.md)
 + [Rough Cut Submission + Critique Activity](P1-RoughCut.md)
 + [Class Exhibition — Final Presentation of Project 1](P1-Exhibition.md)
-+ [Final Submission](P1-Final.md)
++ [Final Submission — Project 1 Documentation Package](P1-Final.md)
 
 ---
 
