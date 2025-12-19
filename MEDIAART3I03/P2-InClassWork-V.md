@@ -8,207 +8,161 @@
 
 ---
 
-### Collective Brainstorming · Scoring · Roles & Spatial Planning  
+### Technical Meetings · Spatial Finalization · Performance Lock-In  
+*(Production Planning Session)*
 
-This class-work session marks the **official beginning of Project 2**.
+Class Work V is a **critical production session** where all groups move from planning to **technical definition**.
 
-The focus of Class Work IV is to **form groups**, **define creative roles**, and **collectively plan** your live performative storytelling piece. This is a **conceptual and organizational session**, not a rehearsal or technical run.
+This session focuses on:
+- meeting with technicians
+- finalizing spatial, lighting, sound, and visual decisions
+- locking in a **workable version** of the performance plan
 
-By the end of this class, each group must have:
-- a shared concept
-- clearly defined roles
-- a **work-in-progress floor plan**
-- a **work-in-progress visual / performance score**
+By the end of this class, your project should be **technically coherent and feasible**.
 
-These materials will guide your **technical meetings in Class Work V** and your rehearsals.
-
----
-
-<h2 style="color: darkred;">Group Formation & Required Roles</h2>
-
-Project 2 is a **group-based performance** of **4–5 students per group**.  
-Each group must include **at minimum** the following roles:
-
-- **Spoken Word / Performer**
-  - Live voice presence (spoken word, poetry, singing, improvisation, or other vocal performance)
-
-- **Live Sound**
-  - Sound generated live using instruments, objects, toys, recorders through microphones.  
-
-- **Live Visuals**
-  - Live visuals using the **light table with a live camera feed**, with the option to use a **small projection** and move between the light table and projection surface in real time.  
-
-- **Coordinator / Lighting & Space**
-  - Oversees spatial layout  
-  - Runs lighting cues and checks sound levels live  
-  - Coordinates transitions between elements
-
-> Each **student must take only one role**.  
-> Responsibilities must be clearly defined and **evenly distributed**.
-
-### Optional / Expanded Roles
-
-Groups may also choose to include:
-- dancers or movers
-- additional performer roles
-- collaborators outside the class *(talk to the instructor first)*
+> This is the week where decisions are **defined and stabilized**.  
+> Minor adjustments may happen later during rehearsals, but **no major conceptual or structural changes** should occur after this point.
 
 ---
 
-## Live Performance Constraints (Reminder)
+## Fixed Technical Constraints
 
-Before planning, **review the project restrictions**:
+The following elements are **predefined and unmovable**:
 
-- **All sound must be live**
-- **All visuals must be live**
-- No pre-rendered or pre-recorded video  
-  *(unless sound is played and **actively manipulated live**)*
-- No fixed soundtracks  
-  *(unless sound is played and **actively manipulated live**)*
-- The performance must respond to **space, audience, and duration**
-- **Duration:** 8–10 minutes
+- The **light table** location
+- Microphone positions for live sound
+- The **control booth**, located on the **opposite side of the performance area**
 
-The spoken word component may include:
-- reading poetry or text
-- improvisation
-- singing
-- hybrid or experimental vocal approaches
+The **Coordinator / Lighting & Space** role is responsible for:
+- overseeing the performance flow
+- monitoring lighting cues
+- ensuring all elements remain coordinated
+
+Lighting will function as a **primary cueing system** for performers.  
+Everyone in the group must understand and follow lighting cues.
 
 ---
 
-## What the Instructor Provides
+## Sound & Instrumentation Constraints
 
-For this project, the instructor will provide:
-- Light table
-- Live camera setup
-- Microphones
-- Recorders
-- General props (chairs, tables, etc.)
+- You **cannot use the piano** located in the space
+- If using instruments, **you must bring them**
+- Any instruments, objects, or sound devices must be:
+  - listed clearly
+  - communicated to the instructor and technicians
 
-### What You Must Bring / Source
-
-Each group is responsible for bringing:
-- physical materials for visuals  
-  (paper, transparencies, drawings, objects, textures)
-- instruments, toys, recorders, or sound objects
-- any additional props, costumes, or any other materials required for performance
+This allows for discussion of:
+- amplification needs
+- microphone types
+- feedback risks
+- spatial feasibility
 
 ---
 
-<h2 style="color: darkred;"> Brainstorming & Planning (≈ 60 minutes) </h2>
+## Lighting Design
 
-### 1. Collective Brainstorming
-
-As a group, discuss:
-- the core idea or atmosphere of the performance
-- themes, emotions, or narratives
-- how sound, visuals, voice, and space interact
-
-**The shared theme for this project is *Space*.**  
-Reflect collectively on what *space* can mean, such as:
-- geographical space
-- the body as space
-- cultural or social space
-- imagined or abstract space
-
----
-
-### 2. Role Definition
-
-Each group must clearly assign:
-- who is responsible for each role
-- how roles interact during the performance
-- how cues or transitions will be coordinated
-
-Each student must begin drafting **their individual approach** so they arrive prepared for [Class Work V](P2-InClassWork-V.md).
-
----
-
-### 3. Floor Plan (Work-in-Progress)
-
-Using the **architectural ground plan** provided by the instructor, draft a floor plan that considers the position of all elements and performers within the performance area.
-
-Consider the fixed positions of:
-- audience
-- projection surfaces
-- light table
-- speakers
-- control table (lighting and sound)
-
-This plan may change later — it is a **planning tool**, not a final diagram.
-
----
-
-### 4. Visual / Performance Score (Work-in-Progress)
-
-Create a **visual or temporal score** that maps:
-- time
-- actions
-- sound events
-- visual changes
-- spoken word moments
-
-This can be:
-- drawn
-- diagrammatic
-- text-based
-- symbolic
-
-The goal is to **communicate structure**, not perfection.
-
-Examples:  
 <img src="imgs/13.png" style="width: 60%; height: auto;">
 
+Each group must define a **lighting plan**, including:
+- type and position: spotlights (focused, directional beam), floodlights / wash lights (wide, even spread of light), side lighting (illuminates performers from the sides), backlighting (light performers from behind), practical Lights (visible light sources used as part of the performance)
+- colour(s) and intensity
+- cue points (based on time) and any motion or transitions
+
+Lighting is not decorative — it must:
+- support structure
+- cue performers
+- help coordinate live actions across the space
+
 ---
 
-<h2 style="color: darkred;"> 📤 Required Upload — Class Work IV  </h2>
+<h2 style="color: darkred;">Continued Planning & Refinement (When Not in Meetings)</h2>
+
+When not meeting with technicians, groups must continue refining:
+
+### 1. Floor Plan (Near-Final Version)
+- Incorporate technician feedback
+- Respect fixed equipment locations
+- Clearly show position of performers (including the moving range).
+
+### 2. Performance / Visual Score (Near-Final Version)
+
+Your score must now include **minimum duration breakdowns**, such as:
+- opening section (approx. time)
+- middle section(s)
+- ending section
+
+The score should clearly communicate:
+- timing
+- cues
+- transitions
+- performer actions
+- relationships between sound, visuals, voice, and lighting
+
+---
+
+<h2 style="color: darkred;"> 📤 Required Upload — Class Work V  </h2>
 **Due after class**
 
-Each group must upload **one shared PDF** containing:
+Each group must prepare a **Project Document** that consolidates all decisions.
 
-1. **Group Brainstorm Document**
-   - Short description of the performance concept
-2. **Division of Roles**
-   - List of group members and assigned responsibilities
-3. **Work-in-Progress Floor Plan**
-   - Annotated diagram (hand-drawn or digital)
-4. **Work-in-Progress Visual / Performance Score**
-   - Any format that clearly communicates structure and timing
+This document must include:
+
+1. **Tentative Project Title**
+2. **List of Authors & Roles**
+3. **Work-in-Progress Description** (1 paragraph)
+4. **List of Materials / Elements**
+   - instruments
+   - objects
+   - sound devices
+   - visual materials
+5. **Technical Needs & Constraints Summary**
+   - acknowledgment of fixed equipment locations
+   - list of instruments / objects being used
+   - confirmation that no additional major changes are planned
+6. Floor Plan (Near-Final Version)
+7. Performance / Visual Score (Near-Final Version)
 
 **File format:** PDF  
-**File name:** `GroupName-P2-Planning.pdf`
+**File name:** `GroupName-P2-Project.pdf`
+
+---
+
+## Sign-Up for Instructor Rehearsals (Required)
+
+Before leaving class, each group must:
+- sign up for **at least one (1)** rehearsal with the instructor
+- may sign up for **up to two (2)** rehearsals if desired
+- link for sign-up sheet is available on Avenue To Learn
+
+Rehearsals are **group-based** and focused on:
+- structure
+- pacing
+- coordination
+- live responsiveness
 
 ---
 
 ## Grading & Expectations (Maintenance-Based System)
 
-To maintain your grade for **Class Work IV**, you are expected to:
-- participate actively in group formation and planning
-- contribute ideas and planning materials
-- complete and upload the required planning document on time
+To maintain your grade for **Class Work V**, you are expected to:
+- attend and participate in the technical meeting
+- come prepared with concrete decisions
+- complete and upload all required materials on time
+- respect technical constraints and collective planning
 
-This session is **foundational**.  
-Lack of preparation here will affect **Class Work V, rehearsals, and the final performance**, and may signal a **break in maintenance**.
+Failure to define technical needs, roles, or structure at this stage may signal a **break in maintenance** and will impact rehearsals and performance quality.
 
 ---
 
-<h2 style="color: darkred;">After Class Work IV (Important)</h2>
+<h2 style="color: darkred;">After Class Work V (Important)</h2>
 
-Before **Class Work V — Technical Meetings**, each student must:
-- review their assigned role
-- bring notes, sketches, question, or ideas specific to:
-  - sound
-  - visuals
-  - lighting
-  - performance
-- be ready to discuss **concrete technical needs** with technicians
+Before the [**Group Rehearsals**](P2-GroupRehearsal.md), you are expected to:
+- gather all required materials
+- review cues and role responsibilities
+- arrive rehearsal-ready
+- read the instructions for the Group Rehearsal activity to understand expectations
 
-Additionally, begin to:
-- define your role-specific ideas
-- gather source materials you will need
-- review the live sound and live visual restrictions
-
-[Class Work V](P2-InClassWork-V.md) will focus on **technical feasibility**, not conceptual brainstorming. **Be open to work with the possibilities and restrictions** of the space and available equipment.  
+From this point forward, the project should move toward **execution and refinement**, not redesign.
 
 ---
 
