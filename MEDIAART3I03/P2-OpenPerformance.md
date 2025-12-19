@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Open Performance — Public Concert Presentation</h1>  
 
-<img src="imgs/17.png" style="width: 60%; height: auto;">
+<img src="imgs/18.png" style="width: 60%; height: auto;">
 
 The **Open Performance** is the final public presentation of your performative storytelling project.  
 This concert marks the culmination of weeks of planning, technical coordination, rehearsal, and refinement.
