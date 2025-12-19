@@ -24,23 +24,7 @@ Specific deadlines will be communicated on **Avenue to Learn**.
 
 ---
 
-### 1. Final Autobiographical Documentary
-
-- **File format:** MP4  
-- **File name:** `LastName-FirstName-Title.mp4`
-
-#### Technical Requirements
-- **Aspect ratio:** 4:3  
-- **Resolution:** min `1024 x 768 px`
-- **English subtitles required**
-- **Title card at the beginning**
-- **Credits at the end**
-
-> You may make **final improvements or refinements** to your exhibition version before submitting this file.
-
----
-
-### 2. Info Sheet (Single PDF)
+### Info Sheet (Single PDF)
 
 - **File format:** PDF  
 - **File name:** `LastName-FirstName-InfoSheet.pdf`
@@ -54,6 +38,7 @@ This document must include:
 - **Duration** (total runtime)
 - **Short description** (100–150 words)  
   A concise explanation of the documentary’s concept, theme, and approach.
+- **Link to Full Documentary**
 - **Credits** (if applicable)  
   Acknowledge any collaborators or external resources.
 - **Short artist bio** (80–150 words)  
@@ -63,6 +48,26 @@ This document must include:
   - Images should show context (screen, space, audience, or setup)
 
 > This document functions as a **professional press / documentation sheet**.
+
+---
+
+### Final Autobiographical Documentary
+
+Upload the documentary to a **cloud-based platform**, such as:
+- YouTube (unlisted or public)
+- Vimeo
+- Google Drive or similar
+
+**Include a clickable link** in the PDF.
+
+#### Technical Requirements
+- **Aspect ratio:** 4:3  
+- **Resolution:** min `1024 x 768 px`
+- **English subtitles required**
+- **Title card at the beginning**
+- **Credits at the end**
+
+> You may make **final improvements or refinements** to your exhibition version before submitting this file.
 
 ---
 
