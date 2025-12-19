@@ -88,3 +88,36 @@ Audio will be mixed live and should respond to:
 
 ---
 
+<h2 style="color: darkred;"> Creative Production & Event Support (Required) </h2>
+
+The **Open Performance** is a **collective production**, and all students are expected to contribute beyond their individual group performance.
+
+This component emphasizes:
+- professionalism
+- collaboration
+- care for shared resources
+- respect for collective labor
+
+### Production Roles
+
+Each student will:
+- be assigned (or volunteer for) a **specific production role**.
+- work collaboratively with peers and the instructor
+- complete their responsibilities **reliably and on time**
+
+For this activity, production roles include:
+
+- **Design & Visual Materials**  
+  (posters, signage, digital assets)
+- **Communications / Text Editing**
+- **Technical Preparation**
+- **Transportation**
+- **Setup & Cleanup**
+- **Concert Presenter**  
+  (introducing the event and/or individual performances)
+
+One student will be invited by the instructor to act as the **Student Coordinator**, helping manage communication, scheduling, and workflow across roles.
+
+A **sign-up spreadsheet** for production roles will be available on **Avenue to Learn** early in the term.
+
+---
