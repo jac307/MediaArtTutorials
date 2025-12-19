@@ -9,6 +9,7 @@
 ---
 
 ### Collective Brainstorming · Scoring · Roles & Spatial Planning  
+*(Brainstorming and Initial Planning Session)*
 
 This class-work session marks the **official beginning of Project 2**.
 
