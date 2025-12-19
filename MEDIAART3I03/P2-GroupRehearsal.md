@@ -135,19 +135,12 @@ Each group must finalize their **Project Document**.
 This document must include:
 
 1. **Final Project Title**
-2. **List of Authors (add country of origina) & Roles**
+2. **List of Authors** ((add country of origin & roles)
 3. **Final Description** (1 paragraph)
 4. **List of Final Materials / Elements**
-   - instruments
-   - objects
-   - sound devices
-   - visual materials
-5. **Final Technical Needs & Constraints Summary**
-   - acknowledgment of fixed equipment locations
-   - list of instruments / objects being used
-   - confirmation that no additional major changes are planned
-6. Floor Plan (Final Version)
-7. Performance / Visual Score (Final Version)
+5. **Final Technical Needs**
+6. **Final Floor Plan**
+7. **Final Performance / Visual Score**
 
 **File format:** PDF  
 **File name:** `GroupName-P2-FinalProject.pdf`
