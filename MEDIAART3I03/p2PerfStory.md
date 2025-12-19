@@ -86,7 +86,7 @@ Audio will be mixed live and should respond to:
 
 - Project 2 prioritizes **liveness, material exploration, and collective coordination**.
 - All groups must work within the **shared technical framework** provided.
-- Detailed technical instructions, schedules, and rehearsal logistics will be shared on **Avenue to Learn**.
+- Detailed technical instructions, schedules, and rehearsal logistics are available above in the Index section.
 - This project follows the course’s **maintenance-based grading system**, with expectations outlined in each activity section.
 
 ---
