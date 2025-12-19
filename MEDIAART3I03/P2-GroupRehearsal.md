@@ -42,8 +42,6 @@ You must arrive **fully prepared** with:
 
 🚨 **Unprepared groups will not be able to use rehearsal time effectively.**
 
----
-
 ## Rehearsal Setup & Equipment
 
 The instructor will provide:
@@ -65,9 +63,7 @@ This rehearsal will take place in a **rehearsal space**, **not** the concert hal
 
 Lighting ideas should be **imagined and verbally noted**, not executed.
 
----
-
-## Rehearsal Expectations
+## Expectations
 
 ### Number of Rounds
 
@@ -85,16 +81,12 @@ Between rounds, pause briefly to:
 - clarify transitions
 - address technical or coordination issues
 
----
-
 ### Timekeeping & Coordination
 
 - The **Coordinator** must:
   - track time during each round
   - note sections that feel rushed or too slow
 - Lighting cues should be **spoken or signaled verbally** during rehearsal
-
----
 
 ## Documentation (Required)
 
@@ -110,8 +102,6 @@ They should be used to:
 - analyze pacing
 - identify breakdowns in coordination
 - prepare revisions before the next rehearsal or critique
-
----
 
 ## Instructor Support
 
