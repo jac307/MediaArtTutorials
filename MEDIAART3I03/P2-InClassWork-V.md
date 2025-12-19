@@ -75,6 +75,33 @@ Lighting is not decorative — it must:
 
 ---
 
+## Light Table Exploration (Optional but Strongly Recommended)
+
+A **smaller light table** will be available during this session **specifically for students responsible for live visuals**.
+
+- A **sign-up sheet** will be provided
+- Each group may reserve **one 20-minute exploration slot**
+- This time is intended for:
+  - testing materials
+  - experimenting with layering, movement, and textures
+  - understanding scale, visibility, and camera response
+
+This exploration period is **not a rehearsal**.  
+It is a focused opportunity to:
+- refine visual ideas
+- identify material limitations
+- prepare concrete questions for technicians and rehearsals
+
+> ⚠️ **Important:**  
+> Because access time is limited, students responsible for live visuals must arrive prepared with **materials they intend to test**.
+
+Insights gained during this exploration should inform:
+- your **performance score**
+- your **lighting plan**
+- your **technical decisions**
+
+---
+
 <h2 style="color: darkred;">Continued Planning & Refinement (When Not in Meetings)</h2>
 
 When not meeting with technicians, groups must continue refining:
