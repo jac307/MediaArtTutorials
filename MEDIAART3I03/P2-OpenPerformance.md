@@ -38,7 +38,7 @@ No changes to structure, roles, or technical setup are permitted after this rehe
 
 ---
 
-<h2 style="color: darkred;"> Structure of the Critique Activity </h2>
+<h2 style="color: darkred;"> Structure of the Concert </h2>
 
 The public concert will follow this structure:
 
@@ -56,8 +56,6 @@ The public concert will follow this structure:
      - set up the next group
    - Groups must work efficiently and collaboratively during transitions
 
----
-
 ## Expectations for the Day of the Concert
 
 ### Arrival & Professional Conduct
@@ -70,8 +68,6 @@ The public concert will follow this structure:
 
 All materials used in the performance must be brought to the **Pre-Concert Rehearsal** and will remain ready for the concert, which will take place **one or two days later** (preferably the following day).
 
----
-
 ### During the Concert
 
 - While other groups are performing:
@@ -81,8 +77,6 @@ All materials used in the performance must be brought to the **Pre-Concert Rehea
 
 This is a public event.  
 Your presence contributes to the atmosphere and professionalism of the concert.
-
----
 
 ## Documentation
 
@@ -97,8 +91,6 @@ This documentation will be:
 
 Students do not need to document the concert themselves unless otherwise instructed.
 
----
-
 ## Audience & Public Invitation
 
 The concert is **open to the public**.
@@ -111,6 +103,38 @@ Students are encouraged to:
 This is an opportunity to present your work beyond the classroom.
 
 ---
+
+<h2 style="color: darkred;"> Creative Production & Event Support (Required) </h2>
+
+The **Open Performance** is a **collective production**, and all students are expected to contribute beyond their individual group performance.
+
+This component emphasizes:
+- professionalism
+- collaboration
+- care for shared resources
+- respect for collective labor
+
+### Production Roles
+
+Each student will:
+- be assigned (or volunteer for) a **specific production role**.
+- work collaboratively with peers and the instructor
+- complete their responsibilities **reliably and on time**
+
+For this activity, production roles include:
+
+- **Design & Visual Materials**  
+  (posters, signage, digital assets)
+- **Communications / Text Editing**
+- **Technical Preparation**
+- **Transportation**
+- **Setup & Cleanup**
+- **Concert Presenter**  
+  (introducing the event and/or individual performances)
+
+One student will be invited by the instructor to act as the **Student Coordinator**, helping manage communication, scheduling, and workflow across roles.
+
+A **sign-up spreadsheet** for production roles will be available on **Avenue to Learn** early in the term.
 
 ## Grading & Expectations (Maintenance-Based System)
 
