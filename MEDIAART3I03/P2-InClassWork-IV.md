@@ -61,7 +61,7 @@ Before planning, **review the project restrictions**:
 
 - **All sound must be live**
 - **All visuals must be live**
-- No pre-rendered or pre-recorded video
+- No pre-rendered or pre-recorded video  
   *(unless sound is played and **actively manipulated live**)*
 - No fixed soundtracks  
   *(unless sound is played and **actively manipulated live**)*
@@ -80,7 +80,7 @@ The spoken word component may include:
 
 For this project, the instructor will provide:
 - Light table
-- Live cameras
+- Live camera setup
 - Microphones
 - Recorders
 - General props (chairs, tables, etc.)
@@ -120,7 +120,7 @@ Each group must clearly assign:
 - how roles interact during the performance
 - how cues or transitions will be coordinated
 
-Each student must begin drafting **their individual approach** so they arrive prepared for Class Work V.
+Each student must begin drafting **their individual approach** so they arrive prepared for [Class Work V](P2-InClassWork-V.md).
 
 ---
 
@@ -204,10 +204,10 @@ Before **Class Work V — Technical Meetings**, each student must:
 - be ready to discuss **concrete technical needs** with technicians
 
 Additionally, begin to:
-- defin your role-specific ideas
+- define your role-specific ideas
 - gather source materials you will need
 - review the live sound and live visual restrictions
 
-[Class Work V](P2-InClassWork-V.md) will focus on **technical feasibility**, not conceptual brainstorming. Be open to work with the possibilities and restrictions of the space and available equipment.  
+[Class Work V](P2-InClassWork-V.md) will focus on **technical feasibility**, not conceptual brainstorming. **Be open to work with the possibilities and restrictions** of the space and available equipment.  
 
 ---
