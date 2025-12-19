@@ -1,4 +1,4 @@
-[← MEDIAART 3I03](README.md) | [Project 1 Overview](p1AutoDoc.md)
+[← MEDIAART 3I03](README.md) | [Project 2 Overview](p2PerfStory.md)
 
 ---
 
