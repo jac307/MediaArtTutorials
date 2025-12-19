@@ -20,6 +20,9 @@ Project 2 is a **collective, performance-based project** that explores storytell
 
 Working in groups, students will develop a **performative work presented in a public concert format**. The project emphasizes **collaboration, rehearsal, technical coordination, and responsiveness to space and audience**, rather than pre-rendered or fixed media.
 
+The shared thematic focus for this project is **Space**.  
+Students are invited to reflect on space as a concept and experience—such as physical space, architectural space, the body as space, cultural or social space, imagined space, or space as relation and movement—and to explore how these ideas can be expressed through live performance.
+
 A key constraint of this project is that **both sound and visuals must be generated live**, using **analogue or physical processes** mediated through cameras, microphones, and simple digital mixing tools.
 
 ---
