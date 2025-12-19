@@ -33,10 +33,10 @@ Each group must include **at minimum** the following roles:
   - Live voice presence (spoken word, poetry, singing, improvisation, or other vocal performance)
 
 - **Live Sound**
-  - Sound generated live using instruments, objects, toys, recorders, microphones, or contact microphones
+  - Sound generated live using instruments, objects, toys, recorders through microphones.  
 
 - **Live Visuals**
-  - Live visuals using the light table and/or live camera feeds
+  - Live visuals using the **light table with a live camera feed**, with the option to use a **small projection** and move between the light table and projection surface in real time.  
 
 - **Coordinator / Lighting & Space**
   - Oversees spatial layout  
@@ -61,10 +61,11 @@ Before planning, **review the project restrictions**:
 
 - **All sound must be live**
 - **All visuals must be live**
-- No pre-rendered video
+- No pre-rendered or pre-recorded video
+  *(unless sound is played and **actively manipulated live**)*
 - No fixed soundtracks  
-  *(unless sound is played and actively manipulated using old recorders)*
-- Performance must respond to **space, audience, and duration**
+  *(unless sound is played and **actively manipulated live**)*
+- The performance must respond to **space, audience, and duration**
 - **Duration:** 8–10 minutes
 
 The spoken word component may include:
@@ -80,9 +81,8 @@ The spoken word component may include:
 For this project, the instructor will provide:
 - Light table
 - Live cameras
-- Microphones and contact microphones
-- Main computer to manage live video feeds
-- Old recorders
+- Microphones
+- Recorders
 - General props (chairs, tables, etc.)
 
 ### What You Must Bring / Source
@@ -91,7 +91,7 @@ Each group is responsible for bringing:
 - physical materials for visuals  
   (paper, transparencies, drawings, objects, textures)
 - instruments, toys, recorders, or sound objects
-- any additional props or materials required for performance
+- any additional props, costumes, or any other materials required for performance
 
 ---
 
@@ -208,6 +208,6 @@ Additionally, begin to:
 - gather source materials you will need
 - review the live sound and live visual restrictions
 
-Class Work V will focus on **technical feasibility**, not conceptual brainstorming. Be open to work with the possibilities and restrictions of the space and available equipment.  
+[Class Work V](P2-InClassWork-V.md) will focus on **technical feasibility**, not conceptual brainstorming. Be open to work with the possibilities and restrictions of the space and available equipment.  
 
 ---
