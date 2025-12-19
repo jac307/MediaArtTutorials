@@ -54,8 +54,6 @@ Groups may also choose to include:
 - additional performer roles
 - collaborators outside the class *(talk to the instructor first)*
 
----
-
 ## Live Performance Constraints (Reminder)
 
 Before planning, **review the project restrictions**:
@@ -74,8 +72,6 @@ The spoken word component may include:
 - improvisation
 - singing
 - hybrid or experimental vocal approaches
-
----
 
 ## What the Instructor Provides
 
@@ -112,8 +108,6 @@ Reflect collectively on what *space* can mean, such as:
 - cultural or social space
 - imagined or abstract space
 
----
-
 ### 2. Role Definition
 
 Each group must clearly assign:
@@ -122,8 +116,6 @@ Each group must clearly assign:
 - how cues or transitions will be coordinated
 
 Each student must begin drafting **their individual approach** so they arrive prepared for [Class Work V](P2-InClassWork-V.md).
-
----
 
 ### 3. Floor Plan (Work-in-Progress)
 
@@ -137,8 +129,6 @@ Consider the fixed positions of:
 - control table (lighting and sound)
 
 This plan may change later — it is a **planning tool**, not a final diagram.
-
----
 
 ### 4. Visual / Performance Score (Work-in-Progress)
 
