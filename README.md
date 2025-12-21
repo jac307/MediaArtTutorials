@@ -29,11 +29,11 @@ First-Year Courses:
 
 Second-Year Courses:  
   
-+ [CMST 2ZP3 - Splat, Ping, Zip: Digital Ways of Doing](CMST2ZP3/README.md)
-  
 + [MEDIAART 2DF3 – Design Fundamental](MEDIA2DF3/README.md)
 
 + [MEDIAART 2B06 - Time-Based Media](MEDIAART2B06/README.md)
+
++ [CMST 2ZP3 - Splat, Ping, Zip: Digital Ways of Doing](CMST2ZP3/README.md)
 
 Third-Year Courses:  
 
