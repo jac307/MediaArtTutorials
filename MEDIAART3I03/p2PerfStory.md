@@ -28,14 +28,14 @@ A key constraint of this project is that **both sound and visuals must be genera
 ---
 
 ## Index
-
+<!--
 + [Class Work IV — Collective Brainstorming, Scoring & Planning](P2-InClassWork-IV.md)
 + [Class Work V — One-to-One Technical Meetings (Sound · Projection · Lighting)](P2-InClassWork-V.md)
 + [Group Rehearsal — Instructor-Guided Session](P2-GroupRehearsal.md)
 + [Class Rehearsal + Critique Activity](P2-ClassRehearsal-Critique.md)
 + [Pre-Concert Rehearsal & Open Performance — Public Concert Presentation](P2-OpenPerformance.md)
 + [Final Submission — Project 2 Documentation Package](P2-FinalSubmission.md)
-
+-->
 ---
 
 ## Live Visuals — Technical Framework
