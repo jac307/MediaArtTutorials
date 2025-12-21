@@ -1,8 +1,6 @@
 # IARTS 1T03 - Story and Design in Theatre and Film
 
-Through design workshops and weekly lectures, students explore **how storytellers and designers in theatre and film** use space, time, light, sound, projection, and materials to **construct meaning and respond to the social contexts** in which they work.  
-
-Students learn **foundational scenographic and cinematic design principles** grounded in **decolonial and feminist perspectives**, combining hand-drawn sketching with digital prototyping in Blender, REAPER, and DaVinci Resolve. Emphasis is placed on understanding how design choices shape audience perception, emotional atmosphere, and cultural representation across both live performance and screen-based environments.
+Students learn **foundational scenographic and cinematic design principles** grounded in **decolonial and feminist perspectives**, combining hand-drawn sketching with digital prototyping in Blender, REAPER, and DaVinci Resolve. Emphasis is placed on understanding **how design choices shape audience perception, emotional atmosphere, and cultural representation** across both live performance and screen-based environments.
 
 > Linked instructions are accessible only while the course is in session.
 
@@ -28,30 +26,20 @@ Software (freeware):
 + [Week 6](WT-W6.md) — Animate intensity/color change
 + [Week 7](WT-W7.md) — Sound cue map (beats, dynamics, transitions)
 + [Week 8](WT-W8.md) — Spatial sound diagrams
-+ [Week 9](WT-W9.md) — Cue script: map sound → light → camera events.
++ [Week 9](WT-W9.md) — Cue script: map sound → light → camera events
 + [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
 + [Week 11](WT-W11.md) — Projection surface sketch and prototype (walls, objects, screens, fabrics)
 
++ [Final Portfolio — Individual Work](FinalPort.md) - Selection of 10 weekly submissions from above
+
 ---
 
-### **P2: Research–Creation Project**  
+### **Module IV — Projection, Image & Hybrid Media**  
 
-Completed in groups of **3–4 students**, students will **develop an original artistic work** in response to an **artist/collective from the class archive**.  
++ [Module IV - Hybrid Design Project Proposal — Group Work](M-IV.md)
 
-The work may take any **medium or format** (performance, installation, sound art, digital media, etc.) and must:  
-- Critically reflect on **identity** through **community**, **place**, and/or **body**.  
-- Demonstrate a clear **conceptual dialogue** with the selected artist’s/collective’s practice.  
-- Link the work to course themes, personal perspectives, and research sources.  
-
-#### Index  
-<!--
-+ [Week 7](P2-W7.md) — Artist/Collective Inspiration & Concept Seeding
-+ [Week 8](P2-W8.md) — Artistic Translation: Style & Process Research
-+ [Week 9](P2-W9.md) — First Iteration: Bringing the Concept to Life
-+ [Week 10](P2-W10.md) — Refinement & Public Presentation Prep
--->
-> **Note:** This project includes a **poster-presentation session**, a **final submission**, and a **public sharing event**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.
-  
+Students form groups (5 students) and collaboratively **propose a Hybrid Design Project** (no performers; storytelling through **objects, sound, light, projection, and video**).  
+ 
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
