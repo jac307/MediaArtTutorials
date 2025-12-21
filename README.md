@@ -21,11 +21,21 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 ## Classes
 
-+ [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md)  
+First-Year Courses:  
+
++ [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md)
+
++ [IARTS 1T03 - Story and Design in Theatre and Film](IARTS1T03/README.md)
+
+Second-Year Courses:  
   
 + [CMST 2ZP3 - Splat, Ping, Zip: Digital Ways of Doing](CMST2ZP3/README.md)
   
 + [MEDIAART 2DF3 – Design Fundamental](MEDIA2DF3/README.md)
+
++ [MEDIAART 2B06 - Time-Based Media](MEDIAART2B06/README.md)
+
+Third-Year Courses:  
 
 + [IARTS 3PE3 – Perspectives E: Key Issues of Equity, Diversity, and Inclusion in the Arts](IARTS3PE3/README.md)
 
