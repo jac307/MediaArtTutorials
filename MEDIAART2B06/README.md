@@ -1,6 +1,8 @@
-# IARTS 1T03 - Story and Design in Theatre and Film
+# MEDIAART 2B06 - Time-Based Media
 
-Students learn **foundational scenographic and cinematic design principles** grounded in **decolonial and feminist perspectives**, combining hand-drawn sketching with digital prototyping in Blender, REAPER, and DaVinci Resolve. Emphasis is placed on understanding **how design choices shape audience perception, emotional atmosphere, and cultural representation** across both live performance and screen-based environments.
+Through weekly guided workshops and production exercises, students **learn the fundamentals of camera operation, lighting, sound recording, editing, and motion graphics** using industry-standard tools such as Adobe Photoshop, Premiere Pro, After Effects, and Reaper.  
+
+Emphasis is placed on **developing visual storytelling skills**, **understanding how time, motion, and sound shape meaning**, and **building confidence with production workflows** from concept to final export.
 
 > Linked instructions are accessible only while the course is in session.
 
@@ -8,37 +10,41 @@ Students learn **foundational scenographic and cinematic design principles** gro
 
 ## Assessments
 
-### **Weekly Tutorial Submissions — Individual Work**  
+### **Module I - Production Exercises**  
 
-Throughout the term, students complete a **short submission every week** based on the weekly tutorial.  
-Software (freeware):  
-- <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"><strong>Blender</strong></a> ⇒ 3D modeling, lighting, camera, projection tests
-- <a href="https://www.reaper.fm/" target="_blank" rel="noopener noreferrer"><strong>REAPER</strong></a> ⇒ audio editing and sound design
-- <a href="https://www.blackmagicdesign.com/mx/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>DaVinci Resolve</strong></a> ⇒ video editing and montage
+Series of hands-on production exercises designed to **build core skills** in camera work, lighting, sound, and editing. 
 
 #### Index  
 
-+ [Week 1](WT-W1.md) — Floor plan + Blocking map
-+ [Week 2](WT-W2.md) — Script: shot composition + camera positions
-+ [Week 3](WT-W3.md) — Camera framings
-+ [Week 4](WT-W4.md) — Lighting states
-+ [Week 5](WT-W5.md) — Mood-lighting sketches
-+ [Week 6](WT-W6.md) — Animate intensity/color change
-+ [Week 7](WT-W7.md) — Sound cue map (beats, dynamics, transitions)
-+ [Week 8](WT-W8.md) — Spatial sound diagrams
-+ [Week 9](WT-W9.md) — Cue script: map sound → light → camera events
-+ [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
-+ [Week 11](WT-W11.md) — Projection surface sketch and prototype (walls, objects, screens, fabrics)
-
-+ [Final Portfolio — Individual Work](FinalPort.md) - Selection of 10 weekly submissions from above
++ [Week 1](WT-W1.md) — Photo Film (Individual)
++ [Week 2](WT-W2.md) — Chiaroscuro Interview (Pairs)
++ [Week 3](WT-W3.md) — Static Outdoor Scene (Groups of 3)
++ [Week 4](WT-W4.md) — Continuous Shot (Individual)
++ [Week 5](WT-W5.md) — Foley Sound Creation (Groups of 3)
++ [Week 6](WT-W6.md) — In-Class Showcase - Class Video Exhibition
 
 ---
 
-### **Module IV — Projection, Image & Hybrid Media**  
+### **Module 2 - Short Film Project (individual)**  
 
-+ [Module IV - Hybrid Design Project Proposal — Group Work](M-IV.md)
+This module **guides students through the complete production of a one-minute short film**, from concept and script development to shooting, editing, and final polishing. 
 
-Students form groups (5 students) and collaboratively **propose a Hybrid Design Project** (no performers; storytelling through **objects, sound, light, projection, and video**).  
+#### Index  
+
++ [Week 7](WT-W7.md) — Pre-Production Package
++ [Week 8](WT-W8.md) — Production Week
++ [Week 9](WT-W9.md) — Rough Cut
++ [Week 10](WT-W10.md) — Rough Cut Screening + Critique Session
++ [Week 12](WT-W12.md) — Final Cut
++ [Week 13](WT-W13.md) — Class Screening
+
+---
+
+### **Mini-Module - Motion Graphics & Compositing (individual)**  
+
++ [Week 11](WT-W11.md) — Motion Graphics & Compositing (individual)
+
+This one-week module introduces **core techniques in Adobe After Effects**, allowing students to explore motion graphics, compositing, and animation.  
  
 ________________________________________________________________________
 
