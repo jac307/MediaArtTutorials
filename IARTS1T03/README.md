@@ -12,9 +12,9 @@ Students learn **foundational scenographic and cinematic design principles** gro
 
 Throughout the term, students complete a **short submission every week** based on the weekly tutorial.  
 Software (freeware):  
-+ [**Blender**](https://www.blender.org/) => 3D modeling, lighting, camera, projection tests
-+ [**REAPER**](https://www.reaper.fm/) => audio editing and sound design
-+ [**DaVinci Resolve**](https://www.blackmagicdesign.com/mx/products/davinciresolve) => video editing and montage
+- <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"><strong>Blender</strong></a> ⇒ 3D modeling, lighting, camera, projection tests
+- <a href="https://www.reaper.fm/" target="_blank" rel="noopener noreferrer"><strong>REAPER</strong></a> ⇒ audio editing and sound design
+- <a href="https://www.blackmagicdesign.com/mx/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>DaVinci Resolve</strong></a> ⇒ video editing and montage
 
 #### Index  
 
