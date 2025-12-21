@@ -30,6 +30,7 @@ Software (freeware):
 + [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
 + [Week 11](WT-W11.md) — Projection surface sketch and prototype (walls, objects, screens, fabrics)
 
+
 + [Final Portfolio — Individual Work](FinalPort.md) - Selection of 10 weekly submissions from above
 
 ---
