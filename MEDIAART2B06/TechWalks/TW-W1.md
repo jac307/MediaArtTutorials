@@ -33,7 +33,7 @@ You will be working with the **camera + tripod only** (no external lighting).
 
 ### Canon EOS Rebel T4i / EOS 650D
 
-<img src="imgs/01.jpg" style="width: 80%; height: auto;">
+<img src="imgs/01.jpg" style="width: 60%; height: auto;">
 
 A reliable entry-level DSLR with full manual controls, ideal for learning exposure, focus, and composition fundamentals.
 
@@ -42,7 +42,7 @@ A reliable entry-level DSLR with full manual controls, ideal for learning exposu
 
 ### Canon EOS Rebel T5i / EOS 700D
 
-<img src="imgs/02.jpg" style="width: 80%; height: auto;">
+<img src="imgs/02.jpg" style="width: 60%; height: auto;">
 
 An updated version of the T4i with improved autofocus and handling, suitable for controlled still photography and tripod-based shooting.
 
@@ -51,7 +51,7 @@ An updated version of the T4i with improved autofocus and handling, suitable for
 
 ### Canon EOS Rebel T7i / EOS 800D
 
-<img src="imgs/03.jpg" style="width: 80%; height: auto;">
+<img src="imgs/03.jpg" style="width: 60%; height: auto;">
 
 A more recent DSLR model with enhanced autofocus and low-light performance, while maintaining the same core controls and workflow.
 
@@ -70,7 +70,7 @@ A more recent DSLR model with enhanced autofocus and low-light performance, whil
 
 ### Core External Components
 
-<img src="imgs/04.jpg" style="width: 60%; height: auto;">
+<img src="imgs/04.jpg" style="width: 50%; height: auto;">
 
 **Shutter Button**  
 The button used to take a photograph. Press halfway to activate autofocus; press fully to capture the image.
@@ -88,7 +88,7 @@ Turns the camera on and off. Always switch the camera off before changing lenses
 **Lens**  
 The optical element that determines field of view and depth of field. For Week 1, you will use the standard kit lens.
 
-<img src="imgs/05.jpg" style="width: 60%; height: auto;">
+<img src="imgs/05.jpg" style="width: 50%; height: auto;">
 
 **AF / MF Switch (on the lens)**  
 - **AF (Autofocus):** Camera automatically focuses  
@@ -106,7 +106,7 @@ Controls focal length on zoom lenses (e.g., 18–55mm).
 
 ### Storage & Power
 
-<img src="imgs/06.jpg" style="width: 80%; height: auto;">
+<img src="imgs/06.jpg" style="width: 60%; height: auto;">
 
 **Memory Card Slot**  
 Holds the SD card where images are stored.  
@@ -120,7 +120,7 @@ A low battery may prevent the camera from turning on or saving images.
 
 ### Viewing & Mounting
 
-<img src="imgs/07.jpg" style="width: 80%; height: auto;">
+<img src="imgs/07.jpg" style="width: 60%; height: auto;">
 
 **Viewfinder**  
 Allows you to frame the image optically. Useful in bright environments.
@@ -161,7 +161,7 @@ This is intentional: it allows you to focus on **framing, composition, depth of 
 
 ### Aperture (f-stop)  
 
-<img src="imgs/09.jpg" style="width: 80%; height: auto;">
+<img src="imgs/09.jpg" style="width: 60%; height: auto;">
 
 Aperture controls **depth of field** and how much of the image appears in focus.
 
@@ -173,7 +173,7 @@ Aperture controls **depth of field** and how much of the image appears in focus.
   → Deeper depth of field  
   → More of the scene in focus
 
-<img src="imgs/10.gif" alt="Av examples" style="width: 60%; height: auto;">
+<img src="imgs/10.gif" alt="Av examples" style="width: 50%; height: auto;">
 
 ---
 
