@@ -154,7 +154,7 @@ Before starting a new shoot, format the SD card **in the camera** to avoid file 
 <h3 style="color: darkred;"> More Camera Settings — What to Use for Week 1 (Camera On) </h3>   
 
 For the first activity and **Photo Film** assignment, we will use a **limited set of camera settings**.  
-This is intentional: it allows you to focus on **framing, composition, depth of field, and light** rather than navigating complex menus.  
+This is intentional: it allows you to focus on **framing, composition, depth of field, and exposure** rather than navigating complex menus.  
 
 📌 *Photos will be captured in colour and converted to black and white later using Adobe Photoshop.*  
 
