@@ -66,6 +66,8 @@ A more recent DSLR model with enhanced autofocus and low-light performance, whil
 
 📌 *At this stage, the goal is spatial familiarity — knowing where things are before learning how to use them.*
 
+---
+
 ### Core External Components
 
 <img src="imgs/04.jpg" style="width: 60%; height: auto;">
@@ -78,6 +80,8 @@ Selects the camera’s shooting mode (Manual, Aperture Priority, etc.). We will 
 
 **Power Switch**  
 Turns the camera on and off. Always switch the camera off before changing lenses.
+
+---
 
 ### Lens & Focus Controls
 
@@ -98,6 +102,8 @@ Used to manually adjust focus when the lens is set to MF.
 **Zoom Ring (if applicable)**  
 Controls focal length on zoom lenses (e.g., 18–55mm).
 
+---
+
 ### Storage & Power
 
 <img src="imgs/06.jpg" style="width: 80%; height: auto;">
@@ -109,6 +115,8 @@ Always confirm a card is inserted before shooting.
 **Battery Compartment**  
 Contains the rechargeable battery.  
 A low battery may prevent the camera from turning on or saving images.
+
+---
 
 ### Viewing & Mounting
 
