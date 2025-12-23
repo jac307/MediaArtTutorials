@@ -6,21 +6,22 @@
 
 ## Objective
 
-This technical walkthrough introduces the **essential DSLR camera controls and concepts** needed to produce a **black-and-white photo sequence** for the first assignment: **Photo Film (Individual)**.
+This technical walkthrough introduces the **essential DSLR camera controls and workflows** required to produce a **black-and-white photo sequence** for the first assignment: **Photo Film (Individual)**.
 
 By the end of this session, students should be able to:
 
-- Confidently operate the **Canon EOS Rebel T4i / T5i / T7i** in manual or semi-manual modes  
-- Understand how **framing, composition, and depth of field** are controlled through camera settings  
-- Use the camera and tripod to make **intentional photographic decisions** without additional lighting equipment  
-- Recognize how **light, contrast, and focus** function as primary visual elements in black-and-white photography  
+- Confidently operate the **Canon EOS Rebel T4i / T5i / T7i** using a **limited, intentional set of camera settings**  
+- Understand how **framing, composition, focus, and depth of field** are shaped through aperture, ISO, and camera positioning  
+- Use a **tripod-based workflow** to make stable, deliberate photographic decisions  
+- Read and evaluate images on the camera, and **properly transfer and save files** to a computer  
+- Recognize how **light and contrast** function as primary visual elements in black-and-white photography  
 
 This walkthrough prioritizes:
-- **Control over exposure**
-- **Intentional focus and depth of field**
-- **Clear, stable framing using a tripod**
+- **Intentional exposure decisions** (rather than automatic settings)  
+- **Manual focus and depth of field awareness**  
+- **Clear, stable framing and careful image review**  
 
-📌 *The goal is not technical mastery of every function, but practical control of the camera to support compositional clarity and thoughtful image-making.*
+📌 *The goal is not technical mastery of every camera function, but practical control of the camera as a tool for composition, light, and meaning-making.*
 
 ---
 
