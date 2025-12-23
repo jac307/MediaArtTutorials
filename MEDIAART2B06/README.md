@@ -10,6 +10,8 @@ Emphasis is placed on **developing visual storytelling skills**, **understanding
 
 ## Assessments
 
++ General information about [available DSLR Cameras](Cameras.md)
+
 ### **Module I - Production Exercises**  
 
 Series of hands-on production exercises designed to **build core skills** in camera work, lighting, sound, and editing. 
