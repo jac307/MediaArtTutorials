@@ -273,7 +273,7 @@ How to setup ISO:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<video width="640" controls>
+<video width="340" controls>
   <source src="imgs/13.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
