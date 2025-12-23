@@ -9,7 +9,7 @@ All models offer similar controls and image quality and are well suited for the 
 
 ### Canon EOS Rebel T4i / EOS 650D
 
-<img src="imgs/01.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/01.jpg" style="width: 60%; height: auto;">
 
 A reliable entry-level DSLR with full manual controls, ideal for learning exposure, focus, and composition fundamentals.
 
@@ -18,7 +18,7 @@ A reliable entry-level DSLR with full manual controls, ideal for learning exposu
 
 ### Canon EOS Rebel T5i / EOS 700D
 
-<img src="imgs/02.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/02.jpg" style="width: 60%; height: auto;">
 
 An updated version of the T4i with improved autofocus and handling, suitable for controlled still photography and tripod-based shooting.
 
@@ -27,7 +27,7 @@ An updated version of the T4i with improved autofocus and handling, suitable for
 
 ### Canon EOS Rebel T7i / EOS 800D
 
-<img src="imgs/03.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/03.jpg" style="width: 60%; height: auto;">
 
 A more recent DSLR model with enhanced autofocus and low-light performance, while maintaining the same core controls and workflow.
 
