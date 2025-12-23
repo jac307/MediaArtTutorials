@@ -84,7 +84,7 @@ Turns the camera on and off. Always switch the camera off before changing lenses
 **Lens**  
 The optical element that determines field of view and depth of field. For Week 1, you will use the standard kit lens.
 
-<img src="imgs/05.jpg" style="width: 80%; height: auto;">
+<img src="imgs/05.jpg" style="width: 60%; height: auto;">
 
 **AF / MF Switch (on the lens)**  
 - **AF (Autofocus):** Camera automatically focuses  
