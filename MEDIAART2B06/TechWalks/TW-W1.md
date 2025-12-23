@@ -152,6 +152,12 @@ Before adjusting exposure settings, become familiar with the main camera buttons
 
 ---
 
+### Quick Control Button (Q) - Menu
+
+<img src="imgs/15.png" style="width: 60%; height: auto;">
+
+---
+
 ### Initial Setup
 
 1. **Insert an SD card** into the Memory Card Slot.  
@@ -216,7 +222,7 @@ Exposure is controlled by three settings:
 - **This mode gives you direct control over depth of field**  
   > Aperture determines depth of field (how much is in focus), while the camera adjusts shutter speed to maintain proper exposure based on your aperture choice.
 
-📌 *Use Aperture Priority unless instructed otherwise.*
+📌 *Use Aperture Priority for the Photo Film Activity.*
 
 ---
 
@@ -305,5 +311,41 @@ How to setup AWB (Automatic White Balance) --first 30 seconds:
 - Always use a **tripod**
 - Turn **Image Stabilization OFF** when the camera is mounted on a tripod
 - Take time to adjust framing carefully before shooting
+
+---
+
+<h3 style="color: darkred;">Reviewing & Saving Your Photos</h3>
+
+This final step ensures that your images are **properly reviewed, saved, and backed up** after shooting.
+
+---
+
+### Reviewing Images on the Camera
+
+After taking a photograph:
+
+1. Press the **Playback** button to view your image on the LCD screen.
+2. Use the **Navigation Arrows** to move between images.
+3. Check the following:
+   - Is the image **in focus**?
+   - Is the framing intentional?
+   - Are highlights overly bright or shadows too dark?
+4. Use the **Zoom** function to inspect focus and detail.
+
+📌 *Do not delete images in the field unless you are certain they are unusable.*
+
+---
+
+### Transferring Photos to Your Computer
+
+Once you are done shooting:
+
+#### Option 1 — Using an SD Card Reader (Recommended)
+
+1. Turn the camera **off**.
+2. Remove the **SD card** from the camera.
+3. Insert the SD card into a **card reader** connected to your computer.
+4. Open the SD card folder and locate the **DCIM** folder.
+5. Copy your images to a clearly named folder on
 
 ---
