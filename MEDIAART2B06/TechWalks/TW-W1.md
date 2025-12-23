@@ -154,7 +154,7 @@ Before adjusting exposure settings, become familiar with the main camera buttons
 
 ### Quick Control Button (Q) - Menu
 
-<img src="imgs/15.png" style="width: 60%; height: auto;">
+<img src="imgs/15.png" style="width: 100%; height: auto;">
 
 ---
 
