@@ -297,7 +297,7 @@ Manual focus encourages:
 
 ### White Balance
 
-- Set to **Auto White Balance**
+- Set to **Auto White Balance (AWB)**
 - Color accuracy is not the focus for this assignment
 
 How to setup AWB (Automatic White Balance) --first 30 seconds:   
@@ -347,5 +347,7 @@ Once you are done shooting:
 3. Insert the SD card into a **card reader** connected to your computer.
 4. Open the SD card folder and locate the **DCIM** folder.
 5. Copy your images to a clearly named folder on
+
+📌 *Always save your photos in your computer after a day of work.*
 
 ---
