@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">W1 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">Intro to DSLR Photography for B&W Photo Film</h2>
+<h2 style="color: darkred;">Intro to DSLR Photography for Photo Film Activity</h2>
 
 ## Objective
 
@@ -153,8 +153,12 @@ Before starting a new shoot, format the SD card **in the camera** to avoid file 
 
 <h3 style="color: darkred;"> More Camera Settings — What to Use for Week 1 (Camera On) </h3>   
 
-For the first activity and **Photo Film (Black & White)** assignment, we will use a **limited set of camera settings**.  
-This is intentional: it allows you to focus on **framing, composition, depth of field, and light** rather than navigating complex menus.
+For the first activity and **Photo Film** assignment, we will use a **limited set of camera settings**.  
+This is intentional: it allows you to focus on **framing, composition, depth of field, and light** rather than navigating complex menus.  
+
+📌 *Photos will be captured in colour and converted to black and white later using Adobe Photoshop.*  
+
+---
 
 ### What Is Exposure?
 
