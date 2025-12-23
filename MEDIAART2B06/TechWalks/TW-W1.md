@@ -133,7 +133,45 @@ Used to securely attach the camera to a tripod for stable framing and consistent
 
 ---
 
-<h3 style="color: darkred;"> Camera Settings — What to Use for Week 1 (Camera On) </h3>  
+<h3 style="color: darkred;"> General Camera Settings (Camera On) </h3>  
+
+<img src="imgs/11.jpg" style="width: 60%; height: auto;">
+
+Before adjusting exposure settings, become familiar with the main camera buttons used to navigate menus and playback images.
+
+- **Menu** — Opens the main camera settings and configuration options.  
+- **Navigation Arrows** — Move through menus and adjust selected settings.  
+- **Setting Button (SET)** — Confirms a selection or applies a setting.  
+- **Playback Button** — Displays captured photos on the screen.  
+- **Live View Shooting** — Activates the LCD screen for composing and focusing images.  
+- **Quick Control Button (Q)** — Opens quick access to commonly used shooting settings.  
+- **Erase Button** — Deletes the currently selected image during playback.
+
+---
+
+### Initial Setup (Do This Once)
+
+1. **Insert an SD card** into the Memory Card Slot.  
+2. **Turn on the camera.**  
+3. Follow the tutorial below to learn how to navigate the camera menu and adjust basic settings.
+4. Set **Image Quality** to **RAW + JPEG**  
+  - JPEG files are used for quick viewing and submission if needed  
+  - RAW files preserve full image data for later learning and practice
+5. Follow the remaining settings shown in the video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### Formatting the SD Card
+
+Before starting a new shoot, format the SD card **in the camera** to avoid file conflicts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<h3 style="color: darkred;"> More Camera Settings — What to Use for Week 1 (Camera On) </h3>  
 
 For the first activity and **Photo Film (Black & White)** assignment, we will use a **limited set of camera settings**.  
 This is intentional: it allows you to focus on **framing, composition, depth of field, and light** rather than navigating complex menus.
@@ -184,13 +222,15 @@ Aperture controls **depth of field** and how much of the image appears in focus.
 
 📌 *The Aperture is the first setting you should always set up*  
 
-Follow this tutorial to setup your apperture:  
+Follow this tutorial to setup your aperture:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=vasQj9nKITVfXyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### ISO
+
+
 
 ISO controls the camera’s **sensitivity to light**.
 
