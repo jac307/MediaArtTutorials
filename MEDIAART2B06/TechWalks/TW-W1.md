@@ -2,11 +2,14 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W1 — Tech Walkthrough: Intro to DSLR Photography for B&W Photo Film</h1>
+<h1 style="color: darkred;">W1 — Tech Walkthrough:</h1>
+<h1 style="color: darkred;">Intro to DSLR Photography for B&W Photo Film</h1>
 
 ## Objective
 
-This technical walkthrough introduces the **essential DSLR camera controls and workflows** required to produce a **black-and-white photo sequence** for the first assignment: **Photo Film (Individual)**.
+This technical walkthrough introduces the **essential DSLR camera controls and workflows** required to produce a **black-and-white photo sequence** for the first assignment: **Photo Film (Individual)**.  
+
+Check [Available DSLR Cameras](../Cameras.md)  
 
 By the end of this session, students should be able to:
 
@@ -23,43 +26,6 @@ This walkthrough prioritizes:
 
 📌 *The goal is not technical mastery of every camera function, but practical control of the camera as a tool for composition, light, and meaning-making.*
 
----
-
-<h3 style="color: darkred;">Available DSLR Cameras</h3>
-
-The following DSLR cameras are available for Media Art students to rent.  
-All models offer similar controls and image quality and are well suited for the **Photo Film (Black & White)** assignment.
-
-You will be working with the **camera + tripod only** (no external lighting).
-
-### Canon EOS Rebel T4i / EOS 650D
-
-<img src="imgs/01.jpg" style="width: 60%; height: auto;">
-
-A reliable entry-level DSLR with full manual controls, ideal for learning exposure, focus, and composition fundamentals.
-
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300007695/01/eosrt4i-eos650d-im-c-en.pdf){:target="_blank"}
-- ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=ENKDeSRfeFk){:target="_blank"}
-
-### Canon EOS Rebel T5i / EOS 700D
-
-<img src="imgs/02.jpg" style="width: 60%; height: auto;">
-
-An updated version of the T4i with improved autofocus and handling, suitable for controlled still photography and tripod-based shooting.
-
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300010905/02/eos-rebelt5i-700d-im2-en.pdf){:target="_blank"}
-- ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=eXglxC0IN7Q){:target="_blank"}
-
-### Canon EOS Rebel T7i / EOS 800D
-
-<img src="imgs/03.jpg" style="width: 60%; height: auto;">
-
-A more recent DSLR model with enhanced autofocus and low-light performance, while maintaining the same core controls and workflow.
-
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/1/0300026121/01/eos-rebelt7i-800d-bim-3l.pdf){:target="_blank"}
-- ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=4QTmDk_ZSmc){:target="_blank"}
-
-📌 *Regardless of the camera model you are assigned, the core controls and concepts demonstrated in class apply across all three.*  
 
 ---
 
