@@ -37,7 +37,7 @@ You will be working with the **camera + tripod only** (no external lighting).
 
 A reliable entry-level DSLR with full manual controls, ideal for learning exposure, focus, and composition fundamentals.
 
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/6/0300007696/01/eosrt4i-eos650d-im-c-es.pdf){:target="_blank"}
+- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300007695/01/eosrt4i-eos650d-im-c-en.pdf){:target="_blank"}
 - ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=ENKDeSRfeFk){:target="_blank"}
 
 ### Canon EOS Rebel T5i / EOS 700D
@@ -62,7 +62,7 @@ A more recent DSLR model with enhanced autofocus and low-light performance, whil
 
 ---
 
-<h3 style="color: darkred;">Camera Anatomy — Getting Familiar</h3>  
+<h3 style="color: darkred;">Camera Anatomy — Getting Familiar (Camera Off)</h3>  
 
 📌 *At this stage, the goal is spatial familiarity — knowing where things are before learning how to use them.*
 
@@ -130,5 +130,91 @@ Displays menus, image playback, and live view when enabled.
 
 **Tripod Mount (Bottom of Camera)**  
 Used to securely attach the camera to a tripod for stable framing and consistent composition.
+
+---
+
+<h3 style="color: darkred;"> Camera Settings — What to Use for Week 1 (Camera On) </h3>  
+
+For the first activity and **Photo Film (Black & White)** assignment, we will use a **limited set of camera settings**.  
+This is intentional: it allows you to focus on **framing, composition, depth of field, and light** rather than navigating complex menus.
+
+---
+
+### Shooting Mode
+
+**Aperture Priority (Av)** — *Primary mode for Week 1*
+
+- You select the **aperture (f-stop)**
+- The camera automatically sets the shutter speed
+- This mode gives you **direct control over depth of field**
+
+📌 *Use Aperture Priority unless instructed otherwise.*
+
+---
+
+### Aperture (f-stop)
+
+Aperture controls **depth of field** and how much of the image appears in focus.
+
+- **Wide aperture (f/3.5 – f/5.6)**  
+  → Shallow depth of field  
+  → Subject isolation, blurred background
+
+- **Narrow aperture (f/8 – f/11)**  
+  → Deeper depth of field  
+  → More of the scene in focus
+
+📌 *Choose aperture based on what you want to emphasize.*
+
+---
+
+### ISO
+
+ISO controls the camera’s **sensitivity to light**.
+
+- Start with **ISO 100 or 200**
+- Increase ISO only if the image becomes too dark
+- Higher ISO = more digital noise (especially visible in B&W)
+
+📌 *Use the lowest ISO possible for the lighting conditions.*
+
+---
+
+### Focus Mode
+
+**Autofocus (AF)** — *Default for Week 1*
+
+- Use **single-point autofocus**
+- Half-press the shutter button to lock focus
+
+📌 *Switch to Manual Focus (MF) only if autofocus struggles.*
+
+---
+
+### White Balance
+
+- Set to **Auto White Balance**
+- Color accuracy is not the focus for this assignment
+
+---
+
+### Image Format
+
+- Shoot in **JPEG**
+- Black-and-white preview may be enabled in-camera, but files will still contain full information
+
+📌 *Do not worry about RAW files for this assignment.*
+
+---
+
+### Stability & Framing
+
+- Always use a **tripod**
+- Turn **Image Stabilization OFF** when the camera is mounted on a tripod
+- Take time to adjust framing carefully before shooting
+
+---
+
+📌 *For Week 1, success comes from intentional choices, not technical complexity.*
 
 ---
