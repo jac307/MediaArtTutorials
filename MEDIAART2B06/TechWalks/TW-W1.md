@@ -2,8 +2,8 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W1 — Tech Walkthrough:</h1>
-<h1 style="color: darkred;">Intro to DSLR Photography for B&W Photo Film</h1>
+<h1 style="color: darkred;">W1 — Tech Walkthrough</h1>
+<h2 style="color: darkred;">Intro to DSLR Photography for B&W Photo Film</h2>
 
 ## Objective
 
