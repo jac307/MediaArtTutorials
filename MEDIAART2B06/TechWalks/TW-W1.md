@@ -142,17 +142,26 @@ This is intentional: it allows you to focus on **framing, composition, depth of 
 
 ### Shooting Mode
 
-**Aperture Priority (Av)** — *Primary mode for Week 1*
+<img src="imgs/08.jpg" style="width: 50%; height: auto;">
 
-- You select the **aperture (f-stop)**
-- The camera automatically sets the shutter speed
-- This mode gives you **direct control over depth of field**
+**Aperture Priority (Av)** — *Primary mode for Week 1*. In this mode:  
+
+- **You select the aperture (f-stop)**  
+  > *Aperture* is the size of the opening in the lens that controls how much light enters the camera and how much of the image appears in focus.
+
+- **The camera automatically sets the shutter speed**  
+  > *Shutter speed* is the amount of time the camera’s shutter remains open, controlling exposure and how motion is rendered.
+
+- **This mode gives you direct control over depth of field**  
+  > Aperture determines depth of field (how much is in focus), while the camera adjusts shutter speed to maintain proper exposure based on your aperture choice.
 
 📌 *Use Aperture Priority unless instructed otherwise.*
 
 ---
 
-### Aperture (f-stop)
+### Aperture (f-stop)  
+
+<img src="imgs/09.jpg" style="width: 80%; height: auto;">
 
 Aperture controls **depth of field** and how much of the image appears in focus.
 
@@ -164,7 +173,7 @@ Aperture controls **depth of field** and how much of the image appears in focus.
   → Deeper depth of field  
   → More of the scene in focus
 
-📌 *Choose aperture based on what you want to emphasize.*
+<img src="imgs/10.gif" alt="Av examples" style="width: 60%; height: auto;">
 
 ---
 
