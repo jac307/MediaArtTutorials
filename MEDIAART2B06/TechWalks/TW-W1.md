@@ -102,6 +102,9 @@ Used to manually adjust focus when the lens is set to MF.
 **Zoom Ring (if applicable)**  
 Controls focal length on zoom lenses (e.g., 18–55mm).
 
+**Stabilizer (IS)**  
+Reduces camera shake when shooting handheld; turn OFF when using a tripod.
+
 ---
 
 ### Storage & Power
@@ -175,10 +178,26 @@ Before starting a new shoot, format the SD card **in the camera** to avoid file 
 
 ---
 
-<h3 style="color: darkred;"> More Camera Settings — What to Use for Week 1 (Camera On) </h3>  
+<h3 style="color: darkred;"> More Camera Settings — What to Use for Week 1 (Camera On) </h3>   
 
 For the first activity and **Photo Film (Black & White)** assignment, we will use a **limited set of camera settings**.  
 This is intentional: it allows you to focus on **framing, composition, depth of field, and light** rather than navigating complex menus.
+
+### What Is Exposure?
+
+**Exposure** refers to how much light reaches the camera’s sensor when a photograph is taken.
++ **Normal Exposure** is achieved when the brightness/darkness of an image is generally considered to have a range of tones and to faithfully represent the scene being photographed. 
++ **Over Exposure** is when too much light is collected by the sensor, and the image looks too bright and washed out.
++ **Under Exposure** is when not enough light is collected by the sensor, and the image looks too dark and dull.
+
+<img src="imgs/14.png" style="width: 60%; height: auto;">
+
+Exposure is controlled by three settings:
+- **Aperture** — how much light enters the lens
+- **Shutter Speed** — how long light reaches the sensor
+- **ISO** — how sensitive the sensor is to light
+
+📌 *For Week 1, you will primarily control exposure through **aperture** and **ISO**, while the camera assists by setting the shutter speed.*
 
 ---
 
@@ -286,9 +305,5 @@ How to setup AWB (Automatic White Balance) --first 30 seconds:
 - Always use a **tripod**
 - Turn **Image Stabilization OFF** when the camera is mounted on a tripod
 - Take time to adjust framing carefully before shooting
-
----
-
-📌 *For Week 1, success comes from intentional choices, not technical complexity.*
 
 ---
