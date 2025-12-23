@@ -244,6 +244,10 @@ ISO controls the camera’s **sensitivity to light**.
 
 📌 *Use the lowest ISO possible for the lighting conditions.*  
 
+How to setup ISO:   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <video width="640" controls>
   <source src="imgs/13.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -253,12 +257,16 @@ ISO controls the camera’s **sensitivity to light**.
 
 ### Focus Mode
 
-**Autofocus (AF)** — *Default for Week 1*
+**Manual Focus (MF)** — *Default for Week 1*
 
-- Use **single-point autofocus**
-- Half-press the shutter button to lock focus
+- Set the lens switch to **MF**
+- Use the **focus ring** on the lens to adjust focus manually
+- Take time to confirm what is sharp before pressing the shutter
 
-📌 *Switch to Manual Focus (MF) only if autofocus struggles.*
+Manual focus encourages:
+- Greater attention to **depth of field**
+- Clear identification of the **focal point**
+- Slower, more deliberate image-making
 
 ---
 
@@ -267,14 +275,9 @@ ISO controls the camera’s **sensitivity to light**.
 - Set to **Auto White Balance**
 - Color accuracy is not the focus for this assignment
 
----
+How to setup AWB (Automatic White Balance) --first 30 seconds:   
 
-### Image Format
-
-- Shoot in **JPEG**
-- Black-and-white preview may be enabled in-camera, but files will still contain full information
-
-📌 *Do not worry about RAW files for this assignment.*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/syodAm98LiA?si=6oTEtfkDfLa6JapQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
