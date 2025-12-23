@@ -58,6 +58,69 @@ A more recent DSLR model with enhanced autofocus and low-light performance, whil
 - 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/1/0300026121/01/eos-rebelt7i-800d-bim-3l.pdf)
 - ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=4QTmDk_ZSmc)
 
-📌 *Regardless of the camera model you are assigned, the core controls and concepts demonstrated in class apply across all three.*
+📌 *Regardless of the camera model you are assigned, the core controls and concepts demonstrated in class apply across all three.*  
+
+---
+
+<h3 style="color: darkred;">Camera Anatomy — Getting Familiar</h3>  
+
+📌 *At this stage, the goal is spatial familiarity — knowing where things are before learning how to use them.*
+
+### Core External Components
+
+<img src="imgs/04.jpg" style="width: 80%; height: auto;">
+
+**Shutter Button**  
+The button used to take a photograph. Press halfway to activate autofocus; press fully to capture the image.
+
+**Mode Dial**  
+Selects the camera’s shooting mode (Manual, Aperture Priority, etc.). We will review these modes later.
+
+**Power Switch**  
+Turns the camera on and off. Always switch the camera off before changing lenses.
+
+### Lens & Focus Controls
+
+**Lens**  
+The optical element that determines field of view and depth of field. For Week 1, you will use the standard kit lens.
+
+<img src="imgs/05.jpg" style="width: 80%; height: auto;">
+
+**AF / MF Switch (on the lens)**  
+- **AF (Autofocus):** Camera automatically focuses  
+- **MF (Manual Focus):** Focus is adjusted manually using the focus ring  
+
+📌 *Leave lenses on MF*
+
+**Focus Ring**  
+Used to manually adjust focus when the lens is set to MF.
+
+**Zoom Ring (if applicable)**  
+Controls focal length on zoom lenses (e.g., 18–55mm).
+
+### Storage & Power
+
+<img src="imgs/06.jpg" style="width: 80%; height: auto;">
+
+**Memory Card Slot**  
+Holds the SD card where images are stored.  
+Always confirm a card is inserted before shooting.
+
+**Battery Compartment**  
+Contains the rechargeable battery.  
+A low battery may prevent the camera from turning on or saving images.
+
+### Viewing & Mounting
+
+<img src="imgs/07.jpg" style="width: 80%; height: auto;">
+
+**Viewfinder**  
+Allows you to frame the image optically. Useful in bright environments.
+
+**LCD Screen**  
+Displays menus, image playback, and live view when enabled.
+
+**Tripod Mount (Bottom of Camera)**  
+Used to securely attach the camera to a tripod for stable framing and consistent composition.
 
 ---
