@@ -20,12 +20,13 @@ Series of hands-on production exercises designed to **build core skills** in cam
 
 + [Week 1](M1/WT-W1.md) — Photo Film (Individual)
   + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography for B&W Photo Film
+<!--
 + [Week 2](M1/WT-W2.md) — Chiaroscuro Interview (Pairs)
 + [Week 3](M1/WT-W3.md) — Static Outdoor Scene (Groups of 3)
 + [Week 4](M1/WT-W4.md) — Continuous Shot (Individual)
 + [Week 5](M1/WT-W5.md) — Foley Sound Creation (Groups of 3)
 + [Week 6](M1/WT-W6.md) — In-Class Showcase - Class Video Exhibition
-
+-->
 ---
 
 ### **Module 2 - Short Film Project (individual)**  
@@ -33,20 +34,20 @@ Series of hands-on production exercises designed to **build core skills** in cam
 This module **guides students through the complete production of a one-minute short film**, from concept and script development to shooting, editing, and final polishing. 
 
 #### Index  
-
+<!--
 + [Week 7](WT-W7.md) — Pre-Production Package
 + [Week 8](WT-W8.md) — Production Week
 + [Week 9](WT-W9.md) — Rough Cut
 + [Week 10](WT-W10.md) — Rough Cut Screening + Critique Session
 + [Week 12](WT-W12.md) — Final Cut
 + [Week 13](WT-W13.md) — Class Screening
-
+-->
 ---
 
 ### **Mini-Module - Motion Graphics & Compositing (individual)**  
-
+<!--
 + [Week 11](WT-W11.md) — Motion Graphics & Compositing (individual)
-
+-->
 This one-week module introduces **core techniques in Adobe After Effects**, allowing students to explore motion graphics, compositing, and animation.  
  
 ________________________________________________________________________
