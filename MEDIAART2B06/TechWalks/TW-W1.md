@@ -68,7 +68,7 @@ A more recent DSLR model with enhanced autofocus and low-light performance, whil
 
 ### Core External Components
 
-<img src="imgs/04.jpg" style="width: 80%; height: auto;">
+<img src="imgs/04.jpg" style="width: 60%; height: auto;">
 
 **Shutter Button**  
 The button used to take a photograph. Press halfway to activate autofocus; press fully to capture the image.
