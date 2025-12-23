@@ -149,7 +149,7 @@ Before adjusting exposure settings, become familiar with the main camera buttons
 
 ---
 
-### Initial Setup (Do This Once)
+### Initial Setup
 
 1. **Insert an SD card** into the Memory Card Slot.  
 2. **Turn on the camera.**  
@@ -159,7 +159,9 @@ Before adjusting exposure settings, become familiar with the main camera buttons
   - RAW files preserve full image data for later learning and practice
 5. Follow the remaining settings shown in the video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+📌 *It is highly recommended to check these settings every time you rent a camera*  
 
 ---
 
@@ -167,7 +169,9 @@ Before adjusting exposure settings, become familiar with the main camera buttons
 
 Before starting a new shoot, format the SD card **in the camera** to avoid file conflicts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+📌 *It is highly recommended to format SD Card every time you rent a camera*  
 
 ---
 
@@ -230,7 +234,7 @@ Follow this tutorial to setup your aperture:
 
 ### ISO
 
-
+<img src="imgs/12.jpg" style="width: 60%; height: auto;">
 
 ISO controls the camera’s **sensitivity to light**.
 
@@ -238,7 +242,12 @@ ISO controls the camera’s **sensitivity to light**.
 - Increase ISO only if the image becomes too dark
 - Higher ISO = more digital noise (especially visible in B&W)
 
-📌 *Use the lowest ISO possible for the lighting conditions.*
+📌 *Use the lowest ISO possible for the lighting conditions.*  
+
+<video width="640" controls>
+  <source src="imgs/13.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
