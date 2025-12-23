@@ -26,7 +26,8 @@ Series of hands-on production exercises designed to **build core skills** in cam
 + [Week 4](M1/WT-W4.md) — Continuous Shot (Individual)
 + [Week 5](M1/WT-W5.md) — Foley Sound Creation (Groups of 3)
 + [Week 6](M1/WT-W6.md) — In-Class Showcase - Class Video Exhibition
--->
+-->  
+
 ---
 
 ### **Module 2 - Short Film Project (individual)**  
