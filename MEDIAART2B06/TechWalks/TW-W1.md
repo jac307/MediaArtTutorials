@@ -218,7 +218,7 @@ Aperture controls **depth of field** and how much of the image appears in focus.
   → Deeper depth of field  
   → More of the scene in focus
 
-<img src="imgs/10.gif" alt="Av examples" style="width: 50%; height: auto;"> 
+<img src="imgs/10.gif" alt="Av examples" style="width: 40%; height: auto;"> 
 
 📌 *The Aperture is the first setting you should always set up*  
 
