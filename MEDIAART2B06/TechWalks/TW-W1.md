@@ -161,9 +161,16 @@ This is intentional: it allows you to focus on **framing, composition, depth of 
 
 ### Aperture (f-stop)  
 
-<img src="imgs/09.jpg" style="width: 60%; height: auto;">
+<img src="imgs/09.jpg" style="width: 100%; height: auto;">
 
-Aperture controls **depth of field** and how much of the image appears in focus.
+Aperture = size of opening  
+
+Each aperture (above) represents a **halving** or **doubling** of the **volume of light**:  
++ f/4 lets in twice as much light as f/5.6
++ f/11 lets in half as much light as f/8
+These increments are called a **full ‘stop’** because they represent the halving or doubling of the light.   
+
+Aperture controls **depth of field** and how much of the image appears in focus.  
 
 - **Wide aperture (f/3.5 – f/5.6)**  
   → Shallow depth of field  
@@ -173,7 +180,13 @@ Aperture controls **depth of field** and how much of the image appears in focus.
   → Deeper depth of field  
   → More of the scene in focus
 
-<img src="imgs/10.gif" alt="Av examples" style="width: 50%; height: auto;">
+<img src="imgs/10.gif" alt="Av examples" style="width: 50%; height: auto;"> 
+
+📌 *The Aperture is the first setting you should always set up*  
+
+Follow this tutorial to setup your apperture:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=vasQj9nKITVfXyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
