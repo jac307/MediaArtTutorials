@@ -9,7 +9,7 @@
 
 This technical walkthrough introduces the **essential DSLR camera controls and workflows** required to produce a **black-and-white photo sequence** for the first assignment: **Photo Film (Individual)**.  
 
-Check [Available DSLR Cameras](../Cameras.md)  
+Check [Available DSLR Cameras](../Cameras.md){:target="_blank"}  
 
 By the end of this session, students should be able to:
 
