@@ -201,7 +201,7 @@ Exposure is controlled by three settings:
 
 <img src="imgs/09.jpg" style="width: 100%; height: auto;">
 
-Aperture = size of opening  
+Aperture = **size of opening**  
 
 Each aperture (above) represents a **halving** or **doubling** of the **volume of light**:  
 + f/4 lets in twice as much light as f/5.6
@@ -279,8 +279,8 @@ How to setup AWB (Automatic White Balance) --first 30 seconds:
 
 ### Stability & Framing
 
-- Always use a **tripod**
 - Turn **Image Stabilization OFF** when the camera is mounted on a tripod
+- Turn **Image Stabilization ON** with handheld camera
 - Take time to adjust framing carefully before shooting
 
 ---
