@@ -54,7 +54,7 @@ Create a document and include the following sections:
 - **Read:** Hafidz Zulkifli's article *[Writing Stories with Illustrations with GPT-3 and DALL-E — A Short Exploration](imgs/Article-Copilot.pdf){:target="_blank"}*  
 - **Learn about Prompting:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6RAStep_3OI?si=6FOOlug8p2g1TGrG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="80%" src="https://www.youtube.com/embed/6RAStep_3OI?si=6FOOlug8p2g1TGrG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### ✅ Creative Task
 
