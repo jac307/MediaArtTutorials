@@ -2,58 +2,6 @@
 
 -------------------------------------------------------------------------------
 
-<!-- Widget + logo (logo on the left) -->
-<div class="translate-container">
-  <img class="translate-logo"
-       src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Google_Translate_logo.svg"
-       alt="Google Translate Logo"
-       width="28" height="28">
-  <div id="google_translate_element"></div>
-</div>
-
-<!-- Init script -->
-<script>
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en', // change to your source language code
-      includedLanguages: 'es,fr,zh-CN,ar,hi,pt', // pick your list
-      autoDisplay: false,
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-    }, 'google_translate_element');
-  }
-</script>
-
-<!-- Loader -->
-<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-<!-- CSS tweaks -->
-<style>
-  body { top: 0 !important; }
-  .goog-te-banner-frame { display:none !important; }
-
-  /* Hide Google default text + link */
-  .goog-logo-link,
-  .goog-te-gadget span {
-    display: none !important;
-  }
-
-  .goog-te-gadget {
-    font-size: 0; /* remove leftover spacing */
-  }
-
-  /* Align logo left, dropdown right */
-  .translate-container {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-  }
-
-  .translate-logo {
-    vertical-align: middle;
-  }
-</style>
-
-
 <h1 style="color: darkred;">Video Composition of the Mundane – Part 3</h1>
 
 <figure style="width: 100%; margin: auto;">
@@ -206,3 +154,5 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 | Submission Form   | `Group-#-Submission-Info.pdf` | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+
+---
