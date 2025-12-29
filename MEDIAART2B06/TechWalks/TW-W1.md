@@ -145,7 +145,7 @@ Before adjusting exposure settings, become familiar with the main camera buttons
 
 Before starting a new shoot, format the SD card **in the camera** to avoid file conflicts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="80%" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 📌 *It is highly recommended to format SD Card every time you rent a camera*  
 
@@ -224,7 +224,7 @@ Aperture controls **depth of field** and how much of the image appears in focus.
 
 Follow this tutorial to setup your aperture:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=vasQj9nKITVfXyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="80%" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=vasQj9nKITVfXyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -242,7 +242,7 @@ ISO controls the camera’s **sensitivity to light**.
 
 How to setup ISO:   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="80%" src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <video height="315" controls>
   <source src="imgs/13.mp4" type="video/mp4">
@@ -273,7 +273,7 @@ Manual focus encourages:
 
 How to setup AWB (Automatic White Balance) --first 30 seconds:   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syodAm98LiA?si=6oTEtfkDfLa6JapQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="80%" src="https://www.youtube.com/embed/syodAm98LiA?si=6oTEtfkDfLa6JapQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
