@@ -55,11 +55,11 @@ La Jetée (1962), by Chris Marker
 - Manual focus, tripod-based shooting
 - Photos are captured **in colour** and converted to **black and white** in post-production
 
-<img src="WeekIns/imgs/01.jpg" style="width: 100%; height: auto;">  
+<img src="WeekIns/imgs/01.jpeg" style="width: 100%; height: auto;">  
 
-<img src="WeekIns/imgs/02.jpg" style="width: 100%; height: auto;">  
+<img src="WeekIns/imgs/02.jpeg" style="width: 100%; height: auto;">  
 
-<img src="WeekIns/imgs/03.jpg" style="width: 60%; height: auto;">  
+<img src="WeekIns/imgs/03.jpeg" style="width: 60%; height: auto;">  
 
 ### Image Editing
 Use *Adobe Photoshop* to:  
