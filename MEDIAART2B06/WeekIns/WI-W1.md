@@ -122,8 +122,7 @@ After shooting (and before the next step), prepare a contact-sheet style PDF of 
 - **Paper size:** Letter (11 × 8.5 in)
 - **Orientation:** Landscape
 - Arrange images in a **2 × 4 grid per page**
-- Use:
-  - PowerPoint, Word, Canva, Pages, or Keynote
+- Use: PowerPoint, Word, Canva, Pages, or Keynote
 - Export as **PDF**
 - 📄 **Filename:** `Name-Lastname-Photos.pdf`
 
@@ -170,9 +169,9 @@ Using your selected **10–18 photographs**, follow the tutorials to assemble yo
 
 🚫 **Do not** use colour correction, filters, visual effects, motion animation, or stylized transitions.
 
-➡️ **Export as MP4**  
-> Codec: **H.264**  
-📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`
+➡️ **Export as MP4**   
+Codec: **H.264**   
+📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`  
 
 ### Sound
 
