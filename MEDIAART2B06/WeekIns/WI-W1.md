@@ -35,6 +35,7 @@ You will work **in pairs during class time** for support and feedback, but **eac
 Año Uña (2010), by Jonás Cuarón
 → A photo-based film where rhythm and narrative emerge through uneven timing of still images, everyday observation, and post-hoc narrative construction.  
 ▶️ [Movie Trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}  
+▶️ [Año Uña Clip - Diego's Toenail](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}    
 ▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
   
 La Jetée (1962), by Chris Marker  
@@ -49,12 +50,19 @@ La Jetée (1962), by Chris Marker
 - Photographs must be taken **during class time**
 - Images must be **static** (no video or motion capture)
 - Use at least:
-  - **3 different shot sizes**
+  - **3 different shot sizes** (excluding *Extreme Long Shot*)  
   - **1–2 compositional frameworks**
 - Manual focus, tripod-based shooting
 - Photos are captured **in colour** and converted to **black and white** in post-production
 
+<img src="WeekIns/imgs/01.jpg" style="width: 100%; height: auto;">  
+
+<img src="WeekIns/imgs/02.jpg" style="width: 100%; height: auto;">  
+
+<img src="WeekIns/imgs/03.jpg" style="width: 60%; height: auto;">  
+
 ### Image Editing
+Use *Adobe Photoshop* to:  
 - Convert images to **black and white**
 - Adjust **exposure and contrast only**
 - Maintain **visual consistency** across the sequence
@@ -69,6 +77,13 @@ La Jetée (1962), by Chris Marker
 - No sound effects
 - Maximum **2 audio tracks**
 - Sound should support pacing and rhythm, not dominate the sequence
+- **Only royalty-free audio. Options:**
+  - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
+  - <a href="https://freemusicarchive.org" target="_blank" rel="noopener noreferrer">Free Music Archive (FMA)</a> — Instrumental and experimental music (check licenses)
+  - <a href="https://pixabay.com/music/" target="_blank" rel="noopener noreferrer">Pixabay Music</a> — Royalty-free instrumental tracks
+  - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
+  - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
+
 
 📌 *This assignment introduces sound-image relationships in a minimal and intentional way.*
 
