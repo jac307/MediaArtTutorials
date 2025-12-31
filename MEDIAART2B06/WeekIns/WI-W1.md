@@ -51,7 +51,7 @@ You will work **in pairs during class time** for support and feedback, but **eac
 
 <ul>
   <li><a href="#brainstorming">1. Brainstorming & Sketching</a></li>
-  <li><a href="#shooting">2. Shooting</a></li>
+  <li><a href="#shooting">2. Photographing</a></li>
   <li><a href="#photo-editing">3. Post-Production: Edit Photographs in Photoshop</a></li>
   <li><a href="#premiere">4. Post-Production: Assemble in Premiere Pro</a></li>
 </ul>
@@ -78,22 +78,24 @@ Use the PDF worksheet below to:
 
 ---
 
-<h3 id="shooting" style="color: darkred;">2. Shooting [60 min]</h3>
+<h3 id="shooting" style="color: darkred;">2. Photographing [60 min]</h3>
 
 During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
 
 Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photography for Photo Film Activiy  
 
-### Shooting Requirements
+### Photographing Requirements
 
-- All photographs must be taken **during class time**
+- All photographs must be completed **during class time**
 - Images must be **static stills** (no video or motion capture)
+- Shoot in landscape  
 - Use at least:
   - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
   - **1–2 compositional frameworks**
   - Work with **depth of field**
 - **Manual focus** and **tripod-based** shooting are required
-- Photographs are captured **in colour** and converted to **black and white** in post-production
+
+> Photographs are captured **in colour** and converted to **black and white** in post-production
 
 ### Working in Pairs
 
