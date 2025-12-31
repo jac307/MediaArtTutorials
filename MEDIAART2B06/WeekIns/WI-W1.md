@@ -2,7 +2,15 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Photo Film (Individual)</h1>
+<h1 style="color: darkred;">Photo Film (Individual)</h1>  
+
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/lajetee.gif" alt="Test video 1" style="width: 48%; height: auto;">
+  <img src="imgs/anouna.gif" alt="Test video 2" style="width: 48%; height: auto;">
+</figure>
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Left: Clip from **La Jetée** (1962) by Chris Marker; Right: Clip from **Año Uña** (2010) by Jonás Cuarón
+</figcaption>
 
 ## Goal
 
@@ -32,15 +40,15 @@ You will work **in pairs during class time** for support and feedback, but **eac
 
 ## Examples
 
+**La Jetée** (1962), by Chris Marker   
+→ A canonical still-image film that constructs a powerful narrative entirely through sequencing, pacing, and voice-over, with almost no motion.  
+▶️ [Full Movie](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}    
+
 **Año Uña** (2010), by Jonás Cuarón  
 → A photo-based film where rhythm and narrative emerge through uneven timing of still images, everyday observation, and post-hoc narrative construction.  
 ▶️ [Movie Trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}  
 ▶️ [Año Uña Clip - Diego's Toenail](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}    
 ▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
-  
-**La Jetée** (1962), by Chris Marker   
-→ A canonical still-image film that constructs a powerful narrative entirely through sequencing, pacing, and voice-over, with almost no motion.  
-▶️ [Full Movie](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}  
 
 ---
 
@@ -94,6 +102,8 @@ Use *Adobe Photoshop* to:
 **First 15 minutes:**  
 Instructor overview of the assignment and expectations.
 
+---
+
 ### 1. Brainstorming & Sketching
 
 Use this PDF worksheet (link below) to:
@@ -104,7 +114,12 @@ Use this PDF worksheet (link below) to:
 
 <a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
-</a>
+</a>   
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Name-Lastname-Brainstorming.pdf`
+
+---
 
 ### 2. Shooting
 - Photograph your sequence on campus
@@ -113,13 +128,23 @@ Use this PDF worksheet (link below) to:
 - Bodies and faces are allowed (not from strangers)
 - Faces of strangers should be avoided
 
-📌 *Be mindful of shared spaces and respect others while photographing on campus.*
+📌 *Be mindful of shared spaces and respect others while photographing on campus.*  
+
+Create a document containing original photographs used in the sequence (straight from camera -no editing)  
+**Layout:** **2 columns × 4 images per horizontal page**   
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Name-Lastname-Photos.pdf`  
+
+---
 
 ### 3. Group Image Analysis (20–30 min)
 - Select **one photograph** from your shoot
 - Convert it to black and white
 - Adjust exposure/contrast if needed
 - Group discussion will focus on **composition only**
+
+---
 
 ### 4. Post-Production (Begin in Class)
 You must begin post-production during class time.
@@ -128,13 +153,13 @@ You must begin post-production during class time.
 
 <h1 style="color: darkred;">Post-Production Workflow</h1>
 
-### Step 1 — Edit Photographs
-You **must** use Adobe Photoshop:  
+### Step 1 — Edit Photographs in Adobe Photoshop 
 - Convert selected images to black and white
 - Adjust exposure and contrast for consistency
 - Save edited images for sequencing
 
 ### Step 2 — Assemble in Adobe Premiere Pro
+- Resolution: **1920 × 1080**
 - Import still images
 - Sequence images to create rhythm and pacing
 - Total duration: **30 seconds**
@@ -143,37 +168,37 @@ You **must** use Adobe Photoshop:
   - Simple title and credits
 - Allowed transitions:
   - Jump cuts
-  - Fade in / fade out only
+  - Fade in / fade out
+  - Cross-over
+- 🚫 No colour correction, effects, filters, or motion animation.
 
-🚫 No colour correction, effects, filters, or motion animation.
+➡️ **Export as MP4**  
+  > Codec: **H.264**
+📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`
 
----
-
-<h3 style="color: darkred;">📤 Submission</h3>
-
-### 1. Brainstorming & Sketching Worksheet
-- Format: **PDF**
-- Filename: `Name-Lastname-Brainstorming.pdf`
-
-### 2. Photo Selection PDF
-A single PDF containing:
-- Original photographs used in the sequence (straight from camera -no editing)
-- Layout: **2 columns × 4 images per horizontal page**
-- Filename: `Name-Lastname-Photos.pdf`
-
-### 3. Final Photo Film
-- Format: **MP4**
-- Codec: **H.264**
-- Resolution: **1920 × 1080**
-- Filename: `Name-Lastname-PhotoFilm.mp4`
-
-### 3. Project PDF
-A one-page PDF including:
+### Step 3 — Project PDF 
+Create a one-page document including:
 - **One representative still image**
 - Title
 - Year
 - Author
 - **One-paragraph artistic description**
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`  
+
+---
+
+<h3 style="color: darkred;">📤 Submission</h3>
+
+| Type       | File Name                                 |
+|------------|-------------------------------------------|
+| PDF        | `Name-Lastname-Brainstorming.pdf`         |
+| PDF        | `Name-Lastname-Photos.pdf`                |
+| MP4        | `Name-Lastname-PhotoFilm.mp4`             |
+| PDF        | `Name-Lastname-PhotoFilm.pdf`             |
+
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
 
