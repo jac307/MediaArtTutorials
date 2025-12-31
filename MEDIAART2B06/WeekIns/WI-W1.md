@@ -46,61 +46,103 @@ You will work **in pairs during class time** for support and feedback, but **eac
 
 ---
 
-<h1 style="color: darkred;">In-Class Workflow (4 Hours)</h1>
-
-**First 15 minutes:**  
-Instructor overview of the assignment and expectations.
+## Activities  
+**Complete the following in order. Ask the professor or TAs for support or feedback.**
 
 ---
 
-### 1. Brainstorming & Sketching
+<h3 style="color: darkred;">1. Brainstorming & Sketching [20 min]</h3>
 
-Use this PDF worksheet (link below) to:
-- Develop a simple observational idea that can be completed on campus
+Use the PDF worksheet below to:
+
+- Develop a simple **observational idea** that can be completed on campus
 - Create **3–5 visual frame-moods** (rough sketches or notes)
-- Sketches are a **starting point**, not a fixed script
-- Be open to discovery during shooting
+- Treat sketches as a **starting point**, not a fixed script
+- Remain open to discovery during shooting
 
 <a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
-</a>   
-
-➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-Brainstorming.pdf`
+</a>
 
 ---
 
-### 2. Shooting
+### Submission
 
-- Photographs must be taken **during class time**
-- Images must be **static** (no video or motion capture)
+- ➡️ **Export as PDF**
+- 📄 **Filename:** `Name-Lastname-Brainstorming.pdf`
+
+---
+
+<h3 style="color: darkred;">2. Shooting [60 min]</h3>
+
+During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
+
+Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photography for Photo Film Activiy  
+
+---
+
+### Shooting Requirements
+
+- All photographs must be taken **during class time**
+- Images must be **static stills** (no video or motion capture)
 - Use at least:
-  - **3 different shot sizes** (excluding *Extreme Long Shot*)  
+  - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
   - **1–2 compositional frameworks**
-- Manual focus, tripod-based shooting
-- Photos are captured **in colour** and converted to **black and white** in post-production
-- Work with your partner for support and feedback
-- You may appear in your partner’s images
-- Bodies and faces are allowed (not from strangers)
-- Faces of strangers should be avoided
+- **Manual focus** and **tripod-based** shooting are required
+- Photographs are captured **in colour** and converted to **black and white** in post-production
 
-📌 *Be mindful of shared spaces and respect others while photographing on campus.* 
+---
+
+### Working in Pairs
+
+- Work with your partner for **support and feedback**
+- You may appear in your partner’s images
+- Bodies and faces are allowed
+- Faces of **strangers should be avoided**
+
+📌 *Be mindful of shared spaces and respect others while photographing on campus.*
+
+---
 
 <img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
-
 <img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
-
 <img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
-
-Once you finish, create a document containing original photographs used in the sequence (straight from camera -no editing)  
-**Layout:** **2 columns × 4 images per horizontal page**   
-
-➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-Photos.pdf`  
 
 ---
 
-### 3. Group Image Analysis (20–30 min)
+### Create Your Photo Grid (For Submission)
+
+After shooting, prepare a contact-sheet style PDF of your selected images.
+
+- Select **your final sequence of images** (10–18 photographs)
+- **Paper size:** Letter (11 × 8.5 in)
+- **Orientation:** Landscape
+- Arrange images in a **2 × 4 grid per page**
+- Use:
+  - PowerPoint, Word, Canva, Pages, or Keynote
+- Export as **PDF**
+- 📄 **Filename:** `Name-Lastname-Photos.pdf`
+
+📌 *If your sequence includes more than 8 images, continue onto additional pages using the same grid format.*
+
+
+---  
+
+<h3 style="color: darkred;">3. Post-Production: Edit Photographs in Adobe Photoshop [60 min]</h3>
+
+Follow the tutorials to:  
+
+- Convert selected images to **black and white**
+- Adjust **exposure and contrast only**
+- Maintain **visual consistency** across the sequence
+- Save edited images for sequencing
+
+🚫 Do **not** crop, retouch, apply filters, or add effects at this stage.
+
+---
+
+### Group Image Analysis [25 min]
+
 - Select **one photograph** from your shoot
 - Convert it to black and white
 - Adjust exposure/contrast if needed
@@ -108,63 +150,39 @@ Once you finish, create a document containing original photographs used in the s
 
 ---
 
-### 4. Post-Production (Begin in Class)
-You must begin post-production during class time.
+<h3 style="color: darkred;">4. Post-Production: Assemble in Adobe Premiere Pro [Begin in Class]</h3>
 
----
+Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
 
-<h1 style="color: darkred;">Post-Production Workflow</h1>
-
-### Step 1 — Edit Photographs in Adobe Photoshop 
-- Convert selected images to black and white
-- Adjust exposure and contrast for consistency
-- Save edited images for sequencing
-
-### Step 2 — Assemble in Adobe Premiere Pro
-- Resolution: **1920 × 1080**
+- **Resolution:** 1920 × 1080
 - Import still images
-- Sequence images to create rhythm and pacing
-- Total duration: **30 seconds**
+- Sequence images to create **rhythm and pacing**
+- **Total duration:** 30 seconds
 - Add:
-  - Music or silence
-  - Simple title and credits
-- Allowed transitions:
+  - Music or silence (see sound restrictions below)
+  - A **simple title and credits**
+- **Allowed transitions:**
   - Jump cuts
   - Fade in / fade out
-  - Cross-overs
-- 🚫 No colour correction, effects, filters, or motion animation.
+  - **Cross overs** (simple temporal overlap between still images)
+
+📌 *Cross overs should be subtle and used sparingly to support pacing, not as visual effects.*
+
+🚫 **Do not** use colour correction, filters, visual effects, motion animation, or stylized transitions.
 
 ➡️ **Export as MP4**  
-  > Codec: **H.264**
+> Codec: **H.264**  
 📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`
-
-### Step 3 — Project PDF 
-Create a one-page document including:
-- **One representative still image**
-- Title
-- Year
-- Author
-- **One-paragraph artistic description**
-
-➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`    
-
-### Image Editing
-Use *Adobe Photoshop* to:  
-- Convert images to **black and white**
-- Adjust **exposure and contrast only**
-- Maintain **visual consistency** across the sequence
-- No cropping, filters, effects, or retouching
 
 ---
 
-## Sound
+### Sound
 
 - **Music is required**, or **silence may be used if conceptually justified**
 - Instrumental or ambient sound only (no lyrics)
 - No sound effects
 - Maximum **2 audio tracks**
-- Sound should support pacing and rhythm, not dominate the sequence
+- Sound should support **pacing and rhythm**, not dominate the sequence
 - **Only royalty-free audio. Options:**
   - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
   - <a href="https://freemusicarchive.org" target="_blank" rel="noopener noreferrer">Free Music Archive (FMA)</a> — Instrumental and experimental music (check licenses)
@@ -172,8 +190,23 @@ Use *Adobe Photoshop* to:
   - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
   - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
 
+📌 *This assignment introduces sound–image relationships in a minimal and intentional way.*
 
-📌 *This assignment introduces sound-image relationships in a minimal and intentional way.*
+---
+
+### Project Info PDF
+
+Create a **one-page document** including:
+
+- **One representative still image**
+- Title
+- Year
+- Author
+- **One-paragraph artistic description**
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`
+
 
 ---
 
