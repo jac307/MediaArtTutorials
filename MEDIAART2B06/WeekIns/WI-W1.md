@@ -110,7 +110,7 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro 
 
 <img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
-<img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
+<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
 
 ---
 
@@ -127,7 +127,7 @@ After shooting (and before the next step), prepare a contact-sheet style PDF of 
 - Export as **PDF**
 - 📄 **Filename:** `Name-Lastname-Photos.pdf`
 
-<img src="imgs/04.png" style="width: 60%; height: auto;">  
+<img src="imgs/04.png" style="width: 50%; height: auto;">  
 
 ---  
 
