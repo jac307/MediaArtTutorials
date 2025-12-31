@@ -127,7 +127,7 @@ After shooting (and before the next step), prepare a contact-sheet style PDF of 
 - Export as **PDF**
 - 📄 **Filename:** `Name-Lastname-Photos.pdf`
 
-📌 *If your sequence includes more than 8 images, continue onto additional pages using the same grid format.*
+<img src="imgs/04.png" style="width: 60%; height: auto;">  
 
 ---  
 
