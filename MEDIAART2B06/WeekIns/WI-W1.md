@@ -114,7 +114,7 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photograph
 
 ### Create Your Photo Grid (For Submission)
 
-After shooting, prepare a contact-sheet style PDF of your selected images.
+After shooting (and before the next step), prepare a contact-sheet style PDF of your selected images.  
 
 - Select **your final sequence of images** (10–18 photographs)
 - **Paper size:** Letter (11 × 8.5 in)
