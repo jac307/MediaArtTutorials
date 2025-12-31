@@ -52,7 +52,7 @@ You will work **in pairs during class time** for support and feedback, but **eac
 <ul>
   <li><a href="#brainstorming">1. Brainstorming & Sketching</a></li>
   <li><a href="#shooting">2. Shooting</a></li>
-  <li><a href="#photo-editing">3. Post-Production: Edit Photographs</a></li>
+  <li><a href="#photo-editing">3. Post-Production: Edit Photographs in Photoshop</a></li>
   <li><a href="#premiere">4. Post-Production: Assemble in Premiere Pro</a></li>
 </ul>
 
@@ -127,7 +127,7 @@ After shooting, prepare a contact-sheet style PDF of your selected images.
 
 ---  
 
-<h3 id="photo-editing" style="color: darkred;">3. Post-Production: Edit Photographs in Adobe Photoshop [60 min]</h3>
+<h3 id="photo-editing" style="color: darkred;">3. Post-Production: Edit Photographs in Photoshop [60 min]</h3>
 
 Follow the tutorials to:  
 
@@ -149,7 +149,7 @@ Follow the tutorials to:
 
 ---
 
-<h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Adobe Premiere Pro [Begin in Class]</h3>
+<h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
 Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
 
