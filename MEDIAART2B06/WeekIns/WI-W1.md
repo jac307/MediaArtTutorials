@@ -55,9 +55,9 @@ La Jetée (1962), by Chris Marker
 - Manual focus, tripod-based shooting
 - Photos are captured **in colour** and converted to **black and white** in post-production
 
-<img src="imgs/01.jpeg" style="width: 100%; height: auto;">  
+<img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
 
-<img src="imgs/02.jpeg" style="width: 100%; height: auto;">  
+<img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
 
 <img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
 
@@ -89,16 +89,22 @@ Use *Adobe Photoshop* to:
 
 ---
 
-## In-Class Workflow (4 Hours)
+<h1 style="color: darkred;">In-Class Workflow (4 Hours)</h1>
 
 **First 15 minutes:**  
 Instructor overview of the assignment and expectations.
 
 ### 1. Brainstorming & Sketching
+
+Use this PDF worksheet to:
 - Develop a simple observational idea that can be completed on campus
 - Create **3–5 visual frame-moods** (rough sketches or notes)
 - Sketches are a **starting point**, not a fixed script
 - Be open to discovery during shooting
+
+<a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
+📄 Download / View Brainstorming & Sketching Worksheet (PDF)
+</a>
 
 ### 2. Shooting
 - Photograph your sequence on campus
