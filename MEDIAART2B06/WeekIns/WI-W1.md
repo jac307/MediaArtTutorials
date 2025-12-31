@@ -104,10 +104,13 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photograph
 
 📌 *Be mindful of shared spaces and respect others while photographing on campus.*
 
+---
+
 <img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
 
+---
 
 ### Create Your Photo Grid (For Submission)
 
@@ -123,7 +126,6 @@ After shooting, prepare a contact-sheet style PDF of your selected images.
 - 📄 **Filename:** `Name-Lastname-Photos.pdf`
 
 📌 *If your sequence includes more than 8 images, continue onto additional pages using the same grid format.*
-
 
 ---  
 
@@ -231,13 +233,5 @@ Create a **one-page document** including:
   - Originality and Artistry  
 
 📌 *Consistency and application of theory are more important than ambition at this stage.*
-
----
-
-## Important Notes
-
-- You may support your partner during shooting, but **each student must independently make framing and sequencing decisions**.
-- Partial submissions will result in a lower grade.
-- You are responsible for saving and backing up your files.
 
 ---
