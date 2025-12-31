@@ -4,13 +4,7 @@
 
 <h1 style="color: darkred;">Photo Film (Individual)</h1>  
 
-<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
-  <img src="imgs/lajetee.gif" alt="Test video 1" style="width: 48%; height: auto;">
-  <img src="imgs/anouna.gif" alt="Test video 2" style="width: 48%; height: auto;">
-</figure>
-<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-  Left: Clip from **La Jetée** (1962) by Chris Marker; Right: Clip from **Año Uña** (2010) by Jonás Cuarón
-</figcaption>
+<img src="imgs/0.png" style="width: 100%; height: auto;">  
 
 ## Goal
 
