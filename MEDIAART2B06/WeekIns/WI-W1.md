@@ -47,11 +47,18 @@ You will work **in pairs during class time** for support and feedback, but **eac
 ---
 
 ## Activities  
-**Complete the following in order. Ask the professor or TAs for support or feedback.**
+**Complete the following in order. Ask the professor or TAs for support or feedback.**  
+
+<ul>
+  <li><a href="#brainstorming">1. Brainstorming & Sketching</a></li>
+  <li><a href="#shooting">2. Shooting</a></li>
+  <li><a href="#photo-editing">3. Post-Production: Edit Photographs</a></li>
+  <li><a href="#premiere">4. Post-Production: Assemble in Premiere Pro</a></li>
+</ul>
 
 ---
 
-<h3 style="color: darkred;">1. Brainstorming & Sketching [20 min]</h3>
+<h3 id="brainstorming" style="color: darkred;">1. Brainstorming & Sketching [20 min]</h3>
 
 Use the PDF worksheet below to:
 
@@ -71,7 +78,7 @@ Use the PDF worksheet below to:
 
 ---
 
-<h3 style="color: darkred;">2. Shooting [60 min]</h3>
+<h3 id="shooting" style="color: darkred;">2. Shooting [60 min]</h3>
 
 During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
 
@@ -120,7 +127,7 @@ After shooting, prepare a contact-sheet style PDF of your selected images.
 
 ---  
 
-<h3 style="color: darkred;">3. Post-Production: Edit Photographs in Adobe Photoshop [60 min]</h3>
+<h3 id="photo-editing" style="color: darkred;">3. Post-Production: Edit Photographs in Adobe Photoshop [60 min]</h3>
 
 Follow the tutorials to:  
 
@@ -142,7 +149,7 @@ Follow the tutorials to:
 
 ---
 
-<h3 style="color: darkred;">4. Post-Production: Assemble in Adobe Premiere Pro [Begin in Class]</h3>
+<h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Adobe Premiere Pro [Begin in Class]</h3>
 
 Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
 
