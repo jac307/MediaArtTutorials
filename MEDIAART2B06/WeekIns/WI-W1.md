@@ -46,51 +46,6 @@ You will work **in pairs during class time** for support and feedback, but **eac
 
 ---
 
-## Visual & Technical Constraints
-
-### Photography
-- Photographs must be taken **during class time**
-- Images must be **static** (no video or motion capture)
-- Use at least:
-  - **3 different shot sizes** (excluding *Extreme Long Shot*)  
-  - **1–2 compositional frameworks**
-- Manual focus, tripod-based shooting
-- Photos are captured **in colour** and converted to **black and white** in post-production
-
-<img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
-
-<img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
-
-<img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
-
-### Image Editing
-Use *Adobe Photoshop* to:  
-- Convert images to **black and white**
-- Adjust **exposure and contrast only**
-- Maintain **visual consistency** across the sequence
-- No cropping, filters, effects, or retouching
-
----
-
-## Sound
-
-- **Music is required**, or **silence may be used if conceptually justified**
-- Instrumental or ambient sound only (no lyrics)
-- No sound effects
-- Maximum **2 audio tracks**
-- Sound should support pacing and rhythm, not dominate the sequence
-- **Only royalty-free audio. Options:**
-  - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
-  - <a href="https://freemusicarchive.org" target="_blank" rel="noopener noreferrer">Free Music Archive (FMA)</a> — Instrumental and experimental music (check licenses)
-  - <a href="https://pixabay.com/music/" target="_blank" rel="noopener noreferrer">Pixabay Music</a> — Royalty-free instrumental tracks
-  - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
-  - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
-
-
-📌 *This assignment introduces sound-image relationships in a minimal and intentional way.*
-
----
-
 <h1 style="color: darkred;">In-Class Workflow (4 Hours)</h1>
 
 **First 15 minutes:**  
@@ -116,15 +71,28 @@ Use this PDF worksheet (link below) to:
 ---
 
 ### 2. Shooting
-- Photograph your sequence on campus
+
+- Photographs must be taken **during class time**
+- Images must be **static** (no video or motion capture)
+- Use at least:
+  - **3 different shot sizes** (excluding *Extreme Long Shot*)  
+  - **1–2 compositional frameworks**
+- Manual focus, tripod-based shooting
+- Photos are captured **in colour** and converted to **black and white** in post-production
 - Work with your partner for support and feedback
 - You may appear in your partner’s images
 - Bodies and faces are allowed (not from strangers)
 - Faces of strangers should be avoided
 
-📌 *Be mindful of shared spaces and respect others while photographing on campus.*  
+📌 *Be mindful of shared spaces and respect others while photographing on campus.* 
 
-Create a document containing original photographs used in the sequence (straight from camera -no editing)  
+<img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
+
+<img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
+
+Once you finish, create a document containing original photographs used in the sequence (straight from camera -no editing)  
 **Layout:** **2 columns × 4 images per horizontal page**   
 
 ➡️ **Export as PDF**  
@@ -163,7 +131,7 @@ You must begin post-production during class time.
 - Allowed transitions:
   - Jump cuts
   - Fade in / fade out
-  - Cross-over
+  - Cross-overs
 - 🚫 No colour correction, effects, filters, or motion animation.
 
 ➡️ **Export as MP4**  
@@ -179,18 +147,44 @@ Create a one-page document including:
 - **One-paragraph artistic description**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`  
+📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`    
+
+### Image Editing
+Use *Adobe Photoshop* to:  
+- Convert images to **black and white**
+- Adjust **exposure and contrast only**
+- Maintain **visual consistency** across the sequence
+- No cropping, filters, effects, or retouching
+
+---
+
+## Sound
+
+- **Music is required**, or **silence may be used if conceptually justified**
+- Instrumental or ambient sound only (no lyrics)
+- No sound effects
+- Maximum **2 audio tracks**
+- Sound should support pacing and rhythm, not dominate the sequence
+- **Only royalty-free audio. Options:**
+  - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
+  - <a href="https://freemusicarchive.org" target="_blank" rel="noopener noreferrer">Free Music Archive (FMA)</a> — Instrumental and experimental music (check licenses)
+  - <a href="https://pixabay.com/music/" target="_blank" rel="noopener noreferrer">Pixabay Music</a> — Royalty-free instrumental tracks
+  - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
+  - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
+
+
+📌 *This assignment introduces sound-image relationships in a minimal and intentional way.*
 
 ---
 
 <h3 style="color: darkred;">📤 Submission</h3>
 
-| Type       | File Name                                 |
-|------------|-------------------------------------------|
-| PDF        | `Name-Lastname-Brainstorming.pdf`         |
-| PDF        | `Name-Lastname-Photos.pdf`                |
-| MP4        | `Name-Lastname-PhotoFilm.mp4`             |
-| PDF        | `Name-Lastname-PhotoFilm.pdf`             |
+| Item                    | Required Filename                 |
+|-------------------------|-----------------------------------|
+| Brainstorming PDF       | `Name-Lastname-Brainstorming.pdf` |
+| Photo Contact Sheet PDF | `Name-Lastname-Photos.pdf`        |
+| Final Photo Film MP4    | `Name-Lastname-PhotoFilm.mp4`     |
+| Project Description PDF | `Name-Lastname-PhotoFilm.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
