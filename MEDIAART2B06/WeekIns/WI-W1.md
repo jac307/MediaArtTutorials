@@ -30,6 +30,17 @@ You will work **in pairs during class time** for support and feedback, but **eac
 
 📌 *Meaning should emerge through sequencing, pacing, and visual relationships between images.*
 
+## Examples
+
+Año Uña (2010), by Jonás Cuarón
+→ A photo-based film where rhythm and narrative emerge through uneven timing of still images, everyday observation, and post-hoc narrative construction.  
+▶️ [Movie Trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}  
+▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
+  
+La Jetée (1962), by Chris Marker  
+→ A canonical still-image film that constructs a powerful narrative entirely through sequencing, pacing, and voice-over, with almost no motion.  
+▶️ [Full Movie](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}  
+
 ---
 
 ## Visual & Technical Constraints
