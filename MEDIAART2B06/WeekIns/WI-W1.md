@@ -32,13 +32,13 @@ You will work **in pairs during class time** for support and feedback, but **eac
 
 ## Examples
 
-Año Uña (2010), by Jonás Cuarón
+**Año Uña** (2010), by Jonás Cuarón  
 → A photo-based film where rhythm and narrative emerge through uneven timing of still images, everyday observation, and post-hoc narrative construction.  
 ▶️ [Movie Trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}  
 ▶️ [Año Uña Clip - Diego's Toenail](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}    
 ▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
   
-La Jetée (1962), by Chris Marker  
+**La Jetée** (1962), by Chris Marker   
 → A canonical still-image film that constructs a powerful narrative entirely through sequencing, pacing, and voice-over, with almost no motion.  
 ▶️ [Full Movie](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}  
 
@@ -96,7 +96,7 @@ Instructor overview of the assignment and expectations.
 
 ### 1. Brainstorming & Sketching
 
-Use this PDF worksheet to:
+Use this PDF worksheet (link below) to:
 - Develop a simple observational idea that can be completed on campus
 - Create **3–5 visual frame-moods** (rough sketches or notes)
 - Sketches are a **starting point**, not a fixed script
@@ -126,14 +126,13 @@ You must begin post-production during class time.
 
 ---
 
-## Post-Production Workflow
+<h1 style="color: darkred;">Post-Production Workflow</h1>
 
-### Step 1 — Edit Photographs (Photoshop recommended)
+### Step 1 — Edit Photographs
+You **must** use Adobe Photoshop:  
 - Convert selected images to black and white
 - Adjust exposure and contrast for consistency
 - Save edited images for sequencing
-
-*(Lightroom may be used if preferred, but edits must remain minimal and consistent.)*
 
 ### Step 2 — Assemble in Adobe Premiere Pro
 - Import still images
@@ -150,27 +149,31 @@ You must begin post-production during class time.
 
 ---
 
-## Deliverables
+<h3 style="color: darkred;">📤 Submission</h3>
 
-### 1. Final Photo Film
+### 1. Brainstorming & Sketching Worksheet
+- Format: **PDF**
+- Filename: `Name-Lastname-Brainstorming.pdf`
+
+### 2. Photo Selection PDF
+A single PDF containing:
+- Original photographs used in the sequence (straight from camera -no editing)
+- Layout: **2 columns × 4 images per horizontal page**
+- Filename: `Name-Lastname-Photos.pdf`
+
+### 3. Final Photo Film
 - Format: **MP4**
 - Codec: **H.264**
 - Resolution: **1920 × 1080**
 - Filename: `Name-Lastname-PhotoFilm.mp4`
 
-### 2. Photo Selection PDF
-A single PDF containing:
-- Original photographs used in the sequence (straight from camera)
-- Layout: **2 columns × 4 images per horizontal page**
-- Filename: `Name-Lastname-Photos.pdf`
-
 ### 3. Project PDF
 A one-page PDF including:
+- **One representative still image**
 - Title
 - Year
 - Author
 - **One-paragraph artistic description**
-- **One representative still image**
 
 ---
 
@@ -182,8 +185,9 @@ A one-page PDF including:
   - Proficiency in framing and composition
   - Consistent exposure and tonal control
   - Thoughtful sequencing and pacing
+  - Originality and Artistry  
 
-📌 *Consistency and application of theory are more important than ambition.*
+📌 *Consistency and application of theory are more important than ambition at this stage.*
 
 ---
 
@@ -193,3 +197,4 @@ A one-page PDF including:
 - Partial submissions will result in a lower grade.
 - You are responsible for saving and backing up your files.
 
+---
