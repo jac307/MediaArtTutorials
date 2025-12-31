@@ -158,8 +158,7 @@ Follow the tutorials to:
 Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
 
 - **Resolution:** 1920 × 1080
-- Import still images
-- Sequence images to create **rhythm and pacing**
+- Import still images and sequence images to create **rhythm and pacing**
 - **Total duration:** 30 seconds
 - Add:
   - Music or silence (see sound restrictions below)
@@ -167,9 +166,7 @@ Using your selected **10–18 photographs**, follow the tutorials to assemble yo
 - **Allowed transitions:**
   - Jump cuts
   - Fade in / fade out
-  - **Cross overs** (simple temporal overlap between still images)
-
-📌 *Cross overs should be subtle and used sparingly to support pacing, not as visual effects.*
+  - **Cross overs** (simple/subtle temporal overlap between still images)
 
 🚫 **Do not** use colour correction, filters, visual effects, motion animation, or stylized transitions.
 
@@ -182,7 +179,6 @@ Using your selected **10–18 photographs**, follow the tutorials to assemble yo
 - **Music is required**, or **silence may be used if conceptually justified**
 - Instrumental or ambient sound only (no lyrics)
 - No sound effects
-- Maximum **2 audio tracks**
 - Sound should support **pacing and rhythm**, not dominate the sequence
 - **Only royalty-free audio. Options:**
   - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
@@ -190,8 +186,6 @@ Using your selected **10–18 photographs**, follow the tutorials to assemble yo
   - <a href="https://pixabay.com/music/" target="_blank" rel="noopener noreferrer">Pixabay Music</a> — Royalty-free instrumental tracks
   - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
   - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
-
-📌 *This assignment introduces sound–image relationships in a minimal and intentional way.*
 
 ---
 
@@ -203,7 +197,7 @@ Create a **one-page document** including:
 - Title
 - Year
 - Author
-- **One-paragraph artistic description**
+- **3/4-line artistic description**
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`
