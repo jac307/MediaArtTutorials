@@ -64,8 +64,6 @@ Use the PDF worksheet below to:
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
 </a>
 
----
-
 ### Submission
 
 - ➡️ **Export as PDF**
@@ -79,8 +77,6 @@ During this phase, you will photograph your sequence on campus, applying the tec
 
 Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photography for Photo Film Activiy  
 
----
-
 ### Shooting Requirements
 
 - All photographs must be taken **during class time**
@@ -88,10 +84,9 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photograph
 - Use at least:
   - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
   - **1–2 compositional frameworks**
+  - Work with **depth of field**
 - **Manual focus** and **tripod-based** shooting are required
 - Photographs are captured **in colour** and converted to **black and white** in post-production
-
----
 
 ### Working in Pairs
 
@@ -102,13 +97,10 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md) - Intro to DSLR Photograph
 
 📌 *Be mindful of shared spaces and respect others while photographing on campus.*
 
----
-
 <img src="imgs/01.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/02.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
 
----
 
 ### Create Your Photo Grid (For Submission)
 
@@ -173,8 +165,6 @@ Using your selected **10–18 photographs**, follow the tutorials to assemble yo
 ➡️ **Export as MP4**  
 > Codec: **H.264**  
 📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`
-
----
 
 ### Sound
 
