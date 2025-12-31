@@ -82,7 +82,7 @@ Use the PDF worksheet below to:
 
 During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
 
-Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activiy  
+Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity  
 
 ### Photographing Requirements
 
