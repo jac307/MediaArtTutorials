@@ -19,7 +19,8 @@ Series of hands-on production exercises designed to **build core skills** in cam
 #### Index  
 
 + [Week 1](WeekIns/WI-W1.md) — Photo Film (Individual)
-  + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography for Photo Film Activity  
+  + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography
+  + [W1 - Tutorials](Tutorials/) - Photoshop (exposure, contrast) & Premiere Pro (importing, sequencing, basic export)  
     
 <!--
 + [Week 2](M1/WT-W2.md) — Chiaroscuro Interview (Pairs)
