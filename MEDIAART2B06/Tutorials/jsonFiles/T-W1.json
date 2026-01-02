@@ -1,66 +1,75 @@
 [
-    {
-      "title": "Video Editing in DaVinci Resolve",
-      "description": "<strong>DaVinci Resolve</strong> is a professional-grade video editing software used in film, television, and online media production. It combines editing, color correction, audio post-production, visual effects, and motion graphics in one powerful platform. The <strong>free version</strong> of DaVinci Resolve offers an impressive range of tools that are more than enough for most creative projects. From cutting and trimming to adding transitions, effects, and color grading, the free version supports high-quality workflows without limitations for beginners and intermediate users. <br> <br> 👉 <a target = _blank href='https://www.blackmagicdesign.com/ca/products/davinciresolve'>Download DaVinci Resolve</a>"
-    },
-    {
-      "title": "🎥 Intro to Linear Video Editing",
-      "description": "",
-      "children": [
-        {
-          "title": "Basics: open new, import, timeline, export, and save",
-          "description": "In this tutorial, you’ll learn the basics of DaVinci Resolve, a professional video editing software. We’ll cover how to create a new project, import your video recordings, edit using the timeline, and export your finished video.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2581771/DaVinci-Resolve-1--Basics--open-new--import--timeline--export--and-save-?src=iframe&oembed=1"
-        },
-        {
-          "title": "Basics: cut and split clips",
-          "description": "In this tutorial, you’ll learn how to cut and split video clips in DaVinci Resolve to trim unwanted parts, rearrange scenes, or create sharper edits in your timeline.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2581785/DaVinci-Resolve-2--Basics--cut-and-split-clips-?src=iframe&oembed=1"
-        },
-        {
-          "title": "Basics: apply transitions",
-          "description": "In this tutorial, you’ll learn how to add transitions between video clips in DaVinci Resolve to create smoother and more polished edits.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2581773/DaVinci-Resolve-3--Basics--apply-transitions?src=iframe&oembed=1"
-        },
-        {
-          "title": "Basics: apply effects",
-          "description": "In this tutorial, you’ll learn how to add effects between video clips in DaVinci Resolve to enhance your video with visual styles.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2581776/DaVinci-Resolve-4--Basics--apply-effects?src=iframe&oembed=1"
-        }
-      ]
-    },
-    {
-      "title": "🎞️ Intro to Video Collage",
-      "description": "",
-      "children": [
-        {
-          "title": "Working with multiple layers + transform clips",
-          "description": "In this tutorial, you’ll learn how to work with multiple video layers and how to transform them—including resizing, cropping, moving, rotating, as well as adjusting pitch and yaw.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2582811/DaVinci-Resolve-5--Working-with-multiple-layers---transform-clips?src=iframe&oembed=1"
-        },
-        {
-          "title": "Transforming Clips: Adding Transitions, Effects, and working with Composite Mode",
-          "description": "In this tutorial, you’ll start applying effects and transitions, and you’ll also learn about composite modes to blend video layers creatively.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2582818/DaVinci-Resolve-6--Transforming-Clips--Adding-Transitions--Effects--and-working-with-Composite-Mode?src=iframe&oembed=1"
-        },
-        {
-          "title": "Titles: Adding text",
-          "description": "In this tutorial, you’ll learn how to add Titles, or text overlays, to your video to display names, messages, or creative captions.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2582828/DaVinci-Resolve-7--Titles--Adding-text-?src=iframe&oembed=1"
-        }
-      ]
-    },
-    {
-      "title": "🌀 Intro to Keyframe Animation",
-      "description": "",
-      "children": [
-        {
-          "title": "Intro to Keyframe Animation",
-          "description": "In this tutorial, you’ll learn the basics of keyframe animation in DaVinci Resolve. Keyframes let you add movement to video elements like position, scale, and opacity, helping you create more dynamic and engaging compositions.",
-          "tutorialEmbedCode": "https://www.iorad.com/player/2600761/DaVinci-Resolve-8--Intro-to-Keyframe-Animation?src=iframe&oembed=1"
-        }
+  {
+  "title": "Week 1 Tutorials — Photoshop & Premiere Pro Fundamentals",
+  "description": "This tutorial set introduces essential post-production workflows for Week 1. <strong>Photoshop</strong> is used for basic black-and-white conversion and exposure adjustments on still images, while <strong>Premiere Pro</strong> is used to import, sequence, and export a photo-based video project with attention to rhythm, timing, and minimal sound design. <br><br><strong>Adobe Photoshop</strong> is a professional image-editing software used to modify, correct, and manipulate still images. In industry contexts, it is widely used for photographic post-production, colour correction, compositing, and preparing images for print, web, and video workflows. <br><br><strong>Adobe Premiere Pro</strong> is a professional video editing software used to assemble, sequence, and export time-based media. In industry, it is commonly used for film, television, online video, and experimental media production, supporting workflows that combine image, sound, and timing."
+ },
 
-          
-      ]
-    }
-  ]
+ {
+   "title": "📷 Photoshop — Black & White Conversion and Exposure Basics",
+   "description": "This tutorial introduces essential Photoshop tools for preparing still images for the Photo Film assignment. You will learn how to open RAW images, convert photographs to black and white, and adjust exposure and contrast using basic tools such as Brightness/Contrast and Levels. The focus is on achieving visual consistency across a sequence rather than stylistic effects. The tutorial also covers how to save edited images correctly for sequencing in Premiere Pro."
+   "children": [
+     {
+       "title": "Opening RAW files",
+       "description": "Learn how to open RAW image files in Photoshop to access full image data and maximize control over tonal adjustments.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Black & White conversion",
+       "description": "Convert colour photographs to black and white while preserving tonal detail and contrast.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Brightness / Contrast",
+       "description": "Adjust overall light and dark values to improve image clarity and balance without altering composition.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Levels (basic)",
+       "description": "Use Levels to set black points, white points, and midtones, improving contrast and tonal range in a controlled way.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Saving/exporting images",
+       "description": "Save edited images using consistent settings to prepare files for sequencing in Premiere Pro.",
+       "tutorialEmbedCode": "url"
+     },
+   ]
+ },
+
+ {
+   "title": "🎬 Premiere Pro — Sequencing Still Images & Basic Export",
+   "description": "This tutorial set introduces Adobe Premiere Pro as a tool for assembling still images into a time-based sequence. You will learn how to create a new project, import and organize media, adjust still image duration, sequence photographs on the timeline to shape pacing and rhythm, apply simple transitions (fade in/out and cross overs), add basic titles and credits, and export a 30-second photo film using standard delivery settings."
+   "children": [
+     {
+       "title": "Open a New Project & Import Media",
+       "description": "Learn how to create a new Premiere Pro project and import still images and audio files.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Adjusting Still Image Duration",
+       "description": "Set and modify the length of still images on the timeline to control pacing and rhythm.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Sequencing & Timeline Basics",
+       "description": "Arrange photographs on the timeline to build a linear photo film and shape narrative flow.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Transitions: Fade In / Fade Out & Cross Overs",
+       "description": "Apply simple transitions to smooth visual rhythm without using stylistic effects.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Basic Titles & Credits",
+       "description": "Add simple, readable titles and end credits without animation or effects.",
+       "tutorialEmbedCode": "url"
+     },
+     {
+       "title": "Exporting the Photo Film",
+       "description": "Export the final sequence using standard settings (H.264, 1920 × 1080) for submission.",
+       "tutorialEmbedCode": "url"
+     },
+   ]
+ },
+]
