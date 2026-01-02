@@ -5,7 +5,7 @@
  },
 
  {
-   "title": "📷 <strong>Photoshop</strong> — Black & White Conversion and Exposure Basics",
+   "title": "📷 Photoshop — Black & White Conversion and Exposure Basics",
    "description": "This tutorial introduces essential Photoshop tools for preparing still images for the Photo Film assignment. You will learn how to open RAW images, convert photographs to black and white, and adjust exposure and contrast using basic tools such as Brightness/Contrast and Levels. The focus is on achieving visual consistency across a sequence rather than stylistic effects. The tutorial also covers how to save edited images correctly for sequencing in Premiere Pro.",
    "children": [
      {
@@ -37,7 +37,7 @@
  },
 
  {
-   "title": "🎬 <strong>Premiere Pro</strong> — Sequencing Still Images & Basic Export",
+   "title": "🎬 Premiere Pro — Sequencing Still Images & Basic Export",
    "description": "This tutorial set introduces Adobe Premiere Pro as a tool for assembling still images into a time-based sequence. You will learn how to create a new project, import and organize media, adjust still image duration, sequence photographs on the timeline to shape pacing and rhythm, apply simple transitions (fade in/out and cross overs), add basic titles and credits, and export a 30-second photo film using standard delivery settings.",
    "children": [
      {
