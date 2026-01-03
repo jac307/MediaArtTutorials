@@ -19,6 +19,8 @@ Software (freeware):
 #### Index  
 
 + [Week 1](WT-W1.md) — Floor plan + Blocking map
+
+<!--
 + [Week 2](WT-W2.md) — Script: shot composition + camera positions
 + [Week 3](WT-W3.md) — Camera framings
 + [Week 4](WT-W4.md) — Lighting states
@@ -30,6 +32,8 @@ Software (freeware):
 + [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
 + [Week 11](WT-W11.md) — Projection surface sketch and prototype (walls, objects, screens, fabrics)
 
+-->
+
 Selection of 10 weekly submissions from above to create:  
 + [Final Portfolio — Individual Work](FinalPort.md) 
 
@@ -37,7 +41,11 @@ Selection of 10 weekly submissions from above to create:
 
 ### **Module IV — Projection, Image & Hybrid Media**  
 
+<!--
+
 + [Module IV - Hybrid Design Project Proposal — Group Work](M-IV.md)
+
+-->
 
 Students form groups (5 students) and collaboratively **propose a Hybrid Design Project** (no performers; storytelling through **objects, sound, light, projection, and video**).  
  
