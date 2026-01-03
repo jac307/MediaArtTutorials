@@ -14,24 +14,29 @@
        "tutorialEmbedCode": "https://www.youtube.com/embed/zkdwX7ZO6a4"
      },
      {
-       "title": "Black & White conversion",
-       "description": "Convert colour photographs to black and white while preserving tonal detail and contrast.",
-       "tutorialEmbedCode": "url"
+       "title": "Making an Image Black & White with RAW",
+       "description": "Convert raw colour photographs to black and white while preserving tonal detail and contrast.",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/MZk--0LTick?si=L7AG1uBsj4AgLVGq"
      },
      {
-       "title": "Brightness / Contrast",
-       "description": "Adjust overall light and dark values to improve image clarity and balance without altering composition.",
-       "tutorialEmbedCode": "url"
-     },
-     {
-       "title": "Levels (basic)",
-       "description": "Use Levels to set black points, white points, and midtones, improving contrast and tonal range in a controlled way.",
-       "tutorialEmbedCode": "url"
-     },
-     {
-       "title": "Saving/exporting images",
+       "title": " Save Images (JPEG, PNG, BMP, TIFF, etc)",
        "description": "Save edited images using consistent settings to prepare files for sequencing in Premiere Pro.",
-       "tutorialEmbedCode": "url"
+       "tutorialEmbedCode": "https://www.youtube.com/embed/LahtwPn6cxc?si=iOX-DZQr2DkVFsHi"
+     },
+      {
+       "title": "How to Save & Export (full guide)",
+       "description": "Save edited images using consistent settings to prepare files for sequencing in Premiere Pro.",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/7EjorOn7jAs?si=i6J7TblmVWSXlque"
+     },
+     {
+       "title": "How to Save & Export (full guide)",
+       "description": "Learn everything about Saving and Exporting your files in different formats; learn shortcuts and tricks too!",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/7EjorOn7jAs?si=i6J7TblmVWSXlque"
+     },
+     {
+       "title": "Intro to Camera Raw (Full info)",
+       "description": "Learn everything about Camera Raw: basic and advance overview, essential shortcuts, the best practices, and important tricks",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/YXCHi0Uo2Ew?si=A8vEEZKAHW_3sAWh"
      }
    ]
  },
