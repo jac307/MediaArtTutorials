@@ -66,19 +66,24 @@
        "tutorialEmbedCode": "https://www.youtube.com/embed/u9-oqbui4MI?si=Ojm85_R1Sr90aJkJ"
      },
      {
-       "title": "Transitions: Fade In / Fade Out & Cross Overs",
-       "description": "Apply simple transitions to smooth visual rhythm without using stylistic effects.",
-       "tutorialEmbedCode": "url"
+       "title": "How to Fade to Black",
+       "description": "Apply simple fade in/out (to black) transitions to smooth visual rhythm without using stylistic effects.",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/jYcOnA72kxw?si=pvRxHDNcbqxsgyJl"
      },
      {
-       "title": "Basic Titles & Credits",
+       "title": "How To Fade Between Clips in Premiere Pro | Cross Dissolve Transition",
+       "description": "Apply simple cross disolve transitions to smooth visual rhythm without using stylistic effects.",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/BMoW94993JU?si=LQYqN_l9dN4Ht-rS"
+     },
+     {
+       "title": "How to Add Text Tutorial (basic)",
        "description": "Add simple, readable titles and end credits without animation or effects.",
-       "tutorialEmbedCode": "url"
+       "tutorialEmbedCode": "https://www.youtube.com/embed/Fk2XIJ56AAw?si=z5R8IVAcEP51axV0"
      },
      {
-       "title": "Exporting the Photo Film",
+       "title": "How To EXPORT Video",
        "description": "Export the final sequence using standard settings (H.264, 1920 × 1080) for submission.",
-       "tutorialEmbedCode": "url"
+       "tutorialEmbedCode": "https://www.youtube.com/embed/tejs60S74hI?si=x77PhPiTt7kMfxk6"
      }
    ]
  }
