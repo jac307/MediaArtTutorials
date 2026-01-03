@@ -132,12 +132,14 @@ After shooting (and before the next step), prepare a contact-sheet style PDF of 
 
 <h3 id="photo-editing" style="color: darkred;">3. Post-Production: Edit Photographs in Photoshop [60 min]</h3>
 
+Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Photoshop Fundamentals   
+
 Follow the tutorials to:  
 
 - Convert selected images to **black and white**
-- Adjust **exposure and contrast only**
+- Adjust **exposure and contrast**
 - Maintain **visual consistency** across the sequence
-- Save edited images for sequencing
+- Save edited images as **PNG** or **TIFF** for Premiere Pro sequencing
 
 🚫 Do **not** crop, retouch, apply filters, or add effects at this stage.
 
@@ -153,6 +155,8 @@ Follow the tutorials to:
 ---
 
 <h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
+
+Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals   
 
 Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
 
