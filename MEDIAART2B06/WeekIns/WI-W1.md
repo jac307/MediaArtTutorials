@@ -148,12 +148,37 @@ Follow the tutorials to:
 
 ---
 
-### Group Image Analysis [25 min]
+### Group Image Analysis [4:00 PM – 4:25 PM]
 
-- Select **one photograph** from your shoot
-- Convert it to black and white
-- Adjust exposure/contrast if needed
-- Group discussion will focus on **composition only**
+#### **Before 4:00 PM (Preparation Required)**
+
+- Select **one photograph** from your shoot  
+- Convert it to **black and white**  
+- Make **basic exposure and contrast adjustments** if needed  
+- Upload it to your assigned group link:
+  - [Group 1 Link](https://www.dropbox.com/request/5tzID9d1Yp9a47kq5SSI){:target="_blank"}
+  - [Group 2 Link](https://www.dropbox.com/request/Lx5xCt6vkPROg0hrrJsd){:target="_blank"}
+  - [Group 3 Link](https://www.dropbox.com/request/LtFQ086TcWNboxvisj4y){:target="_blank"}
+
+#### **Group Assignments & Location**
+
+- A printed list with groups and room assignments will be placed **at the Computer Lab entrance**
+- Each group will work with an **assigned TA or the instructor** in a designated classroom
+
+⏰ **You must arrive at your assigned room at least 5 minutes before 4:00 PM**  
+All students should be **ready to begin at 4:00 PM sharp**  
+
+#### **During the Analysis Session**
+
+- The TA/instructor will **randomly select images** from the uploaded submissions
+- Images will be discussed collectively, focusing on:
+  - **Framing**
+  - **Composition**
+  - **Shot size**
+  - **Visual balance and structure**
+- Students are expected to **actively contribute** to the discussion
+
+❗ **Attendance and engagement during this activity are part of the rubric.**
 
 ---
 
