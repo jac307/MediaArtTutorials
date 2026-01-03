@@ -46,9 +46,10 @@ Series of hands-on production exercises designed to **build core skills** in cam
 ### **Module 2 - Short Film Project (individual)**  
 
 This module **guides students through the complete production of a one-minute short film**, from concept and script development to shooting, editing, and final polishing. 
-
-#### Index  
+ 
 <!--
+#### Index 
+
 + [Week 7](WT-W7.md) — Pre-Production Package
 + [Week 8](WT-W8.md) — Production Week
 + [Week 9](WT-W9.md) — Rough Cut
