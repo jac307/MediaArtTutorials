@@ -16,7 +16,10 @@ This assignment introduces:
 - basic sound–image relationships  
 - a complete workflow from idea → execution → post-production  
 
-You will work **in pairs during class time** for support and feedback, but **each student must produce and submit an individual work**.
+You will work **in pairs during class time** for support and feedback, but **each student must produce and submit an individual work**.  
+
+> ❗ **Attendance and engagement are part of the rubric.**  
+You are expected to work actively during class time and participate in all in-class activities.
 
 ---
 
@@ -218,6 +221,8 @@ Create a **one-page document** including:
 | Project Description PDF | `Name-Lastname-PhotoFilm.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+> ❗ **Attendance and engagement are part of the rubric.**  
+You are expected to work actively during class time and participate in all in-class activities.
 
 ---
 
