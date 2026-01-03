@@ -221,8 +221,6 @@ Create a **one-page document** including:
 | Project Description PDF | `Name-Lastname-PhotoFilm.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
 
 ---
 
@@ -236,6 +234,9 @@ You are expected to work actively during class time and participate in all in-cl
   - Thoughtful sequencing and pacing
   - Originality and Artistry  
 
-📌 *Consistency and application of theory are more important than ambition at this stage.*
+📌 *Consistency and application of theory are more important than ambition at this stage.*  
+
+> ❗ **Attendance and engagement are part of the rubric.**  
+You are expected to work actively during class time and participate in all in-class activities.
 
 ---
