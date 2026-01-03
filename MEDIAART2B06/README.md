@@ -8,6 +8,17 @@ Emphasis is placed on **developing visual storytelling skills**, **understanding
 
 ---
 
+## Media Spaces + Equipment
+
++ **Computer lab**. An access key is required to access the computer lab.  
+  > Login into these computer’s by using your McMaster email information.
+  > Computer here have the Adobe Suite. Access by using a personal Adobe account.
+
++ **Video and Audio equipment**. You can book equipment here: [https://hmcservicecentre.humanities.mcmaster.ca/](https://hmcservicecentre.humanities.mcmaster.ca/){:target="_blank"}
+  > **Important**: to access this link, you will need to log in using your McMaster user information using the University’s internet (if not, you will require the McMaster VPN).
+
+---
+
 ## Assessments
 
 + General information about [available DSLR Cameras](Cameras.md)
