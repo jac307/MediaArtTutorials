@@ -46,19 +46,24 @@
    "description": "This tutorial set introduces Adobe Premiere Pro as a tool for assembling still images into a time-based sequence. You will learn how to create a new project, import and organize media, adjust still image duration, sequence photographs on the timeline to shape pacing and rhythm, apply simple transitions (fade in/out and cross overs), add basic titles and credits, and export a 30-second photo film using standard delivery settings.",
    "children": [
      {
-       "title": "How To Start a NEW PROJECT (and import media)",
+       "title": "How To Start a NEW PROJECT",
        "description": "Learn how to create a new Premiere Pro project and import still images and audio files.",
        "tutorialEmbedCode": "https://www.youtube.com/embed/ZbziGVYkEJM?si=mPDLi-fJy-CGJHO7"
      },
      {
-       "title": "Adjusting Still Image Duration",
-       "description": "Set and modify the length of still images on the timeline to control pacing and rhythm.",
-       "tutorialEmbedCode": "url"
+       "title": "How To Create New Sequences (or Timelines)",
+       "description": "Learn how to create a new Premiere Pro sequence or modify an existing sequence",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/ccaKkQftkCA?si=m8D3Sr2e9Tgkb92L"
      },
      {
-       "title": "Sequencing & Timeline Basics",
+       "title": "EVERY Tool in the TOOLBAR Explained",
+       "description": "Learn how to use every tool from the toolbar in this beginner video editing tutorial in Adobe Premiere Pro.",
+       "tutorialEmbedCode": "https://www.youtube.com/embed/wPXqpEVL2V0?si=zaoJNJXb3Q_aABMl"
+     },
+     {
+       "title": "How to Add Still Photos",
        "description": "Arrange photographs on the timeline to build a linear photo film and shape narrative flow.",
-       "tutorialEmbedCode": "url"
+       "tutorialEmbedCode": "https://www.youtube.com/embed/u9-oqbui4MI?si=Ojm85_R1Sr90aJkJ"
      },
      {
        "title": "Transitions: Fade In / Fade Out & Cross Overs",
