@@ -54,28 +54,26 @@ This text should **guide your design decisions** in the 2D floor plan and 3D sce
 
 ---
 
-<h3 style="color: darkred;">[15–20 min] 2D Floor Plan (Design First)</h3>
+<h3 style="color: darkred;">[20 min] 2D Floor Plan (Design First)</h3>
 
 Using your artistic intention as a guide, create a **2D floor plan** for your scene.
 
 ### Requirements
 - Hand-drawn (preferred) or digital
-- Clearly labeled using **spatial vocabulary**, where applicable:
-  - Upstage (US) / Downstage (DS)
-  - Stage Left (SL) / Stage Right (SR)
-  - Stage Centre
-  - Audience (if applicable)
+- Your floor plan must **visibly apply at least two (2)** of the following spatial concepts, clearly labeling using **spatial vocabulary**:  
+
+<figure style="width: 80%; margin: auto;">
+  <img src="imgs/02.png" style="width: 100%; height: auto;">
+</figure>
 
 Your floor plan should show:
-- Placement of objects / performers
+- Placement of **only geometric objects**
 - Audience position *if there is a stage–audience separation*
-- Relationships of distance, orientation, and levels
+- Relationships of distance, orientation, and verticality
 
 > ⚠️ This step must be completed **before** building in Blender.
 
-➡️ **Export or photograph as PDF or image**
-
-📄 **Filename:** `Lastname-Firstname-2Dfloorplan`
+➡️ **Save this image** for submission (JPEG format).
 
 ---
 
