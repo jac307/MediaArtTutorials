@@ -102,9 +102,13 @@ Once all your image files are ready and correctly named:
   
 ### Tutorials
 
-<iframe width="80%" src="https://www.youtube.com/embed/pfOeWdpaWvE?si=0l7FTOElSXN0Z8U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pfOeWdpaWvE?si=0l7FTOElSXN0Z8U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>  
 
-<iframe width="80%" src="https://www.youtube.com/embed/kJUaKbc3Zyw?si=DgbYiJMtaZA-tUk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJUaKbc3Zyw?si=DgbYiJMtaZA-tUk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>  
 
 ---
 
