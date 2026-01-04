@@ -21,13 +21,23 @@ Emphasis is placed on **developing visual storytelling skills**, **understanding
 
 ## Assessments
 
-+ General information about [available DSLR Cameras](Cameras.md)
+---
+
+### Student-Led Critical Discussion
+
+[Full Instructions](Presentations.md) - Groups of Three Students
+
+In teams, lead one class discussion on the weekly readings and topics to collaboratively spark critical thinking and dialogue in the classroom.
+
+---
 
 ### **Module I - Production Exercises**  
 
 Series of hands-on production exercises designed to **build core skills** in camera work, lighting, sound, and editing. 
 
 #### Index  
+
++ General information about [available DSLR Cameras](Cameras.md)
 
 + [Week 1](WeekIns/WI-W1.md) — Photo Film (Individual)
   + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography
