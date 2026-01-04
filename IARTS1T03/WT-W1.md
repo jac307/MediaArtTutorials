@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">W1 — Floor Plan + Blocking Map</h1>
 
-<figure style="width: 100%; margin: auto;">
+<figure style="width: 80%; margin: auto;">
   <img src="imgs/01.png" style="width: 100%; height: auto;">
 </figure>
 
