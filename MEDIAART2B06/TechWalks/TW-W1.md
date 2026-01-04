@@ -31,7 +31,7 @@ This walkthrough prioritizes:
 
 <h3 style="color: darkred;">Camera Anatomy — Getting Familiar (Camera Off)</h3>  
 
-📌 *For this step, the goal is spatial familiarity — knowing where things are before learning how to use them.*
+📌 *For this first step, the goal is spatial familiarity — knowing where things are before learning how to use them.*
 
 ---
 
@@ -104,6 +104,8 @@ Used to securely attach the camera to a tripod for stable framing and consistent
 ---
 
 <h3 style="color: darkred;"> General Camera Settings (Camera On) </h3>  
+
+📌 *For this second step, the goal is that you start using and modifying specific camera settings*  
 
 <img src="imgs/11.jpg" style="width: 60%; height: auto;">
 
