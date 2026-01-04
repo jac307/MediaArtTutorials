@@ -69,7 +69,7 @@ ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
 
-AI Disclosure:
-ChatGPT is be used for editing and clarity only. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+**AI Disclosure**:  
+ChatGPT is be used for **editing and clarity only**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
 
 
