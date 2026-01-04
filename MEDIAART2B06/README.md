@@ -64,9 +64,12 @@ This module **guides students through the complete production of a one-minute sh
 + [Week 11](WT-W11.md) — Motion Graphics & Compositing (individual)
 -->
 This one-week module introduces **core techniques in Adobe After Effects**, allowing students to explore motion graphics, compositing, and animation.  
- 
+
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
+
+AI Disclosure:
+ChatGPT is be used for editing and clarity only. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
 
 
