@@ -13,7 +13,7 @@ Check [Available DSLR Cameras](../Cameras.md){:target="_blank"}
 
 By the end of this session, students should be able to:
 
-- Confidently operate the **Canon EOS Rebel T4i / T5i / T7i** using a **limited set of camera settings**  
+- Operate the **Canon EOS Rebel T4i / T5i / T7i** using a **limited set of camera settings**  
 - Understand how **framing, composition, focus, and depth of field** are shaped through aperture, ISO, and camera positioning  
 - Use a **tripod-based workflow**  
 - Read and evaluate images on the camera, and **properly transfer and save files** to a computer  
