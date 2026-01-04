@@ -165,18 +165,18 @@ Follow this link to set up your Kanopy account:
 
 
 ### Week 9
-- **Keywords**: F 
+- **Keywords**: Pacing and rhythm, editing as storytelling, repetition and variation, non-linear time, affective structure, montage as meaning, temporal tension 
 - **Reading**:  
-  H 
+  Eisenstein, S. (1949). The structure of the film. In Film form: Essays in film theory (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. (Original work published 1929) 
 - **Artist/Artwork**:  
-  F
+  Meshes of the Afternoon — directed by Maya Deren (Ukrainian); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ)</a>
 
 ### Week 10
-- **Keywords**: F 
+- **Keywords**: Critical film analysis, rough cut evaluation, narrative clarity, pacing and rhythm, visual coherence, sound–image alignment, viewer perspective, reflective practice 
 - **Reading**:  
-  H 
+  Sobchack, V. (2004). What my fingers knew: The cinesthetic subject, or vision in the flesh. In Carnal thoughts: Embodiment and moving image culture (pp. 53–84). University of California Press. 
 - **Artist/Artwork**:  
-  F
+  Beau Travail (1999) — directed by Claire Denis (French); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY)</a>
 
 ### Week 11
 - **Keywords**: F 
