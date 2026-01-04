@@ -60,16 +60,18 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
 
 ### Requirements
 - Hand-drawn (preferred) or digital
-- Your floor plan must **visibly apply at least two (2)** of the following spatial concepts, clearly labeling using **spatial vocabulary**:  
+- Placement of **only geometric objects**
+- **Minimum 5 shapes, maximum 7 shapes total**
+- Audience position *if there is a stage–audience separation*
+- Your scene should show intentional use of **at least two** of the following:  
+  - **Blocking** — where forms are placed
+  - **Proxemics** — distance between forms
+  - **Levels** — vertical relationships (encouraged)
+  - **Orientation** — how forms face or withhold access
 
-<figure style="width: 80%; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/02.png" style="width: 100%; height: auto;">
 </figure>
-
-Your floor plan should show:
-- Placement of **only geometric objects**
-- Audience position *if there is a stage–audience separation*
-- Relationships of distance, orientation, and verticality
 
 > ⚠️ This step must be completed **before** building in Blender.
 
@@ -77,25 +79,40 @@ Your floor plan should show:
 
 ---
 
-<h3 style="color: darkred;">[10 min] Install & Open Blender</h3>
-
-If you have not already done so:
+<h3 style="color: darkred;">[10 min] Install Blender</h3>
 
 1. Download Blender:  
    <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
 2. Install the software on your computer.
-3. Open Blender and create a **new, empty scene**.
-4. Do not adjust settings, render engines, or preferences.
+3. Watch this video:  
 
-> Blender may feel unfamiliar at first — this activity focuses only on **basic navigation and object placement**.  
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZ2I-8h0wPQ?si=OPeO_VY_uDnMcw6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+> Blender may feel unfamiliar at first — this activity focuses only on **basic navigation and object placement**.
 
 ---
 
 <h3 style="color: darkred;">[30–40 min] 3D Scene in Blender (Geometric Only)</h3>
 
-Build your scene in Blender based on your **2D floor plan**.
+### Learn the basics
 
-### Technical Constraints (Strict)
+Before starting your 3D scene, follow these activities to learn the most basic navigation aspects of Blender:
+
+<a href="https://jac307.github.io/MediaArtTutorials/Blender/1_QuickStart_Blender_Guide.html" target="_blank" rel="noopener noreferrer">
+  👉 Blender – Quick Start Guide
+</a>
+
+<div style="color: gray; font-style: italic; margin-top: 0.5em;">
+Focus on navigation, moving objects, and viewing the scene. You do not need to learn materials, lighting, or rendering at this stage.
+</div>
+
+---
+
+### Build your scene in Blender based on your **2D floor plan**.
+
+#### Technical Constraints (Strict)
 - Use **only basic geometric shapes** (cube, sphere, cylinder, cone, plane, etc.).
 - **Minimum 5 shapes, maximum 7 shapes total**  
   *(The floor / ground plane does **not** count toward this limit.)*
@@ -105,19 +122,17 @@ Build your scene in Blender based on your **2D floor plan**.
 - ❌ No animation  
 - Ignore the camera (do not move or adjust it).
 
-### Spatial Focus
-Your scene should show intentional use of:
-- **Blocking** — where forms are placed
-- **Proxemics** — distance between forms
-- **Levels** — vertical relationships (encouraged)
-- **Orientation** — how forms face or withhold access
-
-### Audience Representation
+#### Audience Representation
 - Only required **if** your scene has a clear stage–audience separation.
 - If included:
   - Represent the audience as **one collective geometric form**
   - A rectangular prism is recommended
 - If no audience is present, this should be **conceptually justified** through your design.  
+
+#### More tutorials 
+
+<div style= "width:80%; height:auto">
+</div>
 
 ---
 
