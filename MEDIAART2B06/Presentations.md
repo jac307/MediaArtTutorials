@@ -142,14 +142,18 @@ Follow this link to set up your Kanopy account:
 - **Artist/Artwork**: Koyaanisqatsi (Dir. Godfrey Reggio, music by Philip Glass, 1982); available <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy]([https://www.kanopy.com/en/mcmaster/video/11032756](https://www.youtube.com/watch?v=eWp8D5s6Sc0))</a>
 
 ### Week 7
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
+- **Keywords**: Conceptual storytelling, film as embodied practice, personal and situated narratives, memory and place, sound as structure, non-linear time, relational authorship, intention before narrative  
+- **Readings**:
+  - Hopinka, S. (2019). Film is the body. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), Temporal territories: An anthology of Indigenous experimental cinema (pp. 89–94). Archive Books.
+  - Kite, S. (2019). Winyan Yamni: Three Dreams. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), Temporal territories: An anthology of Indigenous experimental cinema (pp. 169–191). Archive Books.
+- **Artists/Artworks**:
+  - <a href="URL_OF_YOUR_LINK" target="_blank">[Sky Hopinka](https://www.skyhopinka.com/)</a> (Ho-Chunk Nation; American)
+  - <a href="URL_OF_YOUR_LINK" target="_blank">[Susan Kite]([url](https://www.kitekitekitekite.com/portfolio))</a> (Oglála Lakȟóta artist)
 
 ### Week 8
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
+- **Keywords**: Film as social practice, language and power, collective authorship, long take as ethics, cinema and community, situated production, responsibility of representation, filmmaking in context  
+- **Reading**: Hilari, M. (2019). Reflections on language based on the all-encompassing sequence shot: Formal processes in Bolivian cinema. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), Temporal territories: An anthology of Indigenous experimental cinema (pp. 239–268). Archive Books.
+- **Artist/Artwork**: Examples discussed in the reading, including works from Bolivian cinema.
 
 ### Week 9
 - **Keywords**: t  
