@@ -126,34 +126,46 @@ Some of the video works listed below are available on Kanopy. As a McMaster stud
 Follow this link to set up your Kanopy account:  
 <a href="https://library.mcmaster.ca/databases/kanopy" target="_blank">Kanopy (McMaster Library Access)</a>
 
-### Week 3
-- **Keywords**: Walking as practice, Observation vs control, Everyday space, Movement and meaning, presence, Environment as collaborator  
-- **Reading**: de Certeau, M. (1984). Walking in the city. In The practice of everyday life (S. Rendall, Trans., pp. 91–110). University of California Press (Original work published 1980)
-- **Artist/Artwork**: Chantal Akerman — News from Home (1978); full movie available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+### **Week 3**
+- **Keywords**: Walking as practice, observation vs. control, everyday space, movement and meaning, presence, environment as collaborator  
+- **Reading**:  
+  de Certeau, M. (1984). *Walking in the city*. In *The practice of everyday life* (S. Rendall, Trans., pp. 91–110). University of California Press. (Original work published 1980)  
+- **Artist/Artwork**:  
+  **:contentReference[oaicite:0]{index=0}** — Chantal Akerman; full film available on  
+  [Kanopy (McMaster Library Access)](https://library.mcmaster.ca/databases/kanopy)
 
-### Week 4
-- **Keywords**: Continuous shot (long take), duration, cinematic time, camera as witness, framing as narrative, colour continuity, presence, movement vs montage  
-- **Reading**: Bazin, A. (2005). The ontology of the photographic image. In H. Gray (Ed. & Trans.), What is cinema? (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)
-- **Artist/Artwork**: Russian Ark (Dir. Alexander Sokurov, 2002); full movie available <a href="URL_OF_YOUR_LINK" target="_blank">[here]([https://www.kanopy.com/en/mcmaster/video/11032756](https://www.dailymotion.com/video/x9p2zoy))</a>
+### **Week 4**
+- **Keywords**: Continuous shot (long take), duration, cinematic time, camera as witness, framing as narrative, colour continuity, movement vs. montage  
+- **Reading**:  
+  Bazin, A. (2005). *The ontology of the photographic image*. In H. Gray (Ed. & Trans.), *What is cinema?* (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)  
+- **Artist/Artwork**:  
+  **:contentReference[oaicite:1]{index=1}** (Dir. Alexander Sokurov); full film available on  
+  [Kanopy (McMaster Library Access)](https://library.mcmaster.ca/databases/kanopy)
 
-### Week 5
-- **Keywords**: Audiovisual scene, sound–image relationship, rhythm and pacing, diegetic vs non-diegetic sound, synchronization, sensory perception, sound as narrative guide  
-- **Reading**: Chion, M. (1994). The audiovisual scene. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)
-- **Artist/Artwork**: Koyaanisqatsi (Dir. Godfrey Reggio, music by Philip Glass, 1982); available <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy]([https://www.kanopy.com/en/mcmaster/video/11032756](https://www.youtube.com/watch?v=eWp8D5s6Sc0))</a>
+### **Week 5**
+- **Keywords**: Audiovisual scene, sound–image relationship, rhythm and pacing, diegetic vs. non-diegetic sound, synchronization, sensory perception, sound as narrative guide  
+- **Reading**:  
+  Chion, M. (1994). *The audiovisual scene*. In *Audio-vision: Sound on screen* (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)  
+- **Artist/Artwork**:  
+  **:contentReference[oaicite:2]{index=2}** (Dir. Godfrey Reggio; music by Philip Glass); available on  
+  [Kanopy (McMaster Library Access)](https://library.mcmaster.ca/databases/kanopy)
 
-### Week 7
+### **Week 7**
 - **Keywords**: Conceptual storytelling, film as embodied practice, personal and situated narratives, memory and place, sound as structure, non-linear time, relational authorship, intention before narrative  
 - **Readings**:
-  - Hopinka, S. (2019). Film is the body. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), Temporal territories: An anthology of Indigenous experimental cinema (pp. 89–94). Archive Books.
-  - Kite, S. (2019). Winyan Yamni: Three Dreams. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), Temporal territories: An anthology of Indigenous experimental cinema (pp. 169–191). Archive Books.
+  - Hopinka, S. (2019). *Film is the body*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 89–94). Archive Books.  
+  - Kite, S. (2019). *Winyan Yamni: Three Dreams*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 169–191). Archive Books.  
 - **Artists/Artworks**:
-  - <a href="URL_OF_YOUR_LINK" target="_blank">[Sky Hopinka](https://www.skyhopinka.com/)</a> (Ho-Chunk Nation; American)
-  - <a href="URL_OF_YOUR_LINK" target="_blank">[Susan Kite]([url](https://www.kitekitekitekite.com/portfolio))</a> (Oglála Lakȟóta artist)
+  - [Sky Hopinka](https://www.skyhopinka.com/) (Ho-Chunk Nation; American)  
+  - [Susan Kite](https://www.kitekitekitekite.com/portfolio) (Oglála Lakȟóta artist)
 
-### Week 8
+### **Week 8**
 - **Keywords**: Film as social practice, language and power, collective authorship, long take as ethics, cinema and community, situated production, responsibility of representation, filmmaking in context  
-- **Reading**: Hilari, M. (2019). Reflections on language based on the all-encompassing sequence shot: Formal processes in Bolivian cinema. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), Temporal territories: An anthology of Indigenous experimental cinema (pp. 239–268). Archive Books.
-- **Artist/Artwork**: Examples discussed in the reading, including works from Bolivian cinema.
+- **Reading**:  
+  Hilari, M. (2019). *Reflections on language based on the all-encompassing sequence shot: Formal processes in Bolivian cinema*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 239–268). Archive Books.  
+- **Artist/Artwork**:  
+  Film examples discussed in the reading, including works from Bolivian cinema that use the sequence shot as a social and linguistic strategy.
+
 
 ### Week 9
 - **Keywords**: t  
