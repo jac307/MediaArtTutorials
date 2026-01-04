@@ -138,14 +138,14 @@ Follow this link to set up your Kanopy account:
 - **Reading**:  
   Bazin, A. (2005). *The ontology of the photographic image*. In H. Gray (Ed. & Trans.), *What is cinema?* (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)  
 - **Artist/Artwork**:  
-  *Russian Ark* (2022) by Dir. Alexander Sokurov (Russia); full film available <a href="URL_OF_YOUR_LINK" target="_blank">[here](https://www.dailymotion.com/video/x9tovpy)</a>
+  *Russian Ark* (2022) by Dir. Alexander Sokurov (Russia); full film available on <a href="URL_OF_YOUR_LINK" target="_blank">[Daily Motion](https://www.dailymotion.com/video/x9tovpy)</a>
 
 ### **Week 5**
 - **Keywords**: Audiovisual scene, sound–image relationship, rhythm and pacing, diegetic vs. non-diegetic sound, synchronization, sensory perception, sound as narrative guide  
 - **Reading**:  
   Chion, M. (1994). *The audiovisual scene*. In *Audio-vision: Sound on screen* (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)  
 - **Artist/Artwork**:  
-  *Koyaanisqatsi* (1982) by Dir. Godfrey Reggio (USA), music by Philip Glass (USA); available on  <a href="URL_OF_YOUR_LINK" target="_blank">[here](https://youtu.be/eWp8D5s6Sc0?si=Igje9YAgQM_QbVMf)</a>
+  *Koyaanisqatsi* (1982) by Dir. Godfrey Reggio (USA), music by Philip Glass (USA); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/eWp8D5s6Sc0?si=Igje9YAgQM_QbVMf)</a>
 
 ### **Week 7**
 - **Keywords**: Conceptual storytelling, film as embodied practice, personal and situated narratives, memory and place, sound as structure, non-linear time, relational authorship, intention before narrative  
@@ -165,18 +165,24 @@ Follow this link to set up your Kanopy account:
 
 
 ### Week 9
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
+- **Keywords**: F 
+- **Reading**:  
+  H 
+- **Artist/Artwork**:  
+  F
 
 ### Week 10
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
+- **Keywords**: F 
+- **Reading**:  
+  H 
+- **Artist/Artwork**:  
+  F
 
 ### Week 11
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
+- **Keywords**: F 
+- **Reading**:  
+  H 
+- **Artist/Artwork**:  
+  F
 
 ---
