@@ -75,7 +75,7 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
   - **Levels** — vertical relationships (encouraged)
   - **Orientation** — how forms face or withhold access
 
-<figure style="width: 100%; margin: auto;">
+<figure style="width: 80%; margin: auto;">
   <img src="imgs/02.png" style="width: 100%; height: auto;">
 </figure>
 
