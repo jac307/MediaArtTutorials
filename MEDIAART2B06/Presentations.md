@@ -84,8 +84,7 @@ https://tinyurl.com/csmt3z03discussionplan
 ## Enrolment Process
 
 1. Choose a **week** and **role** (Context Crew or Conversation Crew)  
-2. Sign up using the enrolment spreadsheet:  
-   [spreadsheet](link)
+2. Sign up using this [enrolment spreadsheet]([link](https://mcmasteru365-my.sharepoint.com/:x:/g/personal/rodrij28_mcmaster_ca/IQAxUMErTFp7SaeJ3i0ykGQLARV6gpqYBKrVjYYLwBxzTzs?e=gGeQZh))
 
 ---
 
@@ -121,9 +120,11 @@ Each team must submit materials **one day before** their presentation:
 
 ---
 
-<h2 style="color: darkred;">List of readings and video work per week</h2>
+<h2 style="color: darkred;">List of Readings and Video Works per Week</h2>
 
-Some of the video work below is available on Kanopy. As a McMaster Student you have free access. Follow this link to setup your Kanopy account: <a href="URL_OF_YOUR_LINK" target="_blank">[Text of your link]([https://www.kanopy.com/en/mcmaster/video/11032756](https://library.mcmaster.ca/databases/kanopy))</a>
+Some of the video works listed below are available on Kanopy. As a McMaster student, you have free access.  
+Follow this link to set up your Kanopy account:  
+<a href="https://library.mcmaster.ca/databases/kanopy" target="_blank">Kanopy (McMaster Library Access)</a>
 
 ### Week 3
 - **Keywords**: Walking as practice, Observation vs control, Everyday space, Movement and meaning, presence, Environment as collaborator  
