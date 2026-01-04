@@ -75,9 +75,7 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
   - **Levels** — vertical relationships (encouraged)
   - **Orientation** — how forms face or withhold access
 
-<figure style="width: 80%; margin: auto;">
-  <img src="imgs/02.png" style="width: 100%; height: auto;">
-</figure>
+<img src="TechWalks/imgs/02.png" style="width: 80%; height: auto;">
 
 > ⚠️ This step must be completed **before** building in Blender.
 
@@ -100,7 +98,7 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
 
 ---
 
-<h3 style="color: darkred;">[30–40 min] 3D Scene in Blender (Geometric Only)</h3>
+<h3 style="color: darkred;">[60 min] 3D Scene in Blender (Geometric Only)</h3>
 
 ### Learn the basics
 
