@@ -4,11 +4,6 @@
 
 <h1 style="color: darkred;">Student-Led Critical Dialogue</h1>  
 
-📄 **Full Guidelines (PDF):**  
-[Download Student-Led Critical Dialogue Guidelines](imgs/Guidelines_for_Student-Led_Critical_Dialogue.pdf)
-
----
-
 ### Overview
 
 Students will work in **teams of 4** to lead a class discussion based on the **weekly readings and topics**.  
@@ -17,7 +12,9 @@ Each class session will feature **two teams** presenting during the first hour:
 - **Context Crew** — presents key ideas, concepts, and examples  
 - **Conversation Crew** — facilitates discussion and interactive activities
 
-Teams must **enrol in advance** for both a **week** and a **role**.
+Teams must **enrol in advance** for both a **week** and a **role**.  
+
+📌 *This activity emphasizes preparation, collaboration, and active participation.*  
 
 ---
 
@@ -32,7 +29,7 @@ By completing this activity, students will:
 
 ---
 
-## Team Roles & Requirements
+<h2 style="color: darkred;">Team Roles & Requirements</h2>  
 
 ### Context Crew
 
@@ -46,7 +43,7 @@ Responsibilities:
 - Discuss at least **2 examples** from the text  
 - Make **1–2 connections** to:
   - other course materials  
-  - current events  
+  - current events or assignements 
   - films, novels, music, social media, or personal perspectives  
 - Clearly articulate **key takeaways** for the class  
 
@@ -64,9 +61,11 @@ Responsibilities:
 Responsibilities:
 
 - Prepare **3–5 discussion questions** that promote critical thinking  
-- Design at least **one structured activity** to engage the class  
+- Design at least **one structured activity** to engage the class
+  > no computer/cellphone/tablet (digital) activities allowed
 - Plan strategies for **time management and participation**  
 - Actively guide discussion back to **core themes of the reading**
+- Follow the [Discussion Plan Template](link)
 
 **Suggested activity formats:**
 - Whole-class discussion  
@@ -80,11 +79,13 @@ https://tinyurl.com/csmt3z03discussionplan
 
 ---
 
+<h2 style="color: darkred;">Enrolment and Submission</h2>
+
 ## Enrolment Process
 
 1. Choose a **week** and **role** (Context Crew or Conversation Crew)  
 2. Sign up using the enrolment spreadsheet:  
-   https://tinyurl.com/cmst3z032025dialogueenroll
+   [spreadsheet](link)
 
 ---
 
@@ -102,22 +103,20 @@ Each team must submit materials **one day before** their presentation:
 
 ## Assessment Criteria
 
-### Context Crew (20%)
+### Context Crew (10%)
 
-- **Depth of understanding (5%)** — Clear grasp of main arguments  
-- **Connections (5%)** — Meaningful links to broader contexts  
-- **Clarity & accessibility (5%)** — Clear language, logical flow, readable slides  
-- **Audience engagement (5%)** — Delivery, pacing, and engagement strategies  
-
----
-
-### Conversation Crew (20%)
-
-- **Activity design & relevance (5%)** — Activities support learning goals  
-- **Facilitation of critical thinking (5%)** — Questions push beyond surface discussion  
-- **Preparation & planning (5%)** — Clear structure, time management, backup plans  
-- **Discussion leadership (5%)** — Inclusive facilitation and responsive guidance  
+- **Depth of understanding (2.5%)** — Clear grasp of main arguments  
+- **Connections (2.5%)** — Meaningful links to broader contexts  
+- **Clarity & accessibility (2.5%)** — Clear language, logical flow, readable slides  
+- **Audience engagement (2.5%)** — Delivery, pacing, and engagement strategies  
 
 ---
 
-📌 *This activity emphasizes preparation, collaboration, and active participation.*
+### Conversation Crew (10%)
+
+- **Activity design & relevance (2.5%)** — Activities support learning goals  
+- **Facilitation of critical thinking (2.5%)** — Questions push beyond surface discussion  
+- **Preparation & planning (2.5%)** — Clear structure, time management, backup plans  
+- **Discussion leadership (2.5%)** — Inclusive facilitation and responsive guidance  
+
+---
