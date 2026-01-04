@@ -126,8 +126,8 @@ Each team must submit materials **one day before** their presentation:
 Some of the video work below is available on Kanopy. As a McMaster Student you have free access. Follow this link to setup your Kanopy account: <a href="URL_OF_YOUR_LINK" target="_blank">[Text of your link]([https://www.kanopy.com/en/mcmaster/video/11032756](https://library.mcmaster.ca/databases/kanopy))</a>
 
 1. Week 3
-Keywords: Walking as practice, Observation vs control, Everyday space, Movement and meaning, presence, Environment as collaborator  
-   - Reading: de Certeau, M. (1984). Walking in the city. In The practice of everyday life (S. Rendall, Trans., pp. 91–110). University of California Press (Original work published 1980)
-   - Artist: Chantal Akerman — News from Home (1978); full movie available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+   - **Keywords**: Walking as practice, Observation vs control, Everyday space, Movement and meaning, presence, Environment as collaborator  
+   - **Reading**: de Certeau, M. (1984). Walking in the city. In The practice of everyday life (S. Rendall, Trans., pp. 91–110). University of California Press (Original work published 1980)
+   - **Artist/Artwork**: Chantal Akerman — News from Home (1978); full movie available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
 
 ---
