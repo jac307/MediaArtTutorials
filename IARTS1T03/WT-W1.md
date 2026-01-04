@@ -31,16 +31,24 @@ You will move from **intention → 2D design → 3D space**, working with strong
 
 ---
 
-<h3 style="color: darkred;">[10 min] Artistic Intention — Start Here</h3>
+<h3 style="color: darkred;">[15 min] Artistic Intention — Start Here</h3>
 
 Before drawing or opening Blender, write **3–4 sentences** describing the **backstory or intention of the space**.
 
-Think about:
-- What the space wants to communicate *on its own*
-- The mood, tension, or relationship the space produces
-- What kind of encounter this space sets up
+Think of this as what the space wants to communicate **on its own**, before any performer, light, sound, or projection appears.
 
-This text should **guide your design decisions** in the floor plan and 3D scene.
+<div style="color: gray; font-style: italic; margin-top: 0.75em;">
+This project is intentionally restricted.  
+You will work using <strong>only geometric shapes</strong>, with no materials, textures, lighting, or effects.  
+Your challenge is to communicate meaning through <strong>placement, distance, orientation, and scale</strong> rather than detail or realism.
+</div>
+
+### Guiding Questions
+- What kind of relationship or tension does this space set up through distance, separation, or containment?
+- How does the space suggest power, vulnerability, or isolation using only simple forms?
+- What does this space communicate before anyone enters or anything happens?
+
+This text should **guide your design decisions** in the 2D floor plan and 3D scene.
 
 ➡️ **Save this text** for submission.
 
