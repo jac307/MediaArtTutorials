@@ -8,7 +8,7 @@
 
 ## Goal
 
-Create a **30-second black-and-white photo film** composed entirely of **still photographs**, organized into a **linear observational micro-narrative**.
+Create a **30-second black-and-white photo film** composed entirely of **still photographs**, organized into a **observational micro-narrative**.
 
 This assignment introduces:
 - photographic sequencing and rhythm  
@@ -32,8 +32,6 @@ You are expected to work actively during class time and participate in all in-cl
 - **Collaboration:** Work in pairs, submit individually
 - **Dialogue:** Not allowed
 - **Video footage:** Not allowed (stills only)
-
-📌 *Meaning should emerge through sequencing, pacing, and visual relationships between images.*
 
 ## Examples
 
@@ -96,9 +94,9 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro 
   - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
   - **1–2 compositional frameworks**
   - Work with **depth of field**
-- **Manual focus** and **tripod-based** shooting are required
-
-> Photographs are captured **in colour** and converted to **black and white** in post-production
+- Use **Aperture Priority** mode
+  > Photographs are captured **in colour** and converted to **black and white** in post-production
+- **Tripod-based** recommended
 
 ### Working in Pairs
 
@@ -106,8 +104,7 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro 
 - You may appear in your partner’s images
 - Bodies and faces are allowed
 - Faces of **strangers should be avoided**
-
-📌 *Be mindful of shared spaces and respect others while photographing on campus.*
+  > *Be mindful of shared spaces and respect others while photographing on campus.*
 
 ---
 
@@ -154,7 +151,7 @@ Follow the tutorials to:
 
 - Select **one photograph** from your shoot  
 - Convert it to **black and white**  
-- Make **basic exposure and contrast adjustments** if needed  
+- Make **basic exposure and contrast adjustments**  
 - Upload it to your assigned group link:
   - [Group 1 Link](https://www.dropbox.com/request/5tzID9d1Yp9a47kq5SSI){:target="_blank"}
   - [Group 2 Link](https://www.dropbox.com/request/Lx5xCt6vkPROg0hrrJsd){:target="_blank"}
@@ -189,7 +186,7 @@ All students should be **ready to begin at 4:00 PM sharp**
 Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
 
 - **Resolution:** 1920 × 1080
-- Import still images and sequence images to create **rhythm and pacing**
+- Import still images and sequence images considering **rhythm and pacing**
 - **Total duration:** 30 seconds
 - Add:
   - Music or silence (see sound restrictions below)
@@ -258,8 +255,6 @@ Create a **one-page document** including:
   - Consistent exposure and tonal control
   - Thoughtful sequencing and pacing
   - Originality and Artistry  
-
-📌 *Consistency and application of theory are more important than ambition at this stage.*  
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
