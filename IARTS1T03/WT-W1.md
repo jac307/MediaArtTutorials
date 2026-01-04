@@ -22,6 +22,7 @@ You will move from **intention → 2D design → 3D space**, working with strong
 - Computer (laptop or desktop)
 - **Blender (free software)**  
   👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
+- Computer mouse (for easy navigation in Blender)  
 - Paper + pen (preferred) *or* digital drawing tool for floor plan
 
 ---
@@ -121,6 +122,7 @@ Focus on navigation, moving objects, and viewing the scene. You do not need to l
 - ❌ No modifiers  
 - ❌ No animation  
 - Ignore the camera (do not move or adjust it).
+- Work only on **Object Mode**  
 
 #### Audience Representation
 - Only required **if** your scene has a clear stage–audience separation.
@@ -129,10 +131,32 @@ Focus on navigation, moving objects, and viewing the scene. You do not need to l
   - A rectangular prism is recommended
 - If no audience is present, this should be **conceptually justified** through your design.  
 
-#### More tutorials 
+#### Tutorial: Basic Object Manipulation in Blender 
+
+Check the following tutorial and **focus only on the sections listed below**.  
+You can **skip any sections marked as “skip”** — they are not required for this activity.
+
+<ul>
+  <li>00:00 — Introduction</li>
+  <li>00:41 — Uses of Object Mode</li>
+  <li style="color: gray;">01:04 — Getting Clearer Objects (skip)</li>
+  <li>02:21 — Deleting Objects</li>
+  <li>02:48 — Adding New Objects</li>
+  <li>03:10 — Duplicating Objects</li>
+  <li>03:31 — Grab — Moving Objects</li>
+  <li>03:49 — Rotating Objects</li>
+  <li style="color: gray;">04:03 — Getting Exact Measurements (skip)</li>
+  <li>05:12 — Scaling Objects Size</li>
+  <li>05:24 — Using the T-Panel Tools</li>
+  <li style="color: gray;">07:12 — Locking to an Axis or Direction (skip)</li>
+  <li style="color: gray;">09:05 — Important Tips and Tricks (skip)</li>
+</ul>
 
 <div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFafNrD5q4U?si=-wnLjXuSASXLAtSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+> For this week, focus only on adding, moving, rotating, duplicating, and scaling basic geometric forms.  
 
 ---
 
