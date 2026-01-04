@@ -131,38 +131,38 @@ Some of the video work below is available on Kanopy. As a McMaster Student you h
 - **Artist/Artwork**: Chantal Akerman — News from Home (1978); full movie available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
 
 ### Week 4
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Keywords**: Continuous shot (long take), duration, cinematic time, camera as witness, framing as narrative, colour continuity, presence, movement vs montage  
+- **Reading**: Bazin, A. (2005). The ontology of the photographic image. In H. Gray (Ed. & Trans.), What is cinema? (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)
+- **Artist/Artwork**: Russian Ark (Dir. Alexander Sokurov, 2002); full movie available <a href="URL_OF_YOUR_LINK" target="_blank">[here]([https://www.kanopy.com/en/mcmaster/video/11032756](https://www.dailymotion.com/video/x9p2zoy))</a>
 
 ### Week 5
-- **Keywords**: t  
-- **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Keywords**: Audiovisual scene, sound–image relationship, rhythm and pacing, diegetic vs non-diegetic sound, synchronization, sensory perception, sound as narrative guide  
+- **Reading**: Chion, M. (1994). The audiovisual scene. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)
+- **Artist/Artwork**: Koyaanisqatsi (Dir. Godfrey Reggio, music by Philip Glass, 1982); available <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy]([https://www.kanopy.com/en/mcmaster/video/11032756](https://www.youtube.com/watch?v=eWp8D5s6Sc0))</a>
 
 ### Week 7
 - **Keywords**: t  
 - **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
 
 ### Week 8
 - **Keywords**: t  
 - **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
 
 ### Week 9
 - **Keywords**: t  
 - **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
 
 ### Week 10
 - **Keywords**: t  
 - **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
 
 ### Week 11
 - **Keywords**: t  
 - **Reading**: t
-- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](https://www.kanopy.com/en/mcmaster/video/11032756)</a>
+- **Artist/Artwork**: t available in <a href="URL_OF_YOUR_LINK" target="_blank">[Kanopy](url)</a>
 
 ---
