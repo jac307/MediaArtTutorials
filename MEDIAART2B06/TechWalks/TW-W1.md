@@ -13,9 +13,9 @@ Check [Available DSLR Cameras](../Cameras.md){:target="_blank"}
 
 By the end of this session, students should be able to:
 
-- Confidently operate the **Canon EOS Rebel T4i / T5i / T7i** using a **limited, intentional set of camera settings**  
+- Confidently operate the **Canon EOS Rebel T4i / T5i / T7i** using a **limited set of camera settings**  
 - Understand how **framing, composition, focus, and depth of field** are shaped through aperture, ISO, and camera positioning  
-- Use a **tripod-based workflow** to make stable, deliberate photographic decisions  
+- Use a **tripod-based workflow**  
 - Read and evaluate images on the camera, and **properly transfer and save files** to a computer  
 - Recognize how **light and contrast** function as primary visual elements in black-and-white photography  
 
@@ -24,14 +24,14 @@ This walkthrough prioritizes:
 - **Manual focus and depth of field awareness**  
 - **Clear, stable framing and careful image review**  
 
-📌 *The goal is not technical mastery of every camera function, but practical control of the camera as a tool for composition, light, and meaning-making.*
+📌 *The goal is not technical mastery of every camera function, but practical control over the required settings overview below*
 
 
 ---
 
 <h3 style="color: darkred;">Camera Anatomy — Getting Familiar (Camera Off)</h3>  
 
-📌 *At this stage, the goal is spatial familiarity — knowing where things are before learning how to use them.*
+📌 *For this step, the goal is spatial familiarity — knowing where things are before learning how to use them.*
 
 ---
 
@@ -107,7 +107,7 @@ Used to securely attach the camera to a tripod for stable framing and consistent
 
 <img src="imgs/11.jpg" style="width: 60%; height: auto;">
 
-Before adjusting exposure settings, become familiar with the main camera buttons used to navigate menus and playback images.
+First, become familiar with the main camera buttons used to navigate menus and playback images.
 
 - **Menu** — Opens the main camera settings and configuration options.  
 - **Navigation Arrows** — Move through menus and adjust selected settings.  
@@ -157,8 +157,8 @@ Before starting a new shoot, format the SD card **in the camera** to avoid file 
 
 <h3 style="color: darkred;"> More Camera Settings — What to Use for Week 1 (Camera On) </h3>   
 
-For the first activity and **Photo Film** assignment, we will use a **limited set of camera settings**.  
-This is intentional: it allows you to focus on **framing, composition, depth of field, and exposure** rather than navigating complex menus.  
+For the first activity (**Photo Film** assignment), we will use a **limited set of camera settings**.  
+This is intentional: it allows you to focus on **framing, composition, depth of field, and exposure** rather than navigating complex settings and menus.  
 
 📌 *Photos will be captured in colour and converted to black and white later using Adobe Photoshop.*  
 
