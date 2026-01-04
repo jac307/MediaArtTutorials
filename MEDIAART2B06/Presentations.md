@@ -172,7 +172,7 @@ Follow this link to set up your Kanopy account:
   Meshes of the Afternoon — directed by Maya Deren (Ukrainian); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ)</a>
 
 ### Week 10
-- **Keywords**: Critical film analysis, rough cut evaluation, narrative clarity, pacing and rhythm, visual coherence, sound–image alignment, viewer perspective, reflective practice 
+- **Keywords**: Embodied spectatorship, cinesthetic perception, critical film analysis, audience experience, affect and emotion, pacing and rhythm, sound–image coherence, reflective viewing
 - **Reading**:  
   Sobchack, V. (2004). What my fingers knew: The cinesthetic subject, or vision in the flesh. In Carnal thoughts: Embodiment and moving image culture (pp. 53–84). University of California Press. 
 - **Artist/Artwork**:  
