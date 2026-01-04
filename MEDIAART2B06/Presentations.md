@@ -179,10 +179,12 @@ Follow this link to set up your Kanopy account:
   Beau Travail (1999) — directed by Claire Denis (French); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY)</a>
 
 ### Week 11
-- **Keywords**: F 
+- **Keywords**: Sound film, listening as authorship, sound as narrative structure, silence and absence, sonic atmosphere, affect and dread, sound–image hierarchy, ethical use of sound 
 - **Reading**:  
-  H 
+  Chion, M. (1994). Sound film—worthy of the name. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 141–156). Columbia University Press. (Original work published 1990) 
 - **Artist/Artwork**:  
-  F
+  Chernobyl (HBO series, 2019), sound by Hildur Guðnadóttir (Iceland); watch excerps available on YouTube
+  Hildur Guðnadóttir on sound, silence, and emotional storytelling. <a href="URL_OF_YOUR_LINK" target="_blank">[https://www.popdisciple.com/interviews/hildur-gudnadottir](https://www.popdisciple.com/interviews/hildur-gudnadottir)</a>
+ 'Chernobyl' composer created entire haunting score from real power plant sounds <a href="URL_OF_YOUR_LINK" target="_blank">[https://www.youtube.com/watch?v=bTw1-nw5S4A](https://www.youtube.com/watch?v=bTw1-nw5S4A)</a>
 
 ---
