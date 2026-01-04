@@ -160,14 +160,42 @@ You can **skip any sections marked as “skip”** — they are not required for
 
 ---
 
+<h3 style="color: darkred;">Submission Documents</h3>
+
+### Create a single document with the following sections:
+
+1. **General Information**  
+   > Full name, student number, and tutorial number.
+
+2. **Artistic Intention**  
+   > 3–4 sentences describing the backstory or intention of the space.
+
+3. **2D Floor Plan**  
+   > Include your labeled 2D floor plan (JPEG), clearly showing the application of at least two spatial concepts (Blocking, Proxemics, Levels, or Orientation).
+
+4. **2–3 Screenshots of the 3D Scene**  
+   > Choose views that best communicate the spatial relationships of your scene from different perspectives.
+
+➡️ **Export as PDF**  
+📄 **Filename:** `Lastname-Firstname-W1-Tutorial.pdf`
+
+### Save blender file:
+
+➡️ **Save it as .blend**  
+📄 **Filename:** `Lastname-Firstname-3Dscene.blend`
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C66aXQ9WntU?si=xYdVq7BvWDzfYRob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+---
+
 <h3 style="color: darkred;">📤 Submission</h3>
 
 | Component            | File Name                                |
 |---------------------|-------------------------------------------|
-| Artistic Intention  | `Lastname-Firstname-Intention`            |
-| 2D Floor Plan       | `Lastname-Firstname-2Dfloorplan`          |
+| Project documents   | `Lastname-Firstname-W1-Tutorial.pdf`      |
 | Blender File        | `Lastname-Firstname-3Dscene.blend`        |
-| Screenshots (2–3)   | `Lastname-Firstname-3Dscene-view01.png`   |
 
 > Screenshots should clearly show the spatial arrangement from different angles.  
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
