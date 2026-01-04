@@ -35,3 +35,10 @@ A more recent DSLR model with enhanced autofocus and low-light performance, whil
 - ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=4QTmDk_ZSmc){:target="_blank"}
 
 📌 *Regardless of the camera model you are assigned, the core controls and concepts demonstrated in class apply across all three.* 
+
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+AI Disclosure:
+ChatGPT is be used for editing and clarity only. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
