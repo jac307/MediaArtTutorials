@@ -23,7 +23,7 @@ Emphasis is placed on **developing visual storytelling skills**, **understanding
 
 ---
 
-### Student-Led Critical Discussion
+### Student-Led Critical Discussions
 
 [Full Instructions](Presentations.md) - Groups of Three Students
 
