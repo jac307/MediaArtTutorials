@@ -13,7 +13,11 @@
 Introduce **Blender** as a tool for **spatial thinking** by designing a simple **scene** using only geometric shapes.  
 This activity focuses on how space communicates meaning through **blocking, proxemics, levels, and orientation**.
 
-You will move from **intention → 2D design → 3D space**, working with strong constraints to prioritize clarity over complexity.
+You will move from **intention → 2D design → 3D space**, working with strong constraints to prioritize clarity over complexity.  
+
+<div style="color: gray; font-style: italic; margin-bottom: 1em;">
+Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
+</div>
 
 ---
 
@@ -62,9 +66,10 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
 ### Requirements
 - Hand-drawn (preferred) or digital
 - Placement of **only geometric objects**
-- **Minimum 5 shapes, maximum 7 shapes total**
-- Audience position *if there is a stage–audience separation*
-- Your scene should show intentional use of **at least two** of the following:  
+- **Minimum 5 shapes, maximum 7 shapes total**  
+  *(The floor / ground plane does not count toward this limit.)*
+- Audience position only if there is a clear stage–audience separation
+- Your scene should show intentional use of **at least two** of the following, clearly labelling when applicable:   
   - **Blocking** — where forms are placed
   - **Proxemics** — distance between forms
   - **Levels** — vertical relationships (encouraged)
@@ -76,7 +81,7 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
 
 > ⚠️ This step must be completed **before** building in Blender.
 
-➡️ **Save this image** for submission (JPEG format).
+➡️ **Save this floor pan** for submission.
 
 ---
 
@@ -99,15 +104,11 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
 
 ### Learn the basics
 
-Before starting your 3D scene, follow these activities to learn the most basic navigation aspects of Blender:
+These tools will allow you to place, duplicate, and reposition forms to test blocking, distance, and orientation in space.  
 
 <a href="https://jac307.github.io/MediaArtTutorials/Blender/1_QuickStart_Blender_Guide.html" target="_blank" rel="noopener noreferrer">
   👉 Blender – Quick Start Guide
 </a>
-
-<div style="color: gray; font-style: italic; margin-top: 0.5em;">
-Focus on navigation, moving objects, and viewing the scene. You do not need to learn materials, lighting, or rendering at this stage.
-</div>
 
 ---
 
@@ -116,7 +117,7 @@ Focus on navigation, moving objects, and viewing the scene. You do not need to l
 #### Technical Constraints (Strict)
 - Use **only basic geometric shapes** (cube, sphere, cylinder, cone, plane, etc.).
 - **Minimum 5 shapes, maximum 7 shapes total**  
-  *(The floor / ground plane does **not** count toward this limit.)*
+  *(The floor / ground plane does not count toward this limit.)*
 - ❌ No lighting changes  
 - ❌ No materials or textures  
 - ❌ No modifiers  
@@ -135,6 +136,9 @@ Focus on navigation, moving objects, and viewing the scene. You do not need to l
 
 Check the following tutorial and **focus only on the sections listed below**.  
 You can **skip any sections marked as “skip”** — they are not required for this activity.
+
+> For this week, focus only on adding, moving, rotating, duplicating, and scaling basic geometric forms.  
+> **Important**: Constrantly save your progress!
 
 <ul>
   <li>00:00 — Introduction</li>
@@ -156,8 +160,6 @@ You can **skip any sections marked as “skip”** — they are not required for
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TFafNrD5q4U?si=-wnLjXuSASXLAtSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-> For this week, focus only on adding, moving, rotating, duplicating, and scaling basic geometric forms.  
-
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
@@ -174,7 +176,7 @@ You can **skip any sections marked as “skip”** — they are not required for
    > Include your labeled 2D floor plan (JPEG), clearly showing the application of at least two spatial concepts (Blocking, Proxemics, Levels, or Orientation).
 
 4. **2–3 Screenshots of the 3D Scene**  
-   > Choose views that best communicate the spatial relationships of your scene from different perspectives.
+   > Choose views/angles that best communicate the spatial relationships of your scene from different perspectives.
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W1-Tutorial.pdf`
@@ -196,8 +198,7 @@ You can **skip any sections marked as “skip”** — they are not required for
 |---------------------|-------------------------------------------|
 | Project documents   | `Lastname-Firstname-W1-Tutorial.pdf`      |
 | Blender File        | `Lastname-Firstname-3Dscene.blend`        |
-
-> Screenshots should clearly show the spatial arrangement from different angles.  
+  
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
