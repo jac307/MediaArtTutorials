@@ -141,17 +141,17 @@ You can **skip any sections marked as “skip”** — they are not required for
 > **Important**: Constrantly save your progress!
 
 <ul>
-  <li>00:00 — Introduction</li>
-  <li>00:41 — Uses of Object Mode</li>
+  <li><strong>00:00 — Introduction</strong></li>
+  <li><strong>00:41 — Uses of Object Mode</strong></li>
   <li style="color: gray;">01:04 — Getting Clearer Objects (skip)</li>
-  <li>02:21 — Deleting Objects</li>
-  <li>02:48 — Adding New Objects</li>
-  <li>03:10 — Duplicating Objects</li>
-  <li>03:31 — Grab — Moving Objects</li>
-  <li>03:49 — Rotating Objects</li>
+  <li><strong>02:21 — Deleting Objects</strong></li>
+  <li><strong>02:48 — Adding New Objects</strong></li>
+  <li><strong>03:10 — Duplicating Objects</strong></li>
+  <li><strong>03:31 — Grab — Moving Objects</strong></li>
+  <li><strong>03:49 — Rotating Objects</strong></li>
   <li style="color: gray;">04:03 — Getting Exact Measurements (skip)</li>
-  <li>05:12 — Scaling Objects Size</li>
-  <li>05:24 — Using the T-Panel Tools</li>
+  <li><strong>05:12 — Scaling Objects Size</strong></li>
+  <li><strong>05:24 — Using the T-Panel Tools</strong></li>
   <li style="color: gray;">07:12 — Locking to an Axis or Direction (skip)</li>
   <li style="color: gray;">09:05 — Important Tips and Tricks (skip)</li>
 </ul>
