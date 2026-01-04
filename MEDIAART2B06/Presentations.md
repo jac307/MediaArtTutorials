@@ -2,11 +2,11 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Student-Led Critical Dialogue</h1>  
+<h1 style="color: darkred;">Student-Led Critical Discussion</h1>  
 
 ### Overview
 
-Students will work in **teams of 4** to lead a class discussion based on the **weekly readings and topics**.  
+Students will work in **teams of 3** to lead a class discussion based on the **weekly readings and topics**.  
 Each class session will feature **two teams** presenting during the first hour:
 
 - **Context Crew** — presents key ideas, concepts, and examples  
