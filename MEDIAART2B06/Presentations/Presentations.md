@@ -180,12 +180,12 @@ Follow this link to set up your Kanopy account:
 ### Week 11
 - **Keywords**: Sound film, listening as authorship, sound as narrative structure, silence and absence, sonic atmosphere, affect and dread, sound–image hierarchy, ethical use of sound 
 - **Reading**:  
-  Chion, M. (1994). [*Sound film—worthy of the name*](W3-Reading.pdf){target="_blank"}. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 141–156). Columbia University Press. (Original work published 1990) 
+  Chion, M. (1994). <a href="W3-Reading.pdf" target="_blank" rel="noopener noreferrer">*Sound film—worthy of the name*</a>. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 141–156). Columbia University Press. (Original work published 1990) 
 - **Artist/Artwork**:  
   Chernobyl (HBO series, 2019), sound by Hildur Guðnadóttir (Iceland); watch excerps available on YouTube
-  Hildur Guðnadóttir on sound, silence, and emotional storytelling. <a href="URL_OF_YOUR_LINK" target="_blank">[https://www.popdisciple.com/interviews/hildur-gudnadottir](https://www.popdisciple.com/interviews/hildur-gudnadottir)</a>
- 'Chernobyl' composer created entire haunting score from real power plant sounds <a href="URL_OF_YOUR_LINK" target="_blank">[https://www.youtube.com/watch?v=bTw1-nw5S4A](https://www.youtube.com/watch?v=bTw1-nw5S4A)</a>
+  Hildur Guðnadóttir on sound, silence, and emotional storytelling. <a href="https://www.popdisciple.com/interviews/hildur-gudnadottir" target="_blank" rel="noopener noreferrer">https://www.popdisciple.com/interviews/hildur-gudnadottir</a>
+ 'Chernobyl' composer created entire haunting score from real power plant sounds. <a href="https://www.youtube.com/watch?v=bTw1-nw5S4A" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=bTw1-nw5S4A</a>
 
 ---
 
-<a href="url" target="_blank" rel="noopener noreferrer">text</a>
+<!-- <a href="url" target="_blank" rel="noopener noreferrer">text</a> -->
