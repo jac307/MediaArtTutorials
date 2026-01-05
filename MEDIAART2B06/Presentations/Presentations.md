@@ -151,7 +151,7 @@ Follow this link to set up your Kanopy account:
 - **Keywords**: Conceptual storytelling, film as embodied practice, personal and situated narratives, memory and place, sound as structure, non-linear time, relational authorship, intention before narrative  
 - **Readings**:
   - Hopinka, S. (2019). <a href="W7a-Reading.pdf" target="_blank" rel="noopener noreferrer">*Film is the body*</a>. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 89–94). Archive Books.  
-  - Kite, S. (2019). *Winyan Yamni: Three Dreams*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 169–191). Archive Books.  
+  - Kite, S. (2019). <a href="https://www.dropbox.com/scl/fi/igyqaynnsj84q2o6hcppr/W7b-Reading.pdf?rlkey=0rs79w3zxbhojzbmmfeevdjiz&st=t6bt982r&dl=0" target="_blank" rel="noopener noreferrer">*Winyan Yamni: Three Dreams*</a>. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 169–191). Archive Books.  
 - **Artists/Artworks**:
   - <a href="https://www.skyhopinka.com/" target="_blank" rel="noopener noreferrer">Sky Hopinka</a> (Ho-Chunk Nation; American)  
   - <a href="https://www.kitekitekitekite.com/portfolio" target="_blank" rel="noopener noreferrer">Susan Kite</a> (Oglála Lakȟóta)
@@ -159,14 +159,14 @@ Follow this link to set up your Kanopy account:
 ### **Week 8**
 - **Keywords**: Film as social practice, language and power, collective authorship, long take as ethics, cinema and community, situated production, responsibility of representation, filmmaking in context  
 - **Reading**:  
-  Hilari, M. (2019). *Reflections on language based on the all-encompassing sequence shot: Formal processes in Bolivian cinema*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 239–268). Archive Books.  
+  Hilari, M. (2019). <a href="https://www.dropbox.com/scl/fi/ygu2cugxtjc5d57tp2ihr/W8-Reading.pdf?rlkey=v919xhcmlrtxg5pudinv31cmp&dl=0" target="_blank" rel="noopener noreferrer">*Reflections on language based on the all-encompassing sequence shot: Formal processes in Bolivian cinema*</a>. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 239–268). Archive Books.  
 - **Artist/Artwork**:  
   Film examples discussed in the reading, including works from Bolivian cinema that use the sequence shot as a social and linguistic strategy.
 
 ### Week 9
 - **Keywords**: Pacing and rhythm, editing as storytelling, repetition and variation, non-linear time, affective structure, montage as meaning, temporal tension 
 - **Reading**:  
-  Eisenstein, S. (1949). *The structure of the film*. In Film form: Essays in film theory (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. (Original work published 1929) 
+  Eisenstein, S. (1949). <a href="https://www.dropbox.com/scl/fi/co9owv6x0bkn8rm0xwbec/W9-Reading.pdf?rlkey=5mwds7y7gewaucx99owvjymya&dl=0" target="_blank" rel="noopener noreferrer">*The structure of the film*</a>. In Film form: Essays in film theory (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. (Original work published 1929) 
 - **Artist/Artwork**:  
   Meshes of the Afternoon — directed by Maya Deren (Ukrainian); available on <a href="https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ" target="_blank" rel="noopener noreferrer">YouTube</a>
 
@@ -187,5 +187,3 @@ Follow this link to set up your Kanopy account:
   Video/Interview: <a href="https://www.youtube.com/watch?v=bTw1-nw5S4A" target="_blank" rel="noopener noreferrer">'Chernobyl' composer created entire haunting score from real power plant sounds.</a>  
 
 ---
-
-<!-- <a href="url" target="_blank" rel="noopener noreferrer">text</a> -->
