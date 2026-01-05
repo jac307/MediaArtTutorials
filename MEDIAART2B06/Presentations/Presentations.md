@@ -74,7 +74,7 @@ Responsibilities:
 - Actively guide discussion back to the **core themes of the reading** and its **connection to the assigned artist/artwork**  
   *(How do theory and practice inform one another?)*
 
-- Follow the **[Discussion Plan Template](link)** and submit it in advance  
+- Follow the **[Discussion Plan Template](Discussion-Plan-Template.docx){target="_blank"}** and submit it in advance  
 
 ---
 
