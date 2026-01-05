@@ -150,7 +150,7 @@ Follow this link to set up your Kanopy account:
 ### **Week 7**
 - **Keywords**: Conceptual storytelling, film as embodied practice, personal and situated narratives, memory and place, sound as structure, non-linear time, relational authorship, intention before narrative  
 - **Readings**:
-  - Hopinka, S. (2019). *Film is the body*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 89–94). Archive Books.  
+  - Hopinka, S. (2019). <a href="W7a-Reading.pdf" target="_blank" rel="noopener noreferrer">*Film is the body*</a>. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 89–94). Archive Books.  
   - Kite, S. (2019). *Winyan Yamni: Three Dreams*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 169–191). Archive Books.  
 - **Artists/Artworks**:
   - <a href="https://www.skyhopinka.com/" target="_blank" rel="noopener noreferrer">Sky Hopinka</a> (Ho-Chunk Nation; American)  
