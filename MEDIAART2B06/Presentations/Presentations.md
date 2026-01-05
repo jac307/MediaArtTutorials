@@ -6,7 +6,7 @@
 
 ### Overview
 
-Students will work in **teams of 3** to lead a class discussion based on the **weekly readings and topics** (available below under <a href="#materials">List of Readings and Video Works per Week</a>.  
+Students will work in **teams of 3** to lead a class discussion based on the **weekly readings and artists** (available below under <a href="#materials">List of Readings and Artists/Artworks per Week</a>.  
 Each class session will feature **two teams** presenting during the first hour:
 
 - **Context Crew** — presents key ideas, concepts, and examples  
@@ -84,7 +84,7 @@ Responsibilities:
 
 1. Choose a **week** and **role** (Context Crew or Conversation Crew)  
 2. Sign up using this [enrolment spreadsheet]([link](https://mcmasteru365-my.sharepoint.com/:x:/g/personal/rodrij28_mcmaster_ca/IQAxUMErTFp7SaeJ3i0ykGQLARV6gpqYBKrVjYYLwBxzTzs?e=gGeQZh))
-3. Check the materials for the selected week: <a href="#materials">List of Readings and Video Works per Week</a>
+3. Check the materials for the selected week: <a href="#materials">List of Readings and Artists/Artworks per Week</a>
 
 ---
 
@@ -120,7 +120,7 @@ Each team must submit materials **one day before** their presentation:
 
 ---
 
-<h2 id="materials" style="color: darkred;">List of Readings and Video Works per Week</h2>
+<h2 id="materials" style="color: darkred;">List of Readings and Artists/Artworks per Week</h2>
 
 Some of the video works listed below are available on Kanopy. As a McMaster student, you have free access.  
 Follow this link to set up your Kanopy account:  
