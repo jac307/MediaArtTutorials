@@ -25,13 +25,14 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Project Overview
 
+- **Camera Mode:** - Aperture Priority (Av)  
 - **Format:** 30-second photo film (still images only)
 - **Images:** Approximately **10–18 photographs**
 - **Narrative type:** Observational / micro-narrative
 - **Location:** Any McMaster campus location, during class time only
 - **Collaboration:** Work in pairs, submit individually
 - **Dialogue:** Not allowed
-- **Video footage:** Not allowed (stills only)
+- **Video footage:** Not allowed (stills only)  
 
 ## Examples
 
@@ -87,6 +88,8 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro 
 
 ### Photographing Requirements
 
+- **Camera Mode:** - Aperture Priority (Av)
+  > Photographs are captured **in colour** and converted to **black and white** in post-production 
 - All photographs must be completed **during class time**
 - Images must be **static stills** (no video or motion capture)
 - Shoot in landscape  
@@ -94,8 +97,6 @@ Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro 
   - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
   - **1–2 compositional frameworks**
   - Work with **depth of field**
-- Use **Aperture Priority** mode
-  > Photographs are captured **in colour** and converted to **black and white** in post-production
 - **Tripod-based** recommended
 
 ### Working in Pairs
