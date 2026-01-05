@@ -6,7 +6,7 @@
 
 ### Overview
 
-Students will work in **teams of 3** to lead a class discussion based on the **weekly readings and topics**.  
+Students will work in **teams of 3** to lead a class discussion based on the **weekly readings and topics** (available below under <a href="#materials">List of Readings and Video Works per Week</a>.  
 Each class session will feature **two teams** presenting during the first hour:
 
 - **Context Crew** — presents key ideas, concepts, and examples  
@@ -14,18 +14,16 @@ Each class session will feature **two teams** presenting during the first hour:
 
 Teams must **enrol in advance** for both a **week** and a **role**.  
 
-📌 *This activity emphasizes preparation, collaboration, and active participation.*  
-
 ---
 
 ### Learning Objectives
 
 By completing this activity, students will:
 
-- Develop collaboration and teamwork skills  
-- Practice summarizing and analyzing academic readings  
-- Lead peers in structured, critical dialogue  
-- Connect theory to real-world examples, media, and lived experience  
+- Develop collaboration and teamwork skills 
+- Practice summarizing, interpreting, and critically engaging with theoretical and artistic readings  
+- Lead peers in critical dialogue bridging concepts and creative practice  
+- Analyze how theoretical ideas operate in concrete film and media examples   
 
 ---
 
@@ -37,20 +35,24 @@ By completing this activity, students will:
 
 Responsibilities:
 
-- Briefly introduce the **author** of the reading  
-  *(If multiple authors, focus on the first author only)*  
-- Summarize **3–4 key arguments or concepts**  
-- Discuss at least **2 examples** from the text  
-- Make **1–2 connections** to:
-  - other course materials  
-  - current events or assignements 
-  - films, novels, music, social media, or personal perspectives  
-- Clearly articulate **key takeaways** for the class  
+- Briefly introduce the **author** of the reading (1 slide only)  
+  *(context, background, and why this text matters for media/art practice)*
 
-**Delivery options:**
+- Summarize **3–4 key arguments or concepts** from the reading  
+  *(focus on ideas, not exhaustive detail)*
+
+- Make **1–2 clear connections** between the reading and the assigned **artist/artwork**, such as:
+  - how a concept from the text is embodied in the work  
+  - how the artwork supports, complicates, or resists the reading  
+  - how formal choices (sound, editing, framing, rhythm, duration) reflect the theoretical ideas  
+  - how the artist’s approach aligns with or challenges the author’s perspective  
+
+- Clearly articulate **key takeaways** for the class  
+  *(What should we keep in mind for our own creative practice this week?)* 
+
+**Delivery:**
 - In-person presentation (slides or media)
-- Pre-recorded video
-- Alternative format (with instructor approval)
+- Slides should be submitted in advance  
 
 ---
 
@@ -60,31 +62,29 @@ Responsibilities:
 
 Responsibilities:
 
-- Prepare **3–5 discussion questions** that promote critical thinking  
-- Design at least **one structured activity** to engage the class
-  > no computer/cellphone/tablet (digital) activities allowed
-- Plan strategies for **time management and participation**  
-- Actively guide discussion back to **core themes of the reading**
-- Follow the [Discussion Plan Template](link)
+- Prepare **3–5 discussion questions** that promote critical thinking and interpretation  
+  *(questions should move beyond summary and invite analysis, reflection, or debate)*
 
-**Suggested activity formats:**
-- Whole-class discussion  
-- Small-group discussion  
-- Structured debate  
-- Think-Pair-Share  
-- Alternative interactive formats (with instructor approval)
+- Design at least **one structured, non-digital activity** to actively engage the class  
+  > *No computer, cellphone, or tablet-based activities allowed*
 
-📄 **Discussion Plan Template:**  
-https://tinyurl.com/csmt3z03discussionplan
+- Plan strategies for **time management and inclusive participation**  
+  *(e.g., small groups, turn-taking, prompts for quieter participants)*
+
+- Actively guide discussion back to the **core themes of the reading** and its **connection to the assigned artist/artwork**  
+  *(How do theory and practice inform one another?)*
+
+- Follow the **[Discussion Plan Template](link)** and submit it in advance  
 
 ---
 
-<h2 style="color: darkred;">Enrolment and Submission</h2>
+<h2 style="color: darkred;">Enrolment, Submission & Assessment Criteria</h2>
 
 ## Enrolment Process
 
 1. Choose a **week** and **role** (Context Crew or Conversation Crew)  
 2. Sign up using this [enrolment spreadsheet]([link](https://mcmasteru365-my.sharepoint.com/:x:/g/personal/rodrij28_mcmaster_ca/IQAxUMErTFp7SaeJ3i0ykGQLARV6gpqYBKrVjYYLwBxzTzs?e=gGeQZh))
+3. Check the materials for the selected week: <a href="#materials">List of Readings and Video Works per Week</a>
 
 ---
 
@@ -120,7 +120,7 @@ Each team must submit materials **one day before** their presentation:
 
 ---
 
-<h2 style="color: darkred;">List of Readings and Video Works per Week</h2>
+<h2 id="materials" style="color: darkred;">List of Readings and Video Works per Week</h2>
 
 Some of the video works listed below are available on Kanopy. As a McMaster student, you have free access.  
 Follow this link to set up your Kanopy account:  
