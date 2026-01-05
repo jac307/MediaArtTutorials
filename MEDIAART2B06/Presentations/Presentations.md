@@ -177,7 +177,7 @@ Follow this link to set up your Kanopy account:
 - **Artist/Artwork**:  
   Beau Travail (1999) — directed by Claire Denis (French); available on <a href="https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY" target="_blank" rel="noopener noreferrer">YouTube</a>
 
-### Week 11
+### Week 12
 - **Keywords**: Sound film, listening as authorship, sound as narrative structure, silence and absence, sonic atmosphere, affect and dread, sound–image hierarchy, ethical use of sound 
 - **Reading**:  
   Chion, M. (1994). <a href="W3-Reading.pdf" target="_blank" rel="noopener noreferrer">*Sound film—worthy of the name*</a>. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 141–156). Columbia University Press. (Original work published 1990) 
