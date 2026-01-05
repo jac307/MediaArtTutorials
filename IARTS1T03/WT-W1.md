@@ -75,7 +75,7 @@ Using your artistic intention as a guide, create a **2D floor plan** for your sc
   - **Levels** — vertical relationships (encouraged)
   - **Orientation** — how forms face or withhold access
 
-<img src="TechWalks/imgs/02.png" style="width: 80%; height: auto;">
+<img src="imgs/02.png" style="width: 80%; height: auto;">
 
 > ⚠️ This step must be completed **before** building in Blender.
 
