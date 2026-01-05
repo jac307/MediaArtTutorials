@@ -74,7 +74,7 @@ Responsibilities:
 - Actively guide discussion back to the **core themes of the reading** and its **connection to the assigned artist/artwork**  
   *(How do theory and practice inform one another?)*
 
-- Follow the **[Discussion Plan Template](Discussion-Plan-Template.docx){target="_blank"}** and submit it in advance  
+- Follow the <a href="Discussion-Plan-Template.docx" target="_blank" rel="noopener noreferrer">**Discussion Plan Template**</a>
 
 ---
 
@@ -83,8 +83,8 @@ Responsibilities:
 ## Enrolment Process
 
 1. Choose a **week** and **role** (Context Crew or Conversation Crew)  
-2. Sign up using this [enrolment spreadsheet]([link](https://mcmasteru365-my.sharepoint.com/:x:/g/personal/rodrij28_mcmaster_ca/IQAxUMErTFp7SaeJ3i0ykGQLARV6gpqYBKrVjYYLwBxzTzs?e=gGeQZh))
-3. Check the materials for the selected week: <a href="#materials">List of Readings and Artists/Artworks per Week</a>
+2. Sign up using this <a href="https://mcmasteru365-my.sharepoint.com/:x:/g/personal/rodrij28_mcmaster_ca/IQAxUMErTFp7SaeJ3i0ykGQLARV6gpqYBKrVjYYLwBxzTzs?e=gGeQZh" target="_blank" rel="noopener noreferrer">enrolment spreadsheet</a>
+6. Check the materials for the selected week: <a href="#materials">List of Readings and Artists/Artworks per Week</a>
 
 ---
 
@@ -153,12 +153,8 @@ Follow this link to set up your Kanopy account:
   - Hopinka, S. (2019). *Film is the body*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 89–94). Archive Books.  
   - Kite, S. (2019). *Winyan Yamni: Three Dreams*. In J. Yue, M. Gallagher, & P. Y. Huang (Eds.), *Temporal territories: An anthology of Indigenous experimental cinema* (pp. 169–191). Archive Books.  
 - **Artists/Artworks**:
-  - [Sky Hopinka](https://www.skyhopinka.com/) (Ho-Chunk Nation; American)  
-  - [Susan Kite](https://www.kitekitekitekite.com/portfolio) (Oglála Lakȟóta)
-
-
-<a href="url" target="_blank" rel="noopener noreferrer">text</a>
-
+  - <a href="https://www.skyhopinka.com/" target="_blank" rel="noopener noreferrer">Sky Hopinka</a> (Ho-Chunk Nation; American)  
+  - <a href="https://www.kitekitekitekite.com/portfolio" target="_blank" rel="noopener noreferrer">Susan Kite</a> (Oglála Lakȟóta)
 
 ### **Week 8**
 - **Keywords**: Film as social practice, language and power, collective authorship, long take as ethics, cinema and community, situated production, responsibility of representation, filmmaking in context  
@@ -167,20 +163,19 @@ Follow this link to set up your Kanopy account:
 - **Artist/Artwork**:  
   Film examples discussed in the reading, including works from Bolivian cinema that use the sequence shot as a social and linguistic strategy.
 
-
 ### Week 9
 - **Keywords**: Pacing and rhythm, editing as storytelling, repetition and variation, non-linear time, affective structure, montage as meaning, temporal tension 
 - **Reading**:  
   Eisenstein, S. (1949). *The structure of the film*. In Film form: Essays in film theory (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. (Original work published 1929) 
 - **Artist/Artwork**:  
-  Meshes of the Afternoon — directed by Maya Deren (Ukrainian); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ)</a>
+  Meshes of the Afternoon — directed by Maya Deren (Ukrainian); available on <a href="https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ" target="_blank" rel="noopener noreferrer">YouTube</a>
 
 ### Week 10
 - **Keywords**: Embodied spectatorship, cinesthetic perception, critical film analysis, audience experience, affect and emotion, pacing and rhythm, sound–image coherence, reflective viewing
 - **Reading**:  
-  Sobchack, V. (2004). [*What my fingers knew: The cinesthetic subject, or vision in the flesh*](W10-Reading.pdf){target="_blank"}. In Carnal thoughts: Embodiment and moving image culture (pp. 53–84). University of California Press. 
+  Sobchack, V. (2004). <a href="W10-Reading.pdf" target="_blank" rel="noopener noreferrer">*What my fingers knew: The cinesthetic subject, or vision in the flesh*</a>. In Carnal thoughts: Embodiment and moving image culture (pp. 53–84). University of California Press. 
 - **Artist/Artwork**:  
-  Beau Travail (1999) — directed by Claire Denis (French); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY)</a>
+  Beau Travail (1999) — directed by Claire Denis (French); available on <a href="https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY" target="_blank" rel="noopener noreferrer">YouTube</a>
 
 ### Week 11
 - **Keywords**: Sound film, listening as authorship, sound as narrative structure, silence and absence, sonic atmosphere, affect and dread, sound–image hierarchy, ethical use of sound 
@@ -192,3 +187,5 @@ Follow this link to set up your Kanopy account:
  'Chernobyl' composer created entire haunting score from real power plant sounds <a href="URL_OF_YOUR_LINK" target="_blank">[https://www.youtube.com/watch?v=bTw1-nw5S4A](https://www.youtube.com/watch?v=bTw1-nw5S4A)</a>
 
 ---
+
+<a href="url" target="_blank" rel="noopener noreferrer">text</a>
