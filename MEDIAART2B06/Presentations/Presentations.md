@@ -124,28 +124,28 @@ Each team must submit materials **one day before** their presentation:
 
 Some of the video works listed below are available on Kanopy. As a McMaster student, you have free access.  
 Follow this link to set up your Kanopy account:  
-<a href="https://library.mcmaster.ca/databases/kanopy" target="_blank">Kanopy (McMaster Library Access)</a>
+<a href="https://library.mcmaster.ca/databases/kanopy" target="_blank" rel="noopener noreferrer">Kanopy (McMaster Library Access)</a>
 
 ### **Week 3**
 - **Keywords**: Walking as practice, observation vs. control, everyday space, movement and meaning, presence, environment as collaborator  
 - **Reading**:  
-  de Certeau, M. (1984). [*Walking in the city*](W3-Reading.pdf){target="_blank"}. In *The practice of everyday life* (S. Rendall, Trans., pp. 91–110). University of California Press. (Original work published 1980)  
+  de Certeau, M. (1984). <a href="W3-Reading.pdf" target="_blank" rel="noopener noreferrer">*Walking in the city*</a>In *The practice of everyday life* (S. Rendall, Trans., pp. 91–110). University of California Press. (Original work published 1980)  
 - **Artist/Artwork**:  
-  *News from Home* (1978) by Chantal Akerman (Belgium); full film available on [Kanopy (McMaster Library Access)](https://www.kanopy.com/en/mcmaster/video/11032756)
+  *News from Home* (1978) by Chantal Akerman (Belgium); full film available on <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Kanopy (McMaster Library Access</a>
 
 ### **Week 4**
 - **Keywords**: Continuous shot (long take), duration, cinematic time, camera as witness, framing as narrative, colour continuity, movement vs. montage  
 - **Reading**:  
-  Bazin, A. (2005). [*The ontology of the photographic image*](W4-Reading.pdf){target="_blank"}. In H. Gray (Ed. & Trans.), *What is cinema?* (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)  
+  Bazin, A. (2005). <a href="W4-Reading.pdf" target="_blank" rel="noopener noreferrer">*The ontology of the photographic image*</a> In What is cinema? (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)  
 - **Artist/Artwork**:  
-  *Russian Ark* (2022) by Dir. Alexander Sokurov (Russia); full film available on <a href="URL_OF_YOUR_LINK" target="_blank">[Daily Motion](https://www.dailymotion.com/video/x9tovpy)</a>
+  *Russian Ark* (2022) by Dir. Alexander Sokurov (Russia); full film available on <a href="https://www.dailymotion.com/video/x9tovpy" target="_blank" rel="noopener noreferrer">Daily Motion</a>
 
 ### **Week 5**
 - **Keywords**: Audiovisual scene, sound–image relationship, rhythm and pacing, diegetic vs. non-diegetic sound, synchronization, sensory perception, sound as narrative guide  
 - **Reading**:  
-  Chion, M. (1994). [*The audiovisual scene*](W5-Reading.pdf){target="_blank"}. In *Audio-vision: Sound on screen* (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)  
+  Chion, M. (1994). <a href="W5-Reading.pdf" target="_blank" rel="noopener noreferrer">*The audiovisual scene*</a> In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)  
 - **Artist/Artwork**:  
-  *Koyaanisqatsi* (1982) by Dir. Godfrey Reggio (USA), music by Philip Glass (USA); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/eWp8D5s6Sc0?si=Igje9YAgQM_QbVMf)</a>
+  *Koyaanisqatsi* (1982) by Dir. Godfrey Reggio (USA), music by Philip Glass (USA); available on <a href="https://youtu.be/eWp8D5s6Sc0?si=Igje9YAgQM_QbVMf" target="_blank" rel="noopener noreferrer">YouTube</a>
 
 ### **Week 7**
 - **Keywords**: Conceptual storytelling, film as embodied practice, personal and situated narratives, memory and place, sound as structure, non-linear time, relational authorship, intention before narrative  
@@ -155,6 +155,10 @@ Follow this link to set up your Kanopy account:
 - **Artists/Artworks**:
   - [Sky Hopinka](https://www.skyhopinka.com/) (Ho-Chunk Nation; American)  
   - [Susan Kite](https://www.kitekitekitekite.com/portfolio) (Oglála Lakȟóta)
+
+
+<a href="url" target="_blank" rel="noopener noreferrer">text</a>
+
 
 ### **Week 8**
 - **Keywords**: Film as social practice, language and power, collective authorship, long take as ethics, cinema and community, situated production, responsibility of representation, filmmaking in context  
