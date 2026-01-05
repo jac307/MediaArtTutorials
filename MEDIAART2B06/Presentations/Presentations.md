@@ -129,21 +129,21 @@ Follow this link to set up your Kanopy account:
 ### **Week 3**
 - **Keywords**: Walking as practice, observation vs. control, everyday space, movement and meaning, presence, environment as collaborator  
 - **Reading**:  
-  de Certeau, M. (1984). *Walking in the city*. In *The practice of everyday life* (S. Rendall, Trans., pp. 91–110). University of California Press. (Original work published 1980)  
+  de Certeau, M. (1984). [*Walking in the city*](W3-Reading.pdf){target="_blank"}. In *The practice of everyday life* (S. Rendall, Trans., pp. 91–110). University of California Press. (Original work published 1980)  
 - **Artist/Artwork**:  
   *News from Home* (1978) by Chantal Akerman (Belgium); full film available on [Kanopy (McMaster Library Access)](https://www.kanopy.com/en/mcmaster/video/11032756)
 
 ### **Week 4**
 - **Keywords**: Continuous shot (long take), duration, cinematic time, camera as witness, framing as narrative, colour continuity, movement vs. montage  
 - **Reading**:  
-  Bazin, A. (2005). *The ontology of the photographic image*. In H. Gray (Ed. & Trans.), *What is cinema?* (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)  
+  Bazin, A. (2005). [*The ontology of the photographic image*](W4-Reading.pdf){target="_blank"}. In H. Gray (Ed. & Trans.), *What is cinema?* (Vol. 1, pp. 9–16). University of California Press. (Original work published 1945)  
 - **Artist/Artwork**:  
   *Russian Ark* (2022) by Dir. Alexander Sokurov (Russia); full film available on <a href="URL_OF_YOUR_LINK" target="_blank">[Daily Motion](https://www.dailymotion.com/video/x9tovpy)</a>
 
 ### **Week 5**
 - **Keywords**: Audiovisual scene, sound–image relationship, rhythm and pacing, diegetic vs. non-diegetic sound, synchronization, sensory perception, sound as narrative guide  
 - **Reading**:  
-  Chion, M. (1994). *The audiovisual scene*. In *Audio-vision: Sound on screen* (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)  
+  Chion, M. (1994). [*The audiovisual scene*](W5-Reading.pdf){target="_blank"}. In *Audio-vision: Sound on screen* (C. Gorbman, Trans., pp. 66–94). Columbia University Press. (Original work published 1990)  
 - **Artist/Artwork**:  
   *Koyaanisqatsi* (1982) by Dir. Godfrey Reggio (USA), music by Philip Glass (USA); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/eWp8D5s6Sc0?si=Igje9YAgQM_QbVMf)</a>
 
@@ -167,21 +167,21 @@ Follow this link to set up your Kanopy account:
 ### Week 9
 - **Keywords**: Pacing and rhythm, editing as storytelling, repetition and variation, non-linear time, affective structure, montage as meaning, temporal tension 
 - **Reading**:  
-  Eisenstein, S. (1949). The structure of the film. In Film form: Essays in film theory (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. (Original work published 1929) 
+  Eisenstein, S. (1949). *The structure of the film*. In Film form: Essays in film theory (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. (Original work published 1929) 
 - **Artist/Artwork**:  
   Meshes of the Afternoon — directed by Maya Deren (Ukrainian); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ)</a>
 
 ### Week 10
 - **Keywords**: Embodied spectatorship, cinesthetic perception, critical film analysis, audience experience, affect and emotion, pacing and rhythm, sound–image coherence, reflective viewing
 - **Reading**:  
-  Sobchack, V. (2004). What my fingers knew: The cinesthetic subject, or vision in the flesh. In Carnal thoughts: Embodiment and moving image culture (pp. 53–84). University of California Press. 
+  Sobchack, V. (2004). [*What my fingers knew: The cinesthetic subject, or vision in the flesh*](W10-Reading.pdf){target="_blank"}. In Carnal thoughts: Embodiment and moving image culture (pp. 53–84). University of California Press. 
 - **Artist/Artwork**:  
   Beau Travail (1999) — directed by Claire Denis (French); available on <a href="URL_OF_YOUR_LINK" target="_blank">[YouTube](https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY)</a>
 
 ### Week 11
 - **Keywords**: Sound film, listening as authorship, sound as narrative structure, silence and absence, sonic atmosphere, affect and dread, sound–image hierarchy, ethical use of sound 
 - **Reading**:  
-  Chion, M. (1994). Sound film—worthy of the name. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 141–156). Columbia University Press. (Original work published 1990) 
+  Chion, M. (1994). [*Sound film—worthy of the name*](W3-Reading.pdf){target="_blank"}. In Audio-vision: Sound on screen (C. Gorbman, Trans., pp. 141–156). Columbia University Press. (Original work published 1990) 
 - **Artist/Artwork**:  
   Chernobyl (HBO series, 2019), sound by Hildur Guðnadóttir (Iceland); watch excerps available on YouTube
   Hildur Guðnadóttir on sound, silence, and emotional storytelling. <a href="URL_OF_YOUR_LINK" target="_blank">[https://www.popdisciple.com/interviews/hildur-gudnadottir](https://www.popdisciple.com/interviews/hildur-gudnadottir)</a>
