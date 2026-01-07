@@ -169,7 +169,7 @@ This is intentional: it allows you to focus on **framing, composition, depth of 
 ### What Is Exposure?
 
 **Exposure** refers to how much light reaches the camera’s sensor when a photograph is taken.
-+ **Normal Exposure** is achieved when the brightness/darkness of an image is generally considered to have a range of tones and to faithfully represent the scene being photographed. 
++ **Normal Exposure** is achieved when the brightness/darkness of an image is generally considered faithfully represent the scene being photographed. 
 + **Over Exposure** is when too much light is collected by the sensor, and the image looks too bright and washed out.
 + **Under Exposure** is when not enough light is collected by the sensor, and the image looks too dark and dull.
 
@@ -191,10 +191,10 @@ Exposure is controlled by three settings:
 **Aperture Priority (Av)** — *Primary mode for Week 1*. In this mode:  
 
 - **You select the aperture (f-stop)**  
-  > *Aperture* is the size of the opening in the lens that controls how much light enters the camera and how much of the image appears in focus.
+  > *Aperture* is the size of the opening in the lens that controls how much light enters the camera.
 
 - **The camera automatically sets the shutter speed**  
-  > *Shutter speed* is the amount of time the camera’s shutter remains open, controlling exposure and how motion is rendered.
+  > *Shutter speed* is the amount of time the camera’s shutter remains open.
 
 - **This mode gives you direct control over depth of field**  
   > Aperture determines depth of field (how much is in focus), while the camera adjusts shutter speed to maintain proper exposure based on your aperture choice.
@@ -246,7 +246,7 @@ ISO controls the camera’s **sensitivity to light**.
 - Increase ISO only if the image becomes too dark
 - Higher ISO = more digital noise (especially visible in B&W)
 
-📌 *Use the lowest ISO possible for the lighting conditions.*  
+📌 *Always use the lowest ISO possible.*  
 
 How to setup ISO:   
 
@@ -322,8 +322,6 @@ After taking a photograph:
 ### Transferring Photos to Your Computer
 
 Once you are done shooting:
-
-#### Option 1 — Using an SD Card Reader (Recommended)
 
 1. Turn the camera **off**.
 2. Remove the **SD card** from the camera.
