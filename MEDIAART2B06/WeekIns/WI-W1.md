@@ -64,8 +64,8 @@ You are expected to work actively during class time and participate in all in-cl
 
 Use the PDF worksheet below to:
 
-- Develop a simple **observational idea** that can be completed on campus
-  > **Observational** does not require a traditional beginning–middle–end storyline. Instead, you may focus on mood, atmosphere, or the gradual revealing of a character’s presence or situation through the sequence of photographs.
+- Develop a simple **observational micro-narrative or idea** that can be completed on campus
+  > An **Observational micro-narrative** does not require a traditional beginning–middle–end storyline. Instead, you may focus on mood, atmosphere, or the gradual revealing of a character’s presence or situation through the sequence of photographs.
 - Create **3–5 visual frame-moods** (rough sketches or notes)
 - Treat sketches as a **starting point**, not a fixed script. **Remain open to discovery during shooting**
 
