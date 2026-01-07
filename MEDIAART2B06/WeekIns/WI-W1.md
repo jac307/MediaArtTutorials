@@ -69,7 +69,7 @@ Use the PDF worksheet below to:
 - Create **3–5 visual frame-moods** (rough sketches or notes)
 - Treat sketches as a **starting point**, not a fixed script. **Remain open to discovery during shooting**
 
-<a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
+<a href="imgs/Photofilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
 </a>
 
