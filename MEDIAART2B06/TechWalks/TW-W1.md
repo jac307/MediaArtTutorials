@@ -133,8 +133,8 @@ First, become familiar with the main camera buttons used to navigate menus and p
 2. **Turn on the camera.**  
 3. Follow the tutorial below to learn how to navigate the camera menu and adjust basic settings.
 4. Set **Image Quality** to **RAW + JPEG**  
-  - JPEG files are used for quick viewing and submission if needed  
-  - RAW files preserve full image data for later learning and practice
+  - JPEG files are used for quick viewing  
+  - RAW files preserve full image data
 5. Follow the remaining settings shown in the video:
 
 <div style= "width:80%; height:auto">
