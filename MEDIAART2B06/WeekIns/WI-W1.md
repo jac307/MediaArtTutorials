@@ -65,9 +65,9 @@ You are expected to work actively during class time and participate in all in-cl
 Use the PDF worksheet below to:
 
 - Develop a simple **observational idea** that can be completed on campus
+  > **Observational** does not require a traditional beginning–middle–end storyline. Instead, you may focus on mood, atmosphere, or the gradual revealing of a character’s presence or situation through the sequence of photographs.
 - Create **3–5 visual frame-moods** (rough sketches or notes)
-- Treat sketches as a **starting point**, not a fixed script
-- Remain open to discovery during shooting
+- Treat sketches as a **starting point**, not a fixed script. **Remain open to discovery during shooting**
 
 <a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
