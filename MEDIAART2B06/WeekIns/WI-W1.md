@@ -46,8 +46,8 @@ You are expected to work actively during class time and participate in all in-cl
 ▶️ [Año Uña Clip - Diego's Toenail](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}    
 ▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
 
-**Olga Karlovac** (Dubrovnik, Croatia) 
-→ Olga uses her camera to capture fleeting moments and emotions. Working exclusively in black and white, predominantly after dark and in rainy conditions, her abstracted images blur the lines between figuration and visual poetry. 
+**Olga Karlovac** (Dubrovnik, Croatia)   
+→ Olga uses her camera to capture fleeting moments and emotions. Working exclusively in black and white, predominantly after dark and in rainy conditions, her abstracted images blur the lines between figuration and visual poetry.   
 🌐 [Artist's Website](https://olga-karlovac-photography.com/site/){:target="_blank"}  
 
 ---
