@@ -159,7 +159,7 @@ Follow the tutorials to:
 - Convert it to **black and white**  
 - Make **basic exposure and contrast adjustments**  
 - Upload it to your assigned group link:
-  - [Group 1 Link](https://www.dropbox.com/request/5tzID9d1Yp9a47kq5SSI){:target="_blank"}
+  - [Group 1 Link](https://www.dropbox.com/request/iGYWsf2A7x7LwSlwvLrk){:target="_blank"}
   - [Group 2 Link](https://www.dropbox.com/request/Lx5xCt6vkPROg0hrrJsd){:target="_blank"}
   - [Group 3 Link](https://www.dropbox.com/request/LtFQ086TcWNboxvisj4y){:target="_blank"}
 
