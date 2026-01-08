@@ -48,7 +48,8 @@ You are expected to work actively during class time and participate in all in-cl
 
 **Olga Karlovac** (Dubrovnik, Croatia)   
 → Olga uses her camera to capture fleeting moments and emotions. Working exclusively in black and white, predominantly after dark and in rainy conditions, her abstracted images blur the lines between figuration and visual poetry.   
-🌐 [Artist's Website](https://olga-karlovac-photography.com/site/){:target="_blank"}  
+🌐 [Artist's Website](https://olga-karlovac-photography.com/site/){:target="_blank"}    
+🌐 [Google Images](https://www.google.com/search?q=olga+karlovac&sca_esv=727911a362dc4a92&sxsrf=ANbL-n6ZS_7GT0ENijSgTJu9qfuo0JTwDg%3A1767888054707&source=hp&ei=ttRfaZnZKM_XptQPpLKE4AY&iflsig=AFdpzrgAAAAAaV_ixnDeBQRlsOCtfMrSLTNoxo6CFbnp&udm=2&oq=olga+k&gs_lp=Egdnd3Mtd2l6IgZvbGdhIGsqAggAMg0QIxjwBRiABBgnGIoFMg4QLhiABBjHARjLARivATIIEC4YgAQYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBSPUQUABYvQlwAHgAkAEAmAGOAqABxAeqAQUwLjUuMbgBA8gBAPgBAZgCBqAC5AfCAgQQIxgnwgIKECMY8AUYJxjJAsICChAuGIAEGEMYigXCAgUQABiABMICBRAuGIAEwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgILEC4YgAQYxwEYrwGYAwCSBwUwLjUuMaAHo3CyBwUwLjUuMbgH5AfCBwcwLjMuMi4xyAcWgAgA&sclient=gws-wiz){:target="_blank"}  
 
 ---
 
