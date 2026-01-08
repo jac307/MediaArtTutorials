@@ -89,7 +89,12 @@ Use the PDF worksheet below to:
 
 During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
 
-Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity  
+Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity.     
+
+**Notes to keep in mind:**  
+- Set your aperture first. Start with ISO 100. If the camera selects a shutter speed that is too slow for a stable image, gradually increase the ISO (maximum ISO 800).
+- In Aperture Priority (Av) mode, the camera automatically sets the shutter speed based on your aperture choice and the lighting conditions.
+- A wider aperture (lower f-number) results in a faster shutter speed, while darker lighting conditions result in a slower shutter speed.  
 
 ### Photographing Requirements
 
