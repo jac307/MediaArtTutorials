@@ -48,11 +48,12 @@ For this project, you will work with **three cameras**, each with a different le
 - Start at **f/4 – f/5.6**
 - Wide enough to separate the subject from the background
 - Not so shallow that focus becomes unstable during interviews
+- **Recommendation for Chiaroscuro**: narrow aperture (f/8-f/11)
 
 ### ISO
 - Start at **ISO 100**
 - Increase only if the image is too dark **after positioning the lights**
-- Maximum: **ISO 800**
+- **Recommendation for Chiaroscuro**: low ISO (100-200) 
 
 📌 *Use lighting to control exposure before increasing ISO.*
 
@@ -117,42 +118,47 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 
 ---
 
-## 1. Camera Placement
+## 3. Camera Placement
 
-- **Camera A:** eye-level, directly facing the subject
-- **Camera B:** positioned 30–45° to the side
-- **Camera C:** flexible, focused on details
-
-📌 *All cameras should remain on tripods.*
+- **Camera A:** eye-level, directly facing the subject (on tripoid)
+- **Camera B:** positioned 30–45° to the side (on tripoid)
+- **Camera C:** flexible, focused on details (handheld)
 
 ---
 
-## 7. Lighting Setup (Three-Point Logic)
+## 4. Lighting Setup (Three-Point Logic)
 
-This assignment uses a **simplified three-point lighting approach**.
+<img src="imgs/28.png" style="width: 70%; height: auto;">
 
-### Key Light
-- LED light with **softbox**
-- Positioned ~45° from the subject
-- Primary source shaping the face and form
+This assignment uses a **simplified three-point lighting approach for chiaroscuro**.  
+
+### Key Light 
+- **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
+- **Modifier:** Use a softbox to control spill and create focused light.
+  > A softbox is a light modifier in photography and videography that surrounds a light source with reflective interior walls and a translucent front diffuser. 
+- **Power:** Set as the primary exposure source; adjust for desired highlight intensity.
 
 ### Fill Light
-- Reflector or dim LED
-- Used sparingly to control contrast
-- Do not eliminate shadows completely
+- **Position:** Can be used as a very low-power fill opposite the key for minimal detail, or positioned to light a specific background element.
+- **Power:** Very low; its purpose is to add dimension without flattening the high-contrast look. 
 
-### Back Light
-- Bare LED or lightly diffused
-- Placed behind or to the side of the subject
-- Creates separation from the background
+### Back (Rim) Light
+- **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background.
+- **Modifier:** Can be a bare light or small softbox; keep power low.
 
-📌 *Chiaroscuro is achieved by controlling fill, not by adding more lights.*
+#### Setup Fiilex P360 LED Light Kit
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDljJxLn7pY?si=3-i8h0O1lKp7e-am" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>  
+
+#### Lighting 101: Intro to Light Placement
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
 
 ---
 
-<h3 style="color: darkred;"> Audio Setup </h3>
-
-### Recording Method
+### 5. Audio Recording Method
 - **Record audio directly into the camera**
 
 ### Microphone
