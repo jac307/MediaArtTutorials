@@ -44,7 +44,7 @@ ________________________________________________________________________
 
 ### Canon 50mm 1:1.4 USM
 
-<img src="TechWalks/imgs/20.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
@@ -60,7 +60,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 ### Canon 50mm 1:1.2L USM
 
-<img src="TechWalks/imgs/21.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/21.jpg" style="width: 50%; height: auto;">
 
 A professional L-series prime lens with an extremely wide aperture, producing very shallow depth of field and strong subject isolation in low-light conditions. 
 
@@ -76,7 +76,7 @@ A professional L-series prime lens with an extremely wide aperture, producing ve
 
 ### Canon 85mm 1:1.8 USM
 
-<img src="TechWalks/imgs/22.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/22.jpg" style="width: 50%; height: auto;">
 
 A short telephoto prime lens that compresses space and isolates subjects, well suited for portraits and shooting with distance while maintaining soft background blur.
 
