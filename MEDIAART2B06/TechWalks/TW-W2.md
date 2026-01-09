@@ -23,24 +23,29 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ### Camera Configuration
 
-For this project, you will work with **three cameras**, each with a specific role:
+For this project, you will work with **three cameras**, each with a specific role:  
 
-- **Camera 1 — Main Camera (Tripod)**  
-  Primary interview shot at eye level. This camera provides the main visual anchor for the sequence.  
+- **Camera A — Frontal View / Eye Level (Tripod)**  
+  - Primary interview shot at eye level. This camera provides the main visual anchor for the sequence.
+  - Lens: **Default kit lens. 
 
-- **Camera 2 — Side View (Tripod)**  
-  Secondary angle positioned at approximately 30–45° from the subject to emphasize depth, light, and chiaroscuro.  
+- **Camera B — Side View (Tripod)**  
+  - Secondary angle positioned at approximately 30–45° from the subject to emphasize depth, light, and chiaroscuro.
+  - Lens: **50mm** or **85mm**
 
-- **Camera 3 — Detail Camera (Handheld)**  
-  Used for close-up details such as hands, gestures, or partial features. This camera allows for subtle movement and visual variation.  
+- **Camera C — Detail Camera (Handheld)**  
+  - Used for close-up details such as hands, gestures, or partial features. This camera allows for subtle movement and visual variation.
+  - Lens: **50mm**
 
-Check the **following settings for all three cameras**.  
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 --- 
 
 ### 1. Camera Mode
-- Set the camera to **Video Mode**
-- Use **Aperture Priority (Av)**
+- Set all cameras to **Video Mode**
+- Use **Aperture Priority (Av)** for all.
 
 <img src="imgs/26.jpg" style="width: 50%; height: auto;">  
 
@@ -97,35 +102,6 @@ For this week, set your aspect ratio to **16:9** and record at **1920 × 1080 (F
 
 <img src="imgs/27.png" style="width: 70%; height: auto;">  
 
----
-
-## 4. Lens Strategy & Camera Roles
-
-For this assignment, you will work with **three cameras**, each with a specific role.
-
-### Camera A — Main Interview (Eye Level)
-- Lens: **Default kit lens (18–55mm)** set around **35–50mm**
-- Purpose: primary framing, stability, and clarity
-
-### Camera B — Side Angle / Profile
-- Lens: **50mm** or **85mm**
-- Purpose: sculptural lighting, depth, and chiaroscuro emphasis
-
-### Camera C — Details / Cutaways
-- Lens: **50mm**
-- Purpose: hands, gestures, partial face, or symbolic details
-
-📌 *Use prime lenses intentionally — not on every camera.*
-
----
-
-## 5. Camera Placement
-
-- **Camera A:** eye-level, directly facing the subject
-- **Camera B:** positioned 30–45° to the side
-- **Camera C:** flexible, focused on details
-
-📌 *All cameras should remain on tripods.*
 
 ---
 
@@ -142,6 +118,16 @@ For this assignment, you will work with **three cameras**, each with a specific 
 - Allow the background to fall into shadow
 
 📌 *The background should remain darker than the subject to support chiaroscuro.*
+
+---
+
+## 5. Camera Placement
+
+- **Camera A:** eye-level, directly facing the subject
+- **Camera B:** positioned 30–45° to the side
+- **Camera C:** flexible, focused on details
+
+📌 *All cameras should remain on tripods.*
 
 ---
 
