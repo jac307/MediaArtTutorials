@@ -42,7 +42,7 @@ Check the **following settings for all three cameras**.
 - Set the camera to **Video Mode**
 - Use **Aperture Priority (Av)**
 
-<img src="imgs/26.jpg" style="width: 70%; height: auto;">  
+<img src="imgs/26.jpg" style="width: 50%; height: auto;">  
 
 ### Aperture (f-stop)
 
@@ -95,7 +95,7 @@ For this week, set your aspect ratio to **16:9** and record at **1920 × 1080 (F
 - Select **Display ratio**
 - Choose **16:9**
 
-<img src="imgs/27.png" style="width: 60%; height: auto;">  
+<img src="imgs/27.png" style="width: 70%; height: auto;">  
 
 ---
 
