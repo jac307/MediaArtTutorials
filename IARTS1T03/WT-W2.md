@@ -11,9 +11,9 @@
 ## Objective
 
 Build on your **Week 1 spatial scene** by introducing the **camera as a spatial body**.  
-This activity focuses on how meaning is produced through **camera position, framing, composition, distance & layers, and blocking for camera**.
+This activity focuses on how meaning is produced through **camera position, framing, composition, and blocking for camera**.
 
-You will move from **space → camera intention → multiple points of view**, learning how cinematic space is **constructed**, not simply recorded.
+You will move from **space → camera intention → multiple points of view**, learning how cinematic space is **constructed**.
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -44,8 +44,7 @@ Before drawing camera positions or opening Blender, write **3–4 sentences** de
 You may **reuse or revise** your Week 1 artistic intention, but now focus on what it means to experience the space **through the eyes of the camera**.
 
 <div style="color: gray; font-style: italic; margin-top: 0.75em;">
-This week, the camera is not neutral.  
-It is an active spatial body that determines how the space is seen, framed, and experienced.
+This week, the camera is an active spatial body that determines how the space is seen, framed, and experienced.
 </div>
 
 ### Guiding Questions
@@ -57,7 +56,7 @@ It is an active spatial body that determines how the space is seen, framed, and 
 
 ---
 
-## <span style="color: darkred;">[25 min] 2D Camera + Composition Map (Design First)</span>
+<span style="color: darkred;">[25 min] 2D Camera + Composition Map (Design First)</span>
 
 Using your **camera intention** as a guide, create a **2D camera planning map**.
 
@@ -78,6 +77,12 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 > ⚠️ This step must be completed **before** working in Blender.
 
 ➡️ **Save this image** for submission (JPEG or PNG).
+
+#### Revelant vocabulary
+
+<img src="imgs/03.png" style="width: 80%; height: auto;">  
+<img src="imgs/04.png" style="width: 80%; height: auto;">  
+<img src="imgs/05.png" style="width: 80%; height: auto;">  
 
 ---
 
