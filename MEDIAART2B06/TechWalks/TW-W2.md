@@ -113,7 +113,7 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 <img src="imgs/29.png" style="width: 50%; height: auto;">
 
 - **Camera A:** eye-level, directly facing the subject (on tripoid)
-- **Camera B:** positioned 30–45° to the side (on tripoid)
+- **Camera B:** positioned 30–45° to  side (on tripoid)
 - **Camera C:** flexible, focused on details (handheld)
 
 ---
