@@ -66,14 +66,15 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 - Based on your **Week 1 floor plan** (you may update it)
 - Include **THREE (3) cameras**, each with a different:
   - **Position / Point of View**
-  - **Framing** (Wide / Medium / Close)
-  - **Composition strategy** (Rule of Thirds, Leading Lines, Centered/Symmetry)
+  - **Framing**. You should have one Wide Shot, one Medium Shot, and one Close-Up Shot.
+  - **Composition strategy** (Use any: Rule of Thirds, Leading Lines, Centered/Symmetry)
 
 ### Your map should clearly show:
 - Camera positions
 - Direction the camera is facing (indicate with an arrow)
 - Approximate framing area (what is meant to be captured)
 - A small sketch or visual reference for the *intended look* of each camera
+- ✅ **Note:** You are planning **three shots**, but you will use **one camera object** in Blender.  
 
 > ⚠️ This step must be completed **before** working in Blender.
 
@@ -100,28 +101,35 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 ---
 
-### Add Cameras (New for Week 2)
+### Add ONE Camera (New for Week 2)
 
-Add **three cameras** to your scene based on your 2D camera map.
+You will work with **one camera** in Blender and create **three different renders** by repositioning it.
 
-#### Camera Constraints
-- ❌ No camera animation or movement paths  
-- Focus only on:
-  - Camera position (Point of View)
-  - Framing (Wide / Medium / Close)
-  - Composition (Thirds / Lines / Symmetry)
+### Workflow (do in order)
+1. Place the camera for **Shot 1 (Wide)** → **Render Image 1**
+2. Move the **same camera** for **Shot 2 (Medium)** → **Render Image 2**
+3. Move the **same camera** for **Shot 3 (Close-Up)** → **Render Image 3**
 
-Each camera should produce a **different spatial reading** of the same scene.
+> **Important:** Keep your scene the same across all three renders.  
+> Only the **camera position** should change.
 
-### Learn the Basics: Cameras, Views, and Rendering
-
-Follow these tutorials to learn how to:
-- Add cameras
-- Switch the active camera
-- Render still images
+### Camera Constraints
+- ❌ No changes in the type of camera  
+- ❌ No animation
 - ❌ Ignore lighting, materials, animation, and other more advance shapes for now
+- ✅ Focus only on:
+  - camera position (point of view)
+  - framing (wide/medium/close)
+  - composition strategy (thirds/lines/symmetry)
+  - **optional**: focus and depth of field
 
-#### How to Use the Camera in Blender
+#### Adding a Camera (Try this intro video first)
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sDZ0zRVn1M?si=qjZzCSUiO8lvhEI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+#### How to Use the Camera in Blender (Full)
 
 <ul>
   <li style="color: gray;">00:00 — Intro (skip)</li>
@@ -150,6 +158,12 @@ Follow these tutorials to learn how to:
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=ijTWxa0xFGUKBxix&amp;start=46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
+
+#### How To Render Image In Blender - Full Guide
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edEh6lchqE0?si=9PLtMjXB_GItiqWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
