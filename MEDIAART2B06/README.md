@@ -2,8 +2,6 @@
 
 Through weekly guided workshops and production exercises, students **learn the fundamentals of camera operation, lighting, sound recording, editing, and motion graphics** using industry-standard tools such as Adobe Photoshop, Premiere Pro, After Effects, and Reaper.  
 
-Emphasis is placed on **developing visual storytelling skills**, **understanding how time, motion, and sound shape meaning**, and **building confidence with production workflows** from concept to final export.
-
 > Linked instructions are accessible only while the course is in session.
 
 ---
@@ -14,7 +12,15 @@ Emphasis is placed on **developing visual storytelling skills**, **understanding
   > Login into these computer’s by using your McMaster email information.
   > Computer here have the Adobe Suite. Access by using a personal Adobe account.
 
-+ **Video and Audio equipment**. You can book equipment here: [https://hmcservicecentre.humanities.mcmaster.ca/](https://hmcservicecentre.humanities.mcmaster.ca/){:target="_blank"}
+---
+
+## Equipment
+
++ [DSLR Cameras](Cameras.md)  
++ [Lighting](Lighting.md)  
++ [Audio](Audio.md)  
+
+**Video and Audio equipment**. You can book equipment here: [https://hmcservicecentre.humanities.mcmaster.ca/](https://hmcservicecentre.humanities.mcmaster.ca/){:target="_blank"}
   > **Important**: to access this link, you will need to log in using your McMaster user information using the University’s internet (if not, you will require the McMaster VPN).
 
 ---
@@ -36,11 +42,6 @@ In teams, lead one class discussion on the weekly readings and topics to collabo
 Series of hands-on production exercises designed to **build core skills** in camera work, lighting, sound, and editing. 
 
 #### Index  
-
-+ Equipment:
-  + [DSLR Cameras](Cameras.md)
-  + [Lighting](Lighting.md)
-  + [Audio](Audio.md)
 
 + [Week 1](WeekIns/WI-W1.md) — Photo Film (Individual)
   + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography
