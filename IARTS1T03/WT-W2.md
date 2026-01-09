@@ -205,7 +205,7 @@ You will work with **one camera** in Blender and create **three different render
 | Component         | File Name                            |
 |------------------|---------------------------------------|
 | Project document | `Lastname-Firstname-W2-Tutorial.pdf`  |
-| Blender file     | `Lastname-Firstname-3Dscene-W2.blend` |
+| Blender file     | `Lastname-Firstname-W2-3Dscene.blend` |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
