@@ -8,7 +8,7 @@
 
 ### ZOOM H4N Handheld
 
-<img src="TechWalks/imgs/17.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
 
 Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording
 
@@ -26,7 +26,7 @@ Ultra-compact, dual-channel wireless microphone system known for its versatility
 
 ### Audio-Technica Wireless Lavalier (AT899)
 
-<img src="TechWalks/imgs/19.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/19.jpg" style="width: 50%; height: auto;">
 
 Wired, subminiature omnidirectional condenser lavalier microphone. The standard AT899 model includes a power module with an XLR output and can be powered by a 1.5V AA battery or phantom power.
 
