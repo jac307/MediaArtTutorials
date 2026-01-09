@@ -16,7 +16,7 @@ Through weekly guided workshops and production exercises, students **learn the f
 
 ## Equipment
 
-+ [DSLR Cameras](Cameras.md)  
++ [DSLR Cameras + Lenses](Cameras.md)  
 + [Lighting](Lighting.md)  
 + [Audio](Audio.md)  
 
