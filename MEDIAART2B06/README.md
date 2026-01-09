@@ -37,7 +37,10 @@ Series of hands-on production exercises designed to **build core skills** in cam
 
 #### Index  
 
-+ General information about [available DSLR Cameras](Cameras.md)
++ Equipment:
+  + [DSLR Cameras](Cameras.md)
+  + [Lighting](Lighting.md)
+  + [Audio](Audio.md)
 
 + [Week 1](WeekIns/WI-W1.md) — Photo Film (Individual)
   + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography
