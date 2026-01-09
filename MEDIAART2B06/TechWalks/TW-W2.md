@@ -19,13 +19,30 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ---
 
-<h3 style="color: darkred;"> Camera Mode & Exposure Strategy (Video) </h3>  
+<h3 style="color: darkred;"> Camera Mode & Exposure Strategy (Video) </h3> 
+
+### Camera Configuration
+
+For this project, you will work with **three cameras**, each with a specific role:
+
+- **Camera 1 — Main Camera (Tripod)**  
+  Primary interview shot at eye level. This camera provides the main visual anchor for the sequence.  
+
+- **Camera 2 — Side View (Tripod)**  
+  Secondary angle positioned at approximately 30–45° from the subject to emphasize depth, light, and chiaroscuro.  
+
+- **Camera 3 — Detail Camera (Handheld)**  
+  Used for close-up details such as hands, gestures, or partial features. This camera allows for subtle movement and visual variation.  
+
+Check the **following settings for all three cameras**.  
+
+--- 
 
 ### 1. Camera Mode
 - Set the camera to **Video Mode**
 - Use **Aperture Priority (Av)**
 
-<img src="imgs/04.jpg" style="width: 50%; height: auto;">
+<img src="imgs/26.jpg" style="width: 50%; height: auto;">  
 
 ### Aperture (f-stop)
 
@@ -57,9 +74,7 @@ White Balance is the **appearance of Color** determined by the **pigments presen
 
 In Week 1, you used **Auto White Balance (AWB)**. In this mode, the camera automatically analyzes the scene and adjusts color temperature to neutralize what it assumes should be white.   
 
-For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones. Follow this tutorial to:    
-- Set **White Balance manually**
-- Match the color temperature of the LED lights (typically **5600K**)
+For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones in all three cameras. Follow this tutorial to set **White Balance manually**.
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -69,10 +84,18 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 
 ## 3. Aspect Ratio & Resolution
 
-- Record at **1920 × 1080 (Full HD)**
-- Aspect Ratio: **16:9**
+An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.  
 
-📌 *All cameras must use the same resolution and aspect ratio.*
+For this week, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full HD)**.
+> *All three cameras must use the same resolution and aspect ratio.*  
+
+#### How to set the aspect ratio:
+- Go to **Menu**
+- Navigate to the **fourth menu tab**
+- Select **Display ratio**
+- Choose **16:9**
+
+<img src="imgs/27.png" style="width: 50%; height: auto;">  
 
 ---
 
