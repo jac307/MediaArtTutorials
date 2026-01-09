@@ -40,19 +40,13 @@ For this project, you will work with **three cameras**, each with a different le
 
 ### Aperture (f-stop)
 
-📌 *Set your aperture first.*
-
-- Start at **f/4 – f/5.6**
-- Wide enough to separate the subject from the background
-- Not so shallow that focus becomes unstable during interviews
+- Set your aperture first
 - **Recommendation for Chiaroscuro**: narrow aperture (f/8-f/11)
 
 ### ISO
-- Start at **ISO 100**
+- **Recommendation for Chiaroscuro**: low ISO (100-200)
 - Increase only if the image is too dark **after positioning the lights**
-- **Recommendation for Chiaroscuro**: low ISO (100-200) 
-
-📌 *Use lighting to control exposure before increasing ISO.*
+- Use lighting to control exposure before increasing ISO
 
 ### Shutter Speed
 
@@ -82,7 +76,7 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.  
 
 For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full HD)**.
-> *All three cameras must use the same resolution and aspect ratio.*  
+> *All three cameras must use the same aspect ratio.*  
 
 #### How to set the aspect ratio:
 - Go to **Menu**
@@ -90,14 +84,15 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 - Select **Display ratio**
 - Choose **16:9**
 
-<img src="imgs/27.png" style="width: 70%; height: auto;">  
-
+<img src="imgs/27.png" style="width: 70%; height: auto;">   
 
 ---
 
 <h3 style="color: darkred;"> Space Setup </h3>  
 
-## 1. Backdrop & Space Setup
+## 1. Backdrop / Background Setup
+
+📌 *The background should remain darker than the subject to support chiaroscuro.*
 
 ### Backdrop (If Available)
 - Place backdrop **1–1.5 meters behind the subject**
@@ -111,11 +106,11 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 - Choose an **uncluttered background**
 - Allow the background to fall into shadow
 
-📌 *The background should remain darker than the subject to support chiaroscuro.*
-
 ---
 
 ## 3. Camera Placement
+
+<img src="imgs/29.png" style="width: 50%; height: auto;">
 
 - **Camera A:** eye-level, directly facing the subject (on tripoid)
 - **Camera B:** positioned 30–45° to the side (on tripoid)
