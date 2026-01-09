@@ -70,7 +70,7 @@ A professional L-series prime lens with an extremely wide aperture, producing ve
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/24.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left & right) Shoot the night by chilledvondub, (centre) The fastest of glass by anciano by chilledvondub
+    Credits: (left & centre) Shoot the night by chilledvondub, (right) The fastest of glass by anciano by chilledvondub
   </figcaption>
 </figure>
 
