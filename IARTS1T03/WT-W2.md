@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W2 — Camera, Framing & Cinematic Space</span>
 
 <figure style="width: 80%; margin: auto;">
-  <img src="imgs/01.png" style="width: 100%; height: auto;">
+  <img src="imgs/06.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -58,7 +58,8 @@ This week, the camera is an active spatial body that determines how the space is
 
 <span style="color: darkred;">[25 min] 2D Camera + Composition Map (Design First)</span>
 
-Using your **camera intention** as a guide, create a **2D camera planning map**.
+Using your **camera intention** as a guide, create a **2D camera planning map**. **See example above (below the main title)**  
+> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements above.
 
 ### Requirements
 - Hand-drawn (preferred) or digital
@@ -80,9 +81,9 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 #### Revelant vocabulary
 
-<img src="imgs/03.png" style="width: 80%; height: auto;">  
-<img src="imgs/04.png" style="width: 80%; height: auto;">  
-<img src="imgs/05.png" style="width: 80%; height: auto;">  
+<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
+<img src="imgs/04.jpeg" style="width: 80%; height: auto;">  
+<img src="imgs/05.jpeg" style="width: 80%; height: auto;">  
 
 ---
 
