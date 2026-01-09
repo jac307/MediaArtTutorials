@@ -40,7 +40,7 @@ ________________________________________________________________________
 
 <h1 style="color: darkred;">Available Lens</h1>
 
-**Note**: This page highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
+**Note**: This section highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
 
 ### Canon 50mm 1:1.4 USM
 
