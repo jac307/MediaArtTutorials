@@ -80,7 +80,7 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 ➡️ **Save this image** for submission (JPEG or PNG).
 
-### Revelant vocabulary
+### Relevant vocabulary
 
 <img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/04.jpeg" style="width: 80%; height: auto;">  
@@ -129,6 +129,12 @@ You will work with **one camera** in Blender and create **three different render
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sDZ0zRVn1M?si=qjZzCSUiO8lvhEI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
+#### How To Render Image In Blender - Full Guide
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edEh6lchqE0?si=9PLtMjXB_GItiqWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 #### How to Use the Camera in Blender (Full)
 
 <ul>
@@ -159,12 +165,6 @@ You will work with **one camera** in Blender and create **three different render
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=ijTWxa0xFGUKBxix&amp;start=46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
-#### How To Render Image In Blender - Full Guide
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/edEh6lchqE0?si=9PLtMjXB_GItiqWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
@@ -178,12 +178,12 @@ You will work with **one camera** in Blender and create **three different render
    > 3–4 sentences describing how the camera relates to and interprets the space.
 
 3. **2D Camera + Composition Map**  
-   > Include your labeled plan showing all three cameras and intended framing/composition.
+   > Include your labeled plan showing all three cameras and intended framing/composition.  
    > Note: Your 2D Floor Plan must take up at least half a page.
 
 4. **Rendered Images (3 total)**  
    > One rendered image per camera.  
-   > These must be **renders**, not screenshots.
+   > These must be **renders**, not screenshots.  
    > Note: Each of your screenshots must take up at least half a page.
 
 ➡️ **Export as PDF**  
@@ -192,7 +192,7 @@ You will work with **one camera** in Blender and create **three different render
 ### Save Blender File
 
 ➡️ **Save as .blend**  
-📄 **Filename:** `Lastname-Firstname-3Dscene-W2.blend`
+📄 **Filename:** `Lastname-Firstname-W2-3Dscene.blend`
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C66aXQ9WntU?si=xYdVq7BvWDzfYRob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
