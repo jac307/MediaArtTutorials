@@ -2,39 +2,35 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Available DSLR Cameras</h1>
+<h1 style="color: darkred;">Available Audio Equipment</h1>
 
-The following DSLR cameras are available for Media Art students to rent.  
-All models offer similar controls and image quality and are well suited for the **Photo Film (Black & White)** assignment.
+**Note**: This page highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
 
-### Canon EOS Rebel T4i / EOS 650D
+### ZOOM H4N Handheld
 
-<img src="TechWalks/imgs/01.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/17.jpg" style="width: 60%; height: auto;">
 
-A reliable entry-level DSLR with full manual controls, ideal for learning exposure, focus, and composition fundamentals.
+Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording
 
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300007695/01/eosrt4i-eos650d-im-c-en.pdf){:target="_blank"}
-- ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=ENKDeSRfeFk){:target="_blank"}
+- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
+- ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
 
-### Canon EOS Rebel T5i / EOS 700D
+### RODE Microphone System Wireless Go II
 
-<img src="TechWalks/imgs/02.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/18.jpg" style="width: 60%; height: auto;">
 
-An updated version of the T4i with improved autofocus and handling, suitable for controlled still photography and tripod-based shooting.
+Ultra-compact, dual-channel wireless microphone system known for its versatility, ease of use, and on-board recording capabilities.
 
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300010905/02/eos-rebelt5i-700d-im2-en.pdf){:target="_blank"}
-- ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=eXglxC0IN7Q){:target="_blank"}
+- 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
+- ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
 
-### Canon EOS Rebel T7i / EOS 800D
+### Audio-Technica Wireless Lavalier (AT899)
 
-<img src="TechWalks/imgs/03.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/19.jpg" style="width: 60%; height: auto;">
 
-A more recent DSLR model with enhanced autofocus and low-light performance, while maintaining the same core controls and workflow.
+Wired, subminiature omnidirectional condenser lavalier microphone. The standard AT899 model includes a power module with an XLR output and can be powered by a 1.5V AA battery or phantom power.
 
-- 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/1/0300026121/01/eos-rebelt7i-800d-bim-3l.pdf){:target="_blank"}
-- ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=4QTmDk_ZSmc){:target="_blank"}
-
-📌 *Regardless of the camera model you are assigned, the core controls and concepts demonstrated in class apply across all three.* 
+- 📘 [User Manual](https://ats.emory.edu/_includes/documents/studios/manuals/Audio%20Technica%20at899_ss%20Manual.pdf){:target="_blank"}
 
 ________________________________________________________________________
 
