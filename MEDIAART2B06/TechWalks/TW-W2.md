@@ -12,16 +12,13 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 📌 *For Week 2, the emphasis is on lighting contrast, interview framing, and controlled environments.* 
 
-### Equipment
-+ [DSLR Cameras + Lenses](../Cameras.md)  
-+ [Lighting](../Lighting.md)  
-+ [Audio](../Audio.md) 
-
 ---
 
 <h3 style="color: darkred;"> Camera Mode & Exposure Strategy (Video) </h3> 
 
 ### Camera Lenses
+
+[Available DSLR Cameras & Lenses](../Cameras.md) 
 
 For this project, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
 
@@ -130,7 +127,7 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 
 <img src="imgs/28.png" style="width: 70%; height: auto;">
 
-This assignment uses a **simplified three-point lighting approach for chiaroscuro**.  
+This assignment uses a **simplified three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md).
 
 ### Key Light 
 - **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
@@ -159,14 +156,8 @@ This assignment uses a **simplified three-point lighting approach for chiaroscur
 ---
 
 ### 5. Audio Recording Method
-- **Record audio directly into the camera**
 
-### Microphone
-- Use a **shotgun microphone**
-- Connect directly to the camera’s audio input
-- Position just outside the frame, aimed at the subject’s mouth
-
-📌 *External audio recorders (e.g., Tascam) will be introduced later in the course.*
+You will record the audio directly into the main camera (A) using specific lapel microphones. Check the [Available Microphones](../Audio.md) 
 
 
 ________________________________________________________________________
