@@ -61,7 +61,8 @@ This text should **guide your design decisions** in the 2D floor plan and 3D sce
 
 <h3 style="color: darkred;">[20 min] 2D Floor Plan (Design First)</h3>
 
-Using your artistic intention as a guide, create a **2D floor plan** for your scene.
+Using your artistic intention as a guide, create a **2D floor plan** for your scene.  
+> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements below.  
 
 ### Requirements
 - Hand-drawn (preferred) or digital
