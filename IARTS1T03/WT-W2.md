@@ -37,7 +37,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-## <span style="color: darkred;">[15 min] Camera Intention — Start Here</span>
+<h3 style="color: darkred;">[15 min] Camera Intention — Start Here</h3>
 
 Before drawing camera positions or opening Blender, write **3–4 sentences** describing the **intention of the camera** in relation to your space.
 
@@ -56,7 +56,7 @@ This week, the camera is an active spatial body that determines how the space is
 
 ---
 
-<span style="color: darkred;">[25 min] 2D Camera + Composition Map (Design First)</span>
+<h3 style="color: darkred;">[20 min] 2D Floor Map + Composition Map (Design First)</h3>
 
 Using your **camera intention** as a guide, create a **2D camera planning map**. **See example above (below the main title)**  
 > **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements above.
@@ -79,7 +79,7 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 ➡️ **Save this image** for submission (JPEG or PNG).
 
-#### Revelant vocabulary
+### Revelant vocabulary
 
 <img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
 <img src="imgs/04.jpeg" style="width: 80%; height: auto;">  
@@ -87,7 +87,7 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 ---
 
-## <span style="color: darkred;">[60 min] 3D Scene + Cameras in Blender</span>
+<h3 style="color: darkred;">[60 min] 3D Scene + Cameras in Blender</h3>
 
 ### Update or revise your space
 - You may **adjust, refine, or rebuild** your Week 1 scene if needed.
