@@ -21,21 +21,13 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 <h3 style="color: darkred;"> Camera Mode & Exposure Strategy (Video) </h3> 
 
-### Camera Configuration
+### Camera Lenses
 
-For this project, you will work with **three cameras**, each with a specific role:  
+For this project, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
 
-- **Camera A — Frontal View / Eye Level (Tripod)**  
-  - Primary interview shot at eye level. This camera provides the main visual anchor for the sequence.
-  - Lens: **Default kit lens. 
-
-- **Camera B — Side View (Tripod)**  
-  - Secondary angle positioned at approximately 30–45° from the subject to emphasize depth, light, and chiaroscuro.
-  - Lens: **50mm** or **85mm**
-
-- **Camera C — Detail Camera (Handheld)**  
-  - Used for close-up details such as hands, gestures, or partial features. This camera allows for subtle movement and visual variation.
-  - Lens: **50mm**
+- **Camera A:** Default kit lens (static - on tripoid)
+- **Camera B:** *50mm* or *85mm* (static - on tripoid)
+- **Camera C:** *50mm* (moving - handheld)
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -44,8 +36,8 @@ For this project, you will work with **three cameras**, each with a specific rol
 --- 
 
 ### 1. Camera Mode
-- Set all cameras to **Video Mode**
-- Use **Aperture Priority (Av)** for all.
+- Camera on **Video Mode**
+- Use **Aperture Priority (Av)**.
 
 <img src="imgs/26.jpg" style="width: 50%; height: auto;">  
 
@@ -91,7 +83,7 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 
 An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.  
 
-For this week, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full HD)**.
+For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full HD)**.
 > *All three cameras must use the same resolution and aspect ratio.*  
 
 #### How to set the aspect ratio:
@@ -105,23 +97,27 @@ For this week, set your aspect ratio to **16:9** and record at **1920 × 1080 (F
 
 ---
 
-<h3 style="color: darkred;"> Space and Lighting Setup </h3>  
+<h3 style="color: darkred;"> Space Setup </h3>  
 
-## 6. Backdrop & Space Setup
+## 1. Backdrop & Space Setup
 
 ### Backdrop (If Available)
 - Place backdrop **1–1.5 meters behind the subject**
 - Prevent light spill onto the background
 
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
 ### Without a Backdrop
-- Choose a **dark, uncluttered background**
+- Choose an **uncluttered background**
 - Allow the background to fall into shadow
 
 📌 *The background should remain darker than the subject to support chiaroscuro.*
 
 ---
 
-## 5. Camera Placement
+## 1. Camera Placement
 
 - **Camera A:** eye-level, directly facing the subject
 - **Camera B:** positioned 30–45° to the side
@@ -173,3 +169,17 @@ Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
 AI tools (Microsoft CoPilot and ChatGPT) is be used for **editing and clarity only**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+
+
+
+- **Camera A — Frontal View / Eye Level (Tripod)**  
+  - Primary interview shot at eye level. This camera provides the main visual anchor for the sequence.
+  - Lens: **Default kit lens. 
+
+- **Camera B — Side View (Tripod)**  
+  - Secondary angle positioned at approximately 30–45° from the subject to emphasize depth, light, and chiaroscuro.
+  - Lens: **50mm** or **85mm**
+
+- **Camera C — Detail Camera (Handheld)**  
+  - Used for close-up details such as hands, gestures, or partial features. This camera allows for subtle movement and visual variation.
+  - Lens: **50mm**
