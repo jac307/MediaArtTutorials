@@ -59,7 +59,7 @@ This week, the camera is an active spatial body that determines how the space is
 <h3 style="color: darkred;">[20 min] 2D Floor Map + Composition Map (Design First)</h3>
 
 Using your **camera intention** as a guide, create a **2D camera planning map**. **See example above (below the main title)**  
-> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements above.
+> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements below.
 
 ### Requirements
 - Hand-drawn (preferred) or digital
@@ -70,8 +70,8 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
   - **Composition strategy** (Rule of Thirds, Leading Lines, Centered/Symmetry)
 
 ### Your map should clearly show:
-- Camera positions (top view)
-- Direction the camera is facing (arrow)
+- Camera positions
+- Direction the camera is facing (indicate with an arrow)
 - Approximate framing area (what is meant to be captured)
 - A small sketch or visual reference for the *intended look* of each camera
 
@@ -105,8 +105,6 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 Add **three cameras** to your scene based on your 2D camera map.
 
 #### Camera Constraints
-- Use **default lens settings only**
-- ❌ No lens changes  
 - ❌ No camera animation or movement paths  
 - Focus only on:
   - Camera position (Point of View)
@@ -115,30 +113,21 @@ Add **three cameras** to your scene based on your 2D camera map.
 
 Each camera should produce a **different spatial reading** of the same scene.
 
----
-
-### Learn the Basics: Cameras, Views, and Rendering
+#### Learn the Basics: Cameras, Views, and Rendering
 
 Follow these tutorials to learn how to:
 - Add cameras
 - Switch the active camera
 - Understand the difference between viewports (top/side/front vs camera view)
 - Render still images
+- ❌ Ignore lighting, materials, and animation for now
 
-<a href="https://jac307.github.io/MediaArtTutorials/Blender/2_Cameras_Basics.html" target="_blank" rel="noopener noreferrer">
-  👉 Blender — Camera Basics
-</a>
 
-<a href="https://jac307.github.io/MediaArtTutorials/Blender/3_Rendering_Still_Images.html" target="_blank" rel="noopener noreferrer">
-  👉 Blender — Rendering Still Images
-</a>
 
-> Focus only on **camera placement, framing, and rendering**.  
-> Ignore lighting, materials, and animation.
 
 ---
 
-## <span style="color: darkred;">Submission Documents</span>
+<h3 style="color: darkred;">Submission Documents</h3>
 
 ### Create a single document with the following sections:
 
@@ -150,24 +139,28 @@ Follow these tutorials to learn how to:
 
 3. **2D Camera + Composition Map**  
    > Include your labeled plan showing all three cameras and intended framing/composition.
+   > Note: Your 2D Floor Plan must take up at least half a page.
 
 4. **Rendered Images (3 total)**  
    > One rendered image per camera.  
    > These must be **renders**, not screenshots.
+   > Note: Each of your screenshots must take up at least half a page.
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W2-Tutorial.pdf`
-
----
 
 ### Save Blender File
 
 ➡️ **Save as .blend**  
 📄 **Filename:** `Lastname-Firstname-3Dscene-W2.blend`
 
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C66aXQ9WntU?si=xYdVq7BvWDzfYRob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
 ---
 
-## <span style="color: darkred;">📤 Submission</span>
+<h3 style="color: darkred;">📤 Submission</h3>
 
 | Component         | File Name                            |
 |------------------|---------------------------------------|
@@ -188,3 +181,5 @@ This Week 2 activity is **graded lightly** based on:
 - Basic technical application of cameras and rendering in Blender
 
 This is an exploratory exercise — **clarity and spatial thinking matter more than polish**.
+
+---
