@@ -159,6 +159,10 @@ This assignment uses a **simplified three-point lighting approach for chiaroscur
 
 You will record the audio directly into the main camera (A) using specific lapel microphones. Check the [Available Microphones](../Audio.md) 
 
+#### Basics of Audio for Video
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>    
 
 ________________________________________________________________________
 
