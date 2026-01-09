@@ -42,7 +42,7 @@ Check the **following settings for all three cameras**.
 - Set the camera to **Video Mode**
 - Use **Aperture Priority (Av)**
 
-<img src="imgs/26.jpg" style="width: 50%; height: auto;">  
+<img src="imgs/26.jpg" style="width: 70%; height: auto;">  
 
 ### Aperture (f-stop)
 
