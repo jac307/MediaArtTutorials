@@ -21,30 +21,19 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 <h3 style="color: darkred;"> Camera Mode & Exposure Strategy (Video) </h3>  
 
-### Camera Mode
+### 1. Camera Mode
 - Set the camera to **Video Mode**
 - Use **Aperture Priority (Av)**
 
-📌 *Aperture Priority allows you to control depth of field while the camera automatically adjusts shutter speed to maintain exposure.*
-
----
-
-### Shutter Speed (Important Note)
-- In **Aperture Priority Video Mode**, shutter speed is **automatically set by the camera**
-- Because interview subjects are mostly still, shutter speed is **not a primary concern** for this assignment
-
-📌 *Do not attempt to manually control shutter speed at this stage.*
-
----
+<img src="imgs/04.jpg" style="width: 50%; height: auto;">
 
 ### Aperture (f-stop)
-- Start at **f/4 – f/5.6**
-- Wide enough to separate the subject from the background
-- Not so shallow that focus becomes unstable during interviews
 
 📌 *Set your aperture first.*
 
----
+- Start at **f/4 – f/5.6**
+- Wide enough to separate the subject from the background
+- Not so shallow that focus becomes unstable during interviews
 
 ### ISO
 - Start at **ISO 100**
@@ -53,14 +42,28 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 📌 *Use lighting to control exposure before increasing ISO.*
 
+### Shutter Speed
+
++ In **Aperture Priority Video Mode**, shutter speed is **automatically set by the camera**
++ Shutter speed is determined by:
+  + Your selected aperture (f-stop). Lower f-number = faster shutter speed
+  + The available light in the scene. Low light conditions = slower shutter speed
+    
 ---
 
 ## 2. White Balance
 
+White Balance is the **appearance of Color** determined by the **pigments present in the subject**, and the **light illuminating it**.  
+
+In Week 1, you used **Auto White Balance (AWB)**. In this mode, the camera automatically analyzes the scene and adjusts color temperature to neutralize what it assumes should be white.   
+
+For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones. Follow this tutorial to:    
 - Set **White Balance manually**
 - Match the color temperature of the LED lights (typically **5600K**)
 
-📌 *Avoid Auto White Balance to ensure consistent skin tones across shots and cameras.*
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>    
 
 ---
 
