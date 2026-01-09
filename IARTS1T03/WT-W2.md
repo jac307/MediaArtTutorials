@@ -113,17 +113,43 @@ Add **three cameras** to your scene based on your 2D camera map.
 
 Each camera should produce a **different spatial reading** of the same scene.
 
-#### Learn the Basics: Cameras, Views, and Rendering
+### Learn the Basics: Cameras, Views, and Rendering
 
 Follow these tutorials to learn how to:
 - Add cameras
 - Switch the active camera
-- Understand the difference between viewports (top/side/front vs camera view)
 - Render still images
-- ❌ Ignore lighting, materials, and animation for now
+- ❌ Ignore lighting, materials, animation, and other more advance shapes for now
 
+#### How to Use the Camera in Blender
 
+<ul>
+  <li style="color: gray;">00:00 — Intro (skip)</li>
+  <li><strong>00:46 — Adding a Camera</strong></li>
+  <li><strong>01:14 — Using the Camera View</strong></li>
+  <li><strong>01:43 — Changing the Active Camera</strong></li>
+  <li style="color: gray;">02:34 — Speed Up Preview Times (skip)</li>
+  <li><strong>03:15 — Moving the Camera</strong></li>
+  <li><strong>04:08 — Trackball Rotation</strong></li>
+  <li><strong>05:39 — Move Around</strong></li>
+  <li><strong>07:11 — Fly Mode</strong></li>
+  <li><strong>08:03 — Camera View</strong></li>
+  <li style="color: gray;">09:17 — Resolution (skip)</li>
+  <li><strong>09:56 — Composition Guides</strong></li>
+  <li style="color: gray;">10:53 — Transparency (skip)</li>
+  <li><strong>11:29 — Lens Settings</strong></li>
+  <li style="color: gray;">12:13 — Orthographic Settings (skip)</li>
+  <li style="color: gray;">12:39 — Panorama Settings (skip)</li>
+  <li style="color: gray;">12:32 — Clip Start Clip End (skip)</li>
+  <li><strong>14:20 — Depth of Field</strong></li>
+  <li><strong>14:50 — Object Focus</strong></li>
+  <li style="color: gray;">15:22 — Eyedropper (skip)</li>
+  <li style="color: gray;">15:45 — FStop (skip)</li>
+</ul>
 
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=ijTWxa0xFGUKBxix&amp;start=46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
 
 ---
 
