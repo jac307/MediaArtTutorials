@@ -82,7 +82,7 @@ A short telephoto prime lens that compresses space and isolates subjects, well s
 
 - 📘 [Tech Specs](https://www.canon.ca/en/product?name=EF_85mm_f/1.8_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/3491-canon-ef-85mm-f-1-8-usm/photos){:target="_blank"}
-  > ⚠️ Content Warning: Some visual examples on this page include fine art nude photography, presented in an artistic and non-sexual context.
+  > ⚠️ Content Warning: Some visual examples on this page include Boudoir Photography and may include fine art nude photography, both presented in an artistic context.
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/25.jpg" style="width: 100%; height: auto;">
