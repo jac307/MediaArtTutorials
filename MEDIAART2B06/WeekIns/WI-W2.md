@@ -61,174 +61,123 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#brainstorming">1. Brainstorming & Sketching</a></li>
-  <li><a href="#shooting">2. Photographing</a></li>
-  <li><a href="#photo-editing">3. Post-Production: Edit Photographs in Photoshop</a></li>
+  <li><a href="#brainstorming">1.Group Organization & Setup</a></li>
+  <li><a href="#shooting">2. Interview Prompt - Idea Phase</a></li>
+  <li><a href="#photo-editing">3. Recording</a></li>
   <li><a href="#premiere">4. Post-Production: Assemble in Premiere Pro</a></li>
 </ul>
 
 ---
 
-<h3 id="brainstorming" style="color: darkred;">1. Brainstorming & Sketching [20 min]</h3>
+<h3 id="brainstorming" style="color: darkred;">1. Group Organization & Setup [1h]</h3>
 
-Use the PDF worksheet below to:
+Check: [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity.   
 
-- Develop a simple **observational micro-narrative or idea** that can be completed on campus
-  > An **Observational micro-narrative** does not require a traditional beginning–middle–end storyline. Instead, you may focus on mood, atmosphere, or the gradual revealing of a character’s presence or situation through the sequence of photographs.
-- Create **3–5 visual frame-moods** (rough sketches or notes)
-- Treat sketches as a **starting point**, not a fixed script. **Remain open to discovery during shooting**
+You will be assigned to a **station group (10 students)**.
 
-<a href="imgs/Photofilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
-📄 Download / View Brainstorming & Sketching Worksheet (PDF)
-</a>
+Each group is responsible for:
+- Setting up cameras, lights, and audio **together**
+- Following the **Week 2 Tech Walkthrough**  
+  👉 https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html
 
-### Submission
-
-- ➡️ **Export as PDF**
-- 📄 **Filename:** `Name-Lastname-Brainstorming.pdf`
+Station locations and group assignments will be:
+- Posted on **Avenue to Learn**
+- Printed and posted in the space
+- Shown on slides in class
 
 ---
 
-<h3 id="shooting" style="color: darkred;">2. Photographing [60 min]</h3>
+## Camera Configuration
 
-During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
+Each pair will record using **three cameras**:
 
-Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity.     
+### Camera A — Frontal View / Eye Level (Tripod)
+- Primary interview shot
+- Visual anchor for the sequence  
+- Lens: **Default kit lens**
 
-**Notes to keep in mind:**  
-- Set your aperture first. Start with ISO 100. If the camera selects a shutter speed that is too slow for a stable image, gradually increase the ISO (maximum ISO 800).
-- In Aperture Priority (Av) mode, the camera automatically sets the shutter speed based on your aperture choice and the lighting conditions.
-- A wider aperture (lower f-number) results in a faster shutter speed, while darker lighting conditions result in a slower shutter speed.  
+### Camera B — Side View (Tripod)
+- Positioned approximately **30–45°** from the subject
+- Emphasizes depth, facial structure, and chiaroscuro  
+- Lens: **50mm** or **85mm**
 
-### Photographing Requirements
+### Camera C — Detail Camera (Handheld)
+- Close-up details: hands, gestures, partial features
+- Allows subtle movement and variation  
+- Lens: **50mm**
 
-- **Camera Mode:** - Aperture Priority (Av)
-  > Photographs are captured **in colour** and converted to **black and white** in post-production 
-- All photographs must be completed **during class time**
-- Images must be **static stills** (no video or motion capture)
-- Shoot in landscape  
-- Use at least:
-  - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
-  - **1–2 compositional frameworks**
-  - Work with **depth of field**
-- **Tripod-based** recommended
-
-### Working in Pairs
-
-- Work with your partner for **support and feedback**
-- You may appear in your partner’s images
-- Bodies and faces are allowed
-- Faces of **strangers should be avoided**
-  > *Be mindful of shared spaces and respect others while photographing on campus.*
+📌 *All cameras must follow the settings outlined in the Week 2 Tech Walkthrough.*
 
 ---
 
-<img src="imgs/01.png" style="width: 80%; height: auto;">  
-<img src="imgs/02.png" style="width: 80%; height: auto;">  
-<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
+## Activity Breakdown (In Class)
+
+### 1. Setup Scene (Lights, Cameras, Audio)
+
+As a group:
+- Set up the **3-point lighting** arrangement
+- Establish clear **light–shadow contrast**
+- Position all three cameras
+- Connect and test **shotgun and lavalier microphones**
+
+📌 *Lighting and white balance must be finalized before recording.*
 
 ---
 
-### Create Your Photo Grid (For Submission)
+<h3 id="shooting" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
 
-After shooting (and before the next step), prepare a contact-sheet style PDF of your selected images.  
+Choose **one provided interview prompt**.
 
-- Select **your final sequence of images** (10–18 photographs)
-- **Paper size:** Letter (11 × 8.5 in)
-- **Orientation:** Landscape
-- Arrange images in a **2 × 4 grid per page**
-- Use: PowerPoint, Word, Canva, Pages, or Keynote
-- Export as **PDF**
-- 📄 **Filename:** `Name-Lastname-Photos.pdf`
+You are **not expected to write a script**.
 
-<img src="imgs/04.png" style="width: 50%; height: auto;">  
+Instead, focus on:
+- How light shapes the face and body
+- Camera placement and framing
+- Whether you want to adjust:
+  - key-to-fill ratio
+  - background darkness
+  - emphasis on one camera over others
+
+You may introduce **simple elements** available in the space (chair position, posture, background distance).
 
 ---  
 
-<h3 id="photo-editing" style="color: darkred;">3. Post-Production: Edit Photographs in Photoshop [60 min]</h3>
+<h3 id="photo-editing" style="color: darkred;">3. Recording [1h30m]</h3>
 
-**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Photoshop Fundamentals**   
+- Each pair records **two full takes**
+- Organize an order within your group of 10
+- When finished:
+  - Return all equipment to its original position
+  - Reset the station for the next pair
 
-Follow the tutorials to:  
-
-- Convert selected images to **black and white**
-- Adjust **exposure and contrast**
-- Maintain **visual consistency** across the sequence
-- Save edited images as **PNG** or **TIFF** for Premiere Pro sequencing
-
-🚫 Do **not** crop, retouch, apply filters, or add effects at this stage.
-
----
-
-### Group Image Analysis [4:00 PM – 4:25 PM]
-
-#### **Before 4:00 PM (Preparation Required)**
-
-- Select **one photograph** from your shoot  
-- Convert it to **black and white**  
-- Make **basic exposure and contrast adjustments**  
-- Upload it to your assigned group link:
-  - [Group 1 Link](https://www.dropbox.com/request/iGYWsf2A7x7LwSlwvLrk){:target="_blank"}
-  - [Group 2 Link](https://www.dropbox.com/request/Lx5xCt6vkPROg0hrrJsd){:target="_blank"}
-  - [Group 3 Link](https://www.dropbox.com/request/LtFQ086TcWNboxvisj4y){:target="_blank"}
-
-#### **Group Assignments & Location**
-
-- A printed list with groups and room assignments will be placed **at the Computer Lab entrance**
-- Each group will work with an **assigned TA or the instructor** in a designated classroom
-
-⏰ **You must arrive at your assigned room at least 5 minutes before 4:00 PM**  
-All students should be **ready to begin at 4:00 PM sharp**  
-
-#### **During the Analysis Session**
-
-- The TA/instructor will **randomly select images** from the uploaded submissions
-- Images will be discussed collectively, focusing on:
-  - **Framing**
-  - **Composition**
-  - **Shot size**
-  - **Visual balance and structure**
-- Students are expected to **actively contribute** to the discussion
-
-❗ **Attendance and engagement during this activity are part of the rubric.**
+📌 *Do not change lighting or camera settings between takes unless instructed.*
 
 ---
 
 <h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
-**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**   
+**Check: [W2 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**   
 
-Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
+Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.
 
-- **Resolution:** 1920 × 1080
-- Import still images and sequence images considering **rhythm and pacing**
-- **Total duration:** 30 seconds
+- Sequence footage from **all three cameras**
+- Use cuts to create visual rhythm
+- Pair clean audio with image
 - Add:
-  - Music or silence (see sound restrictions below)
-  - A **simple title and credits**
-- **Allowed transitions:**
-  - Jump cuts
-  - Fade in / fade out
-  - **Cross overs** (simple/subtle temporal overlap between still images)
+  - Title
+  - Credits
 
-🚫 **Do not** use colour correction, filters, visual effects, motion animation, or stylized transitions.
+#### Restrictions
+- 🚫 No colour correction in Premiere Pro  
+- 🚫 No visual effects or filters  
+- 🚫 No animated motion effects  
+- All lighting, white balance, and contrast decisions must happen **during recording**
 
-➡️ **Export as MP4**   
-Codec: **H.264**   
-📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`  
+📌 *Editing should support clarity and pacing, not stylization.*
 
-### Sound
-
-- **Music is required**, or **silence may be used if conceptually justified**
-- Instrumental or ambient sound only (no lyrics)
-- No sound effects
-- Sound should support **pacing and rhythm**, not dominate the sequence
-- **Only royalty-free audio. Options:**
-  - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
-  - <a href="https://freemusicarchive.org" target="_blank" rel="noopener noreferrer">Free Music Archive (FMA)</a> — Instrumental and experimental music (check licenses)
-  - <a href="https://pixabay.com/music/" target="_blank" rel="noopener noreferrer">Pixabay Music</a> — Royalty-free instrumental tracks
-  - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
-  - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
+Export video:
+- Format: 1920×1080, H.264, MP4
+- Filename: `Name-Lastname-ChiaroscuroInterview.mp4`
 
 ---
 
@@ -239,16 +188,16 @@ Create a **one-page document** including:
 - **One representative still image**
 - Title
 - Year
-- Author
+- Authors
 - **3/4-line artistic description**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`
+📄 **Filename:** `Name-Lastname-ChiaroscuroInterview.pdf`
 
 
 ---
 
-<h3 style="color: darkred;">📤 Submission</h3>
+<h3 style="color: darkred;">📤 Submission (in pairs) </h3>
 
 | Item                    | Required Filename                 |
 |-------------------------|-----------------------------------|
