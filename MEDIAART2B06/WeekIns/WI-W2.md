@@ -61,15 +61,16 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#brainstorming">1.Group Organization & Setup</a></li>
-  <li><a href="#shooting">2. Interview Prompt - Idea Phase</a></li>
-  <li><a href="#photo-editing">3. Recording</a></li>
-  <li><a href="#premiere">4. Post-Production: Assemble in Premiere Pro</a></li>
+  <li><a href="#setup">1.Group Organization & Setup</a></li>
+  <li><a href="#idea">2. Interview Prompt - Idea Phase</a></li>
+  <li><a href="#recording">3. Recording</a></li>
+  <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
+  <li><a href="#premiere">5. Post-Production: Assemble in Premiere Pro</a></li>
 </ul>
 
 ---
 
-<h3 id="brainstorming" style="color: darkred;">1. Group Organization & Setup [1h]</h3>
+<h3 id="setup" style="color: darkred;">1. Group Organization & Setup [1h]</h3>
 
 You will be assigned to a **station group (10 students)**.
 
@@ -127,7 +128,7 @@ Divide tasks evenly and support one another during setup.*
 
 ---
 
-<h3 id="shooting" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
+<h3 id="idea" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
 
 Choose **one provided interview prompt**.
 
@@ -145,19 +146,40 @@ You may introduce **simple elements** available in the space (chair position, po
 
 ---  
 
-<h3 id="photo-editing" style="color: darkred;">3. Recording [1h30m]</h3>
+<h3 id="recording" style="color: darkred;">3. Recording [1h30m]</h3>
 
-- Each pair records **two full takes**
-- Organize an order within your group of 10
-- When finished:
-  - Return all equipment to its original position
-  - Reset the station for the next pair
+Each pair records **two full takes**
+- Organize a clear recording order within your **group of 10**
 
-📌 *Do not change lighting or camera settings between takes unless instructed.*
+During recording, each pair **may adjust**:
+- **Framing of the Main Camera (Camera A)**
+- **Position and framing of the Side Camera (Camera B)**
+- **Framing and movement of the Handheld Camera (Camera C)**
+- **Lighting intensity** and **color temperature** (warmth)
+
+During recording, each pair **must NOT change**:
+- **White Balance**
+- **ISO**
+- **Aperture**
+- **Position of the lights**
+
+📌 *Exposure and color consistency must be established before recording begins.*
+
+---  
+
+<h3 id="wrap-up" style="color: darkred;">4. Equipment Wrap-Up [30m]</h3>
+
+When all groups have finished:
+- Power off all equipment
+- Store cameras, lenses, lights, and audio gear **properly in their bags**
+- Leave equipment at the station for the instructor to collect
+
+⚠️ *Handle all equipment with care, especially lighting gear.  
+Divide tasks evenly and support one another during wrap-up.*
 
 ---
 
-<h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
+<h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
 **Check: [W2 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**   
 
