@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Chiaroscuro Interview (Pairs)</h1>  
 
-<img src="imgs/0.png" style="width: 100%; height: auto;">  
+<img src="imgs/05.png" style="width: 100%; height: auto;">  
 
 ## Goal
 
@@ -28,7 +28,7 @@ You are expected to work actively during class time and participate in all in-cl
 - **Cameras:** Aperture Priority (Av) Mode + **Three-camera setup**
 - **Format:** 30-second interview video
 - **Lighting:** Chiaroscuro using a **3-point lighting setup**
-- **Audio:** Record using **both shotgun and lapel microphones**
+- **Audio:** Record using **both shotgun and lapel microphones**. No music is allowed.  
 - **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
 - **Collaboration:**  
   - Work in **groups of 10 students** for technical setup and support  
@@ -38,22 +38,22 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Examples
 
+**The Fog of War** (2003), by Errol Morris 
+→ A canonical example of **controlled, interview-based chiaroscuro**, where low-key lighting isolates the subject against darkened backgrounds. Subtle shadow shapes facial features and reinforces themes of ambiguity, reflection, and moral uncertainty, demonstrating how chiaroscuro can operate within professional documentary conventions. 
+▶️ [Trailer](https://www.youtube.com/watch?v=VgA98V1Ubk8){:target="_blank"}  
+▶️ [Full Documentary](https://watchdocumentaries.com/the-fog-of-war/){:target="_blank"} 
+
 **(IWOW) I Walk on Water** (2020), by Khalik Allah   
-→ add description based on teh assingment
+→ This film exemplifies **extreme chiaroscuro in a documentary context**, using a single, directional light source to sculpt faces emerging from darkness. Light functions as an act of encounter, emphasizing presence and vulnerability.
 ▶️ [Official Trailer](https://www.youtube.com/watch?v=BgDVdFBu8FE){:target="_blank"}    
 ▶️ [Long Trailer / Excerps](https://vimeo.com/390915129){:target="_blank"}   
-> Content Warning: This work contain the "N" word in several parts in the context of the story.
+> ⚠️ **Content Warning:** This work contains the use of the “N” word in several moments, spoken within the social and narrative context of the film. It also depics drug use and mental health issues.  
 
 **No Quarto da Vanda** (2000), by Pedro Acosta  
-→ add description based on teh assingment
+→ An influential example of **low-light, interior documentary filmmaking**, where chiaroscuro emerges from minimal available light rather than staged setups. Faces and bodies appear partially illuminated against deep shadow, demonstrating how darkness, duration, and stillness can convey intimacy and marginalization.
 ▶️ [Trailer](https://www.youtube.com/watch?v=OMtsdwWSjyk){:target="_blank"}  
 ▶️ [In Vanda's Room (2000) - Opening](https://www.youtube.com/watch?v=Rp4QXi1a-yQ){:target="_blank"}    
-> Content Warning: The scene and the work depics ...
-
-**The Fog of War** (2003), by Errol Morris 
-→ add description based on teh assingment  
-▶️ [Trailer](https://www.youtube.com/watch?v=VgA98V1Ubk8){:target="_blank"}  
-▶️ [Full Documentary](https://watchdocumentaries.com/the-fog-of-war/){:target="_blank"}    
+> ⚠️ **Content Warning:** This film depicts drug use, addiction, and precarious living conditions.  
 
 ---
 
