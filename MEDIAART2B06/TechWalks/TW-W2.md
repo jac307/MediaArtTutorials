@@ -162,7 +162,7 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-#### Studio Lighting Setups
+#### Other Studio Lighting Setups
 <img src="imgs/34.png" style="width: 100%; height: auto;"> 
 
 ---
