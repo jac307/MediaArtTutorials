@@ -4,6 +4,11 @@
     "description": "This tutorial set builds on Week 1 by introducing workflows specific to interview-based and multi-camera editing. Students will learn how to import footage directly from a camera (via SD card or USB), organize clips from multiple cameras, synchronize audio and video using clap sync, and sequence three camera angles within the timeline. The tutorials also cover basic cropping and trimming for pacing, as well as an introduction to multi-camera editing techniques suitable for documentary interviews.",
     "children": [
       {
+        "title": "HOW TO ORGANIZE YOUR PREMIERE PROJECT - Premiere Pro Organization - Filmmaking 101",
+        "description": "In this video, your will learn how to organize your Adobe Premiere project so that you can be more streamlined and work faster. Premiere Pro organization is super-important, especially if you are going to be handing your project off to another editor at some point.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/r0Yz9Bnlb0o?si=Yc291riTraFv_7Rl"
+      },
+      {
         "title": "Importing from camera (USB / SD)",
         "description": "If you want to edit faster, stop using the razer tool and start using short cuts. Learn how to setup an use shortcuts for basic editing.",
         "tutorialEmbedCode": "url"
@@ -22,11 +27,6 @@
         "title": "Quick Tips for Editing Interviews (Advance)",
         "description": "Check for a few strategies on editing interview footage.",
         "tutorialEmbedCode": "https://www.youtube.com/embed/7D32yx4i-HE?si=Q1eOZiPakbSP6R1M"
-      },
-      {
-        "title": "Media organization & labeling",
-        "description": "text",
-        "tutorialEmbedCode": "url"
       }
     ]
   }
