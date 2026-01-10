@@ -5,28 +5,23 @@
     "children": [
       {
         "title": "Importing from camera (USB / SD)",
-        "description": "text",
+        "description": "If you want to edit faster, stop using the razer tool and start using short cuts. Learn how to setup an use shortcuts for basic editing.",
         "tutorialEmbedCode": "url"
       },
       {
-        "title": "Syncing three cameras (clap sync)",
-        "description": "text",
-        "tutorialEmbedCode": "url"
+        "title": "How to sync multiple clips in premiere - Fast editor pro tip",
+        "description": "Learn how to sync multiple clips in premiere by audio. The method you should be using is presented in the first 30 seconds. The rest of the video is useful if you have multiple different shots of the same or several interviews.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/EIQ7a8LVsUk?si=uxWNejXMFR8UezUU"
       },
       {
-        "title": "Timeline sequencing & pacing",
-        "description": "text",
-        "tutorialEmbedCode": "url"
+        "title": "How to Edit 2 Camera Interviews Like a Pro (Advance)",
+        "description": "Here's how to edit multi-camera interviews in Adobe Premiere, and incorporate b-roll, graphics, and music. Knowing how to sync and create sequences from 2 cameras (or more) is a crucial skill for professional assistant editors and editors.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/70qOJfizZjM?si=prE3dFmTDV9KbeWi"
       },
       {
-        "title": "Cropping and trimming",
-        "description": "text",
-        "tutorialEmbedCode": "url"
-      },
-      {
-        "title": "Multi-camera editing (intro)",
-        "description": "text",
-        "tutorialEmbedCode": "url"
+        "title": "Quick Tips for Editing Interviews (Advance)",
+        "description": "Check for a few strategies on editing interview footage.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/7D32yx4i-HE?si=Q1eOZiPakbSP6R1M"
       },
       {
         "title": "Media organization & labeling",
