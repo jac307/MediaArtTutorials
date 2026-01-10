@@ -136,7 +136,7 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 
 This assignment uses a **three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"}.  
 
-<img src="imgs/28.png" style="width: 70%; height: auto;">  
+<img src="imgs/28.png" style="width: 100%; height: auto;">  
 
 ### Key Light 
 - **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
@@ -163,7 +163,7 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 </div>    
 
 #### Studio Lighting Setups
-<img src="imgs/34.jpg" style="width: 100%; height: auto;"> 
+<img src="imgs/34.png" style="width: 100%; height: auto;"> 
 
 ---
 
