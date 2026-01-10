@@ -6,6 +6,7 @@
 
 **Note**: This page highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
 
+<!--
 ### ZOOM H4N Handheld
 
 <img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
@@ -14,6 +15,16 @@ Popular and versatile handheld audio recorder used by musicians, podcasters, and
 
 - 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
 - ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
+-->
+
+### RODE VideoMic NTG On-Camera Shotgun Microphone
+
+<img src="TechWalks/imgs/31.jpg" style="width: 60%; height: auto;">
+
+A versatile, broadcast-grade microphone that functions as both an on-camera shotgun mic and a full-featured USB microphone for computers and mobile devices.  
+
+- 📘 [User Guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
+- ▶️ Features and Specifications: [link to YouTube video](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
 
 ### RODE Microphone System Wireless Go II
 
