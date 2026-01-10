@@ -160,9 +160,12 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 
 ---
 
-## 5. Lighting intensity and color temperature (warmth)  
+## 5. Lighting Intensity & Color Temperature (Warmth)
 
-Use the knobs on the back to adjust light intensity and colour temperature.
+Use the **control knobs on the back of the light** to adjust:
+
+- **Light intensity** (brightness)
+- **Color temperature** (warm ↔ cool)  
 
 <img src="imgs/32.png" style="width: 60%; height: auto;"> 
 
