@@ -153,16 +153,16 @@ Each pair records **two full takes**
 - Time per pair **10 minutes**. 
 
 During recording, each pair **may adjust**:
-- **Framing of the Main Camera (Camera A)**
-- **Position and framing of the Side Camera (Camera B)**
-- **Framing and movement of the Handheld Camera (Camera C)**
-- **Lighting intensity** and **color temperature** (warmth)
+- 🟢 **Framing of the Main Camera (Camera A)**
+- 🟢 **Position and framing of the Side Camera (Camera B)**
+- 🟢 **Framing and movement of the Handheld Camera (Camera C)**
+- 🟢 **Lighting intensity** and **color temperature** (warmth)
 
 During recording, each pair **must NOT change**:
-- **White Balance**
-- **ISO**
-- **Aperture**
-- **Position of the lights**
+- 🚫 **White Balance**
+- 🚫 **ISO**
+- 🚫 **Aperture**
+- 🚫 **Position of the lights**
 
 📌 *Exposure and color consistency must be established before recording begins.*
 
