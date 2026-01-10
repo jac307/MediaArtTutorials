@@ -14,7 +14,7 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ---
 
-<h3 style="color: darkred;"> Camera Mode & Exposure Strategy (Video) </h3> 
+<h2 style="color: darkred;"> Camera Settings (Video) </h2> 
 
 ### Camera Lenses
 
@@ -89,7 +89,7 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 
 ---
 
-<h3 style="color: darkred;"> Space Setup </h3>  
+<h2 style="color: darkred;"> Space & Lighting Setup </h2>  
 
 ## 1. Backdrop / Background Setup
 
@@ -151,7 +151,7 @@ This assignment uses a **simplified three-point lighting approach for chiaroscur
 
 ---
 
-### 5. Audio Recording Method
+<h2 style="color: darkred;"> Audio Recording Method </h2>  
 
 You will record the audio directly into the main camera (A) using specific lapel microphones. Check the [Available Microphones](../Audio.md){:target="_blank"}.   
 
