@@ -10,12 +10,6 @@
 
 Create a **30-second black-and-white photo film** composed entirely of **still photographs**, organized into a **observational micro-narrative**.
 
-This assignment introduces:
-- photographic sequencing and rhythm  
-- framing, composition, and depth of field  
-- basic sound–image relationships  
-- a complete workflow from idea → execution → post-production  
-
 You will work **in pairs during class time** for support and feedback, but **each student must produce and submit an individual work**.  
 
 > ❗ **Attendance and engagement are part of the rubric.**  
