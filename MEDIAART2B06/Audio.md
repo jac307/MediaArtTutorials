@@ -19,7 +19,7 @@ Popular and versatile handheld audio recorder used by musicians, podcasters, and
 
 ### RODE VideoMic NTG On-Camera Shotgun Microphone
 
-<img src="TechWalks/imgs/31.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/31.jpg" style="width: 70%; height: auto;">
 
 A versatile, broadcast-grade microphone that functions as both an on-camera shotgun mic and a full-featured USB microphone for computers and mobile devices.  
 
