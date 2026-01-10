@@ -160,6 +160,14 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 
 ---
 
+## 5. Lighting intensity and color temperature (warmth)  
+
+Use the knobs on the back to adjust light intensity and colour temperature.
+
+<img src="imgs/32.png" style="width: 60%; height: auto;"> 
+
+---
+
 <h2 style="color: darkred;"> Audio Recording Method </h2>  
 
 You will **record audio directly into two of your cameras (A & B)** using two a lapel microphone and a shotgun microphone.  
@@ -197,4 +205,4 @@ ________________________________________________________________________
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-AI tools (Microsoft CoPilot and ChatGPT) is be used for **editing and clarity only**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+Microsoft CoPilot and ChatGPT was used for **editing and clarity only**, as well as to create some to the **image visualizations**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
