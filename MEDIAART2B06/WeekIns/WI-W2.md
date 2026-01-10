@@ -237,19 +237,26 @@ Divide tasks evenly and support one another during wrap-up.*
 
 <h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
-**Check: [W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Premiere Pro: Multi-Camera Interview Editing**   
+**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals & [W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Premiere Pro: Multi-Camera Interview Editing**   
 
-Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.
+Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.  
 
+- **Resolution:** 1920 × 1080  
 - Import footage from **all three cameras**
 - **Synchronize the audio and image from all three cameras**  
   *(Do this before trimming or sequencing clips)*
 - Use cuts to create visual rhythm
+- **Total duration:** 30 seconds
+- **Allowed transitions:**
+  - Jump cuts
+  - Fade in / fade out
+  - **Cross overs** (simple/subtle temporal overlap between still images)
 - Add:
   - Title
   - Credits
-
+ 
 #### Restrictions
+- 🚫 No Music
 - 🚫 No colour correction in Premiere Pro  
 - 🚫 No visual effects or filters  
 - 🚫 No animated motion effects  
