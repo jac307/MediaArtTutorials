@@ -2,21 +2,21 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Photo Film (Individual)</h1>  
+<h1 style="color: darkred;">Chiaroscuro Interview (Pairs)</h1>  
 
 <img src="imgs/0.png" style="width: 100%; height: auto;">  
 
 ## Goal
 
-Create a **30-second black-and-white photo film** composed entirely of **still photographs**, organized into a **observational micro-narrative**.
+In this assignment, you will create a **30-second interview video** that uses **chiaroscuro lighting** as a compositional and conceptual constraint.
+
+The focus of this exercise is **light, framing, camera coordination, and audio clarity**, not complex narrative development.  
 
 This assignment introduces:
 - photographic sequencing and rhythm  
 - framing, composition, and depth of field  
 - basic sound–image relationships  
 - a complete workflow from idea → execution → post-production  
-
-You will work **in pairs during class time** for support and feedback, but **each student must produce and submit an individual work**.  
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -25,31 +25,35 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Project Overview
 
-- **Camera Mode:** - Aperture Priority (Av)  
-- **Format:** 30-second photo film (still images only)
-- **Images:** Approximately **10–18 photographs**
-- **Narrative type:** Observational / micro-narrative
-- **Location:** Any McMaster campus location, during class time only
-- **Collaboration:** Work in pairs, submit individually
-- **Dialogue:** Not allowed
-- **Video footage:** Not allowed (stills only)  
+- **Cameras:** Aperture Priority (Av) Mode + **Three-camera setup**
+- **Format:** 30-second interview video
+- **Lighting:** Chiaroscuro using a **3-point lighting setup**
+- **Audio:** Record using **both shotgun and lapel microphones**
+- **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
+- **Collaboration:**  
+  - Work in **groups of 10 students** for technical setup and support  
+  - **Submit in pairs** (each pair submits their own project)
+
+📌 *Although you will collaborate as a larger group for setup, each pair is responsible for producing and submitting their own work.*
 
 ## Examples
 
-**La Jetée** (1962), by Chris Marker   
-→ A canonical still-image film that constructs a powerful narrative entirely through sequencing, pacing, and voice-over, with almost no motion.  
-▶️ [Full Movie](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}    
+**(IWOW) I Walk on Water** (2020), by Khalik Allah   
+→ add description based on teh assingment
+▶️ [Official Trailer](https://www.youtube.com/watch?v=BgDVdFBu8FE){:target="_blank"}    
+▶️ [Long Trailer / Excerps](https://vimeo.com/390915129){:target="_blank"}   
+> Content Warning: This work contain the "N" word in several parts in the context of the story.
 
-**Año Uña** (2010), by Jonás Cuarón  
-→ A photo-based film where rhythm and narrative emerge through uneven timing of still images, everyday observation, and post-hoc narrative construction.  
-▶️ [Movie Trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}  
-▶️ [Año Uña Clip - Diego's Toenail](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}    
-▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
+**No Quarto da Vanda** (2000), by Pedro Acosta  
+→ add description based on teh assingment
+▶️ [Trailer](https://www.youtube.com/watch?v=OMtsdwWSjyk){:target="_blank"}  
+▶️ [In Vanda's Room (2000) - Opening](https://www.youtube.com/watch?v=Rp4QXi1a-yQ){:target="_blank"}    
+> Content Warning: The scene and the work depics ...
 
-**Olga Karlovac** (Dubrovnik, Croatia)   
-→ Olga uses her camera to capture fleeting moments and emotions. Working exclusively in black and white, predominantly after dark and in rainy conditions, her abstracted images blur the lines between figuration and visual poetry.   
-🌐 [Artist's Website](https://olga-karlovac-photography.com/site/){:target="_blank"}    
-🌐 [Google Images](https://www.google.com/search?q=olga+karlovac&sca_esv=727911a362dc4a92&sxsrf=ANbL-n6ZS_7GT0ENijSgTJu9qfuo0JTwDg%3A1767888054707&source=hp&ei=ttRfaZnZKM_XptQPpLKE4AY&iflsig=AFdpzrgAAAAAaV_ixnDeBQRlsOCtfMrSLTNoxo6CFbnp&udm=2&oq=olga+k&gs_lp=Egdnd3Mtd2l6IgZvbGdhIGsqAggAMg0QIxjwBRiABBgnGIoFMg4QLhiABBjHARjLARivATIIEC4YgAQYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBSPUQUABYvQlwAHgAkAEAmAGOAqABxAeqAQUwLjUuMbgBA8gBAPgBAZgCBqAC5AfCAgQQIxgnwgIKECMY8AUYJxjJAsICChAuGIAEGEMYigXCAgUQABiABMICBRAuGIAEwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgILEC4YgAQYxwEYrwGYAwCSBwUwLjUuMaAHo3CyBwUwLjUuMbgH5AfCBwcwLjMuMi4xyAcWgAgA&sclient=gws-wiz){:target="_blank"}  
+**The Fog of War** (2003), by Errol Morris 
+→ add description based on teh assingment  
+▶️ [Trailer](https://www.youtube.com/watch?v=VgA98V1Ubk8){:target="_blank"}  
+▶️ [Full Documentary](https://watchdocumentaries.com/the-fog-of-war/){:target="_blank"}    
 
 ---
 
