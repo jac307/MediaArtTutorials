@@ -51,9 +51,9 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 - **Recommendation for Chiaroscuro**: narrow aperture (f/8-f/11)
 
 ### ISO
-- **Recommendation for Chiaroscuro**: low ISO (100-200)
 - Increase only if the image is too dark **after positioning the lights**
 - Use lighting to control exposure before increasing ISO
+- **Recommendation for Chiaroscuro**: low ISO (100-200)
 
 ### Shutter Speed
 
@@ -92,7 +92,9 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 - Select **Display ratio**
 - Choose **16:9**
 
-<img src="imgs/27.png" style="width: 70%; height: auto;">   
+<img src="imgs/27.png" style="width: 70%; height: auto;">     
+
+<img src="imgs/30.jpg" style="width: 70%; height: auto;">  
 
 ---
 
@@ -118,24 +120,24 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 
 ## 3. Camera Placement
 
-<img src="imgs/29.png" style="width: 50%; height: auto;">
+- **Camera A:** eye-level, directly facing the subject (on tripoid)  
+- **Camera B:** positioned 30–45° to left or right side (on tripoid)   
+- **Camera C:** flexible (moving around), focused on details (handheld)  
 
-- **Camera A:** eye-level, directly facing the subject (on tripoid)
-- **Camera B:** positioned 30–45° to  side (on tripoid)
-- **Camera C:** flexible, focused on details (handheld)
+<img src="imgs/29.png" style="width: 50%; height: auto;">
 
 ---
 
 ## 4. Lighting Setup (Three-Point Logic)
 
-<img src="imgs/28.png" style="width: 70%; height: auto;">
+This assignment uses a **three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"}.  
 
-This assignment uses a **simplified three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"} .
+<img src="imgs/28.png" style="width: 70%; height: auto;">  
 
 ### Key Light 
 - **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
 - **Modifier:** Use a softbox to control spill and create focused light.
-  > A softbox is a light modifier in photography and videography that surrounds a light source with reflective interior walls and a translucent front diffuser. 
+  > A softbox is a light modifier that surrounds a light source with reflective interior walls and a translucent front diffuser. 
 - **Power:** Set as the primary exposure source; adjust for desired highlight intensity.
 
 ### Fill Light
@@ -143,7 +145,7 @@ This assignment uses a **simplified three-point lighting approach for chiaroscur
 - **Power:** Very low; its purpose is to add dimension without flattening the high-contrast look. 
 
 ### Back (Rim) Light
-- **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background.
+- **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background just o specific zones.   
 - **Modifier:** Can be a bare light or small softbox; keep power low.
 
 #### Setup Fiilex P360 LED Light Kit
