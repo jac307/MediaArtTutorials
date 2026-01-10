@@ -70,7 +70,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h3 id="setup" style="color: darkred;">1. Group Organization & Setup [1h]</h3>
+<h3 id="setup" style="color: darkred;">1. Group Organization & Setup [40m]</h3>
 
 You will be assigned to a **station group (10 students)**.
 
@@ -146,10 +146,11 @@ You may introduce **simple elements** available in the space (chair position, po
 
 ---  
 
-<h3 id="recording" style="color: darkred;">3. Recording [1h30m]</h3>
+<h3 id="recording" style="color: darkred;">3. Recording [1h40m]</h3>
 
 Each pair records **two full takes**
 - Organize a clear recording order within your **group of 10**
+- Time per pair **10 minutes**. 
 
 During recording, each pair **may adjust**:
 - **Framing of the Main Camera (Camera A)**
@@ -165,9 +166,23 @@ During recording, each pair **must NOT change**:
 
 📌 *Exposure and color consistency must be established before recording begins.*
 
+### Recording & Syncing Footage
+
+- When ready:
+  - Press **record on all cameras**
+  - Stand in front of the **subject** and perform a **single hand clap**
+  - Wait **2–3 seconds**, then the subject may begin speaking
+
+- **Do not stop recording** on any camera until the end of the take
+- Record the full interview as **one continuous clip** in all cameras
+
+- Repeat the same process for the **second take**
+
+📌 *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
+
 ---  
 
-<h3 id="wrap-up" style="color: darkred;">4. Equipment Wrap-Up [30m]</h3>
+<h3 id="wrap-up" style="color: darkred;">4. Equipment Wrap-Up [20m]</h3>
 
 When all groups have finished:
 - Power off all equipment
@@ -181,13 +196,14 @@ Divide tasks evenly and support one another during wrap-up.*
 
 <h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
-**Check: [W2 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**   
+**Check: [W2 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro: more on sequencing**   
 
 Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.
 
-- Sequence footage from **all three cameras**
+- Import footage from **all three cameras**
+- **Synchronize the audio and image from all three cameras**  
+  *(Do this before trimming or sequencing clips)*
 - Use cuts to create visual rhythm
-- Pair clean audio with image
 - Add:
   - Title
   - Credits
@@ -197,8 +213,6 @@ Edit your interview following the **same principles as Week 1**, with the additi
 - 🚫 No visual effects or filters  
 - 🚫 No animated motion effects  
 - All lighting, white balance, and contrast decisions must happen **during recording**
-
-📌 *Editing should support clarity and pacing, not stylization.*
 
 Export video:
 - Format: 1920×1080, H.264, MP4
@@ -217,19 +231,18 @@ Create a **one-page document** including:
 - **3/4-line artistic description**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-ChiaroscuroInterview.pdf`
+📄 **Filename:** `Group-1-ChiaroscuroInterview.pdf`
 
 
 ---
 
 <h3 style="color: darkred;">📤 Submission (in pairs) </h3>
 
-| Item                    | Required Filename                 |
-|-------------------------|-----------------------------------|
-| Brainstorming PDF       | `Name-Lastname-Brainstorming.pdf` |
-| Photo Contact Sheet PDF | `Name-Lastname-Photos.pdf`        |
-| Final Photo Film MP4    | `Name-Lastname-PhotoFilm.mp4`     |
-| Project Description PDF | `Name-Lastname-PhotoFilm.pdf`     |
+| Item                               | Required Filename                            |
+|------------------------------------|----------------------------------------------|
+| Brainstorming PDF                  | `Group-1-Brainstorming.pdf`                  |
+| Final Chiaroscuro Interview MP4    | `Name-Lastname-ChiaroscuroInterview.mp4`     |
+| Project Description PDF            | `Group-1-ChiaroscuroInterview.pdf`           |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -238,12 +251,17 @@ Create a **one-page document** including:
 ## Assessment Notes
 
 - This is a **learning-focused assignment**
-- Roughness or minor technical imperfections are acceptable if decisions are intentional
-- For an **A+**, work should demonstrate:
-  - Proficiency in framing and composition
-  - Consistent exposure and tonal control
-  - Thoughtful sequencing and pacing
-  - Originality and Artistry  
+- Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
+- Risk-taking and experimentation are encouraged within the assignment constraints
+
+For an **A+**, the work should demonstrate:
+
+- **Strong and intentional composition**, framing, and camera placement across all shots  
+- **Effective use of chiaroscuro lighting**, showing control over contrast, shadow, and light direction  
+- **Clear visual and conceptual coherence**, with lighting choices supporting the interview’s tone or presence  
+- **High-quality audio**, with clean sound and successful synchronization across cameras  
+- **Thoughtful editing**, including pacing, shot selection, and transitions that enhance clarity and rhythm  
+- **Originality and artistry**
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -253,4 +271,4 @@ ________________________________________________________________________
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-Microsoft CoPilot is be used for **editing and clarity only**, as well as to create some to the **image visualizations**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+Microsoft CoPilot and ChatGPT was used for **editing and clarity only**, as well as to create some to the **image visualizations**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
