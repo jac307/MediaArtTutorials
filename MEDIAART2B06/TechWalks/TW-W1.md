@@ -19,11 +19,6 @@ By the end of this session, students should be able to:
 - Read and evaluate images on the camera, and **properly transfer and save files** to a computer  
 - Recognize how **light and contrast** function as primary visual elements in black-and-white photography  
 
-This walkthrough prioritizes:
-- **Intentional exposure decisions** (rather than automatic settings)  
-- **Manual focus and depth of field awareness**  
-- **Clear, stable framing and careful image review**  
-
 📌 *The goal is not technical mastery of every camera function, but practical control over the required settings overview below*
 
 
