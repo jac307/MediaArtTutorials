@@ -124,19 +124,66 @@ Divide tasks evenly and support one another during setup.*
 
 <h3 id="idea" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
 
-Choose **one provided interview prompt**.
+This phase is intentionally **short and focused**.
 
-You are **not expected to write a script**.
+📌 **You are not graded on *what* is being said.**  
+Do not spend excessive time developing content or scripting responses.
 
-Instead, focus on:
-- How light shapes the face and body
-- Camera placement and framing
-- Whether you want to adjust:
-  - key-to-fill ratio
-  - background darkness
-  - emphasis on one camera over others
+---
 
-You may introduce **simple elements** available in the space (chair position, posture, background distance).
+### Speaking Length
+
+- Aim for **45–60 seconds** of recorded interview content  
+  > *Extra content allows you to cut between cameras and shape pacing.*
+- Your final edited video must be **30 seconds**
+- You do **not** need to use all recorded material
+
+---
+
+### Choose ONE Interview Prompt
+
+Each pair must select **one** of the following prompts:
+
+1. **Observation**
+   > “Describe a place you pass through often but rarely pay attention to.”
+
+2. **Routine**
+   > “Talk through a routine you do almost automatically.”
+
+3. **Light & Space**
+   > “Describe how light changes a space you know well.”
+
+4. **Presence**
+   > “What helps you feel grounded when you are overwhelmed?”
+
+5. **Time**
+   > “Describe a moment when time felt slow.”
+
+The interview prompt is a **tool** to support your work with **light, framing, camera coordination, and sound**, not a writing or performance exercise.
+
+> Respond in your own words.  
+> No acting, no character work, no memorization.  
+> The interview should feel natural and unforced.
+
+---
+
+### What to Focus On Instead of Content
+
+Use the PDF worksheet below to help you decide:
+
+- **Framing and composition** for each camera
+- How strong the **contrast** should be
+- Where **shadows** fall on the face and body
+- Whether you want a more **intimate tone** (warmer light) or a more **neutral tone** (cooler or balanced light)
+
+<a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
+📄 Download / View Brainstorming & Sketching Worksheet (PDF)
+</a>
+
+### Submission
+
+- ➡️ **Export as PDF**
+- 📄 **Filename:** `Grouo-#-Brainstorming.pdf`
 
 ---  
 
