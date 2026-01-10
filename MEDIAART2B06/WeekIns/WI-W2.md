@@ -279,11 +279,11 @@ Create a **one-page document** including:
 
 <h3 style="color: darkred;">📤 Submission (in pairs) </h3>
 
-| Item                               | Required Filename                            |
-|------------------------------------|----------------------------------------------|
-| Brainstorming PDF                  | `Group-1-Brainstorming.pdf`                  |
-| Final Chiaroscuro Interview MP4    | `Name-Lastname-ChiaroscuroInterview.mp4`     |
-| Project Description PDF            | `Group-1-ChiaroscuroInterview.pdf`           |
+| Item                               | Required Filename                      |
+|------------------------------------|----------------------------------------|
+| Brainstorming PDF                  | `Group-1-Brainstorming.pdf`            |
+| Final Chiaroscuro Interview MP4    | `Group-1-ChiaroscuroInterview.mp4`     |
+| Project Description PDF            | `Group-1-ChiaroscuroInterview.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
