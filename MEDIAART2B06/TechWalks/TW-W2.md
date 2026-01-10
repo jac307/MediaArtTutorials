@@ -12,10 +12,10 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ### By the end of this session, students should be able to:
 
-- Apply **aperture, ISO, and camera placement** to maintain consistent exposure across a multi-camera interview setup
+- Apply **aperture, ISO, and camera placement** to maintain consistent exposure across a multi-camera setup
 - Set and maintain **manual white balance** for consistent color and skin tones across multiple cameras
 - Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
-- Configure and record **audio** using lapel microphones   
+- Configure and record **audio** using different microphones   
 
 📌 *For Week 2, the emphasis is on lighting contrast, interview framing, and controlled environments.* 
 
@@ -162,9 +162,32 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 
 <h2 style="color: darkred;"> Audio Recording Method </h2>  
 
-You will record the audio directly into the main camera (A) using specific lapel microphones. Check the [Available Microphones](../Audio.md){:target="_blank"}.   
+You will record audio directly into two of your cameras (A & B) using two a lapel microphone and a shotgun microphone.  
 
-#### Basics of Audio for Video
+Check the [Available Microphones](../Audio.md){:target="_blank"}.   
+
+1. Follow this tutorial to setup the **RODE VideoMic NTG On-Camera Shotgun Microphone** to your **main camera (A)**:  
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_iq4i9zmGA?si=r-7RjE0QbbsV_jgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+2. Follow one of these tutorials to setup the **lapel Microphone** to your **side camera (B)**:  
+
+### Connect CAMERA to Rode Wireless GO II Microphone
+
+> Note: You only need to setup one microphone.   
+
+<div style= "width:80%; height:auto">
+iframe width="560" height="315" src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+### Connect CAMERA to Audio-Technica Wireless Lavalier (AT899)
+
+Coming soon
+
+3. Check this video to understand the basics of Audio for Video:  
+
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
