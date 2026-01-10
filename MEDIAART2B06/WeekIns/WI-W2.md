@@ -71,14 +71,12 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h3 id="brainstorming" style="color: darkred;">1. Group Organization & Setup [1h]</h3>
 
-Check: [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity.   
-
 You will be assigned to a **station group (10 students)**.
 
 Each group is responsible for:
 - Setting up cameras, lights, and audio **together**
 - Following the **Week 2 Tech Walkthrough**  
-  👉 https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html
+  👉 [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
@@ -87,40 +85,45 @@ Station locations and group assignments will be:
 
 ---
 
+## Space Configurations
+
+As a group, you will:
+
+- Set up the **backdrop** (if available)
+- Position the **subject** (chair and seating placement)
+- Set up the **three-point lighting** arrangement
+- Establish clear **light–shadow contrast**
+- Position all **three cameras** (see below)
+- Connect and test **shotgun and lavalier microphones**
+
+⚠️ *Handle all equipment with care, especially lighting gear.  
+Divide tasks evenly and support one another during setup.*
+
+---
+
 ## Camera Configuration
 
-Each pair will record using **three cameras**:
+<img src="imgs/06.jpg" style="width: 100%; height: auto;"> 
 
 ### Camera A — Frontal View / Eye Level (Tripod)
 - Primary interview shot
 - Visual anchor for the sequence  
 - Lens: **Default kit lens**
+- Microphone: **RODE VideoMic NTG (on-camera shotgun)**
 
 ### Camera B — Side View (Tripod)
 - Positioned approximately **30–45°** from the subject
 - Emphasizes depth, facial structure, and chiaroscuro  
 - Lens: **50mm** or **85mm**
+- Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
 
 ### Camera C — Detail Camera (Handheld)
-- Close-up details: hands, gestures, partial features
-- Allows subtle movement and variation  
+- Close-up details: hands, gestures, partial facial features
+- Allows subtle movement and visual variation  
 - Lens: **50mm**
 
-📌 *All cameras must follow the settings outlined in the Week 2 Tech Walkthrough.*
-
----
-
-## Activity Breakdown (In Class)
-
-### 1. Setup Scene (Lights, Cameras, Audio)
-
-As a group:
-- Set up the **3-point lighting** arrangement
-- Establish clear **light–shadow contrast**
-- Position all three cameras
-- Connect and test **shotgun and lavalier microphones**
-
-📌 *Lighting and white balance must be finalized before recording.*
+📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
+📌 *Lighting and white balance must be finalized **before** recording begins.*
 
 ---
 
