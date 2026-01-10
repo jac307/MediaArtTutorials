@@ -198,17 +198,3 @@ Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
 AI tools (Microsoft CoPilot and ChatGPT) is be used for **editing and clarity only**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
-
-
-
-- **Camera A — Frontal View / Eye Level (Tripod)**  
-  - Primary interview shot at eye level. This camera provides the main visual anchor for the sequence.
-  - Lens: **Default kit lens. 
-
-- **Camera B — Side View (Tripod)**  
-  - Secondary angle positioned at approximately 30–45° from the subject to emphasize depth, light, and chiaroscuro.
-  - Lens: **50mm** or **85mm**
-
-- **Camera C — Detail Camera (Handheld)**  
-  - Used for close-up details such as hands, gestures, or partial features. This camera allows for subtle movement and visual variation.
-  - Lens: **50mm**
