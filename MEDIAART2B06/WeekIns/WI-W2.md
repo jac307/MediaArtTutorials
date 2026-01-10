@@ -176,7 +176,7 @@ Use the PDF worksheet below to help you decide:
 - Where **shadows** fall on the face and body
 - Whether you want a more **intimate tone** (warmer light) or a more **neutral tone** (cooler or balanced light)
 
-<a href="imgs/PhotoFilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
+<a href="imgs/Chiaroscuro_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
 </a>
 
