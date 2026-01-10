@@ -4,29 +4,35 @@
     "description": "This tutorial set builds on Week 1 by introducing workflows specific to interview-based and multi-camera editing. Students will learn how to import footage directly from a camera (via SD card or USB), organize clips from multiple cameras, synchronize audio and video using clap sync, and sequence three camera angles within the timeline. The tutorials also cover basic cropping and trimming for pacing, as well as an introduction to multi-camera editing techniques suitable for documentary interviews.",
     "children": [
       {
-        "title": "Title",
+        "title": "Importing from camera (USB / SD)",
         "description": "text",
         "tutorialEmbedCode": "url"
       },
       {
-        "title": "Title",
+        "title": "Syncing three cameras (clap sync)",
+        "description": "text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Timeline sequencing & pacing",
+        "description": "text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Cropping and trimming",
+        "description": "text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Multi-camera editing (intro)",
+        "description": "text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Media organization & labeling",
         "description": "text",
         "tutorialEmbedCode": "url"
       }
     ]
   }
 ]
-
-/*
-Importing from camera (USB / SD)
-
-Syncing three cameras (clap sync)
-
-Timeline sequencing & pacing
-
-Cropping and trimming
-
-Multi-camera editing (intro)
-
-(Optional but recommended) Media organization & labeling
-*/
