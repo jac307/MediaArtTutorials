@@ -76,9 +76,9 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>     
 
-> A **3 in 1 Balance Card Set (2"x 3")** will be available for White Balance (this item is included on the Department rentals).
+**Note:** A **3 in 1 Balance Card Set (2"x 3")** will be available for White Balance (this item is included on the Department rentals).
 
-<img src="imgs/33.jpg" style="width: 50%; height: auto;">
+<img src="imgs/33.jpg" style="width: 40%; height: auto;">
 
 ---
 
