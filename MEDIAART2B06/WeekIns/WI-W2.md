@@ -12,12 +12,6 @@ In this assignment, you will create a **30-second interview video** that uses **
 
 The focus of this exercise is **light, framing, camera coordination, and audio clarity**, not complex narrative development.  
 
-This assignment introduces:
-- photographic sequencing and rhythm  
-- framing, composition, and depth of field  
-- basic sound–image relationships  
-- a complete workflow from idea → execution → post-production  
-
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
 
@@ -150,7 +144,7 @@ You may introduce **simple elements** available in the space (chair position, po
 
 Each pair records **two full takes**
 - Organize a clear recording order within your **group of 10**
-- Time per pair **10 minutes**. 
+- Time per pair: **10 minutes**. 
 
 During recording, each pair **may adjust**:
 - 🟢 **Framing of the Main Camera (Camera A)**
