@@ -162,31 +162,31 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 
 <h2 style="color: darkred;"> Audio Recording Method </h2>  
 
-You will record audio directly into two of your cameras (A & B) using two a lapel microphone and a shotgun microphone.  
+You will **record audio directly into two of your cameras (A & B)** using two a lapel microphone and a shotgun microphone.  
 
 Check the [Available Microphones](../Audio.md){:target="_blank"}.   
 
-1. Follow this tutorial to setup the **RODE VideoMic NTG On-Camera Shotgun Microphone** to your **main camera (A)**:  
+Follow this tutorial to setup the **RODE VideoMic NTG On-Camera Shotgun Microphone** to your **main camera (A)**:  
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_iq4i9zmGA?si=r-7RjE0QbbsV_jgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+</div>     
 
-2. Follow one of these tutorials to setup the **lapel Microphone** to your **side camera (B)**:  
+Follow one of these tutorials to setup the **lapel Microphone** to your **side camera (B)**:  
 
-### Connect CAMERA to Rode Wireless GO II Microphone
+#### Connect CAMERA to Rode Wireless GO II Microphone
 
 > Note: You only need to setup one microphone.   
 
 <div style= "width:80%; height:auto">
-iframe width="560" height="315" src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
-### Connect CAMERA to Audio-Technica Wireless Lavalier (AT899)
+#### Connect CAMERA to Audio-Technica Wireless Lavalier (AT899)
 
 Coming soon
 
-3. Check this video to understand the basics of Audio for Video:  
+#### Basics of Audio for Video:  
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
