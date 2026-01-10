@@ -8,7 +8,14 @@
 ## Objective
 
 This technical walkthrough supports the **Chiaroscuro Interview (Pairs)** assignment.  
-The goal is to establish a **clear workflow** that prioritizes **light, framing, and sound clarity** without introducing unnecessary technical complexity.
+The goal is to establish a **clear workflow** that prioritizes **light, framing, and sound clarity**.  
+
+### By the end of this session, students should be able to:
+
+- Apply **aperture, ISO, and camera placement** to maintain consistent exposure across a multi-camera interview setup
+- Set and maintain **manual white balance** for consistent color and skin tones across multiple cameras
+- Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
+- Configure and record **audio** using lapel microphones   
 
 📌 *For Week 2, the emphasis is on lighting contrast, interview framing, and controlled environments.* 
 
@@ -20,7 +27,7 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 [Available DSLR Cameras & Lenses](../Cameras.md){:target="_blank"}  
 
-For this project, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
+On Week 2, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
 
 - **Camera A:** Default kit lens (static - on tripoid)
 - **Camera B:** *50mm* or *85mm* (static - on tripoid)
