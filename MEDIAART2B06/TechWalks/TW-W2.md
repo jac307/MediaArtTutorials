@@ -167,7 +167,7 @@ Use the **control knobs on the back of the light** to adjust:
 - **Light intensity** (brightness)
 - **Color temperature** (warm ↔ cool)  
 
-<img src="imgs/32.png" style="width: 60%; height: auto;"> 
+<img src="imgs/32.jpg" style="width: 60%; height: auto;"> 
 
 ---
 
