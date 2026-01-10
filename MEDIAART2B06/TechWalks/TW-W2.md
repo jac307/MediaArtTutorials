@@ -18,7 +18,7 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ### Camera Lenses
 
-[Available DSLR Cameras & Lenses](../Cameras.md) 
+[Available DSLR Cameras & Lenses](../Cameras.md){:target="_blank"}  
 
 For this project, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
 
@@ -122,7 +122,7 @@ For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full
 
 <img src="imgs/28.png" style="width: 70%; height: auto;">
 
-This assignment uses a **simplified three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md).
+This assignment uses a **simplified three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"} .
 
 ### Key Light 
 - **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
@@ -152,7 +152,7 @@ This assignment uses a **simplified three-point lighting approach for chiaroscur
 
 ### 5. Audio Recording Method
 
-You will record the audio directly into the main camera (A) using specific lapel microphones. Check the [Available Microphones](../Audio.md) 
+You will record the audio directly into the main camera (A) using specific lapel microphones. Check the [Available Microphones](../Audio.md){:target="_blank"}.   
 
 #### Basics of Audio for Video
 <div style= "width:80%; height:auto">
