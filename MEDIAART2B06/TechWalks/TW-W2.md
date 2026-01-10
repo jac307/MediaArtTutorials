@@ -70,12 +70,15 @@ White Balance is the **appearance of Color** determined by the **pigments presen
 
 In Week 1, you used **Auto White Balance (AWB)**. In this mode, the camera automatically analyzes the scene and adjusts color temperature to neutralize what it assumes should be white.   
 
-For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones in all three cameras. Follow this tutorial to set **White Balance manually**.  
-> A **3 in 1 Balance Card Set (2"x 3")** will be available for this process (also included on the Department rentals).       
+For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones in all three cameras. Follow this tutorial to set **White Balance manually**.      
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>    
+</div>     
+
+> A **3 in 1 Balance Card Set (2"x 3")** will be available for White Balance (this item is included on the Department rentals).
+
+<img src="imgs/33.jpg" style="width: 50%; height: auto;">
 
 ---
 
