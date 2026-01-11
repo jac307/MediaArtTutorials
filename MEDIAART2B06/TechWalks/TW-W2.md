@@ -12,7 +12,7 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ### By the end of this session, students should be able to:
 
-- Apply **aperture, ISO, and camera placement** to maintain consistent exposure across a multi-camera setup
+- Set and maintain **manual mode**, applying **aperture, shutter speed, ISO, and camera placement** to maintain consistent exposure across a multi-camera setup
 - Set and maintain **manual white balance** for consistent color and skin tones across multiple cameras
 - Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
 - Configure and record **audio** using different microphones   
@@ -39,28 +39,28 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 --- 
 
-### 1. Camera Mode
-- Camera on **Video Mode**
-- Use **Aperture Priority (Av)**.
+### 1. Camera Mode and Settings
 
-<img src="imgs/26.jpg" style="width: 50%; height: auto;">  
+- Camera on **Video**
+- Set Frame Rate to **30 fps (or 29.97 fps)**
+  > Frame rate (FPS) is the frequency at which consecutive images, or frames, are captured or displayed, measured in frames per second
 
-### Aperture (f-stop)
+<div style= "width:80%; height:auto">
 
-- Set your aperture first
-- **Recommendation for Chiaroscuro**: narrow aperture (f/8-f/11)
+</div> 
 
-### ISO
-- Increase only if the image is too dark **after positioning the lights**
-- Use lighting to control exposure before increasing ISO
-- **Recommendation for Chiaroscuro**: low ISO (100-200)
+- Use **Manual Mode (M)**.
+  > Shooting in manual mode gives you **complete control** over your camera's settings, including **aperture, shutter speed, and ISO**.
 
-### Shutter Speed
+- **Aperture (f-number):** Start wide, like **f/2.8 - f/4**, to let in more light and create shallow depth of field (blurry background) for subject separation, crucial for Chiaroscuro's dramatic effect.  
 
-+ In **Aperture Priority Video Mode**, shutter speed is **automatically set by the camera**
-+ Shutter speed is determined by:
-  + Your selected aperture (f-stop). Lower f-number = faster shutter speed
-  + The available light in the scene. Low light conditions = slower shutter speed
+- **Shutter Speed:** Aim for **1/60s or 1/125s**, adjusting to darken or brighten the scene.
+
+- **ISO:** Begin at ISO **100 or 200** for clean images; increase to ISO 400-800 if the scene is too dark, but avoid going too higher to prevent noise.
+
+<div style= "width:80%; height:auto">
+
+</div>
     
 ---
 
