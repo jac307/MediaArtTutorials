@@ -39,7 +39,7 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 --- 
 
-### 1. Camera Mode and Settings
+### 1. Camera Settings
 
 - Camera on **Video**
 - Set Frame Rate to **30 fps (or 29.97 fps)**
@@ -49,19 +49,41 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 </div> 
 
-- Use **Manual Mode (M)**.
-  > Shooting in manual mode gives you **complete control** over your camera's settings, including **aperture, shutter speed, and ISO**.
+For this assignment, use **Manual Mode (M)**.  
+- Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
 
-- **Aperture (f-number):** Start wide, like **f/2.8 - f/4**, to let in more light and create shallow depth of field (blurry background) for subject separation, crucial for Chiaroscuro's dramatic effect.  
-
-- **Shutter Speed:** Aim for **1/60s or 1/125s**, adjusting to darken or brighten the scene.
-
-- **ISO:** Begin at ISO **100 or 200** for clean images; increase to ISO 400-800 if the scene is too dark, but avoid going too higher to prevent noise.
+<img src="imgs/26.jpg" style="width: 40%; height: auto;">   
 
 <div style= "width:80%; height:auto">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-    
+
+### Aperture (f-number)
+
+📌 *Always adjust lighting first before compensating with camera settings.*
+
+- Start with a **wide aperture**, such as **f/2.8 – f/4**
+- A wider aperture: lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
+- **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.  
+
+### Shutter Speed
+
+- Start at **1/60s**. You may adjust to **1/125s** if needed
+- Shutter speed in this assignment is used primarily to: fine-tune overall exposure, and avoid motion blur while keeping movement natural
+- Because the subject is mostly still, extreme shutter speeds are not required.
+
+### ISO
+
+- Begin at **ISO 100 or 200** for the cleanest image
+- Increase to **ISO 400–800** only if the scene is still too dark **after adjusting lights and aperture**
+- Avoid going higher unless instructed, as higher ISO introduces visible noise (especially in low-light scenes)
+
+### Additional Settings
+
+- **Ignore Auto-Exposure Bracketing (AEB)** for this assignment  
+  > Leave it at the default setting
+- Exposure consistency across cameras is more important than brightness
+
 ---
 
 ## 2. White Balance
