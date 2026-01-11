@@ -22,7 +22,7 @@ You are expected to work actively during class time and participate in all in-cl
 - **Format:** 30-second interview video
 - **Lighting:** Chiaroscuro using a **3-point lighting setup**
 - **Cameras:** Manual (M) Mode / Video + **Three-camera setup**
-- **Aspect Ratio & Frame Rate:** 16:9, 1920 × 1080, 30 FPS 
+- **Aspect Ratio & Frame Rate:** 16:9, 1920 × 1080 px, 30 FPS 
 - **Audio:** Record using **both shotgun and lapel microphones**. No music is allowed.  
 - **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
 - **Collaboration:**  
