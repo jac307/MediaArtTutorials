@@ -23,7 +23,33 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 <h2 style="color: darkred;"> Camera Settings (Video) </h2> 
 
-### Camera Lenses
+## 1. Camera on Video
+
+- Set the camera to **Video Mode**
+- Set the **Aspect Ratio** to **16:9**
+  > An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.
+- Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
+  > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
+
+#### How to set the aspect ratio:
+- Go to **Menu**
+- Navigate to the **fourth menu tab**
+- Select **Display ratio**
+- Choose **16:9**
+
+<img src="imgs/27.png" style="width: 70%; height: auto;">     
+
+<img src="imgs/30.jpg" style="width: 70%; height: auto;">  
+
+#### How to set the frame rate:
+- Go to **Menu**
+- Navigate to the **fourth menu tab**
+- Select **Display ratio**
+- Choose **16:9**
+
+---
+
+## 2. Camera Lenses
 
 [Available DSLR Cameras & Lenses](../Cameras.md){:target="_blank"}  
 
@@ -37,19 +63,9 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
---- 
+---
 
-### 1. Camera Settings
-
-- Set the camera to **Video Mode**
-- Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
-
-> **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second.  
-> A frame rate of 30 fps provides natural motion and is standard for interview-based video.
-
-<div style= "width:80%; height:auto">
-
-</div> 
+### 3. Camera Mode
 
 For this assignment, use **Manual Mode (M)**.  
 - Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
@@ -89,7 +105,7 @@ For this assignment, use **Manual Mode (M)**.
 
 ---
 
-## 2. White Balance
+## 4. White Balance
 
 White Balance is the **appearance of Color** determined by the **pigments present in the subject**, and the **light illuminating it**.   
 
@@ -105,25 +121,6 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 #### 3 in 1 Balance Card Set (2"x 3")
 
 <img src="imgs/33.jpg" style="width: 40%; height: auto;">   
-
----
-
-## 3. Aspect Ratio & Resolution
-
-An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.  
-
-For Week 2, set your aspect ratio to **16:9** and record at **1920 × 1080 (Full HD)**.
-> *All three cameras must use the same aspect ratio.*  
-
-#### How to set the aspect ratio:
-- Go to **Menu**
-- Navigate to the **fourth menu tab**
-- Select **Display ratio**
-- Choose **16:9**
-
-<img src="imgs/27.png" style="width: 70%; height: auto;">     
-
-<img src="imgs/30.jpg" style="width: 70%; height: auto;">  
 
 ---
 
