@@ -151,8 +151,9 @@ For this assignment, use **Manual Mode (M)**.
 📌 *Always adjust lighting first before compensating with camera settings.*
 
 - Start with a **wide aperture**, such as **f/2.8 – f/4**
-- A wider aperture: lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
+- A wider aperture lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
 - **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.
+- **Recommendation:** Keep the **same or similar aperture across all cameras** to make multi-camera exposure easier to manage.
 
 <div style= "width:80%; height:auto">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/19603662?h=1270ae8baa" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
@@ -160,8 +161,8 @@ For this assignment, use **Manual Mode (M)**.
 
 ### Shutter Speed
 
-- Start at **1/60s**. You may adjust to **1/125s** if needed
-- Shutter speed in this assignment is used primarily to: fine-tune overall exposure, and avoid motion blur while keeping movement natural
+- Start at **1/60s**. You may raise it slighthly if needed
+- Shutter speed in this assignment is used primarily to fine-tune overall exposure, and avoid motion blur while keeping movement natural
 - Because the subject is mostly still, extreme shutter speeds are not required.
 - **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.
 
