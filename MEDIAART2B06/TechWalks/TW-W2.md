@@ -54,7 +54,7 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 For this assignment, use **Manual Mode (M)**.  
 - Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
 
-<img src="imgs/26.jpg" style="width: 40%; height: auto;">   
+<img src="imgs/26.jpg" style="width: 80%; height: auto;">   
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
