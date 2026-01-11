@@ -91,8 +91,6 @@ As a group, you will:
 - Position all **three cameras** (see below)
 - Connect and test **shotgun and lavalier microphones**
 
-📌 *Always adjust lighting first before compensating with camera settings.*
-
 ⚠️ *Handle all equipment with care, especially lighting gear.  
 Divide tasks evenly and support one another during setup.*
 
@@ -120,6 +118,7 @@ Divide tasks evenly and support one another during setup.*
 - Lens: **50mm**
 
 📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
+📌 *Always adjust lighting first before compensating with camera settings.*   
 📌 *Lighting and white balance must be finalized **before** recording begins.*
 
 ---
