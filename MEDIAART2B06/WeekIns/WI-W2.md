@@ -19,7 +19,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Project Overview
 
-- **Cameras:** Aperture Priority (Av) Mode + **Three-camera setup**
+- **Cameras:** Manual (M) Mode + **Three-camera setup**
 - **Format:** 30-second interview video
 - **Lighting:** Chiaroscuro using a **3-point lighting setup**
 - **Audio:** Record using **both shotgun and lapel microphones**. No music is allowed.  
