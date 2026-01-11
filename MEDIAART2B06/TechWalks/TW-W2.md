@@ -92,7 +92,7 @@ Use the **control knobs on the back of the light** to adjust:
 ## 1. Camera on Video
 
 - Set the camera to **Video Mode**
-- Set the **Aspect Ratio** to **16:9**
+- Set the **Aspect Ratio** to **16:9** and **Resolution** to **1920 × 1080 px**
   > An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.
 - Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
   > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
@@ -138,6 +138,7 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 For this assignment, use **Manual Mode (M)**.  
 - Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
+- Keep exposure consistency across all three cameras
 
 <img src="imgs/26.jpg" style="width: 80%; height: auto;">   
 
@@ -182,7 +183,6 @@ For this assignment, use **Manual Mode (M)**.
 
 - **Ignore Auto-Exposure Bracketing (AEB)** for this assignment  
   > Leave it at the default setting
-- Exposure consistency across cameras is more important than brightness
 
 ---
 
