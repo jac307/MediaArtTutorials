@@ -87,7 +87,7 @@ Use the **control knobs on the back of the light** to adjust:
 
 ---
 
-<h2 style="color: darkred;"> Camera Settings (Video) </h2> 
+<h2 style="color: darkred;"> Camera Settings (Video) </h2>   
 
 ## 1. Camera on Video
 
@@ -96,11 +96,6 @@ Use the **control knobs on the back of the light** to adjust:
   > An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.
 - Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
   > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
-
-### How to set Movie Exposure in Manual Mode
-- Go to **Menu**
-- Select **Movie exposure**
-- Choose **Manual**
 
 ### How to set the aspect ratio:
 - Go to **Menu**
@@ -111,6 +106,9 @@ Use the **control knobs on the back of the light** to adjust:
 <img src="imgs/27.png" style="width: 70%; height: auto;">     
 
 <img src="imgs/30.jpg" style="width: 70%; height: auto;">  
+
+### How to set the FPS:
+Coming soon
 
 ### Recommended: Activate the Grid display
 - Go to **Menu**
