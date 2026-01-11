@@ -12,12 +12,78 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ### By the end of this session, students should be able to:
 
+- Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
 - Set and maintain **manual mode**, applying **aperture, shutter speed, ISO, and camera placement** to maintain consistent exposure across a multi-camera setup
 - Set and maintain **manual white balance** for consistent color and skin tones across multiple cameras
-- Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
 - Configure and record **audio** using different microphones   
 
 📌 *For Week 2, the emphasis is on lighting contrast, interview framing, and controlled environments.* 
+
+---
+
+<h2 style="color: darkred;"> Space & Lighting Setup </h2>  
+
+## 1. Backdrop / Background Setup
+
+📌 *The background should remain darker than the subject to support chiaroscuro.*
+
+### Backdrop (If Available)
+- Place backdrop **1–1.5 meters behind the subject**
+- Prevent light spill onto the background
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+### Without a Backdrop
+- Choose an **uncluttered background**
+- Allow the background to fall into shadow
+
+---
+
+## 2. Lighting Setup (Three-Point Logic)
+
+This assignment uses a **three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"}.  
+
+<img src="imgs/28.png" style="width: 100%; height: auto;">  
+
+### Key Light 
+- **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
+- **Modifier:** Use a softbox to control spill and create focused light.
+  > A softbox is a light modifier that surrounds a light source with reflective interior walls and a translucent front diffuser. 
+- **Power:** Set as the primary exposure source; adjust for desired highlight intensity.
+
+### Fill Light
+- **Position:** Can be used as a very low-power fill opposite the key for minimal detail, or positioned to light a specific background element.
+- **Power:** Very low; its purpose is to add dimension without flattening the high-contrast look. 
+
+### Back (Rim) Light
+- **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background just o specific zones.   
+- **Modifier:** Can be a bare light or small softbox; keep power low.
+
+#### Setup Fiilex P360 LED Light Kit
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDljJxLn7pY?si=3-i8h0O1lKp7e-am" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>  
+
+#### Lighting 101: Intro to Light Placement
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>    
+
+#### Other Studio Lighting Setups
+<img src="imgs/34.png" style="width: 100%; height: auto;"> 
+
+---
+
+## 3. Lighting Intensity & Color Temperature (Warmth)
+
+Use the **control knobs on the back of the light** to adjust:
+
+- **Light intensity** (brightness)
+- **Color temperature** (warm ↔ cool)  
+
+<img src="imgs/32.jpg" style="width: 60%; height: auto;"> 
 
 ---
 
@@ -124,27 +190,7 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 
 ---
 
-<h2 style="color: darkred;"> Space & Lighting Setup </h2>  
-
-## 1. Backdrop / Background Setup
-
-📌 *The background should remain darker than the subject to support chiaroscuro.*
-
-### Backdrop (If Available)
-- Place backdrop **1–1.5 meters behind the subject**
-- Prevent light spill onto the background
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
-
-### Without a Backdrop
-- Choose an **uncluttered background**
-- Allow the background to fall into shadow
-
----
-
-## 3. Camera Placement
+## 5. Camera Placement
 
 - **Camera A:** eye-level, directly facing the subject (on tripoid)  
 - **Camera B:** positioned 30–45° to left or right side (on tripoid)   
@@ -154,53 +200,7 @@ For Week 2, we will switch to **Custom White Balance** to maintain consistent sk
 
 ---
 
-## 4. Lighting Setup (Three-Point Logic)
-
-This assignment uses a **three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"}.  
-
-<img src="imgs/28.png" style="width: 100%; height: auto;">  
-
-### Key Light 
-- **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
-- **Modifier:** Use a softbox to control spill and create focused light.
-  > A softbox is a light modifier that surrounds a light source with reflective interior walls and a translucent front diffuser. 
-- **Power:** Set as the primary exposure source; adjust for desired highlight intensity.
-
-### Fill Light
-- **Position:** Can be used as a very low-power fill opposite the key for minimal detail, or positioned to light a specific background element.
-- **Power:** Very low; its purpose is to add dimension without flattening the high-contrast look. 
-
-### Back (Rim) Light
-- **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background just o specific zones.   
-- **Modifier:** Can be a bare light or small softbox; keep power low.
-
-#### Setup Fiilex P360 LED Light Kit
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDljJxLn7pY?si=3-i8h0O1lKp7e-am" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>  
-
-#### Lighting 101: Intro to Light Placement
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>    
-
-#### Other Studio Lighting Setups
-<img src="imgs/34.png" style="width: 100%; height: auto;"> 
-
----
-
-## 5. Lighting Intensity & Color Temperature (Warmth)
-
-Use the **control knobs on the back of the light** to adjust:
-
-- **Light intensity** (brightness)
-- **Color temperature** (warm ↔ cool)  
-
-<img src="imgs/32.jpg" style="width: 60%; height: auto;"> 
-
----
-
-<h2 style="color: darkred;"> Audio Recording Method </h2>  
+## 6. Audio Recording Method
 
 You will **record audio directly into two of your cameras (A & B)** using two a lapel microphone and a shotgun microphone.  
 
@@ -214,7 +214,7 @@ Follow this tutorial to setup the **RODE VideoMic NTG On-Camera Shotgun Micropho
 
 Follow one of these tutorials to setup the **lapel Microphone** to your **side camera (B)**:  
 
-#### Connect CAMERA to Rode Wireless GO II Microphone
+### Connect CAMERA to Rode Wireless GO II Microphone
 
 > Note: You only need to setup one microphone.   
 
@@ -222,11 +222,11 @@ Follow one of these tutorials to setup the **lapel Microphone** to your **side c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
-#### Connect CAMERA to Audio-Technica Wireless Lavalier (AT899)
+### Connect CAMERA to Audio-Technica Wireless Lavalier (AT899)
 
 Coming soon
 
-#### Basics of Audio for Video:  
+### Basics of Audio for Video:  
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
