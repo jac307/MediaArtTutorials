@@ -29,23 +29,21 @@ You are expected to work actively during class time and participate in all in-cl
   - Work in **groups of 10 students** for technical setup and support  
   - **Submit in pairs** (each pair submits their own project)
 
-📌 *Although you will collaborate as a larger group for setup, each pair is responsible for producing and submitting their own work.*
-
 ## Examples
 
-**The Fog of War** (2003), by Errol Morris 
-→ A canonical example of **controlled, interview-based chiaroscuro**, where low-key lighting isolates the subject against darkened backgrounds. Subtle shadow shapes facial features and reinforces themes of ambiguity, reflection, and moral uncertainty, demonstrating how chiaroscuro can operate within professional documentary conventions. 
-▶️ [Trailer](https://www.youtube.com/watch?v=VgA98V1Ubk8){:target="_blank"}  
-▶️ [Full Documentary](https://watchdocumentaries.com/the-fog-of-war/){:target="_blank"} 
+**The Fog of War** (2003), by Errol Morris   
+→ A canonical example of **controlled, interview-based chiaroscuro**, where low-key lighting isolates the subject against darkened backgrounds. Subtle shadow shapes facial features and reinforces themes of ambiguity, reflection, and moral uncertainty, demonstrating how chiaroscuro can operate within professional documentary conventions.   
+▶️ [Trailer](https://www.youtube.com/watch?v=VgA98V1Ubk8){:target="_blank"}    
+▶️ [Full Documentary](https://watchdocumentaries.com/the-fog-of-war/){:target="_blank"}   
 
 **(IWOW) I Walk on Water** (2020), by Khalik Allah   
-→ This film exemplifies **extreme chiaroscuro in a documentary context**, using a single, directional light source to sculpt faces emerging from darkness. Light functions as an act of encounter, emphasizing presence and vulnerability.
-▶️ [Official Trailer](https://www.youtube.com/watch?v=BgDVdFBu8FE){:target="_blank"}    
-▶️ [Long Trailer / Excerps](https://vimeo.com/390915129){:target="_blank"}   
+→ This film exemplifies **extreme chiaroscuro in a documentary context**, using a single, directional light source to sculpt faces emerging from darkness. Light functions as an act of encounter, emphasizing presence and vulnerability.    
+▶️ [Official Trailer](https://www.youtube.com/watch?v=BgDVdFBu8FE){:target="_blank"}      
+▶️ [Long Trailer / Excerps](https://vimeo.com/390915129){:target="_blank"}     
 > ⚠️ **Content Warning:** This work contains the use of the “N” word in several moments, spoken within the social and narrative context of the film. It also depics drug use and mental health issues.  
 
 **No Quarto da Vanda** (2000), by Pedro Acosta  
-→ An influential example of **low-light, interior documentary filmmaking**, where chiaroscuro emerges from minimal available light rather than staged setups. Faces and bodies appear partially illuminated against deep shadow, demonstrating how darkness, duration, and stillness can convey intimacy and marginalization.
+→ An influential example of **low-light, interior documentary filmmaking**, where chiaroscuro emerges from minimal available light rather than staged setups. Faces and bodies appear partially illuminated against deep shadow, demonstrating how darkness, duration, and stillness can convey intimacy and marginalization.    
 ▶️ [Trailer](https://www.youtube.com/watch?v=OMtsdwWSjyk){:target="_blank"}  
 ▶️ [In Vanda's Room (2000) - Opening](https://www.youtube.com/watch?v=Rp4QXi1a-yQ){:target="_blank"}    
 > ⚠️ **Content Warning:** This film depicts drug use, addiction, and precarious living conditions.  
@@ -56,7 +54,7 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#setup">1.Group Organization & Setup</a></li>
+  <li><a href="#setup">1. Group Organization & Setup</a></li>
   <li><a href="#idea">2. Interview Prompt - Idea Phase</a></li>
   <li><a href="#recording">3. Recording</a></li>
   <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
@@ -108,7 +106,7 @@ Divide tasks evenly and support one another during setup.*
 - Focus: **Manual**
 - Microphone: **RODE VideoMic NTG (on-camera shotgun)**
 
-### Camera B — Side View (Tripod)
+### Camera B — Side View / Eye Level (Tripod)
 - Positioned approximately **30–45°** from the subject
 - Emphasizes depth, facial structure, and chiaroscuro  
 - Lens: **50mm** or **85mm**
@@ -128,8 +126,6 @@ Divide tasks evenly and support one another during setup.*
 ---
 
 <h3 id="idea" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
-
-This phase is intentionally **short and focused**.
 
 📌 **You are not graded on *what* is being said.**  
 Do not spend excessive time developing content or scripting responses.
@@ -196,7 +192,8 @@ Use the PDF worksheet below to help you decide:
 
 Each pair records **two full takes**
 - Organize a clear recording order within your **group of 10**
-- Time per pair: **10 minutes**. 
+- Time per pair: **10 minutes**.
+- The group is responsible for **self-managing time** throughout the activity.
 
 During recording, each pair **may adjust**:
 - 🟢 **Framing of the Main Camera (Camera A)**
@@ -241,7 +238,9 @@ Divide tasks evenly and support one another during wrap-up.*
 
 <h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
-**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals & [W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**   
+Check:  
+- **[W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**  
+- **[W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**     
 
 Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.  
 
@@ -255,9 +254,7 @@ Edit your interview following the **same principles as Week 1**, with the additi
   - Jump cuts
   - Fade in / fade out
   - **Cross overs** (simple/subtle temporal overlap between still images)
-- Add:
-  - Title
-  - Credits
+- Add Title and Credits
  
 #### Restrictions
 - 🚫 No Music
@@ -267,8 +264,8 @@ Edit your interview following the **same principles as Week 1**, with the additi
 - All lighting, white balance, and contrast decisions must happen **during recording**
 
 Export video:
-- Format: 1920×1080, H.264, MP4
-- Filename: `Name-Lastname-ChiaroscuroInterview.mp4`
+- **Format:** 1920×1080, H.264, MP4
+- **Filename:** `Name-Lastname-ChiaroscuroInterview.mp4`
 
 ---
 
