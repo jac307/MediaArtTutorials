@@ -19,9 +19,10 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Project Overview
 
-- **Cameras:** Manual (M) Mode + **Three-camera setup**
 - **Format:** 30-second interview video
 - **Lighting:** Chiaroscuro using a **3-point lighting setup**
+- **Cameras:** Manual (M) Mode / Video + **Three-camera setup**
+- **Aspect Ratio & Frame Rate:** 16:9, 1920 × 1080, 30 FPS 
 - **Audio:** Record using **both shotgun and lapel microphones**. No music is allowed.  
 - **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
 - **Collaboration:**  
@@ -104,18 +105,21 @@ Divide tasks evenly and support one another during setup.*
 - Primary interview shot
 - Visual anchor for the sequence  
 - Lens: **Default kit lens**
+- Focus: **Manual**
 - Microphone: **RODE VideoMic NTG (on-camera shotgun)**
 
 ### Camera B — Side View (Tripod)
 - Positioned approximately **30–45°** from the subject
 - Emphasizes depth, facial structure, and chiaroscuro  
 - Lens: **50mm** or **85mm**
+- Focus: **Manual**
 - Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
 
 ### Camera C — Detail Camera (Handheld)
 - Close-up details: hands, gestures, partial facial features
-- Allows subtle movement and visual variation  
+- Allows subtle movement and visual variation
 - Lens: **50mm**
+- Focus: **Manual**
 
 📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
 📌 *Always adjust lighting first before compensating with camera settings.*   
