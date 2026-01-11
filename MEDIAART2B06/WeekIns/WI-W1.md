@@ -70,7 +70,10 @@ Use the PDF worksheet below to:
 
 <a href="imgs/Photofilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
 📄 Download / View Brainstorming & Sketching Worksheet (PDF)
-</a>
+</a>  
+> If you use the physical version of this Worksheet, you must scan or take an image of each page and combine them into a PDF file.  
+> You can use a simple Word document for this process.  
+> Optional: <a href="https://www.ilovepdf.com/" target="_blank" rel="noopener noreferrer">https://www.ilovepdf.com/</a> - Choose: **JPG to PDF**.  
 
 ### Submission
 
