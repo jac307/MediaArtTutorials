@@ -97,6 +97,11 @@ Use the **control knobs on the back of the light** to adjust:
 - Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
   > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
 
+### How to set Movie Exposure in Manual Mode
+- Go to **Menu**
+- Select **Movie exposure**
+- Choose **Manual**
+
 ### How to set the aspect ratio:
 - Go to **Menu**
 - Navigate to the **fourth menu tab**
@@ -131,7 +136,7 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 ---
 
-### 3. Camera Mode
+### 3. Camera Settings
 
 For this assignment, use **Manual Mode (M)**.  
 - Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
@@ -148,7 +153,11 @@ For this assignment, use **Manual Mode (M)**.
 
 - Start with a **wide aperture**, such as **f/2.8 – f/4**
 - A wider aperture: lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
-- **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.  
+- **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.
+
+<div style= "width:80%; height:auto">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/19603662?h=1270ae8baa" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+</div>  
 
 ### Shutter Speed
 
@@ -157,11 +166,19 @@ For this assignment, use **Manual Mode (M)**.
 - Because the subject is mostly still, extreme shutter speeds are not required.
 - **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.
 
+<div style= "width:80%; height:auto">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/19603537?h=7533f831d5" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+</div>  
+
 ### ISO
 
 - Begin at **ISO 100 or 200** for the cleanest image
 - Increase to **ISO 400–800** only if the scene is still too dark **after adjusting lights and aperture**
 - Avoid going higher unless instructed, as higher ISO introduces visible noise (especially in low-light scenes)
+
+<div style= "width:80%; height:auto">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/19603860?h=70853fa7d3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+</div>   
 
 ### Additional Settings
 
