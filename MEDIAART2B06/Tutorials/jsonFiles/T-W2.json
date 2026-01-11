@@ -1,5 +1,10 @@
 [
   {
+  "title": "Week 2 Tutorials — Importing Camera Footage & Premiere Pro",
+  "description": "This tutorials help you navigate camera imports using a USB cable in both Mac (using the Photos App) and Windows, while <strong>Premiere Pro</strong> tutorials will help you navigate multi-camera editing. <br><br><strong>Adobe Premiere Pro</strong> is a professional video editing software used to assemble, sequence, and export time-based media. In industry, it is commonly used for film, television, online video, and experimental media production, supporting workflows that combine image, sound, and timing."
+ },
+  
+  {
     "title": "Camera Import using USB Cable",
     "description": "Learn how to import multimedia material from the Canon Camera to the Computer using the USB Cable.",
     "children": [
@@ -15,6 +20,7 @@
       }
     ]
   },
+  
   {
     "title": "Week 2 Tutorials — Premiere Pro: Multi-Camera Interview Editing",
     "description": "This tutorial set builds on Week 1 by introducing workflows specific to interview-based and multi-camera editing. Students will learn how to import footage directly from a camera (via SD card or USB), organize clips from multiple cameras, synchronize audio and video using clap sync, and sequence three camera angles within the timeline. The tutorials also cover basic cropping and trimming for pacing, as well as an introduction to multi-camera editing techniques suitable for documentary interviews.",
