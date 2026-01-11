@@ -97,7 +97,7 @@ Use the **control knobs on the back of the light** to adjust:
 - Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
   > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
 
-#### How to set the aspect ratio:
+### How to set the aspect ratio:
 - Go to **Menu**
 - Navigate to the **fourth menu tab**
 - Select **Display ratio**
@@ -107,11 +107,11 @@ Use the **control knobs on the back of the light** to adjust:
 
 <img src="imgs/30.jpg" style="width: 70%; height: auto;">  
 
-#### How to set the frame rate:
+### Recommended: Activate the Grid display
 - Go to **Menu**
 - Navigate to the **fourth menu tab**
-- Select **Display ratio**
-- Choose **16:9**
+- Select **Grid Display**
+- Choose **Grid 1**
 
 ---
 
