@@ -237,7 +237,7 @@ Divide tasks evenly and support one another during wrap-up.*
 
 <h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
 
-**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals & [W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Premiere Pro: Multi-Camera Interview Editing**   
+**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals & [W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**   
 
 Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.  
 
