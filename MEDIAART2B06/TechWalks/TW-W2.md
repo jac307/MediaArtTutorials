@@ -41,9 +41,11 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 ### 1. Camera Settings
 
-- Camera on **Video**
-- Set Frame Rate to **30 fps (or 29.97 fps)**
-  > Frame rate (FPS) is the frequency at which consecutive images, or frames, are captured or displayed, measured in frames per second
+- Set the camera to **Video Mode**
+- Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
+
+> **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second.  
+> A frame rate of 30 fps provides natural motion and is standard for interview-based video.
 
 <div style= "width:80%; height:auto">
 
@@ -71,6 +73,7 @@ For this assignment, use **Manual Mode (M)**.
 - Start at **1/60s**. You may adjust to **1/125s** if needed
 - Shutter speed in this assignment is used primarily to: fine-tune overall exposure, and avoid motion blur while keeping movement natural
 - Because the subject is mostly still, extreme shutter speeds are not required.
+- **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.
 
 ### ISO
 
