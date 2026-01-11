@@ -4,9 +4,9 @@
     "description": "Learn how to import multimedia material from the Canon Camera to the Computer using the USB Cable.",
     "children": [
       {
-        "title": "Import on Mac",
+        "title": "Canon Camera Import using USB Cable on a Mac (Photos App)",
         "description": "Learn how to import multimedia material from the Canon Camera to the Mac using the USB Cable.",
-        "tutorialEmbedCode": ""
+        "tutorialEmbedCode": "https://www.youtube.com/embed/0PtZ7LokBeY?si=JeYm3KEGlXTLU1Kn"
       },
       {
         "title": "Import on Windows",
