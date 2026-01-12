@@ -92,29 +92,30 @@ Use the **control knobs on the back of the light** to adjust:
 ## 1. Camera on Video
 
 - Set the camera to **Video Mode**
-- Set the **Aspect Ratio** to **16:9** and **Resolution** to **1920 × 1080 px**
+- Set the **Aspect Ratio** to **16:9**
   > An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.
-- Set the **Frame Rate** to **30 fps** (or **29.97 fps**)
+- Set the **Resolution** to **1920x1080**
+  > **Resolution** refers to the pixel dimensions (width x height) of an image or display, which determines the level of detail.
+- Set the **Frame Rate** to **30 fps**
   > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
 
-### How to set the aspect ratio:
+### How to set aspect ratio, resolution, and frame rate:
 - Go to **Menu**
-- Navigate to the **fourth menu tab**
-- Select **Display ratio**
-- Choose **16:9**
+- Navigate to the **second video tab**
+- Select **Movie rec. size**
+- Choose **1920 30**
 
 <img src="imgs/27.png" style="width: 70%; height: auto;">     
 
 <img src="imgs/30.jpg" style="width: 70%; height: auto;">  
 
-### How to set the FPS:
-Coming soon
-
 ### Recommended: Activate the Grid display
 - Go to **Menu**
-- Navigate to the **fourth menu tab**
+- Navigate to the **first video tab**
 - Select **Grid Display**
 - Choose **Grid 1**
+
+<img src="imgs/35.png" style="width: 70%; height: auto;"> 
 
 ---
 
