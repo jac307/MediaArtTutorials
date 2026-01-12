@@ -60,7 +60,7 @@ With your partner, open a document (Word or Google Docs) and answer the followin
 
 <h3 style="color: darkred;">[40–60 min] Photograph (Individual and Group Work)</h3>
 
-‼️ Before taking photos, make sure you follow these instructions to [setup your Smartphone Camera for Photo and Video](Setup.md).  
+‼️ Before taking photos, make sure you follow these instructions to [setup your Smartphone Camera for Photo](Setup.md).  
 
 Take **40–60 photographs** using **only** the following techniques:
 - Medium Close-Up  
