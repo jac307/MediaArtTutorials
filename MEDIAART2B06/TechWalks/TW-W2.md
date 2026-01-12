@@ -239,9 +239,11 @@ Follow one of these tutorials to setup the **lapel Microphone** to your **side c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
-### Connect CAMERA to Audio-Technica Wireless Lavalier (AT899)
+### Connect CAMERA to Sennheiser Evolution Wireless(G4 Sys 100-P Series)
 
-Coming soon
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QHkD4EAtNjM?si=hJM9F8KW1PUiRy5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
 
 ### Basics of Audio for Video:  
 
