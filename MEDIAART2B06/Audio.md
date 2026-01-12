@@ -35,13 +35,14 @@ Ultra-compact, dual-channel wireless microphone system known for its versatility
 - 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
 - ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
 
-### Audio-Technica Wireless Lavalier (AT899)
+### Sennheiser Evolution Wireless(G4 Sys 100-P Series)
 
 <img src="TechWalks/imgs/19.jpg" style="width: 50%; height: auto;">
 
-Wired, subminiature omnidirectional condenser lavalier microphone. The standard AT899 model includes a power module with an XLR output and can be powered by a 1.5V AA battery or phantom power.
+Professional, rugged wireless microphone system designed for broadcast, documentary, and mobile journalism, featuring configurations for both lavalier (ME 2-II) and handheld mics.
 
-- 📘 [User Manual](https://ats.emory.edu/_includes/documents/studios/manuals/Audio%20Technica%20at899_ss%20Manual.pdf){:target="_blank"}
+- 📘 [User Manual](https://www.sennheiser.com/globalassets/digizuite/40917-en-ew_100_g4_manual_v2-2_10_2019_en.pdf?srsltid=AfmBOor908EkkQrDA1PrUKkBDowI-YYavIN7TPkgglV3OV4CBNk1JhO-){:target="_blank"}
+- ▶️ How to Setup Sennheiser G3 & G4 Wireless Lavalier: [link to YouTube video](https://www.youtube.com/watch?v=DsZ5ERErkJk){:target="_blank"}  
 
 ________________________________________________________________________
 
