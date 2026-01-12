@@ -105,7 +105,7 @@ Use the **control knobs on the back of the light** to adjust:
 - Select **Movie rec. size**
 - Choose **1920 30**
 
-<img src="imgs/27.png" style="width: 70%; height: auto;">     
+<img src="imgs/27.JPG" style="width: 70%; height: auto;">     
 
 <img src="imgs/30.jpg" style="width: 70%; height: auto;">  
 
@@ -115,7 +115,7 @@ Use the **control knobs on the back of the light** to adjust:
 - Select **Grid Display**
 - Choose **Grid 1**
 
-<img src="imgs/35.png" style="width: 70%; height: auto;"> 
+<img src="imgs/35.JPG" style="width: 70%; height: auto;"> 
 
 ---
 
