@@ -126,8 +126,8 @@ Use the **control knobs on the back of the light** to adjust:
 On Week 2, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
 
 - **Camera A:** Default kit lens (static - on tripoid)
-- **Camera B:** *85mm* (static - on tripoid)
-- **Camera C:** *50mm* (moving - handheld)
+- **Camera B:** *50mm* (static - on tripoid)
+- **Camera C:** *85mm* (moving - handheld)
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
