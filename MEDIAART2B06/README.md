@@ -47,11 +47,12 @@ Series of hands-on production exercises designed to **build core skills** in cam
   + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography
   + [W1 - Tutorials](Tutorials/index.html?file=T-W1.json) - Photoshop & Premiere Pro Fundamentals
 
-<!--
-+ [Week 2](M1/WT-W2.md) — Chiaroscuro Interview (Pairs)
++ Week 2 — Chiaroscuro Interview (Pairs)
   + [W2 - Tech Walkthrough](TechWalks/TW-W2.md) - Intro to DSLR Photography
   + [W2 - Tutorials](Tutorials/index.html?file=T-W2.json) - Photoshop & Premiere Pro Fundamentals
-  
+
+<!--
+[Week 2](M1/WT-W2.md) — Chiaroscuro Interview (Pairs)
 + [Week 3](M1/WT-W3.md) — Static Outdoor Scene (Groups of 3)
 + [Week 4](M1/WT-W4.md) — Continuous Shot (Individual)
 + [Week 5](M1/WT-W5.md) — Foley Sound Creation (Groups of 3)
