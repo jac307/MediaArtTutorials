@@ -49,8 +49,6 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 
 ### Key Light 
 - **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
-- **Modifier:** Use a softbox to control spill and create focused light.
-  > A softbox is a light modifier that surrounds a light source with reflective interior walls and a translucent front diffuser. 
 - **Power:** Set as the primary exposure source; adjust for desired highlight intensity.
 
 ### Fill Light
@@ -59,7 +57,9 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 
 ### Back (Rim) Light
 - **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background just o specific zones.   
-- **Modifier:** Can be a bare light or small softbox; keep power low.
+- **Modifier:** Use a softbox to control spill and create focused light.
+  > A softbox is a light modifier that surrounds a light source with reflective interior walls and a translucent front diffuser.
+- **Power:** Leep power low.  
 
 #### Setup Fiilex P360 LED Light Kit
 <div style= "width:80%; height:auto">
@@ -126,7 +126,7 @@ Use the **control knobs on the back of the light** to adjust:
 On Week 2, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
 
 - **Camera A:** Default kit lens (static - on tripoid)
-- **Camera B:** *50mm* or *85mm* (static - on tripoid)
+- **Camera B:** *85mm* (static - on tripoid)
 - **Camera C:** *50mm* (moving - handheld)
 
 <div style= "width:80%; height:auto">
@@ -151,7 +151,7 @@ For this assignment, use **Manual Mode (M)**.
 
 📌 *Always adjust lighting first before compensating with camera settings.*
 
-- Start with a **wide aperture**, such as **f/2.8 – f/4**
+- Start with a **wide aperture**, such as **f/2.8 – f/5**
 - A wider aperture lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
 - **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.
 - **Recommendation:** Keep the **same or similar aperture across all cameras** to make multi-camera exposure easier to manage.
@@ -173,8 +173,8 @@ For this assignment, use **Manual Mode (M)**.
 
 ### ISO
 
-- Begin at **ISO 100 or 200** for the cleanest image
-- Increase to **ISO 400–800** only if the scene is still too dark **after adjusting lights and aperture**
+- Begin at **ISO 400** for the cleanest image
+- Increase to **ISO 800-1600** only if the scene is still too dark **after adjusting lights and aperture**
 - Avoid going higher unless instructed, as higher ISO introduces visible noise (especially in low-light scenes)
 
 <div style= "width:80%; height:auto">
