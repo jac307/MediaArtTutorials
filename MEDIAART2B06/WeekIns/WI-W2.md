@@ -109,14 +109,14 @@ Divide tasks evenly and support one another during setup.*
 ### Camera B — Side View / Eye Level (Tripod)
 - Positioned approximately **30–45°** from the subject
 - Emphasizes depth, facial structure, and chiaroscuro  
-- Lens: **50mm** or **85mm**
+- Lens: **50mm**
 - Focus: **Manual**
 - Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
 
 ### Camera C — Detail Camera (Handheld)
 - Close-up details: hands, gestures, partial facial features
 - Allows subtle movement and visual variation
-- Lens: **50mm**
+- Lens: **85mm**
 - Focus: **Manual**
 
 📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
