@@ -48,8 +48,8 @@ Series of hands-on production exercises designed to **build core skills** in cam
   + [W1 - Tutorials](Tutorials/index.html?file=T-W1.json) - Photoshop & Premiere Pro Fundamentals
   
 + Week 2 — Chiaroscuro Interview (Pairs)
-  + [W2 - Tech Walkthrough](TechWalks/TW-W2.md) - Intro to DSLR Photography
-  + [W2 - Tutorials](Tutorials/index.html?file=T-W2.json) - Photoshop & Premiere Pro Fundamentals
+  + [W2 - Tech Walkthrough](TechWalks/TW-W2.md) - Chiaroscuro Interview: Camera, Lighting & Audio Setup
+  + [W2 - Tutorials](Tutorials/index.html?file=T-W2.json) - Importing Camera Footage & Multi-Camera Editing in Premiere Pro
 
 <!--
 [Week 2](M1/WT-W2.md) — Chiaroscuro Interview (Pairs)
