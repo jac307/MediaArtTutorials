@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">P1 – In-Class Work I</h1>  
 
-<img src="imgs/04.png" style="width: 60%; height: auto;">
+<img src="imgs/04.JPG" style="width: 60%; height: auto;">
 
 ---
 ### Analogue Experimentation · Brainstorming (Process-Focused Session)
@@ -41,39 +41,44 @@ You must arrive prepared with:
 
 ### Available Stations
 
-- **Station 1 — Scanners**
-  - Two flatbed scanners connected to separate computers
+- **Station 1 — Scanner**
+  - A flatbed scanners connected to a computer
   - Explore scanning photos, letters, or objects
   - Experiment with movement during scanning to create distortions
+ 
+<img src="imgs/03-1.JPG" style="width: 50%; height: auto;">
 
-- **Station 2 — Overhead Projector**
-  - Two Light overhead projectors
-  - Project photos, letters, drawings, or objects
-  - Record the projection or details of the projection surface using your phone
+- **Station 2 — Light Table**
+  - One Light Table
+  - See through photos, letters or drawings
+  - Record details of the surface using your phone
+ 
+<img src="imgs/03-2.JPG" style="width: 50%; height: auto;">
 
 - **Station 3 — CRT TVs**
   - Three-Four CRT televisions
   - Play images or videos from your USB and record the screen output using your phone
   - Experiment with framing, focus, glare, and screen texture
+ 
+<img src="imgs/03-3.JPG" style="width: 50%; height: auto;">
 
 - **Station 4 — Hand Recorders (Voice & Sound)**
   - Portable audio recorders
   - Record voice tests, ambient sounds, or spoken notes
   - This station is for **audio experimentation only**
-
-<img src="imgs/03.png" style="width: 100%; height: auto;">
+ 
+<img src="imgs/03-4.JPG" style="width: 50%; height: auto;">
 
 ### Minimum Experimentation Requirements
 
 During the 40-minute experimentation block, you **must**:
 
 - Visit **at least two (2)** stations  
-  *(you may explore up to three if time allows)*
 
 - At **each station**, produce **at least one test outcome**, such as:
   - A short video clip (5–30 seconds)
   - A short audio recording
-  - A series of still images documenting the process or result
+  - A series of photographs documenting the process or result
 
 - Actively experiment using:
   - Media from your USB **and/or**
