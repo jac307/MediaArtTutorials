@@ -96,15 +96,18 @@ Available Equipment / Stations
 - **Station 1:** Computer lab (entrance)
   - **Three Scanners**
   - **Light Table** - access to a printer and translucent printing vellum
+  - **Hand recorders**
 - **Station 2:** Computer lab (middle)
-  - **One CRT TVs**
+  - **One CRT TVs (Toshiba)**
 - **Station 3:** Computer lab (back)
-  - **One CRT TVs** with **black backdrop**
+  - **Two Monitors (Commodore)** with **black backdrop**
 - **Station 4:** TSH 201
   - **Overhead Light Projector**
-  - **Two CRT TVs (Sony)** with **speaker** - TSH 203
+  - **Two Monitors (Sony)** with **speaker** - TSH 203
 - **Station 5:** TSH 203
-  - **Hand recorders**
+  - **One CRT TV (Toshiba)**
+  
+  - **Professional mic setup**
 
 ### Note for Sony Video Cameras
 
