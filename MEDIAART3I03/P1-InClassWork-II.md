@@ -80,7 +80,7 @@ Using the analogue media stations, record all visual materials needed for your d
 
 ### Recording Note (Very Important)
 
-For **Class Work II**, **professional cameras will be available at the stations**.
+For **Class Work II**, **professional video cameras will be available at each station**.
 
 - You **must use the provided professional cameras** to record your visuals
 - **Cellphones are not permitted** for visual recording in this session
@@ -92,11 +92,19 @@ You are expected to:
 - Record multiple takes or variations when possible
 - ❗ Save all of your files in your USB before leaving class ❗
 
-The same four stations from Class Work I will be available:
-- **Scanners**
-- **Overhead projector**
-- **CRT TVs**
-- **Hand recorders** (ambient sound)
+Available Equipment / Stations
+- **Station 1:** Computer lab (entrance)
+  - **Three Scanners**
+  - **Light Table** - access to a printer and translucent printing vellum
+- **Station 2:** Computer lab (middle)
+  - **One CRT TVs**
+- **Station 3:** Computer lab (back)
+  - **One CRT TVs** with **black backdrop**
+- **Station 4:** TSH 201
+  - **Overhead Light Projector**
+  - **Two CRT TVs (Sony)** with **speaker** - TSH 203
+- **Station 5:** TSH 203
+  - **Hand recorders**
 
 ### Note for Sony Video Cameras
 
