@@ -92,22 +92,26 @@ You are expected to:
 - Record multiple takes or variations when possible
 - ❗ Save all of your files in your USB before leaving class ❗
 
-Available Equipment / Stations
+Available Equipment / Stations  
+
 - **Station 1:** Computer lab (entrance)
   - **Three Scanners**
   - **Light Table** - access to a printer and translucent printing vellum
   - **Hand recorders**
+   
 - **Station 2:** Computer lab (middle)
   - **One CRT TVs (Toshiba)**
+    
 - **Station 3:** Computer lab (back)
   - **Two Monitors (Commodore)** with **black backdrop**
+    
 - **Station 4:** TSH 201
   - **Overhead Light Projector**
   - **Two Monitors (Sony)** with **speaker** - TSH 203
+     
 - **Station 5:** TSH 203
   - **One CRT TV (Toshiba)**
-  
-  - **Professional mic setup**
+  - **Professional mic setup**  
 
 ### Note for Sony Video Cameras
 
