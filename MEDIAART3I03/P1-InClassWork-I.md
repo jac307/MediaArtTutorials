@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">P1 – In-Class Work I</h1>  
 
-<img src="imgs/04.JPG" style="width: 60%; height: auto;">
+<img src="imgs/04.JPG" style="width: 80%; height: auto;">
 
 ---
 ### Analogue Experimentation · Brainstorming (Process-Focused Session)
