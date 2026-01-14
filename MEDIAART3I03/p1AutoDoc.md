@@ -20,7 +20,7 @@ In this project, you will create a **2–3 minute autobiographical documentary**
 
 The project is grounded in **auto-ethnographic research** and the use of **personal archival materials**, which must be **re-mediated through analogue media technologies** provided in class.
 
-This project unfolds across **three structured class-work sessions**, each requiring a **mandatory upload** so the instructor can provide feedback and track your creative process.
+This project unfolds across **three structured class-work sessions**, each requiring a **submission** so the instructor can provide feedback and track your creative process.
 
 ---
 
@@ -42,13 +42,14 @@ You will work with some of the following tools:
 - CRT TVs  
 - Overhead projector  
 - Cassette recorders  
-- Scanners  
+- Scanners
+- Light Table 
 
 <img src="imgs/02.png" style="width: 50%; height: auto;">
 
 Examples of valid re-mediation include:
-- Recording images or videos **off a CRT screen**
-- Filming projections of photos, letters, or objects
+- Recording images or videos playing on **a screen** (CRT TV or Projection)
+- Filming interactions with photos, letters, or objects
 - Recording narration or ambient sounds onto cassette, then re-recording
 - Scanning photos or objects while moving them to create distortions
 
