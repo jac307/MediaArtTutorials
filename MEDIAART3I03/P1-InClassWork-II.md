@@ -107,7 +107,7 @@ Available Equipment / Stations
     
 - **Station 4:**
   - **Overhead Light Projector**
-  - **Two Monitors (Sony)** with **speaker** - TSH 203
+  - **Two Monitors (Sony)** with **speaker**
      
 - **Station 5:** 
   - **One CRT TV (Toshiba)**
