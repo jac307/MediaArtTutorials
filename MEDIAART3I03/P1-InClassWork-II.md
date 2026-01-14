@@ -94,22 +94,22 @@ You are expected to:
 
 Available Equipment / Stations  
 
-- **Station 1:** Computer lab (entrance)
+- **Station 1:**
   - **Three Scanners**
   - **Light Table** - access to a printer and translucent printing vellum
   - **Hand recorders**
    
-- **Station 2:** Computer lab (middle)
+- **Station 2:**
   - **One CRT TVs (Toshiba)**
     
-- **Station 3:** Computer lab (back)
+- **Station 3:** 
   - **Two Monitors (Commodore)** with **black backdrop**
     
-- **Station 4:** TSH 201
+- **Station 4:**
   - **Overhead Light Projector**
   - **Two Monitors (Sony)** with **speaker** - TSH 203
      
-- **Station 5:** TSH 203
+- **Station 5:** 
   - **One CRT TV (Toshiba)**
   - **Professional mic setup**  
 
