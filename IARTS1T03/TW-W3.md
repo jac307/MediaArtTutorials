@@ -4,8 +4,6 @@
 
 <h1 style="color: darkred;">W3: Technical Walkthrough Activity - Technical Scene Analysis (POV + Space)</h1>
 
-## Technical Walkthrough Activity: Scene Analysis (POV as Embodied Witness)
-
 **Goal:** Practice Week 1–3 vocabulary by analyzing how **camera position (POV)** shapes space and creates a relationship to the scene.
 
 ---
@@ -44,17 +42,6 @@
 
 > **Note:** Even if your group is not selected to present, you are still expected to complete the analysis during class time.
 
----
-
-### Vocabulary to Use (no new terms)
-
-<img src="imgs/02.png" style="width: 80%; height: auto;">  
-<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
-<img src="imgs/04.jpeg" style="width: 80%; height: auto;">  
-<img src="imgs/05.jpeg" style="width: 80%; height: auto;">  
-
----
-
 <h2 style="color: darkred;">Analysis Prompts (answer as a group)</h2>
 
 - Where does the camera “stand” in relation to the scene (close/far, inside/outside)?
@@ -63,6 +50,13 @@
 - What sits in the foreground, middleground, and background—and how does that shape meaning?
 - What relationship does the POV create: **witnessing or control or just recording (trying to stay neutral)**? (Give one piece of evidence.)
 
+### Vocabulary to Use (no new terms)
+
+<img src="imgs/02.png" style="width: 60%; height: auto;">  
+<img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
+<img src="imgs/04.jpeg" style="width: 60%; height: auto;">  
+<img src="imgs/05.jpeg" style="width: 60%; height: auto;">  
+  
 ---
 
 <h2 style="color: darkred;">Presentation Format </h2>
@@ -72,6 +66,6 @@ Select 2 students to speak in behalf of the group. Prepare:
 - **1 sentence:** What is happening in the clip?
 - **2-3 lines:** Describe POV + framing + composition + layers
 - **2-3 lines:** What relationship does this POV produce (witnessing, control, apparent neutrality), and why?
-  
+
 ---
 
