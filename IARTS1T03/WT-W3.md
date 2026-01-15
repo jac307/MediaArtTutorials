@@ -11,7 +11,8 @@
 ## Objective
 
 Build on your Week 1–2 geometric scene by treating the camera as an **embodied witness**.  
-This activity focuses on how **point of view (POV)** creates a relationship to space through: **Framing • Composition • Distance & Layers • Blocking for camera**.  
+This activity focuses on how **point of view (POV)** creates a relationship to space through:  
+**Framing • Composition • Distance & Layers • Blocking for camera**.  
 
 This week, you will work with **multiple cameras** to compare how different viewpoints produce different meanings.  
 
