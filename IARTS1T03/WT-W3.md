@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W2 — Camera, Framing & Cinematic Space</span>
+# <span style="color: darkred;">W3 — POV as Embodied Witness (Multi-Camera Scene)</span>
 
 <figure style="width: 80%; margin: auto;">
   <img src="imgs/06.png" style="width: 100%; height: auto;">
@@ -10,10 +10,10 @@
 
 ## Objective
 
-Build on your **Week 1 spatial scene** by introducing the **camera as a spatial body**.  
-This activity focuses on how meaning is produced through **camera position, framing, composition, and blocking for camera**.
+Build on your Week 1–2 geometric scene by treating the camera as an **embodied witness**.  
+This activity focuses on how **point of view (POV)** creates a relationship to space through: **Framing • Composition • Distance & Layers • Blocking for camera**.  
 
-You will move from **space → camera intention → multiple points of view**, learning how cinematic space is **constructed**.
+This week, you will work with **multiple cameras** to compare how different viewpoints produce different meanings.  
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -27,7 +27,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **Blender (free software)**  
   👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
 - Computer mouse (recommended)
-- Your **Week 1 Blender file (.blend)**
+- Your **Week 2 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -37,63 +37,58 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[15 min] Camera Intention — Start Here</h3>
+<h3 style="color: darkred;">[15 min] Witnessing Intention — Start Here</h3></h3>
 
-Before drawing camera positions or opening Blender, write **3–4 sentences** describing the **intention of the camera** in relation to your space.
+Write **3–4 sentences** describing the intention of the camera as an **embodied witness** in your scene.  
 
-You may **reuse or revise** your Week 1 artistic intention, but now focus on what it means to experience the space **through the eyes of the camera**.
+This should build on your previous intention, but now focus strongly on the relationship created by the camera.   
 
 <div style="color: gray; font-style: italic; margin-top: 0.75em;">
-This week, the camera is an active spatial body that determines how the space is seen, framed, and experienced.
+This week, the camera does not only "show" the scene.  
+It stands in for the audience’s body: where it stands is where we stand.
 </div>
 
 ### Guiding Questions
-- What does the camera *want* to reveal or withhold in this space?
-- How close or distant should the viewer feel?
-- Who or what is centered, peripheral, or excluded through the camera’s position?
+- What kind of relationship should the viewer have to this space: **close, distant, protected, exposed**?
+- What does the camera give access to—and what does it **withhold**?
+- Does the POV feel like **witnessing** or **control**? Why?
 
 ➡️ **Save this text** for submission.
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Floor Map + Composition Map (Design First)</h3>
+<h3 style="color: darkred;">[20 min] 2D Camera Map (3 Cameras)</h3>
 
-Using your **camera intention** as a guide, create a **2D camera planning map**. **See example above (below the main title)**  
-> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements below.
+Using your witnessing intention, create a **2D camera planning map** (based on your Week 2 plan).  
+> **Note:** Your drawing skill is not graded. You are graded on clarity and completion.
 
 ### Requirements
 - Hand-drawn (preferred) or digital
-- Based on your **Week 1 floor plan** (you may update it)
+- Based on your **Week 2 floor plan** (you may update it)
 - Include **THREE (3) cameras**, each with a different:
-  - **Position / Point of View**
-  - **Framing**. You should have one Wide Shot, one Medium Shot, and one Close-Up Shot.
-  - **Composition strategy** (Use any: Rule of Thirds, Leading Lines, Centered/Symmetry)
+  - **Camera A: Witness POV** (closer / aligned / relational)
+  - **Camera B: Just Recording POV** (apparent neutrality; observational / standard coverage)
+  - **Camera C: Control/Surveillance POV** (distant / overseeing; often higher angle or more detached)
 
 ### Your map should clearly show:
-- Camera positions
-- Direction the camera is facing (indicate with an arrow)
-- Approximate framing area (what is meant to be captured)
-- A small sketch or visual reference for the *intended look* of each camera
-- ✅ **Note:** You are planning **three shots**, but you will use **one camera object** in Blender.  
+- Camera positions (top view)
+- Direction each camera faces (arrow)
+- Intended framing (Wide / Medium / Close)
+- One composition strategy per camera (Thirds / Lines / Centered-Symmetry)
+- A small sketch of the intended look for each camera using the vocabulary of the class.  
 
 > ⚠️ This step must be completed **before** working in Blender.
 
 ➡️ **Save this image** for submission (JPEG or PNG).
-
-### Relevant vocabulary
-
-<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
-<img src="imgs/04.jpeg" style="width: 80%; height: auto;">  
-<img src="imgs/05.jpeg" style="width: 80%; height: auto;">  
 
 ---
 
 <h3 style="color: darkred;">[60 min] 3D Scene + Cameras in Blender</h3>
 
 ### Update or revise your space
-- You may **adjust, refine, or rebuild** your Week 1 scene if needed.
+- You may **adjust, refine, or rebuild** your Week 2 scene if needed.
 - Continue using **only basic geometric shapes**.
-- Keep the Week 1 constraints:
+- Keep the Module I constraints:
   - ❌ No materials or textures  
   - ❌ No lighting changes  
   - ❌ No modifiers  
@@ -101,69 +96,24 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 ---
 
-### Add ONE Camera (New for Week 2)
+### Multiple Cameras + Render
 
-You will work with **one camera** in Blender and create **three different renders** by repositioning it.
+### Required: Create Three cameras (A + B + C)
+Add **three cameras** to the scene and set each one according to your camera map. Render all cameras separatelly.  
 
-### Workflow (do in order)
-1. Place the camera for **Shot 1 (Wide)** → **Render Image 1**
-2. Move the **same camera** for **Shot 2 (Medium)** → **Render Image 2**
-3. Move the **same camera** for **Shot 3 (Close-Up)** → **Render Image 3**
-
-> **Important:** Keep your scene the same across all three renders.  
-> Only the **camera position** should change.
+- **Camera A:** Witness POV  
+- **Camera B:** Just Recording POV
+- **Camera C:** Control/Surveillance POV  
 
 ### Camera Constraints
-- ❌ No changes in the type of camera  
-- ❌ No animation
-- ❌ Ignore lighting, materials, animation, and other more advance shapes for now
-- ✅ Focus only on:
-  - camera position (point of view)
+- Use default lens settings for Cameras A and B
+- ❌ No camera movement/animation  
+- ✅ Focus on:
+  - camera position (POV)
   - framing (wide/medium/close)
-  - composition strategy (thirds/lines/symmetry)
-  - **optional**: focus and depth of field
-
-#### Adding a Camera (Try this intro video first)
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sDZ0zRVn1M?si=qjZzCSUiO8lvhEI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
-
-#### How To Render Image In Blender - Full Guide
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/edEh6lchqE0?si=9PLtMjXB_GItiqWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-#### How to Use the Camera in Blender (Full)
-
-<ul>
-  <li style="color: gray;">00:00 — Intro (skip)</li>
-  <li><strong>00:46 — Adding a Camera</strong></li>
-  <li><strong>01:14 — Using the Camera View</strong></li>
-  <li><strong>01:43 — Changing the Active Camera</strong></li>
-  <li style="color: gray;">02:34 — Speed Up Preview Times (skip)</li>
-  <li><strong>03:15 — Moving the Camera</strong></li>
-  <li><strong>04:08 — Trackball Rotation</strong></li>
-  <li><strong>05:39 — Move Around</strong></li>
-  <li><strong>07:11 — Fly Mode</strong></li>
-  <li><strong>08:03 — Camera View</strong></li>
-  <li style="color: gray;">09:17 — Resolution (skip)</li>
-  <li><strong>09:56 — Composition Guides</strong></li>
-  <li style="color: gray;">10:53 — Transparency (skip)</li>
-  <li><strong>11:29 — Lens Settings</strong></li>
-  <li style="color: gray;">12:13 — Orthographic Settings (skip)</li>
-  <li style="color: gray;">12:39 — Panorama Settings (skip)</li>
-  <li style="color: gray;">12:32 — Clip Start Clip End (skip)</li>
-  <li><strong>14:20 — Depth of Field</strong></li>
-  <li><strong>14:50 — Object Focus</strong></li>
-  <li style="color: gray;">15:22 — Eyedropper (skip)</li>
-  <li style="color: gray;">15:45 — FStop (skip)</li>
-</ul>
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=ijTWxa0xFGUKBxix&amp;start=46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+  - composition (thirds/lines/symmetry)
+  - distance & layers (foreground/middleground/background)
+  - blocking for camera (relationships between bodies/objects and the camera)
 
 ---
 
@@ -175,28 +125,26 @@ You will work with **one camera** in Blender and create **three different render
    > Full name, student number, and tutorial number.
 
 2. **Camera Intention**  
-   > 3–4 sentences describing how the camera relates to and interprets the space.
+   > 3–4 sentences describing how POV is embodied and what relationship it creates.
 
 3. **2D Camera + Composition Map**  
-   > Include your labeled plan showing all three cameras and intended framing/composition.  
-   > Note: Your 2D Floor Plan must take up at least half a page.
+   > Include your labeled camera plan (3 cameras).
 
-4. **Rendered Images (3 total)**  
-   > One rendered image per camera.  
+4. **Rendered Cameras**
+   - **Camera A:** Witness POV
+   - **Camera B:** Just Recording POV
+   - **Camera C:** Control/Surveillance POV  
    > These must be **renders**, not screenshots.  
    > Note: Each of your screenshots must take up at least half a page.
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W2-Tutorial.pdf`
+📄 **Filename:** `Lastname-Firstname-W3-Tutorial.pdf`
 
 ### Save Blender File
 
 ➡️ **Save as .blend**  
-📄 **Filename:** `Lastname-Firstname-W2-3Dscene.blend`
+📄 **Filename:** `Lastname-Firstname-W3-3Dscene.blend`
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C66aXQ9WntU?si=xYdVq7BvWDzfYRob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
 
 ---
 
@@ -204,8 +152,8 @@ You will work with **one camera** in Blender and create **three different render
 
 | Component         | File Name                            |
 |------------------|---------------------------------------|
-| Project document | `Lastname-Firstname-W2-Tutorial.pdf`  |
-| Blender file     | `Lastname-Firstname-W2-3Dscene.blend` |
+| Project document | `Lastname-Firstname-W3-Tutorial.pdf`  |
+| Blender file     | `Lastname-Firstname-W3-3Dscene.blend` |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -213,12 +161,12 @@ You will work with **one camera** in Blender and create **three different render
 
 ## Assessment
 
-This Week 2 activity is **graded lightly** based on:
+This Week 3 activity is **graded lightly** based on:
 
 - Completion and effort
-- Clarity of **camera intention**
-- Thoughtful use of **point of view, framing, and composition**
-- Basic technical application of cameras and rendering in Blender
+- Clarity of **witnessing intention**
+- Thoughtful use of vocabulary: POV, framing, composition, layers, blocking
+- Technical application: multiple cameras + rendered images
 
 This is an exploratory exercise — **clarity and spatial thinking matter more than polish**.
 
