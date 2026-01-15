@@ -130,7 +130,7 @@ Each team must submit materials **one day before** their presentation:
 
 Some of the video works listed below are available on Kanopy. As a McMaster student, you have free access.  
 Follow this link to set up your Kanopy account:  
-<a href="https://library.mcmaster.ca/databases/kanopy" target="_blank" rel="noopener noreferrer">Kanopy (McMaster Library Access)</a>
+<a href="https://library.mcmaster.ca/databases/kanopy" target="_blank" rel="noopener noreferrer">Kanopy (McMaster Library Access)  </a>
 
 ### **Week 3**
 - **Keywords**: Walking as practice, observation vs. control, everyday space, movement and meaning, presence, environment as collaborator  
