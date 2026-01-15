@@ -16,11 +16,16 @@
 
 ### Clips
 
-+
-+
-+
-+
-+
++ Frankenstein (2011) | ['Don't Scream'](https://www.youtube.com/watch?v=k5LISAvqV_c){:target="_blank"} | National Theatre at Home
+  > Stage production of Mary Shelley’s classic novel, directed by Danny Boyle and performed at the Royal National Theatre in London.
++ Get Out (2017) - [Hypnosis scene](https://www.youtube.com/watch?v=PZX0BNQel_s){:target="_blank"}
+  > Critically acclaimed psychological horror film written and directed by Jordan Peele.
++ Contact (1997) - [Mirror Scene](https://www.youtube.com/watch?v=vLLIHSTp87o){:target="_blank"}
+  > Science fiction drama film directed by Robert Zemeckis and based on the 1985 novel by Carl Sagan.
++ ”O” - [Fire Performer only](https://youtu.be/1aDFGpI-DRE?si=iEMJbn9L5IQbU8Wu&t=299){:target="_blank"} | Cirque du Soleil
+  > Long-running, highly acclaimed aquatic-themed stage production residing at the Bellagio in Las Vegas.
++ Euphoria - [Maddy and cassie after fight](https://www.youtube.com/watch?v=3WoE_57Soas){:target="_blank"} | HBO
+  > Psychological teen drama series that explores the lives of high school students and their transition into adulthood.
 
 ---
 
