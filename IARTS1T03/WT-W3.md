@@ -48,7 +48,7 @@ Create a **2D camera planning map**. **See example above (below the main title)*
 - Based on your **Week 2 floor plan** (you may update it)
 - Include **THREE (3) cameras**, each with a different:
   - **Camera A: Witness POV** (closer / aligned / relational)
-  - **Camera B: Just Recording POV** (apparent neutrality; observational / standard coverage)
+  - **Camera B: Detachment POV** (apparent neutrality; observational / standard coverage)
   - **Camera C: Control/Surveillance POV** (distant / overseeing; often higher angle or more detached)
 
 ### Your map should clearly show:
@@ -84,7 +84,7 @@ Create a **2D camera planning map**. **See example above (below the main title)*
 Add **three cameras** to the scene and set each one according to your camera map. Render all cameras separatelly.  
 
 - **Camera A:** Witness POV  
-- **Camera B:** Just Recording POV
+- **Camera B:** Detachment POV
 - **Camera C:** Control/Surveillance POV  
 
 ### Camera Constraints
