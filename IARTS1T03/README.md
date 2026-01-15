@@ -22,7 +22,7 @@ Software (freeware):
 + [Week 2](WT-W2.md) — Script: shot composition + camera positions
 
 <!--
-+ [Week 3](WT-W3.md) — Camera framings
++ [Week 3](WT-W3.md) — POV as Embodied Witness (Multi-Camera Scene)
   + [W3: Technical Walkthrough Activity](TW-W3.md) — Technical Scene Analysis (POV + Space)
 
 
