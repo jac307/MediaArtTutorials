@@ -72,11 +72,10 @@ Using your witnessing intention, create a **2D camera planning map**. **See exam
   - **Camera C: Control/Surveillance POV** (distant / overseeing; often higher angle or more detached)
 
 ### Your map should clearly show:
-- Camera positions
+- Indicate each camera’s rotation (direction), level/height, and closeness to the main shapes.
 - Direction each camera faces (arrow)
-- Intended framing (Wide / Medium / Close)
+- Intended framing (Wide / Medium)
 - One composition strategy per camera (Thirds / Lines / Centered-Symmetry)
-- Indicate each camera’s rotation (direction), level/height, and closeness to the main shapes. 
 - A small sketch or visual reference for the *intended look* of each camera
 - ✅ **Note:** This time you are using **three separate camera objects** in Blender.
 
