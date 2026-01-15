@@ -65,7 +65,8 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h3 id="idea" style="color: darkred;">1. Interview Prompt - Idea Phase [Complete before class]</h3>
 
-**New Note:** You can use another student (outside the pair/group) to interview.  
+**Note:** It is **highly recommended** that the interviewee be **another student outside your pair**, ideally from your **station group of ten**.  
+This allows both members of the pair to focus fully on **camera operation, framing, lighting, and sound** during recording.   
 
 📌 **You are not graded on *what* is being said.**  
 Do not spend excessive time developing content or scripting responses.
