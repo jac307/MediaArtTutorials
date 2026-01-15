@@ -121,14 +121,14 @@ You are designing <strong>three different relationships</strong> to the same spa
 </div>
 
 ### Write 2–3 sentences for each camera:
-- <strong>Camera A — Witness POV</strong> (close / aligned / relational)
-- <strong>Camera B — Just Recording POV</strong> (apparent neutrality; observational / standard coverage)
-- <strong>Camera C — Control / Surveillance POV</strong> (distant / overseeing; higher angle or detached)
+- **Camera A — Witness POV** (close / aligned / relational)
+- **Camera B — Just Recording POV** (apparent neutrality; observational / standard coverage)
+- **Camera C — Control / Surveillance POV** (distant / overseeing; higher angle or detached)
 
 ### Guiding Prompts (use these to write each description)
-- <strong>Where is the camera “standing”</strong> (height/level, distance, angle) and what does that imply?
-- What does this POV <strong>give the viewer access to</strong> — and what does it <strong>withhold</strong>?
-- What kind of relationship does this POV produce: <strong>care</strong> (witnessing), <strong>detachment</strong> (just recording), or <strong>pressure/control</strong> (surveillance)?
+- **Where is the camera “standing”** (height/level, distance, angle) and what does that imply?
+- What does this POV **give the viewer access to** — and what does it **withhold**?
+- What kind of relationship does this POV produce: **care** (witnessing), **detachment** (just recording), or **pressure/control** (surveillance)?
 
 ➡️ **Save this text** for submission.
 
@@ -141,18 +141,16 @@ You are designing <strong>three different relationships</strong> to the same spa
 1. **General Information**  
    > Full name, student number, and tutorial number.
 
-2. **Camera Intention**  
-   > 3–4 sentences describing how POV is embodied and what relationship it creates.
-
-3. **2D Camera + Composition Map**  
+2. **2D Camera + Composition Map**  
    > Include your labeled camera plan (3 cameras).
 
-4. **Rendered Cameras**
-   - **Camera A:** Witness POV
-   - **Camera B:** Just Recording POV
-   - **Camera C:** Control/Surveillance POV  
-   > These must be **renders**, not screenshots.  
-   > Note: Each of your screenshots must take up at least half a page.
+3. **Camera Intention + Rendered Cameras**. Include the rendered image plus 2–3 sentences for each camera:  
+   - Render **Camera A** - Witness POV + Explain how this POV creates witnessing  
+   - Render **Camera B** - Just Recording POV +  Explain how this POV suggests *apparent neutrality*  
+   - Render **Camera C** - Control/Surveillance POV + Explain how this POV produces *oversight/control*   
+
+> Images should be **renders**, not screenshots.  
+> Each of your screenshots must take up at least half a page.
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W3-Tutorial.pdf`
