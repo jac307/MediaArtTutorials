@@ -40,7 +40,105 @@ ________________________________________________________________________
 
 <h1 style="color: darkred;">Available Lens</h1>
 
-**Note**: This section highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
+<!--
+
+### Canon 24-105mm 1:3.5-5.6 IS STM
+
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+
+A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+  </figcaption>
+</figure>  
+
+### Canon 24-105mm 1:4 L IS II USM
+
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+
+A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+  </figcaption>
+</figure>  
+
+### Canon 24mm 1:1.4 L II USM
+
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+
+A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+  </figcaption>
+</figure>  
+
+### Canon 24mm 1:2.8
+
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+
+A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+  </figcaption>
+</figure>  
+
+### Canon 24mm 1:2.8 IS USM
+
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+
+A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+  </figcaption>
+</figure>  
+
+### Canon 35mm 1:2
+
+<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+
+A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+  </figcaption>
+</figure>  
+
+--> 
 
 ### Canon 50mm 1:1.4 USM
 
