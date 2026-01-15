@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W3 — POV as Embodied Witness (Multi-Camera Scene)</span>
 
 <figure style="width: 80%; margin: auto;">
-  <img src="imgs/06.png" style="width: 100%; height: auto;">
+  <img src="imgs/07.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
