@@ -54,8 +54,8 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
+  <li><a href="#idea">2. Interview Prompt - Idea Phase</a></li> - **Complete before class**
   <li><a href="#setup">1. Group Organization & Setup</a></li>
-  <li><a href="#idea">2. Interview Prompt - Idea Phase</a></li>
   <li><a href="#recording">3. Recording</a></li>
   <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
   <li><a href="#premiere">5. Post-Production: Assemble in Premiere Pro</a></li>
@@ -63,69 +63,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h3 id="setup" style="color: darkred;">1. Group Organization & Setup [40m]</h3>
-
-You will be assigned to a **station group (10 students)**.
-
-Each group is responsible for:
-- Setting up cameras, lights, and audio **together**
-- Following the **Week 2 Tech Walkthrough**  
-  👉 [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
-
-Station locations and group assignments will be:
-- Posted on **Avenue to Learn**
-- Printed and posted in the space
-- Shown on slides in class
-
----
-
-## Space Configurations
-
-As a group, you will:
-
-- Set up the **backdrop** (if available)
-- Position the **subject** (chair and seating placement)
-- Set up the **three-point lighting** arrangement
-- Establish clear **light–shadow contrast**
-- Position all **three cameras** (see below)
-- Connect and test **shotgun and lavalier microphones**
-
-⚠️ *Handle all equipment with care, especially lighting gear.  
-Divide tasks evenly and support one another during setup.*
-
----
-
-## Camera Configuration
-
-<img src="imgs/06.jpg" style="width: 100%; height: auto;"> 
-
-### Camera A — Frontal View / Eye Level (Tripod)
-- Primary interview shot
-- Visual anchor for the sequence  
-- Lens: **Default kit lens**
-- Focus: **Manual**
-- Microphone: **RODE VideoMic NTG (on-camera shotgun)**
-
-### Camera B — Side View / Eye Level (Tripod)
-- Positioned approximately **30–45°** from the subject
-- Emphasizes depth, facial structure, and chiaroscuro  
-- Lens: **50mm**
-- Focus: **Manual**
-- Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
-
-### Camera C — Detail Camera (Handheld)
-- Close-up details: hands, gestures, partial facial features
-- Allows subtle movement and visual variation
-- Lens: **85mm**
-- Focus: **Manual**
-
-📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
-📌 *Always adjust lighting first before compensating with camera settings.*   
-📌 *Lighting and white balance must be finalized **before** recording begins.*
-
----
-
-<h3 id="idea" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
+<h3 id="idea" style="color: darkred;">1. Interview Prompt - Idea Phase [Complete before class]</h3>
 
 **New Note:** You can use another student (outside the pair/group) to interview.  
 
@@ -192,13 +130,76 @@ Use the PDF worksheet below to help you decide:
 - ➡️ **Export as PDF**
 - 📄 **Filename:** `Grouo-#-Brainstorming.pdf`
 
+
+---
+
+<h3 id="setup" style="color: darkred;">2. Group Organization & Setup [40m]</h3>
+
+You will be assigned to a **station group (10 students)**.
+
+Each group is responsible for:
+- Setting up cameras, lights, and audio **together**
+- Following the **Week 2 Tech Walkthrough**  
+  👉 [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
+
+Station locations and group assignments will be:
+- Posted on **Avenue to Learn**
+- Printed and posted in the space
+- Shown on slides in class
+
+---
+
+## Space Configurations
+
+As a group, you will:
+
+- Set up the **backdrop** (if available)
+- Position the **subject** (chair and seating placement)
+- Set up the **three-point lighting** arrangement
+- Establish clear **light–shadow contrast**
+- Position all **three cameras** (see below)
+- Connect and test **shotgun and lavalier microphones**
+
+⚠️ *Handle all equipment with care, especially lighting gear.  
+Divide tasks evenly and support one another during setup.*
+
+---
+
+## Camera Configuration
+
+<img src="imgs/06.jpg" style="width: 100%; height: auto;"> 
+
+### Camera A — Frontal View / Eye Level (Tripod)
+- Primary interview shot
+- Visual anchor for the sequence  
+- Lens: **Default kit lens**
+- Focus: **Manual**
+- Microphone: **RODE VideoMic NTG (on-camera shotgun)**
+
+### Camera B — Side View / Eye Level (Tripod)
+- Positioned approximately **30–45°** from the subject
+- Emphasizes depth, facial structure, and chiaroscuro  
+- Lens: **50mm**
+- Focus: **Manual**
+- Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
+
+### Camera C — Detail Camera (Handheld)
+- Close-up details: hands, gestures, partial facial features
+- Allows subtle movement and visual variation
+- Lens: **85mm**
+- Focus: **Manual**
+
+📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
+📌 *Always adjust lighting first before compensating with camera settings.*   
+📌 *Lighting and white balance must be finalized **before** recording begins.*
+
 ---  
 
-<h3 id="recording" style="color: darkred;">3. Recording [1h40m]</h3>
+<h3 id="recording" style="color: darkred;">3. Recording [2h]</h3>
 
 Each pair records **two full takes**
 - Organize a clear recording order within your **group of 10**
-- Time per pair: **10 minutes**.
+- Time per pair: **12 minutes**.
 - The group is responsible for **self-managing time** throughout the activity.
 
 During recording, each pair **may adjust**:
