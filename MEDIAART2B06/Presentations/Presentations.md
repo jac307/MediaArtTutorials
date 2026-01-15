@@ -52,7 +52,8 @@ Responsibilities:
 
 **Delivery:**
 - In-person presentation (slides or media)
-- Slides should be submitted in advance  
+- You will use your own computer for presentation -- I will bring HDMI adapters
+- Slides should be submitted in advance (PDF format)  
 
 ---
 
@@ -76,6 +77,11 @@ Responsibilities:
 
 - Follow the <a href="Discussion-Plan-Template.docx" target="_blank" rel="noopener noreferrer">**Discussion Plan Template**</a>
 
+**Delivery:**  
+- Discussion Plan Template (PDF format) + additional media or handouts (PDF format) 
+- You will use your own computer for presentation -- I will bring HDMI adapters
+
+
 ---
 
 <h2 style="color: darkred;">Enrolment, Submission & Assessment Criteria</h2>
@@ -92,8 +98,8 @@ Responsibilities:
 
 Each team must submit materials **one day before** their presentation:
 
-- **Context Crew:** Slides and any supporting materials  
-- **Conversation Crew:** Discussion plan, activity outline, and questions  
+- **Context Crew:** Slides and any supporting materials (PDF format)  
+- **Conversation Crew:** Discussion plan, activity outline, and questions (PDF format)  
 - Any additional media or handouts  
 
 📌 *Submitted materials will be shared with the class and used for grading.*
