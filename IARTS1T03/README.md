@@ -20,11 +20,12 @@ Software (freeware):
 
 + [Week 1](WT-W1.md) — Floor plan + Blocking map
 + [Week 2](WT-W2.md) — Script: shot composition + camera positions
+
+<!--
 + [Week 3](WT-W3.md) — Camera framings
   + [W3: Technical Walkthrough Activity](TW-W3.md) — Technical Scene Analysis (POV + Space)
 
-<!--
-+ 
+
 + [Week 4](WT-W4.md) — Lighting states
 + [Week 5](WT-W5.md) — Mood-lighting sketches
 + [Week 6](WT-W6.md) — Animate intensity/color change
