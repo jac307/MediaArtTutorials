@@ -38,29 +38,9 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[15 min] Witnessing Intention — Start Here</h3></h3>
+<h3 style="color: darkred;">[20 min] 2D Camera Map + Composition Map — Start Here</h3>
 
-Write **3–4 sentences** describing the intention of the camera as an **embodied witness** in your scene.  
-
-This should build on your previous intention, but now focus strongly on the relationship created by the camera.   
-
-<div style="color: gray; font-style: italic; margin-top: 0.75em;">
-This week, the camera does not only "show" the scene.  
-It stands in for the audience’s body: where it stands is where we stand.
-</div>
-
-### Guiding Questions
-- What kind of relationship should the viewer have to this space: **close, distant, protected, exposed**?
-- What does the camera give access to—and what does it **withhold**?
-- Does the POV feel like **witnessing** or **control**? Why?
-
-➡️ **Save this text** for submission.
-
----
-
-<h3 style="color: darkred;">[20 min] 2D Camera Map + Composition Map (Design First)</h3>
-
-Using your witnessing intention, create a **2D camera planning map**. **See example above (below the main title)**.    
+Create a **2D camera planning map**. **See example above (below the main title)**.    
 > **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements below.
 
 ### Requirements
@@ -128,6 +108,29 @@ Add **three cameras** to the scene and set each one according to your camera map
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GX5YnybYFSI?si=ziSfK9CTLa5Gb5U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
+
+---
+
+<h3 style="color: darkred;">[15 min] Witnessing Intention — End Here</h3>
+
+After you complete your 2D camera map and 3D application, write a short description of <strong>each camera approach</strong>.
+
+<div style="color: gray; font-style: italic; margin-top: 0.75em;">
+This week, you are not writing one single “camera intention.”  
+You are designing <strong>three different relationships</strong> to the same space using three POV approaches.
+</div>
+
+### Write 2–3 sentences for each camera:
+- <strong>Camera A — Witness POV</strong> (close / aligned / relational)
+- <strong>Camera B — Just Recording POV</strong> (apparent neutrality; observational / standard coverage)
+- <strong>Camera C — Control / Surveillance POV</strong> (distant / overseeing; higher angle or detached)
+
+### Guiding Prompts (use these to write each description)
+- <strong>Where is the camera “standing”</strong> (height/level, distance, angle) and what does that imply?
+- What does this POV <strong>give the viewer access to</strong> — and what does it <strong>withhold</strong>?
+- What kind of relationship does this POV produce: <strong>care</strong> (witnessing), <strong>detachment</strong> (just recording), or <strong>pressure/control</strong> (surveillance)?
+
+➡️ **Save this text** for submission.
 
 ---
 
