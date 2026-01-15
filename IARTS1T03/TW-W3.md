@@ -12,7 +12,15 @@
 
 ### Group Setup
 - Form groups of **4–5 students**.
-- Each group will choose **one clip** from the options provided in class.
+- Each group will choose **one clip** from the list below.
+
+### Clips
+
++
++
++
++
++
 
 ---
 
@@ -20,7 +28,7 @@
 
 1. **Watch the clip once** without pausing.  
    - Note your first impression of the space and POV.
-2. **Watch again**, pause when needed to linger longer in specific compositions.  
+2. **Watch again**, pause when needed to linger longer in specific moments.  
    - Use the vocabulary to describe what the camera is doing.
 3. **Complete a short group analysis** using the prompts below.
 4. **Share-out:** A few groups will be **randomly selected** to present their analysis to the class.
@@ -48,7 +56,7 @@
 - What does the framing give us access to—and what does it withhold?
 - What is centered vs peripheral through composition?
 - What sits in the foreground, middleground, and background—and how does that shape meaning?
-- What relationship does the POV create: **witnessing or control or just recording**? (Give one piece of evidence.)
+- What relationship does the POV create: **witnessing or control or just recording (trying to stay neutral)**? (Give one piece of evidence.)
 
 ---
 
@@ -58,7 +66,7 @@ Select 2 students to speak in behalf of the group. Prepare:
 
 - **1 sentence:** What is happening in the clip?
 - **2-3 lines:** Describe POV + framing + composition + layers
-- **2-3 lines:** What relationship does this POV produce (witnessing vs control), and why?
+- **2-3 lines:** What relationship does this POV produce (witnessing, control, apparent neutrality), and why?
   
 ---
 
