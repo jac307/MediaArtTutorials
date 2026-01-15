@@ -57,10 +57,10 @@ It stands in for the audience’s body: where it stands is where we stand.
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Camera Map (3 Cameras)</h3>
+<h3 style="color: darkred;">[20 min] 2D Camera Map + Composition Map (Design First)</h3>
 
-Using your witnessing intention, create a **2D camera planning map** (based on your Week 2 plan).  
-> **Note:** Your drawing skill is not graded. You are graded on clarity and completion.
+Using your witnessing intention, create a **2D camera planning map**. **See example above (below the main title)**.    
+> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements below.
 
 ### Requirements
 - Hand-drawn (preferred) or digital
@@ -71,11 +71,13 @@ Using your witnessing intention, create a **2D camera planning map** (based on y
   - **Camera C: Control/Surveillance POV** (distant / overseeing; often higher angle or more detached)
 
 ### Your map should clearly show:
-- Camera positions (top view)
+- Camera positions
 - Direction each camera faces (arrow)
 - Intended framing (Wide / Medium / Close)
 - One composition strategy per camera (Thirds / Lines / Centered-Symmetry)
-- A small sketch of the intended look for each camera using the vocabulary of the class.  
+- Indicate each camera’s rotation (direction), level/height, and closeness to the main shapes. 
+- A small sketch or visual reference for the *intended look* of each camera
+- ✅ **Note:** This time you are using **three separate camera objects** in Blender.
 
 > ⚠️ This step must be completed **before** working in Blender.
 
@@ -114,6 +116,18 @@ Add **three cameras** to the scene and set each one according to your camera map
   - composition (thirds/lines/symmetry)
   - distance & layers (foreground/middleground/background)
   - blocking for camera (relationships between bodies/objects and the camera)
+
+#### Render Multiple Cameras Simultaneously in Blender! (Slow pace version)
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFSq0nUl-0Y?si=iqooZtr4LsbqkNIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
+
+#### How to Render Multiple Cameras in Blender at Once (Faster pace version)
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GX5YnybYFSI?si=ziSfK9CTLa5Gb5U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
 
 ---
 
