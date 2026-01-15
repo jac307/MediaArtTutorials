@@ -88,7 +88,7 @@ Using your **camera intention** as a guide, create a **2D camera planning map**.
 
 ---
 
-<h3 style="color: darkred;">[60 min] 3D Scene + Cameras in Blender</h3>
+<h3 style="color: darkred;">[60 min] 3D Scene + Camera in Blender</h3>
 
 ### Update or revise your space
 - You may **adjust, refine, or rebuild** your Week 1 scene if needed.
