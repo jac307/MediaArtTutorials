@@ -111,7 +111,7 @@ Add **three cameras** to the scene and set each one according to your camera map
 
 ---
 
-<h3 style="color: darkred;">[15 min] Witnessing Intention — End Here</h3>
+<h3 style="color: darkred;">[15 min] Camera Intentions — End Here</h3>
 
 After you complete your 2D camera map and 3D application, write a short description of <strong>each camera approach</strong>.
 
