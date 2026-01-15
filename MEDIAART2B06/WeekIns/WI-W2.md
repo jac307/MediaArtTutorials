@@ -127,6 +127,8 @@ Divide tasks evenly and support one another during setup.*
 
 <h3 id="idea" style="color: darkred;">2. Interview Prompt - Idea Phase [20 min]</h3>
 
+**New Note:** You can use another student (outside the pair/group) to interview.  
+
 📌 **You are not graded on *what* is being said.**  
 Do not spend excessive time developing content or scripting responses.
 
