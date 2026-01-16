@@ -23,7 +23,7 @@ The goal is to understand how **lens choice, camera distance, and aperture** sha
 
 <h2 style="color: darkred;"> Lenses (24mm vs 35mm) </h2>  
 
-Check [Available Lenses](../Cameras.md){:target="_blank"}   
+Check [Available Lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}   
 
 ### Lens Focal Length & Perceived Space
 
@@ -37,11 +37,11 @@ Lens focal length does **not** simply change how much you see — it changes how
 - **35mm**  
   - Still wide, but more natural-looking  
   - Slightly compresses space compared to 24mm  
-  - Balances subject and environment  
+  - Balances subject and environment
 
 📌 *Perspective changes from both **camera position** (most important) and the lens*
 
-<img src="imgs/48.svg" style="width: 100%; height: auto;">  
+<img src="imgs/48.svg" style="width: 80%; height: auto;">  
 
 ---
 
@@ -55,8 +55,22 @@ Lens focal length does **not** simply change how much you see — it changes how
 
 Wide lenses exaggerate these effects, especially when the camera is close to the subject.
 
-📌 *Before adjusting camera settings, always consider where the camera is placed.*
-> Same subject and distance, different focal lengths → different sense of space.
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/49.gif" alt="Test video 1" style="width: 30%; height: auto;">
+  <img src="imgs/50.gif" alt="Test video 2" style="width: 30%; height: auto;">
+  <img src="imgs/51.gif" alt="Test video 2" style="width: 30%; height: auto;">
+</figure>
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Same subjects and distances, different lenses → different depth of fielf and different sense of space.
+</figcaption>
+
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/52.gif" alt="Test video 1" style="width: 45%; height: auto;">
+  <img src="imgs/53.gif" alt="Test video 2" style="width: 45%; height: auto;">
+</figure>
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Same subjects, different distances and lenses → different depth of fielf and different sense of space.
+</figcaption>
 
 ---
 
