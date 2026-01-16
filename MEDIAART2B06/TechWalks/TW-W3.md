@@ -292,6 +292,15 @@ You will **record audio separately** using a **[ZOOM H4N Handheld Recorder](http
 
 > Recording audio separately with professional sound recording devices gives you better sound quality and more control during editing.
 
+### Important Checks Before Recording
+
+- Use the **built-in microphone** for this assignment
+- If available, always use a **windscreen** for outdoor audio recording
+- Set the **Rec Format** to **WAK48KHz/24 bit**
+- Set **mode** to **stereo**  
+- Wear **headphones** to monitor sound
+- Check that audio levels are **not peaking** (avoid red level indicators)
+
 ### Tips
 
 - One person must **hold the ZOOM H4N steadily** at all times  
@@ -301,15 +310,6 @@ You will **record audio separately** using a **[ZOOM H4N Handheld Recorder](http
 - Everyone else must **stay still and quiet** during recording
 - The student holding the ZOOM may **move carefully** to get closer to specific sound sources  
   > Do not move in front of the camera or enter the frame
-
-### Important Checks Before Recording
-
-- Use the **built-in microphone** for this assignment
-- If available, always use a **windscreen** for outdoor audio recording
-- Set the **Rec Format** to **WAK48KHz/24 bit**
-- Set **mode** to **stereo**  
-- Wear **headphones** to monitor sound
-- Check that audio levels are **not peaking** (avoid red level indicators)
 
 #### ZOOM H4N TUTORIAL - How to set up the Zoom H4N to record - Recording audio for film
 
