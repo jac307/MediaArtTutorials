@@ -78,7 +78,7 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
 
 ### Depth of Field
 
-<img src="imgs/48.svg" style="width: 50%; height: auto;">  
+<img src="imgs/63.svg" style="width: 50%; height: auto;">  
 
 **Depth of Field** is the area in front of and beyond the focal plane where objects still appear in focus.
 
