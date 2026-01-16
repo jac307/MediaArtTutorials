@@ -220,7 +220,7 @@ The **histogram** is a visual graph that shows how brightness values are distrib
 
 > Normal exposure = not peaking either in shadows or highlights
 
-<img src="imgs/61.png" style="width: 50%; height: auto;"> 
+<img src="imgs/62.png" style="width: 50%; height: auto;"> 
 
 For this assignment, use the histogram to:
 - Identify clipped highlights (loss of information in bright areas)
