@@ -40,25 +40,23 @@ ________________________________________________________________________
 
 <h1 style="color: darkred;">Available Lens</h1>
 
-<!--
-
 ## Zoom Lenses
 
-### Canon 24-105mm 1:3.5-5.6 IS STM
-
 Zoom lenses have **variable focal lengths**, allowing you to change your field of view without moving your feet.  
+
+### Canon 24-105mm 1:3.5-5.6 IS STM
 
 <img src="TechWalks/imgs/36.jpg" style="width: 50%; height: auto;">
 
 Ideal for general-purpose photography (landscapes, portraits, events) and smooth, quiet video recording due to its STM motor.    
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24-105mm_f/3.5-5.6_IS_STM&category=/en/products/Lenses/EF-Lenses/Standard-Zoom){:target="_blank"}
-- [Examples from Lomography](){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/4251-canon-ef-24-105-f-3-5-5-6-stm/photos){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
-  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <img src="TechWalks/imgs/42.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+    Credits: Photographer grunrader 
   </figcaption>
 </figure>  
 
@@ -69,12 +67,12 @@ Ideal for general-purpose photography (landscapes, portraits, events) and smooth
 Best for a wide range of subjects, including landscapes, portraits, and events, when image quality and a constant f/4 aperture are prioritized in a versatile single-lens solution.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=RF_24%E2%80%93105mm_F4_L_IS_USM&category=/en/products/Lenses/RF-Lenses/Standard-Zoom){:target="_blank"}
-- [Examples from Lomography](){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/1404-canon-ef-24-105mm-f-4-l-usm/photos){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
-  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <img src="TechWalks/imgs/43.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+    Credits: (left) Frozen Chicago by paulsager, (centre) by andcon, (right) Young lovers kiss through a warped fence by shaysegev 
   </figcaption>
 </figure>  
 
@@ -149,8 +147,6 @@ Ideal for general-purpose, street, and documentary photography, providing a natu
 ## Standard and Telephoto Prime Lenses
 
 Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoom**. **Standard (Normal) Prime Lenses (~35mm–70mm)** provide a field of view similar to the human eye, offering a natural perspective with minimal distortion. **Telephoto Prime Lenses (>70mm)** have a narrow field of view and act like a telescope to "pull" distant subjects closer.  
-
---> 
 
 ### Canon 50mm 1:1.4 USM
 
