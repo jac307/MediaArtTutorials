@@ -23,7 +23,9 @@ The goal is to understand how **lens choice, camera distance, and aperture** sha
 
 <h2 style="color: darkred;"> Lenses (24mm vs 35mm) </h2>  
 
-### 1. Lens Focal Length & Perceived Space
+Check [Available Lenses](../Cameras.md){:target="_blank"}   
+
+### Lens Focal Length & Perceived Space
 
 Lens focal length does **not** simply change how much you see — it changes how **space is perceived** in the image.
 
@@ -37,14 +39,13 @@ Lens focal length does **not** simply change how much you see — it changes how
   - Slightly compresses space compared to 24mm  
   - Balances subject and environment  
 
-📌 *Perspective changes come primarily from **camera position**, not from the lens alone.*
-> Same subject and distance, different focal lengths → different sense of space.
+📌 *Perspective changes from both **camera position** (most important) and the lens*
+
+<img src="imgs/48.svg" style="width: 50%; height: auto;">  
 
 ---
 
-## 2. Distance to Subject (More Important Than You Think)
-
-One of the most important concepts in this assignment:
+### Distance to Subject (More Important Than You Think)
 
 > **Moving the camera changes perspective more than changing lenses.**
 
@@ -55,6 +56,7 @@ One of the most important concepts in this assignment:
 Wide lenses exaggerate these effects, especially when the camera is close to the subject.
 
 📌 *Before adjusting camera settings, always consider where the camera is placed.*
+> Same subject and distance, different focal lengths → different sense of space.
 
 ---
 
