@@ -145,11 +145,9 @@ For **Week 3**, we will continue using the same settings as Week 2, while expand
 
 ### Exposure
 
-**Exposure** refers to how much light reaches the camera’s sensor at the moment an image is recorded.  
+**Exposure** refers to how much light reaches the camera’s sensor at the moment an image is recorded.   
 
-In Week 3, we extend this concept by focusing on **what happens when exposure goes beyond the sensor’s limits**.   
-
-<img src="imgs/55.jpg" style="width: 70%; height: auto;">    
+<img src="imgs/55.jpg" style="width: 50%; height: auto;">    
 
 - **Normal Exposure**  
   Occurs when highlights, midtones, and shadows are balanced in a way that **preserves visible detail across the image**, allowing the scene to be represented clearly and consistently.
@@ -166,17 +164,14 @@ In Week 3, we extend this concept by focusing on **what happens when exposure go
 
 ### Exposure Triangle  
 
-<img src="imgs/56.jpg" style="width: 50%; height: auto;">    
-
 Exposure is controlled by the **combined relationship** between three camera settings: **aperture, shutter speed, and ISO**.  
 These three elements work together — changing one always affects the others.
 
 - **Aperture** controls how much light enters the camera and influences **depth of field**
-  > Always set the apperture first.  
 - **Shutter Speed** controls how long light reaches the sensor and affects **motion blur**
 - **ISO** controls the sensor’s sensitivity to light and affects **image noise**
 
-📌 *In Manual Mode, exposure is not automatic — it is the result of deliberate trade-offs between these three settings.*   
+<img src="imgs/56.jpg" style="width: 50%; height: auto;">    
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2HSoOq-rfo?si=-Q3nZtOi50DPhnX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -192,15 +187,9 @@ For **Week 3 (Static Outdoor Scene)**:
 - Use **Evaluative / Matrix Metering**
 - This mode analyzes light across the **entire frame**
 - It provides a stable baseline when lighting conditions are relatively consistent
+  > Because the camera position is fixed, metering is used primarily to **set exposure once** and confirm that it remains stable.
 
-📌 Because the camera position is fixed, metering is used primarily to **set exposure once** and confirm that it remains stable.
-
-⚠️ Metering can be misled by:
-- bright skies
-- snow or concrete
-- large areas of shadow
-
-For this reason, metering should always be checked against the **histogram**.
+⚠️ Metering **can be misled** by bright skies, snow or concrete, and large areas of shadow. For this reason, metering should always be checked against the **histogram**.  
 
 #### How to change the metering
 
@@ -220,7 +209,7 @@ The **histogram** is a visual graph that shows how brightness values are distrib
 
 > Normal exposure = not peaking either in shadows or highlights
 
-<img src="imgs/62.png" style="width: 50%; height: auto;"> 
+<img src="imgs/62.png" style="width: 80%; height: auto;"> 
 
 For this assignment, use the histogram to:
 - Identify clipped highlights (loss of information in bright areas)
