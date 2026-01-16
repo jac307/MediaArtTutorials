@@ -42,11 +42,13 @@ ________________________________________________________________________
 
 <!--
 
+## Zoom Lenses
+
 ### Canon 24-105mm 1:3.5-5.6 IS STM
 
 <img src="TechWalks/imgs/36.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+Ideal for general-purpose photography (landscapes, portraits, events) and smooth, quiet video recording due to its STM motor.    
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -62,7 +64,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 <img src="TechWalks/imgs/37.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+Best for a wide range of subjects, including landscapes, portraits, and events, when image quality and a constant f/4 aperture are prioritized in a versatile single-lens solution.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -74,11 +76,13 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
   </figcaption>
 </figure>  
 
+## Wide-Angle Prime Lenses
+
 ### Canon 24mm 1:1.4 L II USM
 
 <img src="TechWalks/imgs/38.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+Excellent choice for low-light situations (like astrophotography or wedding receptions), environmental portraits, and architecture/landscape photography where high performance and a wide aperture are crucial.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -94,7 +98,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 <img src="TechWalks/imgs/39.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+Best for street photography or as a lightweight, sharp walk-around option on a crop-sensor body, allowing you to be less obtrusive.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -110,7 +114,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 <img src="TechWalks/imgs/40.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+General wide-angle shooting in varied lighting conditions where the Image Stabilization is a benefit for handheld shooting of static subjects, especially if a faster f/1.4 lens is out of budget or not needed.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -126,7 +130,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 <img src="TechWalks/imgs/41.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+Ideal for general-purpose, street, and documentary photography, providing a natural field of view and a fast aperture with image stabilization for excellent low-light handheld performance.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -138,13 +142,14 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
   </figcaption>
 </figure>  
 
+## Standard and Telephoto Prime Lenses
 --> 
 
 ### Canon 50mm 1:1.4 USM
 
 <img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
 
-A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
+Good for general everyday use, portraits, and low-light photography, offering a natural perspective close to the human eye and a shallow depth of field.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -160,7 +165,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 <img src="TechWalks/imgs/21.jpg" style="width: 50%; height: auto;">
 
-A professional L-series prime lens with an extremely wide aperture, producing very shallow depth of field and strong subject isolation in low-light conditions. 
+Best for professional portraiture, weddings, and artistic low-light shooting where its extremely wide f/1.2 aperture delivers exceptional subject isolation and beautiful background blur (bokeh).  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.2L_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/1177-ef-50mm-f-1-2l-usm/photos){:target="_blank"}
@@ -176,7 +181,7 @@ A professional L-series prime lens with an extremely wide aperture, producing ve
 
 <img src="TechWalks/imgs/22.jpg" style="width: 50%; height: auto;">
 
-A short telephoto prime lens that compresses space and isolates subjects, well suited for portraits and shooting with distance while maintaining soft background blur.
+Classic choice for portraits and events, providing flattering compression and a fast aperture to isolate your subject with a blurred background while working from a comfortable distance.  
 
 - 📘 [Tech Specs](https://www.canon.ca/en/product?name=EF_85mm_f/1.8_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/3491-canon-ef-85mm-f-1-8-usm/photos){:target="_blank"}
