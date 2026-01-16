@@ -44,7 +44,7 @@ ________________________________________________________________________
 
 ### Canon 24-105mm 1:3.5-5.6 IS STM
 
-<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/36.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
@@ -60,7 +60,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 ### Canon 24-105mm 1:4 L IS II USM
 
-<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/37.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
@@ -76,7 +76,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 ### Canon 24mm 1:1.4 L II USM
 
-<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/38.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
@@ -92,7 +92,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 ### Canon 24mm 1:2.8
 
-<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/39.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
@@ -108,7 +108,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 ### Canon 24mm 1:2.8 IS USM
 
-<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/40.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
@@ -124,7 +124,7 @@ A versatile prime lens with a natural field of view and wide aperture, ideal for
 
 ### Canon 35mm 1:2
 
-<img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/41.jpg" style="width: 50%; height: auto;">
 
 A versatile prime lens with a natural field of view and wide aperture, ideal for low-light shooting and controlled depth of field.
 
