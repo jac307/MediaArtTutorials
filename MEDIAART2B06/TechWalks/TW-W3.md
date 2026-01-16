@@ -92,7 +92,7 @@ Three main factors affect depth of field:
 - **Focal length of the lens**  
   Shorter focal lengths (wide-angle lenses) generally produce a **greater depth of field** than longer lenses.
 
-📌 *For this assignment, always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
+📌 *Always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
 
 ---
 
@@ -166,9 +166,7 @@ In Week 3, we extend this concept by focusing on **what happens when exposure go
 
 ### Exposure Triangle  
 
-<img src="imgs/56.jpg" style="width: 60%; height: auto;">    
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n2HSoOq-rfo?si=-Q3nZtOi50DPhnX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="imgs/56.jpg" style="width: 50%; height: auto;">    
 
 Exposure is controlled by the **combined relationship** between three camera settings: **aperture, shutter speed, and ISO**.  
 These three elements work together — changing one always affects the others.
@@ -188,8 +186,6 @@ These three elements work together — changing one always affects the others.
 
 ### Aperture as a Depth Tool (Range-Based)
 
-<img src="imgs/57.jpg" style="width: 70%; height: auto;"> 
-
 Aperture controls **both light and depth of field**.
 
 For this assignment:
@@ -204,9 +200,9 @@ For this assignment:
 
 📌 *Do not think in equations for now — think in visible effects.*   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=Oxkw6AtGOchOG0Pi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
+<img src="imgs/57.jpg" style="width: 100%; height: auto;"> 
+
+<img src="imgs/58.png" style="width: 100%; height: auto;"> 
 
 ---
 
@@ -227,11 +223,13 @@ For this assignment:
 
 ⚠️ Extremely slow shutter speeds can still cause blur due to wind, moving elements, or accidental camera movement.
 
-📌 *Do not think in equations — think in visible effects.*
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=xZoV7ITmrrCw73_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+📌 *Do not think in equations for now — think in visible effects.*
+ 
+<figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
+  <img src="imgs/59.gif" alt="Test video 4" style="width: 30%; height: auto;">
+  <img src="imgs/61.gif" alt="Test video 5" style="width: 30%; height: auto;">
+  <img src="imgs/60.gif" alt="Test video 6" style="width: 30%; height: auto;">
+</figure> 
 
 ________________________________________________________________________
 
