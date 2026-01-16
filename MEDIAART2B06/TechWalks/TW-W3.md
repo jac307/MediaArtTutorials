@@ -216,7 +216,6 @@ For this assignment, use the histogram to:
 - Identify crushed shadows (loss of information in dark areas)
 - Confirm that exposure remains consistent across shots
 
-📌 If the graph is pushed hard against the left or right edge, image information has likely been lost.
 📌 Advise: Expose for Highlights and let the shadow areas fall where they  may (better to have less detail in black than blown out whites). 
 
 <div style= "width:80%; height:auto">
@@ -230,12 +229,8 @@ For this assignment, use the histogram to:
 Aperture controls **both light and depth of field**.
 
 For this assignment:
-- Lower f-number (e.g., f/2.8)  
-  - More light  
-  - Shallower depth of field  
-- Higher f-number (e.g., f/8)  
-  - Less light  
-  - Deeper focus  
+- Lower f-number (e.g., f/2.8) **=** More light + Shallower depth of field    
+- Higher f-number (e.g., f/8) **=** Less light + Deeper focus    
 
 ⚠️ Each lens has a **specific aperture range** determined by its physical design.
 
@@ -259,8 +254,6 @@ For this assignment:
 - **Faster shutter speeds** (e.g., 1/125s)  
   - Allow less light into the camera  
   - Freeze motion more effectively  
-
-📌 Because the camera is **static (on a tripod)** and the scene is mostly still, shutter speed is used primarily to **fine-tune exposure**, not to create dramatic motion effects.
 
 ⚠️ Extremely slow shutter speeds can still cause blur due to wind, moving elements, or accidental camera movement.
 
@@ -296,4 +289,4 @@ ________________________________________________________________________
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-Microsoft CoPilot and ChatGPT was used for **editing and clarity only**, as well as to create some to the **image visualizations**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+Microsoft CoPilot and ChatGPT was used for **editing and clarity only**. AI is not used to generate original course content.
