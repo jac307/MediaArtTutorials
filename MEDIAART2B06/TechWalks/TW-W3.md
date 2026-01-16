@@ -55,22 +55,20 @@ Lens focal length does **not** simply change how much you see — it changes how
 
 Wide lenses exaggerate these effects, especially when the camera is close to the subject.
 
-<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+<figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
   <img src="imgs/49.gif" alt="Test video 1" style="width: 30%; height: auto;">
   <img src="imgs/50.gif" alt="Test video 2" style="width: 30%; height: auto;">
   <img src="imgs/51.gif" alt="Test video 2" style="width: 30%; height: auto;">
 </figure>
-<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-  Same subjects and distances, different lenses → different depth of fielf and different sense of space.
-</figcaption>
 
-<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+> Same subjects and distances, different lenses → different depth of fielf and different sense of space.
+
+<figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
   <img src="imgs/52.gif" alt="Test video 1" style="width: 45%; height: auto;">
   <img src="imgs/53.gif" alt="Test video 2" style="width: 45%; height: auto;">
 </figure>
-<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-  Same subjects, different distances and lenses → different depth of fielf and different sense of space.
-</figcaption>
+
+> Same subjects, different distances and lenses → different depth of fielf and different sense of space.
 
 ---
 
