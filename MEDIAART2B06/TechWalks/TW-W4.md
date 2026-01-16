@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W3 — Tech Walkthrough</h1>
+<h1 style="color: darkred;">W4 — Tech Walkthrough</h1>
 <h2 style="color: darkred;">Lenses, Aperture & Depth of Field (Static Outdoor Scene)</h2>
 
 ## Objective
@@ -18,97 +18,6 @@ The goal is to understand how **lens choice, camera distance, and aperture** sha
 - Recognize that **image information can be lost at the moment of recording** through overexposure or underexposure, and that this loss cannot be recovered in post-production
 
 📌 *Week 3 focuses on a static camera setup to clearly observe how optical decisions affect the image.*  
-
----
-
-<h2 style="color: darkred;"> Lenses (24mm vs 35mm vs 50mm) </h2>  
-
-Check [Available Lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}   
-
-### Lens Focal Length & Perceived Space
-
-Lens focal length does **not** simply change how much you see — it changes how **space is perceived** in the image.
-
-- **24mm**  
-  - Wider field of view  
-  - Expands space and exaggerates distance between foreground and background  
-  - Emphasizes environment and spatial context  
-
-- **35mm**  
-  - Still wide, but more natural-looking  
-  - Slightly compresses space compared to 24mm  
-  - Balances subject and environment
-
-- **50mm**  
-  - Narrower field of view compared to 24mm and 35mm  
-  - Produces a more “natural” perspective closer to human vision  
-  - Compresses space more noticeably, reducing the sense of depth between foreground and background  
-  - Isolates subjects more easily, even in outdoor environments
-
-<img src="imgs/48.svg" style="width: 80%; height: auto;">  
-
----
-
-### Distance to Subject (More Important Than You Think)
-
-> **Moving the camera changes perspective more than changing lenses.**
-
-- Being closer to the subject exaggerates depth and separation
-- Stepping back compresses space and increases depth of field
-- Distance affects **how depth is perceived**, even at the same aperture
-
-Wide lenses exaggerate these effects, especially when the camera is close to the subject.
-
-<figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
-  <img src="imgs/49.gif" alt="Test video 1" style="width: 30%; height: auto;">
-  <img src="imgs/50.gif" alt="Test video 2" style="width: 30%; height: auto;">
-  <img src="imgs/51.gif" alt="Test video 3" style="width: 30%; height: auto;">
-</figure>  
-
-> Same subjects and distances, different lenses → different depth of fielf and different sense of space.
-
-<figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
-  <img src="imgs/53.gif" alt="Test video 4" style="width: 30%; height: auto;">
-  <img src="imgs/52.gif" alt="Test video 5" style="width: 30%; height: auto;">
-  <img src="imgs/54.gif" alt="Test video 6" style="width: 30%; height: auto;">
-</figure>  
-
-> Same subjects, different distances and lenses → different depth of fielf and different sense of space.
-
----
-
-### Depth of Field
-
-**Depth of Field** is the area in front of and beyond the focal plane where objects still appear in focus.
-
-Three main factors affect depth of field:
-
-- **Aperture size**  
-  Smaller apertures (e.g., f/11 or f/16) produce a **greater depth of field**, keeping more of the scene in focus.
-
-- **Distance to subject**  
-  The farther the camera is from the subject, the **greater the depth of field**.
-
-- **Focal length of the lens**  
-  Shorter focal lengths (wide-angle lenses) generally produce a **greater depth of field** than longer lenses.
-
-📌 *For this assignment, always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
-
----
-
-### Wide Lens ≠ Infinite Depth of Field
-
-A common misconception is that wide lenses automatically keep everything in focus.
-
-This is **not true**.
-
-- Wide lenses **can** produce shallow depth of field
-- Background blur becomes visible when:
-  - The subject is close to the camera
-  - The aperture is wide
-- Depth is still shaped by **distance + focal length + aperture**
-
-📌 *Before adjusting camera settings, always consider where the camera is placed.*
 
 ---
 
@@ -238,4 +147,4 @@ ________________________________________________________________________
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-Microsoft CoPilot and ChatGPT was used for **editing and clarity only**, as well as to create some to the **image visualizations**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+AI tools (Microsoft CoPilot and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
