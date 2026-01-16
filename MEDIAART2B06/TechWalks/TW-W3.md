@@ -21,7 +21,7 @@ The goal is to understand how **lens choice, camera distance, and aperture** sha
 
 ---
 
-<h2 style="color: darkred;"> Lenses (24mm vs 35mm) </h2>  
+<h2 style="color: darkred;"> Lenses (24mm vs 35mm vs 50mm) </h2>  
 
 Check [Available Lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}   
 
@@ -38,6 +38,12 @@ Lens focal length does **not** simply change how much you see — it changes how
   - Still wide, but more natural-looking  
   - Slightly compresses space compared to 24mm  
   - Balances subject and environment
+
+- **50mm**  
+  - Narrower field of view compared to 24mm and 35mm  
+  - Produces a more “natural” perspective closer to human vision  
+  - Compresses space more noticeably, reducing the sense of depth between foreground and background  
+  - Isolates subjects more easily, even in outdoor environments
 
 <img src="imgs/48.svg" style="width: 80%; height: auto;">  
 
@@ -87,7 +93,30 @@ This is **not true**.
 
 ---
 
-<h2 style="color: darkred;"> Camera Setting </h2>  
+<h2 style="color: darkred;"> Camera Settings — What to Use for Week 3 </h2>  
+
+For **Week 3**, we will continue using the same settings as Week 2, while expanding our attention to how **lens choice and exposure decisions** affect the image at the moment of recording.  
+
+📌 *The goal is not to memorize settings, but to understand how each choice shapes space, light, and image information.*  
+
+### 1. Camera Settings
+
+> Check [W2 — Tech Walkthrough](TW-W3.md){:target="_blank"} for reference.  
+
+- Choose one of the available lenses (24mm, 35mm, or 50mm) and install it
+- Set the camera to **Video Mode****
+- Set the **Aspect Ratio** to **16:9**
+- Set the **Resolution** to **1920x1080**
+- Set the **Frame Rate** to **30 fps**
+- Activate the **Grid**
+- For this assignment, use **Manual Mode (M)**.  
+  > Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**
+
+---
+
+
+
+
 
 ## Conceptual Bridge → Exposure
 
