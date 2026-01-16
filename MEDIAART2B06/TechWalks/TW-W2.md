@@ -87,7 +87,7 @@ Use the **control knobs on the back of the light** to adjust:
 
 ---
 
-<h2 style="color: darkred;"> Camera Settings (Video) </h2>   
+<h2 style="color: darkred;"> Camera Settings — What to Use for Week 2 </h2>   
 
 ## 1. Camera on Video
 
