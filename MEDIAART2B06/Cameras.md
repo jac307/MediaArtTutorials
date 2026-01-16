@@ -56,7 +56,7 @@ Ideal for general-purpose photography (landscapes, portraits, events) and smooth
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/42.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: Photographer grunrader 
+    Credits: Photographs by grunrader 
   </figcaption>
 </figure>  
 
@@ -72,7 +72,7 @@ Best for a wide range of subjects, including landscapes, portraits, and events, 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/43.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) Frozen Chicago by paulsager, (centre) by andcon, (right) Young lovers kiss through a warped fence by shaysegev 
+    Credits: (left) Frozen Chicago by paulsager, (centre) Photograph by andcon, (right) Young lovers kiss through a warped fence by shaysegev 
   </figcaption>
 </figure>  
 
@@ -87,12 +87,12 @@ Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoo
 Excellent choice for low-light situations (like astrophotography or wedding receptions), environmental portraits, and architecture/landscape photography where high performance and a wide aperture are crucial.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24mm_f/1.4L_II_USM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
-- [Examples from Lomography](){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/2481-canon-24mm-f-1-4l-ii-usm/photos){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
-  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <img src="TechWalks/imgs/44.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+    Credits: (left & centre) Photographs by sommarbroken, (centre), (right) Небоскрёбы by film_evgen
   </figcaption>
 </figure>  
 
@@ -103,12 +103,13 @@ Excellent choice for low-light situations (like astrophotography or wedding rece
 Best for street photography or as a lightweight, sharp walk-around option on a crop-sensor body, allowing you to be less obtrusive.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF-S_24mm_f/2.8_STM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
-- [Examples from Lomography](){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/4333-canon-ef-24mm-f2-8/photos){:target="_blank"}
+  > ⚠️ Content Warning: Some visual examples on this page include fine art nude photography presented in an artistic context.
 
 <figure style="width: 100%; margin: auto;">
-  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <img src="TechWalks/imgs/45.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+    Credits: (left & right) Photographs by stefankarelyang, (centre), (centre) Warehouse 6?, George Town by drdrewhonolulu 
   </figcaption>
 </figure>  
 
@@ -119,12 +120,12 @@ Best for street photography or as a lightweight, sharp walk-around option on a c
 General wide-angle shooting in varied lighting conditions where the Image Stabilization is a benefit for handheld shooting of static subjects, especially if a faster f/1.4 lens is out of budget or not needed.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24mm_f/2.8_IS_USM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
-- [Examples from Lomography](){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/1647-canon-ef-24mm-f-2-8-is-usm/photos){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
-  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <img src="TechWalks/imgs/46.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+    Credits: (left & right) Photographs by cyauzen, (centre), (centre) Photographs by mannequin 
   </figcaption>
 </figure>  
 
@@ -135,12 +136,12 @@ General wide-angle shooting in varied lighting conditions where the Image Stabil
 Ideal for general-purpose, street, and documentary photography, providing a natural field of view and a fast aperture with image stabilization for excellent low-light handheld performance.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_35mm_f/2_IS_USM&category=){:target="_blank"}
-- [Examples from Lomography](){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/10505-canon-35mm-f2-ltm/photos){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
-  <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
+  <img src="TechWalks/imgs/47.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Credits: (left) VLADISLAVA by anciano, (centre) Walk along the streets of Ivanovo by anciano, (right) JUNE by sommarbroken 
+    Credits: (left) Photograph by h5, (centre) Munich Subway by daehee9119, (right) Photograph by chat-perdu 
   </figcaption>
 </figure>  
 
