@@ -42,15 +42,13 @@ Lens focal length does **not** simply change how much you see — it changes how
   - Narrower field of view compared to 24mm and 35mm  
   - Produces a more “natural” perspective closer to human vision  
   - Compresses space more noticeably, reducing the sense of depth between foreground and background  
-  - Isolates subjects more easily, even in outdoor environments
+  - Isolates subjects more easily, even in outdoor environments  
 
 <img src="imgs/48.svg" style="width: 80%; height: auto;">  
 
 ---
 
 ### Distance to Subject (More Important Than You Think)
-
-> **Moving the camera changes perspective more than changing lenses.**
 
 - Being closer to the subject exaggerates depth and separation
 - Stepping back compresses space and increases depth of field
@@ -62,21 +60,25 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
   <img src="imgs/49.gif" alt="Test video 1" style="width: 30%; height: auto;">
   <img src="imgs/50.gif" alt="Test video 2" style="width: 30%; height: auto;">
   <img src="imgs/51.gif" alt="Test video 3" style="width: 30%; height: auto;">
-</figure>  
-
-> Same subjects and distances, different lenses → different depth of fielf and different sense of space.
+</figure> 
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Same subjects and distances, different lenses → different depth of fielf and different sense of space.
+</figcaption>   
 
 <figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
   <img src="imgs/53.gif" alt="Test video 4" style="width: 30%; height: auto;">
   <img src="imgs/52.gif" alt="Test video 5" style="width: 30%; height: auto;">
   <img src="imgs/54.gif" alt="Test video 6" style="width: 30%; height: auto;">
 </figure>  
-
-> Same subjects, different distances and lenses → different depth of fielf and different sense of space.
+<figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+  Same subjects, different distances and lenses → different depth of fielf and different sense of space.
+</figcaption>   
 
 ---
 
 ### Depth of Field
+
+<img src="imgs/48.svg" style="width: 50%; height: auto;">  
 
 **Depth of Field** is the area in front of and beyond the focal plane where objects still appear in focus.
 
