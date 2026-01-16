@@ -12,16 +12,15 @@ The goal is to understand how **lens choice, camera distance, and aperture** sha
 
 ### By the end of this session, students should be able to:
 
-- Identify how **lens focal length (24mm vs 35mm)** shapes perceived space, scale, and spatial relationships in a static outdoor scene  
-- Understand how **camera distance to the subject** affects perspective and depth of field more significantly than lens changes alone  
-- Use **aperture intentionally** to balance depth of field and exposure, recognizing the physical limits of each lens  
-- Recognize that **image information can be lost at the moment of recording** through overexposure or underexposure, and that this loss cannot be recovered in post-production
+- Explain how **lens focal length (24mm, 35mm, and 50mm)** shapes perceived space, scale, and spatial relationships in a **static outdoor scene**
+- Use **aperture intentionally** as both a **depth-of-field and exposure tool**, working within the physical limits of each lens
+- Identify moments where **image information is irreversibly lost at the time of recording** due to overexposure or underexposure, and understand why this loss cannot be fully recovered in post-production
 
 📌 *Week 3 focuses on a static camera setup to clearly observe how optical decisions affect the image.*  
 
 ---
 
-<h2 style="color: darkred;"> Lenses (24mm vs 35mm vs 50mm) </h2>  
+<h2 style="color: darkred;"> Lenses (24mm - 35mm - 50mm) </h2>  
 
 Check [Available Lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}   
 
