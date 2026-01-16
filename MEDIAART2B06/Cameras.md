@@ -8,11 +8,6 @@ A **DSLR (Digital Single-Lens Reflex) camera** is a digital camera that uses a s
 
 Inside a DSLR, **a mirror reflects light** from the lens up into the optical viewfinder, allowing you to see the scene directly through the lens. When you take a photo or start recording, the mirror flips up, letting light reach the digital sensor so the image can be recorded.  
 
-<figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
-  <img src="imgs/63.gif" alt="Test video 1" style="width: 30%; height: auto;">
-  <img src="imgs/64.gif" alt="Test video 2" style="width: 30%; height: auto;">
-</figure> 
-
 ---
 
 The following DSLR cameras are available for Media Art students to rent.  
