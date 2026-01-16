@@ -52,8 +52,8 @@ Zoom lenses have **variable focal lengths**, allowing you to change your field o
 
 Ideal for general-purpose photography (landscapes, portraits, events) and smooth, quiet video recording due to its STM motor.    
 
-- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
-- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24-105mm_f/3.5-5.6_IS_STM&category=/en/products/Lenses/EF-Lenses/Standard-Zoom){:target="_blank"}
+- [Examples from Lomography](){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
@@ -68,8 +68,8 @@ Ideal for general-purpose photography (landscapes, portraits, events) and smooth
 
 Best for a wide range of subjects, including landscapes, portraits, and events, when image quality and a constant f/4 aperture are prioritized in a versatile single-lens solution.  
 
-- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
-- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=RF_24%E2%80%93105mm_F4_L_IS_USM&category=/en/products/Lenses/RF-Lenses/Standard-Zoom){:target="_blank"}
+- [Examples from Lomography](){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
@@ -88,8 +88,8 @@ Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoo
 
 Excellent choice for low-light situations (like astrophotography or wedding receptions), environmental portraits, and architecture/landscape photography where high performance and a wide aperture are crucial.  
 
-- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
-- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24mm_f/1.4L_II_USM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
+- [Examples from Lomography](){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
@@ -104,8 +104,8 @@ Excellent choice for low-light situations (like astrophotography or wedding rece
 
 Best for street photography or as a lightweight, sharp walk-around option on a crop-sensor body, allowing you to be less obtrusive.  
 
-- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
-- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF-S_24mm_f/2.8_STM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
+- [Examples from Lomography](){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
@@ -120,8 +120,8 @@ Best for street photography or as a lightweight, sharp walk-around option on a c
 
 General wide-angle shooting in varied lighting conditions where the Image Stabilization is a benefit for handheld shooting of static subjects, especially if a faster f/1.4 lens is out of budget or not needed.  
 
-- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
-- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24mm_f/2.8_IS_USM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
+- [Examples from Lomography](){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
@@ -136,8 +136,8 @@ General wide-angle shooting in varied lighting conditions where the Image Stabil
 
 Ideal for general-purpose, street, and documentary photography, providing a natural field of view and a fast aperture with image stabilization for excellent low-light handheld performance.  
 
-- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
-- [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_35mm_f/2_IS_USM&category=){:target="_blank"}
+- [Examples from Lomography](){:target="_blank"}
 
 <figure style="width: 100%; margin: auto;">
   <img src="TechWalks/imgs/23.jpg" style="width: 100%; height: auto;">
