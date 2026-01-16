@@ -6,17 +6,6 @@
 
 **Note**: This page highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
 
-<!--
-### ZOOM H4N Handheld
-
-<img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
-
-Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording
-
-- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
-- ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
--->
-
 ### RODE VideoMic NTG On-Camera Shotgun Microphone
 
 <img src="TechWalks/imgs/31.jpg" style="width: 70%; height: auto;">
@@ -42,7 +31,16 @@ Ultra-compact, dual-channel wireless microphone system known for its versatility
 Professional, rugged wireless microphone system designed for broadcast, documentary, and mobile journalism, featuring configurations for both lavalier (ME 2-II) and handheld mics.
 
 - 📘 [User Manual](https://www.sennheiser.com/globalassets/digizuite/40917-en-ew_100_g4_manual_v2-2_10_2019_en.pdf?srsltid=AfmBOor908EkkQrDA1PrUKkBDowI-YYavIN7TPkgglV3OV4CBNk1JhO-){:target="_blank"}
-- ▶️ How to Setup Sennheiser G3 & G4 Wireless Lavalier: [link to YouTube video](https://www.youtube.com/watch?v=DsZ5ERErkJk){:target="_blank"}  
+- ▶️ How to Setup Sennheiser G3 & G4 Wireless Lavalier: [link to YouTube video](https://www.youtube.com/watch?v=DsZ5ERErkJk){:target="_blank"}
+
+### ZOOM H4N Handheld
+
+<img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
+
+Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording
+
+- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
+- ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
 
 ________________________________________________________________________
 
