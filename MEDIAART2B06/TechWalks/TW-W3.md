@@ -58,14 +58,15 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
 <figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
   <img src="imgs/49.gif" alt="Test video 1" style="width: 30%; height: auto;">
   <img src="imgs/50.gif" alt="Test video 2" style="width: 30%; height: auto;">
-  <img src="imgs/51.gif" alt="Test video 2" style="width: 30%; height: auto;">
+  <img src="imgs/51.gif" alt="Test video 3" style="width: 30%; height: auto;">
 </figure>  
 
 > Same subjects and distances, different lenses → different depth of fielf and different sense of space.
 
 <figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
-  <img src="imgs/52.gif" alt="Test video 1" style="width: 45%; height: auto;">
-  <img src="imgs/53.gif" alt="Test video 2" style="width: 45%; height: auto;">
+  <img src="imgs/52.gif" alt="Test video 4" style="width: 30%; height: auto;">
+  <img src="imgs/53.gif" alt="Test video 5" style="width: 30%; height: auto;">
+  <img src="imgs/54.gif" alt="Test video 6" style="width: 30%; height: auto;">
 </figure>  
 
 > Same subjects, different distances and lenses → different depth of fielf and different sense of space.
