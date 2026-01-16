@@ -78,7 +78,7 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
 
 ### Depth of Field
 
-<img src="imgs/63.svg" style="width: 50%; height: auto;">  
+<img src="imgs/63.jpg" style="width: 50%; height: auto;">  
 
 **Depth of Field** is the area in front of and beyond the focal plane where objects still appear in focus.
 
@@ -93,11 +93,9 @@ Three main factors affect depth of field:
 - **Focal length of the lens**  
   Shorter focal lengths (wide-angle lenses) generally produce a **greater depth of field** than longer lenses.
 
-📌 *Always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
+📌 *Note: Always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
 
----
-
-### Wide Lens ≠ Infinite Depth of Field
+#### Wide Lens ≠ Infinite Depth of Field
 
 A common misconception is that wide lenses automatically keep everything in focus.
 
