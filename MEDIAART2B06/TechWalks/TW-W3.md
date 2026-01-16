@@ -283,6 +283,39 @@ For this assignment:
   - Higher ISO introduces **visible noise**, especially in shadow areas
   - ISO should always be treated as a **last resort**, not a primary exposure control.
   - ⚠️ Raising ISO cannot recover lost image information from overexposure or underexposure — it only amplifies what was already recorded.
+ 
+---
+
+## Audio Recording Method
+
+You will **record audio separately** using a **[ZOOM H4N Handheld Recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}**.
+
+> Recording audio separately with professional sound recording devices gives you better sound quality and more control during editing.
+
+### Tips
+
+- One person must **hold the ZOOM H4N steadily** at all times  
+- Press **Record** on both the **ZOOM** and the **camera at the same time**, then do a **clear hand clap**  
+  > This clap will help you **sync audio and video later in Premiere Pro**
+- **Do not tap, touch, or adjust** the recorder while recording — this will introduce unwanted handling noise
+- Everyone else must **stay still and quiet** during recording
+- The student holding the ZOOM may **move carefully** to get closer to specific sound sources  
+  > Do not move in front of the camera or enter the frame
+
+### Important Checks Before Recording
+
+- Use the **built-in microphone** for this assignment
+- If available, always use a **windscreen** for outdoor audio recording
+- Set the **Rec Format** to **WAK48KHz/24 bit**
+- Set **mode** to **stereo**  
+- Wear **headphones** to monitor sound
+- Check that audio levels are **not peaking** (avoid red level indicators)
+
+#### ZOOM H4N TUTORIAL - How to set up the Zoom H4N to record - Recording audio for film
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAFsAAVBoC0?si=UjnSlexSuCQnNhB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ________________________________________________________________________
 
