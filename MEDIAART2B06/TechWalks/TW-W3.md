@@ -41,7 +41,7 @@ Lens focal length does **not** simply change how much you see — it changes how
 
 📌 *Perspective changes from both **camera position** (most important) and the lens*
 
-<img src="imgs/48.svg" style="width: 50%; height: auto;">  
+<img src="imgs/48.svg" style="width: 100%; height: auto;">  
 
 ---
 
