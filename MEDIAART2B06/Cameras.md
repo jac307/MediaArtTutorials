@@ -46,6 +46,8 @@ ________________________________________________________________________
 
 ### Canon 24-105mm 1:3.5-5.6 IS STM
 
+Zoom lenses have **variable focal lengths**, allowing you to change your field of view without moving your feet.  
+
 <img src="TechWalks/imgs/36.jpg" style="width: 50%; height: auto;">
 
 Ideal for general-purpose photography (landscapes, portraits, events) and smooth, quiet video recording due to its STM motor.    
@@ -77,6 +79,8 @@ Best for a wide range of subjects, including landscapes, portraits, and events, 
 </figure>  
 
 ## Wide-Angle Prime Lenses
+
+Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoom**. **Wide-Angle Prime Lenses (<35mm)** have a very broad field of view, allowing you to fit more of a scene into the frame.
 
 ### Canon 24mm 1:1.4 L II USM
 
@@ -143,6 +147,9 @@ Ideal for general-purpose, street, and documentary photography, providing a natu
 </figure>  
 
 ## Standard and Telephoto Prime Lenses
+
+Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoom**. **Standard (Normal) Prime Lenses (~35mm–70mm)** provide a field of view similar to the human eye, offering a natural perspective with minimal distortion. **Telephoto Prime Lenses (>70mm)** have a narrow field of view and act like a telescope to "pull" distant subjects closer.  
+
 --> 
 
 ### Canon 50mm 1:1.4 USM
