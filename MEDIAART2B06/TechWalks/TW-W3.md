@@ -39,8 +39,6 @@ Lens focal length does **not** simply change how much you see — it changes how
   - Slightly compresses space compared to 24mm  
   - Balances subject and environment
 
-📌 *Perspective changes from both **camera position** (most important) and the lens*
-
 <img src="imgs/48.svg" style="width: 80%; height: auto;">  
 
 ---
@@ -64,8 +62,8 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
 > Same subjects and distances, different lenses → different depth of fielf and different sense of space.
 
 <figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
-  <img src="imgs/52.gif" alt="Test video 4" style="width: 30%; height: auto;">
-  <img src="imgs/53.gif" alt="Test video 5" style="width: 30%; height: auto;">
+  <img src="imgs/53.gif" alt="Test video 4" style="width: 30%; height: auto;">
+  <img src="imgs/52.gif" alt="Test video 5" style="width: 30%; height: auto;">
   <img src="imgs/54.gif" alt="Test video 6" style="width: 30%; height: auto;">
 </figure>  
 
@@ -73,7 +71,7 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
 
 ---
 
-## 3. Wide Lens ≠ Infinite Depth of Field
+### Wide Lens ≠ Infinite Depth of Field
 
 A common misconception is that wide lenses automatically keep everything in focus.
 
@@ -85,10 +83,22 @@ This is **not true**.
   - The aperture is wide
 - Depth is still shaped by **distance + focal length + aperture**
 
-
-📌 *Wide lenses still create depth — especially when you are close to your subject.*
+📌 *Before adjusting camera settings, always consider where the camera is placed.*
 
 ---
+
+<h2 style="color: darkred;"> Camera Setting </h2>  
+
+## Conceptual Bridge → Exposure
+
+Because aperture controls **both depth and light**, every lens decision already affects exposure.
+
+In the next section, we will focus on:
+- Exposure fundamentals
+- How the camera measures light (metering)
+- How to detect **lost image information** using the histogram
+
+📌 *You can correct color later — but you cannot recover information lost to overexposure or underexposure.*
 
 ## 4. Aperture as a Depth Tool (Range-Based)
 
@@ -106,20 +116,7 @@ For this assignment:
 
 📌 *Do not think in equations — think in visible effects.*
 
----
 
-<h2 style="color: darkred;"> Camera Setting </h2>  
-
-## Conceptual Bridge → Exposure
-
-Because aperture controls **both depth and light**, every lens decision already affects exposure.
-
-In the next section, we will focus on:
-- Exposure fundamentals
-- How the camera measures light (metering)
-- How to detect **lost image information** using the histogram
-
-📌 *You can correct color later — but you cannot recover information lost to overexposure or underexposure.*
 
 
 ________________________________________________________________________
