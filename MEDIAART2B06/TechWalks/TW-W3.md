@@ -182,11 +182,13 @@ These three elements work together — changing one always affects the others.
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2HSoOq-rfo?si=-Q3nZtOi50DPhnX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+</div>   
 
 ---
 
 ### Aperture as a Depth Tool (Range-Based)
+
+<img src="imgs/57.jpg" style="width: 70%; height: auto;"> 
 
 Aperture controls **both light and depth of field**.
 
@@ -200,7 +202,11 @@ For this assignment:
 
 ⚠️ Each lens has a **specific aperture range** determined by its physical design.
 
-📌 *Do not think in equations — think in visible effects.*
+📌 *Do not think in equations for now — think in visible effects.*   
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=Oxkw6AtGOchOG0Pi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
 
 ---
 
@@ -223,7 +229,9 @@ For this assignment:
 
 📌 *Do not think in equations — think in visible effects.*
 
-
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=xZoV7ITmrrCw73_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
 
 ________________________________________________________________________
 
