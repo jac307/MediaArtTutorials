@@ -160,6 +160,10 @@ For **Week 3**, we will continue using the same settings as Week 2, while expand
   Happens when not enough light reaches the sensor. Dark areas become **muddy or flat**, and detail in the **darker zones (shadows)** is permanently lost.  
   📌 *Shadow detail lost to underexposure cannot be restored later without introducing noise or artifacts.*
 
+#### Some Exposure Problems
+
+<img src="imgs/64.png" style="width: 80%; height: auto;"> 
+
 ---
 
 ### Exposure Triangle  
