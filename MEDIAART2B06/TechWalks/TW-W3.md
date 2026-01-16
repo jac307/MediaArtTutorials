@@ -283,6 +283,25 @@ For this assignment:
   <img src="imgs/60.gif" alt="Test video 6" style="width: 30%; height: auto;">
 </figure>  
 
+---
+
+### ISO as a Sensitivity & Image Quality Tool
+
+ISO controls the camera sensor’s **sensitivity to light**.  
+Unlike aperture and shutter speed, ISO does **not** change how light enters the camera — it amplifies the signal (digitally) after light is captured.   
+
+For this assignment:  
+- **Start at a low ISO** (e.g., **ISO 100–400**)  
+  - Produces the **cleanest image**
+  - Preserves fine detail and smooth tonal transitions
+  - Prioritize lens choice, aperture, and shutter speed before increasing ISO.
+
+- **Increase ISO only if necessary** (e.g., **ISO 800–1600**)  
+  - Use this **after** adjusting aperture and shutter speed
+  - Higher ISO introduces **visible noise**, especially in shadow areas
+  - ISO should always be treated as a **last resort**, not a primary exposure control.
+  - ⚠️ Raising ISO cannot recover lost image information from overexposure or underexposure — it only amplifies what was already recorded.
+
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
