@@ -76,11 +76,12 @@ Wide lenses exaggerate these effects, especially when the camera is close to the
 
 ---
 
-### Depth of Field
+### Depth of Field 
 
-<img src="imgs/63.jpg" style="width: 50%; height: auto;">  
+Depth of Field is the area in front of and beyond the focal plane where objects still appear in focus.  
+This area can be **narrow (shallow depth of field)**—where only a small portion of the scene is in focus—or **large (deep depth of field)**—where more of the scene appears sharp.   
 
-**Depth of Field** is the area in front of and beyond the focal plane where objects still appear in focus.
+<img src="imgs/63.jpg" style="width: 50%; height: auto;"> 
 
 Three main factors affect depth of field:
 
@@ -95,7 +96,9 @@ Three main factors affect depth of field:
 
 📌 *Note: Always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
 
-#### Wide Lens ≠ Infinite Depth of Field
+---
+
+### Wide Lens ≠ Infinite Depth of Field
 
 A common misconception is that wide lenses automatically keep everything in focus.
 
@@ -135,16 +138,14 @@ For **Week 3**, we will continue using the same settings as Week 2, while expand
 
 ### Manual Mode + Exposure
 
-For this assignment, use **Manual Mode (M)**.  
-
-- Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, ISO, and metering**.
+- For this assignment, use **Manual Mode (M)**.  
 - You will also use the **histogram** to **monitor exposure consistency** and identify potential loss of image information.
 
 ---
 
 ### Exposure
 
-As reviewed in the [W1 — Tech Walkthrough](TW-W1.md){:target="_blank"}, **exposure** refers to how much light reaches the camera’s sensor at the moment an image is recorded.  
+**Exposure** refers to how much light reaches the camera’s sensor at the moment an image is recorded.  
 
 In Week 3, we extend this concept by focusing on **what happens when exposure goes beyond the sensor’s limits**.   
 
