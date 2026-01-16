@@ -229,7 +229,30 @@ For this assignment:
   <img src="imgs/59.gif" alt="Test video 4" style="width: 30%; height: auto;">
   <img src="imgs/61.gif" alt="Test video 5" style="width: 30%; height: auto;">
   <img src="imgs/60.gif" alt="Test video 6" style="width: 30%; height: auto;">
-</figure> 
+</figure>  
+
+---
+
+### Histogram
+
+The **histogram** is a visual graph that shows how brightness values are distributed across an image.
+
+- Left side → **Shadows**
+- Middle → **Midtones**
+- Right side → **Highlights**
+
+Unlike the camera screen, the histogram is **not affected by screen brightness or viewing conditions**. It shows what the camera actually recorded.
+
+For this assignment, use the histogram to:
+- Identify clipped highlights (loss of information in bright areas)
+- Identify crushed shadows (loss of information in dark areas)
+- Confirm that exposure remains consistent across shots
+
+📌 If the graph is pushed hard against the left or right edge, image information has likely been lost.
+
+> **Key rule for Week 3:**  
+> Use metering to *estimate exposure*, and the histogram to *verify image information*.
+
 
 ________________________________________________________________________
 
