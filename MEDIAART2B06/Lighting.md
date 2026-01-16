@@ -28,4 +28,4 @@ ________________________________________________________________________
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-AI tools (Microsoft CoPilot and ChatGPT) was used for **editing and clarity only**. All ideas, instructional decisions, and assignment constraints are authored by the me, the instructor (Jessica A. Rodriguez). AI is not used to generate original course content.
+AI tools (Microsoft CoPilot and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
