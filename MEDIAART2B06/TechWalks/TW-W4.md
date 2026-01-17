@@ -110,7 +110,7 @@ The **Exposure Triangle** describes the relationship between **aperture, shutter
 
 <img src="imgs/66.jpg" style="width: 80%; height: auto;">   
 
-> 📄 **Reference:** You can download the **F-Stop Chart (PDF)** here: [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
+> 📄 **Reference:** [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
 
 Aperture is organized in steps called **stops**.
 
@@ -151,7 +151,7 @@ This means aperture decisions always involve a **trade-off** between **exposure,
 
 <img src="imgs/67.jpg" style="width: 100%; height: auto;">   
 
-> 📄 **Reference:** You can download the **Shutter Speed Chart (PDF)** here: [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
+> 📄 **Reference:** [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
 
 Shutter speeds are organized in steps called **stops**.
 
@@ -181,7 +181,7 @@ Each step compounds:
 
 ### Reading the Histogram While Moving (Week 4)   
 
-<img src="imgs/68.png" style="width: 70%; height: auto;">   
+<img src="imgs/68.png" style="width: 50%; height: auto;">   
 
 In **Week 4**, the histogram is no longer used only to check exposure before recording, it becomes a **live monitoring tool** as you move through changing lighting conditions.
 
