@@ -24,9 +24,9 @@
         "tutorialEmbedCode": "https://www.youtube.com/embed/jBFvZRIaeKU?si=Dw9Ied40u6wCnuNt"
       },
       {
-        "title": "How to Add SMOOTH SLOW MOTION",
-        "description": "This tutorial demonstrates how to slow down video clips in Adobe Premiere Pro to create smooth slow motion. It covers adjusting clip speed, maintaining smooth playback, and understanding how frame rate affects slow-motion results.",
-        "tutorialEmbedCode": "https://www.youtube.com/embed/mkSrkFXRJ-M?si=7GsNJ1hQrA5BENQ6"
+        "title": "The Basics of Keyframing That Nobody Tells You",
+        "description": "This video provides an overview of keyframing in Adobe Premiere Pro, explaining how keyframes are used to animate changes over time. While the examples include zoom animations, motion blur, transitions, opacity, and audio, the key takeaway for this course is understanding how keyframes function across the timeline and how they can be applied to other parameters later on, such as color correction and exposure adjustments.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/DJG3l8R8cEM?si=tsOIMsC_FKdtswZ6"
       }
     ]
   }
