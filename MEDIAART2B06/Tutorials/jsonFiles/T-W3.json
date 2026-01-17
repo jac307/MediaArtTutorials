@@ -4,24 +4,29 @@
     "description": "Text",
     "children": [
       {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
+        "title": "Intro to Color Correction",
+        "description": "An overview of Lumetri Color in Premiere Pro focused on basic color correction, including reading luma scopes, adjusting contrast and exposure, and making subtle color corrections using RGB curves and Hue vs. Hue.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/_lSyl-e46Mw?si=94liXvUjuFEAheXT"
       },
       {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
+        "title": "Intro to Color Grading",
+        "description": "This tutorial focuses on color grading in Premiere Pro, including color management, hue curves, color wheels, vignettes, and masks. These tools are used for stylistic decisions, not for fixing exposure or balance issues, which should be addressed during color correction first.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/s1kif4xDezc?si=MqrctQeKyHgUbVnu"
       },
       {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
+        "title": "How to COLOR GRADE Winter Footage ",
+        "description": "This tutorial demonstrates how to correct common winter color issues such as flat contrast and color cast, and then explores optional stylized winter grading in Adobe Premiere Pro.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/FmEZeCKabFQ?si=mx5V_UqPvgCjgOuL"
       },
       {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
+        "title": "4 Easy Tips for Color Correction in Premiere Pro",
+        "description": "This tutorial introduces four practical tips for color correction in Adobe Premiere Pro. It covers using the appropriate correction tools, working efficiently with the Lumetri Color panel, establishing proper exposure and white balance, and using the Vectorscope to check skin tones and color balance.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/QMhHP1_tl3c?si=M9Pk1alYPj4afD_l"
+      },
+      {
+        "title": "How to Add SMOOTH SLOW MOTION",
+        "description": "This tutorial demonstrates how to slow down video clips in Adobe Premiere Pro to create smooth slow motion. It covers adjusting clip speed, maintaining smooth playback, and understanding how frame rate affects slow-motion results.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/mkSrkFXRJ-M?si=7GsNJ1hQrA5BENQ6"
       }
     ]
   }
