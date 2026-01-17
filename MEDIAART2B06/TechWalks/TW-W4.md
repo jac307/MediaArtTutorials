@@ -203,7 +203,7 @@ Each step compounds:
 
 ### Reading the Histogram While Moving (Week 4)   
 
-<img src="imgs/68.jpg" style="width: 70%; height: auto;">   
+<img src="imgs/68.png" style="width: 70%; height: auto;">   
 
 In **Week 4**, the histogram is no longer used only to check exposure before recording, it becomes a **live monitoring tool** as you move through changing lighting conditions.
 
