@@ -294,7 +294,7 @@ How to setup AWB (Automatic White Balance) --first 30 seconds:
 
 <h3 style="color: darkred;">Reviewing & Saving Your Photos</h3>
 
-This final step ensures that your images are **properly reviewed, saved, and backed up** after shooting.
+This step ensures that your images are **properly reviewed, saved, and backed up** after shooting.
 
 ---
 
@@ -325,6 +325,16 @@ Once you are done shooting:
 5. Copy your images to a clearly named folder on
 
 📌 *Always save your photos in your computer after a day of work.*
+
+---
+
+<h3 style="color: darkred;">Recharging Your Camera</h3>
+
+Before your shooting session, always check your **battery level** and charge the camera if needed.
+
+When returning a rented camera, make sure it is **fully charged** so it is ready for the next person using the equipment.
+
+<img src="imgs/69.png" alt="charging" style="width: 50%; height: auto;">
 
 ________________________________________________________________________
 
