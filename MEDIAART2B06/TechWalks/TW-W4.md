@@ -18,15 +18,13 @@ Rather than introducing new camera settings, Week 4 focuses on **how exposure be
 - Use the **histogram** to identify potential loss of image information  
 - Apply **exposure compensation and bracketing** as support tools when lighting conditions shift
 
-📌 *Week 4 focuses on awareness and control, not perfection — your goal is to protect image information while staying responsive to changing light.*   
+📌 *Week 4 focuses on awareness and control — your goal is to protect image information while staying responsive to changing light.*   
 
 ---
 
 <h2 style="color: darkred;"> Camera Settings — What to Use for Week 4 </h2>  
 
 For **Week 4**, we will continue using the same camera settings as **Week 3**, while expanding our attention to **exposure changes over time** and how to **monitor and manage them during recording**.
-
-📌 *The goal is not to memorize settings, but to stay aware of how exposure shifts as you move through different lighting conditions.*
 
 ---
 
@@ -40,8 +38,12 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 - Set the **Frame Rate** to **30 fps**
 - Activate the **Grid**
 - Set the lens to **Manual Focus (MF)**
+- Continue working in **Manual Mode (M)**
+  > Set Apertute, Shutter Speed, and ISO
 - Set up **Custom White Balance**
   > Tip: Use a **Balance Card Set** or a **white sheet of paper**
+- Use **Evaluative / Matrix Metering**.
+  > This metering mode analyzes light across the **entire frame** and provides a stable reference when moving through **changing lighting conditions** (indoors → outdoors)
 
 ---
 
@@ -56,41 +58,15 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 
 ---
 
-### Manual Mode + Exposure (Reminder)
-
-Continue working in **Manual Mode (M)**.
-
-- **Aperture**  
-  Controls how much light enters the camera and influences **depth of field**
-
-- **Shutter Speed**  
-  Controls how long light reaches the sensor and affects **motion blur**
-
-- **ISO**  
-  Controls the sensor’s sensitivity to light and affects **image noise**
-
----
-
-### Metering
-
-For this assignment, you must use **Evaluative / Matrix Metering**.
-
-- This metering mode analyzes light across the **entire frame**
-- It provides a stable reference when moving through **changing lighting conditions** (indoors → outdoors)
-
----
-
-### Exposure Compensation & Bracketing
+### Exposure Compensation
 
 As you move through different lighting environments, exposure can shift **rapidly and unpredictably**.  
-To help manage this, you will begin working with **Exposure Compensation** and **Exposure Bracketing**.
+To help manage these changes, you will work with **Exposure Compensation**, which allows you to intentionally bias exposure **brighter or darker** than what the camera’s meter suggests.
 
-- **Exposure Compensation** allows you to intentionally bias exposure brighter or darker than what the camera suggests
-- **Exposure Bracketing** records multiple exposures of the same shot, providing safety options when exposure is difficult to judge in real time
+📌 *Exposure Compensation does not replace careful exposure decisions using aperture, shutter speed, and ISO.  
+It is a support tool that helps you protect image information when lighting conditions change.*
 
-📌 *These tools do not replace careful exposure decisions (on apperture, shutter speed, and ISO). They help you protect image information when conditions change.*
-
-Watch this short tutorial on how to **set and adjust Exposure Compensation and Bracketing**.
+Watch this short tutorial on how to **set and adjust Exposure Compensation**:
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GgBW4iW60c?si=dThr-GmVbQarHAkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
