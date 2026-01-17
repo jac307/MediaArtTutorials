@@ -210,16 +210,9 @@ Not all image information is lost in the same way.
 - **Highlights** clip **abruptly** when overexposed
 - **Shadows** lose detail more gradually, often introducing noise
 
-For this assignment:
+Advise:  
 - Prioritize **protecting highlights**, especially when moving into brighter areas
 - Use exposure adjustments to prevent the histogram from hitting the far right edge
-
-#### Histogram as a Decision-Making Tool
-
-Use the histogram to:
-- Anticipate exposure problems before they become visible
-- Decide when to adjust exposure compensation or bracketing
-- Confirm that image information is still being preserved while recording
 
 ________________________________________________________________________
 
