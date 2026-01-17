@@ -7,7 +7,7 @@
 
 ## Objective
 
-This technical walkthrough supports the **Static Outdoor Scene (Individual)** assignment.  
+This technical walkthrough supports the **Static Outdoor Scene (Groups of 3 students)** assignment.  
 The goal is to understand how **lens choice, camera distance, and aperture** shape **space, depth, and exposure**. 
 
 ### By the end of this session, students should be able to:
