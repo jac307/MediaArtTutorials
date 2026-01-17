@@ -112,16 +112,90 @@ Watch this short tutorial on how to **set and adjust Exposure Compensation and B
 
 ### Exposure Triangle  
 
-<img src="imgs/56.jpg" style="width: 60%; height: auto;">    
+<img src="imgs/56.jpg" style="width: 40%; height: auto;">     
 
+The **Exposure Triangle** describes the relationship between **aperture, shutter speed, and ISO**, which together determine how much light is recorded and how that light affects depth, motion, and image quality.
 
+watch this video for a deeper explanation of exposure:     
 
 <div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=KSF-DVqOVioLv-s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
 
 ---
 
-### Shutter Speed
+### Aperture — Advanced Concept (Vocabulary & Logic)
+
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/66.jpg" alt="Test video 1" style="width: 40%; height: auto;">
+  <img src="imgs/67.png" alt="Test video 2" style="width: 40%; height: auto;">
+</figure>
+
+Aperture is organized in steps called **stops**.
+
+- Each **full stop** change either:
+  - **doubles** the amount of light entering the camera, or  
+  - **cuts the amount of light in half**
+
+Aperture values are written as **f-numbers**.  
+
+### What “One Stop” Means (Conceptually)  
+
+- **Lower f-number** → larger opening → **more light**
+- **Higher f-number** → smaller opening → **less light**
+
+Examples:
+- Moving from **f/4 → f/2.8** lets in **twice as much light**
+- Moving from **f/5.6 → f/8** lets in **half as much light**
+
+Each step compounds:
+- One stop wider → double the light  
+- Two stops wider → four times the light  
+- One stop narrower → half the light  
+
+📌 *This is why small aperture changes can have a big impact on exposure.*   
+
+#### Aperture and Depth of Field
+
+Aperture also controls **depth of field**:
+
+- Wider apertures (lower f-numbers) → **narrow / shallow depth of field**
+- Narrower apertures (higher f-numbers) → **large / deep depth of field**
+
+This means aperture decisions always involve a **trade-off** between **exposure, depth of field, and visual emphasis**.    
+
+---
+
+### Shutter Speed — Advanced Concept (Vocabulary & Logic)
+
+<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
+  <img src="imgs/68.jpg" alt="Test video 1" style="width: 48%; height: auto;">
+  <img src="imgs/69.jpg" alt="Test video 2" style="width: 48%; height: auto;">
+</figure>
+
+Shutter speeds are organized in steps called **stops**.
+
+- Each **full stop** change either:
+  - **doubles** the amount of light, or  
+  - **cuts the amount of light in half**
+
+This means exposure changes **exponentially**, not gradually.  
+
+#### What “One Stop” Means (Conceptually)
+
+- Slower shutter speed → **more time** → **more light**
+- Faster shutter speed → **less time** → **less light**
+
+Examples:
+- Moving from **1/60 → 1/30** lets in **twice as much light**
+- Moving from **1/250 → 1/500** lets in **half as much light**
+
+Each step compounds:
+- One stop faster → **half as much light**
+- Two stops faster → **one quarter as much light**
+- Three stops faster → **one eighth as much light**
+
+📌 *This is why exposure can change very quickly and why small adjustments matter.*  
 
 ---
 
