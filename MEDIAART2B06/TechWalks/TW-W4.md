@@ -197,20 +197,47 @@ Each step compounds:
 
 ---
 
-### Aperture and Shutter in Concert 
+### Reading the Histogram While Moving (Week 4)   
 
----
+<img src="imgs/68.jpg" style="width: 70%; height: auto;">   
 
-### Metering
+In **Week 4**, the histogram is no longer used only to check exposure before recording, it becomes a **live monitoring tool** as you move through changing lighting conditions.
 
----
+#### The Histogram Is Dynamic
 
-### Exposure Compensation & Bracketing
+- The histogram updates **in real time** as the camera moves
+- Bright or dark areas entering the frame will immediately affect its shape
+- Spikes may appear or disappear as you move indoors, outdoors, or between light sources
 
----
+📌 *This means exposure can change mid-shot, even if your camera settings stay the same.*
 
-### Histogram
+#### The Histogram Depends on the Scene
 
+There is no single “correct” histogram shape.
+
+- Bright scenes naturally push the histogram **to the right**
+- Dark scenes naturally push the histogram **to the left**
+- A histogram does **not** need to be centered to be correct
+
+📌 *The goal is not a perfect shape — the goal is preserving image information.*
+
+#### Highlight vs. Shadow Priority
+
+Not all image information is lost in the same way.
+
+- **Highlights** clip **abruptly** when overexposed
+- **Shadows** lose detail more gradually, often introducing noise
+
+For this assignment:
+- Prioritize **protecting highlights**, especially when moving into brighter areas
+- Use exposure adjustments to prevent the histogram from hitting the far right edge
+
+#### Histogram as a Decision-Making Tool
+
+Use the histogram to:
+- Anticipate exposure problems before they become visible
+- Decide when to adjust exposure compensation or bracketing
+- Confirm that image information is still being preserved while recording
 
 ________________________________________________________________________
 
