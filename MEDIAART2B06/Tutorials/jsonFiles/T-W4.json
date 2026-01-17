@@ -4,19 +4,19 @@
     "description": "Text",
     "children": [
       {
-        "title": "title",
+        "title": "Waveform Monitor Explained - A Tool For Color and Exposure",
+        "description": "This tutorial introduces the Lumetri Scopes in Premiere Pro as analysis tools for exposure and color. It focuses on reading waveform monitors to diagnose image issues, not to replace careful shooting or visual judgment.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/qgzjfyffKlA?si=s89gPdBa29eTociw"
+      },
+      {
+        "title": "Using Auto-Color and Apply Match",
         "description": "Text",
         "tutorialEmbedCode": "url"
       },
       {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
-      },
-      {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
+        "title": "Cinematic Look Premiere Pro - Color Grading Tutorial",
+        "description": "This tutorial introduces the use of cinematic LUTs as a finishing step in the color workflow. It emphasizes the importance of color correction first, followed by optional stylistic adjustments using curves, color matching, HSL Secondary, and vignettes.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/bVlTlTRhRDc?si=aG9xlmnFLdHTjR5F"
       },
       {
         "title": "title",
