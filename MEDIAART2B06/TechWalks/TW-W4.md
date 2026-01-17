@@ -48,7 +48,7 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 
 📌 Image stabilization helps reduce unwanted shake when recording handheld, but it does **not** prevent motion blur caused by incorrect shutter speed.
 
-<img src="imgs/65.svg" style="width: 80%; height: auto;">  
+<img src="imgs/65.png" style="width: 80%; height: auto;">  
 
 ---
 
