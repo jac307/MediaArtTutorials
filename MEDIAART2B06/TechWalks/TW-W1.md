@@ -256,6 +256,25 @@ How to setup ISO:
 
 ---
 
+### Auto Exposure Bracketing (AEB) 
+
+**AEB** allows the camera to automatically capture **multiple images of the same shot** at different exposure levels.  
+
+Typically, the camera records:
+- one image at the suggested exposure
+- one slightly **underexposed**  
+- one slightly **overexposed**  
+
+📌 *Exposure bracketing is useful when lighting conditions are difficult to judge or when you want safety options without changing settings manually.*
+
+Watch the following tutorial to learn how to **enable and adjust AEB** on the camera:   
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IyH9sQcXOe4?si=c6FpWLwdhgagqEso&amp;start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
+
+---
+
 ### Focus Mode
 
 **Manual Focus (MF)** — *Default for Week 1*
