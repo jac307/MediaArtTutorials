@@ -54,7 +54,7 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 
 📌 Image stabilization helps reduce unwanted shake when recording handheld, but it does **not** prevent motion blur caused by incorrect shutter speed.
 
-<img src="imgs/65.png" style="width: 40%; height: auto;">  
+<img src="imgs/65.png" style="width: 35%; height: auto;">  
 
 ---
 
@@ -108,7 +108,7 @@ The **Exposure Triangle** describes the relationship between **aperture, shutter
 
 ### Aperture — Advanced Concept (Vocabulary & Logic)
 
-<img src="imgs/66.jpg" style="width: 80%; height: auto;">   
+<img src="imgs/66.jpg" style="width: 70%; height: auto;">   
 
 > 📄 **Reference:** [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
 
@@ -149,7 +149,7 @@ This means aperture decisions always involve a **trade-off** between **exposure,
 
 ### Shutter Speed — Advanced Concept (Vocabulary & Logic)
 
-<img src="imgs/67.jpg" style="width: 100%; height: auto;">   
+<img src="imgs/67.jpg" style="width: 80%; height: auto;">   
 
 > 📄 **Reference:** [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
 
