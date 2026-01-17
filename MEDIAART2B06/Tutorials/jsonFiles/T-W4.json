@@ -4,20 +4,30 @@
     "description": "Text",
     "children": [
       {
-        "title": "Waveform Monitor Explained - A Tool For Color and Exposure",
-        "description": "This tutorial introduces the Lumetri Scopes in Premiere Pro as analysis tools for exposure and color. It focuses on reading waveform monitors to diagnose image issues, not to replace careful shooting or visual judgment.",
-        "tutorialEmbedCode": "https://www.youtube.com/embed/qgzjfyffKlA?si=s89gPdBa29eTociw"
-      },
-      {
-        "title": "Using Auto-Color and Apply Match",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
-      },
+        "title": "How to Keyframe a Color Change",
+        "description": "This video demonstrates how to keyframe color changes in Adobe Premiere Pro when the lighting color shifts during a single shot. Using an excerpt from a PowerUp webinar, Larry Jordan shows how color keyframes can be used to adjust color correction or grading over time, helping maintain visual balance as lighting conditions change within a moving or continuous shot.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/sE3UFuDWzWc?si=dKT-zhsMsSRVSzE8"
+      }, 
       {
         "title": "Cinematic Look Premiere Pro - Color Grading Tutorial",
         "description": "This tutorial introduces the use of cinematic LUTs as a finishing step in the color workflow. It emphasizes the importance of color correction first, followed by optional stylistic adjustments using curves, color matching, HSL Secondary, and vignettes.",
         "tutorialEmbedCode": "https://www.youtube.com/embed/bVlTlTRhRDc?si=aG9xlmnFLdHTjR5F"
       },
+      {
+        "title": "Colour Correction using Adjustment Layer and keyframes",
+        "description": "This tutorial demonstrates how to perform color correction on a moving shot in Premiere Pro using Adjustment Layers and keyframes. It shows how to adjust color and exposure gradually over time as lighting conditions change, helping maintain visual consistency throughout a continuous shot.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/x_TF2FYT944?si=hZGFqoHYVldfjeyH"
+      },
+      {
+        "title": "Waveform Monitor Explained - A Tool For Color and Exposure",
+        "description": "This tutorial introduces the Lumetri Scopes in Premiere Pro as analysis tools for exposure and color. It focuses on reading waveform monitors to diagnose image issues, not to replace careful shooting or visual judgment.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/qgzjfyffKlA?si=s89gPdBa29eTociw"
+      },
+      {
+        "title": "4 Easy Tips for Color Correction in Premiere Pro",
+        "description": "This tutorial introduces four practical tips for color correction in Adobe Premiere Pro. It covers using the appropriate correction tools, working efficiently with the Lumetri Color panel, establishing proper exposure and white balance, and using the Vectorscope to check skin tones and color balance.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/QMhHP1_tl3c?si=M9Pk1alYPj4afD_l"
+      }, 
       {
         "title": "title",
         "description": "Text",
