@@ -3,18 +3,22 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">W4 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">Subtitle</h2>
+<h2 style="color: darkred;">Exposure Control While Moving</h2>
 
 ## Objective
 
-This technical walkthrough supports the **Continuous Shot (Individual)** assignment.  
-The goal is to ...
+This technical walkthrough supports the **Continuous Shot (Individual)** assignment. The goal is to help students **maintain visual consistency and preserve image information** while recording a single, uninterrupted shot across **changing lighting conditions**.  
+
+Rather than introducing new camera settings, Week 4 focuses on **how exposure behaves over time** and how to **monitor and manage it while recording**.  
 
 ### By the end of this session, students should be able to:
 
-- I
+- Monitor exposure **in real time** while recording a continuous shot  
+- Recognize how changes in lighting affect exposure **mid-shot**  
+- Use the **histogram** to identify potential loss of image information  
+- Apply **exposure compensation and bracketing** as support tools when lighting conditions shift
 
-📌 *Week 4 focuses on ...*  
+📌 *Week 4 focuses on awareness and control, not perfection — your goal is to protect image information while staying responsive to changing light.*   
 
 ---
 
