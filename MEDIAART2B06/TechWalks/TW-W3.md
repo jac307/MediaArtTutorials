@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">W3 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">Lenses, Aperture & Depth of Field (Static Outdoor Scene)</h2>
+<h2 style="color: darkred;">Lenses, Aperture & Depth of Field for Outdoor Recording</h2>
 
 ## Objective
 
