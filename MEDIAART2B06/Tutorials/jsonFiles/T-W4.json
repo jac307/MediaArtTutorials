@@ -4,19 +4,14 @@
     "description": "Text",
     "children": [
       {
-        "title": "title",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
+        "title": "How to Use Key Frames for Beginners",
+        "description": "This tutorial introduces the basic concept of keyframes in Adobe Premiere Pro. Although the examples use graphics and motion, the purpose of this video is to help you understand how keyframes work over time, which is essential for adjusting color correction and color grading in shots where lighting changes. You do not need to follow the graphics examples step by step — focus on understanding how keyframes are used to control changes across a clip.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/XwJf1FK3NA8?si=rEbRlo_hCzyIFGsq"
       },
       {
         "title": "How to Keyframe a Color Change",
         "description": "This video demonstrates how to keyframe color changes in Adobe Premiere Pro when the lighting color shifts during a single shot. Using an excerpt from a PowerUp webinar, Larry Jordan shows how color keyframes can be used to adjust color correction or grading over time, helping maintain visual balance as lighting conditions change within a moving or continuous shot.",
         "tutorialEmbedCode": "https://www.youtube.com/embed/sE3UFuDWzWc?si=dKT-zhsMsSRVSzE8"
-      }, 
-      {
-        "title": "Cinematic Look Premiere Pro - Color Grading Tutorial",
-        "description": "This tutorial introduces the use of cinematic LUTs as a finishing step in the color workflow. It emphasizes the importance of color correction first, followed by optional stylistic adjustments using curves, color matching, HSL Secondary, and vignettes.",
-        "tutorialEmbedCode": "https://www.youtube.com/embed/bVlTlTRhRDc?si=aG9xlmnFLdHTjR5F"
       },
       {
         "title": "Colour Correction using Adjustment Layer and keyframes",
