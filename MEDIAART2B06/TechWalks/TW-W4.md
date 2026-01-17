@@ -82,21 +82,23 @@ Watch this short tutorial on how to **set and adjust Exposure Compensation**:
   - crushed shadows when moving into darker areas
 - Remember: **exposure loss can happen mid-shot** and cannot be corrected later
 
-📌 *The histogram is your primary tool for tracking exposure during movement.*
-
 ---
 
 <h2 style="color: darkred;"> Exposure Control & Monitoring (Advance) </h2>  
+
+This section brings together the key concepts behind **exposure control and monitoring**, building on what you have already practiced in earlier weeks.     
+
+The focus here is on understanding **how exposure decisions interact**, how small adjustments can have large effects, and how to **read and protect image information while recording**.      
 
 ---
 
 ### Exposure Triangle  
 
+The **Exposure Triangle** describes the relationship between **aperture, shutter speed, and ISO**, which together determine how much light is recorded and how that light affects depth, motion, and image quality.   
+
 <img src="imgs/56.jpg" style="width: 40%; height: auto;">     
 
-The **Exposure Triangle** describes the relationship between **aperture, shutter speed, and ISO**, which together determine how much light is recorded and how that light affects depth, motion, and image quality.
-
-watch this video for a deeper explanation of exposure:     
+### Watch this video for a deeper explanation of exposure:     
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=KSF-DVqOVioLv-s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
