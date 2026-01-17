@@ -126,10 +126,9 @@ watch this video for a deeper explanation of exposure:
 
 ### Aperture — Advanced Concept (Vocabulary & Logic)
 
-<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
-  <img src="imgs/66.jpg" alt="Test video 1" style="width: 40%; height: auto;">
-  <img src="imgs/67.png" alt="Test video 2" style="width: 40%; height: auto;">
-</figure>
+<img src="imgs/66.jpg" style="width: 80%; height: auto;">   
+
+> 📄 **Reference:** You can download the **F-Stop Chart (PDF)** here: [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
 
 Aperture is organized in steps called **stops**.
 
@@ -168,10 +167,9 @@ This means aperture decisions always involve a **trade-off** between **exposure,
 
 ### Shutter Speed — Advanced Concept (Vocabulary & Logic)
 
-<figure style="width: 100%; margin: auto; display: flex; justify-content: center; gap: 1em;">
-  <img src="imgs/68.jpg" alt="Test video 1" style="width: 48%; height: auto;">
-  <img src="imgs/69.jpg" alt="Test video 2" style="width: 48%; height: auto;">
-</figure>
+<img src="imgs/67.jpg" style="width: 100%; height: auto;">   
+
+> 📄 **Reference:** You can download the **Shutter Speed Chart (PDF)** here: [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
 
 Shutter speeds are organized in steps called **stops**.
 
