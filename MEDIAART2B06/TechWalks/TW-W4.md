@@ -181,8 +181,6 @@ Each step compounds:
 
 ### Reading the Histogram While Moving (Week 4)   
 
-<img src="imgs/68.png" style="width: 50%; height: auto;">   
-
 In **Week 4**, the histogram is no longer used only to check exposure before recording, it becomes a **live monitoring tool** as you move through changing lighting conditions.
 
 #### The Histogram Is Dynamic
@@ -193,7 +191,7 @@ In **Week 4**, the histogram is no longer used only to check exposure before rec
 
 📌 *This means exposure can change mid-shot, even if your camera settings stay the same.*
 
-#### The Histogram Depends on the Scene
+#### The Histogram Depends on the Scene  
 
 There is no single “correct” histogram shape.
 
@@ -201,7 +199,9 @@ There is no single “correct” histogram shape.
 - Dark scenes naturally push the histogram **to the left**
 - A histogram does **not** need to be centered to be correct
 
-📌 *The goal is not a perfect shape — the goal is preserving image information.*
+📌 *The goal is not a perfect shape — the goal is preserving image information.*  
+
+<img src="imgs/68.png" style="width: 50%; height: auto;">   
 
 #### Highlight vs. Shadow Priority
 
