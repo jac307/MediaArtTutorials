@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Week 3 Tutorials — Premiere Pro: ?",
+    "description": "Text",
+    "children": [
+      {
+        "title": "title",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "title",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "title",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "title",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      }
+    ]
+  }
+]
