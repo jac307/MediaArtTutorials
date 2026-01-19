@@ -45,14 +45,14 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#planning">1. Planning [20m]</a></li>
+  <li><a href="#planning">1. Planning [15m]</a></li>
   <li><a href="#recording">2. Recording [40m]</a></li>
   <li><a href="#premiere">3. Post-Production: Premiere Pro [Begin in Class]</a></li>
 </ul>
 
 ---
 
-<h3 id="planning" style="color: darkred;">1. Planning [20m]</h3>
+<h3 id="planning" style="color: darkred;">1. Planning [15m]</h3>
 
 Before leaving the classroom, your group must **define** the outdoor space you intend to record.  
 This is a moment to think critically about **space, time, and framing** *before* going outside.
