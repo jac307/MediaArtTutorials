@@ -169,7 +169,7 @@ Create a **one/two-page document** including:
 - Title
 - Year
 - Authors
-- Location of Recording
+- **Location**
 - **3–4 line description explaining why this location was chosen**, considering spatial depth, duration, and environmental change
 - **Technical information:** Aperture, Shutter Speed, ISO, Lens used
 - **Brief note on color correction/grading:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
