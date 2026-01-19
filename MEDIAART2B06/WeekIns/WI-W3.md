@@ -32,7 +32,7 @@ You are expected to work actively during class time and participate in all in-cl
 **News from Home** (1978), by Chantal Akerman  
 → A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time. The camera does not react; the world does.    
 ▶️ [Movie Clip](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}      
-▶️ <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Full Fim on Kanopy (McMaster Library Access</a>    
+▶️ <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Full Fim on Kanopy (McMaster Library Access)</a>    
 
 **Slow Landscapes**, by Cynthia Lawson Jaramillo  
 → These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail. Stillness becomes a way of paying attention.    
@@ -45,10 +45,9 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#planning">1. Planning Phase </a></li>
-  <li><a href="#recording">2. Recording</a></li>
-  <li><a href="#premiere">4. Post-Production: Premiere Pro</a></li>
-  <li><a href="#submission">5. Submission</a></li>
+  <li><a href="#planning">1. Planning Phase [20m]</a></li>
+  <li><a href="#recording">2. Recording [40m]</a></li>
+  <li><a href="#premiere">3. Post-Production: Premiere Pro [[Begin in Class]]</a></li>
 </ul>
 
 ---
@@ -83,7 +82,7 @@ You may approach duration in one of the following ways:
 
 ---
 
-<h3 id="setup" style="color: darkred;">2. Recording</h3>
+<h3 id="setup" style="color: darkred;">2. Recording [40m]</h3>
 
 ### Camera Setup
 
@@ -92,18 +91,15 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 
 - Camera on **tripod**
 - **Manual Mode (M)**
-- Manual focus
-- Custom white balance
-- Exposure set **once** and kept consistent
-- Use the **histogram** to confirm exposure
-
-📌 **Exposure consistency rule:**  
-> Set exposure **before recording** and do not change aperture, shutter speed, ISO, or white balance during the shot.
-
-📌 **Focus check:**  
-> Carefully confirm focus before recording. Do not refocus mid-shot.
-
----
+- **Aspect Ratio:** 16:9  
+- **Resolution:** 1920 × 1080  
+- **Frame Rate:** 30 fps
+- **Manual Focus (MF)**
+  > Carefully confirm focus before recording. Do **not** refocus mid-shot.
+- **Custom White Balance**
+- **Consistent Exposure**
+  > Set exposure **before recording** and do **not** change aperture, shutter speed, ISO, or white balance during the shot.
+- Use the **histogram** to confirm exposure before recording
 
 ### Audio Setup
 
@@ -111,14 +107,10 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 - One person in the group must be responsible for audio recording
 - Use a **hand clap at the beginning** of each take for sync
 - The Zoom may be:
-  - held steadily
-  - placed on the ground
+  - held steadily  
+  - placed on the ground  
   - moved carefully to capture environmental sound
-- Do not tap, touch, or handle the recorder during recording
-
-📌 *Audio should reflect the space and duration of the scene.*
-
----
+- Do **not** tap, touch, or handle the recorder during recording
 
 ### Recording Rules
 
@@ -127,7 +119,6 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 - **No camera movement**
 - **No walking in front of the camera**
   - People may pass naturally through the frame
-- **No music**
 
 ### Duration
 
@@ -136,16 +127,15 @@ You may:
 **OR**
 - Record **10 seconds minimum** and stretch to 30 seconds in Premiere
 
-📌 *Do not cut or trim within the shot. Time must remain continuous.*
+📌 *You won't cut or trim within the shot. Time must remain continuous.*
 
 ---
 
-<h3 id="premiere" style="color: darkred;">4. Post-Production: Premiere Pro</h3>
+<h3 id="premiere" style="color: darkred;">3. Post-Production: Premiere Pro [Begin in Class]</h3>
 
 Begin editing **in class**.
 
 Refer to:
-- **[W1 Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"}**
 - **[W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"}**
 
 ### Editing Requirements
