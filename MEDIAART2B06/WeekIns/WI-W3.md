@@ -180,7 +180,7 @@ Create a **one/two-page document** including:
 
 ---
 
-<h3 style="color: darkred;">📤 Submission (in pairs) </h3>
+<h3 style="color: darkred;">📤 Submission (one per group - 3 students) </h3>
 
 | Item                               | Required Filename                   |
 |-----------------------------------|--------------------------------------|
