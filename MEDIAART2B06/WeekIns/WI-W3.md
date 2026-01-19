@@ -45,17 +45,139 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#idea">2. Interview Prompt - Idea Phase</a></li> - **Complete before class**
-  <li><a href="#setup">1. Group Organization & Setup</a></li>
+  <li><a href="#planning">1. Planning & Scouting</a></li>
+  <li><a href="#setup">2. Camera, Lens & Audio Setup</a></li>
   <li><a href="#recording">3. Recording</a></li>
-  <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
-  <li><a href="#premiere">5. Post-Production: Assemble in Premiere Pro</a></li>
+  <li><a href="#premiere">4. Post-Production: Premiere Pro</a></li>
+  <li><a href="#submission">5. Submission</a></li>
 </ul>
 
 ---
 
-<h3 id="idea" style="color: darkred;">1. Interview Prompt - Idea Phase [Complete before class]</h3>
+<h3 id="planning" style="color: darkred;">1. Planning & Scouting</h3>
 
+Before recording, your group must **briefly scout** outdoor locations on campus.
+
+- Do **not** record in the first place you see
+- Do **not** over-scout or travel far
+- Choose a location that allows:
+  - depth in the frame
+  - visible spatial layers
+  - subtle movement over time (people passing, light shifts, wind, etc.)
+
+📌 *The camera will remain still — all visual change must come from within the frame.*
+
+---
+
+### Lens Selection
+
+Each group will sign up for **one available lens**:
+
+- **24mm**
+- **35mm**
+- **50mm**
+
+⚠️ Lens availability is limited. Once assigned:
+- You **must** work with that lens
+- No switching after scouting begins
+
+📌 *Lens choice affects spatial perception, depth, and how time is experienced in the frame.*
+
+---
+
+<h3 id="setup" style="color: darkred;">2. Camera, Lens & Audio Setup</h3>
+
+### Camera Setup
+
+Follow the **Week 3 Tech Walkthrough** exactly:  
+👉 [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
+
+- Camera on **tripod**
+- **Manual Mode (M)**
+- Manual focus
+- Custom white balance
+- Exposure set **once** and kept consistent
+- Use the **histogram** to confirm exposure
+
+📌 **Exposure consistency rule:**  
+> Set exposure **before recording** and do not change aperture, shutter speed, ISO, or white balance during the shot.
+
+📌 **Focus check:**  
+> Carefully confirm focus before recording. Do not refocus mid-shot.
+
+---
+
+### Audio Setup
+
+- Record audio **separately** using a **ZOOM H4N Handheld**
+- One person in the group must be responsible for audio recording
+- Use a **hand clap at the beginning** of each take for sync
+- The Zoom may be:
+  - held steadily
+  - placed on the ground
+  - moved carefully to capture environmental sound
+- Do not tap, touch, or handle the recorder during recording
+
+📌 *Audio should reflect the space and duration of the scene.*
+
+---
+
+<h3 id="recording" style="color: darkred;">3. Recording</h3>
+
+### Recording Rules
+
+- Record **two full takes**
+- Each take must be **continuous**
+- **No camera movement**
+- **No walking in front of the camera**
+  - People may pass naturally through the frame
+- **No music**
+
+### Duration
+
+You may:
+- Record up to **1 minute** and later reduce to 30 seconds  
+**OR**
+- Record **10 seconds minimum** and stretch to 30 seconds in Premiere
+
+📌 *Do not cut or trim within the shot. Time must remain continuous.*
+
+---
+
+<h3 id="premiere" style="color: darkred;">4. Post-Production: Premiere Pro</h3>
+
+Begin editing **in class**.
+
+Refer to:
+- **[W1 Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"}**
+- **[W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"}**
+
+### Editing Requirements
+
+- **Final duration:** 30 seconds
+- **No cuts within the shot**
+- **Simple fade-in and fade-out only**
+- **Audio must come from the Zoom recording**
+  - You may adjust audio levels
+- Perform **color correction only**
+  - Restore contrast
+  - Reduce winter flatness
+  - Maintain a natural look
+- Very subtle color grading is allowed
+
+🚫 No visual effects  
+🚫 No LUTs  
+🚫 No music  
+
+---
+
+### Titles & Credits
+
+- Titles and credits must appear **on top of the image**
+- They must be:
+  - readable
+  - spatially and aesthetically considered
+- No separate title cards
 
 ---
 
