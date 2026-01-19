@@ -54,8 +54,8 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#idea">2. Interview Prompt - Idea Phase</a></li> - **Complete before class**
-  <li><a href="#setup">1. Group Organization & Setup</a></li>
+  <li><a href="#idea">1. Interview Prompt - Idea Phase</a></li> - **Complete before class**
+  <li><a href="#setup">2. Group Organization & Setup</a></li>
   <li><a href="#recording">3. Recording</a></li>
   <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
   <li><a href="#premiere">5. Post-Production: Assemble in Premiere Pro</a></li>
