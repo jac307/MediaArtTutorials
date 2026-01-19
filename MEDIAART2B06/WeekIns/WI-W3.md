@@ -30,12 +30,12 @@ You are expected to work actively during class time and participate in all in-cl
 ## Examples
 
 **News from Home** (1978), by Chantal Akerman  
-→ A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time. The camera does not react; the world does.
+→ A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time. The camera does not react; the world does.    
 ▶️ [Movie Clip](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}      
 ▶️ <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Full Fim on Kanopy (McMaster Library Access</a>    
 
 **Slow Landscapes**, by Cynthia Lawson Jaramillo  
-→ These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail. Stillness becomes a way of paying attention.
+→ These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail. Stillness becomes a way of paying attention.    
 🌐 [Project's Website](https://www.cynthialawson.com/site/?p=525){:target="_blank"}    
 ▶️ [Sisga, Colombia Clip](https://vimeo.com/94722817?fl=pl&fe=vl){:target="_blank"}
 
@@ -45,7 +45,7 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#planning">1. Planning & Scouting</a></li>
+  <li><a href="#planning">1. Planning Phase </a></li>
   <li><a href="#setup">2. Camera, Lens & Audio Setup</a></li>
   <li><a href="#recording">3. Recording</a></li>
   <li><a href="#premiere">4. Post-Production: Premiere Pro</a></li>
@@ -54,34 +54,33 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h3 id="planning" style="color: darkred;">1. Planning & Scouting</h3>
+<h3 id="planning" style="color: darkred;">1. Planning Phase [20m]</h3>
 
-Before recording, your group must **briefly scout** outdoor locations on campus.
+Before leaving the classroom, your group must **define** the outdoor space you intend to record.  
+This is a moment to think critically about **space, time, and framing** *before* going outside.
 
-- Do **not** record in the first place you see
-- Do **not** over-scout or travel far
-- Choose a location that allows:
-  - depth in the frame
-  - visible spatial layers
-  - subtle movement over time (people passing, light shifts, wind, etc.)
+- Do **not** default to the first outdoor location you think of  
+- Do **not** default to the location **closest to the classroom**  
+- Do **not** overthink or over-design the scene or location  
+- Discuss and agree on a type of space that offers:
+  - depth within the frame  
+  - visible spatial layers (foreground / midground / background)  
+  - subtle changes over time (people passing, light shifts, wind, environmental movement)
 
-📌 *The camera will remain still — all visual change must come from within the frame.*
+Each group will be **randomly assigned one available lens**: **24mm**, **35mm**, or **50mm**.  
+> For more information about these lenses, see: [Available Cameras & Lenses](../Cameras.md){:target="_blank"}
 
----
+Use this planning time to:
+- imagine where the camera would be placed  
+- consider how the assigned **lens** will shape the space  
+- anticipate how **time and duration** will register in the image
 
-### Lens Selection
+You may approach duration in one of the following ways:
+- Record exactly **30 seconds** *(not recommended)*  
+- Record **more time** (up to **1 minute**) and trim the beginning/end **or** slightly speed up the footage to reach 30s  
+- Record **less time** (minimum **10 seconds**) and slow the footage to reach 30s  
 
-Each group will sign up for **one available lens**:
-
-- **24mm**
-- **35mm**
-- **50mm**
-
-⚠️ Lens availability is limited. Once assigned:
-- You **must** work with that lens
-- No switching after scouting begins
-
-📌 *Lens choice affects spatial perception, depth, and how time is experienced in the frame.*
+📌 *The camera will remain still — all visual change must come from within the frame, not from camera movement.*
 
 ---
 
