@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Static Outdoor Scene (Groups of 3)</h1>  
 
-<img src="imgs/05.png" style="width: 100%; height: auto;">  
+<img src="imgs/07.png" style="width: 100%; height: auto;">  
 
 In groups of 3 students, you will create a **30-second static outdoor video** that explores **time, stillness, and spatial observation** through a fixed camera position.
 
