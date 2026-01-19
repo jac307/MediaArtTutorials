@@ -138,19 +138,24 @@ Begin editing **in class**.
 
 Refer to:
 - **[W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"}**
+- or previous tutorials
 
 ### Editing Requirements
 
 - **Final duration:** 30 seconds
-- **No cuts within the shot**. It must be a **continous shot**
+- **No cuts within the shot**. It must be a **continuous shot**
 - **Simple fade-in (beginning) and fade-out (end) only**
 - **Audio must come from the Zoom recording**
   > You may adjust audio levels
 - Perform **color correction only**
-  - Restore contrast
+  - Restore contrast  
   - Reduce winter flatness
-- Very subtle color grading is allowed
+- Very subtle colour grading is allowed
   - Maintain a natural look
+- Apply a **very slow, subtle zoom-in using keyframes**
+  - This must be **minimal and gradual**
+  - The zoom should **not break image quality or framing**
+  - Check the **keyframes tutorial** before applying this effect
 
 🚫 No visual effects   
 🚫 No music  
