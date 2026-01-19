@@ -99,6 +99,7 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 - **Custom White Balance**
 - **Consistent Exposure**
   > Set exposure **before recording** and do **not** change aperture, shutter speed, ISO, or white balance during the shot.
+  > Save the following camera parameters for your submission (write them down): **Aperture, Shutter Speed, ISO**.
 - Use the **histogram** to confirm exposure before recording
 
 ### Audio Setup
@@ -141,18 +142,17 @@ Refer to:
 ### Editing Requirements
 
 - **Final duration:** 30 seconds
-- **No cuts within the shot**
-- **Simple fade-in and fade-out only**
+- **No cuts within the shot**. It must be a **continous shot**
+- **Simple fade-in (beginning) and fade-out (end) only**
 - **Audio must come from the Zoom recording**
-  - You may adjust audio levels
+  > You may adjust audio levels
 - Perform **color correction only**
   - Restore contrast
   - Reduce winter flatness
-  - Maintain a natural look
 - Very subtle color grading is allowed
+  - Maintain a natural look
 
-🚫 No visual effects  
-🚫 No LUTs  
+🚫 No visual effects   
 🚫 No music  
 
 ---
@@ -169,27 +169,29 @@ Refer to:
 
 ### Project Info PDF
 
-Create a **one-page document** including:
+Create a **one/two-page document** including:
 
 - **One representative still image**
 - Title
 - Year
 - Authors
-- **3/4-line artistic description**
+- Location of Recording
+- **3–4 line description explaining why this location was chosen**, considering spatial depth, duration, and environmental change
+- **Technical information:** Aperture, Shutter Speed, ISO, Lens used
+- **Brief note on color correction:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-1-ChiaroscuroInterview.pdf`
+📄 **Filename:** `Group-#-StaticOutdoorScene.pdf`
 
 
 ---
 
 <h3 style="color: darkred;">📤 Submission (in pairs) </h3>
 
-| Item                               | Required Filename                      |
-|------------------------------------|----------------------------------------|
-| Brainstorming PDF                  | `Group-1-Brainstorming.pdf`            |
-| Final Chiaroscuro Interview MP4    | `Group-1-ChiaroscuroInterview.mp4`     |
-| Project Description PDF            | `Group-1-ChiaroscuroInterview.pdf`     |
+| Item                               | Required Filename                   |
+|-----------------------------------|--------------------------------------|
+| Final Static Outdoor Scene MP4    | `Group-1-StaticOutdoorScene.mp4`     |
+| Project Description PDF           | `Group-1-StaticOutdoorScene.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -197,6 +199,22 @@ Create a **one-page document** including:
 
 ## Assessment Notes
 
+- This is a **learning-focused assignment**
+- Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
+- Risk-taking and experimentation are encouraged **within the assignment constraints**
+
+For an **A+**, the work should demonstrate:
+
+- **Intentional spatial composition**, with clear foreground, midground, and background relationships  
+- **Thoughtful lens use**, showing awareness of how focal length shapes space and perception  
+- **Strong control of exposure**, with consistent settings and preserved image information throughout the shot  
+- **Attentive use of time and duration**, allowing environmental change to unfold within a static frame  
+- **Careful integration of ambient sound**, contributing to a sense of place without distraction  
+- **Disciplined post-production**, using color correction to restore contrast and balance while maintaining a natural look  
+- **Clear conceptual coherence**, where location choice, framing, sound, and duration work together intentionally  
+
+> ❗ **Attendance and engagement are part of the rubric.**  
+You are expected to work actively during class time and participate in all planning, recording, and in-class editing activities.
 
 ________________________________________________________________________
 
