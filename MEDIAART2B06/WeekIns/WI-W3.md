@@ -46,8 +46,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 <ul>
   <li><a href="#planning">1. Planning Phase </a></li>
-  <li><a href="#setup">2. Camera, Lens & Audio Setup</a></li>
-  <li><a href="#recording">3. Recording</a></li>
+  <li><a href="#recording">2. Recording</a></li>
   <li><a href="#premiere">4. Post-Production: Premiere Pro</a></li>
   <li><a href="#submission">5. Submission</a></li>
 </ul>
@@ -84,7 +83,7 @@ You may approach duration in one of the following ways:
 
 ---
 
-<h3 id="setup" style="color: darkred;">2. Camera, Lens & Audio Setup</h3>
+<h3 id="setup" style="color: darkred;">2. Recording</h3>
 
 ### Camera Setup
 
@@ -120,8 +119,6 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 📌 *Audio should reflect the space and duration of the scene.*
 
 ---
-
-<h3 id="recording" style="color: darkred;">3. Recording</h3>
 
 ### Recording Rules
 
