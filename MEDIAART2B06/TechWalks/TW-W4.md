@@ -37,7 +37,7 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 - Set the **Resolution** to **1920 × 1080**
 - Set the **Frame Rate** to **30 fps**
 - Activate the **Grid**
-- Set the lens to **Manual Focus (MF)**
+- Set the lens to **Auto Focus (AF)**
 - Continue working in **Manual Mode (M)**
   > Set Apertute, Shutter Speed, and ISO
 - Set up **Custom White Balance**
