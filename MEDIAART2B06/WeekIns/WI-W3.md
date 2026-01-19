@@ -99,9 +99,11 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 - **Manual Focus (MF)**
   > Carefully confirm focus before recording. Do **not** refocus mid-shot.
 - **Custom White Balance**
-- **Consistent Exposure**
-  > Set exposure **before recording** and do **not** change aperture, shutter speed, ISO, or white balance during the shot.   
-  > Save the following camera parameters for your submission (write them down): **Aperture, Shutter Speed, ISO**.
+- **Exposure set before recording and locked**
+  > Set aperture, shutter speed, ISO, and exposure compensation **before recording**.  
+  > Do **not** change any exposure settings during the shot.
+- Save the following camera parameters for your submission (write them down):  
+  **Aperture, Shutter Speed, ISO**   
 - Use the **histogram** to confirm exposure before recording
 
 ### Audio Setup
