@@ -30,12 +30,12 @@ You are expected to work actively during class time and participate in all in-cl
 ## Examples
 
 **News from Home** (1978), by Chantal Akerman  
-→ A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time. The camera does not react; the world does.    
+→ A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time.    
 ▶️ [Movie Clip](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}      
 ▶️ <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Full Fim on Kanopy (McMaster Library Access)</a>    
 
 **Slow Landscapes**, by Cynthia Lawson Jaramillo  
-→ These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail. Stillness becomes a way of paying attention.    
+→ These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail.    
 🌐 [Project's Website](https://www.cynthialawson.com/site/?p=525){:target="_blank"}    
 ▶️ [Sisga, Colombia Clip](https://vimeo.com/94722817?fl=pl&fe=vl){:target="_blank"}
 
@@ -45,40 +45,42 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#planning">1. Planning Phase [20m]</a></li>
+  <li><a href="#planning">1. Planning [20m]</a></li>
   <li><a href="#recording">2. Recording [40m]</a></li>
-  <li><a href="#premiere">3. Post-Production: Premiere Pro [[Begin in Class]]</a></li>
+  <li><a href="#premiere">3. Post-Production: Premiere Pro [Begin in Class]</a></li>
 </ul>
 
 ---
 
-<h3 id="planning" style="color: darkred;">1. Planning Phase [20m]</h3>
+<h3 id="planning" style="color: darkred;">1. Planning [20m]</h3>
 
 Before leaving the classroom, your group must **define** the outdoor space you intend to record.  
 This is a moment to think critically about **space, time, and framing** *before* going outside.
 
 - Do **not** default to the first outdoor location you think of  
 - Do **not** default to the location **closest to the classroom**  
-- Do **not** overthink or over-design the scene or location  
+- Do **not** overthink the location  
 - Discuss and agree on a type of space that offers:
   - depth within the frame  
   - visible spatial layers (foreground / midground / background)  
   - subtle changes over time (people passing, light shifts, wind, environmental movement)
 
 Each group will be **randomly assigned one available lens**: **24mm**, **35mm**, or **50mm**.  
-> For more information about these lenses, see: [Available Cameras & Lenses](../Cameras.md){:target="_blank"}
+> For more information about these lenses, see: [Available Cameras & Lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}
 
 Use this planning time to:
 - imagine where the camera would be placed  
 - consider how the assigned **lens** will shape the space  
 - anticipate how **time and duration** will register in the image
 
+📌 *The camera will remain still — all visual change must come from within the frame, not from camera movement.*   
+
 You may approach duration in one of the following ways:
 - Record exactly **30 seconds** *(not recommended)*  
 - Record **more time** (up to **1 minute**) and trim the beginning/end **or** slightly speed up the footage to reach 30s  
-- Record **less time** (minimum **10 seconds**) and slow the footage to reach 30s  
+- Record **less time** (minimum **15 seconds**) and slow the footage to reach 30s  
 
-📌 *The camera will remain still — all visual change must come from within the frame, not from camera movement.*
+📌 *You won't cut or trim within the shot. Time must remain continuous.*   
 
 ---
 
@@ -98,7 +100,7 @@ Follow the **Week 3 Tech Walkthrough** exactly:
   > Carefully confirm focus before recording. Do **not** refocus mid-shot.
 - **Custom White Balance**
 - **Consistent Exposure**
-  > Set exposure **before recording** and do **not** change aperture, shutter speed, ISO, or white balance during the shot.
+  > Set exposure **before recording** and do **not** change aperture, shutter speed, ISO, or white balance during the shot.   
   > Save the following camera parameters for your submission (write them down): **Aperture, Shutter Speed, ISO**.
 - Use the **histogram** to confirm exposure before recording
 
@@ -107,50 +109,35 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 - Record audio **separately** using a **ZOOM H4N Handheld**
 - One person in the group must be responsible for audio recording
 - Use a **hand clap at the beginning** of each take for sync
-- The Zoom may be:
-  - held steadily  
-  - placed on the ground  
-  - moved carefully to capture environmental sound
-- Do **not** tap, touch, or handle the recorder during recording
+- The Zoom may be held steadily, placed on the ground, or moved carefully to capture environmental sound    
+- Do **not** tap the recorder during recording
 
 ### Recording Rules
 
 - Record **two full takes**
 - Each take must be **continuous**
 - **No camera movement**
-- **No walking in front of the camera**
-  - People may pass naturally through the frame
-
-### Duration
-
-You may:
-- Record up to **1 minute** and later reduce to 30 seconds  
-**OR**
-- Record **10 seconds minimum** and stretch to 30 seconds in Premiere
-
-📌 *You won't cut or trim within the shot. Time must remain continuous.*
+- **No zoom in/out**
+- **No walking in front of the camera** —People may pass naturally through the frame
 
 ---
 
 <h3 id="premiere" style="color: darkred;">3. Post-Production: Premiere Pro [Begin in Class]</h3>
 
-Begin editing **in class**.
-
-Refer to:
-- **[W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"}**
-- or previous tutorials
+> Refer to **[W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"}** or previous tutorials.   
 
 ### Editing Requirements
 
+- **Resolution:** 1280 × 720 (HD) 
 - **Final duration:** 30 seconds
 - **No cuts within the shot**. It must be a **continuous shot**
 - **Simple fade-in (beginning) and fade-out (end) only**
 - **Audio must come from the Zoom recording**
   > You may adjust audio levels
-- Perform **color correction only**
+- Perform **color correction**
   - Restore contrast  
   - Reduce winter flatness
-- Very subtle colour grading is allowed
+- Very **subtle colour grading** is allowed
   - Maintain a natural look
 - Apply a **very slow, subtle zoom-in using keyframes**
   - This must be **minimal and gradual**
@@ -164,7 +151,7 @@ Refer to:
 
 ### Titles & Credits
 
-- Titles and credits must appear **on top of the image**
+- Titles and credits must appear **on top of the image/video**
 - They must be:
   - readable
   - spatially and aesthetically considered
@@ -183,7 +170,7 @@ Create a **one/two-page document** including:
 - Location of Recording
 - **3–4 line description explaining why this location was chosen**, considering spatial depth, duration, and environmental change
 - **Technical information:** Aperture, Shutter Speed, ISO, Lens used
-- **Brief note on color correction:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
+- **Brief note on color correction/grading:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Group-#-StaticOutdoorScene.pdf`
@@ -210,13 +197,10 @@ Create a **one/two-page document** including:
 
 For an **A+**, the work should demonstrate:
 
-- **Intentional spatial composition**, with clear foreground, midground, and background relationships  
-- **Thoughtful lens use**, showing awareness of how focal length shapes space and perception  
+- **Intentional spatial composition**, with clear foreground, midground, and background relationships and where location choice, framing, sound, and duration work together intentionally  
 - **Strong control of exposure**, with consistent settings and preserved image information throughout the shot  
-- **Attentive use of time and duration**, allowing environmental change to unfold within a static frame  
 - **Careful integration of ambient sound**, contributing to a sense of place without distraction  
-- **Disciplined post-production**, using color correction to restore contrast and balance while maintaining a natural look  
-- **Clear conceptual coherence**, where location choice, framing, sound, and duration work together intentionally  
+- **Advance post-production**, using color correction to restore contrast and balance while maintaining a natural look  
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all planning, recording, and in-class editing activities.
