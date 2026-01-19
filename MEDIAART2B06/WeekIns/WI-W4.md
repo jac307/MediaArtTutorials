@@ -34,15 +34,18 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Examples
 
-**News from Home** (1978), by Chantal Akerman  
-→ A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time.    
-▶️ [Movie Clip](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}      
-▶️ <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Full Fim on Kanopy (McMaster Library Access)</a>    
+**Enter the Void** (2009), by Gaspar Noé  
+→ A landmark example where the camera adopts an embodied, subjective perspective. The film uses **handheld movement, continuous motion, and dramatic exposure and color shifts**.      
+▶️ [Movie Trailer](https://www.youtube.com/watch?v=j8SKVcDc4po){:target="_blank"}      
+▶️ [Opening Sequence - Enter the Void]([https://www.youtube.com/watch?v=XUoYPF2EPiQ](https://www.youtube.com/watch?v=PGtumTVHRcQ)){:target="_blank"}     
 
-**Slow Landscapes**, by Cynthia Lawson Jaramillo  
-→ These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail.    
-🌐 [Project's Website](https://www.cynthialawson.com/site/?p=525){:target="_blank"}    
-▶️ [Sisga, Colombia Clip](https://vimeo.com/94722817?fl=pl&fe=vl){:target="_blank"}
+> ⚠️ **Content Warning:** This film contains explicit imagery, including drug use, sexuality, flashing lights, and intense visual effects that may be disorienting or triggering.
+
+**Victoria** (2015), by Sebastian Schipper
+→ This film moves fluidly between **indoor and outdoor environments**, forcing exposure, focus, and sound to adapt in real time. The camera navigates space through walking, following, and drifting.  
+▶️ [Movie Trailer](https://www.youtube.com/watch?v=6QzAA4qEGqs){:target="_blank"}
+
+> ⚠️ **Content Warning:** This film contains violence, criminal activity, and intense scenes.   
 
 ---
 
