@@ -129,7 +129,7 @@ Use the PDF worksheet below to help you decide:
 ### Submission
 
 - ➡️ **Export as PDF**
-- 📄 **Filename:** `Grouo-#-Brainstorming.pdf`
+- 📄 **Filename:** `Group-#-Brainstorming.pdf`
 
 
 ---
@@ -273,7 +273,7 @@ Edit your interview following the **same principles as Week 1**, with the additi
 
 Export video:
 - **Format:** 1920×1080, H.264, MP4
-- **Filename:** `Name-Lastname-ChiaroscuroInterview.mp4`
+- **Filename:** `Group-#-ChiaroscuroInterview.mp4`
 
 ---
 
@@ -288,7 +288,7 @@ Create a **one-page document** including:
 - **3/4-line artistic description**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-1-ChiaroscuroInterview.pdf`
+📄 **Filename:** `Group-#-ChiaroscuroInterview.pdf`
 
 
 ---
@@ -297,9 +297,9 @@ Create a **one-page document** including:
 
 | Item                               | Required Filename                      |
 |------------------------------------|----------------------------------------|
-| Brainstorming PDF                  | `Group-1-Brainstorming.pdf`            |
-| Final Chiaroscuro Interview MP4    | `Group-1-ChiaroscuroInterview.mp4`     |
-| Project Description PDF            | `Group-1-ChiaroscuroInterview.pdf`     |
+| Brainstorming PDF                  | `Group-#-Brainstorming.pdf`            |
+| Final Chiaroscuro Interview MP4    | `Group-#-ChiaroscuroInterview.mp4`     |
+| Project Description PDF            | `Group-#-ChiaroscuroInterview.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
