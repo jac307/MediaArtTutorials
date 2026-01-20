@@ -36,20 +36,20 @@ You are expected to work actively during class time and participate in all in-cl
 
 **Russian Ark** (2002), by Alexander Sokurov  
 → Filmed in a single uninterrupted shot, this work demonstrates how space, light, and sound evolve over time without cuts. Although not first-person, it is a strong reference for understanding continuity, spatial transition, and the limits of exposure control in long takes.   
-▶️ [Trailer](https://www.youtube.com/watch?v=J2VwG5pBz1k){:target="_blank"}
-▶️ <a href="https://www.dailymotion.com/video/x9tovpy" target="_blank" rel="noopener noreferrer">Full Movie</a>   
+▶️ [Trailer](https://www.youtube.com/watch?v=J2VwG5pBz1k){:target="_blank"}    
+▶️ <a href="https://www.dailymotion.com/video/x9tovpy" target="_blank" rel="noopener noreferrer">Full Movie</a>     
 
 **Victoria** (2015), by Sebastian Schipper
 → This film moves fluidly between **indoor and outdoor environments**, forcing exposure, focus, and sound to adapt in real time. The camera navigates space through walking, following, and drifting.    
-▶️ [Movie Trailer](https://www.youtube.com/watch?v=6QzAA4qEGqs){:target="_blank"}
-▶️ [Movie segment](https://www.youtube.com/watch?v=23ffjjNtf3k){:target="_blank"}
+▶️ [Movie Trailer](https://www.youtube.com/watch?v=6QzAA4qEGqs){:target="_blank"}    
+▶️ [Movie segment](https://www.youtube.com/watch?v=23ffjjNtf3k){:target="_blank"}   
 
 > ⚠️ **Content Warning:** This film contains violence, criminal activity, and intense scenes.   
 
 **Enter the Void** (2009), by Gaspar Noé  
 → A landmark example where the camera adopts an embodied, subjective perspective. The film uses **handheld movement, continuous motion, and dramatic exposure and color shifts**.      
-▶️ [Movie Trailer](https://www.youtube.com/watch?v=j8SKVcDc4po){:target="_blank"}      
-▶️ [Opening Sequence - Enter the Void](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}     
+▶️ [Movie Trailer](https://www.youtube.com/watch?v=j8SKVcDc4po){:target="_blank"}        
+▶️ [Opening Sequence - Enter the Void](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}       
 
 > ⚠️ **Content Warning:** This film contains explicit imagery, including drug use, sexuality, flashing lights, and intense visual effects that may be disorienting or triggering.   
 
