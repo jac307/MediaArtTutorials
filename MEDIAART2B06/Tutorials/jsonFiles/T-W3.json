@@ -2,9 +2,9 @@
   {
     "title": "Week 3 Tutorials — Premiere Pro: Color Correction & Basic Timing",
     "description": "These tutorials introduce foundational post-production techniques in Adobe Premiere Pro, with a focus on <strong>basic color correction for winter footage</strong> and understanding the <strong>difference between correction and grading</strong>. <br><br> The goal is to improve clarity, contrast, and consistency in a static outdoor scene, while avoiding heavy stylization. <br><br> A final tutorial introduces <strong>keyframes to animate parameters/settings</strong>  which will be fundamental for the following week.",
-    },
-      
-      {
+ },
+  
+  {
     "title": "🌈 𝗖𝗼𝗹𝗼𝘂𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗼𝗹𝗼𝘂𝗿 𝗚𝗿𝗮𝗱𝗶𝗻𝗴",
     "description": "Intro tutorials on colour correction and colour grading on Premiere Pro.",
     "children": [
@@ -30,12 +30,11 @@
       }
     ]
   },
-
-      {
+  
+  {
     "title": "🎬 𝗧𝗶𝗺𝗲, 𝗞𝗲𝘆𝗳𝗿𝗮𝗺𝗲𝘀 𝗮𝗻𝗱 𝗧𝗶𝘁𝗹𝗲𝘀",
     "description": "Intro tutorials on how to speed up or slow down videos, keyframing animation, and how to create simple cinematic titles.",
     "children": [
-      
       {
         "title": "How to Speed Up or Slow Down a Clip",
         "description": "This tutorials demostrate a quick easy way to modify the time of a clip to either speed it up or slow it down.",
@@ -54,3 +53,4 @@
     ]
   }
 ]
+
