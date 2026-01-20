@@ -4,6 +4,10 @@
     "description": "These tutorials focus on managing color and exposure in <strong>moving or continuous shots</strong>. The emphasis is on using <strong>keyframes, adjustment layers, and monitoring tools</strong> to correct exposure and color gradually as lighting conditions change, rather than applying fixed corrections. <br><br> The goal is to <strong>maintain visual consistency</strong> and protect image information throughout a shot.",
     "children": [
       {
+    "title": "🌈 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗖𝗼𝗹𝗼𝘂𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗼𝗹𝗼𝘂𝗿 𝗚𝗿𝗮𝗱𝗶𝗻𝗴",
+    "description": "",
+    "children": [
+      {
         "title": "How to Keyframe a Color Change",
         "description": "This video demonstrates how to keyframe color changes in Adobe Premiere Pro when the lighting color shifts during a single shot. Using an excerpt from a PowerUp webinar, Larry Jordan shows how color keyframes can be used to adjust color correction or grading over time, helping maintain visual balance as lighting conditions change within a moving or continuous shot.",
         "tutorialEmbedCode": "https://www.youtube.com/embed/sE3UFuDWzWc?si=dKT-zhsMsSRVSzE8"
@@ -23,6 +27,8 @@
         "description": "This tutorial introduces four practical tips for color correction in Adobe Premiere Pro. It covers using the appropriate correction tools, working efficiently with the Lumetri Color panel, establishing proper exposure and white balance, and using the Vectorscope to check skin tones and color balance.",
         "tutorialEmbedCode": "https://www.youtube.com/embed/QMhHP1_tl3c?si=M9Pk1alYPj4afD_l"
       }
+    ]
+  }
     ]
   }
 ]
