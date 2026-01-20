@@ -184,8 +184,8 @@ Create a **one/two-page document** including:
 
 | Item                               | Required Filename                   |
 |-----------------------------------|--------------------------------------|
-| Final Static Outdoor Scene MP4    | `Group-1-StaticOutdoorScene.mp4`     |
-| Project Description PDF           | `Group-1-StaticOutdoorScene.pdf`     |
+| Final Static Outdoor Scene MP4    | `Group-#-StaticOutdoorScene.mp4`     |
+| Project Description PDF           | `Group-#-StaticOutdoorScene.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
