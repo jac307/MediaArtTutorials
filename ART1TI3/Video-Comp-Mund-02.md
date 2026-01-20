@@ -107,6 +107,14 @@ Your finished video should be **30–60 seconds long**.
 
 ---
 
+## How To FIX LAG In Davinci Resolve
+
+Follow tip #1 and tip #2 of this tutorial if your computer is lagging when playing the timeline.    
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sY6tGs1KXqU?si=Jy5fJdRbKXj2OdeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 📤 Exporting & Submission
 - Export as **MP4**  
 - **Filename:** `Lastname-Name-TestVideo.mp4`
