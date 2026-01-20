@@ -27,7 +27,11 @@ The goal is to build confidence with the software so you can make stronger creat
 
 - Computer with DaVinci Resolve (download <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">here</a>)
   > *DaVinci Resolve is also available for Tablets through the corresponding App Store, but editing on tablets is **not recommended** due to limited screen space and functionality.*
-- Headphones (recommended for audio design)  
+- Headphones (recommended for audio design)
+
+#### How To Fix GPU Configuration Warning In Davinci Resolve 20
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZau-cq5yMY?si=JTLXDPHkSzNYTDv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
