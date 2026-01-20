@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Continuous Shot (Individual)</h1>  
 
-<img src="imgs/08.jpg" style="width: 100%; height: auto;">  
+<img src="imgs/08.png" style="width: 100%; height: auto;">  
 
 In this assignment, you will create a **30-second continuous handheld video** recorded from a **first-person point of view**, moving from an **outdoor space to an indoor space** in a single, uninterrupted shot.
 
