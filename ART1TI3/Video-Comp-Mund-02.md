@@ -111,6 +111,8 @@ Your finished video should be **30–60 seconds long**.
 - Export as **MP4**  
 - **Filename:** `Lastname-Name-TestVideo.mp4`
 
+<img src="imgs/14.jpg" style="width: 80%; height: auto;">
+
 ---
 
 <h3 style="color: darkred;">📤 Submissions</h3>
