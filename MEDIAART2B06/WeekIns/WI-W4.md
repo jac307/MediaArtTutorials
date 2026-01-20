@@ -36,7 +36,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 **Russian Ark** (2002), by Alexander Sokurov  
 → Filmed in a single uninterrupted shot, this work demonstrates how space, light, and sound evolve over time without cuts. Although not first-person, it is a strong reference for understanding continuity, spatial transition, and the limits of exposure control in long takes.   
-▶️ [Trailer](https://www.youtube.com/watch?v=J2VwG5pBz1k){:target="_blank"}    
+▶️ [Trailer](https://youtu.be/ZV1kphEEXn8?si=b5Cp--qqSxA7C45v){:target="_blank"}    
 ▶️ <a href="https://www.dailymotion.com/video/x9tovpy" target="_blank" rel="noopener noreferrer">Full Movie</a>     
 
 **Victoria** (2015), by Sebastian Schipper   
@@ -76,14 +76,13 @@ Before recording, your group (from Week 3) must **select one shared route** that
 - Do **not** choose a route that requires running or abrupt movement
 
 As a group:
-- Agree on the **same location and route**
-- Ensure doors can be opened by peers  
-  > *No hands should appear in front of the camera*
+- Agree on the **same location and route**   
 
 Individually:
 - Decide **where the camera will look** while moving  
 - Decide how you will frame space as you walk  
 - Think about how **light will change** during the transition
+- Perspective: **First-person point of view**
 
 📌 *Even though the route is shared, each recording should feel distinct through framing, attention, and movement.*
 
@@ -93,7 +92,7 @@ Individually:
 
 ### Camera Setup
 
-Follow the **Week 3 Tech Walkthrough** exactly:  
+Follow the **Week 4 Tech Walkthrough** exactly:  
 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
 
 - **Handheld camera**
@@ -110,31 +109,20 @@ Follow the **Week 3 Tech Walkthrough** exactly:
 - Save the following camera parameters for your submission (write them down):  
   **Aperture, Shutter Speed, ISO**
 - Use the **histogram** to evaluate exposure before recording
-
-### Audio Setup
-
-- Use the **camera’s built-in microphone**
-- Focus on:
-  - footsteps
-  - environmental sound
-  - spatial transitions
-- Avoid touching or covering the microphone
+- Audio: **camera’s built-in microphone**
+  > Avoid touching or covering the microphone
 
 ### Recording Rules
 
 - Each student records **a maximum of two takes**
-- Each take must be:
-  - **continuous**
-  - **handheld**
-  - **30 seconds**
-  > You may trim the **beginning or end only** to reach a final duration of 30 seconds
+- Each take must be: **continuous**, **handheld**, and last **40-60 seconds**
+  > You will trim the **beginning or end** to reach a final duration of 30 seconds
 - **No stopping or restarting mid-shot**
 - **No running**
 - Walk at a **normal, steady pace**
 - Classmates may help:
   - open doors
   - clear the path
-- **No hands in front of the camera**
 
 📌 *Exposure changes are expected. Do not attempt to correct them during recording.*   
 
@@ -175,14 +163,14 @@ Create a **one/two-page document** including:
 - **One representative still image**
 - Title
 - Year
-- Authors
+- Author
 - **Location and route description**
 - **3–4 line description** explaining:
   - your framing choices
   - how movement shaped the image
   - how light changed during the shot
 - **Technical information:** Aperture, Shutter Speed, ISO, Lens used
-- **Brief note on color correction:** 1–2 sentences identifying the main exposure or color challenges in the shot and explaining how keyframes and scopes were used to correct them
+- **Brief note on colour correction:** 1–2 sentences identifying the main exposure or color challenges in the shot and explaining how keyframes and scopes were used to correct them
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Name-ContinuousShot.pdf`
