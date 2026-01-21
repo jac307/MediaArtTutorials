@@ -92,7 +92,7 @@ You are expected to:
 
 ## Available Stations
 
-<img src="imgs/05-1.jpg" style="width: 50%; height: auto;">
+<img src="imgs/05-1.jpg" style="width: 80%; height: auto;">
 
 - **Station 1:**
   - **Three Scanners**
