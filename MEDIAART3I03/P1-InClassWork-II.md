@@ -78,9 +78,7 @@ You should:
 
 Using the analogue media stations, record all visual materials needed for your documentary.
 
-### Recording Note (Very Important)
-
-For **Class Work II**, **professional video cameras will be available at each station**.
+### Recording Note
 
 - You **must use the provided professional cameras** to record your visuals
 - **Cellphones are not permitted** for visual recording in this session
@@ -92,28 +90,42 @@ You are expected to:
 - Record multiple takes or variations when possible
 - ❗ Save all of your files in your USB before leaving class ❗
 
-Available Equipment / Stations  
+## Available Stations
+
+<img src="imgs/05-1.jpg" style="width: 50%; height: auto;">
 
 - **Station 1:**
   - **Three Scanners**
-  - **Light Table** - access to a printer and translucent printing vellum
-  - **Hand recorders**
+    > Scanners are available to book as part of the Media Art Program Equipment
    
 - **Station 2:**
   - **One CRT TVs (Toshiba)**
+  - Sony Video Camera on Tripoid
     
 - **Station 3:** 
-  - **Two Monitors (Commodore)** with **black backdrop**
+  - **One Monitor (Commodore)**
+  - Sony Video Camera on Tripoid
     
 - **Station 4:**
-  - **Overhead Light Projector**
   - **Two Monitors (Sony)** with **speaker**
+  - Sony Video Camera on Tripoid
      
 - **Station 5:** 
   - **One CRT TV (Toshiba)**
-  - **Professional mic setup**  
+  - DSRL Camera on Tripoid
 
-### Note for Sony Video Cameras
+## Video Cameras
+
+We're using the following cameras (all available to book as part of the Media Art Program Equipment):      
+
+- Sony Digital HD Video Camera (HXR-NX5U)
+- Sony Solid-State Memory Camcorder (PXW-FS5K)
+- Sony Solid-State Memory Camcorder (PXW-Z90V)
+- Canon DSLR EOS Rebel T5i EOS 700D
+
+> You must record at **60 fps**
+
+### How to find your video file using the SDs from the Sony Cameras:  
 
 <img src="imgs/07.jpeg" style="width: 60%; height: auto;">
 
