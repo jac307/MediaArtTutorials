@@ -127,7 +127,7 @@ We're using the following cameras (all available to book as part of the Media Ar
 
 <img src="imgs/07.jpeg" style="width: 60%; height: auto;">    
 
-## Video Cameras
+## Scanners
 
 We're using the following scanners (all available to book as part of the Media Art Program Equipment):      
 
