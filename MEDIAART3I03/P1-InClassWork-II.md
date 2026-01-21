@@ -96,7 +96,6 @@ You are expected to:
 
 - **Station 1:**
   - **Three Scanners**
-    > Scanners are available to book as part of the Media Art Program Equipment
    
 - **Station 2:**
   - **One CRT TVs (Toshiba)**
@@ -127,7 +126,16 @@ We're using the following cameras (all available to book as part of the Media Ar
 
 ### How to find your video file using the SDs from the Sony Cameras:  
 
-<img src="imgs/07.jpeg" style="width: 60%; height: auto;">
+<img src="imgs/07.jpeg" style="width: 60%; height: auto;">    
+
+## Video Cameras
+
+We're using the following scanners (all available to book as part of the Media Art Program Equipment):      
+
+- Epson V39 II
+  > Link to [Software/Driver](https://epson.ca/Support/Scanners/Perfection-Series/Epson-Perfection-V39-II/s/SPT_B11B268201?srsltid=AfmBOorG08lKsWbqax-H1YJqIYZstdahhjw1oqg6tsR0NGxxzBkBmq5A){:target="_blank"}    
+- Canon CanoScan LiDE220
+  > Link to [Software/Driver](https://en.canon-cna.com/support/consumer/products/scanners/canoscan/lide-series/canoscan-lide-220.html?type=drivers&os=all){:target="_blank"}     
 
 ---
 
