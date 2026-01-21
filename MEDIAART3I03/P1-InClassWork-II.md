@@ -76,9 +76,7 @@ You should:
 
 <h2 style="color: darkred;"> Visual Recording Session (≈ 2 hours) </h2>
 
-Using the analogue media stations, record all visual materials needed for your documentary.
-
-### Recording Note
+Using the analogue media stations, record all visual materials needed for your documentary.    
 
 - You **must use the provided professional cameras** to record your visuals
 - **Cellphones are not permitted** for visual recording in this session
@@ -95,23 +93,24 @@ You are expected to:
 <img src="imgs/05-1.jpg" style="width: 80%; height: auto;">
 
 - **Station 1:**
-  - **Three Scanners**
+  - **One CRT TV (Toshiba)**
+  - DSRL Camera on Tripoid
+  
    
 - **Station 2:**
-  - **One CRT TVs (Toshiba)**
+  - **Two Monitors (Sony)** with **speaker**
   - Sony Video Camera on Tripoid
     
 - **Station 3:** 
-  - **One Monitor (Commodore)**
+  - **One CRT TVs (Toshiba)**
   - Sony Video Camera on Tripoid
     
 - **Station 4:**
-  - **Two Monitors (Sony)** with **speaker**
+  - **One Monitor (Commodore)**
   - Sony Video Camera on Tripoid
      
 - **Station 5:** 
-  - **One CRT TV (Toshiba)**
-  - DSRL Camera on Tripoid
+  - **Three Scanners**
 
 ## Video Cameras
 
