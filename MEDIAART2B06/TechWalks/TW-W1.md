@@ -206,8 +206,7 @@ Aperture = **size of opening**
 
 Each aperture (above) represents a **halving** or **doubling** of the **volume of light**:  
 + f/4 lets in twice as much light as f/5.6
-+ f/11 lets in half as much light as f/8
-These increments are called a **full ‘stop’** because they represent the halving or doubling of the light.   
++ f/11 lets in half as much light as f/8     
 
 Aperture controls **depth of field** and how much of the image appears in focus.  
 
