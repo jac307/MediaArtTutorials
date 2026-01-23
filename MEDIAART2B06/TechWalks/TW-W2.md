@@ -162,7 +162,7 @@ For this assignment, use **Manual Mode (M)**.
 
 ### Shutter Speed
 
-- Start at **1/60s**. You may raise it slighthly if needed
+- Start at **1/60s**. You may raise it or lower it slighthly if needed
 - Shutter speed in this assignment is used primarily to fine-tune overall exposure, and avoid motion blur while keeping movement natural
 - Because the subject is mostly still, extreme shutter speeds are not required.
 - **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.
