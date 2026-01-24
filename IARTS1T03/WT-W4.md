@@ -110,7 +110,11 @@ Before adding lights, **organize your scene** (see example below).
 
 ---
 
-<h3 style="color: darkred;">[45 min] Lighting in Blender — Three Versions</h3>
+<h3 style="color: darkred;">[45 min] Lighting in Blender — Three Versions</h3>  
+
+Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
+> Focus only on lighting
+> Check the shortcuts provided!
 
 ### Lighting Constraints
 - ❌ Delete the default **Sun** light
@@ -131,9 +135,6 @@ Before adding lights, **organize your scene** (see example below).
 - Rename lights clearly (e.g., `SideLight_V1`, `TopLight_V2`)
 
 > Each version should feel **distinct**, even though the space remains the same.
-
-<div style= "width:80%; height:auto">
-</div>   
 
 ---
 
