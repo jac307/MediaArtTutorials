@@ -49,11 +49,11 @@ For full reference, review the slides from this week.
 > Reveals texture and form through contrast, introducing asymmetry and directional shadows.
 
 ### Side Lights
-<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
+<img src="imgs/12.jpg" style="width: 80%; height: auto;">    
 > Emphasizes vertical hierarchy, creating pressure and strong shadows beneath forms.
 
 ### Reflected Light
-<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
+<img src="imgs/13.jpg" style="width: 80%; height: auto;">    
 > Softens the scene by diffusing light, gently filling shadows while preserving volume.
 
 ---
