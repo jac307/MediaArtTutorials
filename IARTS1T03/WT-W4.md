@@ -135,39 +135,51 @@ For **each lighting version**, write **3–5 sentences** describing:
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single document with the following sections:
+### Create a single PDF with **4 pages total**:
 
-1. **General Information**  
-   > Full name, student number, and tutorial number.
+### **Page 1**
+- General Information  
+  > Full name, student number, tutorial number
+- **2D Lighting Maps** (all three versions)
 
-2. **2D Camera + Composition Map**  
-   > Include your labeled camera plan (3 cameras).
+### **Page 2**
+- Lighting Version 1  
+  - Rendered images (2–3)
+  - 3–5 sentence description
 
-3. **Camera Intention + Rendered Cameras**. Include the rendered image plus 2–3 sentences for each camera:  
-   - Render **Camera A** - Witness POV + Explain how this POV creates witnessing  
-   - Render **Camera B** - Just Recording POV +  Explain how this POV suggests *apparent neutrality*  
-   - Render **Camera C** - Control/Surveillance POV + Explain how this POV produces *oversight/control*   
+### **Page 3**
+- Lighting Version 2  
+  - Rendered images (2–3)
+  - 3–5 sentence description
 
-> Images should be **renders**, not screenshots.  
-> Each of your screenshots must take up at least half a page.
+### **Page 4**
+- Lighting Version 3  
+  - Rendered images (2–3)
+  - 3–5 sentence description
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W3-Tutorial.pdf`
+📄 **Filename:** `Lastname-Firstname-W4-Tutorial.pdf`
+
+---
 
 ### Save Blender File
 
 ➡️ **Save as .blend**  
-📄 **Filename:** `Lastname-Firstname-W3-3Dscene.blend`
+📄 **Filename:** `Lastname-Firstname-W4-Lighting.blend`
 
+Your Blender file **must include**:
+- Properly named objects
+- Correct collection structure
+- Only Spot and Area lights
 
 ---
 
 <h3 style="color: darkred;">📤 Submission</h3>
 
-| Component         | File Name                            |
-|------------------|---------------------------------------|
-| Project document | `Lastname-Firstname-W3-Tutorial.pdf`  |
-| Blender file     | `Lastname-Firstname-W3-3Dscene.blend` |
+| Component         | File Name                              |
+|------------------|-----------------------------------------|
+| Project document | `Lastname-Firstname-W4-Tutorial.pdf`    |
+| Blender file     | `Lastname-Firstname-W4-Lighting.blend`  |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -175,13 +187,28 @@ For **each lighting version**, write **3–5 sentences** describing:
 
 ## Assessment
 
-This Week 3 activity is **graded lightly** based on:
+This Week 4 activity is graded with **higher expectations** than previous weeks, as you are now combining **conceptual understanding** with **technical execution**.
 
-- Completion and effort
-- Clarity of **witnessing intention**
-- Thoughtful use of vocabulary: POV, framing, composition, layers, blocking
-- Technical application: multiple cameras + rendered images
+Your work will be assessed based on:
 
-This is an exploratory exercise — **clarity and spatial thinking matter more than polish**.
+- **Completion and effort**  
+  All required components are present and submitted correctly.
+
+- **Lighting vocabulary and conceptual clarity**  
+  Accurate and intentional use of lighting terms (position, direction, intensity, colour, contrast, shadow, reflection) in both planning and written descriptions.
+
+- **Lighting design logic**  
+  Each lighting version demonstrates a clear and distinct approach, showing how light reshapes space, depth, and atmosphere without moving objects.
+
+- **Blender organization and workflow**  
+  Proper use of collections (Geometry / Cameras / Lights), clear object and light naming, and removal of default lighting.
+
+- **Technical application in Blender**  
+  Correct use of Spot and Area lights, thoughtful adjustments to position, rotation, colour, intensity, radius, and influence.
+
+- **Rendered output**  
+  Renders clearly communicate the lighting choices and are taken from multiple viewpoints.
+
+This is still an exploratory exercise, but at this stage, **intentional lighting decisions and technical clarity matter more than experimentation alone**.
 
 ---
