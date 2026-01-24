@@ -34,7 +34,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ## Lights Overview
 
-For full reference, review the slides from this week.   
+For full reference, review the slides from this week.
 
 ### Front Light
 <img src="imgs/09.jpg" style="width: 80%; height: auto;">    
@@ -149,7 +149,7 @@ Before adding lights, **organize your scene** (see example below).
 
 <h3 style="color: darkred;">[20 min] Lighting Intentions — End Here</h3>
 
-For **each lighting version**, write **3–5 sentences** describing:
+For **each lighting version**, write **4–6 sentences** describing:
 
 - Technical choices:
   - light position and direction
@@ -163,27 +163,27 @@ For **each lighting version**, write **3–5 sentences** describing:
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single PDF with **4 pages total**:
+### Create a single PDF with **3 pages total**:
 
 ### **Page 1**
 - General Information  
   > Full name, student number, tutorial number
-- **2D Lighting Maps** (all three versions)
+- Lighting Version 1
+  - 2D Lighting Map
+  - Rendered images (2–3)
+  - 4-6 sentence description
 
 ### **Page 2**
-- Lighting Version 1  
+- Lighting Version 2
+  - 2D Lighting Map
   - Rendered images (2–3)
-  - 3–5 sentence description
-
+  - 4-6 sentence description
+    
 ### **Page 3**
-- Lighting Version 2  
+- Lighting Version 3
+  - 2D Lighting Map
   - Rendered images (2–3)
-  - 3–5 sentence description
-
-### **Page 4**
-- Lighting Version 3  
-  - Rendered images (2–3)
-  - 3–5 sentence description
+  - 4-6 sentence description
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W4-Tutorial.pdf`
