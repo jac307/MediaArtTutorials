@@ -82,59 +82,54 @@ Before adding lights, **organize your scene**.
 
 ---
 
-### Multiple Cameras + Render
+<h3 style="color: darkred;">[45 min] Lighting in Blender — Three Versions</h3>
 
-### Required: Create Three cameras (A + B + C)
-Add **three cameras** to the scene and set each one according to your camera map. Render all cameras separatelly.  
+### Lighting Constraints
+- ❌ Delete the default **Sun** light
+- ✅ Use only:
+  - **Spot Lights**
+  - **Area Lights** (for reflected light)
+- ❌ No HDRI
+- ❌ No materials or textures
 
-- **Camera A:** Witness POV  
-- **Camera B:** Detachment POV
-- **Camera C:** Control/Surveillance POV  
+### For each lighting version:
+- Add and position lights according to your 2D map
+- Adjust:
+  - position & rotation
+  - colour
+  - intensity (power)
+  - radius / size
+  - influence and beam shape
+- Rename lights clearly (e.g., `SideLight_V1`, `TopLight_V2`)
 
-### Camera Constraints
-- Use default lens settings for Cameras A and B
-- ❌ No camera movement/animation  
-- ✅ Focus on:
-  - camera position (POV)
-  - framing (wide/medium/close)
-  - composition (thirds/lines/symmetry)
-  - distance & layers (foreground/middleground/background)
-  - blocking for camera (relationships between bodies/objects and the camera)
-
-#### Render Multiple Cameras Simultaneously in Blender! (Slow pace version)
+> Each version should feel **distinct**, even though the space remains the same.
 
 <div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mFSq0nUl-0Y?si=iqooZtr4LsbqkNIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
-
-#### How to Render Multiple Cameras in Blender at Once (Faster pace version)
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GX5YnybYFSI?si=ziSfK9CTLa5Gb5U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
 
 ---
 
-<h3 style="color: darkred;">[15 min] Camera Intentions — End Here</h3>
+### Rendering Requirements
 
-After you complete your 2D camera map and 3D application, write a short description of <strong>each camera approach</strong>.
+- Render **2–3 images per lighting version**
+- Each render must be from a **different camera angle**
+- Images must be **renders**, not screenshots
 
-<div style="color: gray; font-style: italic; margin-top: 0.75em;">
-This week, you are not writing one single “camera intention.”  
-You are designing <strong>three different relationships</strong> to the same space using three POV approaches.
-</div>
+➡️ **Save all rendered images** for submission.
 
-### Write 2–3 sentences for each camera:
-- **Camera A — Witness POV** (close / aligned / relational)
-- **Camera B — Just Recording POV** (apparent neutrality; observational / standard coverage)
-- **Camera C — Control / Surveillance POV** (distant / overseeing; higher angle or detached)
+---
 
-### Guiding Prompts (use these to write each description)
-- **Where is the camera “standing”** (height/level, distance, angle) and what does that imply?
-- What does this POV **give the viewer access to** — and what does it **withhold**?
-- What kind of relationship does this POV produce: **care** (witnessing), **detachment** (just recording), or **pressure/control** (surveillance)?
+<h3 style="color: darkred;">[20 min] Lighting Intentions — End Here</h3>
 
-➡️ **Save this text** for submission.
+For **each lighting version**, write **3–5 sentences** describing:
+
+- Technical choices:
+  - light position and direction
+  - colour and intensity
+  - type of light used
+- Spatial and expressive intention:
+  - What changes in visibility, depth, or atmosphere?
+  - How does this lighting reshape the space?
 
 ---
 
