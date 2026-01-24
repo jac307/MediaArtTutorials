@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W4 — Lighting as Spatial Transformation</span>
 
 <figure style="width: 80%; margin: auto;">
-  <img src="imgs/07.png" style="width: 100%; height: auto;">
+  <img src="imgs/08.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -29,6 +29,32 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - Computer mouse (recommended)
 - Your **Week 2 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
+
+---
+
+## Lights Overview
+
+For full reference, review the slides from this week.   
+
+### Front Light
+<img src="imgs/09.jpg" style="width: 80%; height: auto;">    
+> Establishes a clear, legible baseline by maximizing visibility and minimizing shadows.
+
+### Top / Zenithal Light
+<img src="imgs/10.jpg" style="width: 80%; height: auto;">    
+> Balance visibility and depth, producing a controlled, sculpted three-dimensional look.
+
+### Mirrored Front Lights
+<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
+> Reveals texture and form through contrast, introducing asymmetry and directional shadows.
+
+### Side Lights
+<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
+> Emphasizes vertical hierarchy, creating pressure and strong shadows beneath forms.
+
+### Reflected Light
+<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
+> Softens the scene by diffusing light, gently filling shadows while preserving volume.
 
 ---
 
@@ -59,18 +85,20 @@ Create **three 2D lighting sketches**, each representing a **different lighting 
 > Your drawing skill is not graded.  
 > You are graded on **clarity of lighting logic and intention**.
 
-➡️ **Save this image** for submission (JPEG or PNG).
+➡️ **Save this image** for submission (JPEG or PNG).  
 
 ---
 
 <h3 style="color: darkred;">[20 min] Scene Organization in Blender</h3>
 
-Before adding lights, **organize your scene**.
+Before adding lights, **organize your scene** (see example below).
 
 ### Required Collections (in this order):
 1. **Geometry / Shapes**
 2. **Cameras**
 3. **Lights**
+
+<img src="imgs/12.png" style="width: 40%; height: auto;">    
 
 ### Organization Rules:
 - Rename **all existing shapes** clearly (no default names)
