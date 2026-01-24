@@ -34,7 +34,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ## Lights Overview
 
-For full reference, review the slides from this week.
+For full reference, review the slides from this week.   
 
 ### Front Light
 <img src="imgs/09.jpg" style="width: 80%; height: auto;">    
@@ -115,6 +115,8 @@ Before adding lights, **organize your scene** (see example below).
 Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
 > Focus only on lighting
 > Check the shortcuts provided!
+
+Review the slides from this week that contain tips for Blender.   
 
 ### Lighting Constraints
 - ❌ Delete the default **Sun** light
