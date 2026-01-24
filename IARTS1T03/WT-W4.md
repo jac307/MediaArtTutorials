@@ -116,7 +116,7 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 > Focus only on lighting     
 > Check the shortcuts provided!    
 
-Review the slides from this week that contain tips for Blender.   
+❗ Review the slides from this week for practical tips on organizing scenes and working with lights in Blender.   
 
 ### Lighting Constraints
 - ❌ Delete the default **Sun** light
