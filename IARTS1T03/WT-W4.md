@@ -113,8 +113,8 @@ Before adding lights, **organize your scene** (see example below).
 <h3 style="color: darkred;">[45 min] Lighting in Blender — Three Versions</h3>  
 
 Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
-> Focus only on lighting
-> Check the shortcuts provided!
+> Focus only on lighting     
+> Check the shortcuts provided!    
 
 Review the slides from this week that contain tips for Blender.   
 
