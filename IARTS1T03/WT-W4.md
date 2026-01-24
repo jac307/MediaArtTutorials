@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W3 — POV as Embodied Witness (Multi-Camera Scene)</span>
+# <span style="color: darkred;">W4 — Lighting as Spatial Transformation</span>
 
 <figure style="width: 80%; margin: auto;">
   <img src="imgs/07.png" style="width: 100%; height: auto;">
@@ -10,11 +10,10 @@
 
 ## Objective
 
-Build on your Week 1–2 geometric scene by treating the camera as an **embodied witness**.  
-This activity focuses on how **point of view (POV)** creates a relationship to space through:  
-**Framing • Composition • Distance & Layers • Blocking for camera**.  
+Build on your previous 3D scene by using **light as a spatial and expressive tool**.  
+This activity focuses on how **lighting position, direction, intensity, and colour** reshape space **without moving objects**.
 
-This week, you will work with **multiple cameras** to compare how different viewpoints produce different meanings.  
+You will design **three different lighting versions** of the same scene, learning to plan lighting conceptually and translate it into Blender using basic lights.
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -38,43 +37,48 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Camera Map + Composition Map — Start Here</h3>
+<h3 style="color: darkred;">[20 min] 2D Lighting Maps — Start Here</h3>
 
-Create a **2D camera planning map**. **See example above (below the main title)**.    
-> **Note**: Your drawing skill is not being graded. You are graded on how clearly your sketch communicates the requirements below.
+Create **three 2D lighting sketches**, each representing a **different lighting version** of the same scene.
+
+> ⚠️ This step must be completed **before** working in Blender.
 
 ### Requirements
 - Hand-drawn (preferred) or digital
-- Based on your **Week 2 floor plan** (you may update it)
-- Include **THREE (3) cameras**, each with a different:
-  - **Camera A: Witness POV** (closer / aligned / relational)
-  - **Camera B: Detachment POV** (apparent neutrality; observational / standard coverage)
-  - **Camera C: Control/Surveillance POV** (distant / overseeing; often higher angle or more detached)
+- Based on your **existing floor plan / scene layout**
+- Create **THREE (3) lighting versions**
+- Each version may use **one or two lights only**
 
-### Your map should clearly show:
-- Indicate each camera’s rotation (direction), level/height, and closeness to the main shapes.
-- Direction each camera faces (arrow)
-- Intended framing (Wide / Medium)
-- One composition strategy per camera (Thirds / Lines / Centered-Symmetry)
-- A small sketch or visual reference for the *intended look* of each camera
-- ✅ **Note:** This time you are using **three separate camera objects** in Blender.
+### For each lighting version, clearly indicate:
+- Light position (front / side / top / reflected, etc.)
+- Direction of light (arrow)
+- Light colour (written note)
+- Light intensity (low / medium / high)
+- Which object(s) or area the light affects
 
-> ⚠️ This step must be completed **before** working in Blender.
+> Your drawing skill is not graded.  
+> You are graded on **clarity of lighting logic and intention**.
 
 ➡️ **Save this image** for submission (JPEG or PNG).
 
 ---
 
-<h3 style="color: darkred;">[60 min] 3D Scene + Cameras in Blender</h3>
+<h3 style="color: darkred;">[20 min] Scene Organization in Blender</h3>
 
-### Update or revise your space
-- You may **adjust, refine, or rebuild** your Week 2 scene if needed.
-- Continue using **only basic geometric shapes**.
-- Keep the Module I constraints:
-  - ❌ No materials or textures  
-  - ❌ No lighting changes  
-  - ❌ No modifiers  
-  - ❌ No animation  
+Before adding lights, **organize your scene**.
+
+### Required Collections (in this order):
+1. **Geometry / Shapes**
+2. **Cameras**
+3. **Lights**
+
+### Organization Rules:
+- Rename **all existing shapes** clearly (no default names)
+- Place each object in the correct collection
+- Rename cameras logically
+- This structure **must be visible** in your submitted Blender file
+
+> ⚠️ Your Blender file will be checked for organization.
 
 ---
 
