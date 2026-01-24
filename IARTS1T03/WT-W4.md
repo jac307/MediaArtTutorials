@@ -4,7 +4,7 @@
 
 # <span style="color: darkred;">W4 — Lighting as Spatial Transformation</span>
 
-<figure style="width: 80%; margin: auto;">
+<figure style="width: 100%; margin: auto;">
   <img src="imgs/08.png" style="width: 100%; height: auto;">
 </figure>
 
