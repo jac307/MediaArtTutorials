@@ -73,7 +73,7 @@ This exercise is about **planning space and light together**.
 
 You are not copying the example — you are using it as a reference for **how to communicate spatial and lighting decisions**.   
 
-<img src="imgs/14.jpg" style="width: 80%; height: auto;">    
+<img src="imgs/14.jpg" style="width: 60%; height: auto;">    
 
 ---
 
