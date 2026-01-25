@@ -10,7 +10,7 @@
 
 ## Objective
 
-Build on your previous 3D scene by using **light as a spatial and expressive tool**.  
+**Build a new 3D scene (black box setting – square) using light as a spatial and expressive tool.**  
 This activity focuses on how **lighting position, direction, intensity, and colour** reshape space **without moving objects**.
 
 You will design **three different lighting versions** of the same scene, learning to plan lighting conceptually and translate it into Blender using basic lights.
@@ -63,29 +63,44 @@ For full reference, review the slides from this week.
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Lighting Maps — Start Here</h3>
+<h3 style="color: darkred;">[25 min] 2D Lighting Maps — Start Here</h3>
 
-Create **three 2D lighting sketches**, each representing a **different lighting version** of the same scene.
+Create **three (3) 2D lighting sketches**, each representing a **different lighting version** of the same scene taking into acount the **black box – square** as your venue/space.   
 
-> ⚠️ This step must be completed **before** working in Blender.
+This exercise is about **planning space and light together**.    
 
-### Requirements
-- Hand-drawn (preferred) or digital
-- Based on your **existing floor plan / scene layout**
-- Create **THREE (3) lighting versions**
-- Each version may use **one or two lights only**
+#### Example  
 
-### For each lighting version, clearly indicate:
-- Light position (front / side / top / reflected, etc.)
-- Direction of light (arrow)
-- Light colour (written note)
-- Light intensity (low / medium / high)
-- Which object(s) or area the light affects
+You are not copying the example — you are using it as a reference for **how to communicate spatial and lighting decisions**.   
 
-> Your drawing skill is not graded.  
-> You are graded on **clarity of lighting logic and intention**.
+<img src="imgs/14.jpg" style="width: 80%; height: auto;">    
 
-➡️ **Save this image** for submission (JPEG or PNG).  
+---
+
+### Scene Setup
+
+You are required to use the vocabulary from [Week 1](WT-W1.md){:target="_blank"} and from this week when labeling your maps and writing your descriptions.   
+
+- **Main stage / performance area**  
+  > This can be placed anywhere in the space.
+
+- Place **3–4 objects** on the stage
+- Objects must be:
+  - **close together**, *and/or*
+  - **stacked on top of each other**
+- Use **basic geometric forms only**    
+
+- **Audience position(s)** — options:  
+  - audience in front  
+  - audience on one side  
+  - audience surrounding the stage  
+  - audience on two sides, etc.
+
+- **Entrance(s)**  
+  > Where audiences enter the space.
+
+- **Light(s)**  
+  > Indicate the position, direction, range, and type of each light used in the scene.    
 
 ---
 
