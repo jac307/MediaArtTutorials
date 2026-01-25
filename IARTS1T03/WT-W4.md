@@ -66,7 +66,7 @@ For full reference, review the slides from this week.
 <h3 style="color: darkred;">[25 min] 2D Lighting Maps — Start Here</h3>
 
 Create **three (3) 2D lighting sketches**, each representing a **different lighting version** of the same scene taking into acount the **black box – square** as your venue/space.   
-> Hand-drawn (preferred) or digital
+> Hand-drawn (preferred) or digital.    
 
 #### Example  
 
