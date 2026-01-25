@@ -27,7 +27,6 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **Blender (free software)**  
   👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
 - Computer mouse (recommended)
-- Your **Week 2 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -78,53 +77,47 @@ You are not copying the example — you are using it as a reference for **how to
 
 ### Scene Setup  
 
-You are required to use the vocabulary from [Week 1](WT-W1.md){:target="_blank"} and from this week when labeling your maps and writing your descriptions.   
+You are required to use the vocabulary from [Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"} and **from this week** when labeling your maps and writing your descriptions.   
 
 - **Main stage / performance area**  
-  > This can be placed anywhere in the space.
+  > This can be placed anywhere in the space   
 
-- Place **3–4 objects** on the stage
-- Objects must be:
-  - **close together**, *and/or*
-  - **stacked on top of each other**
-- Use **basic geometric forms only**    
+- Place **3–4 objects** (basic geometric forms only) on the stage
+  > Objects must be **close together** *and/or* **stacked on top of each other**    
 
-- **Audience position(s)** — options:  
-  - audience in front  
-  - audience on one side  
-  - audience surrounding the stage  
-  - audience on two sides, etc.
+- **Audience position(s)**
+  > Options: in front, on one side, surrounding the stage, on two sides, etc.    
 
 - **Entrance(s)**  
-  > Where audiences enter the space.
+  > Where audiences enter the space.    
 
 - **Light(s)**  
   > Indicate the position, direction, range, and type of each light used in the scene.    
 
 ---
 
-<h3 style="color: darkred;">[20 min] Scene Organization in Blender</h3>
+<h3 style="color: darkred;">[60 min] Lighting in Blender — Three Versions</h3>
 
-Before adding lights, **organize your scene** (see example below).
+### Required Organization
 
-### Required Collections (in this order):
-1. **Geometry / Shapes**
-2. **Cameras**
+When working on your scene, you must organize it using **three collections**:
+
+1. **Geometry / Shapes**  
+2. **Cameras**  
 3. **Lights**
 
 <img src="imgs/12.png" style="width: 40%; height: auto;">    
 
-### Organization Rules:
-- Rename **all existing shapes** clearly (no default names)
+#### Organization Rules
+- Rename **all shapes** clearly (no default names)
 - Place each object in the correct collection
-- Rename cameras logically
-- This structure **must be visible** in your submitted Blender file
+- Rename **cameras and lights** logically and descriptively
 
-> ⚠️ Your Blender file will be checked for organization.
+> ⚠️ **Important:** Your Blender file will be checked for proper organization.
 
----
+--- 
 
-<h3 style="color: darkred;">[45 min] Lighting in Blender — Three Versions</h3>  
+### Lighting in Blender — Three Versions
 
 <img src="imgs/15.png" style="width: 60%; height: auto;">    
 > 3D application of the Light Map Example (Version 1) above.   
