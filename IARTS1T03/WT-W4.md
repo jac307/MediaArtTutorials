@@ -66,8 +66,7 @@ For full reference, review the slides from this week.
 <h3 style="color: darkred;">[25 min] 2D Lighting Maps — Start Here</h3>
 
 Create **three (3) 2D lighting sketches**, each representing a **different lighting version** of the same scene taking into acount the **black box – square** as your venue/space.   
-
-This exercise is about **planning space and light together**.    
+> Hand-drawn (preferred) or digital
 
 #### Example  
 
@@ -77,7 +76,7 @@ You are not copying the example — you are using it as a reference for **how to
 
 ---
 
-### Scene Setup
+### Scene Setup  
 
 You are required to use the vocabulary from [Week 1](WT-W1.md){:target="_blank"} and from this week when labeling your maps and writing your descriptions.   
 
