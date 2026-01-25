@@ -126,6 +126,9 @@ Before adding lights, **organize your scene** (see example below).
 
 <h3 style="color: darkred;">[45 min] Lighting in Blender — Three Versions</h3>  
 
+<img src="imgs/15.png" style="width: 60%; height: auto;">    
+> 3D application of the Light Map Example (Version 1) above.   
+
 Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
 > Focus only on lighting     
 > Check the shortcuts provided!    
@@ -152,8 +155,6 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 
 > Each version should feel **distinct**, even though the space remains the same.
 
----
-
 ### Rendering Requirements
 
 - Render **2–3 images per lighting version**
@@ -161,6 +162,19 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 - Images must be **renders**, not screenshots
 
 ➡️ **Save all rendered images** for submission.
+
+---
+
+### “0” not working to toggle Camera View?
+
+Go to the main menu **Edit** → **Preferences**.  
+Open the **Input** tab and enable **Emulate Numpad**.
+
+> The Camera View is mapped to **Numpad 0** by default.  
+> Many laptops don’t have a numpad (or separate number keys on the right).  
+> Enabling **Emulate Numpad** allows you to use the **0 key** on your laptop keyboard instead.
+
+<img src="imgs/16.png" style="width: 60%; height: auto;">    
 
 ---
 
