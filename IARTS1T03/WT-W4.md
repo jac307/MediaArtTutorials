@@ -117,8 +117,11 @@ When working on your scene, you must organize it using **three collections**:
 
 --- 
 
-### Lighting in Blender — Three Versions
+### Lighting in Blender — Three Versions   
 
+<img src="imgs/15.png" style="width: 60%; height: auto;">        
+> 3D application of the Light Map example above (Version 1)      
+  
 Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
 > Focus only on lighting     
 > Check the shortcuts provided!    
@@ -151,10 +154,6 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 - Images must be **renders**, not screenshots
 
 ➡️ **Save all rendered images** for submission.
-
-#### 3D application of the Light Map example above (Version 1)  
-
-<img src="imgs/15.png" style="width: 60%; height: auto;">        
 
 ---
 
