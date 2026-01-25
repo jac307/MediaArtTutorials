@@ -174,11 +174,11 @@ Open the **Input** tab and enable **Emulate Numpad**.
 
 For **each lighting version**, write **4–6 sentences** describing:
 
-- Technical choices:
+- **Technical choices:**
   - light position and direction
   - colour and intensity
   - type of light used
-- Spatial and expressive intention:
+- **Spatial and expressive intention:**
   - What changes in visibility, depth, or atmosphere?
   - How does this lighting reshape the space?
 
@@ -188,22 +188,22 @@ For **each lighting version**, write **4–6 sentences** describing:
 
 ### Create a single PDF with **3 pages total**:
 
-### **Page 1**
-- General Information  
+#### Page 1
+- General Information 
   > Full name, student number, tutorial number
-- Lighting Version 1
+- **Lighting Version 1**
   - 2D Lighting Map
   - Rendered images (2–3)
   - 4-6 sentence description
 
-### **Page 2**
-- Lighting Version 2
+#### Page 2
+- **Lighting Version 2**
   - 2D Lighting Map
   - Rendered images (2–3)
   - 4-6 sentence description
     
-### **Page 3**
-- Lighting Version 3
+#### Page 3
+- **Lighting Version 3**
   - 2D Lighting Map
   - Rendered images (2–3)
   - 4-6 sentence description
@@ -219,9 +219,8 @@ For **each lighting version**, write **4–6 sentences** describing:
 📄 **Filename:** `Lastname-Firstname-W4-Lighting.blend`
 
 Your Blender file **must include**:
-- Properly named objects
+- Properly named objects (shapes, cameras, lights)
 - Correct collection structure
-- Only Spot and Area lights
 
 ---
 
@@ -238,7 +237,7 @@ Your Blender file **must include**:
 
 ## Assessment
 
-This Week 4 activity is graded with **higher expectations** than previous weeks, as you are now combining **conceptual understanding** with **technical execution**.
+This Week 4 activity is graded with **higher expectations** than previous weeks, as you are now expected to apply both conceptual and technical skills more intentionally.  
 
 Your work will be assessed based on:
 
