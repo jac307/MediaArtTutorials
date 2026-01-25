@@ -119,7 +119,7 @@ When working on your scene, you must organize it using **three collections**:
 
 ### Lighting in Blender — Three Versions   
 
-<img src="imgs/15.png" style="width: 60%; height: auto;">        
+<img src="imgs/15.png" style="width: 80%; height: auto;">        
 > 3D application of the Light Map example above (Version 1)      
   
 Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
