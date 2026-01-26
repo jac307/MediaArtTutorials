@@ -22,11 +22,10 @@ Software (freeware):
 + [Week 2](WT-W2.md) — Camera, Framing & Cinematic Space
 + [Week 3](WT-W3.md) — POV as Embodied Witness (Multi-Camera Scene)
   + [W3: Technical Walkthrough Activity](TW-W3.md) — Technical Scene Analysis (POV + Space)
++ [Week 4](WT-W4.md) — Spatial Design in a Black Box Venue  
+
 
 <!--
-
-
-+ [Week 4](WT-W4.md) — Lighting states
 + [Week 5](WT-W5.md) — Mood-lighting sketches
 + [Week 6](WT-W6.md) — Animate intensity/color change
 + [Week 7](WT-W7.md) — Sound cue map (beats, dynamics, transitions)
@@ -34,8 +33,6 @@ Software (freeware):
 + [Week 9](WT-W9.md) — Cue script: map sound → light → camera events
 + [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
 + [Week 11](WT-W11.md) — Projection surface sketch and prototype (walls, objects, screens, fabrics)
-
-
 
 Selection of 10 weekly submissions from above to create:  
 + [Final Portfolio — Individual Work](FinalPort.md) 
