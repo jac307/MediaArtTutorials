@@ -139,7 +139,7 @@ When working on your scene, you must organize it using **three collections**:
 2. **Cameras**
 3. **Lights**
 
-<img src="imgs/19.png" style="width: 60%; height: auto;">    
+<img src="imgs/19.png" style="width: 50%; height: auto;">    
 
 #### Organization Rules
 - Rename **all shapes** clearly (no default names)
