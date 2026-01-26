@@ -62,7 +62,7 @@ For full reference, review the slides from this week.
 
 ---
 
-<h3 style="color: darkred;">[25 min] 2D Lighting Maps — Start Here</h3>
+<h3 style="color: darkred;">[20 min] 2D Lighting Maps — Start Here</h3>
 
 Using **your Week 4 scene layout**, create **three (3) 2D lighting maps**, each representing a **different lighting version of the same space**.   
 
@@ -161,7 +161,7 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 
 ---
 
-<h3 style="color: darkred;">[20 min] Lighting Intentions — End Here</h3>
+<h3 style="color: darkred;">[15 min] Lighting Intentions — End Here</h3>
 
 For **each lighting version**, write **4–6 sentences** describing:
 
