@@ -10,10 +10,19 @@
 
 ## Objective
 
-**Build a new 3D scene (black box setting – square) using light as a spatial and expressive tool.**  
-This activity focuses on how **lighting position, direction, intensity, and colour** reshape space **without moving objects**.
+Create a scene in a **black box venue (square)** by designing both the **spatial layout** and the **conditions of presentation**.
 
-You will design **three different lighting versions** of the same scene, learning to plan lighting conceptually and translate it into Blender using basic lights.
+You will:
+- Place the **audience**, **entrances**, and **stage area**
+- Design a **scene on stage** using basic geometric forms
+- Create a **2D floor plan** that includes:
+  - top view  
+  - side view  
+  - front view  
+  - a detailed **perspective view** of the main objects on stage  
+- Translate this spatial plan into a **3D scene in Blender**
+
+This week emphasizes how **space, orientation, and point of view** work together before introducing lighting strategies. You will use this scene for the W5 work/submission.  
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -31,125 +40,101 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-## Lights Overview
-
-For full reference, review the slides from this week.   
-
-### Front Light
-<img src="imgs/09.jpg" style="width: 80%; height: auto;">    
-> Establishes a clear, legible baseline by maximizing visibility and minimizing shadows.
-
-### Top / Zenithal Light
-<img src="imgs/10.jpg" style="width: 80%; height: auto;">    
-> Balance visibility and depth, producing a controlled, sculpted three-dimensional look.
-
-### Mirrored Front Lights
-<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
-> Reveals texture and form through contrast, introducing asymmetry and directional shadows.
-
-### Side Lights
-<img src="imgs/12.jpg" style="width: 80%; height: auto;">    
-> Emphasizes vertical hierarchy, creating pressure and strong shadows beneath forms.
-
-### Reflected Light
-<img src="imgs/13.jpg" style="width: 80%; height: auto;">    
-> Softens the scene by diffusing light, gently filling shadows while preserving volume.
-
----
-
 ## Activities  
 **Complete the following in order. Ask your professor or TA for help as needed.**
 
 ---
 
-<h3 style="color: darkred;">[25 min] 2D Lighting Maps — Start Here</h3>
+<h3 style="color: darkred;">[15 min] Artistic Intention — Start Here</h3>
 
-Create **three (3) 2D lighting sketches**, each representing a **different lighting version** of the same scene taking into acount the **black box – square** as your venue/space.   
-> Hand-drawn (preferred) or digital.    
+Before drawing or opening Blender, write **3–4 sentences** describing the **type of presentation** that would take place in this space.
 
-#### Example  
+This could be, for example:
+- a performance
+- an installation
+- a presentation
+- a ritual
+- an abstract or speculative event
 
-You are not copying the example — you are using it as a reference for **how to communicate spatial and lighting decisions**.   
+Remember that this takes place in a **black box setting**.
 
-<img src="imgs/14.jpg" style="width: 60%; height: auto;">    
+### What is a Black Box?
+A **black box** is a flexible performance space, usually square or rectangular, with black walls and no fixed stage or seating. It allows artists to reconfigure the relationship between **audience, performers, objects, and space**.
+
+### Guiding Questions
+- What kind of event is happening in this space?
+- How close or distant is the audience from the action?
+- Is the audience observing, surrounding, or sharing the space?
+
+This text should **guide your design decisions** in both the 2D floor plan and the 3D scene.
+
+➡️ **Save this text** for submission.  
 
 ---
 
-### Scene Setup  
+<h3 style="color: darkred;">[25 min] 2D Floor Plan + Views</h3>
 
-You are required to use the vocabulary from [Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"} and **from this week** when labeling your maps and writing your descriptions.   
+> You are required to use the vocabulary from [Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"} when labeling your maps.    
+
+Using the **black box setting** (square, low ceiling) - check example above, design your scene and clearly indicate it in **all required views**.   
+
+### Required Elements (in all views)
 
 - **Main stage / performance area**  
-  > This can be placed anywhere in the space   
+  > This can be placed anywhere in the space.   
 
-- Place **3–4 objects** (basic geometric forms only) on the stage
-  > Objects must be **close together** *and/or* **stacked on top of each other**    
+- **Objects on stage**  
+  - Place **3–4 objects** (basic geometric forms only)
+  - Objects must be **close together** and/or **stacked on top of each other**
+  - Use Week 1 vocabulary: **blocking**, **levels**, **orientation**
 
-- **Audience position(s)**
-  > Options: in front, on one side, surrounding the stage, on two sides, etc.    
+- **Audience position(s)**  
+  > Options include: in front, on one side, surrounding the stage, on two sides, etc.   
 
 - **Entrance(s)**  
-  > Where audiences enter the space.    
-
-- **Light(s)**  
-  > Indicate the position, direction, range, and type of each light used in the scene.    
+  > Where audiences enter the space.
 
 ---
 
-<h3 style="color: darkred;">[60 min] Lighting in Blender — Three Versions</h3>
+<h3 style="color: darkred;">[60 min] 3D Scene in Blender</h3>   
+
+Create your scene based on your 2D floor plan. **Before you begin, read the sections below**.   
+
+### Scene Setup (Venue OBJ)
+
+You will use/import this **.OBJ file** of the black box venue.   
+> An **OBJ file** is a common 3D file format used to share geometry between software.
+
+- Download the provided `.obj`
+- Follow the tutorial to **import it into Blender**
+- The 3D venue:
+  - has **no ceiling**
+  - has **no front wall**
+  - this allows easier camera movement and navigation
+
+The tutorial will also show:
+- how to place the venue correctly
+- how to keep it organized in your file
 
 ### Required Organization
 
-When working on your scene, you must organize it using **three collections**:
+When working on your scene, you must organize it using **two collections**:
 
 1. **Geometry / Shapes**  
-2. **Cameras**  
-3. **Lights**
+2. **Cameras**
 
 <img src="imgs/12.png" style="width: 40%; height: auto;">    
 
 #### Organization Rules
 - Rename **all shapes** clearly (no default names)
 - Place each object in the correct collection
-- Rename **cameras and lights** logically and descriptively
+- Rename **cameras** logically and descriptively
 
 > ⚠️ **Important:** Your Blender file will be checked for proper organization.
 
---- 
-
-### Lighting in Blender — Three Versions   
-
-<img src="imgs/15.png" style="width: 80%; height: auto;">        
-> 3D application of the Light Map example above (Version 1)      
-  
-Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
-> Focus only on lighting     
-> Check the shortcuts provided!    
-
-❗ Review the slides from this week for practical tips on organizing scenes and working with lights in Blender.   
-
-### Lighting Constraints
-- ❌ Delete the default **Sun** light
-- ✅ Use only:
-  - **Spot Lights**
-  - **Area Lights** (for reflected light)
-- ❌ No materials or textures
-
-### For each lighting version:
-- Add and position lights according to your 2D map
-- Adjust:
-  - position & rotation
-  - colour
-  - intensity (power)
-  - radius / size
-  - influence and beam shape
-- Rename lights clearly (e.g., `Side-Light-Right`, `Front-Light`)
-
-> Each version should feel **distinct**, even though the space remains the same.   
-
 ### Rendering Requirements
 
-- Render **2–3 images per lighting version**
+- Render **2–3 images**
 - Each render must be from a **different camera angle**
 - Images must be **renders**, not screenshots
 
@@ -170,57 +155,26 @@ Open the **Input** tab and enable **Emulate Numpad**.
 
 ---
 
-<h3 style="color: darkred;">[20 min] Lighting Intentions — End Here</h3>
-
-For **each lighting version**, write **4–6 sentences** describing:
-
-- **Technical choices:**
-  - light position and direction
-  - colour and intensity
-  - type of light used
-- **Spatial and expressive intention:**
-  - What changes in visibility, depth, or atmosphere?
-  - How does this lighting reshape the space?
-
----
-
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single PDF with **3 pages total**:
+### Create a single PDF with the following sections:
 
-#### Page 1
-- General Information 
-  > Full name, student number, tutorial number
-- **Lighting Version 1**
-  - 2D Lighting Map
-  - Rendered images (2–3)
-  - 4-6 sentence description
+1. **General Information**  
+   > Full name, student number, and tutorial number.
 
-#### Page 2
-- **Lighting Version 2**
-  - 2D Lighting Map
-  - Rendered images (2–3)
-  - 4-6 sentence description
-    
-#### Page 3
-- **Lighting Version 3**
-  - 2D Lighting Map
-  - Rendered images (2–3)
-  - 4-6 sentence description
+2. **Artistic / Camera Intention**  
+   > 3–4 sentences describing the type of presentation and spatial intention.
+
+3. **2D Floor Plan + Views**  
+   > Include top, side, front, and perspective views.  
+   > Your 2D plan must take up **at least half a page**.
+
+4. **Rendered Images (2–3 total)**  
+   > Each image must be a **render**, not a screenshot.  
+   > Each image must take up **at least half a page**.
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W4-Tutorial.pdf`
-
----
-
-### Save Blender File
-
-➡️ **Save as .blend**  
-📄 **Filename:** `Lastname-Firstname-W4-Lighting.blend`
-
-Your Blender file **must include**:
-- Properly named objects (shapes, cameras, lights)
-- Correct collection structure
 
 ---
 
@@ -229,7 +183,7 @@ Your Blender file **must include**:
 | Component         | File Name                              |
 |------------------|-----------------------------------------|
 | Project document | `Lastname-Firstname-W4-Tutorial.pdf`    |
-| Blender file     | `Lastname-Firstname-W4-Lighting.blend`  |
+| Blender file     | `Lastname-Firstname-W4-Space.blend`  |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -244,20 +198,20 @@ Your work will be assessed based on:
 - **Completion and effort**  
   All required components are present and submitted correctly.
 
-- **Lighting vocabulary and conceptual clarity**  
-  Accurate and intentional use of lighting terms (position, direction, intensity, colour, contrast, shadow, reflection) in both planning and written descriptions.
+- **Use of ocabulary and conceptual clarity**  
+  Accurate and intentional use 
 
 - **Lighting design logic**  
   Each lighting version demonstrates a clear and distinct approach, showing how light reshapes space, depth, and atmosphere without moving objects.
 
 - **Blender organization and workflow**  
-  Proper use of collections (Geometry / Cameras / Lights), clear object and light naming, and removal of default lighting.
+  Proper use of collections (Geometry / Cameras), clear object and light naming, and removal of default lighting.
 
 - **Technical application in Blender**  
-  Correct use of Spot and Area lights, thoughtful adjustments to position, rotation, colour, intensity, radius, and influence.
+  
 
 - **Rendered output**  
-  Renders clearly communicate the lighting choices and are taken from multiple viewpoints.
+  
 
 This is still an exploratory exercise, but at this stage, **intentional lighting decisions and technical clarity matter more than experimentation alone**.
 
