@@ -2,10 +2,10 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W4 — Lighting as Spatial Transformation</span>
+# <span style="color: darkred;">W4 — Spatial Design in a Black Box Venue</span>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/08.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/17.jpg" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -78,6 +78,12 @@ This text should **guide your design decisions** in both the 2D floor plan and t
 
 Using the **black box setting** (square, low ceiling) - check example above, design your scene and clearly indicate it in **all required views**.   
 
+#### Example  
+
+You are not copying the example — you are using it as a reference for **how to communicate spatial decisions**.   
+
+<img src="imgs/18.jpg" style="width: 60%; height: auto;">    
+
 ### Required Elements (in all views)
 
 - **Main stage / performance area**  
@@ -97,6 +103,9 @@ Using the **black box setting** (square, low ceiling) - check example above, des
 ---
 
 <h3 style="color: darkred;">[60 min] 3D Scene in Blender</h3>   
+
+<img src="imgs/19.png" style="width: 80%; height: auto;">        
+> 3D application of the Example above      
 
 Create your scene based on your 2D floor plan. **Before you begin, read the sections below**.   
 
@@ -123,7 +132,7 @@ When working on your scene, you must organize it using **two collections**:
 1. **Geometry / Shapes**  
 2. **Cameras**
 
-<img src="imgs/12.png" style="width: 40%; height: auto;">    
+<img src="imgs/20.png" style="width: 40%; height: auto;">    
 
 #### Organization Rules
 - Rename **all shapes** clearly (no default names)
