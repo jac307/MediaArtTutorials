@@ -69,6 +69,11 @@ Using **your Week 4 scene layout**, create **three (3) 2D lighting maps**, each 
 > ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.
 > Hand-drawn (preferred) or digital.
 
+#### Example  
+You are not copying the example — you are using it as a reference for **how to communicate lighting decisions clearly**.
+
+<img src="imgs/14.jpg" style="width: 60%; height: auto;">    
+
 ---
 
 ### Lighting Map Requirements
