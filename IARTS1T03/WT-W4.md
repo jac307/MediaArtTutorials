@@ -59,7 +59,9 @@ This could be, for example:
 Remember that this takes place in a **black box setting**.
 
 ### What is a Black Box?
-A **black box** is a flexible performance space, usually square or rectangular, with black walls and no fixed stage or seating. It allows artists to reconfigure the relationship between **audience, performers, objects, and space**.
+A **black box** is a flexible performance space, usually square or rectangular, with black walls and no fixed stage or seating. It allows artists to reconfigure the relationship between **audience, performers, objects, and space**.   
+
+<img src="imgs/21.jpg" style="width: 60%; height: auto;">    
 
 ### Guiding Questions
 - What kind of event is happening in this space?
