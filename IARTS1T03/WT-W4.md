@@ -61,7 +61,7 @@ Remember that this takes place in a **black box setting**.
 ### What is a Black Box?
 A **black box** is a flexible performance space, usually square or rectangular, with black walls and no fixed stage or seating. It allows artists to reconfigure the relationship between **audience, performers, objects, and space**.   
 
-<img src="imgs/21.jpg" style="width: 60%; height: auto;">    
+<img src="imgs/21.jpg" style="width: 80%; height: auto;">    
 
 ### Guiding Questions
 - What kind of event is happening in this space?
@@ -143,7 +143,9 @@ When working on your scene, you must organize it using **three collections**:
 
 #### Organization Rules
 - Rename **all shapes** clearly (no default names)
-- Place each object in the correct collection   
+- Place each object in the correct collection
+- Rename **objects clearly** (e.g., `Low-Level-Cube`, `Mid_Level_Cube`)
+- **Correct naming protocol:** don't leave spaces in-between words, always fill with `_`
 
 > ⚠️ **Important:** Your Blender file will be checked for proper organization.
 
