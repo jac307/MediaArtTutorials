@@ -129,7 +129,7 @@ When working on your scene, you must organize it using **two collections**:
 1. **Geometry / Shapes**  
 2. **Cameras**
 
-<img src="imgs/20.png" style="width: 40%; height: auto;">    
+<img src="imgs/19.png" style="width: 40%; height: auto;">    
 
 #### Organization Rules
 - Rename **all shapes** clearly (no default names)
