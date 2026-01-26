@@ -198,21 +198,18 @@ Your work will be assessed based on:
 - **Completion and effort**  
   All required components are present and submitted correctly.
 
-- **Use of ocabulary and conceptual clarity**  
-  Accurate and intentional use 
+- **Use of vocabulary and conceptual clarity**  
+  Accurate and intentional use of spatial vocabulary (blocking, levels, orientation) and presentation logic.
 
-- **Lighting design logic**  
-  Each lighting version demonstrates a clear and distinct approach, showing how light reshapes space, depth, and atmosphere without moving objects.
+- **Spatial design logic**  
+  Clear relationship between audience, stage, objects, and entrances.
 
 - **Blender organization and workflow**  
-  Proper use of collections (Geometry / Cameras), clear object and light naming, and removal of default lighting.
-
-- **Technical application in Blender**  
-  
+  Proper use of collections, clear naming, and scene structure.
 
 - **Rendered output**  
-  
+  Renders clearly communicate spatial relationships and camera viewpoints.
 
-This is still an exploratory exercise, but at this stage, **intentional lighting decisions and technical clarity matter more than experimentation alone**.
+This is still an exploratory exercise, but at this stage, **intentional spatial decisions and technical clarity matter more than experimentation alone**.  
 
 ---
