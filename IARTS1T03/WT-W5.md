@@ -10,10 +10,9 @@
 
 ## Objective
 
-**Build a new 3D scene (black box setting – square) using light as a spatial and expressive tool.**  
-This activity focuses on how **lighting position, direction, intensity, and colour** reshape space **without moving objects**.
+You will apply **three different lighting versions** to the **same W4 scene**, learning how lighting alone can change visibility, depth, hierarchy, and atmosphere.   
 
-You will design **three different lighting versions** of the same scene, learning to plan lighting conceptually and translate it into Blender using basic lights.
+This activity focuses on how **lighting position, direction, intensity, and colour** reshape space **without moving objects, the audience, or the stage layout**.   
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -27,6 +26,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **Blender (free software)**  
   👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
 - Computer mouse (recommended)
+- Your **Week 4 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -64,35 +64,36 @@ For full reference, review the slides from this week.
 
 <h3 style="color: darkred;">[25 min] 2D Lighting Maps — Start Here</h3>
 
-Create **three (3) 2D lighting sketches**, each representing a **different lighting version** of the same scene taking into acount the **black box – square** as your venue/space.   
-> Hand-drawn (preferred) or digital.    
+Using **your Week 4 scene layout**, create **three (3) 2D lighting maps**, each representing a **different lighting version of the same space**.
 
-#### Example  
-
-You are not copying the example — you are using it as a reference for **how to communicate spatial and lighting decisions**.   
-
-<img src="imgs/14.jpg" style="width: 60%; height: auto;">    
+> ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.
+> Hand-drawn (preferred) or digital.
 
 ---
 
-### Scene Setup  
+### Lighting Map Requirements
 
-You are required to use the vocabulary from [Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"} and **from this week** when labeling your maps and writing your descriptions.   
+You are required to use the vocabulary from  
+[Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"}  
+**and from this week** when labeling your maps and writing your descriptions.
 
-- **Main stage / performance area**  
-  > This can be placed anywhere in the space   
+For **each lighting version**, indicate:
 
-- Place **3–4 objects** (basic geometric forms only) on the stage
-  > Objects must be **close together** *and/or* **stacked on top of each other**    
+- **Type of light**  
+  (front, side, top/zenithal, mirrored front, reflected)
+- **Light position**  
+  (where the light is placed in relation to the stage)
+- **Light direction**  
+  (arrow)
+- **Rotation**  
+  (angled vs straight, if relevant)
+- **Light colour**
+- **Light intensity**  
+  (low / mid / high)
+- **What the light affects**  
+  (objects, stage area, audience, background)
 
-- **Audience position(s)**
-  > Options: in front, on one side, surrounding the stage, on two sides, etc.    
-
-- **Entrance(s)**  
-  > Where audiences enter the space.    
-
-- **Light(s)**  
-  > Indicate the position, direction, range, and type of each light used in the scene.    
+Each version may use **ONE or TWO lights maximum**.   
 
 ---
 
@@ -100,27 +101,25 @@ You are required to use the vocabulary from [Week 1](https://jac307.github.io/Me
 
 ### Required Organization
 
-When working on your scene, you must organize it using **three collections**:
+Use the **same Blender file from Week 4** and organize it using **three collections**:
 
 1. **Geometry / Shapes**  
 2. **Cameras**  
 3. **Lights**
 
-<img src="imgs/12.png" style="width: 40%; height: auto;">    
+<img src="imgs/12.png" style="width: 60%; height: auto;">    
 
 #### Organization Rules
-- Rename **all shapes** clearly (no default names)
-- Place each object in the correct collection
-- Rename **cameras and lights** logically and descriptively
+- Do **not** move or rename geometry from W4
+- Place all lights in the **Lights** collection
+- Rename **lights clearly** (e.g., `Front_Light`, `Top_Light`)
+- **Correct naming protocol:** don't leave spaces in-between words, always fill with `_`
 
-> ⚠️ **Important:** Your Blender file will be checked for proper organization.
+> ⚠️ **Important:** Your Blender file will be checked for organization and continuity from Week 4.
 
 --- 
 
 ### Lighting in Blender — Three Versions   
-
-<img src="imgs/15.png" style="width: 80%; height: auto;">        
-> 3D application of the Light Map example above (Version 1)      
   
 Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
 > Focus only on lighting     
@@ -143,7 +142,6 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
   - intensity (power)
   - radius / size
   - influence and beam shape
-- Rename lights clearly (e.g., `Side-Light-Right`, `Front-Light`)
 
 > Each version should feel **distinct**, even though the space remains the same.   
 
@@ -154,19 +152,6 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 - Images must be **renders**, not screenshots
 
 ➡️ **Save all rendered images** for submission.
-
----
-
-### “0” not working to toggle Camera View?
-
-Go to the main menu **Edit** → **Preferences**.  
-Open the **Input** tab and enable **Emulate Numpad**.
-
-> The Camera View is mapped to **Numpad 0** by default.  
-> Many laptops don’t have a numpad (or separate number keys on the right).  
-> Enabling **Emulate Numpad** allows you to use the **0 key** on your laptop keyboard instead.
-
-<img src="imgs/16.png" style="width: 60%; height: auto;">    
 
 ---
 
@@ -188,38 +173,34 @@ For **each lighting version**, write **4–6 sentences** describing:
 
 ### Create a single PDF with **3 pages total**:
 
-#### Page 1
-- General Information 
-  > Full name, student number, tutorial number
-- **Lighting Version 1**
-  - 2D Lighting Map
-  - Rendered images (2–3)
-  - 4-6 sentence description
+#### Page 1 — Lighting Version 1
+- 2D Lighting Map  
+- Rendered images (2–3)  
+- 4–6 sentence description  
 
-#### Page 2
-- **Lighting Version 2**
-  - 2D Lighting Map
-  - Rendered images (2–3)
-  - 4-6 sentence description
-    
-#### Page 3
-- **Lighting Version 3**
-  - 2D Lighting Map
-  - Rendered images (2–3)
-  - 4-6 sentence description
+#### Page 2 — Lighting Version 2
+- 2D Lighting Map  
+- Rendered images (2–3)  
+- 4–6 sentence description  
+
+#### Page 3 — Lighting Version 3
+- 2D Lighting Map  
+- Rendered images (2–3)  
+- 4–6 sentence description  
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W4-Tutorial.pdf`
+📄 **Filename:** `Lastname-Firstname-W5-Tutorial.pdf`  
 
 ---
 
 ### Save Blender File
 
 ➡️ **Save as .blend**  
-📄 **Filename:** `Lastname-Firstname-W4-Lighting.blend`
+📄 **Filename:** `Lastname-Firstname-W5-Lighting.blend`
 
 Your Blender file **must include**:
-- Properly named objects (shapes, cameras, lights)
+- Geometry unchanged from Week 4
+- Properly named lights
 - Correct collection structure
 
 ---
@@ -241,23 +222,20 @@ This Week 4 activity is graded with **higher expectations** than previous weeks,
 
 Your work will be assessed based on:
 
-- **Completion and effort**  
-  All required components are present and submitted correctly.
+- **Continuity from Week 4**  
+  Same scene, same layout, same cameras.
 
-- **Lighting vocabulary and conceptual clarity**  
-  Accurate and intentional use of lighting terms (position, direction, intensity, colour, contrast, shadow, reflection) in both planning and written descriptions.
+- **Lighting vocabulary and clarity**  
+  Accurate and intentional use of lighting terms in maps and writing.
 
 - **Lighting design logic**  
-  Each lighting version demonstrates a clear and distinct approach, showing how light reshapes space, depth, and atmosphere without moving objects.
+  Each version demonstrates a clear and distinct spatial effect.
 
-- **Blender organization and workflow**  
-  Proper use of collections (Geometry / Cameras / Lights), clear object and light naming, and removal of default lighting.
-
-- **Technical application in Blender**  
-  Correct use of Spot and Area lights, thoughtful adjustments to position, rotation, colour, intensity, radius, and influence.
+- **Blender workflow and organization**  
+  Proper collections, naming, and lighting-only changes.
 
 - **Rendered output**  
-  Renders clearly communicate the lighting choices and are taken from multiple viewpoints.
+  Renders clearly communicate lighting differences from multiple viewpoints.
 
 This is still an exploratory exercise, but at this stage, **intentional lighting decisions and technical clarity matter more than experimentation alone**.
 
