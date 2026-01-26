@@ -108,19 +108,25 @@ Create your scene based on your 2D floor plan. **Before you begin, read the sect
 
 ### Scene Setup (Venue OBJ)
 
-You will use/import this **.OBJ file** of the black box venue.   
+You will use/import this [**.OBJ file**](imgs/W4-Venue.obj) of a black box venue.   
 > An **OBJ file** is a common 3D file format used to share geometry between software.
 
-- Download the provided `.obj`
-- Follow the tutorial to **import it into Blender**
-- The 3D venue:
-  - has **no ceiling**
-  - has **no front wall**
-  - this allows easier camera movement and navigation
+#### How to Import the OBJ File
 
-The tutorial will also show:
-- how to place the venue correctly
-- how to keep it organized in your file
+1. Download the provided `.obj` file.
+2. Go to the main menu: **File → Import → Wavefront (.obj)**.
+3. Select the file you downloaded (`W4-Venue.obj`).
+4. Click **Import Wavefront OBJ**.
+5. The 3D venue will appear at the centre of your scene.
+
+The venue:
+- has **no ceiling**
+- has **no front wall**
+- this allows easier camera movement and navigation
+
+<img src="imgs/20.png" style="width: 100%; height: auto;">    
+
+--- 
 
 ### Required Organization
 
@@ -137,6 +143,8 @@ When working on your scene, you must organize it using **two collections**:
 - Rename **cameras** logically and descriptively
 
 > ⚠️ **Important:** Your Blender file will be checked for proper organization.
+
+--- 
 
 ### Rendering Requirements
 
