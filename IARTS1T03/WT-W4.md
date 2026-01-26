@@ -125,11 +125,7 @@ You will use/import this [**.OBJ file**](imgs/W4-Venue.obj) of a black box venue
 3. Select the file you downloaded (`W4-Venue.obj`).
 4. Click **Import Wavefront OBJ**.
 5. The 3D venue will appear at the centre of your scene.
-
-The venue:
-- has **no ceiling**
-- has **no front wall**
-- this allows easier camera movement and navigation
+   > The venue has **no ceiling** and **no front wall** —this allows easier camera movement and navigation.   
 
 <img src="imgs/20.jpg" style="width: 100%; height: auto;">    
 
@@ -137,17 +133,17 @@ The venue:
 
 ### Required Organization
 
-When working on your scene, you must organize it using **two collections**:
+When working on your scene, you must organize it using **three collections**:
 
 1. **Geometry / Shapes**  
 2. **Cameras**
+3. **Lights**
 
 <img src="imgs/19.png" style="width: 40%; height: auto;">    
 
 #### Organization Rules
 - Rename **all shapes** clearly (no default names)
-- Place each object in the correct collection
-- Rename **cameras** logically and descriptively
+- Place each object in the correct collection   
 
 > ⚠️ **Important:** Your Blender file will be checked for proper organization.
 
@@ -155,7 +151,7 @@ When working on your scene, you must organize it using **two collections**:
 
 ### Rendering Requirements
 
-- Render **2–3 images**
+- Render **2-3 images**
 - Each render must be from a **different camera angle**
 - Images must be **renders**, not screenshots
 
