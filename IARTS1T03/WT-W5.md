@@ -107,7 +107,7 @@ Use the **same Blender file from Week 4** and organize it using **three collecti
 2. **Cameras**  
 3. **Lights**
 
-<img src="imgs/12.png" style="width: 60%; height: auto;">    
+<img src="imgs/12.png" style="width: 50%; height: auto;">    
 
 #### Organization Rules
 - Do **not** move or rename geometry from W4
