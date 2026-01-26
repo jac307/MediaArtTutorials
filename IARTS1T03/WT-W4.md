@@ -10,7 +10,7 @@
 
 ## Objective
 
-Create a scene in a **black box venue (square)** by designing both the **spatial layout** and the **conditions of presentation**.
+Create a scene in a **black box venue (with OBJ provided)** by designing both the **spatial layout** and the **conditions of presentation**.
 
 You will:
 - Place the **audience**, **entrances**, and **stage area**
@@ -76,7 +76,12 @@ This text should **guide your design decisions** in both the 2D floor plan and t
 
 > You are required to use the vocabulary from [Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"} when labeling your maps.    
 
-Using the **black box setting** (square, low ceiling) - check example above, design your scene and clearly indicate it in **all required views**.   
+Using the **black box setting** (square, low ceiling) - check example above, design your scene and clearly indicate it in **all required views**:   
+
+- **Top view:** A view from directly above that shows the floor plan, spatial layout, and relationships between objects, stage, and audience.  
+- **Side view:** A view from the side that shows height, levels, and vertical relationships between objects and the stage.  
+- **Front view:** A view from the front that shows how the scene is presented from a frontal viewing position.  
+- **Perspective view (main objects):** A three-dimensional view that shows the main objects on stage as they would appear from a human point of view, conveying depth and spatial relationships.    
 
 #### Example  
 
