@@ -124,7 +124,7 @@ The venue:
 - has **no front wall**
 - this allows easier camera movement and navigation
 
-<img src="imgs/20.png" style="width: 100%; height: auto;">    
+<img src="imgs/20.jpg" style="width: 100%; height: auto;">    
 
 --- 
 
