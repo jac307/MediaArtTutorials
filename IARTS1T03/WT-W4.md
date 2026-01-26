@@ -104,9 +104,6 @@ You are not copying the example — you are using it as a reference for **how to
 
 <h3 style="color: darkred;">[60 min] 3D Scene in Blender</h3>   
 
-<img src="imgs/19.png" style="width: 80%; height: auto;">        
-> 3D application of the Example above      
-
 Create your scene based on your 2D floor plan. **Before you begin, read the sections below**.   
 
 ### Scene Setup (Venue OBJ)
