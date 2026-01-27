@@ -57,13 +57,15 @@ Series of hands-on production exercises designed to **build core skills** in cam
   + [W3 - Tech Walkthrough](TechWalks/TW-W3.md) - Lenses, Aperture & Depth of Field for Outdoor Recording
   + [W3 - Tutorials](Tutorials/index.html?file=T-W3.json) - Premiere Pro: Color Correction & Basic Timing
 
+  
++ Week 4 — Continuous Shot (Individual)
+  + [W4 - Tech Walkthrough](TechWalks/TW-W4.md) - Exposure Control While Moving
+  + [W4 - Tutorials](Tutorials/index.html?file=T-W4.json) - Color Correction Over Time
+
 <!--
 
 + [Week 3](WeekIns/WI-W3.md) — Static Outdoor Scene (Groups of 3)
-
 + [Week 4](WeekIns/WI-W4.md) — Continuous Shot (Individual)
-  + [W4 - Tech Walkthrough](TechWalks/TW-W4.md) - Exposure Control While Moving
-  + [W4 - Tutorials](Tutorials/index.html?file=T-W4.json) - Color Correction Over Time
 
 
 + [Week 5](WeekIns/WI-W5.md) — Foley Sound Creation (Groups of 3)
