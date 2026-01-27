@@ -225,7 +225,7 @@ Aperture controls **depth of field** and how much of the image appears in focus.
 Follow this tutorial to setup your aperture:  
 
 <div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=vasQj9nKITVfXyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
 ---
