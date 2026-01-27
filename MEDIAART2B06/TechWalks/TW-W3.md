@@ -213,6 +213,8 @@ The **histogram** is a visual graph that shows how brightness values are distrib
 
 > Normal exposure = not peaking either in shadows or highlights
 
+To activate the histogram, simply press the **INFO.** botton (to the right of **MENU**) until it appears.   
+
 <img src="imgs/62.png" style="width: 80%; height: auto;"> 
 
 For this assignment, use the histogram to:
