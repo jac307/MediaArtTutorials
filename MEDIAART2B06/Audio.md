@@ -22,15 +22,6 @@ Ultra-compact, dual-channel wireless microphone system known for its versatility
 - 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
 - ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
 
-### Sennheiser Evolution Wireless(G4 Sys 100-P Series)
-
-<img src="TechWalks/imgs/19.jpg" style="width: 50%; height: auto;">
-
-Professional, rugged wireless microphone system designed for broadcast, documentary, and mobile journalism, featuring configurations for both lavalier (ME 2-II) and handheld mics.
-
-- 📘 [User Manual](https://www.sennheiser.com/globalassets/digizuite/40917-en-ew_100_g4_manual_v2-2_10_2019_en.pdf?srsltid=AfmBOor908EkkQrDA1PrUKkBDowI-YYavIN7TPkgglV3OV4CBNk1JhO-){:target="_blank"}
-- ▶️ How to Setup Sennheiser G3 & G4 Wireless Lavalier: [link to YouTube video](https://www.youtube.com/watch?v=DsZ5ERErkJk){:target="_blank"}
-
 ### ZOOM H4N Handheld
 
 <img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
