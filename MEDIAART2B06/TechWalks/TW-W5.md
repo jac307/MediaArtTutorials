@@ -34,25 +34,49 @@ For this assignment, you will perform **live Foley** using **any objects or mate
 Examples:
 - fabric, paper, plastic, metal  
 - footsteps, scraping, tapping, rubbing  
-- subtle textures and louder percussive sounds  
+- subtle textures and louder percussive sounds
 
 You will record **the same performance simultaneously** using:
 
 - **3 audio recording devices**
-- **2 cameras**
+- **3 cameras**
 - **1–3 lights**
 
 Each device has a **specific role** in the recording setup.
 
 ---
 
+## In-Class Reference Station
+
+During the second part of the lecture, the **professor will set up a complete Foley recording station** using all the equipment described above.  
+
+### What you should do:
+
+- Take time to **carefully observe how everything is connected**
+- Note:
+  - microphone placement
+  - cable routing
+  - recorder settings
+  - camera positions
+  - lighting coverage
+- **Take clear photos** of the setup from multiple angles
+
+📌 *These photos are for your reference when setting up your own Foley recording outside of class.*
+
+Use this opportunity to:
+- ask technical questions
+- clarify signal flow
+- understand why each device is placed where it is
+
+📌 *Do not rush this step — good documentation now will save you time later.*
+
+---
+
 <h2 style="color: darkred;">Audio Setup — Microphones & Recorders</h2>
 
-> 📄 **Reference:**  
-> Review the Audio Walkthrough before class:  
-> 👉 https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html
+> 👉 Check [**Audio Equipment Reference**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html){:target="_blank"}  
 
-All audio devices must be **powered on, checked, and monitored before recording**.
+All audio devices must be **powered on, checked, and monitored before recording**.   
 
 ---
 
@@ -64,13 +88,12 @@ Capture **subtle, low-volume, detailed sounds** (texture, quiet movement, delica
 **Setup:**
 
 - Mount the **Sennheiser ME 80** on a **mic stand**
-- Connect it to a **ZOOM H4N Handheld** using:
-  - **XLR → XLR cable**
+- Connect it to a **ZOOM H4N Handheld** using a **XLR → XLR cable**
 - Position the microphone:
   - **Directed toward the specific object** producing subtle sound  
   - At a **close but safe distance** (do not touch the object)
 
-📌 This microphone is **directional and sensitive** — it is your **detail mic**.
+> This microphone is **directional and sensitive**: it is your **detail mic**.
 
 ---
 
@@ -88,7 +111,7 @@ Capture **medium to loud sounds** and provide **audio directly synced to video**
   - On the **opposite side** of the Sennheiser microphone
 - Aim the microphone toward the **general Foley action area**
 
-📌 This mic captures **directional sound with visual reference** — it helps when syncing and reviewing actions later.
+> This mic captures **directional sound with visual reference**. It will help your when syncing and reviewing actions later.
 
 ---
 
@@ -105,61 +128,99 @@ Capture the **overall soundscape** of the Foley performance.
   - Centered to capture **general sound**
 - Use the **built-in microphones**
 
-📌 This recorder acts as your **room / ambient mic**, capturing how sounds blend together.
+> This recorder acts as your **room / ambient mic**, capturing how sounds blend together.
 
 ---
 
-### Monitoring & Levels
+### ZOOM H4N — Sound Levels (Important)
 
-- Always **monitor with headphones**
-- Check for:
-  - clipping (too loud)
-  - very low levels (too quiet)
-- Do a **short test recording** before the full take
+When recording with both **ZOOM H4N Handheld**, adjust the **input levels carefully**.  
 
-📌 You should record **at least one full clean take** with all devices running.
+- Keep levels **between 20–50**
+- Make sure the signal **does not peak or clip** when **all sounds are playing together**
+- Watch the level meters while performing the **loudest Foley actions**
+- Use **headphones** to check sound quality and listen for **distortion**
+  > Plug **one set of headphones into each ZOOM recorder**
+- If levels peak, **lower the input gain** and test again
 
----
+📌 *Always set levels based on the loudest moment — quieter sounds can be boosted later, clipped audio cannot be fixed.*
 
-
-
-
-
-
-
-<h2 style="color: darkred;"> Camera Settings — What to Use for Week 4 </h2>  
-
-For **Week 4**, we will continue using the same camera settings as **Week 3**, while expanding our attention to **exposure changes over time** and how to **monitor and manage them during recording**.
+Do a **short test recording** and listen back with headphones before recording your final take.
 
 ---
 
-### Camera Settings
+<h2 style="color: darkred;">Camera Setup — Visual Documentation</h2>
 
-> Check [W2 — Tech Walkthrough](TW-W2.md){:target="_blank"} and [W3 — Tech Walkthrough](TW-W3.md){:target="_blank"} for reference.  
+You will use **three cameras** to clearly document the live Foley. The goal is to **see all objects, gestures, and interactions** that produce sound.  
 
+📌 For any questions about camera settings, review the previous Tech Walkthroughs:  
+👉 [MEDIAART 2B06](../README.md)  
+
+---
+
+### General Camera Setting
+
+- Cameras **on Tripod**
 - Set the camera to **Video Mode**
 - Set the **Aspect Ratio** to **16:9**
 - Set the **Resolution** to **1920 × 1080**
 - Set the **Frame Rate** to **30 fps**
 - Activate the **Grid**
-- Set the lens to **Auto Focus (AF)**
+- Set the lens to **Manual Focus (MF)**
 - Continue working in **Manual Mode (M)**
   > Set Apertute, Shutter Speed, and ISO
 - Set up **Custom White Balance**
   > Tip: Use a **Balance Card Set** or a **white sheet of paper**
 - Use **Evaluative / Matrix Metering**.
-  > This metering mode analyzes light across the **entire frame** and provides a stable reference when moving through **changing lighting conditions** (indoors → outdoors)
+- **Image Stabilization OFF**
 
 ---
 
-### Image Stabilization (Handheld)
+### Camera A — Front / Wide Shot
 
-- Turn **Image Stabilization ON**
-- This setting is located on the **lens** (see image below)
+**Purpose:**  
+Primary documentation of the Foley setup.
 
-📌 Image stabilization helps reduce unwanted shake when recording handheld, but it does **not** prevent motion blur caused by incorrect shutter speed.
+**Placement:**
 
-<img src="imgs/65.png" style="width: 35%; height: auto;">  
+- Positioned **in front of the group**
+- **Wide framing**
+- Shows:
+  - performers
+  - objects
+  - hands
+  - movement
+
+---
+
+### Camera B — Side / Wide Shot
+
+**Purpose:**  
+Provide a **secondary perspective** that reveals spatial relationships and lateral movement.
+
+**Placement:**
+
+- Positioned on **one side of the setup**
+- **Wide framing**
+- Angle may be adjusted to explore perspective, but **all sound-producing actions must remain visible**
+
+---
+
+### Camera C — Back / Overhead Angle
+
+**Purpose:**  
+Capture a **top-down or upper-to-down view** of the Foley performance.
+
+**Placement:**
+
+- Positioned **from the back**, angled **from above**
+- **Wide framing**
+- Clearly shows:
+  - object placement
+  - hand movement
+  - spatial organization of the setup
+
+> This camera helps document **how sounds are physically produced**, not just who is producing them.
 
 ---
 
