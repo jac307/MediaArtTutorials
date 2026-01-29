@@ -49,19 +49,14 @@ Series of hands-on production exercises designed to **build core skills** in cam
 + [Week 2](WeekIns/WI-W2.md) — Chiaroscuro Interview (Pairs)
   + [W2 - Tech Walkthrough](TechWalks/TW-W2.md) - Chiaroscuro Interview: Camera, Lighting & Audio Setup
   + [W2 - Tutorials](Tutorials/index.html?file=T-W2.json) - Importing Camera Footage & Multi-Camera Editing in Premiere Pro
-+ Week 3 — Static Outdoor Scene (Groups of 3)
++ [Week 3](WeekIns/WI-W3.md) — Static Outdoor Scene (Groups of 3)
   + [W3 - Tech Walkthrough](TechWalks/TW-W3.md) - Lenses, Aperture & Depth of Field for Outdoor Recording
   + [W3 - Tutorials](Tutorials/index.html?file=T-W3.json) - Premiere Pro: Color Correction & Basic Timing
-+ Week 4 — Continuous Shot (Individual)
++ [Week 4](WeekIns/WI-W4.md) — Continuous Shot (Individual)
   + [W4 - Tech Walkthrough](TechWalks/TW-W4.md) - Exposure Control While Moving
   + [W4 - Tutorials](Tutorials/index.html?file=T-W4.json) - Color Correction Over Time
 
 <!--
-
-+ [Week 3](WeekIns/WI-W3.md) — Static Outdoor Scene (Groups of 3)
-+ [Week 4](WeekIns/WI-W4.md) — Continuous Shot (Individual)
-
-
 + [Week 5](WeekIns/WI-W5.md) — Foley Sound Creation (Groups of 3)
 + [Week 6](WeekIns/WI-W6.md) — In-Class Showcase - Class Video Exhibition
 -->  
