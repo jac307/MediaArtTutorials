@@ -33,19 +33,21 @@ To be included in the exhibition, you must submit the following materials by the
 - Videos must be submitted **at least two (2) days before the exhibition**
   - Late submissions may not be included in the exhibition
 
-> The instructor will prepare and format all videos for the exhibition displays.
-
 ### 2. Project Title
 - Choose a **clear and compelling title**
 - Do **not** include the course name
 - Think of this as a **professional portfolio piece**
 
-### 3. Project Description (100–150 words)
+### 3. Author / Creator Name
+- Add the **name you want to be credited under**
+- This can be your official name or an artistic name / pseudonym
+
+### 4. Project Description (100–150 words)
 Your description should:
 - Briefly introduce the concept and theme of your documentary
 - Provide context for viewers encountering your work in the exhibition space
 
-### 4. High-Quality Screenshot
+### 5. High-Quality Screenshot
 - Chosen image should clearly represent the theme, the aesthetic, and the tone of your documentary
 - Good contrast and clarity (no pixelation, compression artifacts, or motion blur)
 
@@ -74,21 +76,6 @@ If technical or logistical issues arise during setup or the exhibition, students
 - support peers and help troubleshoot when appropriate
 
 Professionalism includes the ability to adapt calmly and collaboratively.
-
----
-
-<h3 style="color: darkred;"> Artwork Documentation (Required) </h3>
-
-As part of your final submission, you must document your project **in the exhibition context**.
-
-### Documentation Requirements
-Capture **5–10 photographs** showing:
-- Your video playing in the exhibition space
-- Wide shots situating your work within the room
-- Close-ups of the screen or projection
-- Audience interaction (when appropriate)
-
-These images will be submitted after the exhibition as part of your final documentation.
 
 ---
 
