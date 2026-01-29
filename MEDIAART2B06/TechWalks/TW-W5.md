@@ -74,7 +74,7 @@ Use this opportunity to:
 
 <h2 style="color: darkred;">Audio Setup — Microphones & Recorders</h2>
 
-> 👉 Check [**Audio Equipment Reference**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html){:target="_blank"}  
+> 👉 Check [**Audio Equipment Reference**](../Audio.md){:target="_blank"}  
 
 All audio devices must be **powered on, checked, and monitored before recording**.   
 
@@ -153,12 +153,15 @@ Do a **short test recording** and listen back with headphones before recording y
 
 You will use **three cameras** to clearly document the live Foley. The goal is to **see all objects, gestures, and interactions** that produce sound.  
 
-📌 For any questions about camera settings, review the previous Tech Walkthroughs:  
-👉 [MEDIAART 2B06](../README.md)  
+Use the **lenses provided per station**.
+> 👉 Check [**Lenses Equipment Reference**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}
 
 ---
 
 ### General Camera Setting
+
+📌 For any questions about camera settings, review the previous Tech Walkthroughs:  
+👉 [MEDIAART 2B06](../README.md)  
 
 - Cameras **on Tripod**
 - Set the camera to **Video Mode**
@@ -191,8 +194,6 @@ Primary documentation of the Foley setup.
   - hands
   - movement
 
----
-
 ### Camera B — Side / Wide Shot
 
 **Purpose:**  
@@ -203,8 +204,6 @@ Provide a **secondary perspective** that reveals spatial relationships and later
 - Positioned on **one side of the setup**
 - **Wide framing**
 - Angle may be adjusted to explore perspective, but **all sound-producing actions must remain visible**
-
----
 
 ### Camera C — Back / Overhead Angle
 
@@ -224,7 +223,42 @@ Capture a **top-down or upper-to-down view** of the Foley performance.
 
 ---
 
+<h2 style="color: darkred;">Lighting Setup — Visibility & Coverage</h2>
 
+You will use the **Fiilex 360 LED Light Kit (3 lights)**.
+
+**Goal:**  
+Ensure **all performers, objects, and gestures are clearly visible** on camera.  
+
+> For general questions about lighting equipment, review [W2 Tech Walkthrough](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#2-lighting-setup-three-point-logic)  
+
+### Lighting Guidelines
+
+- You may use **1, 2, or all 3 lights**
+- Position lights to:
+  - Avoid heavy shadows on hands or objects
+  - Maintain even illumination across the working area
+- Lights can be placed:
+  - Front
+  - Side
+  - Back (as separation)
+
+📌 Lighting choices should prioritize **clear visibility** of the objects producing sound.  
+
+---
+
+<h2 style="color: darkred;">Tech Check — Before Recording</h2>
+
+Before pressing record, confirm:
+
+- ✅ All microphones are connected and powered  
+- ✅ Each recorder has **enough battery and storage**  
+- ✅ Audio levels are checked on **every device**  
+- ✅ Cameras are recording and framed correctly  
+- ✅ Lights are stable and not overheating  
+- ✅ Foley objects are prepared and reachable  
+
+📌 A clean setup leads to clean sound.
 
 ________________________________________________________________________
 
