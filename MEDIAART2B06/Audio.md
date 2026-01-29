@@ -49,7 +49,7 @@ The Zoom H4n Pro is an upgraded version of the original Zoom H4n, primarily feat
 
 ### Sennheiser Condenser (ME 80)
 
-<img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/70.jpg" style="width: 50%; height: auto;">
 
 The Sennheiser ME 80 is used in film and news gathering for location recording, prized for its high directionality and clear sound, often mounted on a boom pole or directly on a camera. This microphone required external power to work.    
 > Using Phantom Power (Recommended via XLR Input): The Zoom H4n provides switchable 24V or 48V phantom power through its dual XLR combo jacks.  
@@ -59,7 +59,7 @@ The Sennheiser ME 80 is used in film and news gathering for location recording, 
 
 ### Cable XLR to XLR
 
-<img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
+<img src="TechWalks/imgs/71.png" style="width: 30%; height: auto;">
 
 An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
 
