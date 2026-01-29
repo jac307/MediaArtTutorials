@@ -4,8 +4,6 @@
 
 <h1 style="color: darkred;">Available Audio Equipment</h1>
 
-**Note**: This page highlights the equipment we will use in **Week 2**; descriptions of other available equipment will be introduced later in the course.
-
 ### RODE VideoMic NTG On-Camera Shotgun Microphone
 
 <img src="TechWalks/imgs/31.jpg" style="width: 70%; height: auto;">
@@ -37,14 +35,40 @@ Professional, rugged wireless microphone system designed for broadcast, document
 
 <img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
 
-Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording
+Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording.  
 
 - 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
 - ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
+
+### ZOOM H4N Handheld PRO
+
+The Zoom H4n Pro is an upgraded version of the original Zoom H4n, primarily featuring improved, lower-noise preamps for better audio quality, locking XLR inputs, and a more robust build with a better screen.
+
+- 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
+- ▶️ The 3 Ways I Use My Zoom H4N Pro: [link to YouTube video](https://www.youtube.com/watch?v=2oA8_Y5pXyw){:target="_blank"}
+
+### Sennheiser Condenser (ME 80)
+
+<img src="TechWalks/imgs/70.jpg" style="width: 70%; height: auto;">
+
+The Sennheiser ME 80 is used in film and news gathering for location recording, prized for its high directionality and clear sound, often mounted on a boom pole or directly on a camera. This microphone required external power to work.    
+> Using Phantom Power (Recommended via XLR Input): The Zoom H4n provides switchable 24V or 48V phantom power through its dual XLR combo jacks.  
+
+- 📘 [User Manual](https://www.manualslib.com/products/Sennheiser-Me-80-9520660.html){:target="_blank"}
+- ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
+
+### Cable XLR to XLR
+
+<img src="TechWalks/imgs/71.png" style="width: 70%; height: auto;">
+
+An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
+
+- ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
+  > ⚠️ High level audio: lower your volume  
 
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-AI tools (Microsoft CoPilot and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
+AI tools (Gemini and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
