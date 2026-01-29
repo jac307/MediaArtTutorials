@@ -2,20 +2,130 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W4 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">Exposure Control While Moving</h2>
+<h1 style="color: darkred;">W5 — Tech Walkthrough</h1>
+<h2 style="color: darkred;">Foley Sound Creation · Multi-Device Recording Setup</h2>
 
-## Objective
+This technical walkthrough focuses on **how to set up and coordinate multiple audio and video recording devices** to capture a **live Foley performance**.   
 
-Thi
+You will work with **several microphones, recorders, cameras, and lights simultaneously**, using all the equipment introduced in previous weeks plus a **new condenser microphone**.   
+
+The emphasis is on:
+- **clear microphone placement**
+- **intentional coverage of subtle vs. loud sounds**
+- **multi-camera visual documentation of the live Foley**
+
+---
 
 ### By the end of this session, students should be able to:
 
-- Mo
+- Set up **multiple audio recording devices** for a single live Foley session  
+- Decide **which microphone is best suited for each type of sound**  
+- Coordinate **audio recording with camera placement**  
+- Capture a **clean, well-documented Foley performance** using previous camera and lighting skills  
 
-📌 *Week 4 focuses on awareness and control — your goal is to protect image information while staying responsive to changing light.*   
+📌 *Week 5 is about precision and awareness — how placement, distance, and direction affect what gets recorded.*
 
 ---
+
+<h2 style="color: darkred;">Overview — What Is Being Recorded</h2>
+
+For this assignment, you will perform **live Foley** using **any objects or materials** to generate sound.
+
+Examples:
+- fabric, paper, plastic, metal  
+- footsteps, scraping, tapping, rubbing  
+- subtle textures and louder percussive sounds  
+
+You will record **the same performance simultaneously** using:
+
+- **3 audio recording devices**
+- **2 cameras**
+- **1–3 lights**
+
+Each device has a **specific role** in the recording setup.
+
+---
+
+<h2 style="color: darkred;">Audio Setup — Microphones & Recorders</h2>
+
+> 📄 **Reference:**  
+> Review the Audio Walkthrough before class:  
+> 👉 https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html
+
+All audio devices must be **powered on, checked, and monitored before recording**.
+
+---
+
+### Audio Device 1 — Sennheiser Condenser (ME 80)
+
+**Purpose:**  
+Capture **subtle, low-volume, detailed sounds** (texture, quiet movement, delicate Foley actions).
+
+**Setup:**
+
+- Mount the **Sennheiser ME 80** on a **mic stand**
+- Connect it to a **ZOOM H4N Handheld** using:
+  - **XLR → XLR cable**
+- Position the microphone:
+  - **Directed toward the specific object** producing subtle sound  
+  - At a **close but safe distance** (do not touch the object)
+
+📌 This microphone is **directional and sensitive** — it is your **detail mic**.
+
+---
+
+### Audio Device 2 — RØDE VideoMic NTG (On-Camera Shotgun)
+
+**Purpose:**  
+Capture **medium to loud sounds** and provide **audio directly synced to video**.
+
+**Setup:**
+
+- Attach the **RØDE VideoMic NTG** directly to **Camera A**
+- Plug the microphone **directly into the camera**
+- Place this camera:
+  - On a **tripod**
+  - On the **opposite side** of the Sennheiser microphone
+- Aim the microphone toward the **general Foley action area**
+
+📌 This mic captures **directional sound with visual reference** — it helps when syncing and reviewing actions later.
+
+---
+
+### Audio Device 3 — ZOOM H4N (Ambient / Overhead)
+
+**Purpose:**  
+Capture the **overall soundscape** of the Foley performance.
+
+**Setup:**
+
+- Mount a **second ZOOM H4N** on a **tripod**
+- Position it:
+  - **Above the action**, angled **downward**
+  - Centered to capture **general sound**
+- Use the **built-in microphones**
+
+📌 This recorder acts as your **room / ambient mic**, capturing how sounds blend together.
+
+---
+
+### Monitoring & Levels
+
+- Always **monitor with headphones**
+- Check for:
+  - clipping (too loud)
+  - very low levels (too quiet)
+- Do a **short test recording** before the full take
+
+📌 You should record **at least one full clean take** with all devices running.
+
+---
+
+
+
+
+
+
 
 <h2 style="color: darkred;"> Camera Settings — What to Use for Week 4 </h2>  
 
@@ -53,161 +163,7 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 
 ---
 
-### Exposure Compensation
 
-As you move through different lighting environments, exposure can shift **rapidly and unpredictably**.  
-To help manage these changes, you will work with **Exposure Compensation**, which allows you to intentionally bias exposure **brighter or darker** than what the camera’s meter suggests.
-
-📌 *Exposure Compensation does not replace careful exposure decisions using aperture, shutter speed, and ISO.  
-It is a support tool that helps you protect image information when lighting conditions change.*
-
-Watch this short tutorial on how to **set and adjust Exposure Compensation**:
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2GgBW4iW60c?si=dThr-GmVbQarHAkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
-
----
-
-### Monitoring Exposure While Recording
-
-- Use the **histogram** to **monitor exposure in real time**
-- Watch for:
-  - clipped highlights when moving into brighter areas
-  - crushed shadows when moving into darker areas
-- Remember: **exposure loss can happen mid-shot** and cannot be corrected later
-
----
-
-<h2 style="color: darkred;"> Exposure Control & Monitoring (Advance) </h2>  
-
-This section brings together the key concepts behind **exposure control and monitoring**, building on what you have already practiced in earlier weeks.     
-
-The focus here is on understanding **how exposure decisions interact**, how small adjustments can have large effects, and how to **read and protect image information while recording**.      
-
----
-
-### Exposure Triangle  
-
-The **Exposure Triangle** describes the relationship between **aperture, shutter speed, and ISO**, which together determine how much light is recorded and how that light affects depth, motion, and image quality.   
-
-<img src="imgs/56.jpg" style="width: 40%; height: auto;">     
-
-### Watch this video for a deeper explanation of exposure:     
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=KSF-DVqOVioLv-s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
-
----
-
-### Aperture — Advanced Concept (Vocabulary & Logic)
-
-<img src="imgs/66.jpg" style="width: 70%; height: auto;">   
-
-> 📄 **Reference:** [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
-
-Aperture is organized in steps called **stops**.
-
-- Each **full stop** change either:
-  - **doubles** the amount of light entering the camera, or  
-  - **cuts the amount of light in half**
-
-Aperture values are written as **f-numbers**.  
-
-### What “One Stop” Means (Conceptually)  
-
-- **Lower f-number** → larger opening → **more light**
-- **Higher f-number** → smaller opening → **less light**
-
-Examples:
-- Moving from **f/4 → f/2.8** lets in **twice as much light**
-- Moving from **f/5.6 → f/8** lets in **half as much light**
-
-Each step compounds:
-- One stop wider → double the light  
-- Two stops wider → four times the light  
-- One stop narrower → half the light  
-
-📌 *This is why small aperture changes can have a big impact on exposure.*   
-
-#### Aperture and Depth of Field
-
-Aperture also controls **depth of field**:
-
-- Wider apertures (lower f-numbers) → **narrow / shallow depth of field**
-- Narrower apertures (higher f-numbers) → **large / deep depth of field**
-
-This means aperture decisions always involve a **trade-off** between **exposure, depth of field, and visual emphasis**.    
-
----
-
-### Shutter Speed — Advanced Concept (Vocabulary & Logic)
-
-<img src="imgs/67.jpg" style="width: 80%; height: auto;">   
-
-> 📄 **Reference:** [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
-
-Shutter speeds are organized in steps called **stops**.
-
-- Each **full stop** change either:
-  - **doubles** the amount of light, or  
-  - **cuts the amount of light in half**
-
-This means exposure changes **exponentially**, not gradually.  
-
-#### What “One Stop” Means (Conceptually)
-
-- Slower shutter speed → **more time** → **more light**
-- Faster shutter speed → **less time** → **less light**
-
-Examples:
-- Moving from **1/60 → 1/30** lets in **twice as much light**
-- Moving from **1/250 → 1/500** lets in **half as much light**
-
-Each step compounds:
-- One stop faster → **half as much light**
-- Two stops faster → **one quarter as much light**
-- Three stops faster → **one eighth as much light**
-
-📌 *This is why exposure can change very quickly and why small adjustments matter.*  
-
----
-
-### Reading the Histogram While Moving (Week 4)   
-
-In **Week 4**, the histogram is no longer used only to check exposure before recording, it becomes a **live monitoring tool** as you move through changing lighting conditions.
-
-#### The Histogram Is Dynamic
-
-- The histogram updates **in real time** as the camera moves
-- Bright or dark areas entering the frame will immediately affect its shape
-- Spikes may appear or disappear as you move indoors, outdoors, or between light sources
-
-📌 *This means exposure can change mid-shot, even if your camera settings stay the same.*
-
-#### The Histogram Depends on the Scene  
-
-There is no single “correct” histogram shape.
-
-- Bright scenes naturally push the histogram **to the right**
-- Dark scenes naturally push the histogram **to the left**
-- A histogram does **not** need to be centered to be correct
-
-📌 *The goal is not a perfect shape — the goal is preserving image information.*  
-
-<img src="imgs/68.png" style="width: 50%; height: auto;">   
-
-#### Highlight vs. Shadow Priority
-
-Not all image information is lost in the same way.
-
-- **Highlights** clip **abruptly** when overexposed
-- **Shadows** lose detail more gradually, often introducing noise
-
-Advise:  
-- Prioritize **protecting highlights**, especially when moving into brighter areas
-- Use exposure adjustments to prevent the histogram from hitting the far right edge
 
 ________________________________________________________________________
 
