@@ -139,7 +139,7 @@ Follow the 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank
   - Do **not** slow down or speed up footage
 - **Simple fade-in (beginning) and fade-out (end) only**
 - Use **the audio from the H4N Recorder**
-  > You may adjust audio levels
+  > You may adjust audio levels   
   > Use your original camera audio to synchronize
 - Perform **color correction only**
   - Address exposure imbalance caused by lighting transition
