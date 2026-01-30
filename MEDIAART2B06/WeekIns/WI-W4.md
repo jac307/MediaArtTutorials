@@ -139,8 +139,9 @@ Follow the **Week 4 Tech Walkthrough** exactly:
 - **No speed changes**
   - Do **not** slow down or speed up footage
 - **Simple fade-in (beginning) and fade-out (end) only**
-- Use **original camera audio**
+- Use **the audio from the H4N Recorder**
   > You may adjust audio levels
+  > Use your original camera audio to synchronize
 - Perform **color correction only**
   - Address exposure imbalance caused by lighting transition
   - Maintain a natural look
