@@ -68,7 +68,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h3 id="planning" style="color: darkred;">1. Planning [15m]</h3>
 
-Before recording, your group (from Week 3) must **select one route** that moves from **outdoors to indoors** within approximately **30 seconds** at a normal walking pace.
+Before recording, your group (from Week 3) must **select one shared route** that moves from **outdoors to indoors** within approximately **30 seconds** at a normal walking pace.
 
 - Choose a location near a **door or clear transition point**
 - Avoid routes that include **stairs**
