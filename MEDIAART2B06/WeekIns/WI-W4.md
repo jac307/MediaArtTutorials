@@ -92,8 +92,7 @@ Individually:
 
 ### Camera Setup
 
-Follow the **Week 4 Tech Walkthrough**:  
-👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
+Follow the 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
 
 - **Handheld camera**
 - **Manual Mode (M)**
