@@ -68,8 +68,8 @@ You are expected to work actively during class time and participate in all in-cl
 **Note:** It is **highly recommended** that the interviewee be **another student outside your pair**, ideally from your **station group of ten**.  
 This allows both members of the pair to focus fully on **camera operation, framing, lighting, and sound** during recording.   
 
-📌 **You are not graded on *what* is being said.**  
-Do not spend excessive time developing content or scripting responses.
+> **You are not graded on *what* is being said.**  
+> Do not spend excessive time developing content or scripting responses.
 
 ---
 
@@ -140,8 +140,7 @@ You will be assigned to a **station group (10 students)**.
 
 Each group is responsible for:
 - Setting up cameras, lights, and audio **together**
-- Following the **Week 2 Tech Walkthrough**  
-  👉 [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
+- Following the [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
@@ -190,9 +189,9 @@ Divide tasks evenly and support one another during setup.*
 - Lens: **85mm**
 - Focus: **Manual**
 
-📌 *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
-📌 *Always adjust lighting first before compensating with camera settings.*   
-📌 *Lighting and white balance must be finalized **before** recording begins.*
+> *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
+> *Always adjust lighting first before compensating with camera settings.*   
+> *Lighting and white balance must be finalized **before** recording begins.*
 
 ---  
 
@@ -204,17 +203,15 @@ Each pair records **two full takes**
 - The group is responsible for **self-managing time** throughout the activity.
 
 During recording, each pair **may adjust**:
-- 🟢 **Framing of the Main Camera (Camera A)**
-- 🟢 **Position and framing of the Side Camera (Camera B)**
-- 🟢 **Framing and movement of the Handheld Camera (Camera C)**
-- 🟢 **Lighting intensity** and **color temperature** (warmth)
-- 🟢 **Aperture**, **Shutter Speed**, and **ISO**
+- **Framing of the Main Camera (Camera A)**
+- **Position and framing of the Side Camera (Camera B)**
+- **Framing and movement of the Handheld Camera (Camera C)**
+- **Lighting intensity** and **color temperature** (warmth)
+- **Aperture**, **Shutter Speed**, and **ISO**
 
 During recording, each pair **must NOT change**:
-- 🚫 **White Balance**
-- 🚫 **Position of the lights**
-
-📌 *Exposure and color consistency must be established before recording begins.*
+- **White Balance**
+- **Position of the lights**
 
 ### Recording & Syncing Footage
 
@@ -228,7 +225,7 @@ During recording, each pair **must NOT change**:
 
 - Repeat the same process for the **second take**
 
-📌 *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
+> *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
 
 ---  
 
@@ -264,11 +261,11 @@ Edit your interview following the **same principles as Week 1**, with the additi
   - **Cross overs** (simple/subtle temporal overlap between still images)
 - Add Title and Credits
  
-#### Restrictions
-- 🚫 No Music
-- 🚫 No colour correction in Premiere Pro  
-- 🚫 No visual effects or filters  
-- 🚫 No animated motion effects  
+#### 🚫 Restrictions
+- No Music
+- No colour correction in Premiere Pro  
+- No visual effects or filters  
+- No animated motion effects  
 - All lighting, white balance, and contrast decisions must happen **during recording**
 
 Export video:
