@@ -73,14 +73,14 @@ Use this planning time to:
 - consider how the assigned **lens** will shape the space  
 - anticipate how **time and duration** will register in the image
 
-📌 *The camera will remain still — all visual change must come from within the frame, not from camera movement.*   
+> *The camera will remain still — all visual change must come from within the frame, not from camera movement.*   
 
 You may approach duration in one of the following ways:
 - Record exactly **30 seconds** *(not recommended)*  
 - Record **more time** (up to **1 minute**) and trim the beginning/end **or** slightly speed up the footage to reach 30s  
 - Record **less time** (minimum **15 seconds**) and slow the footage to reach 30s  
 
-📌 *You won't cut or trim within the shot. Time must remain continuous.*   
+> *You won't cut or trim within the shot. Time must remain continuous.*   
 
 ---
 
@@ -88,8 +88,7 @@ You may approach duration in one of the following ways:
 
 ### Camera Setup
 
-Follow the **Week 3 Tech Walkthrough** exactly:  
-👉 [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
+Follow [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
 
 - Camera on **tripod**
 - **Manual Mode (M)**
