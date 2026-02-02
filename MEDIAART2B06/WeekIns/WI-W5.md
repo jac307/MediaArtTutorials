@@ -2,15 +2,13 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Static Outdoor Scene (Groups of 3)</h1>  
+<h1 style="color: darkred;">Live Foley (Groups of 4)</h1>  
 
 <img src="imgs/07.jpg" style="width: 100%; height: auto;">  
 
-In groups of 3 students, you will create a **30-second static outdoor video** that explores **time, stillness, and spatial observation** through a fixed camera position.
+In groups of 4 students, you will create a **30-second live Foley performance** using **multiple camera and audio recording stations**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
 
-The focus of this exercise is on **intentional framing, lens choice, exposure consistency, and ambient sound**, not narrative action or editing complexity.
-
-📌 *This assignment is recorded during a shared double-production session (Week 4). All recording must be completed during class time.*
+During **post-production**, the goal is to work with **Premiere Pro and Reaper** to professionally edit **multiple cameras and microphones** together, using **picture-in-picture** to visualize the video snippet (provided scene) that corresponds to your live foley.    
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -19,25 +17,22 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Project Overview
 
-- **Format:** 30-second static video
-- **Camera:** Tripod only (no camera movement)
-- **Lenses:** One lens per group (**24mm, 35mm, or 50mm**)
-- **Exposure:** Manual Mode (M), **locked for the entire shot**
-- **Audio:** Recorded separately using **ZOOM H4N Handheld**
-- **Location:** McMaster University campus and immediate surroundings only
-- **Collaboration:** Groups of **3 students**
+- **Format:** 30-second multi-camera video  
+- **Cameras:** Tripod only (no camera movement)  
+- **Lenses:** Use available lenses at your discretion  
+- **Exposure:** Manual Mode (M), **locked for the entire shot**  
+- **Audio:** Recorded separately using **multiple Zoom H4n handheld recorders and microphones**  
+- **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
+- **Collaboration:**  
+  - **4 groups per station** for technical setup and support  
+  - **Submit in groups of 4 students** (each group submits their own project)
 
-## Examples
+## Examples  
 
-**News from Home** (1978), by Chantal Akerman  
-→ A foundational example of **fixed-frame observation**, where duration and stillness allow space, sound, and movement within the frame to unfold over time.    
-▶️ [Movie Clip](https://www.youtube.com/watch?v=XUoYPF2EPiQ){:target="_blank"}      
-▶️ <a href="https://www.kanopy.com/en/mcmaster/video/11032756" target="_blank" rel="noopener noreferrer">Full Fim on Kanopy (McMaster Library Access)</a>    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qpr1tY-XKMs?si=mS6Q9ykaHRkH1Ejq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Slow Landscapes**, by Cynthia Lawson Jaramillo  
-→ These works emphasize **subtle temporal change**, environmental sound, and the quiet accumulation of detail.    
-🌐 [Project's Website](https://www.cynthialawson.com/site/?p=525){:target="_blank"}    
-▶️ [Sisga, Colombia Clip](https://vimeo.com/94722817?fl=pl&fe=vl){:target="_blank"}
+Josh Harmon
+https://www.instagram.com/josh.harmon/
 
 ---
 
@@ -45,146 +40,190 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#planning">1. Planning [15m]</a></li>
-  <li><a href="#recording">2. Recording [40m]</a></li>
-  <li><a href="#premiere">3. Post-Production: Premiere Pro [Begin in Class]</a></li>
+  <li><a href="#idea">1. Planning [before Thursday]</a></li> - **Complete before class**
+  <li><a href="#setup">2. Group Organization & Setup</a></li>
+  <li><a href="#recording">3. Recording</a></li>
+  <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
+  <li><a href="#premiere">5. Post-Production: Assemble in Premiere Pro</a></li>
 </ul>
 
----
-
-<h3 id="planning" style="color: darkred;">1. Planning [15m]</h3>
-
-Before leaving the classroom, your group must **define** the outdoor space you intend to record.  
-This is a moment to think critically about **space, time, and framing** *before* going outside.
-
-- Do **not** default to the first outdoor location you think of  
-- Do **not** default to the location **closest to the classroom**  
-- Do **not** overthink the location  
-- Discuss and agree on a type of space that offers:
-  - depth within the frame  
-  - visible spatial layers (foreground / midground / background)  
-  - subtle changes over time (people passing, light shifts, wind, environmental movement)
-
-Each group will be **randomly assigned one available lens**: **24mm**, **35mm**, or **50mm**.  
-> For more information about these lenses, see: [Available Cameras & Lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}
-
-Use this planning time to:
-- imagine where the camera would be placed  
-- consider how the assigned **lens** will shape the space  
-- anticipate how **time and duration** will register in the image
-
-> *The camera will remain still — all visual change must come from within the frame, not from camera movement.*   
-
-You may approach duration in one of the following ways:
-- Record exactly **30 seconds** *(not recommended)*  
-- Record **more time** (up to **1 minute**) and trim the beginning/end **or** slightly speed up the footage to reach 30s  
-- Record **less time** (minimum **15 seconds**) and slow the footage to reach 30s  
-
-> *You won't cut or trim within the shot. Time must remain continuous.*   
 
 ---
 
-<h3 id="setup" style="color: darkred;">2. Recording [40m]</h3>
+<h3 id="planning" style="color: darkred;">1. Planning [before Thursday]</h3>
 
-### Camera Setup
+> ❗ You must come prepare with your planning done and bringing the objects you will use for your live foley 
 
-Follow [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
 
-- Camera on **tripod**
-- **Manual Mode (M)**
-- **Aspect Ratio:** 16:9  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<h3 id="setup" style="color: darkred;">2. Group Organization & Setup [40m]</h3>
+
+You will be assigned to a **station group (10 students)**.
+
+Each group is responsible for:
+- Setting up cameras, lights, and audio **together**
+- Following the [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
+
+Station locations and group assignments will be:
+- Posted on **Avenue to Learn**
+- Printed and posted in the space
+- Shown on slides in class
+
+---
+
+## Space Configurations
+
+As a group, you will:
+
+- Set up the **backdrop** (if available)
+- Position the **subject** (chair and seating placement)
+- Set up the **three-point lighting** arrangement
+- Establish clear **light–shadow contrast**
+- Position all **three cameras** (see below)
+- Connect and test **shotgun and lavalier microphones**
+
+⚠️ *Handle all equipment with care, especially lighting gear.  
+Divide tasks evenly and support one another during setup.*
+
+---
+
+## Camera Configuration
+
+<img src="imgs/06.jpg" style="width: 100%; height: auto;"> 
+
+### Camera A — Frontal View / Eye Level (Tripod)
+- Primary interview shot
+- Visual anchor for the sequence  
+- Lens: **Default kit lens**
+- Focus: **Manual**
+- Microphone: **RODE VideoMic NTG (on-camera shotgun)**
+
+### Camera B — Side View / Eye Level (Tripod)
+- Positioned approximately **30–45°** from the subject
+- Emphasizes depth, facial structure, and chiaroscuro  
+- Lens: **50mm**
+- Focus: **Manual**
+- Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
+
+### Camera C — Detail Camera (Handheld)
+- Close-up details: hands, gestures, partial facial features
+- Allows subtle movement and visual variation
+- Lens: **85mm**
+- Focus: **Manual**
+
+> *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
+> *Always adjust lighting first before compensating with camera settings.*   
+> *Lighting and white balance must be finalized **before** recording begins.*
+
+---  
+
+<h3 id="recording" style="color: darkred;">3. Recording [2h]</h3>
+
+Each pair records **two full takes**
+- Organize a clear recording order within your **group of 10**
+- Time per pair: **12 minutes**.
+- The group is responsible for **self-managing time** throughout the activity.
+
+During recording, each pair **may adjust**:
+- **Framing of the Main Camera (Camera A)**
+- **Position and framing of the Side Camera (Camera B)**
+- **Framing and movement of the Handheld Camera (Camera C)**
+- **Lighting intensity** and **color temperature** (warmth)
+- **Aperture**, **Shutter Speed**, and **ISO**
+
+During recording, each pair **must NOT change**:
+- **White Balance**
+- **Position of the lights**
+
+### Recording & Syncing Footage
+
+- When ready:
+  - Press **record on all cameras**
+  - Stand in front of the **subject** and perform a **single hand clap**
+  - Wait **2–3 seconds**, then the subject may begin speaking
+
+- **Do not stop recording** on any camera until the end of the take
+- Record the full interview as **one continuous clip** in all cameras
+
+- Repeat the same process for the **second take**
+
+> *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
+
+---  
+
+<h3 id="wrap-up" style="color: darkred;">4. Equipment Wrap-Up [20m]</h3>
+
+When all groups have finished:
+- Power off all equipment
+- Store cameras, lenses, lights, and audio gear **properly in their bags**
+- Leave equipment at the station for the instructor to collect
+
+⚠️ *Handle all equipment with care, especially lighting gear.  
+Divide tasks evenly and support one another during wrap-up.*
+
+---
+
+<h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
+
+Check:  
+- **[W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**  
+- **[W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**     
+
+Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.  
+
 - **Resolution:** 1920 × 1080  
-- **Frame Rate:** 30 fps
-- **Manual Focus (MF)**
-  > Carefully confirm focus before recording. Do **not** refocus mid-shot.
-- **Custom White Balance**
-- **Exposure set before recording and locked**
-  > Set aperture, shutter speed, ISO, and exposure compensation **before recording**.  
-  > Do **not** change any exposure settings during the shot.
-- Save the following camera parameters for your submission (write them down):  
-  **Aperture, Shutter Speed, ISO**   
-- Use the **histogram** to confirm exposure before recording
+- Import footage from **all three cameras**
+- **Synchronize the audio and image from all three cameras**  
+  *(Do this before trimming or sequencing clips)*
+- Use cuts to create visual rhythm
+- **Total duration:** 30 seconds
+- **Allowed transitions:**
+  - Jump cuts
+  - Fade in / fade out
+  - **Cross overs** (simple/subtle temporal overlap between still images)
+- Add Title and Credits
+ 
+#### 🚫 Restrictions
+- No Music
+- No colour correction in Premiere Pro  
+- No visual effects or filters  
+- No animated motion effects  
+- All lighting, white balance, and contrast decisions must happen **during recording**
 
-### Audio Setup
-
-- Record audio **separately** using a **ZOOM H4N Handheld**
-- One person in the group must be responsible for audio recording
-- Use a **hand clap at the beginning** of each take for sync
-- The Zoom may be held steadily, placed on the ground, or moved carefully to capture environmental sound    
-- Do **not** tap the recorder during recording
-
-### Recording Rules
-
-- Record **two full takes**
-- Each take must be **continuous**
-- **No camera movement**
-- **No zoom in/out**
-- **No walking in front of the camera** —People may pass naturally through the frame
-
----
-
-<h3 id="premiere" style="color: darkred;">3. Post-Production: Premiere Pro [Begin in Class]</h3>
-
-> Refer to **[W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"}** or previous tutorials.   
-
-### Editing Requirements
-
-- **Resolution:** 1280 × 720 (HD) 
-- **Final duration:** 30 seconds
-- **No cuts within the shot**. It must be a **continuous shot**
-- **Simple fade-in (beginning) and fade-out (end) only**
-- **Audio must come from the Zoom recording**
-  > You may adjust audio levels
-- Perform **color correction**
-  - Restore contrast  
-  - Reduce winter flatness
-- Very **subtle colour grading** is allowed
-  - Maintain a natural look
-- Apply a **very slow, subtle zoom-in using keyframes**
-  - This must be **minimal and gradual**
-  - The zoom should **not break image quality or framing**
-  - Check the **keyframes tutorial** before applying this effect
-
-🚫 No visual effects   
-🚫 No music  
-
----
-
-### Titles & Credits
-
-- Titles and credits must appear **on top of the image/video**
-- They must be:
-  - readable
-  - spatially and aesthetically considered
-- No separate title cards
+Export video:
+- **Format:** 1920×1080, H.264, MP4
+- **Filename:** `Group-#-ChiaroscuroInterview.mp4`
 
 ---
 
 ### Project Info PDF
 
-Create a **one/two-page document** including:
+Create a **one-page document** including:
 
 - **One representative still image**
 - Title
 - Year
 - Authors
-- **Location**
-- **3–4 line description explaining why this location was chosen**, considering spatial depth, duration, and environmental change
-- **Technical information:** Aperture, Shutter Speed, ISO, Lens used
-- **Brief note on color correction/grading:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
+- **3/4-line artistic description**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-StaticOutdoorScene.pdf`
+📄 **Filename:** `Group-#-ChiaroscuroInterview.pdf`
 
 
 ---
 
-<h3 style="color: darkred;">📤 Submission (one per group - 3 students) </h3>
+<h3 style="color: darkred;">📤 Submission (in pairs) </h3>
 
-| Item                               | Required Filename                   |
-|-----------------------------------|--------------------------------------|
-| Final Static Outdoor Scene MP4    | `Group-#-StaticOutdoorScene.mp4`     |
-| Project Description PDF           | `Group-#-StaticOutdoorScene.pdf`     |
+| Item                               | Required Filename                      |
+|------------------------------------|----------------------------------------|
+| Brainstorming PDF                  | `Group-#-Brainstorming.pdf`            |
+| Final Chiaroscuro Interview MP4    | `Group-#-ChiaroscuroInterview.mp4`     |
+| Project Description PDF            | `Group-#-ChiaroscuroInterview.pdf`     |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -194,17 +233,19 @@ Create a **one/two-page document** including:
 
 - This is a **learning-focused assignment**
 - Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
-- Risk-taking and experimentation are encouraged **within the assignment constraints**
+- Risk-taking and experimentation are encouraged within the assignment constraints
 
 For an **A+**, the work should demonstrate:
 
-- **Intentional spatial composition**, with clear foreground, midground, and background relationships and where location choice, framing, sound, and duration work together intentionally  
-- **Strong control of exposure**, with consistent settings and preserved image information throughout the shot  
-- **Careful integration of ambient sound**, contributing to a sense of place without distraction  
-- **Advance post-production**, using color correction to restore contrast and balance while maintaining a natural look  
+- **Strong and intentional composition**, framing, and camera placement across all shots  
+- **Effective use of chiaroscuro lighting**, showing control over contrast, shadow, and light direction  
+- **Clear visual and conceptual coherence**, with lighting choices supporting the interview’s tone or presence  
+- **High-quality audio**, with clean sound and successful synchronization across cameras  
+- **Thoughtful editing**, including pacing, shot selection, and transitions that enhance clarity and rhythm  
+- **Originality and artistry**
 
 > ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all planning, recording, and in-class editing activities.
+You are expected to work actively during class time and participate in all in-class activities.
 
 ________________________________________________________________________
 
