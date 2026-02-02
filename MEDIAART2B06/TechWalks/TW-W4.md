@@ -7,18 +7,12 @@
 
 ## Objective
 
-This technical walkthrough supports the **Continuous Shot (Individual)** assignment. The goal is to help students **maintain visual consistency and preserve image information** while recording a single, uninterrupted shot across **changing lighting conditions**.  
-
-Rather than introducing new camera settings, Week 4 focuses on **how exposure behaves over time** and how to **monitor and manage it while recording**.  
+This technical walkthrough supports the **Continuous Shot (Individual)** assignment. Week 4 focuses on **how exposure behaves over time** and how to **monitor and manage it while recording**.  
 
 ### By the end of this session, students should be able to:
-
-- Monitor exposure **in real time** while recording a continuous shot  
+- Use the **histogram** to monitor exposure **in real time** while recording a continuous shot  
 - Recognize how changes in lighting affect exposure **mid-shot**  
-- Use the **histogram** to identify potential loss of image information  
-- Apply **exposure compensation and bracketing** as support tools when lighting conditions shift
-
-📌 *Week 4 focuses on awareness and control — your goal is to protect image information while staying responsive to changing light.*   
+- Apply **exposure compensation** as support tools when lighting conditions shift
 
 ---
 
@@ -52,7 +46,7 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 - Turn **Image Stabilization ON**
 - This setting is located on the **lens** (see image below)
 
-📌 Image stabilization helps reduce unwanted shake when recording handheld, but it does **not** prevent motion blur caused by incorrect shutter speed.
+❗ Image stabilization helps reduce unwanted shake when recording handheld, but it does **not** prevent motion blur caused by incorrect shutter speed.
 
 <img src="imgs/65.png" style="width: 35%; height: auto;">  
 
@@ -63,7 +57,7 @@ For **Week 4**, we will continue using the same camera settings as **Week 3**, w
 As you move through different lighting environments, exposure can shift **rapidly and unpredictably**.  
 To help manage these changes, you will work with **Exposure Compensation**, which allows you to intentionally bias exposure **brighter or darker** than what the camera’s meter suggests.
 
-📌 *Exposure Compensation does not replace careful exposure decisions using aperture, shutter speed, and ISO.  
+❗ *Exposure Compensation does not replace careful exposure decisions using aperture, shutter speed, and ISO.  
 It is a support tool that helps you protect image information when lighting conditions change.*
 
 Watch this short tutorial on how to **set and adjust Exposure Compensation**:
@@ -110,7 +104,7 @@ The **Exposure Triangle** describes the relationship between **aperture, shutter
 
 <img src="imgs/66.jpg" style="width: 70%; height: auto;">   
 
-> 📄 **Reference:** [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
+> **Reference:** [Download the F-Stop Chart (PDF)](imgs/F-Stop-Chart.pdf){:target="_blank"}  
 
 Aperture is organized in steps called **stops**.
 
@@ -134,8 +128,6 @@ Each step compounds:
 - Two stops wider → four times the light  
 - One stop narrower → half the light  
 
-📌 *This is why small aperture changes can have a big impact on exposure.*   
-
 #### Aperture and Depth of Field
 
 Aperture also controls **depth of field**:
@@ -151,7 +143,7 @@ This means aperture decisions always involve a **trade-off** between **exposure,
 
 <img src="imgs/67.jpg" style="width: 80%; height: auto;">   
 
-> 📄 **Reference:** [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
+> **Reference:** [Download the Shutter Speed Chart (PDF)](imgs/Shutter-Chart.pdf){:target="_blank"}  
 
 Shutter speeds are organized in steps called **stops**.
 
@@ -175,8 +167,6 @@ Each step compounds:
 - Two stops faster → **one quarter as much light**
 - Three stops faster → **one eighth as much light**
 
-📌 *This is why exposure can change very quickly and why small adjustments matter.*  
-
 ---
 
 ### Reading the Histogram While Moving (Week 4)   
@@ -188,8 +178,7 @@ In **Week 4**, the histogram is no longer used only to check exposure before rec
 - The histogram updates **in real time** as the camera moves
 - Bright or dark areas entering the frame will immediately affect its shape
 - Spikes may appear or disappear as you move indoors, outdoors, or between light sources
-
-📌 *This means exposure can change mid-shot, even if your camera settings stay the same.*
+- *This means exposure can change mid-shot, even if your camera settings stay the same.*
 
 #### The Histogram Depends on the Scene  
 
@@ -198,8 +187,6 @@ There is no single “correct” histogram shape.
 - Bright scenes naturally push the histogram **to the right**
 - Dark scenes naturally push the histogram **to the left**
 - A histogram does **not** need to be centered to be correct
-
-📌 *The goal is not a perfect shape — the goal is preserving image information.*  
 
 <img src="imgs/68.png" style="width: 50%; height: auto;">   
 
