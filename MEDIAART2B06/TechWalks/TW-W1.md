@@ -12,21 +12,16 @@ This technical walkthrough introduces the **essential DSLR camera controls and w
 Check [Available DSLR Cameras](../Cameras.md){:target="_blank"}  
 
 By the end of this session, students should be able to:
-
-- Operate the **Canon EOS Rebel T4i / T5i / T7i** using a **limited set of camera settings**  
+- Generally operate the **Canon EOS Rebel T4i / T5i / T7i** using **limited camera settings**  
 - Understand how **framing, composition, focus, and depth of field** are shaped through aperture, ISO, and camera positioning  
-- Use a **tripod-based workflow**  
-- Read and evaluate images on the camera, and **properly transfer and save files** to a computer  
+- Play and check images on the camera, and **properly transfer and save files** to a computer  
 - Recognize how **light and contrast** function as primary visual elements in black-and-white photography  
-
-📌 *The goal is not technical mastery of every camera function, but practical control over the required settings overview below*
-
 
 ---
 
 <h3 style="color: darkred;">Camera Anatomy — Getting Familiar (Camera Off)</h3>  
 
-📌 *For this first step, the goal is spatial familiarity — knowing where things are before learning how to use them.*
+📌 *For this first step, the goal is spatial familiarity: knowing where things are before learning how to use them.*
 
 ---
 
@@ -55,8 +50,6 @@ The optical element that determines field of view and depth of field. For Week 1
 **AF / MF Switch (on the lens)**  
 - **AF (Autofocus):** Camera automatically focuses  
 - **MF (Manual Focus):** Focus is adjusted manually using the focus ring  
-
-📌 *Leave lenses on MF*
 
 **Focus Ring**  
 Used to manually adjust focus when the lens is set to MF.
@@ -136,7 +129,7 @@ First, become familiar with the main camera buttons used to navigate menus and p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>  
 
-📌 *It is highly recommended to check these settings every time you rent a camera*  
+❗ *Check these settings every time you rent a camera*  
 
 ---
 
@@ -148,7 +141,7 @@ Before starting a new shoot, format the SD card **in the camera** to avoid file 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>  
 
-📌 *It is highly recommended to format SD Card every time you rent a camera*  
+❗ *Format SD Card every time you rent a camera*  
 
 ---
 
@@ -157,7 +150,7 @@ Before starting a new shoot, format the SD card **in the camera** to avoid file 
 For the first activity (**Photo Film** assignment), we will use a **limited set of camera settings**.  
 This is intentional: it allows you to focus on **framing, composition, depth of field, and exposure** rather than navigating complex settings and menus.  
 
-📌 *Photos will be captured in colour and converted to black and white later using Adobe Photoshop.*  
+> *Photos will be captured in colour and converted to black and white later using Adobe Photoshop.*  
 
 ---
 
@@ -175,7 +168,7 @@ Exposure is controlled by three settings:
 - **Shutter Speed** — how long light reaches the sensor
 - **ISO** — how sensitive the sensor is to light
 
-📌 *For Week 1, you will primarily control exposure through **aperture** and **ISO**, while the camera assists by setting the shutter speed.*
+> *For Week 1, you will primarily control exposure through **aperture** and **ISO**, while the camera assists by setting the shutter speed.*
 
 ---
 
@@ -193,8 +186,6 @@ Exposure is controlled by three settings:
 
 - **This mode gives you direct control over depth of field**  
   > Aperture determines depth of field (how much is in focus), while the camera adjusts shutter speed to maintain proper exposure based on your aperture choice.
-
-📌 *Use Aperture Priority for the Photo Film Activity.*
 
 ---
 
@@ -220,8 +211,6 @@ Aperture controls **depth of field** and how much of the image appears in focus.
 
 <img src="imgs/10.gif" alt="Av examples" style="width: 40%; height: auto;"> 
 
-📌 *The Aperture is the first setting you should always set up*  
-
 Follow this tutorial to setup your aperture:  
 
 <div style= "width:80%; height:auto">
@@ -239,8 +228,6 @@ ISO controls the camera’s **sensitivity to light**.
 - Start with **ISO 100 or 200**
 - Increase ISO only if the image becomes too dark
 - Higher ISO = more digital noise (especially visible in B&W)
-
-📌 *Always use the lowest ISO possible.*  
 
 How to setup ISO:   
 
@@ -264,7 +251,7 @@ Typically, the camera records:
 - one slightly **underexposed**  
 - one slightly **overexposed**  
 
-📌 *Exposure bracketing is useful when lighting conditions are difficult to judge or when you want safety options without changing settings manually.*
+> *Exposure bracketing is useful when lighting conditions are difficult to judge or when you want safety options without changing settings manually.*
 
 Watch the following tutorial to learn how to **enable and adjust AEB** on the camera:   
 
@@ -328,7 +315,7 @@ After taking a photograph:
    - Are highlights overly bright or shadows too dark?
 4. Use the **Zoom** function to inspect focus and detail.
 
-📌 *Do not delete images in the field unless you are certain they are unusable.*
+❗ *Do not delete images in the field unless you are certain they are unusable.*
 
 ---
 
@@ -342,7 +329,7 @@ Once you are done shooting:
 4. Open the SD card folder and locate the **DCIM** folder.
 5. Copy your images to a clearly named folder on
 
-📌 *Always save your photos in your computer after a day of work.*
+❗ *Always save your photos in your computer after a day of work.*
 
 ---
 
