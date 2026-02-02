@@ -8,15 +8,11 @@
 ## Objective
 
 This technical walkthrough supports the **Static Outdoor Scene (Groups of 3 students)** assignment.  
-The goal is to understand how **lens choice, camera distance, and aperture** shape **space, depth, and exposure**. 
 
 ### By the end of this session, students should be able to:
-
-- Explain how **lens focal length (24mm, 35mm, and 50mm)** shapes perceived space, scale, and spatial relationships in a **static outdoor scene**
-- Use **aperture intentionally** as both a **depth-of-field and exposure tool**, working within the physical limits of each lens
+- Notice how **lens focal length (24mm, 35mm, and 50mm)** shapes perceived space, scale, and spatial relationships  
+- Use **aperture** as both a **depth-of-field and exposure tool**, working within the physical limits of each lens
 - Identify moments where **image information is irreversibly lost at the time of recording** due to overexposure or underexposure, and understand why this loss cannot be fully recovered in post-production
-
-📌 *Week 3 focuses on a static camera setup to clearly observe how optical decisions affect the image.*  
 
 ---
 
@@ -94,7 +90,7 @@ Three main factors affect depth of field:
 - **Focal length of the lens**  
   Shorter focal lengths (wide-angle lenses) generally produce a **greater depth of field** than longer lenses.
 
-📌 *Note: Always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
+❗ *Always use **Manual Focus (MF)** instead of Auto Focus to maintain precise control over depth of field.*
 
 ---
 
@@ -110,7 +106,7 @@ This is **not true**.
   - The aperture is wide
 - Depth is still shaped by **distance + focal length + aperture**
 
-📌 *Before adjusting camera settings, always consider where the camera is placed.*
+> *Before adjusting camera settings, always consider where the camera is placed.*
 
 ---
 
@@ -118,7 +114,7 @@ This is **not true**.
 
 For **Week 3**, we will continue using the same settings as Week 2, while expanding our attention to how **lens choice and exposure decisions** affect the image at the moment of recording.  
 
-📌 *The goal is not to memorize settings, but to understand how each choice shapes space, light, and image information.*  
+❗ *The goal is not to memorize settings, but to understand how each choice shapes space, light, and image information.*  
 
 ### Camera Settings
 
@@ -154,11 +150,11 @@ For **Week 3**, we will continue using the same settings as Week 2, while expand
 
 - **Overexposure**  
   Happens when too much light reaches the sensor. Bright areas become **washed out**, and detail in the **lighter zones (highlights)** is permanently lost.  
-  📌 *Once highlight information is clipped, it cannot be recovered in post-production.*
+  > *Once highlight information is clipped, it cannot be recovered in post-production.*
 
 - **Underexposure**  
   Happens when not enough light reaches the sensor. Dark areas become **muddy or flat**, and detail in the **darker zones (shadows)** is permanently lost.  
-  📌 *Shadow detail lost to underexposure cannot be restored later without introducing noise or artifacts.*
+  > *Shadow detail lost to underexposure cannot be restored later without introducing noise or artifacts.*
 
 #### Some Exposure Problems
 
@@ -222,7 +218,7 @@ For this assignment, use the histogram to:
 - Identify crushed shadows (loss of information in dark areas)
 - Confirm that exposure remains consistent across shots
 
-📌 Advise: Expose for Highlights and let the shadow areas fall where they  may (better to have less detail in black than blown out whites). 
+❗ Advise: Expose for Highlights and let the shadow areas fall where they may (better to have less detail in black than blown out whites). 
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Gmz1c6oq-4?si=Z2-yGKMsq8VTAHzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -238,9 +234,7 @@ For this assignment:
 - Lower f-number (e.g., f/2.8) **=** More light + Shallower depth of field    
 - Higher f-number (e.g., f/8) **=** Less light + Deeper focus    
 
-⚠️ Each lens has a **specific aperture range** determined by its physical design.
-
-📌 *Do not think in equations for now — think in visible effects.*   
+❗ Each lens has a **specific aperture range** determined by its physical design: 
 
 <img src="imgs/57.jpg" style="width: 100%; height: auto;"> 
 
@@ -260,10 +254,6 @@ For this assignment:
 - **Faster shutter speeds** (e.g., 1/125s)  
   - Allow less light into the camera  
   - Freeze motion more effectively  
-
-⚠️ Extremely slow shutter speeds can still cause blur due to wind, moving elements, or accidental camera movement.
-
-📌 *Do not think in equations for now — think in visible effects.*
  
 <figure style="width: 80%; margin: auto; display: flex; justify-content: left; gap: 1em;">
   <img src="imgs/59.gif" alt="Test video 4" style="width: 30%; height: auto;">
