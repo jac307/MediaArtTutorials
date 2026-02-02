@@ -5,76 +5,54 @@
 <h1 style="color: darkred;">W5 — Tech Walkthrough</h1>
 <h2 style="color: darkred;">Foley Sound Creation · Multi-Device Recording Setup</h2>
 
-This technical walkthrough focuses on **how to set up and coordinate multiple audio and video recording devices** to capture a **live Foley performance**.   
-
-You will work with **several microphones, recorders, cameras, and lights simultaneously**, using all the equipment introduced in previous weeks plus a **new condenser microphone**.   
-
-The emphasis is on:
-- **clear microphone placement**
-- **intentional coverage of subtle vs. loud sounds**
-- **multi-camera visual documentation of the live Foley**
-
----
+This technical walkthrough focuses on **how to set up and coordinate multiple audio and video recording devices** to capture a **live Foley**.  
+> *Live Foley is the art of creating sound effects in real-time (for a video scene) by physically producing sounds to match on-screen action.*  
 
 ### By the end of this session, students should be able to:
-
-- Set up **multiple audio recording devices** for a single live Foley session  
+- Set up **multiple audio recording devices** 
 - Decide **which microphone is best suited for each type of sound**  
 - Coordinate **audio recording with camera placement**  
-- Capture a **clean, well-documented Foley performance** using previous camera and lighting skills  
-
-📌 *Week 5 is about precision and awareness — how placement, distance, and direction affect what gets recorded.*
+- Capture a **clean, well-documented live Foley**  
 
 ---
 
 <h2 style="color: darkred;">Overview — What Is Being Recorded</h2>
 
-For this assignment, you will perform **live Foley** using **any objects or materials** to generate sound.
+For this assignment, you will perform a **live Foley** using **different objects and materials** to generate sound.
 
 Examples:
 - fabric, paper, plastic, metal  
 - footsteps, scraping, tapping, rubbing  
 - subtle textures and louder percussive sounds
 
-You will record **the same performance simultaneously** using:
-
+Equipment:
 - **3 audio recording devices**
 - **3 cameras**
 - **1–3 lights**
 
-Each device has a **specific role** in the recording setup.
+> Each device has a **specific role** in the recording setup.
 
 ---
 
 ## In-Class Reference Station
 
-During the second part of the lecture, the **professor will set up a complete Foley recording station** using all the equipment described above.  
-
-### What you should do:
+During the second part of the lecture, the **professor will set up a complete Foley recording station** using all the equipment described above. Follow these instructions to help you prepare for Thursday's production class.   
 
 - Take time to **carefully observe how everything is connected**
+- **Take clear photos** of the setup from multiple angles
 - Note:
   - microphone placement
   - cable routing
   - recorder settings
   - camera positions
   - lighting coverage
-- **Take clear photos** of the setup from multiple angles
-
-📌 *These photos are for your reference when setting up your own Foley recording outside of class.*
-
-Use this opportunity to:
-- ask technical questions
-- clarify signal flow
-- understand why each device is placed where it is
-
-📌 *Do not rush this step — good documentation now will save you time later.*
+- Ask technical questions
 
 ---
 
 <h2 style="color: darkred;">Audio Setup — Microphones & Recorders</h2>
 
-> 👉 Check [**Audio Equipment Reference**](../Audio.md){:target="_blank"}  
+> Check [**Audio Equipment Reference**](../Audio.md){:target="_blank"}  
 
 All audio devices must be **powered on, checked, and monitored before recording**.   
 
@@ -92,8 +70,8 @@ Capture **subtle, low-volume, detailed sounds** (texture, quiet movement, delica
 - Position the microphone:
   - **Directed toward the specific object** producing subtle sound  
   - At a **close but safe distance** (do not touch the object)
-
-> This microphone is **directional and sensitive**: it is your **detail mic**.
+- Keep **recording levels low** to capture subtle, detailed sounds while minimizing the recording of general ambient noise.
+  > This microphone is **directional and sensitive**: it is your **detail mic**.
 
 ---
 
@@ -110,8 +88,9 @@ Capture **medium to loud sounds** and provide **audio directly synced to video**
   - On a **tripod**
   - On the **opposite side** of the Sennheiser microphone
 - Aim the microphone toward the **general Foley action area**
-
-> This mic captures **directional sound with visual reference**. It will help your when syncing and reviewing actions later.
+- Keep **recording levels at a low level or low medium range** to capture both detailed and general sound.
+- Place the microphone on a camera that is closer to the specific element you want to capture in more detail.
+  > This mic captures **directional sound with visual reference**. It will help your when syncing and reviewing actions later.
 
 ---
 
@@ -127,8 +106,8 @@ Capture the **overall soundscape** of the Foley performance.
   - **Above the action**, angled **downward**
   - Centered to capture **general sound**
 - Use the **built-in microphones**
-
-> This recorder acts as your **room / ambient mic**, capturing how sounds blend together.
+- Keep **recording levels at low-medium or medium range** to capture general sound.
+  > This recorder acts as your **room / ambient mic**, capturing how sounds blend together.
 
 ---
 
@@ -136,14 +115,14 @@ Capture the **overall soundscape** of the Foley performance.
 
 When recording with both **ZOOM H4N Handheld**, adjust the **input levels carefully**.  
 
-- Keep levels **between 20–50**
+- Keep levels **between 10–50**
 - Make sure the signal **does not peak or clip** when **all sounds are playing together**
 - Watch the level meters while performing the **loudest Foley actions**
 - Use **headphones** to check sound quality and listen for **distortion**
   > Plug **one set of headphones into each ZOOM recorder**
 - If levels peak, **lower the input gain** and test again
 
-📌 *Always set levels based on the loudest moment — quieter sounds can be boosted later, clipped audio cannot be fixed.*
+❗ *Always set levels based on the loudest moment — quieter sounds can be boosted later, clipped audio cannot be fixed.*
 
 Do a **short test recording** and listen back with headphones before recording your final take.
 
@@ -154,16 +133,15 @@ Do a **short test recording** and listen back with headphones before recording y
 You will use **three cameras** to clearly document the live Foley. The goal is to **see all objects, gestures, and interactions** that produce sound.  
 
 Use the **lenses provided per station**.
-> 👉 Check [**Lenses Equipment Reference**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}
+> Check [**Lenses Equipment Reference**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}
 
 ---
 
 ### General Camera Setting
 
-📌 For any questions about camera settings, review the previous Tech Walkthroughs:  
-👉 [MEDIAART 2B06](../README.md)  
+For any questions about camera settings, review the previous Tech Walkthroughs: [MEDIAART 2B06](../README.md)   
 
-- Cameras **on Tripod**
+- All cameras **on Tripods**
 - Set the camera to **Video Mode**
 - Set the **Aspect Ratio** to **16:9**
 - Set the **Resolution** to **1920 × 1080**
@@ -194,6 +172,8 @@ Primary documentation of the Foley setup.
   - hands
   - movement
 
+---
+
 ### Camera B — Side / Wide Shot
 
 **Purpose:**  
@@ -204,6 +184,8 @@ Provide a **secondary perspective** that reveals spatial relationships and later
 - Positioned on **one side of the setup**
 - **Wide framing**
 - Angle may be adjusted to explore perspective, but **all sound-producing actions must remain visible**
+
+---
 
 ### Camera C — Back / Overhead Angle
 
@@ -243,7 +225,7 @@ Ensure **all performers, objects, and gestures are clearly visible** on camera.
   - Side
   - Back (as separation)
 
-📌 Lighting choices should prioritize **clear visibility** of the objects producing sound.  
+> Lighting choices should prioritize **clear visibility** of the objects producing sound.  
 
 ---
 
@@ -251,14 +233,12 @@ Ensure **all performers, objects, and gestures are clearly visible** on camera.
 
 Before pressing record, confirm:
 
-- ✅ All microphones are connected and powered  
-- ✅ Each recorder has **enough battery and storage**  
-- ✅ Audio levels are checked on **every device**  
-- ✅ Cameras are recording and framed correctly  
-- ✅ Lights are stable and not overheating  
-- ✅ Foley objects are prepared and reachable  
-
-📌 A clean setup leads to clean sound.
+- All microphones are connected and powered  
+- Each recorder has **enough battery and storage**  
+- Audio levels are checked on **every device**  
+- Cameras are recording and framed correctly  
+- Lights are stable and not overheating  
+- Foley objects are prepared and reachable  
 
 ________________________________________________________________________
 
