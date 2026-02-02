@@ -52,12 +52,53 @@ https://www.instagram.com/josh.harmon/
 
 <h3 id="planning" style="color: darkred;">1. Planning [before Thursday]</h3>
 
-> ❗ You must come prepare with your planning done and bringing the objects you will use for your live foley 
+> ❗ You must arrive prepared, with your planning completed and the objects you will use for your live Foley.  
 
+You will be given a **royalty-free clip from an old silent film**.  
+Before Thursday, your group must define your **creative and technical approach**, including **clear roles for each person**:
 
+- **Three students** performing live Foley sounds on set (each producing different sounds)
+- **One student** monitoring the cameras and sound recorders
 
+You must **practice both individually and collectively** before Thursday so that your group is ready to perform the scene **2–3 times efficiently** during the production session.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+You may use **any objects or instruments**, but **all sound must be produced live**.  
+> **No added sound is allowed in post-production.**  
+All objects or instruments used should be **created, assembled, or adapted by your group**.
+
+For inspiration, you may watch the example below to explore different approaches and objects commonly used in Foley work.
+
+### How This Woman Creates God of War’s Sound Effects | Obsessed | WIRED
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+---
+
+## Brainstorming Document
+
+Create a **planning document** outlining the **objects and/or instruments** you need to bring and the **specific sounds** you will create based on the provided video clip.  
+This document **does not have a fixed format**; use whatever structure helps your group plan clearly and effectively.
+
+You can use the questions below to guide your preparation:
+
+**Creative & Sound Design**
+- What types of sounds does the clip require (footsteps, fabric, impacts, ambience, textures)?
+- What objects or instruments can you use to re-create each of these sounds?
+- Will you buy and/or how will you create, modify, or adapt these objects?
+- Which sounds need to be subtle, and which need to be louder and more prominent?
+- How will you vary rhythm, timing, and intensity to match the on-screen action?
+- How will you avoid overlapping or masking each other’s sounds?
+
+**Roles & Technical Approach**
+- Who is responsible for each sound?
+- Who will get each of the objects or instruments you must bring?
+- Who is monitoring cameras and audio levels, and how will they communicate issues during recording?
+- How many times can your group realistically perform the scene without stopping?
+
+### Submission
+
+- ➡️ **Export as PDF**
+- 📄 **Filename:** `Group-#-Brainstorming.pdf`
 
 ---
 
