@@ -227,18 +227,6 @@ Ensure **all performers, objects, and gestures are clearly visible** on camera.
 
 > Lighting choices should prioritize **clear visibility** of the objects producing sound.  
 
----
-
-<h2 style="color: darkred;">Tech Check — Before Recording</h2>
-
-Before pressing record, confirm:
-
-- All microphones are connected and powered  
-- Each recorder has **enough battery and storage**  
-- Audio levels are checked on **every device**  
-- Cameras are recording and framed correctly  
-- Lights are stable and not overheating  
-- Foley objects are prepared and reachable  
 
 ________________________________________________________________________
 
