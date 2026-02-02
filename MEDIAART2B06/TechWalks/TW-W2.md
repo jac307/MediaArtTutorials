@@ -8,16 +8,12 @@
 ## Objective
 
 This technical walkthrough supports the **Chiaroscuro Interview (Pairs)** assignment.  
-The goal is to establish a **clear workflow** that prioritizes **light, framing, and sound clarity**.  
 
 ### By the end of this session, students should be able to:
-
 - Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
 - Set and maintain **manual mode**, applying **aperture, shutter speed, ISO, and camera placement** to maintain consistent exposure across a multi-camera setup
 - Set and maintain **manual white balance** for consistent color and skin tones across multiple cameras
-- Configure and record **audio** using different microphones   
-
-📌 *For Week 2, the emphasis is on lighting contrast, interview framing, and controlled environments.* 
+- Configure and record **audio** using **shot gun and lapel microphones**   
 
 ---
 
@@ -25,7 +21,7 @@ The goal is to establish a **clear workflow** that prioritizes **light, framing,
 
 ## 1. Backdrop / Background Setup
 
-📌 *The background should remain darker than the subject to support chiaroscuro.*
+❗ *Even without a black backdrop, you can still create a chiaroscuro scene by prioritizing strong contrasts between light and shadow across the frame. The background does not need to be completely black.*  
 
 ### Backdrop (If Available)
 - Place backdrop **1–1.5 meters behind the subject**
@@ -148,8 +144,6 @@ For this assignment, use **Manual Mode (M)**.
 </div>
 
 ### Aperture (f-number)
-
-📌 *Always adjust lighting first before compensating with camera settings.*
 
 - Start with a **wide aperture**, such as **f/2.8 – f/5**
 - A wider aperture lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
