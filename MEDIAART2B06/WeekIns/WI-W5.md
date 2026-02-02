@@ -70,7 +70,9 @@ For inspiration, you may watch the example below to explore different approaches
 
 ### How This Woman Creates God of War’s Sound Effects | Obsessed | WIRED
 
+<div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>   
 
 ---
 
@@ -104,11 +106,12 @@ You can use the questions below to guide your preparation:
 
 <h3 id="setup" style="color: darkred;">2. Group Organization & Setup [40m]</h3>
 
-You will be assigned to a **station group (10 students)**.
+You will be assigned to a **station (4 groups per station)**.
 
 Each group is responsible for:
 - Setting up cameras, lights, and audio **together**
-- Following the [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
+- Following the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}
+- Checking the photos and notes you recorded during lecture time
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
@@ -117,83 +120,103 @@ Station locations and group assignments will be:
 
 ---
 
-## Space Configurations
+## Space Configuration
 
-As a group, you will:
+As a larger group (all four groups sharing the station), you will:
 
-- Set up the **backdrop** (if available)
-- Position the **subject** (chair and seating placement)
-- Set up the **three-point lighting** arrangement
-- Establish clear **light–shadow contrast**
-- Position all **three cameras** (see below)
-- Connect and test **shotgun and lavalier microphones**
+- Define and set up a **main working area** to place all objects and instruments.  
+  You may be seated with a table in front of you, working on the floor, or using another configuration.  
+  Decide this **collectively**, ensuring that all groups are comfortable with the overall setup.
+
+- Set up the microphones by placing them on **mic stands** and connecting them to the **Zoom H4n recorders**, which should be mounted on **tripods**.  
+  You may reposition microphones as needed depending on each group’s performance.  
+  Follow the setup outlined in the **Tech Walkthrough**:
+
+  - **Audio Device 1 — Sennheiser Condenser (ME 80):**  
+    Capture **subtle, low-volume, detailed sounds**
+  - **Audio Device 2 — RØDE VideoMic NTG (On-Camera Shotgun):**  
+    Capture **medium to loud sounds** and provide **audio directly synced to video**
+  - **Audio Device 3 — Zoom H4n (Ambient / Overhead):**  
+    Capture the **overall soundscape** of the Foley performance
+
+- Set up **all three cameras on tripods**.  
+  Cameras may be repositioned depending on the needs of each group:
+
+  - **Camera A — Front / Wide Shot:**  
+    Primary documentation of the Foley setup
+  - **Camera B — Side / Wide Shot:**  
+    Provides a **secondary perspective** showing spatial relationships and lateral movement
+  - **Camera C — Back / Overhead Angle:**  
+    Captures a **top-down or upper-angle view** of the Foley performance
+
+- Set up lighting. You may use **one, two, or all three lights**.  
+  Each group may determine the **intensity and colour temperature** of the lights.
 
 ⚠️ *Handle all equipment with care, especially lighting gear.  
 Divide tasks evenly and support one another during setup.*
 
 ---
 
-## Camera Configuration
+## Camera Settings
 
-<img src="imgs/06.jpg" style="width: 100%; height: auto;"> 
+- All cameras **on tripods**
+- Set the camera to **Video Mode**
+- Set the **Aspect Ratio** to **16:9**
+- Set the **Resolution** to **1920 × 1080**
+- Set the **Frame Rate** to **30 fps**
+- Activate the **Grid**
+- Set the lens to **Manual Focus (MF)**
+- Set up **Custom White Balance**  
+  > Tip: Use a **balance card set** or a **white sheet of paper**
+- Use **Evaluative / Matrix Metering**
+- **Image Stabilization OFF**
+- Continue working in **Manual Mode (M)**  
+  > Each group may set its own **aperture, shutter speed, and ISO**
 
-### Camera A — Frontal View / Eye Level (Tripod)
-- Primary interview shot
-- Visual anchor for the sequence  
-- Lens: **Default kit lens**
-- Focus: **Manual**
-- Microphone: **RODE VideoMic NTG (on-camera shotgun)**
+---
 
-### Camera B — Side View / Eye Level (Tripod)
-- Positioned approximately **30–45°** from the subject
-- Emphasizes depth, facial structure, and chiaroscuro  
-- Lens: **50mm**
-- Focus: **Manual**
-- Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
+<h3 id="setup" style="color: darkred;">3. Station Check-In</h3>
 
-### Camera C — Detail Camera (Handheld)
-- Close-up details: hands, gestures, partial facial features
-- Allows subtle movement and visual variation
-- Lens: **85mm**
-- Focus: **Manual**
-
-> *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
-> *Always adjust lighting first before compensating with camera settings.*   
-> *Lighting and white balance must be finalized **before** recording begins.*
+Before moving on to the next stage, call the **TA or instructor assigned to your station**.  
+They will verify that everything has been **set up correctly** before you continue to the recording step.
 
 ---  
 
-<h3 id="recording" style="color: darkred;">3. Recording [2h]</h3>
+<h3 id="recording" style="color: darkred;">4. Recording [2h]</h3>
 
-Each pair records **two full takes**
-- Organize a clear recording order within your **group of 10**
-- Time per pair: **12 minutes**.
-- The group is responsible for **self-managing time** throughout the activity.
+Each group records **two to three full takes**.
 
-During recording, each pair **may adjust**:
-- **Framing of the Main Camera (Camera A)**
-- **Position and framing of the Side Camera (Camera B)**
-- **Framing and movement of the Handheld Camera (Camera C)**
-- **Lighting intensity** and **color temperature** (warmth)
-- **Aperture**, **Shutter Speed**, and **ISO**
+- Organize a clear recording order within your **station**
+- Time per group: **30 minutes**
+- Each group is responsible for **self-managing time** throughout the activity
 
-During recording, each pair **must NOT change**:
-- **White Balance**
-- **Position of the lights**
+While other groups are recording, **your group must remain in the space and support the recording group**.
+
+Before pressing record, confirm that:
+
+- All microphones are connected and powered  
+- Each recorder has **enough battery and storage**  
+- Audio levels are checked on **every device**  
+- Cameras are recording and framed correctly  
+- Lights are stable and not overheating  
+- Foley objects are prepared and within reach  
+
+> ❗ Each group (4 students) is **responsible** for the quality of its own recording.  
+> You must check **all camera and audio settings** before recording.
+
+---
 
 ### Recording & Syncing Footage
 
 - When ready:
   - Press **record on all cameras**
-  - Stand in front of the **subject** and perform a **single hand clap**
-  - Wait **2–3 seconds**, then the subject may begin speaking
+  - Perform a **single hand clap**
+  - Wait **2–3 seconds**, then begin speaking
 
-- **Do not stop recording** on any camera until the end of the take
-- Record the full interview as **one continuous clip** in all cameras
+- **Do not stop recording** on any camera until the end of the take  
+- Record the full live Foley performance as **one continuous clip** on all cameras and audio recording devices  
 
-- Repeat the same process for the **second take**
-
-> *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
+- Repeat the same process for the **second and third takes**
 
 ---  
 
@@ -202,6 +225,7 @@ During recording, each pair **must NOT change**:
 When all groups have finished:
 - Power off all equipment
 - Store cameras, lenses, lights, and audio gear **properly in their bags**
+  > Use the provided spreadsheet to place each piece of recording equipment in the correct bag, matching the equipment number.
 - Leave equipment at the station for the instructor to collect
 
 ⚠️ *Handle all equipment with care, especially lighting gear.  
@@ -213,9 +237,10 @@ Divide tasks evenly and support one another during wrap-up.*
 
 Check:  
 - **[W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**  
-- **[W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**     
+- **[W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**
+- **[W5 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Reaper
 
-Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.  
+Specifications:  
 
 - **Resolution:** 1920 × 1080  
 - Import footage from **all three cameras**
@@ -223,22 +248,13 @@ Edit your interview following the **same principles as Week 1**, with the additi
   *(Do this before trimming or sequencing clips)*
 - Use cuts to create visual rhythm
 - **Total duration:** 30 seconds
-- **Allowed transitions:**
-  - Jump cuts
-  - Fade in / fade out
-  - **Cross overs** (simple/subtle temporal overlap between still images)
+- **Allowed transition:** Jump cuts
 - Add Title and Credits
- 
-#### 🚫 Restrictions
-- No Music
-- No colour correction in Premiere Pro  
-- No visual effects or filters  
-- No animated motion effects  
-- All lighting, white balance, and contrast decisions must happen **during recording**
+- 🚫 No added Music or external (not live) sound effects
 
 Export video:
 - **Format:** 1920×1080, H.264, MP4
-- **Filename:** `Group-#-ChiaroscuroInterview.mp4`
+- **Filename:** `Group-#-LiveFoley.mp4`
 
 ---
 
@@ -253,7 +269,7 @@ Create a **one-page document** including:
 - **3/4-line artistic description**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-ChiaroscuroInterview.pdf`
+📄 **Filename:** `Group-#-LiveFoley.pdf`
 
 
 ---
@@ -263,8 +279,8 @@ Create a **one-page document** including:
 | Item                               | Required Filename                      |
 |------------------------------------|----------------------------------------|
 | Brainstorming PDF                  | `Group-#-Brainstorming.pdf`            |
-| Final Chiaroscuro Interview MP4    | `Group-#-ChiaroscuroInterview.mp4`     |
-| Project Description PDF            | `Group-#-ChiaroscuroInterview.pdf`     |
+| Final LiveFoley MP4                | `Group-#-LiveFoley.mp4`                |
+| Project Description PDF            | `Group-#-LiveFoley.pdf`                |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
