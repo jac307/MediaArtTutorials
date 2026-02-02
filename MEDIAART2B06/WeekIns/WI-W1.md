@@ -170,7 +170,7 @@ Follow the tutorials to:
 - A printed list with groups and room assignments will be placed **at the Computer Lab entrance**
 - Each group will work with an **assigned TA or the instructor** in a designated classroom
 
-⏰ **You must arrive at your assigned room at least 5 minutes before 4:00 PM**  
+❗ **You must arrive at your assigned room at least 5 minutes before 4:00 PM**  
 All students should be **ready to begin at 4:00 PM sharp**  
 
 #### **During the Analysis Session**
