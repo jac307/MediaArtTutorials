@@ -175,7 +175,7 @@ Divide tasks evenly and support one another during setup.*
 
 ---
 
-<h3 id="setup" style="color: darkred;">3. Station Check-In</h3>
+<h3 id="setup" style="color: darkred;">3. ❗ Station Check-In ❗</h3>
 
 Before moving on to the next stage, call the **TA or instructor assigned to your station**.  
 They will verify that everything has been **set up correctly** before you continue to the recording step.
