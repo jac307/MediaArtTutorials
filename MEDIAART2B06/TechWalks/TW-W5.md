@@ -174,19 +174,19 @@ For any questions about camera settings, review the previous Tech Walkthroughs: 
 
 <img src="imgs/72.png" style="width: 80%; height: auto;">  
 
-1. Camera A — Front / Wide Shot
+1. **Camera A — Front / Wide Shot**
   - Primary documentation of the Foley setup.  
   - Positioned **in front of the group**
   - **Wide framing**
   - Shows: performers, objects, hands, movement
 
-2. Camera B — Side / Wide Shot
+2. **Camera B — Side / Wide Shot**
   - Provide a **secondary perspective** that reveals spatial relationships and lateral movement.
   - Positioned on **one side of the setup**
   - **Wide framing**
   - Angle may be adjusted to explore perspective, but **all sound-producing actions must remain visible**
 
-3. Camera C — Back / Overhead Angle
+3. **Camera C — Back / Overhead Angle**
   - Capture a **top-down or upper-to-down view** of the Foley performance.
   - Positioned **from the back**, angled **from above**
   - **Wide framing**
