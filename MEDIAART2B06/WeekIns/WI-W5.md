@@ -258,38 +258,56 @@ Divide tasks evenly and support one another during wrap-up.*
 Check:  
 - **[W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**  
 - **[W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**
-- **[W5 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Reaper
+- **[W5 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Reaper**
 
-Specifications:  
+### Specifications for Premiere Pro
 
-- **Resolution:** 1920 × 1080  
+- **Sequence Resolution:** 1920 × 1080  
 - Import footage from **all three cameras**
-- **Synchronize the audio and image from all three cameras**  
-  *(Do this before trimming or sequencing clips)*
-- Use cuts to create visual rhythm
+- **Synchronize the audio from all three cameras** so you can begin editing your sequence  
+  > Keep **only the audio from the camera** that recorded sound with the **shotgun microphone**  
+  > *At this stage, use **shotgun camera audio only**. You will complete final audio work in Reaper.*
+- Use **cuts** to create visual rhythm
 - **Total duration:** 30 seconds
-- **Allowed transition:** Jump cuts
-- Add Title and Credits
-- 🚫 No added Music or external (not live) sound effects
+- **Allowed transition:** Jump cuts only
+- Use **picture-in-picture** to add the video footage from the clip you are sonorizing.
+  > This inset video should be placed in **one of the corners** of the frame (top-left, top-right, bottom-left, or bottom-right).
+- Add **Title** and **Credits**
 
-Export video:
-- **Format:** 1920×1080, H.264, MP4
-- **Filename:** `Group-#-LiveFoley.mp4`
+### Specifications for Reaper
+
+- Follow the tutorials to **import your edited video** into Reaper
+- Import and **synchronize the audio** from the video with the **two additional audio recordings** from the **Zoom H4n recorders**
+- Adjust audio levels so that **all sounds are clearly audible**  
+  > No sound should be **overwhelming** or **disproportionately louder or quieter** than the others
+- Follow the tutorials to **normalize audio and set an appropriate dynamic range**, ensuring the work clearly conveys its multiple sonic layers
+- Check final **export levels**, then **export your final video from Reaper**
+- 🚫 **No added music or external (non-live) sound effects**
+
+### Submission
+
+- ➡️ **Export as MP4, codec 264**
+- 📄 **Filename:** `Group-#-LiveFoley.mp4`
 
 ---
 
 ### Project Info PDF
 
-Create a **one-page document** including:
+Create a **one–two page document** including:
 
 - **One representative still image**
-- Title
-- Year
-- Authors
-- **3/4-line artistic description**
+- **Title**
+- **Year**
+- **Authors**
+- **Live Foley Approach (2–3 sentences):**  
+  > Briefly describe your overall approach to live Foley for this project (e.g., performance strategy, coordination, sound priorities, or relationship between image and sound).
+- **Objects & Sound List:**  
+  > A short list of the **objects and/or instruments used**, clearly indicating **which sound each object produced** and **how it was performed** (e.g., action, gesture, pressure, rhythm).
 
-➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-LiveFoley.pdf`
+### Submission
+
+- ➡️ **Export as PDF**  
+- 📄 **Filename:** `Group-#-LiveFoley.pdf`
 
 
 ---
@@ -303,26 +321,6 @@ Create a **one-page document** including:
 | Project Description PDF            | `Group-#-LiveFoley.pdf`                |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
-
----
-
-## Assessment Notes
-
-- This is a **learning-focused assignment**
-- Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
-- Risk-taking and experimentation are encouraged within the assignment constraints
-
-For an **A+**, the work should demonstrate:
-
-- **Strong and intentional composition**, framing, and camera placement across all shots  
-- **Effective use of chiaroscuro lighting**, showing control over contrast, shadow, and light direction  
-- **Clear visual and conceptual coherence**, with lighting choices supporting the interview’s tone or presence  
-- **High-quality audio**, with clean sound and successful synchronization across cameras  
-- **Thoughtful editing**, including pacing, shot selection, and transitions that enhance clarity and rhythm  
-- **Originality and artistry**
-
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
 
 ________________________________________________________________________
 
