@@ -300,26 +300,6 @@ Create a **one-page document** including:
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
----
-
-## Assessment Notes
-
-- This is a **learning-focused assignment**
-- Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
-- Risk-taking and experimentation are encouraged within the assignment constraints
-
-For an **A+**, the work should demonstrate:
-
-- **Strong and intentional composition**, framing, and camera placement across all shots  
-- **Effective use of chiaroscuro lighting**, showing control over contrast, shadow, and light direction  
-- **Clear visual and conceptual coherence**, with lighting choices supporting the interview’s tone or presence  
-- **High-quality audio**, with clean sound and successful synchronization across cameras  
-- **Thoughtful editing**, including pacing, shot selection, and transitions that enhance clarity and rhythm  
-- **Originality and artistry**
-
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
-
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
