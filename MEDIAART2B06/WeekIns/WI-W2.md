@@ -54,7 +54,7 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#idea">1. Interview Prompt - Idea Phase</a></li> - **Complete before class**
+  <li><a href="#idea">1. Interview Prompt - Idea Phase</a> - Complete before class</li> 
   <li><a href="#setup">2. Group Organization & Setup</a></li>
   <li><a href="#recording">3. Recording</a></li>
   <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
@@ -138,9 +138,17 @@ Use the PDF worksheet below to help you decide:
 
 You will be assigned to a **station group (10 students)**.
 
-Each group is responsible for:
+All equipment required for each station will be **pre-arranged in the designated space**.  
+Each station will also include a **printed spreadsheet listing all equipment assigned to that station**.
+
+Before beginning setup, your station group **must**:
+- Locate all equipment listed on the spreadsheet
+- **Double-check that every item is present**
+- Write down the **equipment number** for each item you receive
+
+Each group is then responsible for:
 - Setting up cameras, lights, and audio **together**
-- Following the [W2 - Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
+- Following the [W2 – Tech Walkthrough](../TechWalks/TW-W2.md){:target="_blank"}
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
@@ -154,7 +162,8 @@ Station locations and group assignments will be:
 As a group, you will:
 
 - Set up the **backdrop** (if available)
-- Position the **subject** (chair and seating placement)
+  > *Even without a black backdrop, you can still create a chiaroscuro scene by prioritizing strong contrasts between light and shadow across the frame. The background does not need to be completely black.*  
+- Position the **subject** (seating placement or stading)
 - Set up the **three-point lighting** arrangement
 - Establish clear **light–shadow contrast**
 - Position all **three cameras** (see below)
@@ -178,7 +187,7 @@ Divide tasks evenly and support one another during setup.*
 
 ### Camera B — Side View / Eye Level (Tripod)
 - Positioned approximately **30–45°** from the subject
-- Emphasizes depth, facial structure, and chiaroscuro  
+- Emphasizes depth and facial structure  
 - Lens: **50mm**
 - Focus: **Manual**
 - Microphone: **RØDE Wireless GO II** *or* **Audio-Technica AT899 Lavalier**
@@ -190,8 +199,7 @@ Divide tasks evenly and support one another during setup.*
 - Focus: **Manual**
 
 > *All cameras must follow the settings outlined in the **Week 2 Tech Walkthrough**.*  
-> *Always adjust lighting first before compensating with camera settings.*   
-> *Lighting and white balance must be finalized **before** recording begins.*
+> *Lighting and white balance must be finalized **before** recording begins.*   
 
 ---  
 
@@ -215,17 +223,13 @@ During recording, each pair **must NOT change**:
 
 ### Recording & Syncing Footage
 
-- When ready:
-  - Press **record on all cameras**
-  - Stand in front of the **subject** and perform a **single hand clap**
-  - Wait **2–3 seconds**, then the subject may begin speaking
-
+- Press **record on all cameras**
+- Stand in front of the **subject** and perform a **single loud hand clap**
+  > *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
+- Wait **2–3 seconds**, then the subject may begin speaking
 - **Do not stop recording** on any camera until the end of the take
 - Record the full interview as **one continuous clip** in all cameras
-
 - Repeat the same process for the **second take**
-
-> *The hand clap creates a clear visual and audio sync point, making it easier to synchronize footage from all cameras during editing.*
 
 ---  
 
@@ -233,8 +237,11 @@ During recording, each pair **must NOT change**:
 
 When all groups have finished:
 - Power off all equipment
-- Store cameras, lenses, lights, and audio gear **properly in their bags**
-- Leave equipment at the station for the instructor to collect
+- Use the **equipment list provided at your station** to **confirm that all items are present**
+- Store cameras, lenses, lights, and audio gear **properly in their assigned bags**
+  > For each piece of equipment, ensure that **all associated components** are returned to the **correct numbered bag**
+  > All components (e.g., batteries, SD cards, cables, mounts, adapters) are engraved or labeled with the same equipment number
+- Leave all equipment at the station for the instructor to collect
 
 ⚠️ *Handle all equipment with care, especially lighting gear.  
 Divide tasks evenly and support one another during wrap-up.*
@@ -247,8 +254,7 @@ Check:
 - **[W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**  
 - **[W2 - Tutorials](../Tutorials/index.html?file=T-W2.json){:target="_blank"} - Importing Camera Footage & Multi-Camera Editing in Premiere Pro**     
 
-Edit your interview following the **same principles as Week 1**, with the addition of multi-camera footage.  
-
+General information:  
 - **Resolution:** 1920 × 1080  
 - Import footage from **all three cameras**
 - **Synchronize the audio and image from all three cameras**  
@@ -268,9 +274,10 @@ Edit your interview following the **same principles as Week 1**, with the additi
 - No animated motion effects  
 - All lighting, white balance, and contrast decisions must happen **during recording**
 
-Export video:
-- **Format:** 1920×1080, H.264, MP4
-- **Filename:** `Group-#-ChiaroscuroInterview.mp4`
+### Submission
+
+- ➡️ **Export as MP4, codec H.264**
+- 📄 **Filename:** `Group-#-ChiaroscuroInterview.mp4`
 
 ---
 
@@ -284,8 +291,10 @@ Create a **one-page document** including:
 - Authors
 - **3/4-line artistic description**
 
-➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-ChiaroscuroInterview.pdf`
+### Submission  
+
+- ➡️ **Export as PDF**  
+- 📄 **Filename:** `Group-#-ChiaroscuroInterview.pdf`
 
 
 ---
