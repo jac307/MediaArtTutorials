@@ -92,6 +92,6 @@ ________________________________________________________________________
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-AI tools (Microsoft CoPilot and ChatGPT) is be used for AI tools (Microsoft CoPilot and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
+AI Disclosure: AI tools (Microsoft Copilot and ChatGPT) were used for editing and clarity only. No original course content was generated using AI.
 
 
