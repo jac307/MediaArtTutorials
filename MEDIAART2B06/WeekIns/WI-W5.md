@@ -33,12 +33,12 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Examples  
 
-Live Foleys by **Josh Harmon**
-→ Popular content creator and musician known for his viral sound effects videos, where he uses drums and other instruments to recreate cartoon and cinematic sounds.  
+Live Foleys by **Josh Harmon**  
+→ Popular content creator and musician known for his viral sound effects videos, where he uses drums and other instruments to recreate cartoon and cinematic sounds.   
 🌐 [Instagram](https://www.instagram.com/josh.harmon/){:target="_blank"}    
 
-**Live Foley Example** by Paul Graves  
-→ Live Foley example for theatre: a live human performance where sound effects are created and performed in real time.
+**Live Foley Example** by Paul Graves    
+→ Live Foley example for theatre: a live human performance where sound effects are created and performed in real time.  
 ▶️ [Video](https://www.youtube.com/watch?v=Qpr1tY-XKMs){:target="_blank"}    
 
 ---
