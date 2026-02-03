@@ -11,7 +11,7 @@
   </figcaption>
 </figure>   
 
---
+---
 
 For this assignment, you will create a **30-second live Foley performance** using **multiple cameras and audio recording devices**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
 
