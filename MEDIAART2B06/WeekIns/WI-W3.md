@@ -10,8 +10,6 @@ In groups of 3 students, you will create a **30-second static outdoor video** th
 
 The focus of this exercise is on **intentional framing, lens choice, exposure consistency, and ambient sound**, not narrative action or editing complexity.
 
-📌 *This assignment is recorded during a shared double-production session (Week 4). All recording must be completed during class time.*
-
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
 
@@ -71,7 +69,6 @@ Each group will be **randomly assigned one available lens**: **24mm**, **35mm**,
 Use this planning time to:
 - imagine where the camera would be placed  
 - consider how the assigned **lens** will shape the space  
-- anticipate how **time and duration** will register in the image
 
 > *The camera will remain still — all visual change must come from within the frame, not from camera movement.*   
 
@@ -109,7 +106,7 @@ Follow [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
 
 - Record audio **separately** using a **ZOOM H4N Handheld**
 - One person in the group must be responsible for audio recording
-- Use a **hand clap at the beginning** of each take for sync
+- Use a **hand clap at the beginning** for syncing
 - The Zoom may be held steadily, placed on the ground, or moved carefully to capture environmental sound    
 - Do **not** tap the recorder during recording
 
@@ -135,7 +132,7 @@ Follow [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
 - **Simple fade-in (beginning) and fade-out (end) only**
 - **Audio must come from the Zoom recording**
   > You may adjust audio levels
-- Perform **color correction**
+- Perform **colour correction**
   - Restore contrast  
   - Reduce winter flatness
 - Very **subtle colour grading** is allowed
@@ -147,6 +144,11 @@ Follow [W3 — Tech Walkthrough](../TechWalks/TW-W3.md){:target="_blank"}
 
 🚫 No visual effects   
 🚫 No music  
+
+### Submission
+
+- ➡️ **Export as PDF**
+- 📄 **Filename:** `Group-#-StaticOutdoorScene.mp4`
 
 ---
 
@@ -171,10 +173,12 @@ Create a **one/two-page document** including:
 - **Location**
 - **3–4 line description explaining why this location was chosen**, considering spatial depth, duration, and environmental change
 - **Technical information:** Aperture, Shutter Speed, ISO, Lens used
-- **Brief note on color correction/grading:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
+- **Brief note on colour correction/grading:** 1–2 sentences describing what was adjusted in Premiere (e.g., contrast, exposure, temperature) and why
 
-➡️ **Export as PDF**  
-📄 **Filename:** `Group-#-StaticOutdoorScene.pdf`
+### Submission
+
+- ➡️ **Export as PDF**  
+- 📄 **Filename:** `Group-#-StaticOutdoorScene.pdf`
 
 
 ---
