@@ -187,23 +187,6 @@ Create a **one/two-page document** including:
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
----
-
-## Assessment Notes
-
-- This is a **learning-focused assignment**
-- Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
-- Risk-taking and experimentation are encouraged **within the assignment constraints**
-
-For an **A+**, the work should demonstrate:
-
-- **Clear first-person point of view**, with intentional framing while moving  
-- **Strong awareness of spatial transition**, especially outdoor-to-indoor light shifts with thoughtful exposure decisions made before recording and accepted during movement  
-- **Disciplined post-production**, using color correction and keyframes to respond to changes over time  
-
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all planning, recording, and in-class editing activities.
-
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
