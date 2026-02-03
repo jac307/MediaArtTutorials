@@ -170,51 +170,28 @@ For any questions about camera settings, review the previous Tech Walkthroughs: 
 
 ---
 
-### Camera A — Front / Wide Shot
+### Camera Positions
 
-**Purpose:**  
-Primary documentation of the Foley setup.
+<img src="imgs/72.png" style="width: 80%; height: auto;">  
 
-**Placement:**
+1. Camera A — Front / Wide Shot
+  - Primary documentation of the Foley setup.  
+  - Positioned **in front of the group**
+  - **Wide framing**
+  - Shows: performers, objects, hands, movement
 
-- Positioned **in front of the group**
-- **Wide framing**
-- Shows:
-  - performers
-  - objects
-  - hands
-  - movement
+2. Camera B — Side / Wide Shot
+  - Provide a **secondary perspective** that reveals spatial relationships and lateral movement.
+  - Positioned on **one side of the setup**
+  - **Wide framing**
+  - Angle may be adjusted to explore perspective, but **all sound-producing actions must remain visible**
 
----
-
-### Camera B — Side / Wide Shot
-
-**Purpose:**  
-Provide a **secondary perspective** that reveals spatial relationships and lateral movement.
-
-**Placement:**
-
-- Positioned on **one side of the setup**
-- **Wide framing**
-- Angle may be adjusted to explore perspective, but **all sound-producing actions must remain visible**
-
----
-
-### Camera C — Back / Overhead Angle
-
-**Purpose:**  
-Capture a **top-down or upper-to-down view** of the Foley performance.
-
-**Placement:**
-
-- Positioned **from the back**, angled **from above**
-- **Wide framing**
-- Clearly shows:
-  - object placement
-  - hand movement
-  - spatial organization of the setup
-
-> This camera helps document **how sounds are physically produced**, not just who is producing them.
+3. Camera C — Back / Overhead Angle
+  - Capture a **top-down or upper-to-down view** of the Foley performance.
+  - Positioned **from the back**, angled **from above**
+  - **Wide framing**
+  - Shows: objects, placement, hand movement, spatial organization of the setup
+  - This camera helps document **how sounds are physically produced**, not just who is producing them.
 
 ---
 
