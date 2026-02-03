@@ -172,7 +172,7 @@ For any questions about camera settings, review the previous Tech Walkthroughs: 
 
 ### Camera Positions
 
-<img src="imgs/72.png" style="width: 80%; height: auto;">  
+<img src="imgs/72.png" style="width: 100%; height: auto;">  
 
 1. **Camera A — Front / Wide Shot**
   - Primary documentation of the Foley setup.  
