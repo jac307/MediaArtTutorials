@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">Live Foley (Groups of 4)</h1>  
 
-<img src="imgs/07.jpg" style="width: 100%; height: auto;">  
+<img src="imgs/09.png" style="width: 100%; height: auto;">  
 
 In groups of 4 students, you will create a **30-second live Foley performance** using **multiple camera and audio recording stations**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
 
