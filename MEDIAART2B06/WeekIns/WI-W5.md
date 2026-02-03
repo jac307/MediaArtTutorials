@@ -30,7 +30,7 @@ You are expected to work actively during class time and participate in all in-cl
 - **Audio:** Recorded separately using **multiple Zoom H4n handheld recorders and microphones**  
 - **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
 - **Collaboration:**  
-  - **3 groups per station** for technical setup and support  
+  - **4 groups per station** for technical setup and support  
   - **Submit in groups of 4 students** (each group submits their own project)
 
 ## Examples  
