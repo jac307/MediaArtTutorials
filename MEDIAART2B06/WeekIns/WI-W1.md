@@ -89,14 +89,14 @@ During this phase, you will photograph your sequence on campus, applying the tec
 Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity.     
 
 **Notes to keep in mind:**  
-- Set your aperture first. Start with ISO 100. If the camera selects a shutter speed that is too slow for a stable image, gradually increase the ISO (maximum ISO 800).
+- Set your aperture first. Start with ISO 100. If the camera selects a shutter speed that is too slow for a stable image, gradually increase the ISO.
 - In Aperture Priority (Av) mode, the camera automatically sets the shutter speed based on your aperture choice and the lighting conditions.
 - A wider aperture (lower f-number) results in a faster shutter speed, while darker lighting conditions result in a slower shutter speed.  
 
 ### Photographing Requirements
 
 - **Camera Mode:** - Aperture Priority (Av)
-  > Photographs are captured **in colour** and converted to **black and white** in post-production 
+- Photographs are captured **in colour** and converted to **black and white** in post-production 
 - All photographs must be completed **during class time**
 - Images must be **static stills** (no video or motion capture)
 - Shoot in landscape  
@@ -131,10 +131,13 @@ After shooting (and before the next step), prepare a contact-sheet style PDF of 
 - **Orientation:** Landscape
 - Arrange images in a **2 × 4 grid per page**
 - Use: PowerPoint, Word, Canva, Pages, or Keynote
-- Export as **PDF**
-- 📄 **Filename:** `Name-Lastname-Photos.pdf`
 
 <img src="imgs/04.png" style="width: 50%; height: auto;">  
+
+### Submission
+
+- ➡️ **Export as PDF**
+- 📄 **Filename:** `Name-Lastname-Photos.pdf`
 
 ---  
 
