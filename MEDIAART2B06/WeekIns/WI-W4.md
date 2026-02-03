@@ -8,9 +8,7 @@
 
 In this assignment, you will create a **30-second continuous handheld video** recorded from a **first-person point of view**, moving from an **outdoor space to an indoor space** in a single, uninterrupted shot.
 
-The focus of this exercise is on **movement, exposure anticipation, spatial transition, perceptual decision-making, and responsive color correction**, not narrative development or stylistic editing.
-
-📌 *This assignment is recorded during a shared double-production session with Week 3. All recording must be completed during class time.*    
+The focus of this exercise is on **movement, exposure anticipation, and spatial transition**, not narrative development of perfect lighting. The goal is for you to **rely more in post-production processes** so you practice **advance colour correction**.      
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -68,7 +66,9 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h3 id="planning" style="color: darkred;">1. Planning [15m]</h3>
 
-Before recording, your group (from Week 3) must **select one shared route** that moves from **outdoors to indoors** within approximately **30 seconds** at a normal walking pace.
+Before recording, your group (from Week 3) must **select one shared route** that moves from **outdoors to indoors** within approximately **30 seconds** at a normal walking pace.  
+
+> *Even though the route is shared, each recording should feel distinct through framing, attention, and movement.*
 
 - Choose a location near a **door or clear transition point**
 - Avoid routes that include **stairs**
@@ -84,15 +84,13 @@ Individually:
 - Think about how **light will change** during the transition
 - Perspective: **First-person point of view**
 
-📌 *Even though the route is shared, each recording should feel distinct through framing, attention, and movement.*
-
 ---
 
 <h3 id="setup" style="color: darkred;">2. Recording [40m]</h3>
 
 ### Camera Setup
 
-Follow the 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
+Follow [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
 
 - **Handheld camera**
 - **Manual Mode (M)**
@@ -103,11 +101,11 @@ Follow the 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank
 - **Image Stabilization ON**
 - **Custom White Balance**
 - **Exposure set before recording and locked**
-  > Set aperture, shutter speed, ISO, and exposure compensation **before recording**.  
-  > Do **not** change any exposure settings during the shot.
+  > Anticipate changes in lighting contrast and set your **aperture, shutter speed, ISO, and exposure** so they work **generally well across the entire scene**.
+  > Use the **histogram** to evaluate exposure in both spaces (outdoors and indoors)
+  > ❗ **Exposure changes are expected**. Do not attempt to correct them during recording. You will work with advance colour correction during Post-Production
 - Save the following camera parameters for your submission (write them down):  
   **Aperture, Shutter Speed, ISO**
-- Use the **histogram** to evaluate exposure before recording
 - Audio: **camera’s built-in microphone**
   > Avoid touching or covering the microphone
 
@@ -121,9 +119,7 @@ Follow the 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank
 - Walk at a **normal, steady pace**
 - Classmates may help:
   - open doors
-  - clear the path
-
-📌 *Exposure changes are expected. Do not attempt to correct them during recording.*   
+  - clear the path 
 
 ---
 
@@ -138,9 +134,8 @@ Follow the 👉 [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank
 - **No speed changes**
   - Do **not** slow down or speed up footage
 - **Simple fade-in (beginning) and fade-out (end) only**
-- Use **the audio from the H4N Recorder**
+- Use **the original sound from the camera**
   > You may adjust audio levels   
-  > Use your original camera audio to synchronize
 - Perform **color correction only**
   - Address exposure imbalance caused by lighting transition
   - Maintain a natural look
