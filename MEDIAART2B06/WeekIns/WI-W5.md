@@ -11,6 +11,8 @@
   </figcaption>
 </figure>   
 
+--
+
 For this assignment, you will create a **30-second live Foley performance** using **multiple cameras and audio recording devices**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
 
 During **post-production**, the goal is to work with **Premiere Pro and Reaper** to professionally edit **multiple camera angles and microphone recordings** into a single dynamic audiovisual piece. You will use **picture-in-picture** to visualize the provided video clip corresponding to your live Foley performance.
@@ -67,7 +69,7 @@ Live Foleys by **Josh Harmon**
 
 You will be given a **royalty-free clip from an old silent film**.
 
-- The videos are early silent films by **:contentReference[oaicite:0]{index=0}**, sourced from the
+- The videos are early silent films by **Georges Méliès**, sourced from the
   [Internet Archive](https://archive.org/search?query=director%3A%22Georges+M%C3%A9li%C3%A8s%22){:target="_blank"}
 - All available clips for this assignment can be found
   [here (Dropbox)](https://www.dropbox.com/scl/fo/nbocr6j3ko45enkiak1ns/AOGA2SXUiYmcv3wzPLdKnF4?rlkey=79rzy7d5isz5zg0ez85371yzw&dl=0){:target="_blank"}
@@ -91,8 +93,6 @@ You may use **any objects or instruments**, but **all sound must be produced liv
 All objects or instruments used should be **created, assembled, or adapted by your group**.
 
 For inspiration, you may watch the example below to explore different approaches and objects commonly used in Foley work.
-
-### How This Woman Creates God of War’s Sound Effects | Obsessed | WIRED
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -130,12 +130,19 @@ You can use the questions below to guide your preparation:
 
 <h3 id="setup" style="color: darkred;">2. Group Organization & Setup [40m]</h3>
 
-You will be assigned to a **station (4 groups per station)**.
+You will be assigned to a **station (4 groups per station)**.  
+
+All equipment required for each station will be **pre-arranged in the designated space**.  
+Each station will also include a **printed spreadsheet listing all equipment assigned to that station**.
+
+Before beginning setup, your station group **must**:
+- Locate all equipment listed on the spreadsheet
+- **Double-check that every item is present**
+- Write down the **equipment number** for each item you receive
 
 Each group is responsible for:
-- Setting up cameras, lights, and audio **together**
-- Following the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}
-- Checking the photos and notes you recorded during lecture time
+- Setting up cameras, lights, and audio **together** following the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}
+> Checking the photos and notes you recorded during lecture time
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
@@ -145,8 +152,6 @@ Station locations and group assignments will be:
 ---
 
 ## Space Configuration
-
-As a larger group (all four groups sharing the station), you will:
 
 - Define and set up a **main working area** to place all objects and instruments.  
   You may be seated with a table in front of you, working on the floor, or using another configuration.  
