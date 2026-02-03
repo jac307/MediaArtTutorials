@@ -51,11 +51,11 @@ Live Foleys by **Josh Harmon**
 <ul>
   <li><a href="#idea">1. Planning</a></li> - **Complete before class**
   <li><a href="#setup">2. Group Organization & Setup</a></li>
-  <li><a href="#recording">3. Recording</a></li>
-  <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
-  <li><a href="#premiere">5. Post-Production: Assemble in Premiere Pro</a></li>
-</ul>
-
+  <li><a href="#recording">3. ❗ Station Check-In ❗</a></li>
+  <li><a href="#recording">4. Recording</a></li>
+  <li><a href="#wrap-up">5. Equipment Wrap-Up</a></li>
+  <li><a href="#premiere">6. Post-Production: Assemble in Premiere Pro</a></li>
+</ul>  
 
 ---
 
@@ -151,35 +151,26 @@ Station locations and group assignments will be:
 
 ---
 
-## Space Configuration
+## Space Configuration  
+
+Follow the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"} to set up your station.   
 
 - Define and set up a **main working area** to place all objects and instruments.  
   You may be seated with a table in front of you, working on the floor, or using another configuration.  
   Decide this **collectively**, ensuring that all groups are comfortable with the overall setup.
 
-- Set up the microphones by placing them on **mic stands** and connecting them to the **Zoom H4n recorders**, which should be mounted on **tripods**.  
-  You may reposition microphones as needed depending on each group’s performance.  
-  Follow the setup outlined in the **Tech Walkthrough**:
+- **Set up audio** using mic stands and **Zoom H4n recorders on tripods**, following the **Tech Walkthrough**.  
+  You may reposition microphones as needed for each group’s performance.
 
-  - **Audio Device 1 — Sennheiser Condenser (ME 80):**  
-    Capture **subtle, low-volume, detailed sounds**
-  - **Audio Device 2 — RØDE VideoMic NTG (On-Camera Shotgun):**  
-    Capture **medium to loud sounds** and provide **audio directly synced to video**
-  - **Audio Device 3 — Zoom H4n (Ambient / Overhead):**  
-    Capture the **overall soundscape** of the Foley performance
+- **Set up three cameras on tripods** and adjust positions as needed:
+  - Front / wide
+  - Side / wide
+  - Back or overhead angle
 
-- Set up **all three cameras on tripods**.  
-  Cameras may be repositioned depending on the needs of each group:
+- **Set up lighting** using one, two, or all three lights.  
+  Each group may adjust **intensity and colour temperature** as needed.
 
-  - **Camera A — Front / Wide Shot:**  
-    Primary documentation of the Foley setup
-  - **Camera B — Side / Wide Shot:**  
-    Provides a **secondary perspective** showing spatial relationships and lateral movement
-  - **Camera C — Back / Overhead Angle:**  
-    Captures a **top-down or upper-angle view** of the Foley performance
-
-- Set up lighting. You may use **one, two, or all three lights**.  
-  Each group may determine the **intensity and colour temperature** of the lights.
+- Set the video monitor so you all can see the video while you do the live foley.     
 
 ⚠️ *Handle all equipment with care, especially lighting gear.  
 Divide tasks evenly and support one another during setup.*
@@ -218,8 +209,9 @@ Each group records **two to three full takes**.
 - Organize a clear recording order within your **station**
 - Time per group: **30 minutes**
 - Each group is responsible for **self-managing time** throughout the activity
+- ❗ Each group (4 students) is **responsible** for the quality of its own recording.  
 
-While other groups are recording, **your group must remain in the space and support the recording group**.
+While other groups are recording, **your group must remain in the space and support the recording group**.   
 
 Before pressing record, confirm that:
 
@@ -230,16 +222,13 @@ Before pressing record, confirm that:
 - Lights are stable and not overheating  
 - Foley objects are prepared and within reach  
 
-> ❗ Each group (4 students) is **responsible** for the quality of its own recording.  
-> You must check **all camera and audio settings** before recording.
-
 ---
 
 ### Recording & Syncing Footage
 
 - When ready:
   - Press **record on all cameras**
-  - Perform a **single hand clap**
+  - Perform a **single loud hand clap**
   - Wait **2–3 seconds**, then begin speaking
 
 - **Do not stop recording** on any camera until the end of the take  
@@ -253,9 +242,11 @@ Before pressing record, confirm that:
 
 When all groups have finished:
 - Power off all equipment
-- Store cameras, lenses, lights, and audio gear **properly in their bags**
-  > Use the provided spreadsheet to place each piece of recording equipment in the correct bag, matching the equipment number.
-- Leave equipment at the station for the instructor to collect
+- Use the **equipment list provided at your station** to **confirm that all items are present**
+- Store cameras, lenses, lights, and audio gear **properly in their assigned bags**
+  > For each piece of equipment, ensure that **all associated components** are returned to the **correct numbered bag**
+  > All components (e.g., batteries, SD cards, cables, mounts, adapters) are engraved or labeled with the same equipment number
+- Leave all equipment at the station for the instructor to collect  
 
 ⚠️ *Handle all equipment with care, especially lighting gear.  
 Divide tasks evenly and support one another during wrap-up.*
