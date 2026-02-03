@@ -4,11 +4,16 @@
 
 <h1 style="color: darkred;">Live Foley (Groups of 4)</h1>  
 
-<img src="imgs/09.png" style="width: 100%; height: auto;">  
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/09.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Screenshots from live Foley performances by content creator and musician Josh Harmon
+  </figcaption>
+</figure>
 
-In groups of 4 students, you will create a **30-second live Foley performance** using **multiple camera and audio recording stations**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
+For this assignment, you will create a **30-second live Foley performance** using **multiple cameras and audio recording devices**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
 
-During **post-production**, the goal is to work with **Premiere Pro and Reaper** to professionally edit **multiple cameras and microphones** together, using **picture-in-picture** to visualize the video snippet (provided scene) that corresponds to your live foley.    
+During **post-production**, the goal is to work with **Premiere Pro and Reaper** to professionally edit **multiple camera angles and microphone recordings** into a single dynamic audiovisual piece. You will use **picture-in-picture** to visualize the provided video clip corresponding to your live Foley performance.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -18,9 +23,8 @@ You are expected to work actively during class time and participate in all in-cl
 ## Project Overview
 
 - **Format:** 30-second multi-camera video  
-- **Cameras:** Tripod only (no camera movement)  
+- **Cameras:** Manual (M) Mode / Video / Three-camera setup / Cameras on tripod
 - **Lenses:** Use available lenses at your discretion  
-- **Exposure:** Manual Mode (M), **locked for the entire shot**  
 - **Audio:** Recorded separately using **multiple Zoom H4n handheld recorders and microphones**  
 - **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
 - **Collaboration:**  
@@ -29,10 +33,13 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## Examples  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qpr1tY-XKMs?si=mS6Q9ykaHRkH1Ejq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Live Foleys by **Josh Harmon**
+→ Popular content creator and musician known for his viral sound effects videos, where he uses drums and other instruments to recreate cartoon and cinematic sounds.  
+🌐 [Instagram](https://www.instagram.com/josh.harmon/){:target="_blank"}    
 
-Josh Harmon
-https://www.instagram.com/josh.harmon/
+**Live Foley Example** by Paul Graves  
+→ Live Foley example for theatre: a live human performance where sound effects are created and performed in real time.
+▶️ [Video](https://www.youtube.com/watch?v=Qpr1tY-XKMs){:target="_blank"}    
 
 ---
 
