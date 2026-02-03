@@ -9,7 +9,7 @@
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Screenshots from live Foley performances by content creator and musician Josh Harmon
   </figcaption>
-</figure>
+</figure>   
 
 For this assignment, you will create a **30-second live Foley performance** using **multiple cameras and audio recording devices**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
 
@@ -47,7 +47,7 @@ Live Foleys by **Josh Harmon**
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#idea">1. Planning [before Thursday]</a></li> - **Complete before class**
+  <li><a href="#idea">1. Planning</a></li> - **Complete before class**
   <li><a href="#setup">2. Group Organization & Setup</a></li>
   <li><a href="#recording">3. Recording</a></li>
   <li><a href="#wrap-up">4. Equipment Wrap-Up</a></li>
@@ -59,15 +59,32 @@ Live Foleys by **Josh Harmon**
 
 <h3 id="planning" style="color: darkred;">1. Planning [before Thursday]</h3>
 
-> ❗ You must arrive prepared, with your planning completed and the objects you will use for your live Foley.  
+> ❗ You must arrive prepared on Thursday, with your planning completed and the objects you will use for your live Foley.
 
-You will be given a **royalty-free clip from an old silent film**.  
-Before Thursday, your group must define your **creative and technical approach**, including **clear roles for each person**:
+---
+
+## Video You Will Foley
+
+You will be given a **royalty-free clip from an old silent film**.
+
+- The videos are early silent films by **:contentReference[oaicite:0]{index=0}**, sourced from the
+  [Internet Archive](https://archive.org/search?query=director%3A%22Georges+M%C3%A9li%C3%A8s%22){:target="_blank"}
+- All available clips for this assignment can be found
+  [here (Dropbox)](https://www.dropbox.com/scl/fo/nbocr6j3ko45enkiak1ns/AOGA2SXUiYmcv3wzPLdKnF4?rlkey=79rzy7d5isz5zg0ez85371yzw&dl=0){:target="_blank"}
+- **Download the file named with your group number** (as listed in the self-enrollment on Avenue to Learn)
+- Watch the full video as a group
+- **Select a 30-second time frame** from the clip that you will use for your live Foley performance
+
+---
+
+## Planning
+
+Before Thursday, your group must define your **creative and technical approach**, including **clear roles for each one**:  
 
 - **Three students** performing live Foley sounds on set (each producing different sounds)
 - **One student** monitoring the cameras and sound recorders
 
-You must **practice both individually and collectively** before Thursday so that your group is ready to perform the scene **2–3 times efficiently** during the production session.
+You must **practice individually and collectively** before Thursday so that your group is ready to perform the scene **2–3 times efficiently** during the production session.
 
 You may use **any objects or instruments**, but **all sound must be produced live**.  
 > **No added sound is allowed in post-production.**  
