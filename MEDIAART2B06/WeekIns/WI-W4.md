@@ -167,8 +167,10 @@ Create a **one/two-page document** including:
 - **Technical information:** Aperture, Shutter Speed, ISO, Lens used
 - **Brief note on colour correction:** 1–2 sentences identifying the main exposure or color challenges in the shot and explaining how keyframes and scopes were used to correct them
 
-➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Name-ContinuousShot.pdf`
+### Submission  
+
+- ➡️ **Export as PDF**  
+- 📄 **Filename:** `Lastname-Name-ContinuousShot.pdf`
 
 
 ---
