@@ -49,7 +49,7 @@ Live Foleys by **Josh Harmon**
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#idea">1. Planning</a></li> - **Complete before class**
+  <li><a href="#idea">1. Planning</a> - **Complete before class**</li>
   <li><a href="#setup">2. Group Organization & Setup</a></li>
   <li><a href="#recording">3. ❗ Station Check-In ❗</a></li>
   <li><a href="#recording">4. Recording</a></li>
