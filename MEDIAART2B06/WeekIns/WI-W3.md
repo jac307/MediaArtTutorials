@@ -188,24 +188,6 @@ Create a **one/two-page document** including:
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
----
-
-## Assessment Notes
-
-- This is a **learning-focused assignment**
-- Minor technical imperfections are acceptable **if decisions are intentional and clearly applied**
-- Risk-taking and experimentation are encouraged **within the assignment constraints**
-
-For an **A+**, the work should demonstrate:
-
-- **Intentional spatial composition**, with clear foreground, midground, and background relationships and where location choice, framing, sound, and duration work together intentionally  
-- **Strong control of exposure**, with consistent settings and preserved image information throughout the shot  
-- **Careful integration of ambient sound**, contributing to a sense of place without distraction  
-- **Advance post-production**, using color correction to restore contrast and balance while maintaining a natural look  
-
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all planning, recording, and in-class editing activities.
-
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
