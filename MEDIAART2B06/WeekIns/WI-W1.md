@@ -252,21 +252,6 @@ Create a **one-page document** including:
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
----
-
-## Assessment Notes
-
-- This is a **learning-focused assignment**
-- Roughness or minor technical imperfections are acceptable if decisions are intentional
-- For an **A+**, work should demonstrate:
-  - Proficiency in framing and composition
-  - Consistent exposure and tonal control
-  - Thoughtful sequencing and pacing
-  - Originality and Artistry  
-
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
-
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
