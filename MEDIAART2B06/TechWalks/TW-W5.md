@@ -29,8 +29,9 @@ Equipment:
 - **3 audio recording devices**
 - **3 cameras**
 - **1–3 lights**
-
-> Each device has a **specific role** in the recording setup.
+- **1 video monitor**
+  > This monitor must be positioned **outside the camera frame** and **within clear view of all performers**, as it will serve as your **live visual reference**.   
+  > Connect the video monitor to a computer.  
 
 ---
 
@@ -124,13 +125,25 @@ When recording with both **ZOOM H4N Handheld**, adjust the **input levels carefu
 
 ❗ *Always set levels based on the loudest moment — quieter sounds can be boosted later, clipped audio cannot be fixed.*
 
-Do a **short test recording** and listen back with headphones before recording your final take.
+Do a **short test recording** and listen back with headphones before recording your final take.  
+
+### ZOOM H4N TUTORIAL - How to set up the Zoom H4N to record - Recording audio for film
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAFsAAVBoC0?si=Jjn7q2NYAAL8_9DA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>  
+
+### How to: Line Input to Mic Input on Zoom H4n Recorder
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xbPfBcv-Ew?si=CqAW3IY1fbJJMNXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
 
 ---
 
 <h2 style="color: darkred;">Camera Setup — Visual Documentation</h2>
 
-You will use **three cameras** to clearly document the live Foley. The goal is to **see all objects, gestures, and interactions** that produce sound.  
+You will use **three cameras** to document the live Foley. The goal is to **see all objects, gestures, and interactions** that produce sound.  
 
 Use the **lenses provided per station**.
 > Check [**Lenses Equipment Reference**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}
