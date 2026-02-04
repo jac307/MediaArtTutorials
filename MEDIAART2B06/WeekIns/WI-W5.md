@@ -142,10 +142,7 @@ Before beginning setup, your station group **must**:
 
 Each group is responsible for:
 - Setting up cameras, lights, and audio **together** following the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}
-> Checking the photos and notes you recorded during lecture time
-> Don't forget to set up uour **video monitor**
-> This monitor must be positioned **within clear view of all performers**, as it will serve as your **live visual reference**.   
-> Connect the video monitor to a computer.    
+> Checking the photos and notes you recorded during lecture time  
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
@@ -173,7 +170,9 @@ Follow the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"} to
 - **Set up lighting** using one, two, or all three lights.  
   Each group may adjust **intensity and colour temperature** as needed.
 
-- Set the video monitor so you all can see the video while you do the live foley.     
+- Set the **video monitor** so you all can see the video while you do the live foley.
+  > This monitor must be positioned **within clear view of all performers**, as it will serve as your **live visual reference**.   
+  > Connect the video monitor to a computer.   
 
 ⚠️ *Handle all equipment with care, especially lighting gear.  
 Divide tasks evenly and support one another during setup.*
