@@ -255,7 +255,7 @@ Divide tasks evenly and support one another during wrap-up.*
 
 <h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro and Work final Audio in Reaper [Begin in Class]</h3>
 
-Check: **[W5 - Tutorials](../Tutorials/index.html?file=T-W5.json){:target="_blank"} - Reaper**   
+Check: **[W5 - Tutorials](../Tutorials/index.html?file=T-W5.json){:target="_blank"} - Live Foley: Multi-Camera Video & Live Sound Workflow**   
 
 ### Specifications for Premiere Pro
 
@@ -271,7 +271,12 @@ Check: **[W5 - Tutorials](../Tutorials/index.html?file=T-W5.json){:target="_blan
   > This inset video should be placed in **one of the corners** of the frame (top-left, top-right, bottom-left, or bottom-right).
 - Add **Title** and **Credits**
 
-### Specifications for Reaper
+### Edit your audio on Reaper
+
+> A small set of Reaper tutorials is provided for this assignment, focusing specifically on **importing video, syncing multiple audio sources, level balancing, normalization, and export**.  
+> These tutorials are meant as a **refresher**, not a full introduction to Reaper.
+> You are expected to **primarily rely on your previous knowledge of Reaper** developed in the Audio course with **Dr. Ogborn**.  
+> If needed, review the tutorials and notes from that course before seeking additional resources.
 
 - Follow the tutorials to **import your edited video** into Reaper
 - Import and **synchronize the audio** from the video with the **two additional audio recordings** from the **Zoom H4n recorders**
