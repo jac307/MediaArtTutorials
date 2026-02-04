@@ -97,7 +97,7 @@ Follow [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
 - **Aspect Ratio:** 16:9  
 - **Resolution:** 1920 × 1080  
 - **Frame Rate:** 30 fps
-- **Auto Focus ON**
+- **Auto Focus ON** (new: you can use manual focus if you want)
 - **Image Stabilization ON**
 - **Custom White Balance**
 - **Exposure set before recording and locked**
@@ -108,6 +108,10 @@ Follow [W4 — Tech Walkthrough](../TechWalks/TW-W4.md){:target="_blank"}
   **Aperture, Shutter Speed, ISO**
 - Audio: **camera’s built-in microphone**
   > Avoid touching or covering the microphone
+
+### A general technical tip to keep in mind:
+
+When setting your exposure, **aim for a balanced middle point**. Avoid setting exposure so it looks perfect indoors or outdoors, because the opposite space will likely become unusable. Instead, choose settings that preserve as much information as possible across both lighting conditions, even if neither space looks “ideal” at first glance. This will give you more flexibility during color correction.
 
 ### Recording Rules
 
