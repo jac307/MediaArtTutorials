@@ -1,12 +1,12 @@
 [
   {
   "title": "Week 5 Tutorials — Live Foley: Multi-Camera Video & Live Sound Workflow",
-  "description": "These tutorials support the <strong>Live Foley assignment</strong>, focusing on workflows for <strong>multi-camera video editing, audio synchronization, and live sound integration</strong>. Students will use <strong>Premiere Pro</strong> to organize, synchronize, and edit footage from multiple cameras, and **Reaper** to refine, balance, and export the final audiovisual piece. The emphasis is on **clean, well-organized workflows** and **clarity of live sound**, not advanced effects or post-production sound design. Students are expected to rely on prior technical knowledge from earlier weeks and the Audio course, using these tutorials as a focused reference for this project."
+  "description": "These tutorials support the <strong>Live Foley assignment</strong>, focusing on workflows for <strong>multi-camera video editing, audio synchronization, and live sound integration</strong>. Students will use <strong>Premiere Pro</strong> to organize, synchronize, and edit footage from multiple cameras, and <strong>Reaper<strong> to refine, balance, and export the final audiovisual piece. The emphasis is on <strong>clean, well-organized workflows</strong> and <strong>clarity of live sound</strong>, not advanced effects or post-production sound design. Students are expected to rely on prior technical knowledge from earlier weeks and the Audio course, using these tutorials as a focused reference for this project."
 },
   
   {
   "title": "🎥 Premiere Pro",
-  "description": "These tutorials focus on **project organization, multi-camera workflows, and audio-based synchronization** in Adobe Premiere Pro. They will help you efficiently import, organize, sync, and edit footage from multiple cameras for the Live Foley project.",
+  "description": "These tutorials focus on <strong>project organization, multi-camera workflows, and audio-based synchronization</strong> in Adobe Premiere Pro. They will help you efficiently import, organize, sync, and edit footage from multiple cameras for the Live Foley project.",
   "children": [
     {
       "title": "HOW TO ORGANIZE YOUR PREMIERE PROJECT – Premiere Pro Organization (Filmmaking 101)",
@@ -38,7 +38,7 @@
 
   {
   "title": "🎧 Reaper",
-  "description": "These tutorials support **basic video import, audio synchronization, level balancing, and export workflows** in Reaper. Students are expected to **rely primarily on the Reaper tutorials and foundational audio knowledge from the previous Audio course**, using these videos as a refresher and reference rather than learning Reaper from scratch.",
+  "description": "These tutorials support <strong>basic video import, audio synchronization, level balancing, and export workflows</strong> in Reaper. Students are expected to <strong>rely primarily on the Reaper tutorials and foundational audio knowledge from the previous Audio course</strong>, using these videos as a refresher and reference rather than learning Reaper from scratch.",
   "children": [
     {
       "title": "Importing Video in Reaper",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Removing Background Noise in Reaper (ReaFIR)",
-      "description": "Optional troubleshooting tutorial demonstrating basic background noise reduction using ReaFIR. Use **sparingly** and only if necessary—your primary focus should be on clean live recording rather than heavy post-processing.",
+      "description": "Optional troubleshooting tutorial demonstrating basic background noise reduction using ReaFIR. Use sparingly and only if necessary—your primary focus should be on clean live recording rather than heavy post-processing.",
       "tutorialEmbedCode": "https://www.youtube.com/embed/31phzT7pxkk?si=VdOJsTjwYKtEw80b"
     },
     {
