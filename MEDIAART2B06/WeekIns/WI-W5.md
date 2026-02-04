@@ -174,7 +174,7 @@ Follow the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"} to
   > This monitor must be positioned **within clear view of all performers**, as it will serve as your **live visual reference**.   
   > Connect the video monitor to a computer.   
 
-⚠️ *Handle all equipment with care, especially lighting gear.  
+⚠️ *Handle all equipment with care.  
 Divide tasks evenly and support one another during setup.*
 
 ---
@@ -250,7 +250,7 @@ When all groups have finished:
   > All components (e.g., batteries, SD cards, cables, mounts, adapters) are engraved or labeled with the same equipment number
 - Leave all equipment at the station for the instructor to collect  
 
-⚠️ *Handle all equipment with care, especially lighting gear.  
+⚠️ *Handle all equipment with care.  
 Divide tasks evenly and support one another during wrap-up.*
 
 ---
