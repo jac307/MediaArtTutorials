@@ -1,0 +1,56 @@
+[
+  {
+  "title": "Week 5 Tutorials — ?",
+  "description": "Text"
+ },
+  
+  {
+  "title": "🎥 Premiere Pro",
+  "description": "These tutorials focus on **project organization, multi-camera workflows, and audio-based synchronization** in Adobe Premiere Pro. They will help you efficiently import, organize, sync, and edit footage from multiple cameras for the Live Foley project.",
+  "children": [
+    {
+      "title": "HOW TO ORGANIZE YOUR PREMIERE PROJECT – Premiere Pro Organization (Filmmaking 101)",
+      "description": "In this video, you will learn how to organize your Adobe Premiere Pro project using bins and clear naming conventions. Proper organization will help you work more efficiently, especially when editing footage from multiple cameras and audio sources.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/r0Yz9Bnlb0o?si=Yc291riTraFv_7Rl"
+    },
+    {
+      "title": "How to Edit Multi-Camera Sequences in Premiere Pro (Step-by-Step Tutorial)",
+      "description": "This tutorial walks you through the process of creating and editing a multi-camera sequence in Premiere Pro. You will learn how to synchronize multiple camera angles and switch between them efficiently within a single sequence.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/PNjCJajrTGA?si=YpTwD6p7FvHQoi6h"
+    },
+    {
+      "title": "How to Sync Multiple Clips in Premiere – Fast Editor Pro Tip",
+      "description": "Learn how to synchronize multiple clips in Premiere Pro using audio waveforms. This method is especially useful when working with multiple cameras and a hand clap for sync, as required for the Live Foley project.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/EIQ7a8LVsUk?si=uxWNejXMFR8UezUU"
+    },
+    {
+      "title": "How to Edit Multi-Camera Sequences Easily in Adobe Premiere Pro CC",
+      "description": "This creator-focused tutorial offers an alternative perspective on multi-camera editing, emphasizing practical workflow tips and shortcuts for switching between camera angles during the edit.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/MQIj1sZEck8?si=KyWxv8Sbl-o0XeLP"
+    }
+  ]
+}
+
+  
+  {
+    "title": "🎥 Reaper",
+    "description": "Short description. Add that the students shoudl relay in the tutorials from the previous Audio Course",
+    "children": [
+      {
+        "title": "g",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "g",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "g",
+        "description": "Text",
+        "tutorialEmbedCode": "url"
+      }
+    ]
+  }
+]
