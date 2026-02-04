@@ -143,6 +143,9 @@ Before beginning setup, your station group **must**:
 Each group is responsible for:
 - Setting up cameras, lights, and audio **together** following the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}
 > Checking the photos and notes you recorded during lecture time
+> Don't forget to set up uour **video monitor**
+> This monitor must be positioned **within clear view of all performers**, as it will serve as your **live visual reference**.   
+> Connect the video monitor to a computer.    
 
 Station locations and group assignments will be:
 - Posted on **Avenue to Learn**
