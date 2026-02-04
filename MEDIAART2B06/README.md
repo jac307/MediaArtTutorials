@@ -57,7 +57,7 @@ Series of hands-on production exercises designed to **build core skills** in cam
   + [W4 - Tutorials](Tutorials/index.html?file=T-W4.json) - Color Correction Over Time
 + [Week 5](WeekIns/WI-W5.md) — Foley Sound Creation (Groups of 3)
   + [W5 - Tech Walkthrough](TechWalks/TW-W5.md) - Foley Sound Creation · Multi-Device Recording Setup
-  + [W5 - Tutorials](Tutorials/index.html?file=T-W5.json) - 
+  + [W5 - Tutorials](Tutorials/index.html?file=T-W5.json) - Live Foley: Multi-Camera Video & Live Sound Workflow
 
 
 <!--
