@@ -1,8 +1,8 @@
 [
   {
-  "title": "Week 5 Tutorials — ?",
-  "description": "Text"
- },
+  "title": "Week 5 Tutorials — Live Foley: Multi-Camera Video & Live Sound Workflow",
+  "description": "These tutorials support the **Live Foley assignment**, focusing on workflows for **multi-camera video editing, audio synchronization, and live sound integration**. Students will use **Premiere Pro** to organize, synchronize, and edit footage from multiple cameras, and **Reaper** to refine, balance, and export the final audiovisual piece. The emphasis is on **clean, well-organized workflows** and **clarity of live sound**, not advanced effects or post-production sound design. Students are expected to rely on prior technical knowledge from earlier weeks and the Audio course, using these tutorials as a focused reference for this project."
+},
   
   {
   "title": "🎥 Premiere Pro",
@@ -36,26 +36,32 @@
   ]
 }
 
-  
   {
-    "title": "🎥 Reaper",
-    "description": "Short description. Add that the students shoudl relay in the tutorials from the previous Audio Course",
-    "children": [
-      {
-        "title": "g",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
-      },
-      {
-        "title": "g",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
-      },
-      {
-        "title": "g",
-        "description": "Text",
-        "tutorialEmbedCode": "url"
-      }
-    ]
-  }
+  "title": "🎧 Reaper",
+  "description": "These tutorials support **basic video import, audio synchronization, level balancing, and export workflows** in Reaper. Students are expected to **rely primarily on the Reaper tutorials and foundational audio knowledge from the previous Audio course**, using these videos as a refresher and reference rather than learning Reaper from scratch.",
+  "children": [
+    {
+      "title": "Importing Video in Reaper",
+      "description": "Learn how to import a video file into Reaper so you can work directly with image and sound together. This is required for syncing your live Foley recordings and preparing your final export.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/IDiz-yaJgY0?si=FI2ZVobKbazHKwgS"
+    },
+    {
+      "title": "How to Import and Export Video Files in Reaper",
+      "description": "This tutorial covers the full workflow for importing video into Reaper and exporting your final audiovisual file, including checking levels before export.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/os4RkbAVWnQ?si=50IHllR-bcx62zeg"
+    },
+    {
+      "title": "Removing Background Noise in Reaper (ReaFIR)",
+      "description": "Optional troubleshooting tutorial demonstrating basic background noise reduction using ReaFIR. Use **sparingly** and only if necessary—your primary focus should be on clean live recording rather than heavy post-processing.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/31phzT7pxkk?si=VdOJsTjwYKtEw80b"
+    },
+    {
+      "title": "Normalization in Reaper",
+      "description": "Learn how to normalize individual items, tracks, and mixes in Reaper. This tutorial also explains common normalization pitfalls, such as unintended peaking when normalizing to LUFS levels.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/At42Cd9whZw?si=N2X31CtzgOwcCLdJ"
+    }
+  ]
+}
+
+  
 ]
