@@ -13,8 +13,9 @@ This activity focuses on **change**: how lighting transitions reshape space, att
 
 <h2 style="color: darkred;">What you will do (in order)</h2>
 
-2. **In your group, design one lighting trajectory** based on the emotional brief.
-3. **Plan a sequence of lighting cues** using the vocabulary from previous weeks.
+1. **Choose one emotional design prompt** as a group.
+2. **Design one lighting trajectory** based on that prompt.
+3. **Plan a sequence of lighting cues** using vocabulary from previous weeks.
 4. **Live walkthrough:** A few groups will be **randomly selected** to communicate their cues directly to the lighting technician.
 
 ---
@@ -51,7 +52,7 @@ The emotion remains the same throughout, but:
 
 ### **Prompt B — Mixed Emotions Over Time**
 
-Create a scene that begins as a **calm and stable environment** and moves into a moment of **busy excitement**, before collapsing into **silence**.  
+Create a scene that begins as a **calm and stable environment** and moves into a moment of **busy excitement**, before collapsing into **silence**.
 
 The emotional trajectory should:
 - start with a sense of **calm or safety**
@@ -60,57 +61,65 @@ The emotional trajectory should:
 
 These emotions may overlap or compete rather than fully replace one another.
 
---
+---
 
-<h2 style="color: darkred;">2. Design Constraints</h2>
+<h2 style="color: darkred;">2. Design Your Lighting Cues (Prepare to Communicate)</h2>
 
-To reflect real-world lighting conditions, your design must follow these constraints:
-
-- Use **only the light types introduced last week**  
-  (front, top, side, mirrored, gobo, reflected)
-- Do **not** change the space, objects, or audience configuration
-- Design **3–5 cues maximum**
-- Assume you have **limited time** to communicate with the technician
-
-
-
-
-<h2 style="color: darkred;">Vocabulary to Use</h2>
-
-Use the vocabulary from **previous weeks** when describing your cues.
-
-**Timing**
-- fade in / fade out
-- snap
-- slow / fast
-- gradual / sudden
-
-**Change**
-- increase / decrease intensity
-- warm → cool / cool → warm
-- introduce / remove
-- shift dominance
-
-**Spatial Effect**
-- isolate
-- expose
-- compress
-- soften
-- flatten
-- sculpt
-
-> Avoid emotional adjectives when speaking to the technician.  
-> Focus on **actions, changes, and spatial effects**.
+As a group, translate your chosen emotional prompt into a **sequence of lighting cues**.
 
 ---
 
-<h2 style="color: darkred;">Live Walkthrough Format</h2>
+### Cue Design Requirements
 
-For groups selected to work with the lighting technician:
+- Design **3–5 lighting cues maximum**
+- Use **only the lights introduced in W5**
+- Do **not** change:
+  - the space
+  - the objects
+  - the audience configuration *(focus on lighting change, not spatial redesign)*
+- Each cue must introduce a **clear change** from the previous one
 
-- You have **10 minutes maximum** to set your cues.
-- Speak **one cue at a time**, in sequence.
-- Use clear, concise language.
+---
+
+### What to Decide for Each Cue
+
+For **each cue**, make notes (using the vocabulary from class) that clearly define:
+
+- **Which light(s) are active**
+  - front / top / side (low or high) / mirrored / gobo / reflected
+- **What changes**
+  - intensity (increase / decrease)
+  - colour (warm / cool / colour shift)
+  - presence (introduce / remove)
+  - dominance (which light takes priority)
+- **How the change happens**
+  - fade in / fade out
+  - snap
+  - slow / fast
+  - gradual / sudden
+- **What spatial effect is produced**
+  - isolate
+  - expose
+  - compress
+  - soften
+  - flatten
+  - sculpt
+
+---
+
+### Prepare to Speak to the Technician
+
+You will communicate your cues **one group at a time**, in order.
+
+When speaking:
+- Describe **actions**, not emotions
+- Be **clear and concise**
+- Assume you have **limited time**
+
+> **Example:**  
+> “Fade in the top light slowly while reducing front light intensity, shifting dominance upward.”
+
+> ⚠️ You must complete this cue planning **even if your group is not selected** to work directly with the technician.
 
 ---
 
@@ -122,9 +131,6 @@ Prepare:
 
 - **1 sentence:** What is the emotional trajectory you designed?
 - **2–3 lines:** Describe the cue sequence (what changes, and how).
-- **1–2 lines:** What spatial effect emerged, and was it what you expected?
+- **1–2 lines:** What spatial effect emerged, and was it what you expected (why or why not)?
 
 ---
-
-> This activity is about **designing change**, not finding a correct answer.  
-> Different groups may produce very different results using the same emotional brief.
