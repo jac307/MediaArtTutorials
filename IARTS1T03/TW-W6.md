@@ -1,71 +1,130 @@
-[ART 1T03](README.md)
+<h1 style="color: darkred;">W6: Technical Walkthrough Activity — Designing Lighting Cues</h1>
 
--------------------------------------------------------------------------------
+**Goal:** Practice spatial and lighting vocabulary by designing and communicating **lighting cues over time**, using light as a narrative and expressive tool.
 
-<h1 style="color: darkred;">W3: Technical Walkthrough Activity - Technical Scene Analysis (POV + Space)</h1>
-
-**Goal:** Practice Week 1–3 vocabulary by analyzing how **camera position (POV)** shapes space and creates a relationship to the scene.
+This activity focuses on **change**: how lighting transitions reshape space, attention, and emotion.
 
 ---
 
 ### Group Setup
 - Form groups of **4–5 students**.
-- Each group will choose **one clip** from the list below.
-
-### Clips
-
-+ Frankenstein (2011) | ['Don't Scream'](https://www.youtube.com/watch?v=k5LISAvqV_c){:target="_blank"} | National Theatre at Home
-  > Stage production of Mary Shelley’s classic novel, directed by Danny Boyle and performed at the Royal National Theatre in London.
-+ Get Out (2017) - [Hypnosis scene](https://www.youtube.com/watch?v=PZX0BNQel_s){:target="_blank"}
-  > Critically acclaimed psychological horror film written and directed by Jordan Peele.
-+ Contact (1997) - [Mirror Scene](https://www.youtube.com/watch?v=vLLIHSTp87o){:target="_blank"}
-  > Science fiction drama film directed by Robert Zemeckis and based on the 1985 novel by Carl Sagan.
-+ ”O” - [Fire Performer only](https://youtu.be/1aDFGpI-DRE?si=iEMJbn9L5IQbU8Wu&t=299){:target="_blank"} | Cirque du Soleil
-  > Long-running, highly acclaimed aquatic-themed stage production residing at the Bellagio in Las Vegas.
-+ Euphoria - [Maddy and cassie after fight](https://www.youtube.com/watch?v=3WoE_57Soas){:target="_blank"} | HBO
-  > Psychological teen drama series that explores the lives of high school students and their transition into adulthood.
 
 ---
 
 <h2 style="color: darkred;">What you will do (in order)</h2>
 
-1. **Watch the clip once** without pausing.  
-   - Note your first impression of the space and POV.
-2. **Watch again**, pause when needed to linger longer in specific moments.  
-   - Use the vocabulary to describe what the camera is doing.
-3. **Complete a short group analysis** using the prompts below.
-4. **Share-out:** A few groups will be **randomly selected** to present their analysis to the class.
+2. **In your group, design one lighting trajectory** based on the emotional brief.
+3. **Plan a sequence of lighting cues** using the vocabulary from previous weeks.
+4. **Live walkthrough:** A few groups will be **randomly selected** to communicate their cues directly to the lighting technician.
+
+---
 
 ### Timing (50 minutes)
-- **20 minutes:** Group work (watch + analyze + prepare)
-- **30 minutes:** Share-out + class discussion
 
-> **Note:** Even if your group is not selected to present, you are still expected to complete the analysis during class time.
+- **15 minutes:** Group work (choose prompt + design cues + prepare language)
+- **35 minutes:** Live cue walkthroughs + brief class reflection
 
-<h2 style="color: darkred;">Analysis Prompts (answer as a group)</h2>
-
-- Where does the camera “stand” in relation to the scene (close/far, inside/outside)?
-- What does the framing give us access to—and what does it withhold?
-- What is centered vs peripheral through composition?
-- What sits in the foreground, middleground, and background—and how does that shape meaning?
-- What relationship does the POV create: **witnessing or control or just recording (trying to stay neutral)**? (Give one piece of evidence.)
-
-### Vocabulary to Use (no new terms)
-
-<img src="imgs/02.png" style="width: 60%; height: auto;">  
-<img src="imgs/03.jpeg" style="width: 60%; height: auto;">  
-<img src="imgs/04.jpeg" style="width: 60%; height: auto;">  
-<img src="imgs/05.jpeg" style="width: 60%; height: auto;">  
-  
----
-
-<h2 style="color: darkred;">Presentation Format </h2>
-
-Select 2 students to speak in behalf of the group. Prepare:  
-
-- **1 sentence:** What is happening in the clip?
-- **2-3 lines:** Describe POV + framing + composition + layers
-- **2-3 lines:** What relationship does this POV produce (witnessing, control, apparent neutrality), and why?
+> **Note:** Even if your group is not selected to work directly with the technician, you are still expected to complete the full cue design during class time.
 
 ---
 
+<h2 style="color: darkred;">1. Emotional Design Prompts (Choose ONE)</h2>
+
+As a group, choose **one** of the following emotional prompts and design a sequence of lighting cues that expresses the scenario **over time**.  
+Do not change the space or objects — work only through lighting.
+
+---
+
+### **Prompt A — Single Emotion, Evolving Over Time**
+
+Create a scene that expresses an **evolving state of sadness**.
+
+The emotional trajectory should move:
+- from **quiet loneliness within the space**
+- to **heightened loneliness and isolation**
+
+The emotion remains the same throughout, but:
+- its **intensity increases**
+- the sense of **distance, pressure, or exposure** changes
+
+---
+
+### **Prompt B — Mixed Emotions Over Time**
+
+Create a scene that begins as a **calm and stable environment** and moves into a moment of **busy excitement**, before collapsing into **silence**.  
+
+The emotional trajectory should:
+- start with a sense of **calm or safety**
+- become **busy, active, or excited**
+- then fall into **silence or emotional emptiness**
+
+These emotions may overlap or compete rather than fully replace one another.
+
+--
+
+<h2 style="color: darkred;">2. Design Constraints</h2>
+
+To reflect real-world lighting conditions, your design must follow these constraints:
+
+- Use **only the light types introduced last week**  
+  (front, top, side, mirrored, gobo, reflected)
+- Do **not** change the space, objects, or audience configuration
+- Design **3–5 cues maximum**
+- Assume you have **limited time** to communicate with the technician
+
+
+
+
+<h2 style="color: darkred;">Vocabulary to Use</h2>
+
+Use the vocabulary from **previous weeks** when describing your cues.
+
+**Timing**
+- fade in / fade out
+- snap
+- slow / fast
+- gradual / sudden
+
+**Change**
+- increase / decrease intensity
+- warm → cool / cool → warm
+- introduce / remove
+- shift dominance
+
+**Spatial Effect**
+- isolate
+- expose
+- compress
+- soften
+- flatten
+- sculpt
+
+> Avoid emotional adjectives when speaking to the technician.  
+> Focus on **actions, changes, and spatial effects**.
+
+---
+
+<h2 style="color: darkred;">Live Walkthrough Format</h2>
+
+For groups selected to work with the lighting technician:
+
+- You have **10 minutes maximum** to set your cues.
+- Speak **one cue at a time**, in sequence.
+- Use clear, concise language.
+
+---
+
+<h2 style="color: darkred;">Presentation Format</h2>
+
+Select **2 students** to speak on behalf of the group.
+
+Prepare:
+
+- **1 sentence:** What is the emotional trajectory you designed?
+- **2–3 lines:** Describe the cue sequence (what changes, and how).
+- **1–2 lines:** What spatial effect emerged, and was it what you expected?
+
+---
+
+> This activity is about **designing change**, not finding a correct answer.  
+> Different groups may produce very different results using the same emotional brief.
