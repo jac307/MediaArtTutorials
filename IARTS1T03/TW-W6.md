@@ -7,16 +7,8 @@ This activity focuses on **change**: how lighting transitions reshape space, att
 ---
 
 ### Group Setup
-- Form groups of **4–5 students**.
-
----
-
-<h2 style="color: darkred;">What you will do (in order)</h2>
-
-1. **Choose one emotional design prompt** as a group.
-2. **Design one lighting trajectory** based on that prompt.
-3. **Plan a sequence of lighting cues** using vocabulary from previous weeks.
-4. **Live walkthrough:** A few groups will be **randomly selected** to communicate their cues directly to the lighting technician.
+- Form groups of **4–5 students**.  
+- Each group will **choose one prompt** from the options provided
 
 ---
 
