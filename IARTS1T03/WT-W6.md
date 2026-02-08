@@ -40,7 +40,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 Select **one of the two following approaches (A or B)** and write **a lighting intention**.  
 
-#### **Lighting Intention A — Single Emotion, Evolving Over Time**
+#### **Lighting Intention 🅰️ — Single Emotion, Evolving Over Time**
 
 Write **3–4 sentences** describing how a **single emotional state** evolves through **lighting changes**.
 
@@ -49,7 +49,7 @@ Your description must:
 - include **3–5 distinct cues or transitions**
 - describe how lighting **intensity, colour, dominance, and spatial effect** shift
 
-#### **Lighting Intention B — Mixed Emotions Over Time**
+#### **Lighting Intention 🅱️ — Mixed Emotions Over Time**
 
 Write **3–4 sentences** describing how **multiple emotions coexist or compete** through lighting changes.
 
@@ -62,9 +62,10 @@ Your description must:
 
 <h3 style="color: darkred;">[20 min] 2D Lighting Map</h3>
 
-Using **your Week 5 scene layout**, create a **lighting map**, representing **the selected prompt**:
+Using **your Week 5 scene layout**, create a **lighting map**, representing **the selected prompt** (from the previous step):
 
-- **Lighting Map A:** Single Emotion, Evolving Over Time  
+- **Lighting Map A:** Single Emotion, Evolving Over Time
+- or
 - **Lighting Map B:** Mixed Emotions Over Time  
 
 > ⚠️ You must **not** change object placement, stage position, audience placement, or entrances.  
@@ -108,26 +109,34 @@ For **each light** shown in the map, clearly indicate:
 - **Colour**  
   (red, blue, light green, bright pink, etc, or use Hexadecimal -hex)
 
+---  
+
+<h3 style="color: darkred;">[10 min] Cue Instructions (Written for a Technician)</h3>
+
+Write a short **cue list** written as if you were giving instructions to a lighting technician.  
+
+- Include **3–5 cues maximum**
+- Write cues **in order**
+- Describe **changes**, not emotions
+- Use vocabulary from class (fade, snap, increase/decrease intensity, introduce/remove, shift dominance, etc.)
+- Include:
+  - **Type of light** (front, side, top, mirrored front, gobo, reflected)
+  - **Colour** (red, blue, light green, bright pink, etc, or use Hexadecimal-hex)
+  - **Intensity** (low / mid / high)
+  - **What the light affects** (objects, stage area, audience, background)
+
+> Example cue language:  
+> “Cue 1: Fade in front 0° light slowly while gradually changing from light violet (#E1DEFF) to light low saturated pink colour (#FFCEE2) using low intensity and lighting the centre stage gradually changing from a wider range (almost lighting more than half the size of the stage to a lower range (1/4 of the stage) around the main objects.”
+> “Cue 2: Gradualy change the range of the front 0° light making it slightly wider and gradually changing from low a higher saturated pink colour (#FFA1A8).”
+> “Cue 3: Gradualy change the range to be bigger/wider to the front 0° light also gradually changing to bright red (#FF1D00)"
+> “Cue 4: Gradualy"
+> “Cue 5: Gradualy"  
+
 ---
 
-<<h3 style="color: darkred;">[60 min] Lighting in Blender — Two Versions</h3>
+<h3 style="color: darkred;">[60 min] Lighting in Blender</h3>
 
-### Required Organization (Before You Begin)
-
-You will work from your **Week 5 Blender scene**, but you must create **TWO SEPARATE BLENDER FILES**, one for each lighting version.
-
-➡️ **First step:**  
-Duplicate your W5 file **before** adding or animating any lights.
-
-You should end up with:
-- `Lastname-Firstname-W6-LightingA.blend`
-- `Lastname-Firstname-W6-LightingB.blend`
-
-Each file will contain **one complete animated lighting version**.
-
----
-
-### Collection Structure (Required)
+### Required Organization
 
 Each Blender file must be organized using **three collections**:
 
@@ -137,7 +146,7 @@ Each Blender file must be organized using **three collections**:
 
 #### Organization Rules
 - Do **not** move, modify, or rename geometry from W5
-- Place **all lights** in the **Lights** collection
+- Place **all new lights** in the **Lights** collection
 - Rename **lights clearly** (e.g., `Front_Light`, `Top_Light`)
 - **Correct naming protocol:** do not leave spaces between words; use `_` instead
 
@@ -145,29 +154,14 @@ Each Blender file must be organized using **three collections**:
 
 ---
 
-### Lighting in Blender — Two Animated Versions
+### Lighting in Blender  
 
-Using your **W5 scene layout**, apply **animated lighting cues** based on your two lighting intentions and 2D lighting maps.
-
-Each file must contain **one lighting version only**:
-
-- **Lighting Version A:** Single Emotion, Evolving Over Time  
-- **Lighting Version B:** Mixed Emotions Over Time  
-
-Each version must include **lighting changes over time**.  
-
-❗ Review this week’s slides for practical tips on **animating lights and working with cues in Blender**.  
-
-#### BLENDER TUTORIAL : How to Animate LIGHTS (QUICK)
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9C41lnEfJWY?si=rbae-DhqCA1RY-CS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>  
-
----
-
-### Timing & Animation Guidelines (Important)
-
+- Add and position lights according to your **2D lighting map**
+- Animate changes to:
+  - colour
+  - intensity (power) & exposure
+  - radius / size
+  - influence and beam shape (angle & blend)
 - Each **lighting cue** should occur approximately every **60–120 frames**
 - Design **3–5 cues maximum** per version
 - Total animation length must be **no longer than 25 seconds**
@@ -183,24 +177,24 @@ Each version must include **lighting changes over time**.
 - ✅ Use **only**:
   - **Spot Lights**
   - **Area Lights** (for reflected light)
-- ❌ No materials or textures
+- You may follow this tutorial to change only the colour of your space and/or objects.
+  > ❌ Do not use other materials or textures.  
 - ❌ Do not move objects, audience placement, or stage layout
 - ❌ **Do not animate light position or rotation**
 
 ---
 
-### For Each Lighting Version
+## Tutorials
 
-Apply your planned cues by **animating light properties** using keyframes.
+❗ Review this week’s slides for practical tips on **animating lights and working with cues in Blender**.  
 
-For each version:
-- Add and position lights according to your **2D lighting map**
-- Animate changes to:
-  - colour
-  - intensity (power)
-  - radius / size
-  - influence and beam shape
-- Ensure each cue introduces a **clear, intentional change**
+#### BLENDER TUTORIAL : How to Animate LIGHTS (QUICK)
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9C41lnEfJWY?si=rbae-DhqCA1RY-CS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>    
+
+---
 
 You may also animate the **camera** to introduce movement. This is **optional** for this week.  
 Follow this tutorial on [Camera Animation Basics](https://jac307.github.io/MediaArtTutorials/Blender/12_Camera_Animation_Basics.html){:target="_blank"}  
@@ -236,17 +230,6 @@ You should end up with:
 
 ---
 
-### Cue Instructions (Written for a Technician)
-
-For **each lighting map**, include a short **cue list** written as if you were giving instructions to a lighting technician.
-
-- Include **3–5 cues maximum**
-- Write cues **in order**
-- Describe **changes**, not emotions
-- Use vocabulary from class (fade, snap, increase/decrease intensity, introduce/remove, shift dominance, etc.)
-
-> Example cue language:  
-> “Cue 2: Fade in top light slowly while reducing front light to low, shifting dominance upward.”  
 
 ---
 
@@ -268,16 +251,7 @@ For **each lighting map**, include a short **cue list** written as if you were g
   - Colour-coded lights with range indicated  
   - Cue list (3–5 cues, written for a technician)
  
-  - - **Type of light**  
-  (front, side, top, mirrored front, gobo, reflected)
-- **Position**  
-  (where the light is placed in relation to the stage)
-- **Colour**  
-  (red, blue, light green, bright pink, etc, or use Hexadecimal-hex)
-- **Intensity**  
-  (low / mid / high)
-- **What the light affects**  
-  (objects, stage area, audience, background)
+
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
