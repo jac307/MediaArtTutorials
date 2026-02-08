@@ -38,17 +38,32 @@ For full reference, review the slides from this week.
 
 ### Timing
 
-#### Fade in / Fade Out
-<img src="imgs/23.gif" style="width: 40%; height: auto;">  
-> Light gradually appears or disappears over time.  
+<div style="display: flex; gap: 2rem; width: 100%;">
 
-#### Snap
-<img src="imgs/24.gif" style="width: 40%; height: auto;">     
-> Light changes instantly with no transition.  
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
 
-#### Slow / Fast
-<img src="imgs/25.gif" style="width: 40%; height: auto;">     
-> Describes the speed = how long the lighting change takes. 
+    <h4>Fade in / Fade Out</h4>
+    <img src="imgs/23.gif" style="width: 100%; height: auto;">
+    <p><em>Light gradually appears or disappears over time.</em></p>
+
+    <h4>Snap</h4>
+    <img src="imgs/24.gif" style="width: 100%; height: auto;">
+    <p><em>Light changes instantly with no transition</em></p>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Slow / Fast</h4>
+    <img src="imgs/25.gif" style="width: 100%; height: auto;">
+    <p><em>Describes the speed = how long the lighting change takes.</em></p>
+
+    <h4>Gradual / Sudden</h4>
+    <p><em>Describes how the change feels while it happens.</em></p>
+
+  </div>  
 
 #### Gradual / Sudden
 > Describes how the change feels while it happens.
