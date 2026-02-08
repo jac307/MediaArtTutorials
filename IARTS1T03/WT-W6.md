@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W6 — Lighting as Temporal Transformation</span>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/22.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/22.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
