@@ -40,7 +40,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 Before creating your lighting maps and working in Blender, you must clearly define your **lighting intentions**.
 
-You will write **two separate lighting intentions**, one for each emotional prompt explored in class.
+You will write **one separate lighting intentions**, **selecting one of the two following approaches (A or B)**.  
 
 #### **Lighting Intention A — Single Emotion, Evolving Over Time**
 
@@ -50,7 +50,6 @@ Your description must:
 - focus on **change over time**, not a static look
 - include **3–5 distinct cues or transitions**
 - describe how lighting **intensity, colour, dominance, and spatial effect** shift
-- use the vocabulary introduced in class (W5–W6)
 
 #### **Lighting Intention B — Mixed Emotions Over Time**
 
@@ -60,13 +59,12 @@ Your description must:
 - describe how different emotional forces **overlap or shift dominance**
 - include **3–5 distinct cues or transitions**
 - focus on **contrast, tension, or collapse** rather than smooth progression
-- use the vocabulary introduced in class (W5–W6)
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Lighting Maps</h3>
+<h3 style="color: darkred;">[20 min] 2D Lighting Map</h3>
 
-Using **your Week 4 scene layout**, create **two (2) lighting maps**, each representing a **different lighting intention**:
+Using **your Week 5 scene layout**, create a **lighting map**, representing **the selected prompt**:
 
 - **Lighting Map A:** Single Emotion, Evolving Over Time  
 - **Lighting Map B:** Mixed Emotions Over Time  
@@ -78,7 +76,6 @@ Each lighting map must include:
 - a **Top View**
 - a **Side View**
 - a **Front View**
-- a written **cue list** describing lighting changes over time
 
 Hand-drawn (preferred) or digital.
 
@@ -87,7 +84,7 @@ Hand-drawn (preferred) or digital.
 #### Example  
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting decisions and cue logic**.
 
-<img src="imgs/36.jpg" style="width: 60%; height: auto;">   
+<img src="imgs/36.png" style="width: 60%; height: auto;">   
 
 > ⚠️ Your drawing skill is not graded.  
 > You are graded on **clarity of lighting logic, use of vocabulary, and ability to communicate cues clearly**.
@@ -101,39 +98,17 @@ You are required to use the vocabulary from
 - [W6 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W6.html#core-vocabulary){:target="_blank" rel="noopener noreferrer"}  
 
 Because you will be using **multiple lights** on each map, you must:
-- use a **different colour** to represent **each light**
-- indicate the **range or spread** of each light (cone, area, or wash)
-- include a **legend** explaining which colour corresponds to which light  
+- indicate the **range or spread** of each light (cone, area, or wash)  
+- use a **different colour** to represent **each light's range** (see examples above)  
 
 For **each light** shown in the map, clearly indicate:
 
 - **Type of light**  
-  (front, side, top/zenithal, mirrored front, gobo, reflected)
+  (front, side, top, mirrored front, gobo, reflected)
 - **Position**  
   (where the light is placed in relation to the stage)
-- **Direction**  
-  (arrow)
-- **Rotation**  
-  (angled vs straight, if relevant)
-- **Colour**
-- **Intensity**  
-  (low / mid / high)
-- **What the light affects**  
-  (objects, stage area, audience, background)
-
----
-
-### Cue Instructions (Written for a Technician)
-
-For **each lighting map**, include a short **cue list** written as if you were giving instructions to a lighting technician.
-
-- Include **3–5 cues maximum**
-- Write cues **in order**
-- Describe **changes**, not emotions
-- Use vocabulary from class (fade, snap, increase/decrease intensity, introduce/remove, shift dominance, etc.)
-
-> Example cue language:  
-> “Cue 2: Fade in top light slowly while reducing front light to low, shifting dominance upward.”  
+- **Colour**  
+  (red, blue, light green, bright pink, etc, or use Hexadecimal -hex)
 
 ---
 
@@ -263,6 +238,20 @@ You should end up with:
 
 ---
 
+### Cue Instructions (Written for a Technician)
+
+For **each lighting map**, include a short **cue list** written as if you were giving instructions to a lighting technician.
+
+- Include **3–5 cues maximum**
+- Write cues **in order**
+- Describe **changes**, not emotions
+- Use vocabulary from class (fade, snap, increase/decrease intensity, introduce/remove, shift dominance, etc.)
+
+> Example cue language:  
+> “Cue 2: Fade in top light slowly while reducing front light to low, shifting dominance upward.”  
+
+---
+
 <h3 style="color: darkred;">Submission Documents</h3>
 
 ### Create a single PDF with **2 pages total**:
@@ -280,6 +269,17 @@ You should end up with:
   - Top view, side view, and front view  
   - Colour-coded lights with range indicated  
   - Cue list (3–5 cues, written for a technician)
+ 
+  - - **Type of light**  
+  (front, side, top, mirrored front, gobo, reflected)
+- **Position**  
+  (where the light is placed in relation to the stage)
+- **Colour**  
+  (red, blue, light green, bright pink, etc, or use Hexadecimal-hex)
+- **Intensity**  
+  (low / mid / high)
+- **What the light affects**  
+  (objects, stage area, audience, background)
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
