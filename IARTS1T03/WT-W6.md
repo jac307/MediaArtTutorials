@@ -31,117 +31,6 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-## Core Vocabulary
-
-For full reference, review the slides from this week.  
-> Use also [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}   
-
-### Timing
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Fade in / Fade Out</h4>
-    <p><em>Light gradually appears or disappears over time.</em></p>
-    <img src="imgs/23.gif" style="width: 100%; height: auto;">
-
-    <h4>Snap</h4>
-    <p><em>Light changes instantly with no transition</em></p>
-    <img src="imgs/24.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Slow / Fast</h4>
-    <p><em>Describes the speed = how long the lighting change takes.</em></p>
-    <img src="imgs/25.gif" style="width: 100%; height: auto;">
-
-    <h4>Gradual / Sudden</h4>
-    <p><em>Describes how the change feels while it happens.</em></p>
-
-  </div>  
-
-</div>    
-
-### General Changes
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Increase / Decrease intensity</h4>
-    <p><em>Light becomes brighter or dimmer.</em></p>
-    <img src="imgs/26.gif" style="width: 100%; height: auto;">
-
-    <h4>Warm → Cool / Cool → Warm</h4>
-     <p><em>Light shifts in colour temperature.</em></p>
-    <img src="imgs/27.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Introduce / Remove</h4>
-    <p><em>A light is added to or taken out of the scene.</em></p>
-    <img src="imgs/28.gif" style="width: 100%; height: auto;">
-
-    <h4>Shift dominance</h4>
-    <p><em>One light becomes more visually important than others.</em></p>
-    <img src="imgs/29.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>     
-
-
-### Spatial Effect
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Isolate</h4>
-    <p><em>Separates a subject from its surroundings.</em></p>
-    <img src="imgs/30.gif" style="width: 100%; height: auto;">
-
-    <h4>Expose</h4>
-    <p><em>Makes details clearly visible.</em></p>
-    <img src="imgs/31.gif" style="width: 100%; height: auto;">
-
-    <h4>Compress</h4>
-    <p><em>Flattens and reduces spatial separation.</em></p>
-    <img src="imgs/32.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Soften</h4>
-    <p><em>Reduces contrast and hard edges.</em></p>
-    <img src="imgs/33.gif" style="width: 100%; height: auto;">
-
-    <h4>Flatten</h4>
-    <p><em>Minimizes shadows and depth cues.</em></p>
-    <img src="imgs/34.gif" style="width: 100%; height: auto;">
-
-    <h4>Sculpt</h4>
-    <p><em>Emphasizes volume, form, and dimensionality.</em></p>
-    <img src="imgs/35.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>   
-
----
-
 ## Activities  
 **Complete the following in order. Ask your professor or TA for help as needed.**
 
@@ -329,5 +218,116 @@ Your work will be assessed based on:
   Renders clearly communicate lighting differences from multiple viewpoints.
 
 This is still an exploratory exercise, but at this stage, **intentional lighting decisions and technical clarity matter more than experimentation alone**.
+
+---
+
+## Core Vocabulary
+
+For full reference, review the slides from this week.  
+> Use also [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}   
+
+### Timing
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Fade in / Fade Out</h4>
+    <p><em>Light gradually appears or disappears over time.</em></p>
+    <img src="imgs/23.gif" style="width: 100%; height: auto;">
+
+    <h4>Snap</h4>
+    <p><em>Light changes instantly with no transition</em></p>
+    <img src="imgs/24.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Slow / Fast</h4>
+    <p><em>Describes the speed = how long the lighting change takes.</em></p>
+    <img src="imgs/25.gif" style="width: 100%; height: auto;">
+
+    <h4>Gradual / Sudden</h4>
+    <p><em>Describes how the change feels while it happens.</em></p>
+
+  </div>  
+
+</div>    
+
+### General Changes
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Increase / Decrease intensity</h4>
+    <p><em>Light becomes brighter or dimmer.</em></p>
+    <img src="imgs/26.gif" style="width: 100%; height: auto;">
+
+    <h4>Warm → Cool / Cool → Warm</h4>
+     <p><em>Light shifts in colour temperature.</em></p>
+    <img src="imgs/27.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Introduce / Remove</h4>
+    <p><em>A light is added to or taken out of the scene.</em></p>
+    <img src="imgs/28.gif" style="width: 100%; height: auto;">
+
+    <h4>Shift dominance</h4>
+    <p><em>One light becomes more visually important than others.</em></p>
+    <img src="imgs/29.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+</div>     
+
+
+### Spatial Effect
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Isolate</h4>
+    <p><em>Separates a subject from its surroundings.</em></p>
+    <img src="imgs/30.gif" style="width: 100%; height: auto;">
+
+    <h4>Expose</h4>
+    <p><em>Makes details clearly visible.</em></p>
+    <img src="imgs/31.gif" style="width: 100%; height: auto;">
+
+    <h4>Compress</h4>
+    <p><em>Flattens and reduces spatial separation.</em></p>
+    <img src="imgs/32.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Soften</h4>
+    <p><em>Reduces contrast and hard edges.</em></p>
+    <img src="imgs/33.gif" style="width: 100%; height: auto;">
+
+    <h4>Flatten</h4>
+    <p><em>Minimizes shadows and depth cues.</em></p>
+    <img src="imgs/34.gif" style="width: 100%; height: auto;">
+
+    <h4>Sculpt</h4>
+    <p><em>Emphasizes volume, form, and dimensionality.</em></p>
+    <img src="imgs/35.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+</div>   
 
 ---
