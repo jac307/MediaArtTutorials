@@ -26,7 +26,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **Blender (free software)**  
   👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
 - Computer mouse (recommended)
-- Your **Week 4 Blender file (.blend)**
+- Your **Week 5 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -34,7 +34,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Core Vocabulary
 
 For full reference, review the slides from this week.  
-> Use also [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}
+> Use also [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}   
 
 ### Timing
 
@@ -44,12 +44,12 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Fade in / Fade Out</h4>
-    <img src="imgs/23.gif" style="width: 100%; height: auto;">
     <p><em>Light gradually appears or disappears over time.</em></p>
+    <img src="imgs/23.gif" style="width: 100%; height: auto;">
 
     <h4>Snap</h4>
-    <img src="imgs/24.gif" style="width: 100%; height: auto;">
     <p><em>Light changes instantly with no transition</em></p>
+    <img src="imgs/24.gif" style="width: 100%; height: auto;">
 
   </div>
 
@@ -57,18 +57,15 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Slow / Fast</h4>
-    <img src="imgs/25.gif" style="width: 100%; height: auto;">
     <p><em>Describes the speed = how long the lighting change takes.</em></p>
+    <img src="imgs/25.gif" style="width: 100%; height: auto;">
 
     <h4>Gradual / Sudden</h4>
     <p><em>Describes how the change feels while it happens.</em></p>
 
   </div>  
 
-</div>
-
-#### Gradual / Sudden
-> Describes how the change feels while it happens.
+</div>    
 
 ### General Changes
 
@@ -78,12 +75,12 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Increase / Decrease intensity</h4>
-    <img src="imgs/26.gif" style="width: 100%; height: auto;">
     <p><em>Light becomes brighter or dimmer.</em></p>
+    <img src="imgs/26.gif" style="width: 100%; height: auto;">
 
     <h4>Warm → Cool / Cool → Warm</h4>
+     <p><em>Light shifts in colour temperature.</em></p>
     <img src="imgs/27.gif" style="width: 100%; height: auto;">
-    <p><em>Light shifts in colour temperature.</em></p>
 
   </div>
 
@@ -91,16 +88,16 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Introduce / Remove</h4>
-    <img src="imgs/28.gif" style="width: 100%; height: auto;">
     <p><em>A light is added to or taken out of the scene.</em></p>
+    <img src="imgs/28.gif" style="width: 100%; height: auto;">
 
     <h4>Shift dominance</h4>
-    <img src="imgs/29.gif" style="width: 100%; height: auto;">
     <p><em>One light becomes more visually important than others.</em></p>
+    <img src="imgs/29.gif" style="width: 100%; height: auto;">
 
   </div>
 
-</div>
+</div>     
 
 
 ### Spatial Effect
@@ -111,16 +108,16 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Isolate</h4>
-    <img src="imgs/30.gif" style="width: 100%; height: auto;">
     <p><em>Separates a subject from its surroundings.</em></p>
+    <img src="imgs/30.gif" style="width: 100%; height: auto;">
 
     <h4>Expose</h4>
-    <img src="imgs/31.gif" style="width: 100%; height: auto;">
     <p><em>Makes details clearly visible.</em></p>
+    <img src="imgs/31.gif" style="width: 100%; height: auto;">
 
     <h4>Compress</h4>
-    <img src="imgs/32.gif" style="width: 100%; height: auto;">
     <p><em>Flattens and reduces spatial separation.</em></p>
+    <img src="imgs/32.gif" style="width: 100%; height: auto;">
 
   </div>
 
@@ -128,20 +125,20 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Soften</h4>
-    <img src="imgs/33.gif" style="width: 100%; height: auto;">
     <p><em>Reduces contrast and hard edges.</em></p>
+    <img src="imgs/33.gif" style="width: 100%; height: auto;">
 
     <h4>Flatten</h4>
-    <img src="imgs/34.gif" style="width: 100%; height: auto;">
     <p><em>Minimizes shadows and depth cues.</em></p>
+    <img src="imgs/34.gif" style="width: 100%; height: auto;">
 
     <h4>Sculpt</h4>
-    <img src="imgs/35.gif" style="width: 100%; height: auto;">
     <p><em>Emphasizes volume, form, and dimensionality.</em></p>
+    <img src="imgs/35.gif" style="width: 100%; height: auto;">
 
   </div>
 
-</div>
+</div>   
 
 ---
 
