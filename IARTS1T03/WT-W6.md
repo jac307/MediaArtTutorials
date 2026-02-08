@@ -87,7 +87,7 @@ Hand-drawn (preferred) or digital.
 #### Example  
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting decisions and cue logic**.
 
-<img src="imgs/14.jpg" style="width: 60%; height: auto;">   
+<img src="imgs/36.jpg" style="width: 60%; height: auto;">   
 
 > ⚠️ Your drawing skill is not graded.  
 > You are graded on **clarity of lighting logic, use of vocabulary, and ability to communicate cues clearly**.
@@ -137,118 +137,161 @@ For **each lighting map**, include a short **cue list** written as if you were g
 
 ---
 
-<h3 style="color: darkred;">[60 min] Lighting in Blender — Two Versions</h3>
+<<h3 style="color: darkred;">[60 min] Lighting in Blender — Two Versions</h3>
 
-### Required Organization
+### Required Organization (Before You Begin)
 
-Use the **same Blender file from Week 5** and organize it using **three collections**:
+You will work from your **Week 5 Blender scene**, but you must create **TWO SEPARATE BLENDER FILES**, one for each lighting version.
+
+➡️ **First step:**  
+Duplicate your W5 file **before** adding or animating any lights.
+
+You should end up with:
+- `Lastname-Firstname-W6-LightingA.blend`
+- `Lastname-Firstname-W6-LightingB.blend`
+
+Each file will contain **one complete animated lighting version**.
+
+---
+
+### Collection Structure (Required)
+
+Each Blender file must be organized using **three collections**:
 
 1. **Geometry / Shapes**  
 2. **Cameras**  
 3. **Lights**
 
 #### Organization Rules
-- Do **not** move or rename geometry from W5
-- Place all lights in the **Lights** collection
+- Do **not** move, modify, or rename geometry from W5
+- Place **all lights** in the **Lights** collection
 - Rename **lights clearly** (e.g., `Front_Light`, `Top_Light`)
-- **Correct naming protocol:** don't leave spaces in-between words, always fill with `_`
+- **Correct naming protocol:** do not leave spaces between words; use `_` instead
 
-> ⚠️ **Important:** Your Blender file will be checked for organization and continuity from Week 4.
+> ⚠️ **Important:** Each Blender file will be checked for proper organization.
 
---- 
+---
 
-### Lighting in Blender — Three Versions   
-  
-Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}       
-> Focus only on lighting     
-> Check the shortcuts provided!    
+### Lighting in Blender — Two Animated Versions
 
-❗ Review the slides from this week for practical tips on organizing scenes and working with lights in Blender.   
+Using your **W5 scene layout**, apply **animated lighting cues** based on your two lighting intentions and 2D lighting maps.
+
+Each file must contain **one lighting version only**:
+
+- **Lighting Version A:** Single Emotion, Evolving Over Time  
+- **Lighting Version B:** Mixed Emotions Over Time  
+
+Each version must include **lighting changes over time**.
+
+Follow this tutorial on  
+[Lighting in Blender](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}  
+> Focus on **lighting and animation only**  
+> Use the shortcuts provided in the tutorial  
+
+❗ Review this week’s slides for practical tips on **animating lights and working with cues in Blender**.
+
+---
+
+### Timing & Animation Guidelines (Important)
+
+- Each **lighting cue** should occur approximately every **60–120 frames**
+- Design **3–5 cues maximum** per version
+- Total animation length must be **no longer than 25 seconds**
+  - This corresponds to a maximum of **300 frames**
+  - ⚠️ Do not exceed **25 seconds / 300 frames**
+- Keep animations concise to avoid long render times on slower computers
+
+---
 
 ### Lighting Constraints
+
 - ❌ Delete the default **Sun** light
-- ✅ Use only:
+- ✅ Use **only**:
   - **Spot Lights**
   - **Area Lights** (for reflected light)
 - ❌ No materials or textures
+- ❌ Do not move objects, audience placement, or stage layout
+- ❌ **Do not animate light position or rotation**
 
-### For each lighting version:
-- Add and position lights according to your 2D map
-- Adjust:
-  - position & rotation
+---
+
+### For Each Lighting Version
+
+Apply your planned cues by **animating light properties** using keyframes.
+
+For each version:
+- Add and position lights according to your **2D lighting map**
+- Animate changes to:
   - colour
   - intensity (power)
   - radius / size
   - influence and beam shape
+- Ensure each cue introduces a **clear, intentional change**
 
-> Each version should feel **distinct**, even though the space remains the same.   
-
-### Rendering Requirements
-
-- Render **2–3 images per lighting version**
-- Each render must be from a **different camera angle**
-- Images must be **renders**, not screenshots
-
-➡️ **Save all rendered images** for submission.
+You may also animate the **camera** to introduce movement.  
+This is **optional** for this week.
 
 ---
 
-<h3 style="color: darkred;">[15 min] Lighting Intentions — End Here</h3>
+### Rendering Requirements
 
-For **each lighting version**, write **4–6 sentences** describing:
+- Render **one short video per lighting version**
+- Each video must:
+  - show the **full cue sequence**
+  - remain within the **25-second / 300-frame limit**
+- Videos must be **renders**, not viewport screen recordings
 
-- **Technical choices:**
-  - light position and direction
-  - colour and intensity
-  - type of light used
-- **Spatial and expressive intention:**
-  - What changes in visibility, depth, or atmosphere?
-  - How does this lighting reshape the space?
+---
+
+### Export Settings (Required)
+
+- **Frame rate:** 24 fps (standard cinematic frame rate)
+- **Output format:** Video
+- **File format:** MP4
+- **Codec:** H.264
+
+Follow the tutorial below to learn how to adjust **export settings** and render a video in Blender.
+
+---
+
+➡️ **Save the two rendered videos** for submission.  
+You should end up with:
+
+- `Lastname-Firstname-W6-LightingA.mp4`
+- `Lastname-Firstname-W6-LightingB.mp4`
 
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single PDF with **3 pages total**:
+### Create a single PDF with **2 pages total**:
 
-#### Page 1 — Lighting Version 1
+#### Page 1 — Lighting Version A (Single Emotion, Evolving Over Time)
+- **3–4 sentence lighting intention description**
 - 2D Lighting Map  
-- Rendered images (2–3)  
-- 4–6 sentence description  
+  - Top view, side view, and front view  
+  - Colour-coded lights with range indicated  
+  - Cue list (3–5 cues, written for a technician)  
 
-#### Page 2 — Lighting Version 2
+#### Page 2 — Lighting Version B (Mixed Emotions Over Time)
+- **3–4 sentence lighting intention description**
 - 2D Lighting Map  
-- Rendered images (2–3)  
-- 4–6 sentence description  
-
-#### Page 3 — Lighting Version 3
-- 2D Lighting Map  
-- Rendered images (2–3)  
-- 4–6 sentence description  
+  - Top view, side view, and front view  
+  - Colour-coded lights with range indicated  
+  - Cue list (3–5 cues, written for a technician)
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W5-Tutorial.pdf`  
+📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
 
 ---
 
-### Save Blender File
-
-➡️ **Save as .blend**  
-📄 **Filename:** `Lastname-Firstname-W5-Lighting.blend`
-
-Your Blender file **must include**:
-- Geometry unchanged from Week 4
-- Properly named lights
-- Correct collection structure
-
----
-
-<h3 style="color: darkred;">📤 Submission</h3>
-
-| Component         | File Name                              |
-|------------------|-----------------------------------------|
-| Project document | `Lastname-Firstname-W4-Tutorial.pdf`    |
-| Blender file     | `Lastname-Firstname-W4-Lighting.blend`  |
+| Component                | File Name                                  |
+|--------------------------|--------------------------------------------|
+| Project document (PDF)   | `Lastname-Firstname-W6-Tutorial.pdf`       |
+| Blender file — Version A | `Lastname-Firstname-W6-LightingA.blend`    |
+| Blender file — Version B | `Lastname-Firstname-W6-LightingB.blend`    |
+| Video — Version A        | `Lastname-Firstname-W6-LightingA.mp4`      |
+| Video — Version B        | `Lastname-Firstname-W6-LightingB.mp4`      |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -256,26 +299,23 @@ Your Blender file **must include**:
 
 ## Assessment
 
-This Week 4 activity is graded with **higher expectations** than previous weeks, as you are now expected to apply both conceptual and technical skills more intentionally.  
+This Week 6 activity is graded with **higher expectations** than previous weeks, as you are now expected to apply lighting concepts **over time** using both intentional design and technical execution.
 
 Your work will be assessed based on:
 
-- **Continuity from Week 4**  
-  Same scene, same layout, same cameras.
-
 - **Lighting vocabulary and clarity**  
-  Accurate and intentional use of lighting terms in maps and writing.
+  Accurate and intentional use of lighting and cue-based terminology in maps, written intentions, and cue descriptions.
 
 - **Lighting design logic**  
-  Each version demonstrates a clear and distinct spatial effect.
+  Each version demonstrates a clear and distinct temporal and spatial effect through lighting changes and cue progression.
 
 - **Blender workflow and organization**  
-  Proper collections, naming, and lighting-only changes.
+  Proper use of collections, clear naming conventions, correct file duplication, and lighting-only animation changes.
 
 - **Rendered output**  
-  Renders clearly communicate lighting differences from multiple viewpoints.
+  Rendered videos clearly communicate lighting movement, cue transitions, and spatial differences over time.
 
-This is still an exploratory exercise, but at this stage, **intentional lighting decisions and technical clarity matter more than experimentation alone**.
+This remains an exploratory exercise, but at this stage, **intentional lighting decisions, clear communication, and technical clarity matter more than experimentation alone**.  
 
 ---
 
