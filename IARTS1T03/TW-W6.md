@@ -1,8 +1,6 @@
 <h1 style="color: darkred;">W6: Technical Walkthrough Activity — Designing Lighting Cues</h1>
 
-**Goal:** Practice spatial and lighting vocabulary by designing and communicating **lighting cues over time**, using light as a narrative and expressive tool.
-
-This activity focuses on **change**: how lighting transitions reshape space, attention, and emotion.
+**Goal:** Practice spatial and lighting vocabulary by designing and communicating **lighting cues over time**, using light as a narrative and expressive tool.   
 
 ---
 
@@ -23,10 +21,7 @@ This activity focuses on **change**: how lighting transitions reshape space, att
 
 <h2 style="color: darkred;">1. Emotional Design Prompts (Choose ONE)</h2>
 
-As a group, choose **one** of the following emotional prompts and design a sequence of lighting cues that expresses the scenario **over time**.  
-Do not change the space or objects — work only through lighting.
-
----
+As a group, choose **one** of the following emotional prompts and design a sequence of lighting cues that expresses the scenario **over time**.   
 
 ### **Prompt A — Single Emotion, Evolving Over Time**
 
@@ -38,9 +33,7 @@ The emotional trajectory should move:
 
 The emotion remains the same throughout, but:
 - its **intensity increases**
-- the sense of **distance, pressure, or exposure** changes
-
----
+- the sense of **distance, pressure, or exposure** changes    
 
 ### **Prompt B — Mixed Emotions Over Time**
 
