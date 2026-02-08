@@ -41,9 +41,37 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Lighting Maps — Start Here</h3>
+<h3 style="color: darkred;">[15 min] Lighting Intentions — Start Here</h3>
 
-Using **your Week 4 scene layout**, create **three (3) 2D lighting maps**, each representing a **different lighting version of the same space**.   
+Before creating your lighting maps and working in Blender, you must clearly define your **lighting intentions**.
+
+You will write **two separate lighting intentions**, one for each emotional prompt explored in class.
+
+#### **Lighting Intention A — Single Emotion, Evolving Over Time**
+
+Write **3–4 sentences** describing how a **single emotional state** evolves through **lighting changes**.
+
+Your description must:
+- focus on **change over time**, not a static look
+- include **3–5 distinct cues or transitions**
+- describe how lighting **intensity, colour, dominance, and spatial effect** shift
+- use the vocabulary introduced in class (W5–W6)
+
+#### **Lighting Intention B — Mixed Emotions Over Time**
+
+Write **3–4 sentences** describing how **multiple emotions coexist or compete** through lighting changes.
+
+Your description must:
+- describe how different emotional forces **overlap or shift dominance**
+- include **3–5 distinct cues or transitions**
+- focus on **contrast, tension, or collapse** rather than smooth progression
+- use the vocabulary introduced in class (W5–W6)
+
+---
+
+<h3 style="color: darkred;">[20 min] 2D Lighting Maps </h3>
+
+Using **your Week 4 scene layout**, create **two 2D lighting maps**, each representing a **different lighting version of the same space**.   
 
 > ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.   
 > Your plan must have the top view, side view, front view, and prespective view of the main objects on stage.   
