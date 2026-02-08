@@ -64,10 +64,10 @@ For full reference, review the slides from this week.
 
 <h3 style="color: darkred;">[20 min] 2D Lighting Maps — Start Here</h3>
 
-Using **your Week 4 scene layout**, create **three (3) 2D lighting maps**, each representing a **different lighting version of the same space**.   
+Using **your Week 4 scene layout**, create **three (3) lighting maps**, each representing a **different lighting version of the same space**.   
 
 > ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.   
-> Your plan must have the top view, side view, front view, and prespective view of the main objects on stage.   
+> Each lighting map must have the top view, side view, front view, and prespective view of the main objects on stage.   
 > Hand-drawn (preferred) or digital.    
 
 #### Example  
@@ -153,7 +153,7 @@ Follow this tutorial on [Lighting](https://jac307.github.io/MediaArtTutorials/Bl
 
 ### Rendering Requirements
 
-- Render **2–3 images per lighting version**
+- Render **2–3 images of each lighting version / lighting map**
 - Each render must be from a **different camera angle**
 - Images must be **renders**, not screenshots
 
