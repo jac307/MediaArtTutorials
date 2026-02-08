@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W5 — Lighting as Spatial Transformation</span>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/08.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/22.jpg" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -31,29 +31,100 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-## Lights Overview
+## Core Vocabulary
 
-For full reference, review the slides from this week.   
+For full reference, review the slides from this week.  
+> Use also [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}
 
-### Front Light
-<img src="imgs/09.jpg" style="width: 80%; height: auto;">    
-> Establishes a clear, legible baseline by maximizing visibility and minimizing shadows.
+### Timing
 
-### Top / Zenithal Light
-<img src="imgs/10.jpg" style="width: 80%; height: auto;">    
-> Balance visibility and depth, producing a controlled, sculpted three-dimensional look.
+#### Fade in / Fade Out
+<img src="imgs/23.gif" style="width: 40%; height: auto;">  
+> Light gradually appears or disappears over time.  
 
-### Mirrored Front Lights
-<img src="imgs/11.jpg" style="width: 80%; height: auto;">    
-> Reveals texture and form through contrast, introducing asymmetry and directional shadows.
+#### Snap
+<img src="imgs/24.gif" style="width: 40%; height: auto;">     
+> Light changes instantly with no transition.  
 
-### Side Lights
-<img src="imgs/12.jpg" style="width: 80%; height: auto;">    
-> Emphasizes vertical hierarchy, creating pressure and strong shadows beneath forms.
+#### Slow / Fast
+<img src="imgs/25.gif" style="width: 40%; height: auto;">     
+> Describes the speed = how long the lighting change takes. 
 
-### Reflected Light
-<img src="imgs/13.jpg" style="width: 80%; height: auto;">    
-> Softens the scene by diffusing light, gently filling shadows while preserving volume.
+#### Gradual / Sudden
+> Describes how the change feels while it happens.
+
+### General Changes
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Increase / Decrease intensity</h4>
+    <img src="imgs/26.gif" style="width: 100%; height: auto;">
+    <p><em>Light becomes brighter or dimmer.</em></p>
+
+    <h4>Warm → Cool / Cool → Warm</h4>
+    <img src="imgs/27.gif" style="width: 100%; height: auto;">
+    <p><em>Light shifts in colour temperature.</em></p>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Introduce / Remove</h4>
+    <img src="imgs/28.gif" style="width: 100%; height: auto;">
+    <p><em>A light is added to or taken out of the scene.</em></p>
+
+    <h4>Shift dominance</h4>
+    <img src="imgs/29.gif" style="width: 100%; height: auto;">
+    <p><em>One light becomes more visually important than others.</em></p>
+
+  </div>
+
+</div>
+
+
+### Spatial Effect
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Isolate</h4>
+    <img src="imgs/30.gif" style="width: 100%; height: auto;">
+    <p><em>Separates a subject from its surroundings.</em></p>
+
+    <h4>Expose</h4>
+    <img src="imgs/31.gif" style="width: 100%; height: auto;">
+    <p><em>Makes details clearly visible.</em></p>
+
+    <h4>Compress</h4>
+    <img src="imgs/32.gif" style="width: 100%; height: auto;">
+    <p><em>Flattens and reduces spatial separation.</em></p>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Soften</h4>
+    <img src="imgs/33.gif" style="width: 100%; height: auto;">
+    <p><em>Reduces contrast and hard edges.</em></p>
+
+    <h4>Flatten</h4>
+    <img src="imgs/34.gif" style="width: 100%; height: auto;">
+    <p><em>Minimizes shadows and depth cues.</em></p>
+
+    <h4>Sculpt</h4>
+    <img src="imgs/35.gif" style="width: 100%; height: auto;">
+    <p><em>Emphasizes volume, form, and dimensionality.</em></p>
+
+  </div>
+
+</div>
 
 ---
 
