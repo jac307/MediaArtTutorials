@@ -38,9 +38,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 <h3 style="color: darkred;">[15 min] Lighting Intentions — Start Here</h3>
 
-Before creating your lighting maps and working in Blender, you must clearly define your **lighting intentions**.
-
-You will write **one separate lighting intentions**, **selecting one of the two following approaches (A or B)**.  
+Select **one of the two following approaches (A or B)** and write **a lighting intention**.  
 
 #### **Lighting Intention A — Single Emotion, Evolving Over Time**
 
