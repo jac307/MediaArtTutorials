@@ -115,7 +115,7 @@ When speaking:
 
 ---
 
-<h2 style="color: darkred;">Presentation Format</h2>
+<h2 style="color: darkred;">3. Presentation Format</h2>
 
 Select **2 students** to speak on behalf of the group.
 
