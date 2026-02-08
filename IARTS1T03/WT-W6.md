@@ -29,11 +29,6 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - Your **Week 5 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
-## Vocabulary
-
-- [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}
-- [W6 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W6.html#core-vocabulary){:target="_blank" rel="noopener noreferrer"}
-
 ---
 
 ## Activities  
@@ -69,61 +64,91 @@ Your description must:
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Lighting Maps </h3>
+<h3 style="color: darkred;">[20 min] 2D Lighting Maps</h3>
 
-Using **your Week 4 scene layout**, create **two 2D lighting maps**, each representing a **different lighting version of the same space**.   
+Using **your Week 4 scene layout**, create **two (2) lighting maps**, each representing a **different lighting intention**:
 
-> ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.   
-> Your plan must have the top view, side view, front view, and prespective view of the main objects on stage.   
-> Hand-drawn (preferred) or digital.    
+- **Lighting Map A:** Single Emotion, Evolving Over Time  
+- **Lighting Map B:** Mixed Emotions Over Time  
+
+> ⚠️ You must **not** change object placement, stage position, audience placement, or entrances.  
+> You are only designing **lighting changes over time**.  
+
+Each lighting map must include:
+- a **Top View**
+- a **Side View**
+- a **Front View**
+- a written **cue list** describing lighting changes over time
+
+Hand-drawn (preferred) or digital.
+
+---
 
 #### Example  
-You are not copying the example — you are using it as a reference for **how to communicate lighting decisions clearly**.
+You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting decisions and cue logic**.
 
-<img src="imgs/14.jpg" style="width: 60%; height: auto;">    
+<img src="imgs/14.jpg" style="width: 60%; height: auto;">   
+
+> ⚠️ Your drawing skill is not graded.  
+> You are graded on **clarity of lighting logic, use of vocabulary, and ability to communicate cues clearly**.
 
 ---
 
 ### Lighting Map Requirements
 
 You are required to use the vocabulary from  
-[Week 1](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W1.html#requirements){:target="_blank"}  
-**and from this week** when labeling your maps and writing your descriptions.
+- [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}  
+- [W6 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W6.html#core-vocabulary){:target="_blank" rel="noopener noreferrer"}  
 
-For **each lighting version**, indicate:
+Because you will be using **multiple lights** on each map, you must:
+- use a **different colour** to represent **each light**
+- indicate the **range or spread** of each light (cone, area, or wash)
+- include a **legend** explaining which colour corresponds to which light  
+
+For **each light** shown in the map, clearly indicate:
 
 - **Type of light**  
-  (front, side, top/zenithal, mirrored front, reflected)
-- **Light position**  
+  (front, side, top/zenithal, mirrored front, gobo, reflected)
+- **Position**  
   (where the light is placed in relation to the stage)
-- **Light direction**  
+- **Direction**  
   (arrow)
 - **Rotation**  
   (angled vs straight, if relevant)
-- **Light colour**
-- **Light intensity**  
+- **Colour**
+- **Intensity**  
   (low / mid / high)
 - **What the light affects**  
   (objects, stage area, audience, background)
 
-Each version may use **ONE or TWO lights maximum**.   
+---
+
+### Cue Instructions (Written for a Technician)
+
+For **each lighting map**, include a short **cue list** written as if you were giving instructions to a lighting technician.
+
+- Include **3–5 cues maximum**
+- Write cues **in order**
+- Describe **changes**, not emotions
+- Use vocabulary from class (fade, snap, increase/decrease intensity, introduce/remove, shift dominance, etc.)
+
+> Example cue language:  
+> “Cue 2: Fade in top light slowly while reducing front light to low, shifting dominance upward.”  
 
 ---
 
-<h3 style="color: darkred;">[60 min] Lighting in Blender — Three Versions</h3>
+<h3 style="color: darkred;">[60 min] Lighting in Blender — Two Versions</h3>
 
 ### Required Organization
 
-Use the **same Blender file from Week 4** and organize it using **three collections**:
+Use the **same Blender file from Week 5** and organize it using **three collections**:
 
 1. **Geometry / Shapes**  
 2. **Cameras**  
 3. **Lights**
 
-<img src="imgs/12.png" style="width: 50%; height: auto;">    
-
 #### Organization Rules
-- Do **not** move or rename geometry from W4
+- Do **not** move or rename geometry from W5
 - Place all lights in the **Lights** collection
 - Rename **lights clearly** (e.g., `Front_Light`, `Top_Light`)
 - **Correct naming protocol:** don't leave spaces in-between words, always fill with `_`
