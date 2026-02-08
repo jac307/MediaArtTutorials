@@ -65,6 +65,8 @@ For full reference, review the slides from this week.
 
   </div>  
 
+</div>
+
 #### Gradual / Sudden
 > Describes how the change feels while it happens.
 
