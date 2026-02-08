@@ -181,14 +181,15 @@ Each file must contain **one lighting version only**:
 - **Lighting Version A:** Single Emotion, Evolving Over Time  
 - **Lighting Version B:** Mixed Emotions Over Time  
 
-Each version must include **lighting changes over time**.
+Each version must include **lighting changes over time**.  
 
-Follow this tutorial on  
-[Lighting in Blender](https://jac307.github.io/MediaArtTutorials/Blender/10_Lighting_Camera.html){:target="_blank"}  
-> Focus on **lighting and animation only**  
-> Use the shortcuts provided in the tutorial  
+❗ Review this week’s slides for practical tips on **animating lights and working with cues in Blender**.  
 
-❗ Review this week’s slides for practical tips on **animating lights and working with cues in Blender**.
+#### BLENDER TUTORIAL : How to Animate LIGHTS (QUICK)
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9C41lnEfJWY?si=rbae-DhqCA1RY-CS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</div>  
 
 ---
 
@@ -228,8 +229,8 @@ For each version:
   - influence and beam shape
 - Ensure each cue introduces a **clear, intentional change**
 
-You may also animate the **camera** to introduce movement.  
-This is **optional** for this week.
+You may also animate the **camera** to introduce movement. This is **optional** for this week.  
+Follow this tutorial on [Camera Animation Basics](https://jac307.github.io/MediaArtTutorials/Blender/12_Camera_Animation_Basics.html){:target="_blank"}  
 
 ---
 
