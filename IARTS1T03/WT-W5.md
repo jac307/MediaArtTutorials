@@ -66,7 +66,7 @@ For full reference, review the slides from this week.
 
 Using **your Week 4 scene layout**, create **three (3) lighting maps**, each representing a **different lighting version of the same space**.   
 
-> ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.   
+> ⚠️ You must NOT change object placement, stage position, audience placement, or entrances. Only add the **lighting changes**.     
 > Hand-drawn (preferred) or digital.
 
 Each lighting map must include:
