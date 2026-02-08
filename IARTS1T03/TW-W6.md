@@ -21,7 +21,9 @@
 
 <h2 style="color: darkred;">1. Emotional Design Prompts (Choose ONE)</h2>
 
-As a group, choose **one** of the following emotional prompts and design a sequence of lighting cues that expresses the scenario **over time**.   
+As a group, choose **one** of the following emotional prompts and design a sequence of lighting cues that expresses the scenario **over time**. 
+
+---
 
 ### **Prompt A — Single Emotion, Evolving Over Time**
 
@@ -34,6 +36,8 @@ The emotional trajectory should move:
 The emotion remains the same throughout, but:
 - its **intensity increases**
 - the sense of **distance, pressure, or exposure** changes    
+
+---
 
 ### **Prompt B — Mixed Emotions Over Time**
 
