@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W5 — Lighting as Spatial Transformation</span>
+# <span style="color: darkred;">W6 — Lighting as Temporal Transformation</span>
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/22.jpg" style="width: 100%; height: auto;">
@@ -10,9 +10,9 @@
 
 ## Objective
 
-You will apply **three different lighting versions** to the **same W4 scene**, learning how lighting alone can change visibility, depth, hierarchy, and atmosphere.   
+You will build on your **W5 scene** by designing and animating **moving lights**, exploring how **lighting cues over time** reshape space, attention, and emotional trajectory.    
 
-This activity focuses on how **lighting position, direction, intensity, and colour** reshape space **without moving objects, the audience, or the stage layout**.   
+This activity focuses on how **changes in lighting position, intensity, colour, and dominance**, combined with **camera movement**, transform the experience of a space **without changing the objects, audience placement, or stage layout**.   
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -28,6 +28,11 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - Computer mouse (recommended)
 - Your **Week 5 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
+
+## Vocabulary
+
+- [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}
+- [W6 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W6.html#core-vocabulary){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -223,8 +228,7 @@ This is still an exploratory exercise, but at this stage, **intentional lighting
 
 ## Core Vocabulary
 
-For full reference, review the slides from this week.  
-> Use also [W5 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank" rel="noopener noreferrer"}   
+For full reference, review the slides from this week.    
 
 ### Timing
 
