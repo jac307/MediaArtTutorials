@@ -188,8 +188,10 @@ You must **follow your cues in order**, translating each one into animated light
   - ⚠️ Do not exceed **25 seconds / 300 frames**
 - Keep animations concise to avoid long render times on slower computers
 - ❌ **Do not animate light position or rotation**
-- **Materials:** You may follow this tutorial to adjust **light colour only**
+- **Materials:** You may follow the image-tutorial below to adjust the **colour** of the venue
   > ❌ Do not use additional materials or textures
+
+<img src="imgs/39.jpeg" style="width: 60%; height: auto;">     
 
 ---
 
@@ -205,7 +207,7 @@ You must **follow your cues in order**, translating each one into animated light
 
 ---
 
-<h3 style="color: darkred;">[20 min] Animate the Camera + Render Video in Blender</h3>  
+<h3 style="color: darkred;">[20 min] Animate the Camera + Render Video and Image in Blender</h3>  
 
 <img src="imgs/38.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">  
 
@@ -228,7 +230,7 @@ Follow this tutorial on
 
 ---
 
-### Rendering Requirements
+### Video Rendering Requirements
 
 - Render **one short video per lighting version**
 - Each video must:
@@ -246,7 +248,61 @@ Follow this tutorial on
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=PSvPcJ_74rNpn7dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-❗ Review this week’s slides for practical tips on **animating lights, camera, and render video files in Blender**.    
+❗ Review this week’s slides for practical tips on **animating lights, camera, and render video files in Blender**.  
+
+---
+
+### Image Rendering Requirements
+
+For **each cue**, you must **render one image** that visualizes that moment and include it in your **cue list**.
+
+Follow the image tutorial below to learn how to render **specific frames**:
+
+<img src="imgs/40.jpeg" style="width: 60%; height: auto;">     
+
+#### Example — Lighting Intention + Cue Sequence (Excerpt)
+
+You are **not copying** the example — you are using it as a reference for **how to combine your cue instructions with the rendered frames**.  
+
+<div style="color: gray; font-style: italic; margin-bottom: 1em;">
+
+<strong>Example — Cue Sequence (Excerpt)</strong><br><br>
+
+<!-- Cue 1 -->
+<div style="display: flex; gap: 1.5em; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex: 1;">
+    <img src="imgs/41.jpeg" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Cue 1</strong><br>
+    Fade in a <strong>front 0° light</strong> slowly at <strong>low intensity</strong>, starting with a <strong>wide range</strong> covering more than half of the stage. Gradually shift colour from <strong>light violet</strong> (#E1DEFF) to a <strong>light, low-saturated pink</strong> (#FFCEE2), lighting the centre stage and main objects.
+  </div>
+</div>
+
+<!-- Cue 2 -->
+<div style="display: flex; gap: 1.5em; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex: 1;">
+    <img src="imgs/42.jpeg" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Cue 2</strong><br>
+    Gradually <strong>reduce the range</strong> of the front 0° light toward the main objects. Increase colour saturation to a <strong>mid-saturated pink</strong> (#FFA1A8), keeping intensity low.
+  </div>
+</div>
+
+<!-- Cue 3 -->
+<div style="display: flex; gap: 1.5em; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="imgs/43.jpeg" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Cue 3</strong><br>
+    Increase the range of the front 0° light while shifting colour to <strong>bright red</strong> (#FF1D00) at <strong>mid intensity</strong>. Fade in a <strong>secondary front light</strong> in <strong>bright green</strong> at mid intensity, with a narrower range focused around the main objects, creating <strong>strong contrast</strong> and <strong>hard shadows</strong>.
+  </div>
+</div>
+
+</div>
+
 
 ---
 
