@@ -261,7 +261,7 @@ Follow the image tutorial below to learn how to render **specific frames**:
 
 <img src="imgs/40.jpeg" style="width: 60%; height: auto;">     
 
-#### Example — Lighting Intention + Cue Sequence (Excerpt)
+#### Example — Cue Sequence with Visual Examples (Excerpt)
 
 You are **not copying** the example — you are using it as a reference for **how to combine your cue instructions with the rendered frames**.  
 
