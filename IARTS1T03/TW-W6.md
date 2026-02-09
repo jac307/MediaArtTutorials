@@ -54,7 +54,7 @@ The emotional trajectory should:
 
 These emotions may overlap or compete rather than fully replace one another.  
 
-#### Example: Calm that turns up into Tension
+#### Example: Calm that turns up into Threat
 
 <img src="imgs/44.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">
 
