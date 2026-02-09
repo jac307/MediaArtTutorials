@@ -35,7 +35,11 @@ The emotional trajectory should move:
 
 The emotion remains the same throughout, but:
 - its **intensity increases**
-- the sense of **distance, pressure, or exposure** changes    
+- the sense of **distance, pressure, or exposure** changes
+
+#### Example: Growing Tension
+
+<img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">
 
 ---
 
@@ -48,7 +52,11 @@ The emotional trajectory should:
 - become **busy, active, or excited**
 - then fall into **silence or emotional emptiness**
 
-These emotions may overlap or compete rather than fully replace one another.
+These emotions may overlap or compete rather than fully replace one another.  
+
+#### Example: Calm that turns up into Tension
+
+<img src="imgs/44.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">
 
 ---
 
