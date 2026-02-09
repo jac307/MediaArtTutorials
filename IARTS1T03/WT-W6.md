@@ -133,8 +133,9 @@ Write a short **cue list** written as if you were giving instructions to a light
 
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting cues**.
 
-<img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">    
+<img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">      
 
+<div style="color: gray; font-style: italic; margin-bottom: 1em;">
 <strong>Lighting Intention:</strong><br>
 A growing sense of tension emerges through a front light that slowly expands and contracts in range, creating a rhythmic, breathing-like motion. This buildup is followed by sharp contrast and sculpted shadows, produced by secondary lights that fade in and out. These cues establish increasing pressure and visual instability without moving the objects or space. The following cues represent the <strong>first three moments of a longer lighting sequence</strong>.  
 <br><br>
