@@ -134,6 +134,7 @@ You are **not copying** the example — you are using it as a reference for **ho
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 <img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">
+<br><br>
 <strong>Example — Lighting Intention + Cue Sequence (Excerpt)</strong><br><br>
 <strong>Lighting Intention:</strong><br>
 This lighting sequence uses a front light to gradually change intensity, colour, and range, followed by the introduction of a secondary light to increase contrast and shadow definition. The changes occur without moving objects or the space. The cues below represent the <strong>first three cues of a longer lighting sequence</strong>.
