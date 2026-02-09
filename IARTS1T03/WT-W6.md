@@ -123,7 +123,7 @@ Write a short **cue list** written as if you were giving instructions to a light
 - Include:
   - **Type of light** (front, side, top, mirrored front, gobo, reflected)
   - **Colour** (red, blue, light green, bright pink, etc, or use Hexadecimal-hex)
-  - **Intensity** (low / mid / high)
+  - **Intensity** (low / mid / high, or 0% to 100%)
   - **What the light affects** (objects, stage area, audience, background)
 
 ---
