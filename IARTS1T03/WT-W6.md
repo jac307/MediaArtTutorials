@@ -62,11 +62,12 @@ Your description must:
 
 <h3 style="color: darkred;">[20 min] 2D Lighting Map</h3>
 
-Using **your Week 5 scene layout**, create a **lighting map**, representing **the selected prompt** (from the previous step):
+Using **your Week 5 scene layout**, create a **lighting map**, representing **the selected prompt** (from the previous step):  
 
-- **Lighting Map A:** Single Emotion, Evolving Over Time
-- or
-- **Lighting Map B:** Mixed Emotions Over Time  
+- **Lighting Map A:** Single Emotion, Evolving Over Time  
+  **OR**
+- **Lighting Map B:** Mixed Emotions Over Time
+
 
 > ⚠️ You must **not** change object placement, stage position, audience placement, or entrances.  
 > You are only designing **lighting changes over time**.  
