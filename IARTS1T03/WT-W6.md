@@ -133,17 +133,17 @@ Write a short **cue list** written as if you were giving instructions to a light
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting cues**.        
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
+<strong>Example — Lighting Intention + Cue Sequence (Excerpt)</strong><br><br>
 <img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">
 <br><br>
-<strong>Example — Lighting Intention + Cue Sequence (Excerpt)</strong><br><br>
 <strong>Lighting Intention:</strong><br>
-This lighting sequence uses a front light to gradually change intensity, colour, and range, followed by the introduction of a secondary light to increase contrast and shadow definition. The changes occur without moving objects or the space. The cues below represent the <strong>first three cues of a longer lighting sequence</strong>.
+This lighting sequence builds tension through gradual changes in front light intensity, colour, and range, followed by the introduction of a secondary light that increases contrast and sharpens shadows. The cues below represent the <strong>first three cues of a longer lighting sequence</strong>.
 <br><br>
 <strong>Cue 1</strong><br>
 Fade in a <strong>front 0° light</strong> slowly at <strong>low intensity</strong>, starting with a <strong>wide range</strong> covering more than half of the stage. Gradually shift colour from <strong>light violet</strong> (#E1DEFF) to a <strong>light, low-saturated pink</strong> (#FFCEE2), lighting the centre stage and main objects.
 <br><br>
 <strong>Cue 2</strong><br>
-Gradually <strong>reduce the range</strong> of the front 0° light toward the main objects, then slightly widen it again. Increase colour saturation to a <strong>mid-saturated pink</strong> (#FFA1A8), keeping intensity low.
+Gradually <strong>reduce the range</strong> of the front 0° light toward the main objects. Increase colour saturation to a <strong>mid-saturated pink</strong> (#FFA1A8), keeping intensity low.
 <br><br>
 <strong>Cue 3</strong><br>
 Increase the range of the front 0° light while shifting colour to <strong>bright red</strong> (#FF1D00) at <strong>mid intensity</strong>. Fade in a <strong>secondary front light</strong> in <strong>bright green</strong> at mid intensity, with a narrower range focused around the main objects, creating strong contrast and hard shadows.
