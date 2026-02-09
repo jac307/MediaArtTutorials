@@ -133,7 +133,6 @@ Write a short **cue list** written as if you were giving instructions to a light
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting cues**.        
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
-<strong>Example — Lighting Intention + Cue Sequence (Excerpt)</strong><br><br>
 <img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">
 <br><br>
 <strong>Lighting Intention:</strong><br>
@@ -160,6 +159,8 @@ Each Blender file must be organized using **three collections**:
 1. **Geometry / Shapes**  
 2. **Cameras**  
 3. **Lights**
+
+<img src="imgs/12.png" style="width: 50%; height: auto;">    
 
 #### Organization Rules
 - Do **not** move, modify, or rename geometry from W5
@@ -266,12 +267,10 @@ You are **not copying** the example — you are using it as a reference for **ho
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 
-<strong>Example — Cue Sequence (Excerpt)</strong><br><br>
-
 <!-- Cue 1 -->
 <div style="display: flex; gap: 1.5em; align-items: flex-start; margin-bottom: 1.5em;">
   <div style="flex: 1;">
-    <img src="imgs/41.jpeg" style="width: 100%; height: auto;">
+    <img src="imgs/41.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <strong>Cue 1</strong><br>
@@ -282,7 +281,7 @@ You are **not copying** the example — you are using it as a reference for **ho
 <!-- Cue 2 -->
 <div style="display: flex; gap: 1.5em; align-items: flex-start; margin-bottom: 1.5em;">
   <div style="flex: 1;">
-    <img src="imgs/42.jpeg" style="width: 100%; height: auto;">
+    <img src="imgs/42.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <strong>Cue 2</strong><br>
@@ -293,7 +292,7 @@ You are **not copying** the example — you are using it as a reference for **ho
 <!-- Cue 3 -->
 <div style="display: flex; gap: 1.5em; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="imgs/43.jpeg" style="width: 100%; height: auto;">
+    <img src="imgs/43.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <strong>Cue 3</strong><br>
@@ -316,7 +315,8 @@ You are **not copying** the example — you are using it as a reference for **ho
   - Top view, side view, and front view  
   - Colour-coded lights with range indicated
 - **Cue list**
-  - 3–5 cues, written as instructions for a lighting technician
+  - 3–5 cues, written in order as **clear, technician-style instructions**, using class vocabulary  
+  - **One rendered image per cue**, showing the exact frame where the cue occurs  
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
@@ -335,23 +335,24 @@ You are **not copying** the example — you are using it as a reference for **ho
 
 ## Assessment
 
-This Week 6 activity is graded with **higher expectations** than previous weeks, as you are now expected to apply lighting concepts **over time** using both intentional design and technical execution.
+This Week 6 activity is graded with **higher expectations** than previous weeks, as you are now expected to design and execute **lighting cues over time** with clear planning, accurate vocabulary, and controlled animation.
 
 Your work will be assessed based on:
 
-- **Lighting vocabulary and clarity**  
-  Accurate and intentional use of lighting and cue-based terminology in maps, written intentions, and cue descriptions.
+- **Lighting intention + cue clarity**  
+  Your 3–4 sentence intention clearly describes a temporal lighting trajectory (3–5 cues) using appropriate vocabulary (timing, change, dominance, spatial effect).
 
-- **Lighting design logic**  
-  Each version demonstrates a clear and distinct temporal and spatial effect through lighting changes and cue progression.
+- **2D lighting map communication**  
+  Your map clearly communicates lighting logic across **top, side, and front views**, including colour-coded light ranges/spreads and accurate labels for type of light, position, and colour.
+
+- **Technician-style cue instructions**  
+  Your cue list is written in order and describes **actions and changes** (not emotions), including: type of light, colour (name or hex), intensity (low/mid/high), timing language (fade/snap, slow/fast, gradual/sudden), and what the light affects (objects/stage/audience/background).
 
 - **Blender workflow and organization**  
-  Proper use of collections, clear naming conventions, correct file duplication, and lighting-only animation changes.
+  Your Blender file is properly organized into **Geometry / Cameras / Lights** collections, uses correct naming conventions (with `_`), and follows constraints (no object/layout changes, no extra textures/materials, no animating light position/rotation).
 
-- **Rendered output**  
-  Rendered videos clearly communicate lighting movement, cue transitions, and spatial differences over time.
-
-This remains an exploratory exercise, but at this stage, **intentional lighting decisions, clear communication, and technical clarity matter more than experimentation alone**.  
+- **Animation timing + technical execution**  
+  Lighting changes are keyframed clearly and follow cue pacing (approximately every **60–120 frames**) within the **25-second / 300-frame** limit, demonstrating control of intensity, colour, range/beam, and dominance.  
 
 ---
 
