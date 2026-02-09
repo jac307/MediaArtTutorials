@@ -87,15 +87,15 @@ For **each cue**, make notes (using the vocabulary from class) that clearly defi
 - **Which light(s) are active**
   - front / top / side (low or high) / mirrored / gobo / reflected
 - **What changes**
-  - intensity (increase / decrease)
+  - intensity (increase / decrease) -- this goes from 100% to 0% and viceversa
   - colour (warm / cool / colour shift)
   - presence (introduce / remove)
   - dominance (which light takes priority)
 - **How the change happens**
-  - fade in / fade out
+  - fade in / fade out -- determine the time in seconds
   - snap
-  - slow / fast
-  - gradual / sudden
+  - slow / fast  -- determine the time in seconds
+  - gradual / sudden -- determine the time in seconds
 - **What spatial effect is produced**
   - isolate
   - expose
