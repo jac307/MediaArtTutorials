@@ -170,33 +170,25 @@ Each Blender file must be organized using **three collections**:
 
 ---
 
-### Lighting in Blender  
+### Lighting in Blender — Applying Your Cues
 
-- Add and position lights according to your **2D lighting map**
-- Animate changes to:
+Using your **2D lighting maps and written cue list**, apply your planned lighting changes in Blender.
+
+You must **follow your cues in order**, translating each one into animated lighting changes.
+
+- Animate **the properties defined in your cues**, including:
   - colour
-  - intensity (power) & exposure
+  - intensity (power / exposure)
   - radius / size
   - influence and beam shape (angle & blend)
 - Each **lighting cue** should occur approximately every **60–120 frames**
-- Design **3–5 cues maximum** per version
 - Total animation length must be **no longer than 25 seconds**
   - This corresponds to a maximum of **300 frames**
   - ⚠️ Do not exceed **25 seconds / 300 frames**
 - Keep animations concise to avoid long render times on slower computers
-
----
-
-### Lighting Constraints
-
-- ❌ Delete the default **Sun** light
-- ✅ Use **only**:
-  - **Spot Lights**
-  - **Area Lights** (for reflected light)
-- You may follow this tutorial to change only the colour of your space and/or objects.
-  > ❌ Do not use other materials or textures.  
-- ❌ Do not move objects, audience placement, or stage layout
 - ❌ **Do not animate light position or rotation**
+- **Materials:** You may follow this tutorial to adjust **light colour only**
+  > ❌ Do not use additional materials or textures
 
 ---
 
@@ -212,8 +204,24 @@ Each Blender file must be organized using **three collections**:
 
 ---
 
-You may also animate the **camera** to introduce movement. This is **optional** for this week.  
-Follow this tutorial on [Camera Animation Basics](https://jac307.github.io/MediaArtTutorials/Blender/12_Camera_Animation_Basics.html){:target="_blank"}  
+<h3 style="color: darkred;">[20 min] Animate the Camera + Render Video in Blender</h3>  
+
+<img src="imgs/38.gif" style="width: 100%; height: auto; margin-bottom: 0.75em;">  
+
+Animate the **camera** to introduce **intentional movement** that supports your lighting cues.
+
+You must apply:
+- **One continuous camera movement** across the sequence  
+  **OR**
+- **One camera movement per lighting cue**, aligned with your cue changes (as shown in the example above)
+
+Camera movement should be **subtle and purposeful**, reinforcing shifts in attention, hierarchy, or spatial pressure rather than distracting from the lighting.
+
+Follow this tutorial on  
+[Camera Animation Basics](https://jac307.github.io/MediaArtTutorials/Blender/12_Camera_Animation_Basics.html){:target="_blank"}  
+
+> Focus only on **basic camera movement** (position and/or rotation).  
+> Do not add complex paths or effects.
 
 ---
 
@@ -221,66 +229,38 @@ Follow this tutorial on [Camera Animation Basics](https://jac307.github.io/Media
 
 - Render **one short video per lighting version**
 - Each video must:
-  - show the **full cue sequence**
+  - show the **full lighting cue sequence**
+  - include the **camera movement**
   - remain within the **25-second / 300-frame limit**
 - Videos must be **renders**, not viewport screen recordings
 
----
-
-### Export Settings (Required)
-
-- **Frame rate:** 24 fps (standard cinematic frame rate)
-- **Output format:** Video
-- **File format:** MP4
-- **Codec:** H.264
-
-Follow the tutorial below to learn how to adjust **export settings** and render a video in Blender.
-
----
-
-➡️ **Save the two rendered videos** for submission.  
-You should end up with:
-
-- `Lastname-Firstname-W6-LightingA.mp4`
-- `Lastname-Firstname-W6-LightingB.mp4`
-
----
-
+➡️ **Export as MP4, codec H.264**  
+📄 **Filename:** `Lastname-Firstname-W6-Lighting.mp4`
 
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single PDF with **2 pages total**:
+### Create a single PDF:
 
 #### Page 1 — Lighting Version A (Single Emotion, Evolving Over Time)
 - **3–4 sentence lighting intention description**
-- 2D Lighting Map  
+- **2D Lighting Map**
   - Top view, side view, and front view  
-  - Colour-coded lights with range indicated  
-  - Cue list (3–5 cues, written for a technician)  
-
-#### Page 2 — Lighting Version B (Mixed Emotions Over Time)
-- **3–4 sentence lighting intention description**
-- 2D Lighting Map  
-  - Top view, side view, and front view  
-  - Colour-coded lights with range indicated  
-  - Cue list (3–5 cues, written for a technician)
- 
-
+  - Colour-coded lights with range indicated
+- **Cue list**
+  - 3–5 cues, written as instructions for a lighting technician
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
 
 ---
 
-| Component                | File Name                                  |
-|--------------------------|--------------------------------------------|
-| Project document (PDF)   | `Lastname-Firstname-W6-Tutorial.pdf`       |
-| Blender file — Version A | `Lastname-Firstname-W6-LightingA.blend`    |
-| Blender file — Version B | `Lastname-Firstname-W6-LightingB.blend`    |
-| Video — Version A        | `Lastname-Firstname-W6-LightingA.mp4`      |
-| Video — Version B        | `Lastname-Firstname-W6-LightingB.mp4`      |
+| Component              | File Name                                 |
+|------------------------|-------------------------------------------|
+| Project document (PDF) | `Lastname-Firstname-W6-Tutorial.pdf`      |
+| Blender file           | `Lastname-Firstname-W6-Lighting.blend`    |
+| Video                  | `Lastname-Firstname-W6-Lighting.mp4`      |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
