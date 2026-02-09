@@ -125,37 +125,28 @@ Write a short **cue list** written as if you were giving instructions to a light
   - **Intensity** (low / mid / high)
   - **What the light affects** (objects, stage area, audience, background)
 
-<div style="color: gray; font-style: italic; margin-bottom: 1em;">
+<div style="color: gray; font-style: italic; margin-bottom: 1em;">  
 
-<strong>Example — Lighting Intention + Cue Sequence (Excerpt)</strong><br><br>
+---
+
+#### Example — Lighting Intention + Cue Sequence (Excerpt)  
+
+You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting cues**.
+
+<img src="imgs/37.gif" style="width: 100%; height: auto; margin-bottom: 0.75em;">    
 
 <strong>Lighting Intention:</strong><br>
 A growing sense of tension emerges through a front light that slowly expands and contracts in range, creating a rhythmic, breathing-like motion. This buildup is followed by sharp contrast and sculpted shadows, produced by secondary lights that fade in and out. These cues establish increasing pressure and visual instability without moving the objects or space. The following cues represent the <strong>first three moments of a longer lighting sequence</strong>.  
-
 <br><br>
-
-<img src="imgs/37.gif" style="width: 100%; height: auto; margin-bottom: 0.75em;">
-
-<br><br>
-
 <strong>Cue 1 — Establishing Presence</strong><br>
 Fade in a <strong>front 0° light</strong> slowly at <strong>low intensity</strong>, starting with a <strong>wide range</strong> covering more than half of the stage. Gradually shift colour from <strong>light violet</strong> (#E1DEFF) to a <strong>light, low-saturated pink</strong> (#FFCEE2). This cue exposes the centre stage while keeping the space soft and readable.
-
 <br><br>
-
 <strong>Cue 2 — Rhythmic Compression</strong><br>
 Gradually <strong>reduce the range</strong> of the front 0° light toward the main objects, then slightly widen it again. Increase colour saturation to a <strong>mid-saturated pink</strong> (#FFA1A8). This slow, gradual change compresses and releases the space, reinforcing a sense of controlled tension.
-
 <br><br>
-
 <strong>Cue 3 — Contrast and Sculpting</strong><br>
 Increase the range of the front 0° light while shifting colour to <strong>bright red</strong> (#FF1D00) at <strong>mid intensity</strong>. Fade in a <strong>secondary front light</strong> in <strong>bright green</strong> at mid intensity, with a slightly narrower range focused around the main objects. The interaction between the lights creates <strong>strong contrast</strong>, <strong>hard shadows</strong>, and a sculpted appearance that intensifies spatial pressure.
-
-<br><br>
-
-<em>These cues are part of a longer sequence that continues to develop and resolve the emotional trajectory.</em>
-
-</div>  
+</div>    
 
 ---
 
