@@ -72,6 +72,8 @@ As a group, translate your chosen emotional prompt into a **sequence of lighting
 
 ### What to Decide for Each Cue
 
+> Use [Week 5 Vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W5.html#lights-overview){:target="_blank"} and [Week 6 Vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W6.html#core-vocabulary){:target="_blank"}   
+
 For **each cue**, make notes (using the vocabulary from class) that clearly define:
 
 - **Which light(s) are active**
