@@ -133,7 +133,7 @@ Write a short **cue list** written as if you were giving instructions to a light
 
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting cues**.
 
-<img src="imgs/37.gif" style="width: 100%; height: auto; margin-bottom: 0.75em;">    
+<img src="imgs/37.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">    
 
 <strong>Lighting Intention:</strong><br>
 A growing sense of tension emerges through a front light that slowly expands and contracts in range, creating a rhythmic, breathing-like motion. This buildup is followed by sharp contrast and sculpted shadows, produced by secondary lights that fade in and out. These cues establish increasing pressure and visual instability without moving the objects or space. The following cues represent the <strong>first three moments of a longer lighting sequence</strong>.  
@@ -206,7 +206,7 @@ You must **follow your cues in order**, translating each one into animated light
 
 <h3 style="color: darkred;">[20 min] Animate the Camera + Render Video in Blender</h3>  
 
-<img src="imgs/38.gif" style="width: 100%; height: auto; margin-bottom: 0.75em;">  
+<img src="imgs/38.gif" style="width: 60%; height: auto; margin-bottom: 0.75em;">  
 
 Animate the **camera** to introduce **intentional movement** that supports your lighting cues.
 
