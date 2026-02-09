@@ -24,11 +24,10 @@ Software (freeware):
   + [W3: Technical Walkthrough Activity](TW-W3.md) — Technical Scene Analysis (POV + Space)
 + [Week 4](WT-W4.md) — Spatial Design in a Black Box Venue
 + [Week 5](WT-W5.md) — Lighting as Spatial Transformation
-
++ [Week 6](WT-W6.md) — Lighting as Temporal Transformation
+  + [W6: Technical Walkthrough Activity](TW-W6.md) — Designing Lighting Cues
 
 <!--
-+ 
-+ [Week 6](WT-W6.md) — Animate intensity/color change
 + [Week 7](WT-W7.md) — Sound cue map (beats, dynamics, transitions)
 + [Week 8](WT-W8.md) — Spatial sound diagrams
 + [Week 9](WT-W9.md) — Cue script: map sound → light → camera events
