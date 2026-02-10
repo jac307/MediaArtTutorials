@@ -308,8 +308,7 @@ You are **not copying** the example — you are using it as a reference for **ho
 <h3 style="color: darkred;">Submission Documents</h3>
 
 ### Create a single PDF:
-
-#### Page 1 — Lighting Version A (Single Emotion, Evolving Over Time)
+  
 - **3–4 sentence lighting intention description**
 - **2D Lighting Map**
   - Top view, side view, and front view  
