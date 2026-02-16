@@ -85,12 +85,12 @@ MP4 (H.264); 1920x1080; 24 fps
 
 Students must have their project folder and be ready to show the following:  
 
-<h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
+<h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
 
 - Premiere Pro: `ProjectName.prproj`  
 - Autosaves  
 
-<h3>📁 <code style="color: navy;">03_Renders</code></h3>
+<h4>📁 <code style="color: navy;">03_Renders</code></h4>
 
 - Temporary render naming protocol: `ProjectName_RenderType`  
 
