@@ -48,6 +48,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a half point deduction.**
 
+---
 
 ### Deliverables — 📦 Pre-Production Package (PDF)
 
