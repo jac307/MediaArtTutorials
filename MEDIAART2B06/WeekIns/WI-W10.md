@@ -32,11 +32,11 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h2 id="submission" style="color: darkred;">📤 Submission</h2>
 
-| Item                            | Required Filename                             |
-|---------------------------------|-----------------------------------------------|
-| Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
+| Item                                     | Required Filename                              |
+|------------------------------------------|------------------------------------------------|
+| Sound Design Production Package (ZIP)    | `Lastname_Firstname_SoundDesignProduction.zip` |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a half point deduction.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a one point deduction.**
 
 ---
 
