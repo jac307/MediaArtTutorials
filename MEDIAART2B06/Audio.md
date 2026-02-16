@@ -17,26 +17,23 @@ Ultra-compact, dual-channel wireless microphone system known for its versatility
 
 <img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
 
-Popular and versatile handheld audio recorder used by musicians, podcasters, and filmmakers for high-quality field recording and multi-track recording.  
+Portable audio recorder used to capture production sound, ambient audio, and Foley. In this course, it should be used during filming to record cleaner sound than the camera’s built-in microphone. Can be mounted on-camera or placed closer to the sound source for improved clarity. Always monitor with headphones and record in WAV format.
 
 - 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
 - ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
 
 ### ZOOM H4N Handheld PRO
 
-The Zoom H4n Pro is an upgraded version of the original Zoom H4n, primarily featuring improved, lower-noise preamps for better audio quality, locking XLR inputs, and a more robust build with a better screen.
+Upgraded version of the H4n with lower-noise preamps and improved audio quality. Recommended for capturing dialogue (if applicable), detailed Foley, and subtle ambient sound. Locking XLR inputs provide a more stable connection when using external microphones.
 
 - 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
 - ▶️ The 3 Ways I Use My Zoom H4N Pro: [link to YouTube video](https://www.youtube.com/watch?v=2oA8_Y5pXyw){:target="_blank"}
 
-### Cable XLR to XLR
+### ZOOM H4N SP Handheld
 
-<img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
+Similar functionality to the original H4n, but often bundled with additional accessories (windscreen, case, etc.). Suitable for production audio, ambient recording, and Foley capture. Use in the same way as the standard H4n, following proper gain staging and monitoring practices.  
 
-An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
-
-- ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
-  > ⚠️ High level audio: lower your volume  
+- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
 
 ________________________________________________________________________
 
@@ -60,6 +57,15 @@ The Sennheiser ME 80 is used in film and news gathering for location recording, 
 
 - 📘 [User Manual](https://www.manualslib.com/products/Sennheiser-Me-80-9520660.html){:target="_blank"}
 - ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
+
+### Cable XLR to XLR
+
+<img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
+
+An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
+
+- ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
+  > ⚠️ High level audio: lower your volume  
 
 
 ________________________________________________________________________
