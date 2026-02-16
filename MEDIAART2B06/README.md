@@ -66,9 +66,15 @@ Series of hands-on production exercises designed to **build core skills** in cam
 
 ---
 
-### **Module 2 - Short Film Project (individual)**  
+## Module 2 – Short Film Project (Individual)
 
-This module **guides students through the complete production of a one-minute short film**, from concept and script development to shooting, editing, and final polishing. 
+This module guides students through the complete production of a one-minute short film, from concept and script development to shooting, editing, sound design, critique, and final professional export.
+
+### Short Description
+
+Students will produce a **one-minute, no-dialogue short film** using professional production equipment and industry-standard post-production workflows. The final work must demonstrate a **polished visual style, intentional cinematography, and a multi-layered sound design**.
+
+This project synthesizes the technical and creative skills developed in Module I and applies them within a structured, professional filmmaking process.
  
 <!--
 #### Index 
@@ -76,10 +82,11 @@ This module **guides students through the complete production of a one-minute sh
 + [Week 7](WT-W7.md) — Pre-Production Package
 + [Week 8](WT-W8.md) — Production Week
 + [Week 9](WT-W9.md) — Rough Cut
-+ [Week 10](WT-W10.md) — Rough Cut Screening + Critique Session
-+ [Week 12](WT-W12.md) — Final Cut
-+ [Week 13](WT-W13.md) — Class Screening
++ [Week 10](WT-W10.md) — Rough Cut Screening & Sound Design Production
++ [Week 12 & 13](WT-W12.md) — Final Cut & Class Screening 
+
 -->
+
 ---
 
 ### **Mini-Module - Motion Graphics & Compositing (individual)**  
