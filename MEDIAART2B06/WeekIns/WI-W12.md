@@ -48,7 +48,7 @@ You are expected to work actively during class time and participate in all in-cl
 | Rough Cut Information Sheet (PDF)  | `Lastname_Firstname_RoughCut.pdf`   |
 | Organization                       | *In-Person Grading*                 |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a half point deduction.**
+> ⚠️⚠️⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in exclusion from the screening, which will affect your grade importantly.**
 
 ---
 
