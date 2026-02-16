@@ -81,7 +81,7 @@ Standard professional audio cable used to connect microphones to the Zoom H4n re
 
 ### Sennheiser ME 80 (Condenser Shotgun)
 
-<img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">  
 
 Highly directional condenser shotgun microphone used for focused sound capture in narrative scenes. Best mounted on a boom pole or positioned close to the subject. Requires phantom power (24V or 48V) via the Zoom H4n XLR input.  
 
@@ -89,7 +89,11 @@ Highly directional condenser shotgun microphone used for focused sound capture i
 
 ### Azden Professional Shotgun - SGM 1X
 
+<img src="TechWalks/imgs/78.jpg" style="width: 60%; height: auto;">  
+
 Directional shotgun microphone suitable for dialogue and controlled scene recording. Connect via XLR to the Zoom H4n. Some models may operate on battery power; confirm settings before recording.
+
+- ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=rHcKKyfQqc4){:target="_blank"}
 
 ### Azden Professional Shotgun - SGM 2X
 
@@ -97,11 +101,19 @@ Higher-output shotgun microphone designed for extended reach and focused sound p
 
 ### Hydrophone
 
+<img src="TechWalks/imgs/79.png" style="width: 60%; height: auto;">  
+
 Specialized microphone designed to record underwater sound. Can be used to capture subtle textures such as water movement, vibrations, or resonant tones when submerged in water. In this course, it may be used experimentally for abstract or atmospheric sound design. Must only be used in water environments and handled carefully to protect cables and connections.
+
+- ▶️ Recording Underwater Sounds in Ponds with my Hydrophones: [link to YouTube video](https://www.youtube.com/watch?v=TfF_i1OztQw){:target="_blank"}
 
 ### DIY Contact Microphone
 
+<img src="TechWalks/imgs/80.jpg" style="width: 60%; height: auto;">  
+
 Microphone designed to capture vibrations directly from solid surfaces rather than airborne sound. Useful for recording subtle textures such as metal, wood, glass, or mechanical objects. In this course, it can be used for experimental Foley and detailed sound design. Attach firmly to the surface and monitor levels carefully, as vibration signals can be strong and uneven.
+
+- ▶️ 20 Contact Microphone Experiments: [link to YouTube video](https://www.youtube.com/watch?v=cgFEfTZ58Eo){:target="_blank"}
 
 ________________________________________________________________________
 
