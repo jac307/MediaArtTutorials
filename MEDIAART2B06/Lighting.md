@@ -27,7 +27,7 @@ Compact and portable LED unit. Useful for practical fills, accent lighting, or s
 
 ### Light Kit - Ianiro 1000W (Large - 3 Lights) 
 
-<img src="TechWalks/imgs/73.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/73.jpg" style="width: 70%; height: auto;">
 
 High-output tungsten lights for strong directional lighting and dramatic contrast. Best for controlled indoor environments. Produces warmer light (3200K), so consider white balance adjustments or gel use when mixing with daylight. 
 
@@ -36,7 +36,7 @@ High-output tungsten lights for strong directional lighting and dramatic contras
 
 ### Light Kit - Ledgo LED Panels & LED Fresnel Light 
 
-<img src="TechWalks/imgs/74.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/74.jpg" style="width: 70%; height: auto;">
 
 LED panels provide soft, even illumination for interviews and interior scenes. The Fresnel light offers more focused and directional control. Suitable for shaping key light or creating motivated light sources in narrative setups.   
 
