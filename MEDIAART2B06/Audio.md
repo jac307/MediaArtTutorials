@@ -127,9 +127,7 @@ ________________________________________________________________________
 
 <h2 style="color: darkred;">Microphone Stands & Boom Support</h2>  
 
-Microphone stands and boom poles are used to position microphones accurately and keep them stable during recording. Boom stands and boom poles allow you to suspend a shotgun microphone above or near the subject without entering the frame. Short stands are useful for table-level or close-surface recording (Foley, ambience, object sound).
-
-<img src="TechWalks/imgs/87.jpg" style="width: 50%; height: auto;"> 
+Microphone stands and boom poles are used to position microphones accurately and keep them stable during recording. Boom stands and boom poles allow you to suspend a shotgun microphone above or near the subject without entering the frame. Short stands are useful for table-level or close-surface recording (Foley, ambience, object sound).  
 
 - Boom Stand - Yorkville (MS 206)
 - Boom Pole with/ 5/8"-27 Female Thread
