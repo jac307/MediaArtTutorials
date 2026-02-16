@@ -79,13 +79,11 @@ Available Equipment:
 + Backdrop Stand – Cameron
 + Neewer Backdrop Stand
 + Black Backdrop
-+ White Backdrop  
++ White Backdrop
++ Sandbags
+  > Used to stabilize light stands and backdrop stands, preventing tipping and ensuring safe setups during filming.   
 
-- ▶️ How To: Backdrop Stand Tutorial: [link to YouTube video](https://www.youtube.com/watch?v=ppy6S3nBl7w){:target="_blank"}
-
-### Sandbags
-
-Sandbags are used to stabilize light stands and backdrop stands, preventing tipping and ensuring safe setups during filming.
+▶️ How To: Backdrop Stand Tutorial: [link to YouTube video](https://www.youtube.com/watch?v=ppy6S3nBl7w){:target="_blank"}
 
 ________________________________________________________________________
 
