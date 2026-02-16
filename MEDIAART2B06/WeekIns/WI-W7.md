@@ -18,7 +18,7 @@ You are expected to work actively during class time and participate in all in-cl
   <li><a href="#logline">Activity 1: Logline [20m]</a></li>
   <li><a href="#script">Activity 2: Script [40m]</a></li>
   <li><a href="#storyboard">Activity 3: Annotated Storyboard [1h]</a></li>
-  <li><a href="#homework">Homework</a></li>
+  <li><a href="#homework">Homework: Location Scouting, Equipment List, & Production Schedule</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
@@ -36,7 +36,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="homework" style="color: darkred;">Homework</h2>
+<h2 id="homework" style="color: darkred;">Homework: Location Scouting, Equipment List, & Production Schedule</h2>
 
 ---
 
