@@ -15,21 +15,20 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#assembly">Activity 1: Build Rough Assembly [40m]</a></li>
-  <li><a href="#rythm">Activity 2: Rhythm + Basic Sound Integration [40m]</a></li>
+  <li><a href="#assembly">Activity 1: Build Rough Assembly [50m]</a></li>
+  <li><a href="#rythm">Activity 2: Rhythm + Basic Sound Integration [55m]</a></li>
   <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
-  <li><a href="#reviews">Peer Mini-Reviews [20m]<</a></li>
-  <li><a href="#adjustments">Adjustment + In-Person Grading [30m]</a></li>
+  <li><a href="#reviews">Peer Mini-Reviews + Adjustment [50m]<</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [40m]</h2>
+<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [50m]</h2>
 
 ---
 
-<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [40m]</h2>
+<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2>
 
 ---
 
@@ -37,11 +36,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="reviews" style="color: darkred;">Peer Mini-Reviews [20m]</h2>
-
----
-
-<h2 id="adjustments" style="color: darkred;">Adjustment + In-Person Grading [30m]</h2>
+<h2 id="reviews" style="color: darkred;">Peer Mini-Reviews + Adjustments [50m]</h2>
 
 ---
 
