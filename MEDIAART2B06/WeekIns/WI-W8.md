@@ -37,7 +37,8 @@ You are expected to work actively during class time and participate in all in-cl
 |--------------------------------------|-----------------------------------------------|
 | Production Package (ZIP Submission)  | `Lastname_Firstname_ProductionPackage.zip`    |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a two-point deduction.**
+> ⚠️ **Follow the submission protocols carefully.  
+> ⚠️ Incorrect submissions will result in a two-point deduction❗**
 
 ---
 
