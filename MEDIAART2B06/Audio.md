@@ -109,7 +109,7 @@ Higher-output shotgun microphone designed for extended reach and focused sound p
 
 ### Hydrophone
 
-<img src="TechWalks/imgs/79.png" style="width: 50%; height: auto;">  
+<img src="TechWalks/imgs/79.png" style="width: 40%; height: auto;">  
 
 Specialized microphone designed to record underwater sound. Can be used to capture subtle textures such as water movement, vibrations, or resonant tones when submerged in water. In this course, it may be used experimentally for abstract or atmospheric sound design. Must only be used in water environments and handled carefully to protect cables and connections.
 
