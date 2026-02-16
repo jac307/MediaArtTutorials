@@ -48,7 +48,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 Follow the required folder structure (inside ZIP):  
 
-<h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
+<h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
 
 - W7 PDF submission (final pre-production package)  
 - Later to be included:
@@ -56,7 +56,7 @@ Follow the required folder structure (inside ZIP):
   - Audition project file (.sesx)  
   - Autosaves  
 
-<h3>📁 <code style="color: navy;">01_RawFootage</code></h3>
+<h4>📁 <code style="color: navy;">01_RawFootage</code></h4>
 
 - All DSLR video files  
 - Organized into subfolders by date: `YYYY-MM-DD`  
@@ -71,7 +71,7 @@ Each video file must be renamed using this protocol:
 Example:  
 `Echo_S03_T02.mov`
 
-<h3>📁 <code style="color: navy;">02_Audio</code></h3>
+<h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
 - All recorded files (WAV)  
 - Downloaded/sourced files (WAV preferred; MP3 accepted)  
@@ -84,11 +84,11 @@ Naming protocol:
 Example:  
 `Echo_Ambient_LibraryHall_T01.wav`
 
-<h3>📁 <code style="color: navy;">03_Renders</code></h3>
+<h4>📁 <code style="color: navy;">03_Renders</code></h4>
 
 - Later to be included: Temporary renders  
 
-<h3>📁 <code style="color: navy;">04_Exports</code></h3>
+<h4>📁 <code style="color: navy;">04_Exports</code></h4>
 
 - Later to be included:
   - RoughCut render  
