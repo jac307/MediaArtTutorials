@@ -19,7 +19,6 @@ You are expected to work actively during class time and participate in all in-cl
   <li><a href="#script">Activity 2: Script [40m]</a></li>
   <li><a href="#storyboard">Activity 3: Annotated Storyboard [60m]</a></li>
   <li><a href="#homework">Homework</a></li>
-  <li><a href="#deliverables">Deliverables — 📦 Pre-Production Package (PDF)</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
