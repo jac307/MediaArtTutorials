@@ -17,8 +17,8 @@ Through weekly guided workshops and production exercises, students **learn the f
 ## Equipment
 
 + [DSLR Cameras + Lenses](Cameras.md)  
-+ [Lighting](Lighting.md)  
-+ [Audio](Audio.md)  
++ [Lighting Equipment](Lighting.md)  
++ [Audio Equipment](Audio.md)  
 
 **Video and Audio equipment**. You can book equipment here: [https://hmcservicecentre.humanities.mcmaster.ca/](https://hmcservicecentre.humanities.mcmaster.ca/){:target="_blank"}
   > **Important**: to access this link, you will need to log in using your McMaster user information using the University’s internet (if not, you will require the McMaster VPN).
