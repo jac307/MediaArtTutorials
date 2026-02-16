@@ -49,7 +49,7 @@ Zoom lenses have **variable focal lengths**, allowing you to change framing with
 
 ### Canon 17–40mm f/4 L USM
 
-<img src="TechWalks/imgs/83.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/83.jpg" style="width: 40%; height: auto;">
 
 Wide-angle zoom lens suitable for expansive establishing shots and environmental compositions. Useful when working in tight interior spaces or when emphasizing spatial relationships within a scene. The constant f/4 aperture supports consistent exposure while zooming.
 
