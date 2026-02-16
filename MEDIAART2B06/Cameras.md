@@ -45,7 +45,23 @@ ________________________________________________________________________
 
 ## Zoom Lenses
 
-Zoom lenses have **variable focal lengths**, allowing you to change framing without physically moving the camera.
+Zoom lenses have **variable focal lengths**, allowing you to change framing without physically moving the camera.  
+
+### Canon 17–40mm f/4 L USM
+
+<img src="TechWalks/imgs/83.jpg" style="width: 50%; height: auto;">
+
+Wide-angle zoom lens suitable for expansive establishing shots and environmental compositions. Useful when working in tight interior spaces or when emphasizing spatial relationships within a scene. The constant f/4 aperture supports consistent exposure while zooming.
+
+- 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_17-40mm_f/4L_USM&category=/en/products/Lenses/EF-Lenses/Ultra-Wide-Zoom){:target="_blank"}
+- [Examples from Lomography](https://www.lomography.com/lenses/13817-canon-ef-17-40-mm-f-4-l-usm/photos){:target="_blank"}
+
+<figure style="width: 100%; margin: auto;">
+  <img src="TechWalks/imgs/84.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+    Credits: (left & centre) photographs by razruxa; (right) photograph by billykuo  
+  </figcaption>
+</figure> 
 
 ### Canon 24-105mm 1:3.5-5.6 IS STM
 
@@ -182,7 +198,7 @@ Very fast prime lens offering extremely shallow depth of field and strong subjec
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Credits: (left & centre) Shoot the night by chilledvondub, (right) The fastest of glass by anciano by chilledvondub
   </figcaption>
-</figure>
+</figure>  
 
 ### Canon 85mm 1:1.8 USM
 
