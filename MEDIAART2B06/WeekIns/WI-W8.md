@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">W8 - Production Week</h1>  
 
-Film all planned shots and record your production sound. Collect ambient audio and, if need it, subtle instrumental music (no lyrics). Follow your pre-production plan and keep your files clearly organized.  
+Film all planned shots and record your on-scene production sound. Collect ambient audio and, if need it, subtle instrumental music (no lyrics). Follow your pre-production plan and keep your files clearly organized.  
 
 ### Technical Requirements
 
@@ -37,7 +37,7 @@ You are expected to work actively during class time and participate in all in-cl
 |--------------------------------------|-----------------------------------------------|
 | Production Package (ZIP Submission)  | `Lastname_Firstname_ProductionPackage.zip`    |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a one point deduction.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a two-point deduction.**
 
 ---
 
