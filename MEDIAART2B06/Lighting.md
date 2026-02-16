@@ -54,6 +54,8 @@ Tungsten softbox lighting system designed for soft, diffused illumination. Ideal
 
 ### 42 in Silver-White Reflector 
 
+<img src="TechWalks/imgs/85.jpg" style="width: 40%; height: auto;"> 
+
 Portable light-shaping tool used to bounce and redirect available light. The white side provides soft, natural fill, while the silver side produces a stronger, higher-contrast reflection. Useful for outdoor filming or interior scenes where you want to control shadows without adding additional powered lights.
 
 - ▶️ 15 Hacks for using Reflectors in Video: [link to YouTube video](https://www.youtube.com/watch?v=wdOSnxjFVUQ){:target="_blank"}
