@@ -123,6 +123,24 @@ Microphone designed to capture vibrations directly from solid surfaces rather th
 
 - ▶️ 20 Contact Microphone Experiments: [link to YouTube video](https://www.youtube.com/watch?v=cgFEfTZ58Eo){:target="_blank"}
 
+________________________________________________________________________ 
+
+<h2 style="color: darkred;">Microphone Stands & Boom Support</h2>  
+
+Microphone stands and boom poles are used to position microphones accurately and keep them stable during recording. Boom stands and boom poles allow you to suspend a shotgun microphone above or near the subject without entering the frame. Short stands are useful for table-level or close-surface recording (Foley, ambience, object sound).
+
+<img src="TechWalks/imgs/87.jpg" style="width: 50%; height: auto;"> 
+
+- Boom Stand - Yorkville (MS 206)
+- Boom Pole with/ 5/8"-27 Female Thread
+- Boom Pole 
+- Microphone Stand - K&M
+- Microphone Stand - K&M (short) 
+
+When using a Zoom H4n recorder on a stand, you must book either:
+- A camera tripod, or
+- A stand with a 5/8"-27 female thread adapter (limited availability — ask the instructor in advance).
+
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
