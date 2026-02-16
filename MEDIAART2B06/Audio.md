@@ -28,7 +28,9 @@ Similar functionality to the original H4n, but often bundled with additional acc
 
 ________________________________________________________________________
 
-<h1 style="color: darkred;">Microphones</h1>  
+________________________________________________________________________
+
+<h1 style="color: darkred;">Microphones that connect directly into the camera</h1>  
 
 ### RODE Microphone System Wireless Go II
 
@@ -39,18 +41,28 @@ Compact wireless microphone system used to capture clean production audio direct
 - 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
 - ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
 
-________________________________________________________________________
-
-<h1 style="color: darkred;">Shotgun Microphones</h1>
-
 ### RODE VideoMic NTG On-Camera Shotgun Microphone
 
-<img src="TechWalks/imgs/31.jpg" style="width: 70%; height: auto;">
+<img src="TechWalks/imgs/31.jpg" style="width: 50%; height: auto;">
 
 A versatile, broadcast-grade microphone that functions as both an on-camera shotgun mic and a full-featured USB microphone for computers and mobile devices.  
 
 - 📘 [User Guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
 - ▶️ Features and Specifications: [link to YouTube video](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
+
+### RODE Shotgun (VIDEOMIC GO)
+
+<img src="TechWalks/imgs/76.jpg" style="width: 50%; height: auto;">
+
+Description
+
+### RODE VideoMicro Compact On-Camera Microphone 
+
+<img src="TechWalks/imgs/77.jpg" style="width: 50%; height: auto;">
+
+Description
+
+________________________________________________________________________
 
 ### Sennheiser Condenser (ME 80)
 
