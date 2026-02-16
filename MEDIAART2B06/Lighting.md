@@ -34,13 +34,13 @@ High-output tungsten lights for strong directional lighting and dramatic contras
 - ▶️ Ianiro Red Head Light Kit: [link to YouTube video](https://www.youtube.com/watch?v=pgGYyoTrp_g){:target="_blank"}
 - ▶️ Ianiro RED Head LED Lights: [link to YouTube video](https://www.youtube.com/watch?v=qz70qL94mo4){:target="_blank"}
 
-### Light Kit - Ledgo LED Panels & LED Fresnel Light 
+### Light Kit – Ledgo LG-900CSCII (3-Panel LED Kit)
 
 <img src="TechWalks/imgs/74.jpg" style="width: 70%; height: auto;">
 
-LED panels provide soft, even illumination for interviews and interior scenes. The Fresnel light offers more focused and directional control. Suitable for shaping key light or creating motivated light sources in narrative setups.   
+Three bi-color LED panels that provide soft, even illumination with adjustable intensity and colour temperature. Suitable for interviews, interior narrative scenes, and controlled lighting setups. Can be used as a key–fill–back configuration or positioned to create balanced, natural-looking light. 
 
-- 📘 [User Manual](https://finearts.uvic.ca/sim/wp-content/uploads/2023/04/LEDGO_LG-D3000M.pdf){:target="_blank"}
-- ▶️ Ledgo LG-D600 Fresnel Light 5600K Review: [link to YouTube video](https://www.youtube.com/watch?v=69sRcyfcn7Y){:target="_blank"}
+- 📘 [User Manual](https://resource.holdan.co.uk/LEDGO/manuals/LEDGO_LG-600CSC_900CSC_1200CSC.pdf){:target="_blank"}
+- ▶️ LEDGO 3 head 560 LED lighting Kit: [link to YouTube video](https://www.youtube.com/watch?v=ZMgHT-ACXuc&t=7s){:target="_blank"}
 
 ________________________________________________________________________
