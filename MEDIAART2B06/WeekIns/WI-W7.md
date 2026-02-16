@@ -52,10 +52,10 @@ You are expected to work actively during class time and participate in all in-cl
 
 ### Deliverables — 📦 Pre-Production Package (PDF)
 
-Create a single document with the following sections.  
-
 **File name:**  
 `Lastname_Firstname_PreProductionPackage.pdf`  
+
+Create a single document with the following sections:  
 
 ### 1. Micro-Treatment
 - Title (working)  
