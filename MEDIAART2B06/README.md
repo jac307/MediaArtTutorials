@@ -79,11 +79,11 @@ This project synthesizes the technical and creative skills developed in Module I
 <!--
 #### Index 
 
-+ [Week 7](WT-W7.md) — Pre-Production Package
-+ [Week 8](WT-W8.md) — Production Week
-+ [Week 9](WT-W9.md) — Rough Cut
-+ [Week 10](WT-W10.md) — Rough Cut Screening & Sound Design Production
-+ [Week 12 & 13](WT-W12.md) — Final Cut & Class Screening 
++ [Week 7](WI-W7.md) — Pre-Production Package
++ [Week 8](WI-W8.md) — Production Week
++ [Week 9](WI-W9.md) — Rough Cut
++ [Week 10](WI-W10.md) — Rough Cut Screening & Sound Design Production
++ [Week 12 & 13](WI-W12.md) — Final Cut & Class Screening 
 
 -->
 
