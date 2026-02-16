@@ -99,7 +99,7 @@ Include all required:
 - Time window  
 - Location(s)  
 - Estimated time per shot or sequence  
-- Buffe
+- Buffer time
 
 
 ________________________________________________________________________
