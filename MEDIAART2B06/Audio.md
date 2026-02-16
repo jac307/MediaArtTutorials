@@ -4,15 +4,6 @@
 
 <h1 style="color: darkred;">Available Audio Equipment</h1>
 
-### RODE Microphone System Wireless Go II
-
-<img src="TechWalks/imgs/18.jpg" style="width: 60%; height: auto;">
-
-Ultra-compact, dual-channel wireless microphone system known for its versatility, ease of use, and on-board recording capabilities.
-
-- 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
-- ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
-
 ### ZOOM H4N Handheld
 
 <img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
@@ -37,7 +28,20 @@ Similar functionality to the original H4n, but often bundled with additional acc
 
 ________________________________________________________________________
 
-<h1 style="color: darkred;">Available Shotgun Microphones</h1>
+<h1 style="color: darkred;">Microphones</h1>  
+
+### RODE Microphone System Wireless Go II
+
+<img src="TechWalks/imgs/18.jpg" style="width: 60%; height: auto;">
+
+Compact wireless microphone system used to capture clean production audio directly from a subject. In this course, it can be clipped onto an interviewee to record clear, isolated sound while filming. The dual-channel system allows recording two sources simultaneously, and on-board recording provides a backup in case of signal dropouts.  
+
+- 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
+- ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
+
+________________________________________________________________________
+
+<h1 style="color: darkred;">Shotgun Microphones</h1>
 
 ### RODE VideoMic NTG On-Camera Shotgun Microphone
 
