@@ -43,4 +43,13 @@ Three bi-color LED panels that provide soft, even illumination with adjustable i
 - 📘 [User Manual](https://resource.holdan.co.uk/LEDGO/manuals/LEDGO_LG-600CSC_900CSC_1200CSC.pdf){:target="_blank"}
 - ▶️ LEDGO 3 head 560 LED lighting Kit: [link to YouTube video](https://www.youtube.com/watch?v=ZMgHT-ACXuc&t=7s){:target="_blank"}
 
+### Photoflex Starlite Kit (Single Light)
+
+<img src="TechWalks/imgs/75.jpg" style="width: 70%; height: auto;">  
+
+Tungsten softbox lighting system designed for soft, diffused illumination. Ideal for interviews, close-ups, and interior scenes where even skin tones and reduced shadow contrast are desired. Best used in controlled indoor environments due to heat output and fixed colour temperature (3200K).
+
+- 📘 [User Manual](https://upload.cyfrowe.pl/cyfrowe/pdf/StarLite_QL_2065780452.pdf){:target="_blank"}
+- ▶️ Photoflex medium StarLite Kit: [link to YouTube video](https://www.youtube.com/watch?v=uAju33gORGA){:target="_blank"}
+
 ________________________________________________________________________
