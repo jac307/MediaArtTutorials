@@ -47,7 +47,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 All sound files must be placed inside the folder:
 
-<h3>📁 <code style="color: navy;">02_Audio</code></h3>
+<h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
 - Recorded Foley sound (WAV)  
 - Downloaded/sourced Sound Effects (WAV preferred; MP3 accepted)  
