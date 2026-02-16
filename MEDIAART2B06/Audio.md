@@ -6,7 +6,7 @@
 
 ________________________________________________________________________
 
-<h1 style="color: darkred;">On-Camera & Direct-Input Microphones</h1>  
+<h2 style="color: darkred;">On-Camera & Direct-Input Microphones</h2>  
 
 ### RODE Microphone System Wireless Go II
 
@@ -38,9 +38,13 @@ Lightweight, plug-and-play on-camera shotgun microphone. Ideal for simple setups
 
 Compact and portable directional microphone that mounts directly onto the camera. Suitable for capturing general production audio and ambient sound in controlled settings. Works well for small crews and lightweight setups but should be positioned close to the subject for best results.   
 
+### Sennheiser Shotgun (MKE 400)
+
+### Sony Shotgun Cam Mount (ECM-MS908C)
+
 ________________________________________________________________________  
 
-<h1 style="color: darkred;">Handheld Recorders</h1>  
+<h2 style="color: darkred;">Handheld Recorders</h2>  
 
 ### ZOOM H4N Handheld
 
@@ -63,31 +67,41 @@ Similar functionality to the original H4n, but often bundled with additional acc
 
 - 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
 
-<h1 style="color: darkred;">On-Camera & Direct-Input Microphones</h1>  
-
 ________________________________________________________________________ 
 
-<h1 style="color: darkred;">Field Recording Microphones</h1>  
-
-### Sennheiser Condenser (ME 80)
-
-<img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">
-
-The Sennheiser ME 80 is used in film and news gathering for location recording, prized for its high directionality and clear sound, often mounted on a boom pole or directly on a camera. This microphone required external power to work.    
-> Using Phantom Power (Recommended via XLR Input): The Zoom H4n provides switchable 24V or 48V phantom power through its dual XLR combo jacks.  
-
-- 📘 [User Manual](https://www.manualslib.com/products/Sennheiser-Me-80-9520660.html){:target="_blank"}
-- ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
+<h2 style="color: darkred;">Field Recording Microphones</h2>  
 
 ### Cable XLR to XLR
 
 <img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
 
-An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
+Standard professional audio cable used to connect microphones to the Zoom H4n recorder. Required for condenser and shotgun microphones listed below. Provides balanced audio signal and supports phantom power when needed.  
 
 - ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
-  > ⚠️ High level audio: lower your volume  
 
+### Sennheiser ME 80 (Condenser Shotgun)
+
+<img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">
+
+Highly directional condenser shotgun microphone used for focused sound capture in narrative scenes. Best mounted on a boom pole or positioned close to the subject. Requires phantom power (24V or 48V) via the Zoom H4n XLR input.  
+
+- ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
+
+### Azden Professional Shotgun - SGM 1X
+
+Directional shotgun microphone suitable for dialogue and controlled scene recording. Connect via XLR to the Zoom H4n. Some models may operate on battery power; confirm settings before recording.
+
+### Azden Professional Shotgun - SGM 2X
+
+Higher-output shotgun microphone designed for extended reach and focused sound pickup. Suitable for boom use in narrative filming. Connect via XLR and monitor gain levels carefully to avoid distortion.
+
+### Hydrophone
+
+Specialized microphone designed to record underwater sound. Can be used to capture subtle textures such as water movement, vibrations, or resonant tones when submerged in water. In this course, it may be used experimentally for abstract or atmospheric sound design. Must only be used in water environments and handled carefully to protect cables and connections.
+
+### DIY Contact Microphone
+
+Microphone designed to capture vibrations directly from solid surfaces rather than airborne sound. Useful for recording subtle textures such as metal, wood, glass, or mechanical objects. In this course, it can be used for experimental Foley and detailed sound design. Attach firmly to the surface and monitor levels carefully, as vibration signals can be strong and uneven.
 
 ________________________________________________________________________
 
