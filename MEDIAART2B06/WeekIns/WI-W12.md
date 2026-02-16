@@ -48,7 +48,8 @@ You are expected to work actively during class time and participate in all in-cl
 | Final Information Sheet (PDF)      | `Lastname_Firstname_InfoSheet.pdf`  |
 | Organization                       | *In-Person Grading*                 |
 
-> ⚠️⚠️⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in exclusion from the screening, which will affect your grade importantly.**
+> ⚠️ **Follow the submission protocols carefully.**  
+> ⚠️⚠️⚠️ **Incorrect submissions will result in exclusion from the screening, which will affect your grade importantly**❗❗❗
 
 ---
 
