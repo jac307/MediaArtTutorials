@@ -40,7 +40,15 @@ Compact and portable directional microphone that mounts directly onto the camera
 
 ### Sennheiser Shotgun (MKE 400)
 
+<img src="TechWalks/imgs/81.jpg" style="width: 50%; height: auto;">
+
+Compact on-camera shotgun microphone designed for focused sound capture directly in front of the camera. Suitable for interviews, documentary-style shooting, and controlled narrative scenes where the camera is positioned close to the subject. Provides clearer audio than built-in camera microphones and works best in moderately quiet environments.
+
 ### Sony Shotgun Cam Mount (ECM-MS908C)
+
+<img src="TechWalks/imgs/82.jpg" style="width: 50%; height: auto;">
+
+On-camera stereo shotgun microphone that captures directional sound with a wider stereo image. Useful for recording environmental sound and general production audio. Best suited for run-and-gun setups where mobility is important and external recorders are not being used.
 
 ________________________________________________________________________  
 
@@ -48,7 +56,7 @@ ________________________________________________________________________
 
 ### ZOOM H4N Handheld
 
-<img src="TechWalks/imgs/17.jpg" style="width: 50%; height: auto;">
+<img src="TechWalks/imgs/17.jpg" style="width: 60%; height: auto;">
 
 Portable audio recorder used to capture production sound, ambient audio, and Foley. In this course, it should be used during filming to record cleaner sound than the camera’s built-in microphone. Can be mounted on-camera, placed closer to the sound source, or pair it with a shotgun microphone for improved clarity. Always monitor with headphones and record in WAV format.
 
@@ -81,7 +89,7 @@ Standard professional audio cable used to connect microphones to the Zoom H4n re
 
 ### Sennheiser ME 80 (Condenser Shotgun)
 
-<img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">  
+<img src="TechWalks/imgs/70.jpg" style="width: 50%; height: auto;">  
 
 Highly directional condenser shotgun microphone used for focused sound capture in narrative scenes. Best mounted on a boom pole or positioned close to the subject. Requires phantom power (24V or 48V) via the Zoom H4n XLR input.  
 
@@ -89,7 +97,7 @@ Highly directional condenser shotgun microphone used for focused sound capture i
 
 ### Azden Professional Shotgun - SGM 1X
 
-<img src="TechWalks/imgs/78.jpg" style="width: 60%; height: auto;">  
+<img src="TechWalks/imgs/78.jpg" style="width: 50%; height: auto;">  
 
 Directional shotgun microphone suitable for dialogue and controlled scene recording. Connect via XLR to the Zoom H4n. Some models may operate on battery power; confirm settings before recording.
 
@@ -101,7 +109,7 @@ Higher-output shotgun microphone designed for extended reach and focused sound p
 
 ### Hydrophone
 
-<img src="TechWalks/imgs/79.png" style="width: 60%; height: auto;">  
+<img src="TechWalks/imgs/79.png" style="width: 50%; height: auto;">  
 
 Specialized microphone designed to record underwater sound. Can be used to capture subtle textures such as water movement, vibrations, or resonant tones when submerged in water. In this course, it may be used experimentally for abstract or atmospheric sound design. Must only be used in water environments and handled carefully to protect cables and connections.
 
@@ -109,7 +117,7 @@ Specialized microphone designed to record underwater sound. Can be used to captu
 
 ### DIY Contact Microphone
 
-<img src="TechWalks/imgs/80.jpg" style="width: 60%; height: auto;">  
+<img src="TechWalks/imgs/80.jpg" style="width: 50%; height: auto;">  
 
 Microphone designed to capture vibrations directly from solid surfaces rather than airborne sound. Useful for recording subtle textures such as metal, wood, glass, or mechanical objects. In this course, it can be used for experimental Foley and detailed sound design. Attach firmly to the surface and monitor levels carefully, as vibration signals can be strong and uneven.
 
