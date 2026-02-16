@@ -53,3 +53,8 @@ Tungsten softbox lighting system designed for soft, diffused illumination. Ideal
 - ▶️ Photoflex medium StarLite Kit: [link to YouTube video](https://www.youtube.com/watch?v=uAju33gORGA){:target="_blank"}
 
 ________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI tools (Gemini and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
