@@ -48,7 +48,8 @@ You are expected to work actively during class time and participate in all in-cl
 | Rough Cut Information Sheet (PDF)  | `Lastname_Firstname_RoughCut.pdf`   |
 | Organization                       | *In-Person Grading*                 |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a 2-point deduction over final grade**
+> ⚠️ **Follow the submission protocols carefully.
+> ⚠️⚠️⚠️ Incorrect submissions will result in a 2-point deduction over final grade** ❗❗❗
 
 ---
 
