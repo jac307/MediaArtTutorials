@@ -43,10 +43,10 @@ You are expected to work actively during class time and participate in all in-cl
 
 ### Deliverables — 📦 Production Package (ZIP Submission)
 
-Follow the required folder structure (inside ZIP)  
-
 **File name:**  
 `Lastname_Firstname_ProductionPackage.zip`  
+
+Follow the required folder structure (inside ZIP):  
 
 <h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
 
