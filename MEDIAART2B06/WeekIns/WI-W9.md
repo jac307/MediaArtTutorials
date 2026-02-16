@@ -2,9 +2,9 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W7 - Pre-Production Package</h1>  
+<h1 style="color: darkred;">W9 - Rough Cut</h1>  
 
-Plan a one-minute, no-dialogue short film, creating a pre-production package that translates your visual concept into a realistic production plan.
+Assemble your footage and sound materials into a complete sequence that reflects your pre-production plan while allowing room for revision.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -15,43 +15,99 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Activity 1: Logline [20m]</a></li>
-  <li><a href="#script">Activity 2: Script [40m]</a></li>
-  <li><a href="#storyboard">Activity 3: Annotated Storyboard [60m]</a></li>
-  <li><a href="#homework">Homework</a></li>
+  <li><a href="#assembly">Activity 1: Build Rough Assembly [40m]</a></li>
+  <li><a href="#rythm">Activity 2: Rhythm + Basic Sound Integration [40m]</a></li>
+  <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
+  <li><a href="#reviews">Peer Mini-Reviews [20m]<</a></li>
+  <li><a href="#adjustments">Adjustment + In-Person Grading [30m]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Logline [20m]</h2>
+<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [40m]</h2>
 
 ---
 
-<h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>
+<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [40m]</h2>
 
 ---
 
-<h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [60m]</h2>
+<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>
 
 ---
 
-<h2 id="homework" style="color: darkred;">Homework</h2>
+<h2 id="reviews" style="color: darkred;">Peer Mini-Reviews [20m]</h2>
+
+---
+
+<h2 id="adjustments" style="color: darkred;">Adjustment + In-Person Grading [30m]</h2>
 
 ---
 
 <h2 id="submission" style="color: darkred;">📤 Submission</h2>
 
-| Item                            | Required Filename                             |
-|---------------------------------|-----------------------------------------------|
-| Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
+| Item                               | Required Filename                   |
+|------------------------------------|-------------------------------------|
+| Rough Cut Export (MP4)             | `Lastname_Firstname_RoughCut.mp4`   |
+| Rough Cut Information Sheet (PDF)  | `Lastname_Firstname_RoughCut.pdf`   |
+| Organization                       | *In-Person Grading*                 |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a half point deduction.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a one point deduction.**
 
 ---
 
-### Deliverables — 📦 Pre-Production Package (PDF)
+### Deliverables — 📦 Rough Cut Package
 
+### 1. Rough Cut Export (MP4)
+
+- Full sequence assembled (approximately 1 minute)  
+- All selected shots included  
+- Basic audio integrated (clean levels, no clipping)  
+- Basic colour correction applied  
+
+**Export settings:**  
+MP4 (H.264); 1920x1080; 24 fps  
+
+**File name:**  
+`Lastname_Firstname_RoughCut.mp4`
+
+### 2. Rough Cut Information Sheet (PDF)
+
+- Title  
+- Logline  
+- Author/Director  
+- Working credits  
+
+**File name:**  
+`Lastname_Firstname_RoughCut.pdf`
+
+---
+
+## In-Person Grading  
+
+> Thursday Production - End-Of-The-Day Check-In
+
+Students must have their project folder and be ready to show the following:  
+
+<h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
+
+- Premiere Pro: `ProjectName.prproj`  
+- Autosaves  
+
+<h3>📁 <code style="color: navy;">03_Renders</code></h3>
+
+- Temporary render naming protocol: `ProjectName_RenderType`  
+
+Examples:  
+`Echo_RoughAssembly.mp4`  
+`Echo_RhythmPass.mp4`  
+`Echo_RoughPreview.mp4`
+
+<h3>📁 <code style="color: navy;">04_Exports</code></h3>
+
+- Later to be included:  
+  `Lastname_Firstname_RoughCut.mp4`
 
 ________________________________________________________________________
 
