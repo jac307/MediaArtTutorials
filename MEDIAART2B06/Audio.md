@@ -4,32 +4,9 @@
 
 <h1 style="color: darkred;">Available Audio Equipment</h1>
 
-### ZOOM H4N Handheld
-
-<img src="TechWalks/imgs/17.jpg" style="width: 50%; height: auto;">
-
-Portable audio recorder used to capture production sound, ambient audio, and Foley. In this course, it should be used during filming to record cleaner sound than the camera’s built-in microphone. Can be mounted on-camera, placed closer to the sound source, or pair it with a shotgun microphone for improved clarity. Always monitor with headphones and record in WAV format.
-
-- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
-- ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
-
-### ZOOM H4N Handheld PRO
-
-Upgraded version of the H4n with lower-noise preamps and improved audio quality. Recommended for capturing dialogue (if applicable), detailed Foley, and subtle ambient sound. Locking XLR inputs provide a more stable connection when using external microphones.
-
-- 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
-
-### ZOOM H4N SP Handheld
-
-Similar functionality to the original H4n, but often bundled with additional accessories (windscreen, case, etc.). Suitable for production audio, ambient recording, and Foley capture. Use in the same way as the standard H4n, following proper gain staging and monitoring practices.  
-
-- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
-
 ________________________________________________________________________
 
-________________________________________________________________________
-
-<h1 style="color: darkred;">Microphones that connect directly into the camera</h1>  
+<h1 style="color: darkred;">On-Camera & Direct-Input Microphones</h1>  
 
 ### RODE Microphone System Wireless Go II
 
@@ -61,7 +38,36 @@ Lightweight, plug-and-play on-camera shotgun microphone. Ideal for simple setups
 
 Compact and portable directional microphone that mounts directly onto the camera. Suitable for capturing general production audio and ambient sound in controlled settings. Works well for small crews and lightweight setups but should be positioned close to the subject for best results.   
 
-________________________________________________________________________
+________________________________________________________________________  
+
+<h1 style="color: darkred;">Handheld Recorders</h1>  
+
+### ZOOM H4N Handheld
+
+<img src="TechWalks/imgs/17.jpg" style="width: 50%; height: auto;">
+
+Portable audio recorder used to capture production sound, ambient audio, and Foley. In this course, it should be used during filming to record cleaner sound than the camera’s built-in microphone. Can be mounted on-camera, placed closer to the sound source, or pair it with a shotgun microphone for improved clarity. Always monitor with headphones and record in WAV format.
+
+- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
+- ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
+
+### ZOOM H4N Handheld PRO
+
+Upgraded version of the H4n with lower-noise preamps and improved audio quality. Recommended for capturing dialogue (if applicable), detailed Foley, and subtle ambient sound. Locking XLR inputs provide a more stable connection when using external microphones.
+
+- 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
+
+### ZOOM H4N SP Handheld
+
+Similar functionality to the original H4n, but often bundled with additional accessories (windscreen, case, etc.). Suitable for production audio, ambient recording, and Foley capture. Use in the same way as the standard H4n, following proper gain staging and monitoring practices.  
+
+- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
+
+<h1 style="color: darkred;">On-Camera & Direct-Input Microphones</h1>  
+
+________________________________________________________________________ 
+
+<h1 style="color: darkred;">Field Recording Microphones</h1>  
 
 ### Sennheiser Condenser (ME 80)
 
