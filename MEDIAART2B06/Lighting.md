@@ -27,7 +27,7 @@ Compact and portable LED unit. Useful for practical fills, accent lighting, or s
 
 ### Light Kit - Ianiro 1000W (Large - 3 Lights) 
 
-<img src="TechWalks/imgs/73.jpg" style="width: 70%; height: auto;">
+<img src="TechWalks/imgs/73.jpg" style="width: 60%; height: auto;">
 
 High-output tungsten lights for strong directional lighting and dramatic contrast. Best for controlled indoor environments. Produces warmer light (3200K), so consider white balance adjustments or gel use when mixing with daylight. 
 
@@ -36,7 +36,7 @@ High-output tungsten lights for strong directional lighting and dramatic contras
 
 ### Light Kit – Ledgo LG-900CSCII (3-Panel LED Kit)
 
-<img src="TechWalks/imgs/74.jpg" style="width: 70%; height: auto;">
+<img src="TechWalks/imgs/74.jpg" style="width: 60%; height: auto;">
 
 Three bi-color LED panels that provide soft, even illumination with adjustable intensity and colour temperature. Suitable for interviews, interior narrative scenes, and controlled lighting setups. Can be used as a key–fill–back configuration or positioned to create balanced, natural-looking light. 
 
@@ -45,7 +45,7 @@ Three bi-color LED panels that provide soft, even illumination with adjustable i
 
 ### Photoflex Starlite Kit (Single Light)
 
-<img src="TechWalks/imgs/75.jpg" style="width: 70%; height: auto;">  
+<img src="TechWalks/imgs/75.jpg" style="width: 60%; height: auto;">  
 
 Tungsten softbox lighting system designed for soft, diffused illumination. Ideal for interviews, close-ups, and interior scenes where even skin tones and reduced shadow contrast are desired. Best used in controlled indoor environments due to heat output and fixed colour temperature (3200K).
 
