@@ -4,15 +4,6 @@
 
 <h1 style="color: darkred;">Available Audio Equipment</h1>
 
-### RODE VideoMic NTG On-Camera Shotgun Microphone
-
-<img src="TechWalks/imgs/31.jpg" style="width: 70%; height: auto;">
-
-A versatile, broadcast-grade microphone that functions as both an on-camera shotgun mic and a full-featured USB microphone for computers and mobile devices.  
-
-- 📘 [User Guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
-- ▶️ Features and Specifications: [link to YouTube video](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
-
 ### RODE Microphone System Wireless Go II
 
 <img src="TechWalks/imgs/18.jpg" style="width: 60%; height: auto;">
@@ -38,6 +29,28 @@ The Zoom H4n Pro is an upgraded version of the original Zoom H4n, primarily feat
 - 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
 - ▶️ The 3 Ways I Use My Zoom H4N Pro: [link to YouTube video](https://www.youtube.com/watch?v=2oA8_Y5pXyw){:target="_blank"}
 
+### Cable XLR to XLR
+
+<img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
+
+An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
+
+- ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
+  > ⚠️ High level audio: lower your volume  
+
+________________________________________________________________________
+
+<h1 style="color: darkred;">Available Shotgun Microphones</h1>
+
+### RODE VideoMic NTG On-Camera Shotgun Microphone
+
+<img src="TechWalks/imgs/31.jpg" style="width: 70%; height: auto;">
+
+A versatile, broadcast-grade microphone that functions as both an on-camera shotgun mic and a full-featured USB microphone for computers and mobile devices.  
+
+- 📘 [User Guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
+- ▶️ Features and Specifications: [link to YouTube video](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
+
 ### Sennheiser Condenser (ME 80)
 
 <img src="TechWalks/imgs/70.jpg" style="width: 60%; height: auto;">
@@ -48,14 +61,6 @@ The Sennheiser ME 80 is used in film and news gathering for location recording, 
 - 📘 [User Manual](https://www.manualslib.com/products/Sennheiser-Me-80-9520660.html){:target="_blank"}
 - ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
 
-### Cable XLR to XLR
-
-<img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
-
-An XLR to XLR cable is a balanced audio cable with a 3-pin female connector on one end and a 3-pin male connector on the other. It is the standard for professional audio, used to connect microphones, mixers, and active speakers.   
-
-- ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
-  > ⚠️ High level audio: lower your volume  
 
 ________________________________________________________________________
 
