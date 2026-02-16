@@ -6,7 +6,7 @@
 
 ### ZOOM H4N Handheld
 
-<img src="TechWalks/imgs/17.jpg" style="width: 40%; height: auto;">
+<img src="TechWalks/imgs/17.jpg" style="width: 50%; height: auto;">
 
 Portable audio recorder used to capture production sound, ambient audio, and Foley. In this course, it should be used during filming to record cleaner sound than the camera’s built-in microphone. Can be mounted on-camera, placed closer to the sound source, or pair it with a shotgun microphone for improved clarity. Always monitor with headphones and record in WAV format.
 
