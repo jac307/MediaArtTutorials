@@ -52,6 +52,13 @@ Tungsten softbox lighting system designed for soft, diffused illumination. Ideal
 - 📘 [User Manual](https://upload.cyfrowe.pl/cyfrowe/pdf/StarLite_QL_2065780452.pdf){:target="_blank"}
 - ▶️ Photoflex medium StarLite Kit: [link to YouTube video](https://www.youtube.com/watch?v=uAju33gORGA){:target="_blank"}
 
+### 42 in Silver-White Reflector 
+
+Portable light-shaping tool used to bounce and redirect available light. The white side provides soft, natural fill, while the silver side produces a stronger, higher-contrast reflection. Useful for outdoor filming or interior scenes where you want to control shadows without adding additional powered lights.
+
+- ▶️ 15 Hacks for using Reflectors in Video: [link to YouTube video](https://www.youtube.com/watch?v=wdOSnxjFVUQ){:target="_blank"}
+- ▶️ 3 DIY Reflectors, Easy & Inexpensive Solutions & How To Use Them: [link to YouTube video](https://www.youtube.com/watch?v=yg_p6FGo8cU){:target="_blank"}
+
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
