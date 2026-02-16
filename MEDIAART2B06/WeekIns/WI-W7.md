@@ -46,7 +46,7 @@ You are expected to work actively during class time and participate in all in-cl
 |---------------------------------|-----------------------------------------------|
 | Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a full point deduction.**
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a half point deduction.**
 
 
 ### Deliverables — 📦 Pre-Production Package (PDF)
