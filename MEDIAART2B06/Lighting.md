@@ -75,6 +75,8 @@ Portable light-shaping tool used to bounce and redirect available light. The whi
 
 Backdrop systems are used to control the visual background of a scene and eliminate distractions. Black backdrops can create high-contrast or chiaroscuro setups, while white backdrops produce clean, neutral environments suitable for interviews or controlled compositions. Sandbags should always be used to stabilize stands and prevent tipping.  
 
+- ▶️ How To: Backdrop Stand Tutorial: [link to YouTube video](https://www.youtube.com/watch?v=ppy6S3nBl7w){:target="_blank"}
+
 Available Equipment: 
 + Backdrop Stand – Cameron
 + Neewer Backdrop Stand
@@ -82,8 +84,6 @@ Available Equipment:
 + White Backdrop
 + Sandbags
   > Used to stabilize light stands and backdrop stands, preventing tipping and ensuring safe setups during filming.   
-
-▶️ How To: Backdrop Stand Tutorial: [link to YouTube video](https://www.youtube.com/watch?v=ppy6S3nBl7w){:target="_blank"}
 
 ________________________________________________________________________
 
