@@ -2,9 +2,9 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W7 - Pre-Production Package</h1>  
+<h1 style="color: darkred;">W10 - Rough Cut Screening & Sound Design Production</h1>  
 
-Plan a one-minute, no-dialogue short film, creating a pre-production package that translates your visual concept into a realistic production plan.
+Screen your rough cut for critique and gather feedback before final revisions. Record and organize Foley, SFX, and updated ambient sound (and music, if needed) to further develop your sound design.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -15,28 +15,18 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Activity 1: Logline [20m]</a></li>
-  <li><a href="#script">Activity 2: Script [40m]</a></li>
-  <li><a href="#storyboard">Activity 3: Annotated Storyboard [60m]</a></li>
-  <li><a href="#homework">Homework</a></li>
+  <li><a href="#logline">Rough Cut Screening [4h]</a></li>
+  <li><a href="#homework">Homework - Sound Design Production</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Logline [20m]</h2>
+<h2 id="logline" style="color: darkred;">Rough Cut Screening [4h]</h2>
 
 ---
 
-<h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>
-
----
-
-<h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [60m]</h2>
-
----
-
-<h2 id="homework" style="color: darkred;">Homework</h2>
+<h2 id="homework" style="color: darkred;">Homework - Sound Design Production</h2>
 
 ---
 
@@ -50,8 +40,35 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-### Deliverables — 📦 Pre-Production Package (PDF)
+### Deliverables — 📦 Sound Design Production Package (ZIP Submission)
 
+**File name:**  
+`Lastname_Firstname_SoundDesignProduction.zip`
+
+All sound files must be placed inside the folder:
+
+<h3>📁 <code style="color: navy;">02_Audio</code></h3>
+
+- Recorded Foley sound (WAV)  
+- Downloaded/sourced Sound Effects (WAV preferred; MP3 accepted)  
+- Updated ambient sound recordings (if applicable)  
+
+**Naming Protocol:**  
+`ProjectName_AudioType_SimpleDescription_Take#`
+
+- Audio type = `ProdAudio` (Production Sound), `Ambience`, `SFX` (Sound Effects), `Foley`, or `Music`  
+
+**Examples:**  
+`Echo_Foley_Footsteps_T01.wav`  
+`Echo_SFX_OpenDoor_T01.wav`
+
+---
+
+## Re-Shoots (If Necessary)
+
+If re-shooting was recommended during critique, students must complete the revised scenes before W12.
+
+No Avenue submission is required for re-shoots. Bring all new recordings and updated files to class in W12, properly organized within your project folder.
 
 ________________________________________________________________________
 
