@@ -44,8 +44,8 @@ You are expected to work actively during class time and participate in all in-cl
 
 | Item                               | Required Filename                   |
 |------------------------------------|-------------------------------------|
-| Rough Cut Export (MP4)             | `Lastname_Firstname_RoughCut.mp4`   |
-| Rough Cut Information Sheet (PDF)  | `Lastname_Firstname_RoughCut.pdf`   |
+| Final Cut Export (MP4)             | `Lastname_Firstname_FinalCut.mp4`   |
+| Final Information Sheet (PDF)      | `Lastname_Firstname_InfoSheet.pdf`  |
 | Organization                       | *In-Person Grading*                 |
 
 > ⚠️⚠️⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in exclusion from the screening, which will affect your grade importantly.**
