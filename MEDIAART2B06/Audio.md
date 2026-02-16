@@ -18,7 +18,6 @@ Portable audio recorder used to capture production sound, ambient audio, and Fol
 Upgraded version of the H4n with lower-noise preamps and improved audio quality. Recommended for capturing dialogue (if applicable), detailed Foley, and subtle ambient sound. Locking XLR inputs provide a more stable connection when using external microphones.
 
 - 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
-- ▶️ The 3 Ways I Use My Zoom H4N Pro: [link to YouTube video](https://www.youtube.com/watch?v=2oA8_Y5pXyw){:target="_blank"}
 
 ### ZOOM H4N SP Handheld
 
