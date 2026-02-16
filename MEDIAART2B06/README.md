@@ -57,20 +57,11 @@ Series of hands-on production exercises designed to **build core skills** in cam
   + [W4 - Tutorials](Tutorials/index.html?file=T-W4.json) - Color Correction Over Time
 + [Week 5](WeekIns/WI-W5.md) — Foley Sound Creation (Groups of 3)
   + [W5 - Tech Walkthrough](TechWalks/TW-W5.md) - Foley Sound Creation · Multi-Device Recording Setup
-  + [W5 - Tutorials](Tutorials/index.html?file=T-W5.json) - Live Foley: Multi-Camera Video & Live Sound Workflow
-
-
-<!--
-+ [Week 6](WeekIns/WI-W6.md) — In-Class Showcase - Class Video Exhibition
--->  
+  + [W5 - Tutorials](Tutorials/index.html?file=T-W5.json) - Live Foley: Multi-Camera Video & Live Sound Workflow  
 
 ---
 
 ## Module 2 – Short Film Project (Individual)
-
-This module guides students through the complete production of a one-minute short film, from concept and script development to shooting, editing, sound design, critique, and final professional export.
-
-### Short Description
 
 Students will produce a **one-minute, no-dialogue short film** using professional production equipment and industry-standard post-production workflows. The final work must demonstrate a **polished visual style, intentional cinematography, and a multi-layered sound design**.
 
