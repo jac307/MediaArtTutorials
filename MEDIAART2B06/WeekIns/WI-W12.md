@@ -2,9 +2,9 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W7 - Pre-Production Package</h1>  
+<h1 style="color: darkred;">W12 & W13 - Final Cut & Class Screening</h1>  
 
-Plan a one-minute, no-dialogue short film, creating a pre-production package that translates your visual concept into a realistic production plan.
+Refine and finalize picture, sound, and colour for your one-minute short, and prepare professional documentation for final submission and public screening.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -15,43 +15,103 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Activity 1: Logline [20m]</a></li>
-  <li><a href="#script">Activity 2: Script [40m]</a></li>
-  <li><a href="#storyboard">Activity 3: Annotated Storyboard [60m]</a></li>
-  <li><a href="#homework">Homework</a></li>
+  <li><a href="#logline">Activity 1: Final Assembly [50m]</a></li>
+  <li><a href="#script">Activity 2: Final Sound Design in Audition [1h40m]</a></li>
+  <li><a href="#storyboard">Activity 3: Final Colour Correction in Premiere [50m]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Logline [20m]</h2>
+<h2 id="logline" style="color: darkred;">Activity 1: Final Assembly [50m]</h2>
 
 ---
 
-<h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>
+<h2 id="script" style="color: darkred;">Activity 2: Final Sound Design in Audition [1h40m]</h2>
 
 ---
 
-<h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [60m]</h2>
-
----
-
-<h2 id="homework" style="color: darkred;">Homework</h2>
+<h2 id="storyboard" style="color: darkred;">Activity 3: Final Colour Correction in Premiere [50m]</h2>
 
 ---
 
 <h2 id="submission" style="color: darkred;">📤 Submission</h2>
 
-| Item                            | Required Filename                             |
-|---------------------------------|-----------------------------------------------|
-| Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
+| Item                               | Required Filename                   |
+|------------------------------------|-------------------------------------|
+| Rough Cut Export (MP4)             | `Lastname_Firstname_RoughCut.mp4`   |
+| Rough Cut Information Sheet (PDF)  | `Lastname_Firstname_RoughCut.pdf`   |
+| Organization                       | *In-Person Grading*                 |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a half point deduction.**
 
 ---
 
-### Deliverables — 📦 Pre-Production Package (PDF)
+### Deliverables — 📦 Final Cut Package (ZIP Submission)  
 
+**File name:**  
+`Lastname_Firstname_FinalPackage.zip`  
+
+### 1. Final Cut Export (MP4)
+
+- Full sequence assembled  
+- Final sound mix integrated  
+- Final colour correction applied  
+- Titles and credits included  
+
+**Export settings:**  
+MP4 (H.264); 1920x1080; 24 fps  
+
+**File name:**  
+`Lastname_Firstname_FinalCut.mp4`  
+
+### 2. Final Information Sheet (PDF)
+
+- Film Information (Title, Director, Year of Completion, Runtime, Format)  
+- Logline (1–2 sentences)  
+- Short Synopsis (100–150 words)  
+- Director’s Statement (150–250 words)  
+- Credits  
+
+**File name:**  
+`Lastname_Firstname_InfoSheet.pdf`  
+
+### 3. 2–3 High Resolution Stills
+
+Representative still frames from the final film.
+
+**File names:**  
+`Lastname_Firstname_Still_01.png`  
+`Lastname_Firstname_Still_02.png`  
+`Lastname_Firstname_Still_03.png`  
+
+---
+
+## In-Person Grading  
+
+> Thursday Production - End-Of-The-Day Check-In  
+
+Students must have their project folder and be ready to show the following:
+
+<h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
+
+- Premiere Pro: `ProjectName.prproj`  
+- Adobe Audition: `ProjectName.sesx`  
+- Autosaves  
+
+<h3>📁 <code style="color: navy;">03_Renders</code></h3>
+
+- Temporary render naming protocol: `ProjectName_RenderType`  
+
+Examples:  
+`Echo_PictureLock.mp4`  
+`Echo_AudioCheck.mp4`  
+`EchoColourCheck.mp4`
+
+<h3>📁 <code style="color: navy;">04_Exports</code></h3>
+
+- Later to be included:  
+  `Lastname_Firstname_FinalCut.mp4`
 
 ________________________________________________________________________
 
