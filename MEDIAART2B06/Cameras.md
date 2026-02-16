@@ -4,20 +4,19 @@
 
 <h1 style="color: darkred;">Available DSLR Cameras</h1>
 
-A **DSLR (Digital Single-Lens Reflex) camera** is a digital camera that uses a single interchangeable lens for both viewing and recording an image.  
+A **DSLR (Digital Single-Lens Reflex) camera** uses a single interchangeable lens for both viewing and recording the image.
 
-Inside a DSLR, **a mirror reflects light** from the lens up into the optical viewfinder, allowing you to see the scene directly through the lens. When you take a photo or start recording, the mirror flips up, letting light reach the digital sensor so the image can be recorded.  
+Inside a DSLR, a mirror reflects light from the lens into the optical viewfinder so you can see directly through the lens. When recording begins, the mirror flips up, allowing light to reach the digital sensor.
 
 ---
 
-The following DSLR cameras are available for Media Art students to rent.  
-All models offer similar controls and image quality and are well suited for the **Photo Film (Black & White)** assignment.
+The following DSLR cameras are available for Media Art students to rent. All models offer similar manual controls and image quality and are suitable for the Photo Film and Time-Based Media assignments.
 
 ### Canon EOS Rebel T4i / EOS 650D
 
 <img src="TechWalks/imgs/01.jpg" style="width: 60%; height: auto;">
 
-A reliable entry-level DSLR with full manual controls, ideal for learning exposure, focus, and composition fundamentals.
+Reliable entry-level DSLR with full manual controls. Ideal for learning exposure, focus, and composition fundamentals for both still and video work.
 
 - 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300007695/01/eosrt4i-eos650d-im-c-en.pdf){:target="_blank"}
 - ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=ENKDeSRfeFk){:target="_blank"}
@@ -26,7 +25,7 @@ A reliable entry-level DSLR with full manual controls, ideal for learning exposu
 
 <img src="TechWalks/imgs/02.jpg" style="width: 60%; height: auto;">
 
-An updated version of the T4i with improved autofocus and handling, suitable for controlled still photography and tripod-based shooting.
+Updated version of the T4i with improved autofocus and handling. Suitable for controlled shooting and tripod-based filming.
 
 - 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/5/0300010905/02/eos-rebelt5i-700d-im2-en.pdf){:target="_blank"}
 - ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=eXglxC0IN7Q){:target="_blank"}
@@ -35,12 +34,10 @@ An updated version of the T4i with improved autofocus and handling, suitable for
 
 <img src="TechWalks/imgs/03.jpg" style="width: 60%; height: auto;">
 
-A more recent DSLR model with enhanced autofocus and low-light performance, while maintaining the same core controls and workflow.
+More recent DSLR model with enhanced autofocus and improved low-light performance while maintaining the same core controls and workflow.
 
 - 📘 Camera Manual: [link to manual](https://gdlp01.c-wss.com/gds/1/0300026121/01/eos-rebelt7i-800d-bim-3l.pdf){:target="_blank"}
 - ▶️ Intro Video: [link to YouTube video](https://www.youtube.com/watch?v=4QTmDk_ZSmc){:target="_blank"}
-
-📌 *Regardless of the camera model you are assigned, the core controls and concepts demonstrated in class apply across all three.* 
 
 ________________________________________________________________________
 
@@ -48,13 +45,13 @@ ________________________________________________________________________
 
 ## Zoom Lenses
 
-Zoom lenses have **variable focal lengths**, allowing you to change your field of view without moving your feet.  
+Zoom lenses have **variable focal lengths**, allowing you to change framing without physically moving the camera.
 
 ### Canon 24-105mm 1:3.5-5.6 IS STM
 
 <img src="TechWalks/imgs/36.jpg" style="width: 50%; height: auto;">
 
-Ideal for general-purpose photography (landscapes, portraits, events) and smooth, quiet video recording due to its STM motor.    
+Versatile zoom lens suitable for a wide range of shots, from wide establishing frames to medium close-ups. Useful in narrative filming when flexibility is needed without changing lenses. 
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24-105mm_f/3.5-5.6_IS_STM&category=/en/products/Lenses/EF-Lenses/Standard-Zoom){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/4251-canon-ef-24-105-f-3-5-5-6-stm/photos){:target="_blank"}
@@ -70,7 +67,7 @@ Ideal for general-purpose photography (landscapes, portraits, events) and smooth
 
 <img src="TechWalks/imgs/37.jpg" style="width: 50%; height: auto;">
 
-Best for a wide range of subjects, including landscapes, portraits, and events, when image quality and a constant f/4 aperture are prioritized in a versatile single-lens solution.  
+Professional-grade zoom lens with a constant f/4 aperture. Useful for maintaining consistent exposure while zooming and for controlled narrative setups requiring reliable image quality.
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=RF_24%E2%80%93105mm_F4_L_IS_USM&category=/en/products/Lenses/RF-Lenses/Standard-Zoom){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/1404-canon-ef-24-105mm-f-4-l-usm/photos){:target="_blank"}
@@ -84,13 +81,13 @@ Best for a wide range of subjects, including landscapes, portraits, and events, 
 
 ## Wide-Angle Prime Lenses
 
-Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoom**. **Wide-Angle Prime Lenses (<35mm)** have a very broad field of view, allowing you to fit more of a scene into the frame.
+Prime lenses have a fixed focal length and cannot zoom. Wide-angle primes **provide a broader field of view** and allow more of the environment to enter the frame.
 
 ### Canon 24mm 1:1.4 L II USM
 
 <img src="TechWalks/imgs/38.jpg" style="width: 50%; height: auto;">
 
-Excellent choice for low-light situations (like astrophotography or wedding receptions), environmental portraits, and architecture/landscape photography where high performance and a wide aperture are crucial.  
+Wide-angle prime with a fast aperture, suitable for low-light narrative scenes and environmental compositions with shallow depth of field.
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24mm_f/1.4L_II_USM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/2481-canon-24mm-f-1-4l-ii-usm/photos){:target="_blank"}
@@ -106,7 +103,7 @@ Excellent choice for low-light situations (like astrophotography or wedding rece
 
 <img src="TechWalks/imgs/39.jpg" style="width: 50%; height: auto;">
 
-Best for street photography or as a lightweight, sharp walk-around option on a crop-sensor body, allowing you to be less obtrusive.  
+Compact and lightweight wide-angle prime. Suitable for handheld filming and environmental shots with a natural perspective.
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF-S_24mm_f/2.8_STM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/4333-canon-ef-24mm-f2-8/photos){:target="_blank"}
@@ -123,7 +120,7 @@ Best for street photography or as a lightweight, sharp walk-around option on a c
 
 <img src="TechWalks/imgs/40.jpg" style="width: 50%; height: auto;">
 
-General wide-angle shooting in varied lighting conditions where the Image Stabilization is a benefit for handheld shooting of static subjects, especially if a faster f/1.4 lens is out of budget or not needed.  
+Wide-angle lens with image stabilization, useful for handheld filming and static scenes in varied lighting conditions.
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_24mm_f/2.8_IS_USM&category=/en/products/Lenses/EF-Lenses/Wide-Angle){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/1647-canon-ef-24mm-f-2-8-is-usm/photos){:target="_blank"}
@@ -139,7 +136,7 @@ General wide-angle shooting in varied lighting conditions where the Image Stabil
 
 <img src="TechWalks/imgs/41.jpg" style="width: 50%; height: auto;">
 
-Ideal for general-purpose, street, and documentary photography, providing a natural field of view and a fast aperture with image stabilization for excellent low-light handheld performance.  
+Provides a natural field of view with image stabilization. Suitable for handheld narrative filming and low-light scenes.  
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_35mm_f/2_IS_USM&category=){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/10505-canon-35mm-f2-ltm/photos){:target="_blank"}
@@ -153,13 +150,13 @@ Ideal for general-purpose, street, and documentary photography, providing a natu
 
 ## Standard and Telephoto Prime Lenses
 
-Prime lenses have a **fixed focal length** (e.g., exactly 50mm) and **cannot zoom**. **Standard (Normal) Prime Lenses (~35mm–70mm)** provide a field of view similar to the human eye, offering a natural perspective with minimal distortion. **Telephoto Prime Lenses (>70mm)** have a narrow field of view and act like a telescope to "pull" distant subjects closer.  
+Standard primes (~35mm–70mm) provide a **natural perspective similar to human vision**. Telephoto primes (>70mm) **compress distance and narrow the field of view**, making distant subjects appear closer.
 
 ### Canon 50mm 1:1.4 USM
 
 <img src="TechWalks/imgs/20.jpg" style="width: 50%; height: auto;">
 
-Good for general everyday use, portraits, and low-light photography, offering a natural perspective close to the human eye and a shallow depth of field.  
+Standard prime lens suitable for close-ups and medium shots. Offers shallow depth of field and strong subject separation. 
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.4_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/392-canon-ef-50mm-f-1-4-usm/photos){:target="_blank"}
@@ -175,7 +172,7 @@ Good for general everyday use, portraits, and low-light photography, offering a 
 
 <img src="TechWalks/imgs/21.jpg" style="width: 50%; height: auto;">
 
-Best for professional portraiture, weddings, and artistic low-light shooting where its extremely wide f/1.2 aperture delivers exceptional subject isolation and beautiful background blur (bokeh).  
+Very fast prime lens offering extremely shallow depth of field and strong subject isolation. Suitable for stylized narrative scenes and controlled lighting setups. 
 
 - 📘 [Tech Overview](https://www.canon.ca/en/product?name=EF_50mm_f/1.2L_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/1177-ef-50mm-f-1-2l-usm/photos){:target="_blank"}
@@ -191,7 +188,7 @@ Best for professional portraiture, weddings, and artistic low-light shooting whe
 
 <img src="TechWalks/imgs/22.jpg" style="width: 50%; height: auto;">
 
-Classic choice for portraits and events, providing flattering compression and a fast aperture to isolate your subject with a blurred background while working from a comfortable distance.  
+Telephoto prime that provides flattering compression and strong background blur. Useful for portrait-style framing and isolating subjects from a distance. 
 
 - 📘 [Tech Specs](https://www.canon.ca/en/product?name=EF_85mm_f/1.8_USM&category=/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto){:target="_blank"}
 - [Examples from Lomography](https://www.lomography.com/lenses/3491-canon-ef-85mm-f-1-8-usm/photos){:target="_blank"}
