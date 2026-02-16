@@ -45,17 +45,20 @@ ________________________________________________________________________
 
 <img src="TechWalks/imgs/86.jpg" style="width: 60%; height: auto;">
 
-Tripods provide stable, fixed framing for interviews, locked-off shots, and controlled camera movement (pan and tilt). Models with fluid heads allow smoother motion for narrative filming. Available: 
+**Tripods** provide stable, fixed framing for interviews, locked-off shots, and controlled camera movement (pan and tilt). Models with fluid heads allow smoother motion for narrative filming.   
+Available: 
 - Manfrotto - Large for DSLR Camera (190XDB)
 - Manfrotto - Large for DSLR Camera (Element MII)
 - Manfrotto (190D) - Large for DSLR Camera
 - Manfrotto - XL with Fluid Drag & Bag (MVK500AM)
 - Manfrotto - XL with Fluid Drag & Bag (MVT502AM)
 
-Monopods offer partial stabilization while allowing greater mobility. Useful for documentary-style shooting or when working in tight spaces where a full tripod is impractical. Available: 
+**Monopods** offer partial stabilization while allowing greater mobility. Useful for documentary-style shooting or when working in tight spaces where a full tripod is impractical.   
+Available: 
 - Manfrotto - Photo Monopod (679B)
 
-Tripod Dollies attach to a tripod and allow smooth rolling movement across flat surfaces. They are used for controlled tracking shots and subtle camera motion while maintaining the stability of the tripod. Dollies must always be used together with a compatible tripod. Available: 
+**Tripod Dollies** attach to a tripod and allow smooth rolling movement across flat surfaces. They are used for controlled tracking shots and subtle camera motion while maintaining the stability of the tripod. Dollies must always be used together with a compatible tripod.   
+Available: 
 - Cine/Video Dolly - Manfrotto - Small
 - Cine/Video Dolly - Manfrotto - Medium
 - Cine/Video Dolly - Manfrotto - Large
