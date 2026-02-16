@@ -97,7 +97,7 @@ Include all required:
 
 ---
 
-<h2 id="submission" style="color: darkred;">📤 Submission<</h2>
+<h2 id="submission" style="color: darkred;">📤 Submission</h2>
 
 | Item                            | Required Filename                             |
 |---------------------------------|-----------------------------------------------|
