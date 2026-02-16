@@ -2,7 +2,11 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">Available Lighting Equipment</h1>
+<h1 style="color: darkred;">Available Lighting Equipment</h1>  
+
+________________________________________________________________________
+
+<h2 style="color: darkred;">Lighting Kits</h2>  
 
 ### Light Kit - Fiilex 360 LED (Large - 3 Lights)
 
@@ -52,6 +56,10 @@ Tungsten softbox lighting system designed for soft, diffused illumination. Ideal
 - 📘 [User Manual](https://upload.cyfrowe.pl/cyfrowe/pdf/StarLite_QL_2065780452.pdf){:target="_blank"}
 - ▶️ Photoflex medium StarLite Kit: [link to YouTube video](https://www.youtube.com/watch?v=uAju33gORGA){:target="_blank"}
 
+________________________________________________________________________
+
+<h2 style="color: darkred;">Light Control & Background</h2> 
+
 ### 42 in Silver-White Reflector 
 
 <img src="TechWalks/imgs/85.jpg" style="width: 40%; height: auto;"> 
@@ -60,6 +68,24 @@ Portable light-shaping tool used to bounce and redirect available light. The whi
 
 - ▶️ 15 Hacks for using Reflectors in Video: [link to YouTube video](https://www.youtube.com/watch?v=wdOSnxjFVUQ){:target="_blank"}
 - ▶️ 3 DIY Reflectors, Easy & Inexpensive Solutions & How To Use Them: [link to YouTube video](https://www.youtube.com/watch?v=yg_p6FGo8cU){:target="_blank"}
+
+### Backdrops & Support Systems
+
+<img src="TechWalks/imgs/86.jpg" style="width: 40%; height: auto;"> 
+
+Backdrop systems are used to control the visual background of a scene and eliminate distractions. Black backdrops can create high-contrast or chiaroscuro setups, while white backdrops produce clean, neutral environments suitable for interviews or controlled compositions. Sandbags should always be used to stabilize stands and prevent tipping.  
+
+Available Equipment: 
+- Backdrop Stand – Cameron
+- Neewer Backdrop Stand
+- Black Backdrop
+- White Backdrop
+
+- ▶️ How To: Backdrop Stand Tutorial: [link to YouTube video](https://www.youtube.com/watch?v=ppy6S3nBl7w){:target="_blank"}
+
+### Sandbags
+
+Sandbags are used to stabilize light stands and backdrop stands, preventing tipping and ensuring safe setups during filming.
 
 ________________________________________________________________________
 
