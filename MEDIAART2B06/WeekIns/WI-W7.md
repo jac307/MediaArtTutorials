@@ -39,10 +39,18 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h2 id="homework" style="color: darkred;">Homework</h2>
 
-
 ---
 
-<h2 id="deliverables" style="color: darkred;">Deliverables — 📦 Pre-Production Package (PDF)</h2>
+<h2 id="submission" style="color: darkred;">📤 Submission</h2>
+
+| Item                            | Required Filename                             |
+|---------------------------------|-----------------------------------------------|
+| Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
+
+> ⚠️ **Follow the submission protocols carefully. Incorrect submissions will result in a full point deduction.**
+
+
+### Deliverables — 📦 Pre-Production Package (PDF)
 
 Create a single document with the following sections:  
 
@@ -94,16 +102,6 @@ Include all required:
 - Estimated time per shot or sequence  
 - Buffe
 
-
----
-
-<h2 id="submission" style="color: darkred;">📤 Submission</h2>
-
-| Item                            | Required Filename                             |
-|---------------------------------|-----------------------------------------------|
-| Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
-
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ________________________________________________________________________
 
