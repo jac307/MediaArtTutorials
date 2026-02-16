@@ -99,13 +99,13 @@ Representative still frames from the final film.
 
 Students must have their project folder and be ready to show the following:
 
-<h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
+<h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
 
 - Premiere Pro: `ProjectName.prproj`  
 - Adobe Audition: `ProjectName.sesx`  
 - Autosaves  
 
-<h3>📁 <code style="color: navy;">03_Renders</code></h3>
+<h4>📁 <code style="color: navy;">03_Renders</code></h4>
 
 - Temporary render naming protocol: `ProjectName_RenderType`  
 
@@ -114,7 +114,7 @@ Examples:
 `Echo_AudioCheck.mp4`  
 `EchoColourCheck.mp4`
 
-<h3>📁 <code style="color: navy;">04_Exports</code></h3>
+<h4>📁 <code style="color: navy;">04_Exports</code></h4>
 
 - Later to be included:  
   `Lastname_Firstname_FinalCut.mp4`
