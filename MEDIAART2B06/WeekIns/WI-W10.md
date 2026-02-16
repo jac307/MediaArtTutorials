@@ -36,7 +36,7 @@ You are expected to work actively during class time and participate in all in-cl
 |------------------------------------------|------------------------------------------------|
 | Sound Design Production Package (ZIP)    | `Lastname_Firstname_SoundDesignProduction.zip` |
 
-> ⚠️ **Follow the submission protocols carefully.
+> ⚠️ **Follow the submission protocols carefully.  
 > ⚠️ Incorrect submissions will result in a one point deduction❗**
 
 ---
