@@ -18,6 +18,7 @@ You are expected to work actively during class time and participate in all in-cl
   <li><a href="#logline">Activity 1: Final Assembly [50m]</a></li>
   <li><a href="#script">Activity 2: Final Sound Design in Audition [1h40m]</a></li>
   <li><a href="#storyboard">Activity 3: Final Colour Correction in Premiere [50m]</a></li>
+  <li><a href="#storyboard">Final Package & Portfolio Preparation Workshop [1h40m]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
@@ -32,6 +33,10 @@ You are expected to work actively during class time and participate in all in-cl
 ---
 
 <h2 id="storyboard" style="color: darkred;">Activity 3: Final Colour Correction in Premiere [50m]</h2>
+
+---
+
+<h2 id="storyboard" style="color: darkred;">Final Package & Portfolio Preparation Workshop [1h40m]</h2>
 
 ---
 
