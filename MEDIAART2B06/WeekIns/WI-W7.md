@@ -53,7 +53,9 @@ You are expected to work actively during class time and participate in all in-cl
 ### Deliverables — 📦 Pre-Production Package (PDF)
 
 Create a single document with the following sections.  
-Naming Protocol: `Lastname_Firstname_PreProductionPackage.pdf`  
+
+**File name:**  
+`Lastname_Firstname_PreProductionPackage.pdf`  
 
 ### 1. Micro-Treatment
 - Title (working)  
