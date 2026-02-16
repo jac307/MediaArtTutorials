@@ -71,7 +71,7 @@ Portable light-shaping tool used to bounce and redirect available light. The whi
 
 ### Backdrops & Support Systems
 
-<img src="TechWalks/imgs/86.jpg" style="width: 60%; height: auto;"> 
+<img src="TechWalks/imgs/87.jpg" style="width: 60%; height: auto;"> 
 
 Backdrop systems are used to control the visual background of a scene and eliminate distractions. Black backdrops can create high-contrast or chiaroscuro setups, while white backdrops produce clean, neutral environments suitable for interviews or controlled compositions. Sandbags should always be used to stabilize stands and prevent tipping.  
 
