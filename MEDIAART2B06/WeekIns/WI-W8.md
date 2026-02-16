@@ -44,7 +44,9 @@ You are expected to work actively during class time and participate in all in-cl
 ### Deliverables — 📦 Production Package (ZIP Submission)
 
 Follow the required folder structure (inside ZIP)  
-Naming Protocol: `Lastname_Firstname_ProductionPackage.zip`  
+
+**File name:**  
+`Lastname_Firstname_ProductionPackage.zip`  
 
 <h3>📁 <code style="color: navy;">00_ProjectFiles</code></h3>
 
