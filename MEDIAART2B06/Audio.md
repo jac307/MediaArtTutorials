@@ -34,7 +34,7 @@ ________________________________________________________________________
 
 ### RODE Microphone System Wireless Go II
 
-<img src="TechWalks/imgs/18.jpg" style="width: 60%; height: auto;">
+<img src="TechWalks/imgs/18.jpg" style="width: 50%; height: auto;">
 
 Compact wireless microphone system used to capture clean production audio directly from a subject. In this course, it can be clipped onto an interviewee to record clear, isolated sound while filming. The dual-channel system allows recording two sources simultaneously, and on-board recording provides a backup in case of signal dropouts.  
 
@@ -45,7 +45,7 @@ Compact wireless microphone system used to capture clean production audio direct
 
 <img src="TechWalks/imgs/31.jpg" style="width: 50%; height: auto;">
 
-A versatile, broadcast-grade microphone that functions as both an on-camera shotgun mic and a full-featured USB microphone for computers and mobile devices.  
+Directional on-camera shotgun microphone used to capture focused sound from the subject directly in front of the camera. In this course, it is suitable for interviews, close-ups, and controlled narrative scenes where the camera is positioned near the subject. It offers better clarity than built-in camera microphones and allows manual gain control to avoid distortion.    
 
 - 📘 [User Guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
 - ▶️ Features and Specifications: [link to YouTube video](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
@@ -54,13 +54,13 @@ A versatile, broadcast-grade microphone that functions as both an on-camera shot
 
 <img src="TechWalks/imgs/76.jpg" style="width: 50%; height: auto;">
 
-Description
+Lightweight, plug-and-play on-camera shotgun microphone. Ideal for simple setups and quick shoots where mobility is important. Captures directional sound from the front of the camera and improves overall audio quality compared to internal camera microphones. Best used in relatively quiet environments.   
 
 ### RODE VideoMicro Compact On-Camera Microphone 
 
 <img src="TechWalks/imgs/77.jpg" style="width: 50%; height: auto;">
 
-Description
+Compact and portable directional microphone that mounts directly onto the camera. Suitable for capturing general production audio and ambient sound in controlled settings. Works well for small crews and lightweight setups but should be positioned close to the subject for best results.   
 
 ________________________________________________________________________
 
