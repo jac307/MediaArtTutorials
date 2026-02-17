@@ -153,21 +153,17 @@ Create a single PDF that includes:
 
 Your work will be assessed based on:
 
-## Assessment
+- **Clarity of Sonic Intentions (PDF)**  
+  The written description clearly defines the emotional arc (beginning → shift → ending), and the composition meaningfully extends your Week 6 *Lighting as Temporal Transformation* approach.
 
-Your work will be assessed based on:
-
-- **Clarity of Sonic Intentions**  
-  Your written description clearly defines the emotional arc (beginning → shift → ending), and the composition meaningfully extends your Week 6 *Lighting as Temporal Transformation* approach.
-
-- **Sound Composition Structure**  
+- **Sound Composition Structure (WAV + RPP)**  
   The 30-second composition demonstrates intentional layering of at least three sound sources, clear temporal development, effective fade-in and fade-out, and clean audio levels without distortion.
 
-- **Integration in Blender & Final Render**  
-  Sound is correctly imported and synchronized within the Blender file, and lighting timing aligns with the 30-second duration.  
-  The static wide shot reflects a deliberate framing strategy (rule of thirds, symmetry, or leading lines) both in the `.blend` file and in the final rendered video.
+- **Integration & Framing in Final Render (MP4)**  
+  Sound is properly synchronized with lighting timing across the 30-second duration.  
+  The static wide shot demonstrates a deliberate framing strategy (rule of thirds, symmetry, or leading lines), and sound reshapes attention within a fixed frame.
 
-- **Technical Completion & File Organization**  
-  All required files follow correct naming conventions and are properly rendered (not viewport recordings).
+- **Technical Execution & File Organization**  
+  All required files (`.pdf`, `.rpp`, `.wav`, `.mp4`) follow correct naming conventions, maintain a 30-second duration, and are properly exported (not viewport recordings).
 
 ---
