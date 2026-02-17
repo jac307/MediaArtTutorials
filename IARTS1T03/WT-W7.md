@@ -93,7 +93,7 @@ When finished:
 Follow the Blender tutorials below to **import your 30-second WAV file** into your **duplicated W6 scene**.  
 
 Then:
-- Keep your **Week 6 lighting animation unchanged**.  
+- Keep your **Week 6 lighting design and cue structure**, but **adjust the timing of the lighting animation** to align with your 30-second sound composition and final duration (30 seconds total).  
 - **Remove any previous camera animation** from Week 6.
 - Position the camera in a **static wide shot** from the perspective of the audience.
 - Choose and apply a clear framing strategy:
