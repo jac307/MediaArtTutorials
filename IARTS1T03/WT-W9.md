@@ -2,25 +2,26 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W7 - Sound as Temporal Structure</span>
-
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/22.png" style="width: 100%; height: auto;">
-</figure>
+# <span style="color: darkred;">W9 - Integrated Atmosphere (Light + Sound + Space)</span>
 
 ## Objective
 
-Description
+You will **build on your W8 sound composition** to **create a cinematic version** of your scene. You will **design a camera progression that moves through the space in response to lighting cues and spatial sound shifts**.  
+
+This activity focuses on **how movement transforms the experience of sound and light over time**, shifting from theatrical observation to cinematic embodiment.  
+
+<div style="color: gray; font-style: italic; margin-bottom: 1em;">
+Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
+</div>
 
 ---
 
 ## Materials Required
 
 - Computer (laptop or desktop)
-- **Blender (free software)**  
-  👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
+- Blender (free software)
 - Computer mouse (recommended)
-- Your **Week 5 Blender file (.blend)**
+- Your **Week 6 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -30,24 +31,23 @@ Description
 
 ---
 
-<h3 style="color: darkred;">[15 min] Lighting Intentions — Start Here</h3>
-
-
----
-
-<h3 style="color: darkred;">[20 min] 2D Lighting Map</h3>
-
----  
-
-<h3 style="color: darkred;">[10 min] Cue Instructions (Written for a Technician)</h3>
+<h3 style="color: darkred;">[15 min] Embodied Perspective Intentions — Start Here</h3>
 
 ---
 
-<h3 style="color: darkred;">[40 min] Lighting in Blender</h3>
+<h3 style="color: darkred;">[10 min] Spatial Floor Map: add Position of Speakers</h3>
 
 ---
 
-<h3 style="color: darkred;">[20 min] Animate the Camera + Render Video and Image in Blender</h3>  
+<h3 style="color: darkred;">[20 min] Gather & Curate Sound Samples</h3>
+
+---
+
+<h3 style="color: darkred;">[60-80m] Compose in REAPER (Stereo Spatialization Focus)</h3>
+
+---
+
+<h3 style="color: darkred;">[30 min] Blender: Spatial Sound Integration</h3>
 
 ---
 
@@ -69,32 +69,28 @@ Description
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=PSvPcJ_74rNpn7dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-❗ Review this week’s slides for practical tips on **animating lights, camera, and render video files in Blender**.  
-
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
 ### Create a single PDF:
   
-- **3–4 sentence lighting intention description**
-- **2D Lighting Map**
-  - Top view, side view, and front view  
-  - Colour-coded lights with range indicated
-- **Cue list**
-  - 3–5 cues, written in order as **clear, technician-style instructions**, using class vocabulary  
-  - **One rendered image per cue**, showing the exact frame where the cue occurs  
+- **3–4 sentence sonic intention description**
+- **List of sound samples used**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
+📄 **Filename:** `Lastname-Firstname-W8.pdf`
 
 ---
 
-| Component              | File Name                                 |
-|------------------------|-------------------------------------------|
-| Project document (PDF) | `Lastname-Firstname-W6-Tutorial.pdf`      |
-| Blender file           | `Lastname-Firstname-W6-Lighting.blend`    |
-| Video file             | `Lastname-Firstname-W6-Lighting.mp4`      |
+| Component              | File Name                         |
+|------------------------|-----------------------------------|
+| Project document (PDF) | `Lastname-Firstname-W8.pdf`       |
+| Blender file           | `Lastname-Firstname-W8.blend`     |
+| Reaper file            | `Lastname-Firstname-W8.rpp`       |
+| Sound file (left)      | `Lastname-Firstname-W8-Left.wav`  |
+| Sound file (right)     | `Lastname-Firstname-W8-Right.wav` |
+| Video file             | `Lastname-Firstname-W8.mp4`       |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
