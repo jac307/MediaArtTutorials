@@ -123,7 +123,7 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 
 Create a single PDF that includes:
 
-- **3–4 sentence sonic intention description**  
+- **4–5 sentence sonic intention description**  
   Briefly describe the emotional arc (beginning → middle → end) and the types of sounds you selected.
 
 - **List of sound samples used**  
