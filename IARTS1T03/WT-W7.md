@@ -19,7 +19,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Materials Required
 
 - Computer (laptop or desktop)
-- Reaper (free software)
+- Reaper (free software)  
   👉 Download: <a href="https://www.reaper.fm/download.php" target="_blank" rel="noopener noreferrer">https://www.reaper.fm/download.php</a>
 - Blender (free software)
 - Computer mouse (recommended)
