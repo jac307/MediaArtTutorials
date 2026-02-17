@@ -94,14 +94,25 @@ When finished:
 
 <h3 style="color: darkred;">[30 min] Blender: Sound Integration</h3>
 
-they must follow the tutorials to import sound. Then remove any previous camera animation (from week 6) and position the camera on a general wide shot from the perspective of the audience, following a clear framming strategy: either rule of thirds, or symmetric. or leading lines. 
+Follow the Blender tutorials below to **import your 30-second WAV file** into your W6 scene.
 
-they must save their render files as `Lastname-Firstname-W7.blend`
+Then:
+- **Remove any previous camera animation** from Week 6.
+- Position the camera in a **static wide shot** from the perspective of the audience.
+- Choose and apply a clear framing strategy:
+  - Rule of thirds,  
+  - Symmetrical composition, or  
+  - Leading lines  
+> The camera must remain static for this submission. Focus on how sound reshapes attention within a fixed frame.  
 
-Videos must be **renders**, not viewport screen recordings
+Save your updated Blender file as: `Lastname-Firstname-W7.blend`    
 
-➡️ **Export as MP4, codec H.264**  
+➡️ **Export Video as MP4, codec H.264**    
 📄 **Filename:** `Lastname-Firstname-W7.mp4`  
+
+> ⚠️ Videos must be **final renders**, not viewport screen recordings.  
+
+---
 
 #### How to Export Video in Blender: MP4 Video Format
 
@@ -113,10 +124,17 @@ Videos must be **renders**, not viewport screen recordings
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single PDF:
-  
-- **3–4 sentence sonic intention description**
-- **List of sound samples used**
+Create a single PDF that includes:
+
+- **3–4 sentence sonic intention description**  
+  Briefly describe the emotional arc (beginning → middle → end) and the types of sounds you selected.
+
+- **List of sound samples used**  
+  Include for each sample:
+  - Title  
+  - Creator  
+  - Source link  
+  - License information  
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W7.pdf`
@@ -138,5 +156,21 @@ Videos must be **renders**, not viewport screen recordings
 
 Your work will be assessed based on:
 
+## Assessment
+
+Your work will be assessed based on:
+
+- **Clarity of Sonic Intentions**  
+  The emotional arc is clearly defined and reflected in the composition (beginning → shift → ending).
+
+- **Sound Composition Structure**  
+  The 30-second composition demonstrates intentional layering, at least three sound sources, effective fades, and clean audio levels (no clipping).
+
+- **Integration in Blender & Final Render**  
+  Sound is correctly imported and synchronized within the Blender file.  
+  The static wide shot demonstrates a deliberate framing strategy (rule of thirds, symmetry, or leading lines) both in the `.blend` file and in the final rendered video.
+
+- **Technical Completion & File Organization**  
+  Correct file naming conventions are followed (`.wav`, `.rpp`, `.blend`, `.mp4`, `.pdf`). Final submission is a proper render (not a viewport recording).
 
 ---
