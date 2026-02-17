@@ -65,8 +65,6 @@ Tutorial time may be used to begin or complete this activity depending on your t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=PSvPcJ_74rNpn7dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-❗ Review this week’s slides for practical tips on **animating lights, camera, and render video files in Blender**.  
-
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
