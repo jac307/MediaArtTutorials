@@ -159,5 +159,19 @@ Create a single PDF that includes:
 
 Your work will be assessed based on:
 
+- **Clarity of Cinematic Intentions (PDF)**  
+  The written description clearly explains how the omniscient camera progression responds to spatial sound and lighting cues across the 30-second structure.
+
+- **Integration of Light, Sound, and Camera (Video)**  
+  Lighting cues (5–7 maximum), stereo sound shifts, and camera movement are intentionally synchronized. The camera movement is motivated by sonic and lighting transitions rather than arbitrary motion.
+
+- **Camera Progression & Spatial Awareness (Video)**  
+  The camera demonstrates a clear and coherent progression through the space, with purposeful changes in distance, framing, height, or direction that transform perception.
+
+- **Cue Documentation Accuracy (PDF)**  
+  The updated cue list clearly documents lighting, sonic, and camera cues with accurate timing, descriptions, and representative images that correspond to the final rendered video.
+
+- **Technical Execution & Submission Compliance**  
+  The final video maintains a 30-second duration, follows export specifications (MP4, H.264), and matches the documented cue structure. Files follow the required naming protocol.
 
 ---
