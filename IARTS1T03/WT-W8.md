@@ -79,17 +79,18 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **List of sound samples used**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
+📄 **Filename:** `Lastname-Firstname-W8.pdf`
 
 ---
 
-| Component              | File Name                        |
-|------------------------|----------------------------------|
-| Project document (PDF) | `Lastname-Firstname-W7.pdf`      |
-| Blender file           | `Lastname-Firstname-W7.blend`    |
-| Reaper file            | `Lastname-Firstname-W7.rpp`      |
-| Sound file             | `Lastname-Firstname-W7.wav`      |
-| Video file             | `Lastname-Firstname-W7.mp4`      |
+| Component              | File Name                         |
+|------------------------|-----------------------------------|
+| Project document (PDF) | `Lastname-Firstname-W8.pdf`       |
+| Blender file           | `Lastname-Firstname-W8.blend`     |
+| Reaper file            | `Lastname-Firstname-W8.rpp`       |
+| Sound file (left)      | `Lastname-Firstname-W8-Left.wav`  |
+| Sound file (right)     | `Lastname-Firstname-W8-Right.wav` |
+| Video file             | `Lastname-Firstname-W8.mp4`       |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
