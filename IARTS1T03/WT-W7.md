@@ -43,7 +43,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[30 min] Blender: Sound Integration + Render Video</h3>
+<h3 style="color: darkred;">[30 min] Blender: Sound Integration</h3>
 
 ---
 
@@ -75,7 +75,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **List of sound samples used**
 
 ➡️ **Export as PDF**  
-📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
+📄 **Filename:** `Lastname-Firstname-W7.pdf`
 
 ---
 
