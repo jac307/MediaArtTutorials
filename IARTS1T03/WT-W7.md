@@ -4,13 +4,15 @@
 
 # <span style="color: darkred;">W7 - Sound as Temporal Structure</span>
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/22.png" style="width: 100%; height: auto;">
-</figure>
-
 ## Objective
 
-Description
+You will **build on your W6 scene** by **creating a 30-second sound composition** and **integrating it into your Blender project**.  
+
+This activity focuses on how **layered sound, rhythm, silence, and dynamic shifts** reshape attention and emotional trajectory within a fixed visual frame, without changing the stage layout or lighting design.  
+
+<div style="color: gray; font-style: italic; margin-bottom: 1em;">
+Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
+</div>
 
 ---
 
