@@ -98,7 +98,7 @@ In addition, you must:
 
 When finished:
 
-1. **Export two WAV files**, one from each speaker (Left and Right)
+1. **Export two WAV files**, one from each speaker (Left and Right)  
    📄 **Filenames:**
    - `Lastname-Firstname-W8-Left.wav`
    - `Lastname-Firstname-W8-Right.wav` 
