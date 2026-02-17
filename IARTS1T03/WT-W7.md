@@ -18,11 +18,11 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ## Materials Required
 
-- Computer (laptop or desktop)
+- Computer (laptop or desktop) + Computer mouse (recommended)
+- Free acount on <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound</a>  
 - Reaper (free software)  
   👉 Download: <a href="https://www.reaper.fm/download.php" target="_blank" rel="noopener noreferrer">https://www.reaper.fm/download.php</a>
 - Blender (free software)
-- Computer mouse (recommended)
 - Your **Week 6 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
