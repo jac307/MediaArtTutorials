@@ -35,19 +35,23 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[10 min] Spatial Floor Map: add Position of Speakers</h3>
+<h3 style="color: darkred;">[15 min] Revise Spatial Floor Map & Lighting Cues</h3>
 
 ---
 
-<h3 style="color: darkred;">[20 min] Gather & Curate Sound Samples</h3>
+<h3 style="color: darkred;">[30 min] Refine Sound & Lighting Based on Perspective</h3>
 
 ---
 
-<h3 style="color: darkred;">[60-80m] Compose in REAPER (Stereo Spatialization Focus)</h3>
+<h3 style="color: darkred;">[60m] Blender — Camera animatiion </h3>
 
 ---
 
-<h3 style="color: darkred;">[30 min] Blender: Spatial Sound Integration</h3>
+<h3 style="color: darkred;">[30 min] Blender: Video & Image Renders</h3>
+
+---
+
+<h3 style="color: darkred;">[30 min] Refine Lighting Cues + Sonic Cues </h3>
 
 ---
 
@@ -85,12 +89,8 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 | Component              | File Name                         |
 |------------------------|-----------------------------------|
-| Project document (PDF) | `Lastname-Firstname-W8.pdf`       |
-| Blender file           | `Lastname-Firstname-W8.blend`     |
-| Reaper file            | `Lastname-Firstname-W8.rpp`       |
-| Sound file (left)      | `Lastname-Firstname-W8-Left.wav`  |
-| Sound file (right)     | `Lastname-Firstname-W8-Right.wav` |
-| Video file             | `Lastname-Firstname-W8.mp4`       |
+| Project document (PDF) | `Lastname-Firstname-W9.pdf`       |
+| Video file             | `Lastname-Firstname-W9.mp4`       |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
