@@ -81,10 +81,10 @@ Focus on structure and timing rather than complexity. Keep your composition clea
 When finished:
 
 1. **Export your final composition as a WAV file**  
-   Naming protocol: `Lastname-Firstname-W7.wav`  
+   📄 **Filename:** `Lastname-Firstname-W7.wav`  
 
 2. **Save your REAPER project file**  
-   Naming protocol: `Lastname-Firstname-W7.rpp`  
+   📄 **Filename:** `Lastname-Firstname-W7.rpp`  
 
 ---
 
