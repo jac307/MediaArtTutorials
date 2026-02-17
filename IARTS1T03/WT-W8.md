@@ -181,19 +181,19 @@ Create a single PDF that includes:
 
 Your work will be assessed based on:
 
-- **Clarity of Spatial Sonic Intentions**  
-  Your written description clearly explains how stereo positioning, sound movement, and volume differences shape listener experience and extend your Week 6 lighting approach.
+- **Clarity of Spatial Sonic Intentions (PDF)**  
+  The written description clearly explains how stereo positioning, speaker dominance, and depth shape listener experience and extend your Week 6 lighting approach.
 
-- **Stereo Spatialization & Sound Design**  
-  The 30-second composition demonstrates intentional use of panning, depth through volume control, at least three layered sound sources, effective fades, and clean audio levels without distortion.
+- **Stereo Spatialization & Sound Design (WAV + RPP)**  
+  The 30-second composition demonstrates intentional use of panning (Left ↔ Right), controlled volume to create depth, at least three layered sound sources, effective fades, and clean audio levels without distortion.
 
-- **Spatial Floor Map & Listener Position**  
-  The updated floor map clearly identifies stage, speakers, and both camera positions, and these spatial decisions are logically reflected in the sound design.
+- **Spatial Floor Map & Camera Positions (PDF)**  
+  The updated floor map clearly identifies stage, speaker positions, and both camera viewpoints, and these spatial decisions are reflected in the sound design and rendered video.
 
-- **Integration in Blender & Dual Renders**  
-  Sound files are correctly placed according to speaker positions, and the two static renders clearly demonstrate perceptual differences based on camera proximity. Framing remains intentional and consistent.
+- **Perceptual Difference in Video Render (MP4)**  
+  The final render clearly demonstrates how listener proximity affects sonic dominance and spatial perception, while maintaining a static, intentionally framed composition.
 
-- **Technical Completion & File Organization**  
-  All required files follow correct naming conventions and are properly rendered (not viewport recordings).  
+- **Technical Execution & File Organization**  
+  All required files (`.pdf`, `.rpp`, `.wav`, `.mp4`) follow correct naming conventions, maintain a 30-second duration, and are properly exported (not viewport recordings).
 
 ---
