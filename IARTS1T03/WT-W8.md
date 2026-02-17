@@ -123,7 +123,7 @@ Then:
 Save your updated Blender file as:  
 `Lastname-Firstname-W8.blend`
 
-➡️ **Export two videos as MP4, codec H.264**
+➡️ **Export two videos as MP4, codec H.264**  
 📄 **Filenames:**
   - `Lastname-Firstname-W8-SpeakerA.mp4`
   - `Lastname-Firstname-W8-SpeakerB.mp4`
