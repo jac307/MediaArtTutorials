@@ -35,11 +35,11 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
+<h3 style="color: darkred;">[20 min] Gather & Curate Sound Samples</h3>
+
+---
+
 <h3 style="color: darkred;">[60-120m] Compose in REAPER (Basic Sound Composition Focus)</h3>
-
----  
-
-<h3 style="color: darkred;">[10 min] Cue Instructions (Written for a Technician)</h3>
 
 ---
 
