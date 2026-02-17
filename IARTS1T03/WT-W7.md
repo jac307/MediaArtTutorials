@@ -20,6 +20,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 - Computer (laptop or desktop)
 - Reaper (free software)
+  👉 Download: <a href="https://www.reaper.fm/download.php" target="_blank" rel="noopener noreferrer">https://www.reaper.fm/download.php</a>
 - Blender (free software)
 - Computer mouse (recommended)
 - Your **Week 6 Blender file (.blend)**
@@ -34,24 +35,60 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 <h3 style="color: darkred;">[10 min] Sonic Intentions — Start Here</h3>  
 
-Add something that help students write the sonic intentions in terms of feelings but also type of sounds, offer three questions that help them write this.
+Define the emotional and sonic direction of your 30-second composition.  
 
-It should be 3-4 lines and they must focused on feelings and types of sounds to include: instruments, environments, abstract, etc... somethinng that will help them define which sounds they can gather in the next stage. They shoudl briefly identify the begiining, middle and end feeling. 
+Write **4–5 lines** that answer the following:  
+
+1. **What is the emotional arc?**  
+   What feeling defines the beginning, what shifts in the middle, and how does it end?
+
+2. **What types of sounds will you use?**  
+   Will they be environmental (wind, room tone, footsteps), instrumental (strings, percussion, drone), mechanical, vocal textures, or abstract digital tones?
+
+3. **How should sound behave over time?**  
+   Will it build gradually, interrupt suddenly, remain minimal, pulse rhythmically, or dissolve into silence?
+
+Keep your answers specific. These notes will guide the sounds you gather in the next stage.
 
 ---
 
 <h3 style="color: darkred;">[20 min] Gather & Curate Sound Samples</h3>
 
-They must use free sound only, look for instrumental, environment, abstract sounds to build their 30-second composition, they should gather 10-15 sounds although they may not use all of them.  They must save the credits of each of the sounds they download. 
-no lyrics. 
+Using only **royalty-free / free-use sound sources** from <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound</a>, gather **10–15 sound samples** that align with your sonic intentions. You may not use all of them, but you should curate a small palette to work from.  
+
+Look for a mix of:
+- Instrumental textures (drone, strings, percussion, tonal layers)  
+- Environmental sounds (room tone, wind, mechanical hum, footsteps, ambience)  
+- Abstract or digital sounds (glitch, filtered noise, processed tones)  
+
+⚠️ **No lyrics.** Vocal textures are allowed, but no spoken word or songs with lyrics.
+
+Save all files in an organized folder and **record the credit information for each sound** (title, creator, source link, license). You will need this for proper attribution.  
 
 ---
 
 <h3 style="color: darkred;">[60-120m] Compose in REAPER (Basic Sound Composition Focus)</h3> 
 
-They must follow the tutorials and build a 30 second simple sound composition. Make sure they face a fade in and out at the end and combine at least 3 sound samples. the must follow the tutorial to export it as a wav with the naming protocol: `Lastname-Firstname-W7.wav`
+👉 Download: <a href="https://www.reaper.fm/download.php" target="_blank" rel="noopener noreferrer">REAPER</a>
 
-They must save their reaper files as `Lastname-Firstname-W7.rpp`.
+Follow the REAPER tutorials below and build a **30-second sound composition**.  
+
+Your composition must:  
+- Be exactly **30 seconds long**
+- Combine **at least 3 different sound samples**
+- Include a clear **beginning, middle, and end**
+- Use a **fade-in at the start** and a **fade-out at the end**
+- Maintain clean levels (no clipping)
+
+Focus on structure and timing rather than complexity. Keep your composition clear and intentional.  
+
+When finished:
+
+1. **Export your final composition as a WAV file**  
+   Naming protocol: `Lastname-Firstname-W7.wav`  
+
+2. **Save your REAPER project file**  
+   Naming protocol: `Lastname-Firstname-W7.rpp`  
 
 ---
 
