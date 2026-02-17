@@ -19,6 +19,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Materials Required
 
 - Computer (laptop or desktop)
+- Reaper (free software)
 - Blender (free software)
 - Computer mouse (recommended)
 - Your **Week 6 Blender file (.blend)**
@@ -31,33 +32,39 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[10 min] Sonic Intentions — Start Here</h3>
+<h3 style="color: darkred;">[10 min] Sonic Intentions — Start Here</h3>  
+
+Add something that help students write the sonic intentions in terms of feelings but also type of sounds, offer three questions that help them write this.
+
+It should be 3-4 lines and they must focused on feelings and types of sounds to include: instruments, environments, abstract, etc... somethinng that will help them define which sounds they can gather in the next stage. They shoudl briefly identify the begiining, middle and end feeling. 
 
 ---
 
 <h3 style="color: darkred;">[20 min] Gather & Curate Sound Samples</h3>
 
+They must use free sound only, look for instrumental, environment, abstract sounds to build their 30-second composition, they should gather 10-15 sounds although they may not use all of them.  They must save the credits of each of the sounds they download. 
+no lyrics. 
+
 ---
 
-<h3 style="color: darkred;">[60-120m] Compose in REAPER (Basic Sound Composition Focus)</h3>
+<h3 style="color: darkred;">[60-120m] Compose in REAPER (Basic Sound Composition Focus)</h3> 
+
+They must follow the tutorials and build a 30 second simple sound composition. Make sure they face a fade in and out at the end and combine at least 3 sound samples. the must follow the tutorial to export it as a wav with the naming protocol: `Lastname-Firstname-W7.wav`
+
+They must save their reaper files as `Lastname-Firstname-W7.rpp`.
 
 ---
 
 <h3 style="color: darkred;">[30 min] Blender: Sound Integration</h3>
 
----
+they must follow the tutorials to import sound. Then remove any previous camera animation (from week 6) and position the camera on a general wide shot from the perspective of the audience, following a clear framming strategy: either rule of thirds, or symmetric. or leading lines. 
 
-### Video Rendering Requirements
+they must save their render files as `Lastname-Firstname-W7.blend`
 
-- Render **one short video per lighting version**
-- Each video must:
-  - show the **full lighting cue sequence**
-  - include the **camera movement**
-  - remain within the **25-second / 300-frame limit**
-- Videos must be **renders**, not viewport screen recordings
+Videos must be **renders**, not viewport screen recordings
 
 ➡️ **Export as MP4, codec H.264**  
-📄 **Filename:** `Lastname-Firstname-W6-Lighting.mp4`  
+📄 **Filename:** `Lastname-Firstname-W7.mp4`  
 
 #### How to Export Video in Blender: MP4 Video Format
 
@@ -82,7 +89,6 @@ Tutorial time may be used to begin or complete this activity depending on your t
 | Component              | File Name                        |
 |------------------------|----------------------------------|
 | Project document (PDF) | `Lastname-Firstname-W7.pdf`      |
-| Blender file           | `Lastname-Firstname-W7.blend`    |
 | Reaper file            | `Lastname-Firstname-W7.rpp`      |
 | Sound file             | `Lastname-Firstname-W7.wav`      |
 | Video file             | `Lastname-Firstname-W7.mp4`      |
