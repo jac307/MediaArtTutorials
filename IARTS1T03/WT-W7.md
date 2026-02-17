@@ -158,7 +158,7 @@ Your work will be assessed based on:
 Your work will be assessed based on:
 
 - **Clarity of Sonic Intentions**  
-  The emotional arc is clearly defined and reflected in the composition (beginning → shift → ending).
+  The emotional arc is clearly defined and reflected in the composition (beginning → shift → ending), and it meaningfully extends your **Week 6 Lighting as Temporal Transformation** approach.  
 
 - **Sound Composition Structure**  
   The 30-second composition demonstrates intentional layering, at least three sound sources, effective fades, and clean audio levels (no clipping).
