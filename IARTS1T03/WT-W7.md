@@ -19,10 +19,9 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Materials Required
 
 - Computer (laptop or desktop)
-- **Blender (free software)**  
-  👉 Download: <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer">https://www.blender.org/download/</a>
+- Blender (free software)
 - Computer mouse (recommended)
-- Your **Week 5 Blender file (.blend)**
+- Your **Week 6 Blender file (.blend)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -32,12 +31,11 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[15 min] Lighting Intentions — Start Here</h3>
-
+<h3 style="color: darkred;">[10 min] Sonic Intentions — Start Here</h3>
 
 ---
 
-<h3 style="color: darkred;">[20 min] 2D Lighting Map</h3>
+<h3 style="color: darkred;">[60-120m] Compose in REAPER (Basic Sound Composition Focus)</h3>
 
 ---  
 
@@ -45,11 +43,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[40 min] Lighting in Blender</h3>
-
----
-
-<h3 style="color: darkred;">[20 min] Animate the Camera + Render Video and Image in Blender</h3>  
+<h3 style="color: darkred;">[30 min] Blender: Sound Integration + Render Video</h3>
 
 ---
 
@@ -79,24 +73,21 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ### Create a single PDF:
   
-- **3–4 sentence lighting intention description**
-- **2D Lighting Map**
-  - Top view, side view, and front view  
-  - Colour-coded lights with range indicated
-- **Cue list**
-  - 3–5 cues, written in order as **clear, technician-style instructions**, using class vocabulary  
-  - **One rendered image per cue**, showing the exact frame where the cue occurs  
+- **3–4 sentence sonic intention description**
+- **List of sound samples used**
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W6-Tutorial.pdf`
 
 ---
 
-| Component              | File Name                                 |
-|------------------------|-------------------------------------------|
-| Project document (PDF) | `Lastname-Firstname-W6-Tutorial.pdf`      |
-| Blender file           | `Lastname-Firstname-W6-Lighting.blend`    |
-| Video file             | `Lastname-Firstname-W6-Lighting.mp4`      |
+| Component              | File Name                        |
+|------------------------|----------------------------------|
+| Project document (PDF) | `Lastname-Firstname-W7.pdf`      |
+| Blender file           | `Lastname-Firstname-W7.blend`    |
+| Reaper file            | `Lastname-Firstname-W7.rpp`      |
+| Sound file             | `Lastname-Firstname-W7.wav`      |
+| Video file             | `Lastname-Firstname-W7.mp4`      |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
