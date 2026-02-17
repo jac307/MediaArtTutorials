@@ -35,20 +35,16 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 <h3 style="color: darkred;">[10 min] Sonic Intentions — Start Here</h3>  
 
-Define the emotional and sonic direction of your 30-second composition.  
+Define the emotional and sonic direction of your 30-second composition in direct relation to your **Week 6 lighting approach**. Write **4–5 lines** that answer the following:  
 
-Write **4–5 lines** that answer the following:  
+1. **How does your sound build on your Week 6 lighting transformation?**  
+   Does it reinforce the lighting shifts, contrast them, intensify them, or slow them down?
 
-1. **What is the emotional arc?**  
+2. **What is the emotional arc?**  
    What feeling defines the beginning, what shifts in the middle, and how does it end?
 
-2. **What types of sounds will you use?**  
-   Will they be environmental (wind, room tone, footsteps), instrumental (strings, percussion, drone), mechanical, vocal textures, or abstract digital tones?
-
-3. **How should sound behave over time?**  
-   Will it build gradually, interrupt suddenly, remain minimal, pulse rhythmically, or dissolve into silence?
-
-Keep your answers specific. These notes will guide the sounds you gather in the next stage.
+3. **What types of sounds will you use?**  
+   Will they be environmental (wind, room tone, footsteps), instrumental (strings, percussion, drone), mechanical, vocal textures, or abstract digital tones?  
 
 ---
 
@@ -94,9 +90,10 @@ When finished:
 
 <h3 style="color: darkred;">[30 min] Blender: Sound Integration</h3>
 
-Follow the Blender tutorials below to **import your 30-second WAV file** into your W6 scene.
+Follow the Blender tutorials below to **import your 30-second WAV file** into your **duplicated W6 scene**.  
 
 Then:
+- Keep your **Week 6 lighting animation unchanged**.  
 - **Remove any previous camera animation** from Week 6.
 - Position the camera in a **static wide shot** from the perspective of the audience.
 - Choose and apply a clear framing strategy:
