@@ -53,13 +53,15 @@ Write **4–5 sentences** that respond to the following:
 
 ---
 
-<h3 style="color: darkred;">[10 min] Spatial Floor Map: add Position of Speakers</h3>
+<h3 style="color: darkred;">[10 min] Spatial Floor Map: add Position of Speakers and Cameras</h3>
 
-Return to your **Week 6 floor plan** and update it to include the **position of two speakers** within the blackbox space.
+Return to your **Week 6 floor plan** and update it to include the **position of two speakers** and the **two camera positions** you will use for your renders.
 
 Using the spatial vocabulary defined in class (Stage Left, Stage Right, Upstage, Downstage, audience position, centre, perimeter), clearly mark:
 - Speaker A location  
 - Speaker B location  
+- Camera Position 1 (audience perspective, closer to Speaker A)  
+- Camera Position 2 (audience perspective, closer to Speaker B)  
 
 ---
 
@@ -132,20 +134,6 @@ Save your updated Blender file as:
 
 ---
 
-### Video Rendering Requirements
-
-- Keep your **Week 6 lighting design and cue structure**, but **adjust the timing of the lighting animation** to align with your sound composition and final timing: 30 seconds.  
-- Each video must:
-  - show the **full lighting cue sequence**
-  - include the **camera movement**
-  - remain within the **25-second / 300-frame limit**
-- Videos must be **renders**, not viewport screen recordings
-
-➡️ **Export as MP4, codec H.264**  
-📄 **Filename:** `Lastname-Firstname-W6-Lighting.mp4`  
-
-#### How to Export Video in Blender: MP4 Video Format
-
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=PSvPcJ_74rNpn7dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
@@ -154,10 +142,23 @@ Save your updated Blender file as:
 
 <h3 style="color: darkred;">Submission Documents</h3>
 
-### Create a single PDF:
-  
-- **3–4 sentence sonic intention description**
-- **List of sound samples used**
+Create a single PDF that includes:
+
+- **4–5 sentence sonic intention description**  
+  Briefly describe how your sound composition responds to your Week 6 lighting and how stereo positioning (left/right, dominance, depth) shapes listener experience.
+
+- **List of sound samples used**  
+  Include for each sample:
+  - Title  
+  - Creator  
+  - Source link  
+  - License information  
+
+- **Updated Spatial Floor Map (½ page)**  
+  Clearly indicate:
+  - Speaker A position  
+  - Speaker B position  
+  - Camera position for both renders  
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W8.pdf`
@@ -167,8 +168,7 @@ Save your updated Blender file as:
 | Component              | File Name                         |
 |------------------------|-----------------------------------|
 | Project document (PDF) | `Lastname-Firstname-W8.pdf`       |
-| Blender file           | `Lastname-Firstname-W8.blend`     |
-| Reaper file            | `Lastname-Firstname-W8.rpp`       |
+| **Reaper** file        | `Lastname-Firstname-W8.rpp`       |
 | Sound file (left)      | `Lastname-Firstname-W8-Left.wav`  |
 | Sound file (right)     | `Lastname-Firstname-W8-Right.wav` |
 | Video file             | `Lastname-Firstname-W8.mp4`       |
@@ -181,5 +181,19 @@ Save your updated Blender file as:
 
 Your work will be assessed based on:
 
+- **Clarity of Spatial Sonic Intentions**  
+  Your written description clearly explains how stereo positioning, sound movement, and volume differences shape listener experience and extend your Week 6 lighting approach.
+
+- **Stereo Spatialization & Sound Design**  
+  The 30-second composition demonstrates intentional use of panning, depth through volume control, at least three layered sound sources, effective fades, and clean audio levels without distortion.
+
+- **Spatial Floor Map & Listener Position**  
+  The updated floor map clearly identifies stage, speakers, and both camera positions, and these spatial decisions are logically reflected in the sound design.
+
+- **Integration in Blender & Dual Renders**  
+  Sound files are correctly placed according to speaker positions, and the two static renders clearly demonstrate perceptual differences based on camera proximity. Framing remains intentional and consistent.
+
+- **Technical Completion & File Organization**  
+  All required files follow correct naming conventions and are properly rendered (not viewport recordings).  
 
 ---
