@@ -141,7 +141,7 @@ Create a single PDF that includes:
 | Component              | File Name                        |
 |------------------------|----------------------------------|
 | Project document (PDF) | `Lastname-Firstname-W7.pdf`      |
-| Reaper file            | `Lastname-Firstname-W7.rpp`      |
+| **Reaper** file        | `Lastname-Firstname-W7.rpp`      |
 | Sound file             | `Lastname-Firstname-W7.wav`      |
 | Video file             | `Lastname-Firstname-W7.mp4`      |
 
