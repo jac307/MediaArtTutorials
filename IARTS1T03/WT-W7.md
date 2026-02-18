@@ -69,15 +69,16 @@ Save all files in an organized folder and **record the credit information for ea
 
 Follow the REAPER tutorials below and build a **30-second sound composition**.  
 
-Your composition must:  
 - Be exactly **30 seconds long**
 - Combine **at least 3 different sound samples**
-- Use only one or two tracks wth a simple combination that has a clear **beginning, middle, and end**
-- Use a **fade-in at the start** and a **fade-out at the end**
-- Removing Clicks & Pops that the downloaded samples may have
-  > Clicks and pops are unwanted, sharp, transient audio artifacts, often sounding like sharp clicks or low-frequency thumps.
-- Maintain clean levels (no clipping)
-  > Clipping = a form of distortion that occurs when an amplifier or digital system is pushed beyond its maximum capacity.
+- Use only **one or two tracks** with a simple, intentional structure that includes a clear **beginning, middle, and end**
+- Adjust the **volume of individual sound samples** to maintain balance and consistency
+- Use **crossfades** between sound samples to ensure smooth transitions
+- Add a **fade-in at the start** and a **fade-out at the end**
+- Remove any **clicks or pops** that downloaded samples may contain  
+  > Clicks and pops are unwanted, sharp, transient audio artifacts that may sound like digital clicks or low-frequency thumps.
+- Maintain **clean audio levels** (no clipping)  
+  > Clipping is distortion that occurs when audio exceeds the system’s maximum level.
 
 When finished:
 1. **Export your final composition as a WAV file**  
