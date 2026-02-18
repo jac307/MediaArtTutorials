@@ -119,23 +119,22 @@ When finished:
 Follow the Blender tutorials below to **import your 30-second WAV file** into your **duplicated W6 scene**.  
 
 Then:
+- Adjust your timeline to **720 frames (30 seconds at 24 fps)**.
 - Keep your **Week 6 lighting design and cue structure**, but **adjust the timing of the lighting animation** to align with your 30-second sound composition and final duration (30 seconds total).  
 - **Remove any previous camera animation** from Week 6.
 - Position the camera in a **wide frontal shot** and animate a simple, continuous forward movement or zoom (in or out) that lasts the full **30 seconds**.  
-- Choose and apply a clear framing strategy:
-  - Rule of thirds,  
-  - Symmetrical composition, or  
-  - Leading lines  
-> The camera must remain static for this submission. Focus on how sound reshapes attention within a fixed frame.  
 
 Save your updated Blender file as: `Lastname-Firstname-W7.blend`    
 
 ➡️ **Export Video as MP4, codec H.264**    
 📄 **Filename:** `Lastname-Firstname-W7.mp4`  
 
-> ⚠️ Videos must be **final renders**, not viewport screen recordings.  
+> ⚠️ Videos must be **final renders**, not viewport screen recordings.
+> The render will take longer since you are no
 
 ---
+
+#### Adjust your timeline / Increate frames to export
 
 #### How to Export Video in Blender: MP4 Video Format
 
