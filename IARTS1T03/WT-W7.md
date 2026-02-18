@@ -61,6 +61,8 @@ Look for a mix of:
 
 Save all files in an organized folder and **record the credit information for each sound** (title, creator, source link, license). You will need this for proper attribution.  
 
+<img src="imgs/47.jpg" style="width: 80%; height: auto;">     
+
 ---
 
 <h3 style="color: darkred;">[60-120m] Compose in REAPER (Basic Sound Composition Focus)</h3> 
