@@ -121,7 +121,7 @@ Follow the Blender tutorials below to **import your 30-second WAV file** into yo
 Then:
 - Keep your **Week 6 lighting design and cue structure**, but **adjust the timing of the lighting animation** to align with your 30-second sound composition and final duration (30 seconds total).  
 - **Remove any previous camera animation** from Week 6.
-- Position the camera in a **static wide shot** from the perspective of the audience.
+- Position the camera in a **wide frontal shot** and animate a simple, continuous forward movement or zoom (in or out) that lasts the full **30 seconds**.  
 - Choose and apply a clear framing strategy:
   - Rule of thirds,  
   - Symmetrical composition, or  
