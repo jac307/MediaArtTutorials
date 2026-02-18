@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W7 - Sound as Temporal Structure</span>  
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/48.png" style="width: 100%; height: auto;">
+  <img src="imgs/48.jpg" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
