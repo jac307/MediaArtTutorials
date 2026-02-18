@@ -132,20 +132,16 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 
 ---
 
-#### Adjust your timeline / Increate frames to export
-
-<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
-
-#### How to Export Video in Blender: MP4 Video Format
+How to Add Sound to your Blender Projects
 
 <div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x0a4Mmybju8?si=zMxyT06FB_v0m_4N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0a4Mmybju8?si=Ra5wVrWYWkzkpGAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-#### How to Export Video in Blender: MP4 Video Format
+#### Blender: Add Audio and Export File with Audio
 
 <div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=PSvPcJ_74rNpn7dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAsO5srSpQ4?si=kYKeKXRbe9HZjwy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
 ---
