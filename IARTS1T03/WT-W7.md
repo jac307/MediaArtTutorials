@@ -86,7 +86,11 @@ When finished:
 2. **Save your REAPER project file**  
    📄 **Filename:** `Lastname-Firstname-W7.rpp`
 
----
+--- 
+
+### Tutorials
+
+❗ Review this week’s slides for practical tips on **a general overview of Blender, importing samples, adjusting volume and rendering**.    
 
 #### This is REAPER 7 - Basic Audio Editing
 
@@ -132,17 +136,19 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 
 ---
 
-How to Add Sound to your Blender Projects
+### Tutorials
+
+❗ Review this week’s slides for practical tips on **adjusting timeline to be 30s, importing sound, adjusting lighting cues, and export video with audio in Blender**.    
+
+#### How to Add Sound to your Blender Projects
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x0a4Mmybju8?si=Ra5wVrWYWkzkpGAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-#### Blender: Add Audio and Export File with Audio
+#### Blender: Export File with Audio
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAsO5srSpQ4?si=kYKeKXRbe9HZjwy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>    
+<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
 
 ---
 
