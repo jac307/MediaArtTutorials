@@ -4,19 +4,9 @@
 
 # <span style="color: darkred;">W7 - Sound as Temporal Structure</span>  
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-
-  <figure style="width: 60%; margin: 0;">
-    <video controls style="width: 100%; height: auto;">
-      <source src="imgs/48.mp4" type="video/mp4">
-    </video>
-  </figure>
-
-  <figure style="width: 40%; margin: 0;">
-    <img src="imgs/49.jpg" style="width: 100%; height: auto;">
-  </figure>
-
-</div>
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/48.png" style="width: 100%; height: auto;">
+</figure>
 
 ## Objective
 
@@ -165,6 +155,16 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 #### Blender: Export File with Audio
 
 <img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
+
+---
+
+### Example of a Video Submission
+
+<figure style="width: 60%; margin: 0;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/49.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ---
 
