@@ -72,19 +72,44 @@ Follow the REAPER tutorials below and build a **30-second sound composition**.
 Your composition must:  
 - Be exactly **30 seconds long**
 - Combine **at least 3 different sound samples**
-- Include a clear **beginning, middle, and end**
+- Use only one or two tracks wth a simple combination that has a clear **beginning, middle, and end**
 - Use a **fade-in at the start** and a **fade-out at the end**
+- Removing Clicks & Pops that the downloaded samples may have
+  > Clicks and pops are unwanted, sharp, transient audio artifacts, often sounding like sharp clicks or low-frequency thumps.
 - Maintain clean levels (no clipping)
-
-Focus on structure and timing rather than complexity. Keep your composition clear and intentional.  
+  > Clipping = a form of distortion that occurs when an amplifier or digital system is pushed beyond its maximum capacity.
 
 When finished:
-
 1. **Export your final composition as a WAV file**  
    📄 **Filename:** `Lastname-Firstname-W7.wav`  
-
 2. **Save your REAPER project file**  
-   📄 **Filename:** `Lastname-Firstname-W7.rpp`  
+   📄 **Filename:** `Lastname-Firstname-W7.rpp`
+
+---
+
+#### This is REAPER 7 - Basic Audio Editing
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGL54WGa85A?si=U5cARs2il5x41k5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+#### Change volume for a part of a track in REAPER
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKkacbUkZ-8?si=XxsyVwXqJn47ihQC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+</div>   
+
+#### Removing Clicks & Pops in REAPER
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AW5G-60jH34?si=IF8-HbhJ4EolktVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
+
+#### Export in Reaper and avoid clipping
+
+<div style= "width:80%; height:auto">
+
+</div>   
 
 ---
 
