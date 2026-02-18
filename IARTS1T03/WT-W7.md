@@ -106,11 +106,9 @@ When finished:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AW5G-60jH34?si=IF8-HbhJ4EolktVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
 
-#### Export in Reaper and avoid clipping
+#### Export in Reaper and avoid master clipping
 
-<div style= "width:80%; height:auto">
-
-</div>   
+<img src="imgs/45.jpeg" style="width: 80%; height: auto;">     
 
 ---
 
