@@ -216,3 +216,88 @@ Your work will be assessed based on:
   All required files (`.pdf`, `.rpp`, `.wav`, `.mp4`) follow correct naming conventions, maintain a 30-second duration, and are properly exported (not viewport recordings).
 
 ---
+
+## Core Vocabulary
+
+For full reference, review the slides from this week.    
+
+### General / Sound
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Music</h4>
+    <p><em>(melody, harmony, rhythm)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/music.wav" type="audio/mpeg">
+    </audio>
+
+    <h4>Atmosphere / Ambience</h4>
+    <p><em>(room tone, environmental texture)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/atmosphere.wav" type="audio/mpeg">
+    </audio>
+
+    <h4>Sound Effects</h4>
+    <p><em>(events, actions, environments)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/sound-effects.wav" type="audio/mpeg">
+    </audio>
+
+    <h4>Voice</h4>
+    <p><em>(speech, breath, chant, whisper)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/voice.wav" type="audio/mpeg">
+    </audio>
+
+    <h4>Noise</h4>
+    <p><em>(texture, distortion, feedback, static)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/noise.wav" type="audio/mpeg">
+    </audio>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Western Classical</h4>
+    <p><em>harmony and structure</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/classical.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Early 20th century</h4>
+    <p><em>atonality (breaking tonal expectations)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/atonal.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Mid-20th century</h4>
+    <p><em>musique concrète (recorded sound as composition)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/concrete.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Electronic music</h4>
+    <p><em>frequency-based sound construction</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/electronic.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Contemporary music</h4>
+    <p><em>hybrid, noise, resistance</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/contemporary.mp3" type="audio/mpeg">
+    </audio>
+
+  </div>  
+
+</div>      
+
+
+
+
+
