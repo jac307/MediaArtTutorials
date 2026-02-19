@@ -231,14 +231,14 @@ For full reference, review the slides from this week.
     <h4>Music</h4>
     <p><em>(melody, harmony, rhythm)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/music.wav" type="audio/mpeg">
+      <source src="sounds/music.mp3" type="audio/mpeg">
     </audio>
     <p><em>Music box</em></p>
 
     <h4>Atmosphere / Ambience</h4>
     <p><em>(room tone, environmental texture)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/atmosphere.wav" type="audio/mpeg">
+      <source src="sounds/atmosphere.mp3" type="audio/mpeg">
     </audio>
     <p><em>Airport in Colombia</em></p>
 
@@ -252,14 +252,14 @@ For full reference, review the slides from this week.
     <h4>Voice</h4>
     <p><em>(speech, breath, chant, whisper)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/voice.wav" type="audio/mpeg">
+      <source src="sounds/voice.mp3" type="audio/mpeg">
     </audio>
     <p><em>Mongolian throat singing, or khoomei</em></p>
 
     <h4>Noise</h4>
     <p><em>(texture, distortion, feedback, static)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/noise.wav" type="audio/mpeg">
+      <source src="sounds/noise.mp3" type="audio/mpeg">
     </audio>
     <p><em>Rising / Falling Frequency</em></p>
 
