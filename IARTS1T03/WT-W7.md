@@ -229,39 +229,34 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Music</h4>
-    <p><em>(melody, harmony, rhythm)</em></p>
+    <p><em>(melody, harmony, rhythm) </br> e.g. Music box</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/music.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Music box</em></p>
 
     <h4>Atmosphere / Ambience</h4>
-    <p><em>(room tone, environmental texture)</em></p>
+    <p><em>(room tone, environmental texture) </br> e.g. Airport in Colombia</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/atmosphere.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Airport in Colombia</em></p>
 
     <h4>Sound Effects</h4>
-    <p><em>(events, actions, environments)</em></p>
+    <p><em>(events, actions, environments) </br> e.g. Door opening effect</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/sound-effects.wav" type="audio/mpeg">
     </audio>
-    <p><em>Door opening effect</em></p>
 
     <h4>Voice</h4>
-    <p><em>(speech, breath, chant, whisper)</em></p>
+    <p><em>(speech, breath, chant, whisper) </br> e.g. Mongolian throat singing, or khoomei</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/voice.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Mongolian throat singing, or khoomei</em></p>
 
     <h4>Noise</h4>
-    <p><em>(texture, distortion, feedback, static)</em></p>
+    <p><em>(texture, distortion, feedback, static) </br> e.g. Rising / Falling Frequency</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/noise.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Rising / Falling Frequency</em></p>
 
   </div>
 
@@ -269,39 +264,34 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Western Classical</h4>
-    <p><em>harmony and structure</em></p>
+    <p><em> harmony and structure </br> e.g. Beethoven - Für Elise</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/classical.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Beethoven - Für Elise</em></p>
 
     <h4>Early 20th century</h4>
-    <p><em>atonality (breaking tonal expectations)</em></p>
+    <p><em>atonality (breaking tonal expectations) </br> e.g. Arnold Schoenberg: Pierrot Lunaire</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/atonal.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Arnold Schoenberg: Pierrot Lunaire</em></p>
 
     <h4>Mid-20th century</h4>
-    <p><em>musique concrète (recorded sound as composition)</em></p>
+    <p><em>musique concrète (recorded sound as composition) </br> e.g. Pierre Schaeffer -- Études de bruits</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/concrete.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Pierre Schaeffer -- Études de bruits</em></p>
 
     <h4>Electronic music</h4>
-    <p><em>frequency-based sound construction</em></p>
+    <p><em>frequency-based sound construction </br> e.g. Stockhausen - Studie 1</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/electronic.mp3" type="audio/mpeg">
     </audio>
-    <p><em>Stockhausen - Studie 1</em></p>
 
     <h4>Contemporary music</h4>
-    <p><em>hybrid, noise, resistance</em></p>
+    <p><em>hybrid, noise, resistance </br> e.g. björk : atopos</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/contemporary.mp3" type="audio/mpeg">
     </audio>
-    <p><em>björk : atopos</em></p>
 
   </div>  
 
