@@ -205,35 +205,29 @@ Your work will be assessed based on:
   <!-- LEFT COLUMN -->
   <div style="width: 50%;">
 
-    <h4>Frequency (Hz)</h4>
-    <p><em>The measurable rate of vibration (High frequency vs Low frequency)</em></p>
+    <h4>Panning</h4>
+    <p><em>Placing sound within the stereo field (left, centre, right)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/frecuency.mp3" type="audio/mpeg">
+      <source src="sounds/panning.aiff" type="audio/mpeg">
     </audio>
 
-    <h4>Pitch</h4>
-    <p><em>Pitch is how we perceive frequency (High vs Low)</em></p>
+    <h4>Direction</h4>
+    <p><em>Perceived location of the sound</em></p>
+
+    <h4>Proximity</h4>
+    <p><em>How near or far a sound feels.</em></p>
+
+    <h4>Reverb (Dry / Wet)</h4>
+    <p><em>Reflected sound that creates a sense of room size and distance</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/pitch.mp3" type="audio/mpeg">
+      <source src="sounds/reverb.wav" type="audio/mpeg">
     </audio>
 
-    <h4>Tone</h4>
-    <p><em>A sound with a clear pitch (e.g., note, drone)</em></p>
-    <audio controls style="width: 100%;">
-      <source src="sounds/tone.mp3" type="audio/mpeg">
-    </audio>
+    <h4>Immersion</h4>
+    <p><em>Sound surrounds the listener</em></p>
 
-    <h4>Noise</h4>
-    <p><em>A sound without a clear pitch (e.g., wind, static, crowd murmur)</em></p>
-    <audio controls style="width: 100%;">
-      <source src="sounds/noise-0.mp3" type="audio/mpeg">
-    </audio>
-
-    <h4>Volume / Amplitude / Gain</h4>
-    <p><em>How loud or soft a sound is (measured in dB)</em></p>
-    <audio controls style="width: 100%;">
-      <source src="sounds/volume.mp3" type="audio/mpeg">
-    </audio>
+    <h4>Depth</h4>
+    <p><em>Perceived spatial layering of sound</em></p>
 
   </div>
 
@@ -246,22 +240,16 @@ Your work will be assessed based on:
       <source src="sounds/dynamics.mp3" type="audio/mpeg">
     </audio>
 
-    <h4>Fade-In / Fade-Out</h4>
-    <p><em>Gradual increase or decrease in volume</em></p>
+    <h4>Attack</h4>
+    <p><em>How quickly a sound begins (e.g., sharp, slow)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/fadeinout.mp3" type="audio/mpeg">
+      <source src="sounds/attack.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Sustain</h4>
     <p><em>How long a sound holds</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/sustain.mp3" type="audio/mpeg">
-    </audio>
-
-    <h4>Attack</h4>
-    <p><em>How quickly a sound begins (e.g., sharp, slow)</em></p>
-    <audio controls style="width: 100%;">
-      <source src="sounds/attack.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Texture</h4>
