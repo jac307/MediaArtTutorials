@@ -221,7 +221,7 @@ Your work will be assessed based on:
 
 For full reference, review the slides from this week.    
 
-### General / Sound
+### General
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
@@ -264,31 +264,31 @@ For full reference, review the slides from this week.
   <div style="width: 50%;">
 
     <h4>Western Classical</h4>
-    <p><em> harmony and structure — e.g. Beethoven: Für Elise</em></p>
+    <p><em>Harmony and structure — e.g. Beethoven: Für Elise</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/classical.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Early 20th century</h4>
-    <p><em>atonality (breaking tonal expectations) — e.g. Arnold Schoenberg: Pierrot Lunaire</em></p>
+    <p><em>Atonality (breaking tonal expectations) — e.g. Arnold Schoenberg: Pierrot Lunaire</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/atonal.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Mid-20th century</h4>
-    <p><em>musique concrète (recorded sound as composition) — e.g. Pierre Schaeffer: Études de bruits</em></p>
+    <p><em>Musique concrète (recorded sound as composition) — e.g. Pierre Schaeffer: Études de bruits</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/concrete.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Electronic music</h4>
-    <p><em>frequency-based sound construction — e.g. Stockhausen: Studie 1</em></p>
+    <p><em>Frequency-based sound construction — e.g. Stockhausen: Studie 1</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/electronic.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Contemporary music</h4>
-    <p><em>hybrid, noise, resistance — e.g. björk: atopos</em></p>
+    <p><em>Hybrid, noise, resistance — e.g. björk: atopos</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/contemporary.mp3" type="audio/mpeg">
     </audio>
@@ -296,6 +296,83 @@ For full reference, review the slides from this week.
   </div>  
 
 </div>      
+
+
+### Technical Vocabulary
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Frequency (Hz)</h4>
+    <p><em>The measurable rate of vibration (High frequency vs Low frequency)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/frequency.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Pitch</h4>
+    <p><em>Pitch is how we perceive frequency (High vs Low)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/pitch.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Tone</h4>
+    <p><em>A sound with a clear pitch (e.g., note, drone)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/tone.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Noise</h4>
+    <p><em>A sound without a clear pitch (e.g., wind, static, crowd murmur)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/noise.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Volume / Amplitude / Gain</h4>
+    <p><em>How loud or soft a sound is (measured in dB)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/volume.mp3" type="audio/mpeg">
+    </audio>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Dynamics</h4>
+    <p><em>Changes in loudness over time</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/classical.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Fade-In / Fade-Out</h4>
+    <p><em>Gradual increase or decrease in volume</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/atonal.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Sustain</h4>
+    <p><em>How long a sound holds</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/concrete.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Attack</h4>
+    <p><em>How quickly a sound begins (e.g., sharp, slow)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/electronic.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Texture</h4>
+    <p><em>How dense or sparse the sonic field feels (e.g., minimal, layered, overlapping, isolated)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/contemporary.mp3" type="audio/mpeg">
+    </audio>
+
+  </div>  
+
+</div>    
 
 
 
