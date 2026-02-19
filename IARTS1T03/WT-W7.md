@@ -219,7 +219,7 @@ Your work will be assessed based on:
 
 ---
 
-<h3 style="color: darkred;">Core Vocabulary for Sound</h3>
+<h3 style="color: darkred;">General Vocabulary</h3>
 
 For full reference, review the slides from this week.    
 
@@ -295,4 +295,56 @@ For full reference, review the slides from this week.
 
   </div>  
 
-</div>      
+</div>   
+
+<h3 style="color: darkred;">Core Technical Vocabulary</h3>
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Frequency (Hz)</h4>
+    <p><em>The measurable rate of vibration (High frequency vs Low frequency)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/frecuency.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Pitch</h4>
+    <p><em>Pitch is how we perceive frequency (High vs Low)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/pitch.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Tone</h4>
+    <p><em>A sound with a clear pitch (e.g., note, drone)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/tone.mp3" type="audio/mpeg">
+    </audio>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Noise</h4>
+    <p><em>A sound without a clear pitch (e.g., wind, static, crowd murmur)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/noise-0.mp3" type="audio/mpeg">
+    </audio>
+
+    <h4>Volume / Amplitude / Gain</h4>
+    <p><em>How loud or soft a sound is (measured in dB)</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/volume.mp3" type="audio/mpeg">
+    </audio>
+    
+    <h4>Fade-In / Fade-Out</h4>
+    <p><em>Gradual increase or decrease in volume</em></p>
+    <audio controls style="width: 100%;">
+      <source src="sounds/fadeinout.mp3" type="audio/mpeg">
+    </audio>
+
+  </div>  
+
+</div>    
