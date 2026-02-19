@@ -39,6 +39,8 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 <h3 style="color: darkred;">[10 min] Sonic Intentions — Start Here</h3>  
 
+Use [W7 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W7.html#core-vocabulary){:target="_blank" rel="noopener noreferrer"}  
+
 Define the emotional and sonic direction of your 30-second composition in direct relation to your **Week 6 lighting approach**. Write **4–5 lines** that answer the following:  
 
 1. **How does your sound build on your Week 6 lighting transformation?**  
@@ -217,7 +219,7 @@ Your work will be assessed based on:
 
 ---
 
-## Core Vocabulary
+<h3 style="color: darkred;">Core Vocabulary</h3>
 
 For full reference, review the slides from this week.    
 
