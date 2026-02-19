@@ -326,7 +326,7 @@ For full reference, review the slides from this week.
     <h4>Noise</h4>
     <p><em>A sound without a clear pitch (e.g., wind, static, crowd murmur)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/noise.mp3" type="audio/mpeg">
+      <source src="sounds/noise-0.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Volume / Amplitude / Gain</h4>
@@ -343,31 +343,31 @@ For full reference, review the slides from this week.
     <h4>Dynamics</h4>
     <p><em>Changes in loudness over time</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/classical.mp3" type="audio/mpeg">
+      <source src="sounds/dynamics.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Fade-In / Fade-Out</h4>
     <p><em>Gradual increase or decrease in volume</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/atonal.mp3" type="audio/mpeg">
+      <source src="sounds/fadeinout.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Sustain</h4>
     <p><em>How long a sound holds</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/concrete.mp3" type="audio/mpeg">
+      <source src="sounds/sustain.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Attack</h4>
     <p><em>How quickly a sound begins (e.g., sharp, slow)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/electronic.mp3" type="audio/mpeg">
+      <source src="sounds/attack.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Texture</h4>
     <p><em>How dense or sparse the sonic field feels (e.g., minimal, layered, overlapping, isolated)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/contemporary.mp3" type="audio/mpeg">
+      <source src="sounds/texture.mp3" type="audio/mpeg">
     </audio>
 
   </div>  
