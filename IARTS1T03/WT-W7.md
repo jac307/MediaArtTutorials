@@ -233,30 +233,35 @@ For full reference, review the slides from this week.
     <audio controls style="width: 100%;">
       <source src="sounds/music.wav" type="audio/mpeg">
     </audio>
+    <p><em>Music box</em></p>
 
     <h4>Atmosphere / Ambience</h4>
     <p><em>(room tone, environmental texture)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/atmosphere.wav" type="audio/mpeg">
     </audio>
+    <p><em>Airport in Colombia</em></p>
 
     <h4>Sound Effects</h4>
     <p><em>(events, actions, environments)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/sound-effects.wav" type="audio/mpeg">
     </audio>
+    <p><em>Door opening effect</em></p>
 
     <h4>Voice</h4>
     <p><em>(speech, breath, chant, whisper)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/voice.wav" type="audio/mpeg">
     </audio>
+    <p><em>Mongolian throat singing, or khoomei</em></p>
 
     <h4>Noise</h4>
     <p><em>(texture, distortion, feedback, static)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/noise.wav" type="audio/mpeg">
     </audio>
+    <p><em>Rising / Falling Frequency</em></p>
 
   </div>
 
@@ -268,30 +273,35 @@ For full reference, review the slides from this week.
     <audio controls style="width: 100%;">
       <source src="sounds/classical.mp3" type="audio/mpeg">
     </audio>
+    <p><em>Beethoven - Für Elise</em></p>
 
     <h4>Early 20th century</h4>
     <p><em>atonality (breaking tonal expectations)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/atonal.mp3" type="audio/mpeg">
     </audio>
+    <p><em>Arnold Schoenberg: Pierrot Lunaire</em></p>
 
     <h4>Mid-20th century</h4>
     <p><em>musique concrète (recorded sound as composition)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/concrete.mp3" type="audio/mpeg">
     </audio>
+    <p><em>Pierre Schaeffer -- Études de bruits</em></p>
 
     <h4>Electronic music</h4>
     <p><em>frequency-based sound construction</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/electronic.mp3" type="audio/mpeg">
     </audio>
+    <p><em>Stockhausen - Studie 1</em></p>
 
     <h4>Contemporary music</h4>
     <p><em>hybrid, noise, resistance</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/contemporary.mp3" type="audio/mpeg">
     </audio>
+    <p><em>björk : atopos</em></p>
 
   </div>  
 
