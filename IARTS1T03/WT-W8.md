@@ -208,7 +208,7 @@ Your work will be assessed based on:
     <h4>Frequency (Hz)</h4>
     <p><em>The measurable rate of vibration (High frequency vs Low frequency)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/frequency.mp3" type="audio/mpeg">
+      <source src="sounds/frecuency.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Pitch</h4>
