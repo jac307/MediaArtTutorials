@@ -158,7 +158,7 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 
 ---
 
-### Example of a Video Submission
+### Video Submission Example
 
 <figure style="width: 60%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
