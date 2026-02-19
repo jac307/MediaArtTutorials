@@ -219,11 +219,9 @@ Your work will be assessed based on:
 
 ---
 
-<h3 style="color: darkred;">Core Vocabulary</h3>
+<h3 style="color: darkred;">Core Vocabulary for Sound</h3>
 
 For full reference, review the slides from this week.    
-
-### General
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
