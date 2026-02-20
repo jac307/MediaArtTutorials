@@ -33,35 +33,27 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[15 min] Sonic Intentions — Start Here</h3>
+<h3 style="color: darkred;">[15 min] Sonic Intentions — Start Here</h3>  
 
-Return to your **Week 6 lighting scene** and define a new sonic approach that explores **stereo presence and listener position**.
+Use [W8 vocabulary](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W8.html#core-technical-vocabulary-for-sound){:target="_blank" rel="noopener noreferrer"}  
+
+Return to your **Week 6 lighting scene** and define a new sonic approach that explores **stereo movement, depth, and listener perspective**.
 
 Write **4–5 sentences** that respond to the following:
 
-1. **How will sound relate to your Week 6 lighting transformation?**  
-   Will certain lighting shifts correspond to changes in sound location (left/right), intensity, or spatial dominance?
+1. **How will sound extend your Week 6 lighting transformation?**  
+   Will lighting shifts correspond to changes in panning, intensity, texture, or spatial emphasis?
+   What is the overall feeling you want to create?
 
-2. **How will you use two speakers to shape space?**  
-   Will sounds move from one speaker to the other?  
-   Will certain elements exist only in Speaker A or Speaker B?  
-   Will volume differences create a sense of depth or proximity?
+3. **How will you use the stereo field to shape space?**  
+   Will sounds move gradually from left to right?  
+   Will certain elements remain centered while others shift?  
+   Will volume and reverb create a sense of proximity or distance?
 
-3. **How should the audience’s position affect what they hear?**  
-   If the listener is closer to one speaker, what becomes dominant?  
-   What becomes distant or subtle?
-
----
-
-<h3 style="color: darkred;">[10 min] Spatial Floor Map: add Position of Speakers and Cameras</h3>
-
-Return to your **Week 6 floor plan** and update it to include the **position of two speakers** and the **two camera positions** you will use for your renders.
-
-Using the spatial vocabulary defined in class (Stage Left, Stage Right, Upstage, Downstage, audience position, centre, perimeter), clearly mark:
-- Speaker A location  
-- Speaker B location  
-- Camera Position 1 (audience perspective, closer to Speaker A)  
-- Camera Position 2 (audience perspective, closer to Speaker B)  
+4. **How will listener position influence perception?**  
+   If the audience camera moves closer to one side, what becomes dominant?  
+   What recedes?  
+   How does movement through space change what feels intimate or distant?
 
 ---
 
@@ -94,6 +86,7 @@ In addition, you must:
 - Use **panning** to move sounds from one speaker to the other (Left ↔ Right),  
   **or** place specific sounds entirely in one speaker.
 - Use **volume/gain adjustments** to create a sense of depth (foreground vs background).
+- Use at least one sound effect
 - Normalize or balance levels so no track overpowers the mix unintentionally.  
 
 When finished:
@@ -114,6 +107,8 @@ Keep all files organized in the same folder.
 
 ❗ Review this week’s slides for practical tips on **a general overview of Blender, importing samples, adjusting volume and rendering**.    
 
+Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W7.html#tutorials){:target="_blank" rel="noopener noreferrer"}  
+
 #### Why and How to use Reverb in REAPER
 
 <div style= "width:80%; height:auto">
@@ -132,6 +127,9 @@ Keep all files organized in the same folder.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ja8ieZTJGNg?si=GEZkBw29R5dUxRqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>
 
+#### Export in Reaper and avoid master clipping
+
+<img src="imgs/45.jpeg" style="width: 80%; height: auto;">     
 
 ---
 
@@ -194,8 +192,7 @@ Create a single PDF that includes:
 |------------------------|-----------------------------------|
 | Project document (PDF) | `Lastname-Firstname-W8.pdf`       |
 | **Reaper** file        | `Lastname-Firstname-W8.rpp`       |
-| Sound file (left)      | `Lastname-Firstname-W8-Left.wav`  |
-| Sound file (right)     | `Lastname-Firstname-W8-Right.wav` |
+| Sound file             | `Lastname-Firstname-W8.wav`  |
 | Video file             | `Lastname-Firstname-W8.mp4`       |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
