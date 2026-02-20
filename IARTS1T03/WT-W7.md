@@ -23,6 +23,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Materials Required
 
 - Computer (laptop or desktop) + Computer mouse (recommended)
+- **Headphones** (highly recommended for accurate sonic perception)
 - Free acount on <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound</a>  
 - Reaper (free software)  
   👉 Download: <a href="https://www.reaper.fm/download.php" target="_blank" rel="noopener noreferrer">https://www.reaper.fm/download.php</a>
