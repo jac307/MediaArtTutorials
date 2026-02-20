@@ -130,16 +130,18 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 <h3 style="color: darkred;">[30-40 min] Blender: Spatial Sound Integration</h3> 
 
-Follow the Blender tutorials below to **import your stereo sound file** into your scene.
+First:  
+- Open your **duplicated W6 scene**.
+- Adjust your timeline to **720 frames (30 seconds at 24 fps)**.
+- **Remove any previous camera animation** from Week 6.
 
-Add a **Speaker object** and position it at the **center of the stage**.
-
-Then:
-- Adjusting timing of lights to maintain a total duration of 30 seconds.
+Then: 
+- Follow the Blender tutorials bellow to add a **Speaker object** and position it at the **center of the stage** and **import your stereo sound file** into your scene.
+- **Adjust the timing of the lighting animation** to align with your 30-second sound composition.  
 - Animate the camera so it **moves closer to and farther from the stage**, allowing changes in perceived volume and spatial nuance.
-- The camera movement should be smooth and intentional (no random motion).
-
-> Your goal is to demonstrate how **camera distance and movement** affect the perception of stereo panning, depth, and spatial presence.
+  > The camera movement should be smooth and intentional (no random motion).
+  > Your goal is to demonstrate how **camera distance and movement** affect the perception of stereo panning, depth, and spatial presence.
+- Follow the tutorials below to export **video with sound**.
 
 Save your updated Blender file as: `Lastname-Firstname-W8.blend`    
 
@@ -152,7 +154,7 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 ### Tutorials
 
-❗ Review this week’s slides for practical tips on **adjusting timeline to be 30s, importing sound, adjusting lighting cues, and export video with audio in Blender**.    
+❗ Review this week’s slides for practical tips on **info**.    
 
 ---
 
@@ -191,19 +193,16 @@ Create a single PDF that includes:
 Your work will be assessed based on:
 
 - **Clarity of Spatial Sonic Intentions (PDF)**  
-  The written description clearly explains how stereo positioning, speaker dominance, and depth shape listener experience and extend your Week 6 lighting approach.
+  The written description clearly explains how stereo movement (panning), depth (volume/reverb), and camera distance shape listener experience and extend your Week 6 lighting transformation.
 
 - **Stereo Spatialization & Sound Design (WAV + RPP)**  
-  The 30-second composition demonstrates intentional use of panning (Left ↔ Right), controlled volume to create depth, at least three layered sound sources, effective fades, and clean audio levels without distortion.
+  The 30-second stereo composition demonstrates intentional use of panning (Left ↔ Right), controlled volume to create depth (foreground/background), at least six layered sound sources, effective fades, and clean audio levels (final peak at -0.3 dB, no distortion). Spatial movement feels deliberate rather than random.
 
-- **Spatial Floor Map & Camera Positions (PDF)**  
-  The updated floor map clearly identifies stage, speaker positions, and both camera viewpoints, and these spatial decisions are reflected in the sound design and rendered video.
-
-- **Perceptual Difference in Video Render (MP4)**  
-  The final render clearly demonstrates how listener proximity affects sonic dominance and spatial perception, while maintaining a static, intentionally framed composition.
+- **Integration in Blender & Camera Embodiment (MP4)**  
+  The stereo sound is correctly attached to a centered Speaker object. Camera movement (closer ↔ farther) clearly affects perceived volume and spatial nuance, while lighting timing remains aligned with the 30-second structure. Framing remains intentional.
 
 - **Technical Execution & File Organization**  
-  All required files (`.pdf`, `.rpp`, `.wav`, `.mp4`) follow correct naming conventions, maintain a 30-second duration, and are properly exported (not viewport recordings).
+  All required files (`.pdf`, `.rpp`, `.wav`, `.mp4`) follow correct naming conventions, maintain a 30-second duration, and are properly rendered (not viewport recordings).
 
 ---
 
@@ -217,7 +216,7 @@ Your work will be assessed based on:
     <h4>Panning</h4>
     <p><em>Placing sound within the stereo field (left, centre, right)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/panning.aiff" type="audio/mpeg">
+      <source src="sounds/panning.aiff" type="audio/aiff">
     </audio>
 
     <h4>Direction</h4>
@@ -229,7 +228,7 @@ Your work will be assessed based on:
     <h4>Reverb (Dry / Wet)</h4>
     <p><em>Reflected sound that creates a sense of room size and distance</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/reverb.wav" type="audio/mpeg">
+      <source src="sounds/reverb.wav" type="audio/wav">
     </audio>
 
     <h4>Immersion</h4>
