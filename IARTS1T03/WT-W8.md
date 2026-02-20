@@ -95,7 +95,7 @@ When finished:
 
 ### Tutorials  
 
-❗ Review this week’s slides for practical tips on **working with multiple tracks, **.    
+❗ Review this week’s slides for practical tips on **working with multiple tracks, zoom in/out in the arrange view, track overview options, add sound effects, and automatate/animate volume, panning and sound effects**.    
 
 Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W7.html#tutorials){:target="_blank" rel="noopener noreferrer"}  
 
