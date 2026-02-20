@@ -98,7 +98,7 @@ When finished:
 
 ### Tutorials
 
-❗ Review this week’s slides for practical tips on **a general overview of Blender, importing samples, adjusting volume and rendering**.    
+❗ Review this week’s slides for practical tips on **Blender's interface, create new tracks and import samples, normalize files, and create marks for organization**.    
 
 #### This is REAPER 7 - Basic Audio Editing
 
@@ -146,7 +146,7 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 
 ### Tutorials
 
-❗ Review this week’s slides for practical tips on **adjusting timeline to be 30s, importing sound, adjusting lighting cues, and export video with audio in Blender**.    
+❗ Review this week’s slides for practical tips for **importing sound, organization, and having multiple workspaces for sound and animation editing**.    
 
 #### How to Add Sound to your Blender Projects
 
