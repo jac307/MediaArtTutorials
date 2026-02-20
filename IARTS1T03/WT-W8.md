@@ -42,7 +42,7 @@ Return to your **Week 6 lighting scene** and define a new sonic approach that ex
 Write **4–5 sentences** that respond to the following:
 
 1. **How will sound extend your Week 6 lighting transformation?**  
-   Will lighting shifts correspond to changes in panning, intensity, texture, or spatial emphasis?
+   Will lighting shifts correspond to changes in panning, intensity, texture, or spatial emphasis?  
    What is the overall feeling you want to create?
 
 2. **How will you use the stereo field to shape space?**  
