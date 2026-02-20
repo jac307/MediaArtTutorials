@@ -128,25 +128,23 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 ---
 
-<h3 style="color: darkred;">[30 min] Blender: Spatial Sound Integration</h3> 
+<h3 style="color: darkred;">[30-40 min] Blender: Spatial Sound Integration</h3> 
 
-Follow the Blender tutorials below to **import your two sound files**. Place each sound file according to the **speaker positions defined in your updated floor map** (Speaker A / Speaker B).  
+Follow the Blender tutorials below to **import your stereo sound file** into your scene.
+
+Add a **Speaker object** and position it at the **center of the stage**.
 
 Then:
-- Keep your **Week 6 lighting design and cue structure**, but adjust timing if needed to maintain a total duration of 30 seconds.
-- Keep the camera **static** for both renders.
-- Position the camera from an **audience perspective**, producing two separate versions:
-  1. **Camera positioned closer to Speaker A**
-  2. **Camera positioned closer to Speaker B**
-  > The framing strategy (rule of thirds, symmetry, or leading lines) must remain intentional in both versions.
+- Adjusting timing of lights to maintain a total duration of 30 seconds.
+- Animate the camera so it **moves closer to and farther from the stage**, allowing changes in perceived volume and spatial nuance.
+- The camera movement should be smooth and intentional (no random motion).
 
-Save your updated Blender file as:  
-`Lastname-Firstname-W8.blend`
+> Your goal is to demonstrate how **camera distance and movement** affect the perception of stereo panning, depth, and spatial presence.
 
-➡️ **Export two videos as MP4, codec H.264**  
-📄 **Filenames:**
-  - `Lastname-Firstname-W8-SpeakerA.mp4`
-  - `Lastname-Firstname-W8-SpeakerB.mp4`
+Save your updated Blender file as: `Lastname-Firstname-W8.blend`    
+
+➡️ **Export Video as MP4, codec H.264**    
+📄 **Filename:** `Lastname-Firstname-W8.mp4`  
 
 > ⚠️ Videos must be **final renders**, not viewport screen recordings.
 
@@ -163,7 +161,7 @@ Save your updated Blender file as:
 Create a single PDF that includes:
 
 - **4–5 sentence sonic intention description**  
-  Briefly describe how your sound composition responds to your Week 6 lighting and how stereo positioning (left/right, dominance, depth) shapes listener experience.
+  Briefly describe the emotional arc (beginning → middle → end) and the types of sounds you selected.
 
 - **List of sound samples used**  
   Include for each sample:
