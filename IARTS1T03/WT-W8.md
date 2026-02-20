@@ -2,7 +2,11 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W8 - Presence, Space & Spatialization</span>
+# <span style="color: darkred;">W8 - Presence, Space & Spatialization</span>  
+
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/50.jpg" style="width: 100%; height: auto;">
+</figure>
 
 ## Objective
 
@@ -151,6 +155,16 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 ❗ Review this week’s slides for practical tips on **info**.    
 
+#### Title
+
+<div style= "width:80%; height:auto">
+
+</div>    
+
+#### Blender: Export File with Audio
+
+<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
+
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>
@@ -211,7 +225,7 @@ Your work will be assessed based on:
     <h4>Panning</h4>
     <p><em>Placing sound within the stereo field (left, centre, right)</em></p>
     <audio controls style="width: 100%;">
-      <source src="sounds/panning.aiff" type="audio/aiff">
+      <source src="sounds/panning.mp3" type="audio/mpeg">
     </audio>
 
     <h4>Direction</h4>
