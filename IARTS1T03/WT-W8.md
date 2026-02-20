@@ -73,39 +73,34 @@ Curate a focused selection of sounds that support **stereo spatialization**, suc
 
 <h3 style="color: darkred;">[60-80m] Compose in REAPER (Stereo Spatialization Focus)</h3>  
 
-Follow the REAPER tutorials below and build a **30-second stereo sound composition** that explores spatial presence.  
+Follow the REAPER tutorials below and build a **30-second stereo sound composition** that explores spatial presence.
 
 Your composition must:
 - Be exactly **30 seconds long**
 - Combine **at least 6 different sound samples**
 - Include a clear **beginning, middle, and end**
 - Use a **fade-in at the start** and a **fade-out at the end**
-- Maintain clean levels (no clipping)  
+- Maintain clean levels (no clipping; final peak at -0.3 dB)
 
 In addition, you must:
-- Use **panning** to move sounds from one speaker to the other (Left ↔ Right),  
-  **or** place specific sounds entirely in one speaker.
-- Use **volume/gain adjustments** to create a sense of depth (foreground vs background).
-- Use at least one sound effect
-- Normalize or balance levels so no track overpowers the mix unintentionally.  
+- Use **panning** to shift sounds across the stereo field (Left ↔ Right),  
+  **or** position certain sounds entirely in one speaker.
+- Use **volume/gain adjustments** to create depth (foreground vs background).
+- Apply **at least one audio effect** (e.g., reverb, EQ, delay) intentionally.
+- Normalize or balance levels so no track unintentionally dominates the mix.
+- Ensure spatial movement feels deliberate, not random.
 
 When finished:
-
-1. **Export two WAV files**, one from each speaker (Left and Right)  
-   📄 **Filenames:**
-   - `Lastname-Firstname-W8-Left.wav`
-   - `Lastname-Firstname-W8-Right.wav` 
-
-3. **Save your REAPER project file**  
-   📄 **Filename:** `Lastname-Firstname-W8.rpp`  
-
-Keep all files organized in the same folder.  
+1. **Export your final composition as a WAV file**  
+   📄 **Filename:** `Lastname-Firstname-W8.wav`  
+2. **Save your REAPER project file**  
+   📄 **Filename:** `Lastname-Firstname-W8.rpp`
 
 ---
 
 ### Tutorials  
 
-❗ Review this week’s slides for practical tips on **a general overview of Blender, importing samples, adjusting volume and rendering**.    
+❗ Review this week’s slides for practical tips on **working with multiple tracks, **.    
 
 Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03/WT-W7.html#tutorials){:target="_blank" rel="noopener noreferrer"}  
 
@@ -157,9 +152,9 @@ Save your updated Blender file as:
 
 ---
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=PSvPcJ_74rNpn7dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>    
+### Tutorials
+
+❗ Review this week’s slides for practical tips on **adjusting timeline to be 30s, importing sound, adjusting lighting cues, and export video with audio in Blender**.    
 
 ---
 
@@ -177,12 +172,6 @@ Create a single PDF that includes:
   - Source link  
   - License information  
 
-- **Updated Spatial Floor Map (½ page)**  
-  Clearly indicate:
-  - Speaker A position  
-  - Speaker B position  
-  - Camera position for both renders  
-
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W8.pdf`
 
@@ -192,7 +181,7 @@ Create a single PDF that includes:
 |------------------------|-----------------------------------|
 | Project document (PDF) | `Lastname-Firstname-W8.pdf`       |
 | **Reaper** file        | `Lastname-Firstname-W8.rpp`       |
-| Sound file             | `Lastname-Firstname-W8.wav`  |
+| Sound file             | `Lastname-Firstname-W8.wav`       |
 | Video file             | `Lastname-Firstname-W8.mp4`       |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
