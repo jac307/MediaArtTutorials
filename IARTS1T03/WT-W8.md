@@ -110,6 +110,25 @@ Keep all files organized in the same folder.
 
 ---
 
+### Tutorials  
+
+❗ Review this week’s slides for practical tips on **a general overview of Blender, importing samples, adjusting volume and rendering**.    
+
+#### Why and How to use Reverb in REAPER
+
+<div style= "width:80%; height:auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVguIQTqClo?si=U5rcUHgbwt7HRD0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
+
+#### How to Pan Stereo Audio in Reaper
+
+<div style= "width:80%; height:auto">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/SN8_uG3POQk?si=taxzTK7iiQJUDxLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://www.youtube.com/watch?v=JN4FV_OBHpU)
+</div>
+
+
+---
+
 <h3 style="color: darkred;">[30 min] Blender: Spatial Sound Integration</h3> 
 
 Follow the Blender tutorials below to **import your two sound files**. Place each sound file according to the **speaker positions defined in your updated floor map** (Speaker A / Speaker B).  
