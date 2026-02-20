@@ -155,13 +155,7 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 ❗ Review this week’s slides for practical tips on **info**.    
 
-#### How to Use Speakers | Entry Point
-
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/32y8N5njt9U?si=Or9eL6p6w3lrahi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
-
-#### Using the Speaker for 3D Sound | Full
+#### Using the Speaker for 3D Sound
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J7lk0CGMa5c?si=9qa6z1qHQz_HLxI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
