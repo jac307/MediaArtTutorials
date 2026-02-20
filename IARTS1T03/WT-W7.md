@@ -140,7 +140,6 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 📄 **Filename:** `Lastname-Firstname-W7.mp4`  
 
 > ⚠️ Videos must be **final renders**, not viewport screen recordings.
-> The render will take longer since you are no
 
 ---
 
