@@ -126,13 +126,17 @@ When finished:
 
 <h3 style="color: darkred;">[30 min] Blender: Sound Integration</h3>
 
-Follow the Blender tutorials below to **import your 30-second WAV file** into your **duplicated W6 scene**.  
+First:  
+- Open your **duplicated W6 scene**.
+- Adjust your timeline to **720 frames (30 seconds at 24 fps)**.
+- **Remove any previous camera animation** from Week 6.
+- Position the camera in a **wide frontal shot** and animate a simple, continuous forward movement or zoom (in or out) that lasts the full **30 seconds**.
 
 Then:
-- Adjust your timeline to **720 frames (30 seconds at 24 fps)**.
-- Keep your **Week 6 lighting design and cue structure**, but **adjust the timing of the lighting animation** to align with your 30-second sound composition and final duration (30 seconds total).  
-- **Remove any previous camera animation** from Week 6.
-- Position the camera in a **wide frontal shot** and animate a simple, continuous forward movement or zoom (in or out) that lasts the full **30 seconds**.  
+- Follow the Blender tutorials below to **import your 30-second WAV file** into your scene.
+- **Adjust the timing of the lighting animation** to align with your 30-second sound composition.
+  > Your goal is to demonstrate how **sonic changes interact with lighting transitions** to reshape perception.
+- Follow the tutorials below to export **video with sound**.
 
 Save your updated Blender file as: `Lastname-Firstname-W7.blend`    
 
