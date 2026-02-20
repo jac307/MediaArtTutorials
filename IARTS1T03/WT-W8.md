@@ -23,6 +23,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Materials Required
 
 - Computer (laptop or desktop) + Computer mouse (recommended)
+- - **Headphones** (highly recommended for accurate stereo perception and subtle spatial differences)
 - Free acount on <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound</a>  
 - Reaper (free software)  
   👉 Download: <a href="https://www.reaper.fm/download.php" target="_blank" rel="noopener noreferrer">https://www.reaper.fm/download.php</a>
@@ -135,9 +136,11 @@ First:
 - **Remove any previous camera animation** from Week 6.
 
 Then: 
-- Follow the Blender tutorials bellow to add a **Speaker object** and position it at the **center of the stage** and **import your stereo sound file** into your scene.
+- Follow the Blender tutorials below to add a **Speaker object**, position it at the **center of the stage**, and **import your sound file** into the scene.
+  > **Note:** The Speaker object converts your stereo file into a single spatial source. You will no longer hear left/right panning as designed in REAPER.  
+  > For this week, keep it this way. Instead of stereo separation, you will explore spatial difference through **camera movement** in Blender — allowing listener position to shape volume, proximity, and perceived depth.  
 - **Adjust the timing of the lighting animation** to align with your 30-second sound composition.  
-- Animate the camera so it **moves closer to and farther from the stage**, allowing changes in perceived volume and spatial nuance.
+- Animate the camera so it **moves closer to and farther from the centre where the speaker object is located**, allowing changes in perceived volume and spatial nuance.
   > The camera movement should be smooth and intentional (no random motion).
   > Your goal is to demonstrate how **camera distance and movement** affect the perception of stereo panning, depth, and spatial presence.
 - Follow the tutorials below to export **video with sound**.
@@ -155,13 +158,13 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 ❗ Review this week’s slides for practical tips on **info**.    
 
-#### How to Use Speakers | Try this one first
+#### How to Use Speakers | Basic
 
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/32y8N5njt9U?si=CDJUxydlhdia--Ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>
 
-#### Using the Speaker for 3D Sound
+#### Using the Speaker for 3D Sound | Advance
 
 > For this week, focus only on adding speaker object, mute and volume, distance, and cone.  
 
@@ -227,7 +230,7 @@ Your work will be assessed based on:
   The 30-second stereo composition demonstrates intentional use of panning (Left ↔ Right), controlled volume to create depth (foreground/background), at least six layered sound sources, effective fades, and clean audio levels (final peak at -0.3 dB, no distortion). Spatial movement feels deliberate rather than random.
 
 - **Integration in Blender & Camera Embodiment (MP4)**  
-  The stereo sound is correctly attached to a centered Speaker object. Camera movement (closer ↔ farther) clearly affects perceived volume and spatial nuance, while lighting timing remains aligned with the 30-second structure. Framing remains intentional.
+  The sound file is correctly attached to a centered Speaker object. Camera movement (closer ↔ farther) intentionally shapes perceived volume, proximity, and spatial presence, while lighting cues remain aligned with the 30-second structure. Framing is deliberate and consistent.  
 
 - **Technical Execution & File Organization**  
   All required files (`.pdf`, `.rpp`, `.wav`, `.mp4`) follow correct naming conventions, maintain a 30-second duration, and are properly rendered (not viewport recordings).
