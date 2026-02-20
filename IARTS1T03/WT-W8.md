@@ -45,15 +45,10 @@ Write **4–5 sentences** that respond to the following:
    Will lighting shifts correspond to changes in panning, intensity, texture, or spatial emphasis?
    What is the overall feeling you want to create?
 
-3. **How will you use the stereo field to shape space?**  
+2. **How will you use the stereo field to shape space?**  
    Will sounds move gradually from left to right?  
    Will certain elements remain centered while others shift?  
    Will volume and reverb create a sense of proximity or distance?
-
-4. **How will listener position influence perception?**  
-   If the audience camera moves closer to one side, what becomes dominant?  
-   What recedes?  
-   How does movement through space change what feels intimate or distant?
 
 ---
 
