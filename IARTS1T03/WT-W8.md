@@ -163,6 +163,19 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 #### Using the Speaker for 3D Sound
 
+> For this week, focus only on adding speaker object, mute and volume, distance, and cone.  
+
+<ul>
+  <li><strong>0:00 — Intro</strong></li>
+  <li><strong>0:15 — Speaker Basics</strong></li>
+  <li><strong>2:03 — Mute, Volume and Pitch</strong></li>
+  <li><strong>4:27 — The Distance Options</strong></li>
+  <li><strong>8:26 — The Cone Options</strong></li>
+  <li style="color: gray;">10:26 — Scene Properties and Doppler Effect (skip)</li>
+  <li style="color: gray;">12:52 — Determining Audio Length and Start Time (skip)</li>
+  <li><strong>14:30 — Exporting The Audio</strong></li>
+</ul>  
+
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J7lk0CGMa5c?si=9qa6z1qHQz_HLxI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
