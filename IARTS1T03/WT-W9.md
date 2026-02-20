@@ -2,13 +2,11 @@
 
 -------------------------------------------------------------------------------
 
-# <span style="color: darkred;">W9 - Integrated Atmosphere (Light + Sound + Space)</span>
+# <span style="color: darkred;">W9 - Multi-Channel Installation Design (Light + Sound + Space)</span>
 
 ## Objective
 
-You will **build on your W8 sound composition** to **create a cinematic version** of your scene. You will **design a camera progression that moves through the space in response to lighting cues and spatial sound shifts**.  
-
-This activity focuses on **how movement transforms the experience of sound and light over time**, shifting from theatrical observation to cinematic embodiment.  
+This week you will design a **multi-channel light and sound installation** for the Blackbox space.  
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -19,11 +17,9 @@ Tutorial time may be used to begin or complete this activity depending on your t
 ## Materials Required
 
 - Computer (laptop or desktop) + Computer mouse (recommended)
+- Headphones
 - Blender (free software)
 - Reaper (free software)  
-- Your **Week 6 Lighting Cue Documentation**
-- Your **Week 8 Blender file (.blend)**
-- Your **Week 8 Reaper file (.rpp)**
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -33,48 +29,78 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[15 min] Embodied Perspective Intentions — Start Here</h3>
+<h3 style="color: darkred;">[15 min] Installation Concept | Spatial Intentions — Start Here</h3>
 
-Return to your **Week 8 sound composition and spatial layout**, and now rethink the scene from a **cinematic perspective**.
+Write **7–10 sentences** defining your installation concept.
 
-This week, the camera is an **omniscient observer** moving through the space. It is not seated in the audience and not a performer: it can travel, reposition, and reframe the experience.  
+Address:
 
-Write **4–5 sentences** that define your cinematic approach by responding to the following:  
-
-1. **How will the omniscient camera move through the space?**  
-   Will it circle the stage, move laterally, push in toward intensity, rise above the space, or drift between speaker zones?
-
-2. **How will camera movement respond to sound and lighting cues?**  
-   What specific sonic shifts or lighting transitions will trigger movement, pauses, or directional changes?
-
-3. **How does movement transform perception?**  
-   What becomes more intimate, dominant, distant, or immersive once the camera is no longer static?
-
-Your camera progression must feel intentional and synchronized with your 30-second sound composition and lighting structure.
+1. What kind of atmosphere are you constructing?
+2. How do audiences move through the space?
+3. Where are moments of intimacy, intensity, or distance?
+4. How do sound, light, and objects interact spatially?
+5. What changes as audiences walk between speaker zones?
 
 ---
 
-<h3 style="color: darkred;">[30-45 min] Cue Refinement & Synchronization (Light + Sound)</h3>
+<h3 style="color: darkred;">[30 min] Installation Floor Map</h3>  
 
-Return to your Week 6 lighting cues and Week 8 sound composition. This step must be completed **before animating the camera**.
+You are designing an **immersive environment** where audiences **navigate the space**.
 
-Work in the following order:
+You must only do the top view. This time, you must think about the electrical outlets too that will feel the speakers. You will use LFS's floor desing? map? just the architectural drawing. 
 
-1. **Revise your sound composition first.**  
-   - Adjust timing, panning, volume/depth, fades, or balance if needed.  
-   - Re-export your updated sound file(s) — left and right.  
-   - Re-import the final sound files into Blender so your project reflects the most current audio.
+They should define the animation of the lights, but think of them as in a loop/installation, running in a loop like the audio. The animation / cues of this loop should be design, 2-3 cues per light. each speaker should include their own object (1 or 2), plus their corresponding light (1-2)
 
-2. **Revise your lighting cues in Blender.**  
-   - Adjust timing and transitions to align with the updated sound.  
-   - Improve intensity, colour, dominance, or cue clarity where needed.  
+Your installation must include:
 
-3. **Update your lighting cue documentation (from Week 6).**  
-   - Revise cue descriptions to match the current version.
-   - Document: time, intensity, colour, position, dominance
+- **3–4 speakers**
+- **4–6 lights**
+- **3–6 geometric objects**
+- A clearly defined **audience navigation path**
 
-This is a system synchronization pass.  
-Before animating the camera, your sound, lighting cues, speaker placement, and documentation must all align within the same 30-second structure.  
+Objects must be **geometric forms only** (cube, sphere, cone, cylinder, plane, etc.).  
+
+Hand-drawn (preferred) or digital.
+
+---
+
+#### Example  
+You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting decisions and cue logic**.
+
+<img src="imgs/36.png" style="width: 60%; height: auto;">   
+
+> ⚠️ Your drawing skill is not graded.  
+> You are graded on **clarity of lighting logic, use of vocabulary, and ability to communicate cues clearly**.
+
+---
+
+<h3 style="color: darkred;">[40-60 min] REAPER — Multi-Channel Mono Composition</h3>
+
+You must create **3–4 separate sound compositions**, one per speaker.
+
+#### Requirements
+
+- Time: 30s
+- No Panning
+- Each track must function independently but contribute to a shared atmosphere
+- Tracks may:
+  - Overlap
+  - Activate sequentially
+  - Create spatial contrast
+  - Create directional tension
+ - Follow the tutorial to exporrt separate tracks instead of a single stereo sound
+
+Avoid duplicating the same sound across all speakers. Think in zones.  
+
+When finished:
+1. **Save your REAPER project file**  
+   📄 **Filename:** `Lastname-Firstname-W9.rpp`  
+2. **Export your final compositions as a WAV file**  
+   📄 **Filenames:**
+   - `Lastname-Firstname-W9-SPK1.wav`
+   - `Lastname-Firstname-W9-SPK2.wav`
+   - `Lastname-Firstname-W9-SPK3.wav`
+   - `Lastname-Firstname-W9-SPK4.wav`
 
 ---
 
