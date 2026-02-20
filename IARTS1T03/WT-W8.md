@@ -120,7 +120,7 @@ Keep all files organized in the same folder.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVguIQTqClo?si=U5rcUHgbwt7HRD0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
 
-#### How to Pan Stereo Audio in Reaper
+#### The Automation or Envelope Knob in REAPER: Animate Volume and Panning
 
 <div style= "width:80%; height:auto">
 [<iframe width="560" height="315" src="https://www.youtube.com/embed/SN8_uG3POQk?si=taxzTK7iiQJUDxLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://www.youtube.com/watch?v=JN4FV_OBHpU)
