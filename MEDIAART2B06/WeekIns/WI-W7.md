@@ -88,7 +88,50 @@ This script will guide:
 
 ---
 
-<h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [1h]</h2>
+<h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [1h]</h2>  
+
+Download this 📄 [**W7 Annotated Storyboard Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
+
+> For more info on the annotated biliography and examples refer to [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"}
+
+### Shot Requirements
+
+- Include **6–10 shots total**
+ > 7–8 shots are recommended for a balanced one-minute film
+- Shots must follow the order of your script
+- Total estimated duration across all shots must equal approximately **60 seconds**
+
+For Each Shot, You Must Complete:  
+- **Shot #**
+- **Estimated Duration (in seconds)**
+- **Shot Type** (EWS, WS, MS, MCU, CU, OTS, etc.)
+- **Camera Angle** (eye-level, high angle, low angle, overhead, etc.)
+- **Camera Movement** (static, pan, tilt, handheld, tracking, etc.)
+- **One-Sentence Action Description**
+- **Lighting Plan**
+- **Sound Plan**
+- **Equipment Needed**
+
+### Important Guidelines
+
+- Your storyboard must reflect your script.
+- Do not introduce new actions not present in the script.
+- Maximum of **one or two locations**.
+- Camera movement must be realistic and achievable.
+- Lighting plans should reflect available equipment.
+- Artistic drawing skill is not graded — clarity is.
+
+Use arrows to indicate movement when necessary.
+
+---
+
+### Submission
+
+Save the completed template as:
+
+`Lastname_Firstname_Storyboard.pdf`
+
+Include it in your **Pre-Production Package PDF**.
 
 ---
 
