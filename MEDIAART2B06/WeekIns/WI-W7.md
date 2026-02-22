@@ -85,6 +85,8 @@ This script will guide:
 - Your production schedule  
 
 ➡️ Save the completed template as: `Lastname_Firstname_Script.pdf`    
+> You may complete the template digitally or by hand.  
+> If you use the printed version, it must be clearly scanned and compiled into a single PDF before submission.  
 
 ---
 
@@ -121,17 +123,11 @@ For Each Shot, You Must Complete:
 - Lighting plans should reflect available equipment.
 - Artistic drawing skill is not graded — clarity is.
 
-Use arrows to indicate movement when necessary.
+Use arrows to indicate movement when necessary.  
 
----
-
-### Submission
-
-Save the completed template as:
-
-`Lastname_Firstname_Storyboard.pdf`
-
-Include it in your **Pre-Production Package PDF**.
+➡️ Save the completed template as: `Lastname_Firstname_Storyboard.pdf`    
+> You may complete the template digitally or by hand.  
+> If you use the printed version, it must be clearly scanned and compiled into a single PDF before submission.  
 
 ---
 
