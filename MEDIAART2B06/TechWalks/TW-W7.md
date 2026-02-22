@@ -2,12 +2,12 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W8 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">Exposure Control While Moving</h2>
+<h1 style="color: darkred;">W7 — Tech Walkthrough</h1>
+<h2 style="color: darkred;">name?</h2>
 
 ## Objective
 
-This 
+Complete
 
 ---
 
@@ -66,7 +66,14 @@ Industry professionals often decide whether to read a full script based on the s
 
 For industry examples of feature film loglines, you can browse this curated IMDb list:  
 🔗 <a href="https://www.imdb.com/list/ls533728711/" target="_blank">Movie Logline Examples for Screenwriters (IMDb)</a>  
-> Review these examples to identify structural patterns (character, action, stakes, shift), but remember: **your one-minute short should remain contained, focused, and realistically shootable**.    
+> Review these examples to identify structural patterns (character, action, stakes, shift), but remember: **your one-minute short should remain contained, focused, and realistically shootable**.
+
+
+---
+
+<h2 style="color: darkred;"> Script </h2>  
+
+A **logline** is a singl
 
 ________________________________________________________________________
 
