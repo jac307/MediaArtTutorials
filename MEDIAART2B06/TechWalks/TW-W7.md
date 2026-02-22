@@ -67,12 +67,7 @@ For industry examples of feature film loglines, you can browse this curated IMDb
 
 ---
 
-<h2 style="color: darkred;"> Script </h2>  
-
-A # Week 7 — Tech Walkthrough  
-## Writing the Visual Script (No Dialogue)
-
----
+<h2 style="color: darkred;"> Script </h2>   
 
 A script is a **production document** that translates your logline into clear, shootable action. A visual script describes:
 - Where the scene takes place  
@@ -89,7 +84,7 @@ For this project, your script must communicate a complete one-minute visual even
 
 ---
 
-### 1. **Slugline** or Scene Heading  
+### **Slugline** or Scene Heading  
 
 Each change in space is marked with a new slugline.  
 
@@ -112,31 +107,45 @@ Continuous movement within the same space **does not** create a new scene.
 A transition indicates movement between scenes or the ending of a sequence.  
 > In a one-minute film, transitions should be minimal.
 
-Common Transitions:   
+#### Common Transitions:   
 
-**FADE IN / FADE OUT**  
-The image gradually appears from black (FADE IN) or disappears to black (FADE OUT).  
-Often used at the beginning or end of a film, or to signal closure.
+<div style="display: flex; gap: 2rem; width: 100%;">
 
-**CUT TO:**  
-An immediate change from one shot or scene to another.  
-This is the most common and neutral transition.
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
 
-**DISSOLVE (CROSS-DISSOLVE)**  
-One image gradually blends into another.  
-Often used to suggest the passage of time or a soft emotional shift.
+    <h4>FADE IN / FADE OUT</h4>
+    <p><em>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT). Often used at the beginning or end of a film, or to signal closure.</em></p>
+    <img src="imgs/89.gif" style="width: 100%; height: auto;">
 
-**HARD CUT**  
-An abrupt, sharp cut with no visual or sound smoothing.  
-Can create tension, surprise, or emphasis.
+    <h4>CUT TO</h4>
+    <p><em>An immediate change from one shot or scene to another. This is the most common and neutral transition.</em></p>
+    <img src="imgs/90.gif" style="width: 100%; height: auto;">
 
-**JUMP CUT**  
-A cut within the same shot that creates a visible “jump” in time.  
-Often used to compress time or create unease.
+    <h4>DISSOLVE (CROSS-DISSOLVE)</h4>
+    <p><em>One image gradually blends into another. Often used to suggest the passage of time or a soft emotional shift.</em></p>
+    <img src="imgs/91.gif" style="width: 100%; height: auto;">
 
-**MATCH CUT**  
-A cut that connects two shots through similar composition, movement, or action.  
-Creates visual continuity or symbolic connection between moments.
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>HARD CUT</h4>
+    <p><em>An abrupt, sharp cut with no visual or sound smoothing. Can create tension, surprise, or emphasis.</em></p>
+    <img src="imgs/92.gif" style="width: 100%; height: auto;">
+
+    <h4>JUMP CUT</h4>
+    <p><em>A cut within the same shot that creates a visible “jump” in time. Often used to compress time or create unease.</em></p>
+    <img src="imgs/93.gif" style="width: 100%; height: auto;">
+
+    <h4>MATCH CUT</h4>
+    <p><em>A cut that connects two shots through similar composition, movement, or action. Creates visual continuity or symbolic connection between moments.</em></p>
+    <img src="imgs/94.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+</div>   
 
 ---
 
@@ -145,39 +154,6 @@ Creates visual continuity or symbolic connection between moments.
 ---
 
 
-1. **Slugline** or Scene Heading
-  INT./EXT. + Specific Location + Time of Day
-  > *INT. CLASSROOM – NIGHT*  
-  > *EXT. BUS STOP – LATE AFTERNOON*  
-  > *INT. DORM ROOM – EARLY MORNING* 
-
-2. **Visual Script (Action Only)**
-   This is the body of your screenplay. It describes:
-   - Physical behavior
-   - Movement
-   - Interaction with objects
-   - Spatial relationships
-   - Environmental details that affect action
-
-4. **Transitions (if needed)**
-
-Maximum: **One or two scenes only**
-
----
-
-# 1. Slugline
-
-### What Is a Slugline?
-
-A slugline identifies:
-
-- Interior or exterior  
-- Specific location  
-- Time of day  
-
-It signals the start of a new scene.
-
-### Format
 
 
 ________________________________________________________________________
