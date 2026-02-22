@@ -27,23 +27,27 @@ The **logline** must be **clear statement of the story in motion**.
 
 1. **Character + Simple Action + Emotional Shift**
   A [character] [performs a clear physical action] in [specific location], leading to [emotional change].
-  > e.g. [*Rear Window*, Director: Alfred Hitchcock] *A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder*.  
+  > e.g. [*Rear Window*, Director: Alfred Hitchcock]
+  > *A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder*.  
   > **Compressed to 1-minute scale:** A photographer confined to his apartment watches his neighbors through a window and slowly becomes convinced something is wrong.  
 
 
 2. **Moment-Based Progression**
   As [character performs ongoing action], [emotional shift occurs].
-  > e.g. [*Groundhog Day*, Director:  Harold Ramis] *A narcissistic, self-centered and frustrated weatherman finds himself caught in a time warp loop on Groundhog Day, where he wakes up every morning having to face the same day again and again*.  
+  > e.g. [*Groundhog Day*, Director:  Harold Ramis]
+  > *A narcissistic, self-centered and frustrated weatherman finds himself caught in a time warp loop on Groundhog Day, where he wakes up every morning having to face the same day again and again*.  
   > **Compressed to 1-minute scale:** As a man relives the same morning routine again, his frustration slowly turns into desperation.  
 
 3. **Situation + Small Change**
   In [specific situation], a [character] experiences [shift] while [visible action].
-  > e.g. [*Before Sunrise*, Director:  Richard Linklater] *A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together*.  
+  > e.g. [*Before Sunrise*, Director:  Richard Linklater]
+  > *A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together*.  
   > **Compressed to 1-minute scale:** In a train compartment, two strangers sit in silence, gradually becoming aware of one another through small gestures.  
 
 4. **Object-Focused**
   A [character] interacts with [object] in [location], revealing [emotional shift].
-  > e.g. [*WALL·E*, Director:  Andrew Stanton] *A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind*.  
+  > e.g. [*WALL·E*, Director:  Andrew Stanton]
+  > *A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind*.  
   > **Compressed to 1-minute scale:** A lonely robot sorting through discarded objects pauses over one item, revealing an unexpected sense of attachment.    
 
 For additional industry examples of feature film loglines, you can browse this curated IMDb list:  
