@@ -82,7 +82,10 @@ A script is a **production document** that translates your logline into clear, s
 For this project, your script must communicate a complete one-minute visual event using only behavior and environment with the followin structure:  
 1. **Slugline** or Scene Heading
 2. **Visual Script (Action Only)**
-3. **Transitions (if needed)**  
+3. **Transitions (if needed)**
+
+> e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes)  
+<img src="imgs/88.png" style="width: 80%; height: auto;">    
 
 ---
 
@@ -102,12 +105,38 @@ A new scene is required only if there is:
 - A shift from INT. to EXT.  
 Continuous movement within the same space **does not** create a new scene.  
 
-> e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes)  
-<img src="imgs/88.png" style="width: 80%; height: auto;">    
-
 ---
 
-### **Transitions (if needed)**
+### **Transitions (if needed)**  
+
+A transition indicates movement between scenes or the ending of a sequence.  
+> In a one-minute film, transitions should be minimal.
+
+Common Transitions:   
+
+**FADE IN / FADE OUT**  
+The image gradually appears from black (FADE IN) or disappears to black (FADE OUT).  
+Often used at the beginning or end of a film, or to signal closure.
+
+**CUT TO:**  
+An immediate change from one shot or scene to another.  
+This is the most common and neutral transition.
+
+**DISSOLVE (CROSS-DISSOLVE)**  
+One image gradually blends into another.  
+Often used to suggest the passage of time or a soft emotional shift.
+
+**HARD CUT**  
+An abrupt, sharp cut with no visual or sound smoothing.  
+Can create tension, surprise, or emphasis.
+
+**JUMP CUT**  
+A cut within the same shot that creates a visible “jump” in time.  
+Often used to compress time or create unease.
+
+**MATCH CUT**  
+A cut that connects two shots through similar composition, movement, or action.  
+Creates visual continuity or symbolic connection between moments.
 
 ---
 
