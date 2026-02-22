@@ -24,7 +24,43 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Logline [20m]</h2>
+<h2 id="logline" style="color: darkred;">Activity 1: Logline [25m]</h2>  
+
+### Step 1 — Commit to One Idea [10 minutes]
+
+Review your **brainstorm document** and commit to one of your ideas.
+
+In bullet points (keep it short), outline:
+- **What is the story about?** (Describe the situation in concrete, visual terms.)
+- **What is the central action of the story?** (What physically happens on screen from beginning to end?)
+- **What is the emotional arc?** (Beginning → shift → ending. What changes emotionally?)  
+
+---
+
+### Step 2 — Write 3 Logline Versions [10 minutes]
+
+> For examples of strong and weak loglines, and tips on specificity and visual clarity, refer to the [**Week 7 Tech Walkthrough document**](../TechWalks/TW-W7.md){:target="_blank"}  
+
+Write **three different versions** of your logline.
+
+Each logline must:
+
+- Be **one sentence**
+- Describe a **1-minute visual story (no dialogue)**
+- Suggest a **clear action**
+- Indicate an **emotional shift**
+- Avoid vague themes (e.g., “A film about loneliness”) be specific (e.g. “A student eats lunch alone in a crowded cafeteria, watching groups form and disperse around them.”)
+
+---
+
+### Step 3 — Refine & Select [5 minutes]
+
+- Choose your strongest version.
+- Revise it once more for clarity and precision.
+- Remove unnecessary words.
+- Make sure it reflects something you can realistically shoot.
+
+Save your final version for your **Pre-Production Package PDF**.  
 
 ---
 
