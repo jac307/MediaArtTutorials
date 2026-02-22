@@ -15,7 +15,7 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Activity 1: Logline [20m]</a></li>
+  <li><a href="#logline">Activity 1: Logline [25m]</a></li>
   <li><a href="#script">Activity 2: Script [40m]</a></li>
   <li><a href="#storyboard">Activity 3: Annotated Storyboard [1h]</a></li>
   <li><a href="#homework">Homework: Location Scouting, Equipment List, & Production Schedule</a></li>
@@ -39,7 +39,7 @@ In bullet points (keep it short), outline:
 
 ### Step 2 — Write 3 Logline Versions [10 minutes]
 
-> For examples of strong and weak loglines, and tips on specificity and visual clarity, refer to the [**Week 7 Tech Walkthrough document**](../TechWalks/TW-W7.md){:target="_blank"}  
+> For examples of strong and weak loglines, and tips on specificity and visual clarity, refer to the [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline){:target="_blank"}  
 
 Write **three different versions** of your logline.
 
@@ -64,7 +64,27 @@ Save your final version for your **Pre-Production Package PDF**.
 
 ---
 
-<h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>
+<h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>  
+
+Download this 📄 [**W7 Script Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
+
+> For script info and a sample annotated script, refer to [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"}  
+
+Your script must:
+- Be **1 minute in duration**
+- Include **one or two scenes maximum**
+- Use proper **slugline format** (INT./EXT. – LOCATION – TIME OF DAY)
+- Contain **250–400 words total** (for the entire document)
+- Be written in **present tense**
+- Describe **clear physical action only**
+- Include transitions only if necessary  
+
+A new scene is required only if there is:
+- A change in location/space  
+- A change in time (e.g., morning → night, “later”)  
+Continuous movement within the same space counts as **one scene**.  
+
+➡️ Save the completed template as: `Lastname_Firstname_Script.pdf`    
 
 ---
 
