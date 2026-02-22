@@ -149,11 +149,50 @@ A transition indicates movement between scenes or the ending of a sequence.
 
 ---
 
-### 2. **Visual Script (Action Only)**  
+### **Visual Script (Action Only)**  
+
+This is the body of your screenplay, describing:
+- Physical behavior  
+- Movement  
+- Interaction with objects  
+- Spatial relationships  
+- Environmental details that affect action  
+
+Visual Script Formula:  
+**Character + Clear Physical Action + Environmental Context**
+> A [character] performs [specific physical action] in [location], revealing emotion through behavior.
+
+Writing Guidelines: 
+- Present tense only  
+- Short paragraphs  
+- Clear physical detail  
+- No camera directions  
+- One contained emotional shift  
+
+#### Example (from *WALL·E*, opening pages)
+
+The early script describes action like this:
+- A vast landscape of trash.
+- A small robot methodically stacking cubes.
+- Silence, dust, mechanical movement.
+Emotion is conveyed through repetition and behavior — not through explanation.  
+
+🔗 [WALL·E – Full Script (IMSDB)](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}  
 
 ---
 
+### How Scripts Are Used in the Film Industry
 
+In professional filmmaking, scripts are used to:  
+- Organize production
+- Plan scheduling and locations
+- Coordinate departments (camera, sound, lighting, art)
+- Communicate vision to cast and crew
+
+If the script is unclear, production becomes chaotic.  
+If the script is precise, production becomes efficient.  
+
+<h2 style="color: darkred;"> Annotated Storyboard </h2>   
 
 
 ________________________________________________________________________
