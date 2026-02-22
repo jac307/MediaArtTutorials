@@ -74,10 +74,9 @@ Your script must:
 - Be **1 minute in duration**
 - Include **one or two scenes maximum**
 - Use proper **slugline format** (INT./EXT. – LOCATION – TIME OF DAY)
-- Contain **250–400 words total** (for the entire document)
-- Be written in **present tense**
+- Include **transitions** 
 - Describe **clear physical action only**
-- Include transitions only if necessary  
+- Contain **250–400 words total** (for the entire document)
 
 This script will guide:
 - Your storyboard  
