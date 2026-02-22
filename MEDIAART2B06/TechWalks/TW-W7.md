@@ -56,28 +56,104 @@ The **logline** must be **clear statement of the story in motion**.
 
 In professional contexts, loglines are used to:
 
-- Pitch a film to producers or funding bodies  
-- Present a project in festivals and markets  
-- Quickly communicate the concept to collaborators  
-- Introduce the project in production meetings  
-- Appear in press kits and catalog descriptions
-
-Industry professionals often decide whether to read a full script based on the strength of the logline.  
+- Present a project in festivals    
+- Introduce the project in production meetings
+- Pitch a film to producers
+  > Industry professionals often decide whether to read a full script based on the strength of the logline.   
 
 For industry examples of feature film loglines, you can browse this curated IMDb list:  
 🔗 <a href="https://www.imdb.com/list/ls533728711/" target="_blank">Movie Logline Examples for Screenwriters (IMDb)</a>  
 > Review these examples to identify structural patterns (character, action, stakes, shift), but remember: **your one-minute short should remain contained, focused, and realistically shootable**.
 
-
 ---
 
 <h2 style="color: darkred;"> Script </h2>  
 
-A **logline** is a singl
+A # Week 7 — Tech Walkthrough  
+## Writing the Visual Script (No Dialogue)
+
+---
+
+A script is a **production document** that translates your logline into clear, shootable action. A visual script describes:
+- Where the scene takes place  
+- What physically happens  
+- How action unfolds over time  
+
+For this project, your script must communicate a complete one-minute visual event using only behavior and environment with the followin structure:  
+1. **Slugline** or Scene Heading
+2. **Visual Script (Action Only)**
+3. **Transitions (if needed)**  
+
+---
+
+### 1. **Slugline** or Scene Heading  
+
+Each change in space is marked with a new slugline.  
+
+Slugline Formula:  
+**INT./EXT. + Specific Location + Time of Day**  
+> INT. CLASSROOM – NIGHT
+> EXT. BUS STOP – LATE AFTERNOON  
+> INT. DORM ROOM – EARLY MORNING  
+
+A new scene is required only if there is:  
+- A change in location/space    
+- A change in time (morning → night, “later”)    
+- A shift from INT. to EXT.  
+Continuous movement within the same space **does not** create a new scene.  
+
+> e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes)  
+<img src="imgs/88.png" style="width: 80%; height: auto;">    
+
+---
+
+### **Transitions (if needed)**
+
+---
+
+### 2. **Visual Script (Action Only)**  
+
+---
+
+
+1. **Slugline** or Scene Heading
+  INT./EXT. + Specific Location + Time of Day
+  > *INT. CLASSROOM – NIGHT*  
+  > *EXT. BUS STOP – LATE AFTERNOON*  
+  > *INT. DORM ROOM – EARLY MORNING* 
+
+2. **Visual Script (Action Only)**
+   This is the body of your screenplay. It describes:
+   - Physical behavior
+   - Movement
+   - Interaction with objects
+   - Spatial relationships
+   - Environmental details that affect action
+
+4. **Transitions (if needed)**
+
+Maximum: **One or two scenes only**
+
+---
+
+# 1. Slugline
+
+### What Is a Slugline?
+
+A slugline identifies:
+
+- Interior or exterior  
+- Specific location  
+- Time of day  
+
+It signals the start of a new scene.
+
+### Format
+
 
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
-AI tools (Microsoft CoPilot and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
+AI tools (ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
