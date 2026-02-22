@@ -79,10 +79,11 @@ Your script must:
 - Describe **clear physical action only**
 - Include transitions only if necessary  
 
-A new scene is required only if there is:
-- A change in location/space  
-- A change in time (e.g., morning → night, “later”)  
-Continuous movement within the same space counts as **one scene**.  
+This script will guide:
+- Your storyboard  
+- Your shot planning  
+- Your equipment list  
+- Your production schedule  
 
 ➡️ Save the completed template as: `Lastname_Firstname_Script.pdf`    
 
