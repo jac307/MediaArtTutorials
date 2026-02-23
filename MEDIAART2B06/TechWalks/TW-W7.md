@@ -207,6 +207,10 @@ An annotated storyboard translates your script into a **visual production plan**
 This document connects:  
 Script → Camera → Lighting → Sound → Production Schedule   
 
+> e.g. *Parasite*, directed by Bong Joon-ho.    
+<img src="imgs/95.jpg" style="width: 80%; height: auto;">
+> 🔗 [46 Storyboard Examples from Movies, Animation, and Games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}  
+
 ---
 
 ### Structure of an Annotated Storyboard  
