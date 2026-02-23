@@ -52,21 +52,6 @@ The **logline** must be **clear statement of the story in motion**.
 
 ---
 
-### How Loglines Are Used in the Film Industry
-
-In professional contexts, loglines are used to:
-
-- Present a project in festivals    
-- Introduce the project in production meetings
-- Pitch a film to producers
-  > Industry professionals often decide whether to read a full script based on the strength of the logline.   
-
-For industry examples of feature film loglines, you can browse this curated IMDb list:  
-🔗 <a href="https://www.imdb.com/list/ls533728711/" target="_blank">Movie Logline Examples for Screenwriters (IMDb)</a>  
-> Review these examples to identify structural patterns (character, action, stakes, shift), but remember: **your one-minute short should remain contained, focused, and realistically shootable**.
-
----
-
 <h2 style="color: darkred;"> Script </h2>   
 
 A script is a **production document** that translates your logline into clear, shootable action. A visual script describes:
@@ -178,19 +163,6 @@ The early script describes action like this:
 Emotion is conveyed through repetition and behavior — not through explanation.  
 
 🔗 [WALL·E – Full Script (IMSDB)](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}  
-
----
-
-### How Scripts Are Used in the Film Industry
-
-In professional filmmaking, scripts are used to:  
-- Organize production
-- Plan scheduling and locations
-- Coordinate departments (camera, sound, lighting, art)
-- Communicate vision to cast and crew
-
-If the script is unclear, production becomes chaotic.  
-If the script is precise, production becomes efficient.  
 
 ---
 
@@ -474,45 +446,16 @@ Be realistic with available equipment. Options:
 
 #### Sound Plan  
 
-Indicate:
-
+Indicate:  
 - Diegetic sound (within the world)
 - Non-diegetic sound (music, sound design)
 - Ambient tone
-- Specific sound cues
+- Specific sound cues / foley
 
 Example:
-> Ambient room tone + distant hallway footsteps.
+> * Ambient room tone + distant hallway footsteps.*
 
 Sound should reinforce the emotional arc.   
-
----
-
-# How Storyboards Are Used in the Film Industry
-
-In professional filmmaking, storyboards are used to:
-
-- Pre-visualize sequences
-- Plan lighting setups
-- Coordinate camera departments
-- Estimate shooting time
-- Avoid unnecessary coverage
-- Communicate vision to crew
-
-Directors, cinematographers, and production designers rely on storyboards to:
-
-- Solve problems before shooting
-- Control pacing
-- Reduce production costs
-- Maintain visual coherence
-
-For your project, the storyboard ensures:
-
-- Your shoot stays efficient
-- Lighting resets are minimized
-- Camera choices are intentional
-- Editing becomes easier
-
 
 
 ________________________________________________________________________
