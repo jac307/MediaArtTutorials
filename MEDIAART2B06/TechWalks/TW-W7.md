@@ -393,7 +393,7 @@ Types of Sounds:
     <br>e.g. <em>Jump</em> by Adrian León
     <br><em>On-screen cellphone vibrates and rings sharply, cutting through the steady night's tone.</em></p>
     <video controls style="width: 100%; height: auto;">
-     <source src="imgs/120.mp4" type="video/mp4">
+     <source src="imgs/121.mp4" type="video/mp4">
     </video> 
     
   </div>
@@ -412,9 +412,9 @@ Types of Sounds:
     <h4>Ambience</h4>
     <p><strong>Continuous, underlying background noise of a location (wind, crowd chatter, traffic.)</strong>
     <br>e.g. <em>Jump</em> by Adrian León
-    <br><em>Park ambience: wind through trees, distant birds (slightly elevated in volume). Natural ambience contrasts with the character’s energetic movement</em></p>
+    <br><em>Park ambience: wind through trees, distant birds. Natural ambience contrasts with the character’s energetic movement</em></p>
     <video controls style="width: 100%; height: auto;">
-     <source src="imgs/121.mp4" type="video/mp4">
+     <source src="imgs/120.mp4" type="video/mp4">
     </video> 
 
   </div>
