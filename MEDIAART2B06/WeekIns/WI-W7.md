@@ -145,7 +145,95 @@ Available equipment:
 
 ---
 
-<h2 id="homework" style="color: darkred;">Homework: Location Scouting, Equipment List, & Production Schedule</h2>
+<h2 id="homework" style="color: darkred;">Homework: Location Scouting, Equipment List, & Production Schedule</h2>  
+
+### Location Scouting (1–2 Locations Maximum)  
+
+ou must identify and document the location(s) where you will film.
+
+Maximum: **1–3 locations**  
+(One or two strongly recommended.)
+
+For each location, include:
+
+- **Location Description**  
+  (Indoor / Outdoor / Building name / Specific room or space / Floor)
+
+- **One General Photo of the Location**  
+  (Clear, wide image showing the space you will use)
+
+- **Lighting Conditions**  
+  - Natural light (window direction, strength, time of day)  
+  - Practical lights (lamps, overhead lights)  
+  - Existing color temperature (daylight / tungsten)  
+  - Any limitations (low light, mixed lighting, no outlets, etc.)
+
+- **Sound Environment**  
+  - Quiet / Echo / Controlled  
+  - Foot traffic  
+  - HVAC noise  
+  - Street noise  
+  - Any predictable interruptions  
+
+Your location must be realistic and accessible on your planned shoot date.
+
+Do not choose a space you cannot secure or control.
+
+---
+
+### Equipment List  
+
+List all equipment required for your production.
+
+Include:
+
+- **Camera**
+- **Lenses**
+- **Tripod or stabilization**
+- **Lighting equipment**
+- **Light modifiers (reflector, diffusion, etc.)**
+- **Sound equipment (mic type, recorder, boom, etc.)**
+
+Your equipment list must match your storyboard.
+
+If your storyboard includes a dolly movement, your equipment list must include a booked dolly.
+
+If your lighting plan includes three lights, they must appear on your list.
+
+Be specific.  
+Do not write “camera” or “lights” — identify the actual equipment.
+
+---
+
+### Production Schedule  
+
+You must create a realistic and detailed production plan.
+
+Include:
+
+- **Shoot Date(s)**
+- **Time Window** (start and end time)
+- **Location(s)**
+- **Estimated Time Per Shot or Sequence**
+- **Buffer Time** (minimum 20–30 minutes recommended)
+
+Example structure:
+
+- 10:00–10:20 → Setup & Lighting  
+- 10:20–10:40 → Shot 1–2  
+- 10:40–11:00 → Shot 3–4  
+- 11:00–11:20 → Buffer / Reset  
+
+Your schedule should reflect:
+
+- Lighting reset time
+- Equipment setup time
+- Actor preparation
+- Unexpected delays
+
+If your schedule looks unrealistic, your production will be unrealistic.
+
+Plan conservatively.
 
 ---
 
@@ -165,55 +253,14 @@ Available equipment:
 **File name:**  
 `Lastname_Firstname_PreProductionPackage.pdf`  
 
-Create a single document with the following sections:  
+Create a single document with the following parts:  
 
-### 1. Micro-Treatment
-- Title (working)  
-- Logline (1 sentence)  
-- Emotional Trajectory (beginning → shift → ending, bullet form)  
-
-### 2. Script (250–400 words)
-A visual script (no dialogue) including:
-- Scene Heading (Slugline)  
-- Action Lines (clear visual description only)  
-- Transitions  
-
-### 3. Annotated Storyboard (6–10 Frames)
-Each frame must include:
-- Shot number  
-- Simple drawing (stick figures acceptable) with camera movement (if any) indicated visually (arrows or motion lines)  
-- One sentence describing the action  
-- Estimated duration (e.g., 5 seconds)  
-- Specific shot type (EWS, MS, MCU, OTS, etc.)  
-- Camera angle (eye-level, high angle, low angle, overhead, etc.)  
-- Camera movement (static, pan, tilt, handheld, tracking, etc.)  
-- Lighting plan  
-- Sound plan (diegetic / non-diegetic notes)  
-- Equipment needed  
-
-### 4. Location Scouting (1–3 locations)
-For each location, include:
-- Location (Indoor / Outdoor / Building / Specific Space / Floor)  
-- General photo of the location  
-- Lighting conditions (natural light, practical lights, time of day)  
-- Sound environment (quiet, echo, foot traffic, ambient noise)  
-
-### 5. Equipment List
-Include all required:
-- Camera  
-- Lenses  
-- Tripods  
-- Lighting equipment  
-- Sound equipment  
-
-### 6. Production Schedule
-
-- Shoot date(s)  
-- Time window  
-- Location(s)  
-- Estimated time per shot or sequence  
-- Buffer time
-
+1. **Micro-Treatment** (use template)
+2. **Script** (use template)
+3. **Annotated Storyboard** (6–10 Frames - use template)
+4. **Location Scouting** (1–2 locations - use template)
+5. **Equipment List** (use template)
+6. **Production Schedule** (use template)
 
 ________________________________________________________________________
 
