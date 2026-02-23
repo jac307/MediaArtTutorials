@@ -84,7 +84,7 @@ Create a one-page document that includes:
 
 <h2 id="script" style="color: darkred;">Activity 2: Script [30m]</h2>  
 
-Download this 📄 [**W7 Script Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
+Download the 📄 [**W7 Script Template**](imgs/Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
 
 > For detailed guidance on formatting, structure, scene headings, transitions, and visual writing strategies, refer to the    
 [**Week 7 - Pre-Production Framework: Script**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"}  
@@ -113,7 +113,7 @@ This script will guide:
 
 <h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [1h]</h2>  
 
-Download this 📄 <a href="Script_Template.pdf" target="_blank"><strong>W7 Annotated Storyboard Template</strong></a> and complete all required sections directly in that document.  
+Download the 📄 <a href="imgs/Annotated_Storyboard_Template.pdf" target="_blank"><strong>W7 Annotated Storyboard Template</strong></a> and complete all required sections directly in that document.  
 
 > For detailed guidance on shot structure, framing, camera movement, lighting and sound planning, refer to the    
 [**Week 7 - Pre-Production Framework: Annotated Storyboard**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"}  
@@ -171,7 +171,7 @@ Available equipment:
 
 ### Location Scouting (1–2 Locations Maximum)  
 
-Download this 📄 [**W7 Location Scouting Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
+Download this 📄 [**W7 Location Scouting Template**](imgs/Location_Scouting_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
 
 > For detailed guidance on evaluating spaces, assessing lighting and sound conditions, and aligning locations with your production plan, refer to the    
 [**Week 7 - Pre-Production Framework: Location Scouting**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"}  
