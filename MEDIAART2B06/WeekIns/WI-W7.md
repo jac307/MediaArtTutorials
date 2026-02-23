@@ -154,9 +154,9 @@ For Each Shot, You Must Complete:
 - Artistic drawing skill is not graded — clarity is.
 
 Available equipment:
-+ <a href="Cameras.md" target="_blank">../DSLR Cameras + Lenses</a>  
-+ <a href="Lighting.md" target="_blank">../Lighting Equipment</a>  
-+ <a href="Audio.md" target="_blank">../Audio Equipment</a>  
+- [DSLR Cameras + Lenses](../Cameras.md){:target="_blank"}
+- [Lighting Equipment](../Lighting.md){:target="_blank"}
+- [Audio Equipment](../Audio.md){:target="_blank"}  
 
 ➡️ Save the completed template as:    
 `Lastname_Firstname_Storyboard.pdf`    
@@ -217,9 +217,9 @@ Your list must:
   > Do not write “camera” or “lights”  
   > Identify the actual equipment, "Canon T4i" or "Light Kit - Fiilex 360 LED (Large - 3 Lights)".  
 - Be realistic based on available department equipment  
-  > <a href="Cameras.md" target="_blank">../DSLR Cameras + Lenses</a>  
-  > <a href="Lighting.md" target="_blank">../Lighting Equipment</a>  
-  > <a href="Audio.md" target="_blank">../Audio Equipment</a>    
+  > [DSLR Cameras + Lenses](../Cameras.md){:target="_blank"}
+  > [Lighting Equipment](../Lighting.md){:target="_blank"}
+  > [Audio Equipment](../Audio.md){:target="_blank"}   
 
 ➡️ Save the completed document as:  
 `Lastname_Firstname_EquipmentList.pdf`  
