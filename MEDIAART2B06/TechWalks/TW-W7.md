@@ -102,15 +102,15 @@ A transition indicates movement between scenes or the ending of a sequence.
   <div style="width: 50%;">
 
     <h4>Fade In / Fade Out</h4>
-    <p><em>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT). Often used at the beginning or end of a film, or to signal closure.</em></p>
+    <p>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT). Often used at the beginning or end of a film, or to signal closure</p>
     <img src="imgs/89.gif" style="width: 100%; height: auto;">
 
     <h4>Cut To</h4>
-    <p><em>An immediate change from one shot or scene to another. This is the most common and neutral transition.</em></p>
+    <p>An immediate change from one shot or scene to another. This is the most common and neutral transition.</p>
     <img src="imgs/90.gif" style="width: 100%; height: auto;">
 
     <h4>Dissolve (Cross-Dissolve)</h4>
-    <p><em>One image gradually blends into another. Often used to suggest the passage of time or a soft emotional shift.</em></p>
+    <p>One image gradually blends into another. Often used to suggest the passage of time or a soft emotional shift.</p>
     <img src="imgs/91.gif" style="width: 100%; height: auto;">
 
   </div>
@@ -119,15 +119,15 @@ A transition indicates movement between scenes or the ending of a sequence.
   <div style="width: 50%;">
 
     <h4>Hard Cut</h4>
-    <p><em>An abrupt, sharp cut with no visual or sound smoothing. Can create tension, surprise, or emphasis.</em></p>
+    <p>An abrupt, sharp cut with no visual or sound smoothing. Can create tension, surprise, or emphasis</p>
     <img src="imgs/92.gif" style="width: 100%; height: auto;">
 
     <h4>Jump Cut</h4>
-    <p><em>A cut within the same shot that creates a visible “jump” in time. Often used to compress time or create unease.</em></p>
+    <p>A cut within the same shot that creates a visible “jump” in time. Often used to compress time or create unease.</p>
     <img src="imgs/93.gif" style="width: 100%; height: auto;">
 
     <h4>Match Cut</h4>
-    <p><em>A cut that connects two shots through similar composition, movement, or action. Creates visual continuity or symbolic connection between moments.</em></p>
+    <p>A cut that connects two shots through similar composition, movement, or action. Creates visual continuity or symbolic connection between moments.</p>
     <img src="imgs/94.gif" style="width: 100%; height: auto;">
 
   </div>
@@ -147,66 +147,44 @@ This is the body of your screenplay, describing:
 
 Visual Script Formula:  
 **Character + Clear Physical Action + Environmental Context**
-> A [character] performs [specific physical action] in [location], revealing emotion through behavior.
+> A [character] performs [specific physical action] in [location], revealing emotion through behavior.  
 
-Writing Guidelines: 
-- Present tense only  
-- Short paragraphs  
-- Clear physical detail  
-- No camera directions  
-- One contained emotional shift  
+#### Example: *WALL·E* - Script written by Andrew Stanton & Pete Docter
 
-#### Example (from *WALL·E*, opening pages)
-
-The early script describes action like this:
-- A vast landscape of trash.
-- A small robot methodically stacking cubes.
-- Silence, dust, mechanical movement.
-Emotion is conveyed through repetition and behavior — not through explanation.  
-
-🔗 [WALL·E – Full Script (IMSDB)](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}  
+The early script describes action like this:  
+- *A vast landscape of trash.*  
+- *A small robot methodically stacking cubes.*  
+- *Silence, dust, mechanical movement.*  
+🔗 [WALL·E – Full Script (IMSDB)](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}    
 
 ---
 
 <h2 id="storyboard" style="color: darkred;"> Annotated Storyboard </h2>   
 
-An annotated storyboard translates your script into a **visual production plan**, answering:   
-- What will the camera see?
-- How will the camera frame it?
-- How long will it last?
-- How will it be lit?
-- What sound will be present?
-- What equipment is required?
-
-This document connects:  
-Script → Camera → Lighting → Sound → Production Schedule   
-
-> <img src="imgs/95.jpg" style="width: 80%; height: auto;">    
-> e.g. *Parasite*, directed by Bong Joon-ho.    
-
-🔗 [46 Storyboard Examples from Movies, Animation, and Games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}  
-
----
-
-### Structure of an Annotated Storyboard  
-
-A storyboard is divided into shots.  
-A shot is one continuous recording from the moment you press record to the moment you stop. A new shot occurs when:
+An annotated storyboard translates your script into a **visual production plan**.   
+  
+A storyboard is divided into shots. A new shot occurs when:  
 - You change framing  
 - You change camera angle  
 - You change camera position
-  
-Each shot must include the following components:  
 
-- **Shot #**   
-- **Estimated Duration**    
-- **Shot Type**    
-- **Camera Angle**    
-- **Camera Movement**    
-- **One-Sentence Action Description**  
-- **Lighting Plan**    
-- **Sound Plan**    
-- **Equipment Needed**
+### Structure
+
+1. **Shot #**
+2. **Estimated Duration**
+3. **Shot Type**
+4. **Camera Angle**
+5. **Camera Movement**
+6. **One-Sentence Action Description**
+7. **Lighting Plan**
+8. **Sound Plan**
+9. **Equipment Needed**
+
+### Example: *Parasite* - Directed by Bong Joon-ho
+
+> <img src="imgs/95.jpg" style="width: 80%; height: auto;">    
+
+🔗 [46 Storyboard Examples from Movies, Animation, and Games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}  
 
 ---  
 
