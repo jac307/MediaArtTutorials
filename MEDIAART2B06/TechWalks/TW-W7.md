@@ -458,7 +458,20 @@ Sound should reinforce the emotional arc.
 
 <h2 style="color: darkred;"> Location Scouting </h2>   
 
-An annotated storyboard 
+**Location scouting** is the process of selecting and evaluating the physical space where your film will be shot.  
+
+It is not simply “choosing a place.” It involves assessing whether a location is:  
+- Visually appropriate for your story  
+- Practically accessible  
+- Realistic for lighting  
+- Suitable for recording sound  
+- Logistically manageable within your schedule  
+
+Location scouting bridges your **storyboard** and your **production reality**.   
+
+---
+
+
 
 
 ________________________________________________________________________
