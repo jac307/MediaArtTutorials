@@ -197,52 +197,40 @@ Shot types indicate the **camera’s distance** from the subject, shaping how mu
   <!-- LEFT COLUMN -->
   <div style="width: 50%;">
 
+    <h4>WLS - Wide/Long Shot</h4>
+    <p><strong>Captures a subject from a significant distance</strong>
+    <br>e.g. <em>The Jump</em> by Adrian León</p>
+    <img src="imgs/103.jpg" style="width: 100%; height: auto;">
+    
     <h4>FS - Full Shot</h4>
     <p><strong>Subject fully framed</strong>
-    <br>e.g. <em>Alone</em> by Shane P. Liao
-    <br><em>LS of a woman lying on a mattress in a small bedroom to emphasize isolation within the surrounding space.</em></p>
+    <br>e.g. <em>Alone</em> by Shane P. Liao</p>
     <img src="imgs/96.jpg" style="width: 100%; height: auto;">
 
     <h4>MWS - Medium Wide Shot</h4>
     <p><strong>Knees up</strong>
-    <br>e.g. <em>suitcase</em> by Visuall kris
-    <br><em>MWS of a man walking through an urban park to emphasize movement through public space.</em></p>
+    <br>e.g. <em>suitcase</em> by Visuall kris</p>
     <img src="imgs/97.jpg" style="width: 100%; height: auto;">
-
-    <h4>MS - Medium Shot</h4>
-    <p><strong>Waist up</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin
-    <br><em>MS of a woman seated at a table near a window to balance character presence with environmental context.</em></p>
-    <img src="imgs/98.jpg" style="width: 100%; height: auto;">
-
-    <h4>Frame within a frame</h4>
-    <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
-    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka
-    <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
-    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
 
   <!-- RIGHT COLUMN -->
   <div style="width: 50%;">
 
+    <h4>MS - Medium Shot</h4>
+    <p><strong>Waist up</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p>
+    <img src="imgs/98.jpg" style="width: 100%; height: auto;">
+    
     <h4>MCU - Medium Close-Up</h4>
     <p><strong>Chest/shoulders up</strong>
-    <br>e.g. <em>PAREIDOLIA</em> by Carlos Andrés Reyes
-    <br><em>MCU of a man in a suit to highlight subtle facial expression and internal emotional conflict.</em></p>
+    <br>e.g. <em>PAREIDOLIA</em> by Carlos Andrés Reyes</p>
     <img src="imgs/99.jpg" style="width: 100%; height: auto;">
     
     <h4>CU - Close Up</h4>
     <p><strong>Face or object fills frame</strong>
-    <br>e.g. <em>Alone</em> by Shane P. Liao
-    <br><em>CU of a woman’s face lying on a pillow to emphasize emotional vulnerability and intimate interior space.</em></p>
+    <br>e.g. <em>Alone</em> by Shane P. Liao</p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
-
-    <h4>OTS - Over-the-Shoulder</h4>
-    <p><strong>Shot from behind one character toward another</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
-    <br><em>OTS of a woman crying into another person’s shoulder to emphasize emotional intensity in response to devastating news.</em></p>
-    <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
 
   </div>
 
@@ -261,21 +249,27 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
 
     <h4>Eye-Level</h4>
     <p><strong>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
-    <br><em>Info</em></p>
-    <img src="imgs/103.gif" style="width: 100%; height: auto;">
-
-    <h4>High Angle</h4>
-    <p><strong>The camera looks down on the subject - suggest vulnerability, isolation, smallness, or lack of control.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
     <br><em>Info</em></p>
     <img src="imgs/104.gif" style="width: 100%; height: auto;">
 
-    <h4>Low Angle</h4>
-    <p><strong>The camera looks up at the subject - suggest dominance, power, authority, or psychological weight.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <h4>High Angle</h4>
+    <p><strong>The camera looks down on the subject - suggest vulnerability, isolation, smallness, or lack of control.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
     <br><em>Info</em></p>
     <img src="imgs/105.gif" style="width: 100%; height: auto;">
+
+    <h4>Low Angle</h4>
+    <p><strong>The camera looks up at the subject - suggest dominance, power, authority, or psychological weight.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <br><em>Info</em></p>
+    <img src="imgs/106.gif" style="width: 100%; height: auto;">
+
+    <h4>Frame within a frame</h4>
+    <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
+    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p>
+    <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
+    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
 
@@ -286,19 +280,18 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
     <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
     <br><em>Info</em></p>
-    <img src="imgs/106.gif" style="width: 100%; height: auto;">
+    <img src="imgs/103.gif" style="width: 100%; height: auto;">
 
-    <h4>POV - Point of View</h4>
-    <p><strong>The camera is tilted sideways so the horizon line is not level - creates instability, tension, psychological imbalance, or unease.</strong>
+    <h4>OTS - Over-the-Shoulder</h4>
+    <p><strong>Shot from behind one character toward another character/object</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
-    <br><em>Info</em></p>
-    <img src="imgs/107.gif" style="width: 100%; height: auto;">
+    <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
     
     <h4>Dutch Angle (Tilted Frame)</h4>
     <p><strong>The camera shows what a character is seeing from their visual perspective - creates identification and immersion.</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
     <br><em>Info</em></p>
-    <img src="imgs/108.gif" style="width: 100%; height: auto;">
+    <img src="imgs/104.gif" style="width: 100%; height: auto;">
 
   </div>
 
