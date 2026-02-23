@@ -250,10 +250,6 @@ Shot Type Formula:
     <h4>CU - Close Up</h4>
     <p><em>Face or object fills frame</em></p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
-    
-    <h4>Two Shot</h4>
-    <p><em>Two subjects in frame</em></p>
-    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><em>Shot from behind one character toward another</em></p>
