@@ -239,14 +239,51 @@ Shot Type Formula:
 **Distance from subject + framing purpose**   
 > e.g. CU of hand gripping notebook to emphasize tension.
 
-Standard shot scale terminology:  
+<div style="display: flex; gap: 2rem; width: 100%;">
 
-- EWS — Extreme Wide Shot
-- WS — Wide Shot
-- MS — Medium Shot
-- MCU — Medium Close-Up
-- CU — Close-Up
-- OTS — Over-the-Shoulder
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>LS - Long Shot</h4>
+    <p><em>Subject fully framed</em></p>
+    <img src="imgs/96.gif" style="width: 100%; height: auto;">
+
+    <h4>MWS - Medium Wide Shot</h4>
+    <p><em>Knees up</em></p>
+    <img src="imgs/97.gif" style="width: 100%; height: auto;">
+
+    <h4>MS - Medium Shot</h4>
+    <p><em>Waist up</em></p>
+    <img src="imgs/98.gif" style="width: 100%; height: auto;">
+
+    <h4>MCU - Medium Close-Up</h4>
+    <p><em>Chest/shoulders up</em></p>
+    <img src="imgs/99.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>CU - Close Up</h4>
+    <p><em>Face or object fills frame</em></p>
+    <img src="imgs/100.gif" style="width: 100%; height: auto;">
+
+    <h4>ECU - Extreme Close-Up</h4>
+    <p><em>Very tight detail (eyes, hand, object texture)</em></p>
+    <img src="imgs/101.gif" style="width: 100%; height: auto;">
+    
+    <h4>Two Shot</h4>
+    <p><em>Two subjects in frame</em></p>
+    <img src="imgs/102.gif" style="width: 100%; height: auto;">
+
+    <h4>OTS - Over-the-Shoulder</h4>
+    <p><em>Shot from behind one character toward another</em></p>
+    <img src="imgs/103.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+</div>  
 
 ---  
 
