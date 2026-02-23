@@ -66,6 +66,12 @@ Series of hands-on production exercises designed to **build core skills** in cam
 Students will produce a **one-minute, no-dialogue short film** using professional production equipment and industry-standard post-production workflows. The final work must demonstrate a **polished visual style, intentional cinematography, and a multi-layered sound design**.
 
 This project synthesizes the technical and creative skills developed in Module I and applies them within a structured, professional filmmaking process.
+
+#### Index
+
++ W7 — Pre-Production Package
+  + [W7 - Pre-Production Framework](TechWalks/TW-W7.md) - From Concept to Production Plan
+  + [W7 - Tutorials](Tutorials/index.html?file=T-W7.json)
  
 <!--
 #### Index 
