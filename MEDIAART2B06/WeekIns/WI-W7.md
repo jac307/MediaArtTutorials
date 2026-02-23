@@ -207,25 +207,19 @@ For **each location**, include:
 
 ### Equipment List  
 
-List all equipment required for your production.
+List **all equipment required for your production**.  
 
-Include:
+Your list must:
 
-- **Camera**
-- **Lenses**
-- **Tripod or stabilization**
-- **Lighting equipment**
-- **Light modifiers (reflector, diffusion, etc.)**
-- **Sound equipment (mic type, recorder, boom, etc.)**
-
-Your equipment list must match your storyboard.
-
-If your storyboard includes a dolly movement, your equipment list must include a booked dolly.
-
-If your lighting plan includes three lights, they must appear on your list.
-
-Be specific.  
-Do not write “camera” or “lights” — identify the actual equipment.  
+- Match your **Annotated Storyboard**  
+  > Reflect your **Lighting Plan** and **Sound Plan**  
+- **Be specific**  
+  > Do not write “camera” or “lights”  
+  > Identify the actual equipment, "Canon T4i" or "Light Kit - Fiilex 360 LED (Large - 3 Lights)".  
+- Be realistic based on available department equipment  
+  > <a href="Cameras.md" target="_blank">../DSLR Cameras + Lenses</a>  
+  > <a href="Lighting.md" target="_blank">../Lighting Equipment</a>  
+  > <a href="Audio.md" target="_blank">../Audio Equipment</a>    
 
 ➡️ Save the completed document as:  
 `Lastname_Firstname_EquipmentList.pdf`  
@@ -234,33 +228,23 @@ Do not write “camera” or “lights” — identify the actual equipment.
 
 ### Production Schedule  
 
-You must create a realistic and detailed production plan.
+You must create a realistic and detailed production plan.  
+This schedule should clearly show that you understand how long setup, shooting, and resets actually take.
 
 Include:
-
 - **Shoot Date(s)**
 - **Time Window** (start and end time)
 - **Location(s)**
 - **Estimated Time Per Shot or Sequence**
-- **Buffer Time** (minimum 20–30 minutes recommended)
+- **Buffer Time** (minimum 20–30 minutes recommended)  
 
-Example structure:
-
-- 10:00–10:20 → Setup & Lighting  
-- 10:20–10:40 → Shot 1–2  
-- 10:40–11:00 → Shot 3–4  
-- 11:00–11:20 → Buffer / Reset  
-
-Your schedule should reflect:
-
-- Lighting reset time
-- Equipment setup time
-- Actor preparation
-- Unexpected delays
-
-If your schedule looks unrealistic, your production will be unrealistic.
-
-Plan conservatively.
+#### Production Window  
+**Thursday, March 5 – Wednesday, March 11**    
+- There are **no classes on Thursday, March 5**.
+- However, you must schedule and attend a **one-to-one feedback meeting** with the TA or instructor *before recording*.
+- You may not begin filming until your plan has been reviewed.
+- You must complete all filming by March 11.
+- Plan ahead. **Do not wait until the last day to record.**  
 
 ➡️ Save the completed document as:  
 `Lastname_Firstname_Schedule.pdf`  
@@ -276,12 +260,7 @@ Plan conservatively.
 > ⚠️ **Follow the submission protocols carefully.  
 > ⚠️ Incorrect submissions will result in a half-point deduction❗**
 
-### Deliverables — 📦 Pre-Production Package (ZIP)
-
-**File name:**  
-`Lastname_Firstname_PreProductionPackage.zip`  
-
-Create a single document with the following documents:  
+### Deliverables — 📦 Pre-Production Package (ZIP)  
 
 1. **Micro-Treatment**: `Lastname_Firstname_MicroTreatment.pdf`
 2. **Script** (use template): `Lastname_Firstname_Script.pdf`
