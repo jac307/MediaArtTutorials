@@ -250,19 +250,16 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
     <h4>Eye-Level</h4>
     <p><strong>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <br><em>Info</em></p>
     <img src="imgs/104.gif" style="width: 100%; height: auto;">
 
     <h4>High Angle</h4>
     <p><strong>The camera looks down on the subject - suggest vulnerability, isolation, smallness, or lack of control.</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <br><em>Info</em></p>
     <img src="imgs/105.gif" style="width: 100%; height: auto;">
 
     <h4>Low Angle</h4>
     <p><strong>The camera looks up at the subject - suggest dominance, power, authority, or psychological weight.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <br><em>Info</em></p>
+    <br>e.g. <em>Jump</em> by Adrian León</p> 
     <img src="imgs/106.gif" style="width: 100%; height: auto;">
 
     <h4>Frame within a frame</h4>
@@ -278,19 +275,17 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
 
     <h4>Overhead / Bird’s-Eye View</h4>
     <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
-    <br><em>Info</em></p>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
     <img src="imgs/103.gif" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><strong>Shot from behind one character toward another character/object</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
     <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
     
     <h4>Dutch Angle (Tilted Frame)</h4>
     <p><strong>The camera shows what a character is seeing from their visual perspective - creates identification and immersion.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
-    <br><em>Info</em></p>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin </p> 
     <img src="imgs/104.gif" style="width: 100%; height: auto;">
 
   </div>
