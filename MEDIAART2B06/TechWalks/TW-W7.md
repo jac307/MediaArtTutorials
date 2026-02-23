@@ -260,17 +260,21 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
   <div style="width: 50%;">
 
     <h4>Eye-Level</h4>
-    <p>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</p>
+    <p><strong>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br><em>Info</em></p>
     <img src="imgs/103.gif" style="width: 100%; height: auto;">
 
     <h4>High Angle</h4>
-    <p><em>The camera looks down on the subject.
-    <br>Can suggest vulnerability, isolation, smallness, or lack of control.</em></p>
+    <p><strong>The camera looks down on the subject - suggest vulnerability, isolation, smallness, or lack of control.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br><em>Info</em></p>
     <img src="imgs/104.gif" style="width: 100%; height: auto;">
 
     <h4>Low Angle</h4>
-    <p><em>The camera looks up at the subject.
-    <br>Can suggest dominance, power, authority, or psychological weight.</em></p>
+    <p><strong>The camera looks up at the subject - suggest dominance, power, authority, or psychological weight.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br><em>Info</em></p>
     <img src="imgs/105.gif" style="width: 100%; height: auto;">
 
   </div>
@@ -279,18 +283,21 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
   <div style="width: 50%;">
 
     <h4>Overhead / Bird’s-Eye View</h4>
-    <p><em>The camera looks directly down from above.
-    <br>Creates distance, abstraction, or a sense of observation. Often reduces emotional intimacy.</em></p>
+    <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br><em>Info</em></p>
     <img src="imgs/106.gif" style="width: 100%; height: auto;">
 
     <h4>POV - Point of View</h4>
-    <p><em>The camera is tilted sideways so the horizon line is not level.
-    <br>Creates instability, tension, psychological imbalance, or unease.</em></p>
+    <p><strong>The camera is tilted sideways so the horizon line is not level - creates instability, tension, psychological imbalance, or unease.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br><em>Info</em></p>
     <img src="imgs/107.gif" style="width: 100%; height: auto;">
     
     <h4>Dutch Angle (Tilted Frame)</h4>
-    <p><em>The camera shows what a character is seeing from their visual perspective.
-    <br>Creates identification and immersion, allowing the audience to experience the scene through the character’s eyes.</em></p>
+    <p><strong>The camera shows what a character is seeing from their visual perspective - creates identification and immersion.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
+    <br><em>Info</em></p>
     <img src="imgs/108.gif" style="width: 100%; height: auto;">
 
   </div>
