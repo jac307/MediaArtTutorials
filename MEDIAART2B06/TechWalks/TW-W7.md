@@ -361,7 +361,7 @@ Action Formula:
 Lighting should match your script’s mood.   
 > e.g. *Single desk lamp creating isolated pool of light.*
 
-Be realistic with available equipment. Options:  
+Be realistic with available equipment.  
 
 > <img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
@@ -371,16 +371,55 @@ Be realistic with available equipment. Options:
 
 #### Sound Plan  
 
-Indicate:  
-- Diegetic sound (within the world)
-- Non-diegetic sound (music, sound design)
-- Ambient tone
-- Specific sound cues / foley
+The sound plan in a storyboard is **concise and functional**. It identifies the **type of sound**, **its source (on- or off-screen)**, and **its timing in relation to the visual action**.
 
-Example:
-> * Ambient room tone + distant hallway footsteps.*
+Types of Sounds:  
 
-Sound should reinforce the emotional arc.   
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Non-diegetic sound</h4>
+    <p><strong>Audio that exist outside the word of the scene (music, sound design, voiceover)</strong>
+    <br>e.g. <em>suitcase</em> by Visuall kris
+    <br><em>Subtle instrumental underscore. Tension gradually increases, reinforcing the mystery as the camera follows the main character carrying a suitcase.</em></p>
+    <video controls style="width: 100%; height: auto;">
+     <source src="imgs/118.mp4" type="video/mp4">
+    </video> 
+
+    <h4>Specific Sound Cues</h4>
+    <p><strong>Continuous, underlying background noise of a location (wind, crowd chatter, traffic.)</strong>
+    <br>e.g. <em>Jump</em> by Adrian León
+    <br><em>On-screen cellphone vibrates and rings sharply, cutting through the steady night's tone.</em></p>
+    <video controls style="width: 100%; height: auto;">
+     <source src="imgs/120.mp4" type="video/mp4">
+    </video> 
+    
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Diegetic sound</h4>
+    <p><strong>Audio that exists inside the world of the scene. It can be on-screen (visible) or off-screen (not visible).</strong>
+    <br>e.g. <em>Unknown</em> by Akil Joefield
+    <br><em>Continuous rain hitting the window (on-screen). Thunder rumbles off-screen. Occasional lightning flash briefly illuminates the window and interior.</em></p>
+    <video controls style="width: 100%; height: auto;">
+     <source src="imgs/119.mp4" type="video/mp4">
+    </video> 
+
+    <h4>Ambience</h4>
+    <p><strong>Continuous, underlying background noise of a location (wind, crowd chatter, traffic.)</strong>
+    <br>e.g. <em>Jump</em> by Adrian León
+    <br><em>Park ambience: wind through trees, distant birds (slightly elevated in volume). Natural ambience contrasts with the character’s energetic movement</em></p>
+    <video controls style="width: 100%; height: auto;">
+     <source src="imgs/121.mp4" type="video/mp4">
+    </video> 
+
+  </div>
+
+</div>  
 
 ---
 
