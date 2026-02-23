@@ -192,7 +192,22 @@ In professional filmmaking, scripts are used to:
 If the script is unclear, production becomes chaotic.  
 If the script is precise, production becomes efficient.  
 
+---
+
 <h2 style="color: darkred;"> Annotated Storyboard </h2>   
+
+An annotated storyboard translates your script into a **visual production plan**, answering:  
+
+- What will the camera see?
+- How will the camera frame it?
+- How long will it last?
+- How will it be lit?
+- What sound will be present?
+- What equipment is required?
+
+This document connects:  
+Script → Camera → Lighting → Sound → Production Schedule
+
 
 
 ________________________________________________________________________
