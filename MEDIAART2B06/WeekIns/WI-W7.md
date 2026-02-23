@@ -15,7 +15,7 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Activity 1: Logline [25m]</a></li>
+  <li><a href="#logline">Activity 1: Micro-Treatment [30m]</a></li>
   <li><a href="#script">Activity 2: Script [40m]</a></li>
   <li><a href="#storyboard">Activity 3: Annotated Storyboard [1h]</a></li>
   <li><a href="#homework">Homework: Location Scouting, Equipment List, & Production Schedule</a></li>
@@ -24,7 +24,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Logline [25m]</h2>  
+<h2 id="logline" style="color: darkred;">Activity 1: Micro-Treatment [30m]</h2>  
 
 ### Step 1 — Commit to One Idea [10 minutes]
 
@@ -64,6 +64,23 @@ Save your final version for your **Pre-Production Package PDF**.
 
 ---
 
+### Step 4 — Document (5 minutes)
+
+Create a one-page document that includes:
+
+1. **Working Title**
+2. **Author** (your full name)
+3. **Logline** (1 clear sentence)
+4. **Emotional Trajectory**, three bullet-points:  
+   - Beginning  
+   - Shift  
+   - Ending  
+
+➡️ Save the completed document as:  
+`Lastname_Firstname_MicroTreatment.pdf`  
+
+---
+
 <h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>  
 
 Download this 📄 [**W7 Script Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
@@ -84,7 +101,9 @@ This script will guide:
 - Your equipment list  
 - Your production schedule  
 
-➡️ Save the completed template as: `Lastname_Firstname_Script.pdf`    
+
+➡️ Save the completed template as:  
+`Lastname_Firstname_Script.pdf`  
 > You may complete the template digitally or by hand.  
 > If you use the printed version, it must be clearly scanned and compiled into a single PDF before submission.  
 
@@ -139,7 +158,8 @@ Available equipment:
 + <a href="Lighting.md" target="_blank">../Lighting Equipment</a>  
 + <a href="Audio.md" target="_blank">../Audio Equipment</a>  
 
-➡️ Save the completed template as: `Lastname_Firstname_Storyboard.pdf`    
+➡️ Save the completed template as:    
+`Lastname_Firstname_Storyboard.pdf`    
 > You may complete the template digitally or by hand.  
 > If you use the printed version, it must be clearly scanned and compiled into a single PDF before submission.  
 
@@ -241,24 +261,22 @@ Plan conservatively.
 
 | Item                            | Required Filename                             |
 |---------------------------------|-----------------------------------------------|
-| Pre-Production Package (PDF)    | `Lastname_Firstname_PreProductionPackage.pdf` |
+| Pre-Production Package (ZIP)    | `Lastname_Firstname_PreProductionPackage.zip` |
 
 > ⚠️ **Follow the submission protocols carefully.  
 > ⚠️ Incorrect submissions will result in a half-point deduction❗**
 
----
-
-### Deliverables — 📦 Pre-Production Package (PDF)
+### Deliverables — 📦 Pre-Production Package (ZIP)
 
 **File name:**  
-`Lastname_Firstname_PreProductionPackage.pdf`  
+`Lastname_Firstname_PreProductionPackage.zip`  
 
 Create a single document with the following parts:  
 
-1. **Micro-Treatment** (use template)
+1. **Micro-Treatment**
 2. **Script** (use template)
-3. **Annotated Storyboard** (6–10 Frames - use template)
-4. **Location Scouting** (1–2 locations - use template)
+3. **Annotated Storyboard** (use template)
+4. **Location Scouting** (use template)
 5. **Equipment List** (use template)
 6. **Production Schedule** (use template)
 
