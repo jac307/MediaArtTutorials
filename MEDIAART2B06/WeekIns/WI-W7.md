@@ -39,7 +39,8 @@ In bullet points (keep it short), outline:
 
 ### Step 2 — Write 3 Logline Versions [10 minutes]
 
-> For examples of strong and weak loglines, and tips on specificity and visual clarity, refer to the [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline){:target="_blank"}  
+> For detailed guidance, examples of strong and weak loglines, and tips on specificity and visual clarity, refer to the    
+[**Week 7 - Pre-Production Framework: Loglines**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline){:target="_blank"}  
 
 Write **three different versions** of your logline.
 
@@ -85,7 +86,8 @@ Create a one-page document that includes:
 
 Download this 📄 [**W7 Script Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
 
-> For script info and a sample annotated script, refer to [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"}  
+> For detailed guidance on formatting, structure, scene headings, transitions, and visual writing strategies, refer to the    
+[**Week 7 - Pre-Production Framework: Script**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"}  
 
 Your script must:
 - Be **1 minute in duration**
@@ -113,8 +115,8 @@ This script will guide:
 
 Download this 📄 <a href="Script_Template.pdf" target="_blank"><strong>W7 Annotated Storyboard Template</strong></a> and complete all required sections directly in that document.  
 
-> For more information on the annotated storyboard structure and examples, refer to the  
-<a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard" target="_blank"><strong>Week 7 Tech Walkthrough document</strong></a>  
+> For detailed guidance on shot structure, framing, camera movement, lighting and sound planning, refer to the    
+[**Week 7 - Pre-Production Framework: Annotated Storyboard**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"}  
 
 ---
 
@@ -171,7 +173,8 @@ Available equipment:
 
 Download this 📄 [**W7 Location Scouting Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
 
-> For script info and a sample annotated script, refer to [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"}   
+> For detailed guidance on evaluating spaces, assessing lighting and sound conditions, and aligning locations with your production plan, refer to the    
+[**Week 7 - Pre-Production Framework: Location Scouting**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"}  
 
 You may include **1–2 locations maximum**.   
 Choose spaces that are realistic, accessible, and shootable within your schedule.  
