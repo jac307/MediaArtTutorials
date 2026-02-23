@@ -349,7 +349,7 @@ Camera movements indicate **if and how the camera moves during the shot**. You m
 - indicate movement visually using arrows or directional lines.
 - indicate movement in writing using proper terminology.
 
-Movement must be realistic for your equipment. Here are your options:  
+Movement must be realistic for your equipment. Options:   
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
@@ -409,23 +409,66 @@ Action Formula:
 
 ---  
 
-#### Lighting Plan
+#### Lighting Plan  
 
-Indicate:
+Lighting should match your script’s mood.   
+> e.g. *Single desk lamp creating isolated pool of light.*
 
-- Natural light
-- Practical lights (lamps, overheads)
-- Soft key
-- Hard light
-- Direction of light
-- Time of day influence
+Be realistic with available equipment. Options:  
 
-Lighting should match your script’s mood.
+<div style="display: flex; gap: 2rem; width: 100%;">
 
-Example:
-> Single desk lamp creating isolated pool of light.
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
 
-Be realistic with available equipment.
+    <h4>Three-Point Lighting</h4>
+    <p><em>Key Light + Fill Light + Backlight
+    <br>Best for interior narrative scenes, interviews, and lean, neutral compositions.</em></p>
+    <img src="imgs/114.gif" style="width: 100%; height: auto;">
+
+    <h4>Two-Point Lighting</h4>
+    <p><em>Key Light + Fill or Key Light + Backlight
+    <br>Best for dramatic scenes.</em></p>
+    <img src="imgs/115.gif" style="width: 100%; height: auto;">
+
+    <h4>Single-Key Lighting</h4>
+    <p><em>One dominant light source.
+    <br>Best for intimate scenes, focused emotional moments, minimalist aesthetic</em></p>
+    <img src="imgs/116.gif" style="width: 100%; height: auto;">
+
+    <h4>High-Key Lighting</h4>
+    <p><em>Even illumination, low contrast.
+    <br>Best for neutral tone and calm mood</em></p>
+    <img src="imgs/117.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Low-Key Lighting</h4>
+    <p><em>Strong key light with minimal fill
+    <br>Best for tension, isolation, and dramatic mood</em></p>
+    <img src="imgs/114.gif" style="width: 100%; height: auto;">
+
+    <h4>Motivated Lighting</h4>
+    <p><em>Light appears to come from a visible source (lamp, window, screen)
+    <br>Best for narrative scenes, emotional subtlety, and interior environments</em></p>
+    <img src="imgs/115.gif" style="width: 100%; height: auto;">
+
+    <h4>Window Lighting (Natural + Fill)</h4>
+    <p><em>Daylight as key + reflector or LED for fill
+    <br>Best for daytime interiors</em></p>
+    <img src="imgs/116.gif" style="width: 100%; height: auto;">
+
+    <h4>Silhouette Lighting</h4>
+    <p><em>Strong backlight + minimal/no front light
+    <br>Best for symbolic moments, isolation, and visual abstraction</em></p>
+    <img src="imgs/117.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+</div>  
 
 ---  
 
