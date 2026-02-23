@@ -296,11 +296,8 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
 
 #### Camera Movements
 
-Camera movements indicate **if and how the camera moves during the shot**. You must:  
-- indicate movement visually using arrows or directional lines.
-- indicate movement in writing using proper terminology.
-
-Movement must be realistic for your equipment. Options:   
+Camera movements indicate **if and how the camera moves during the shot**.    
+Movement must be realistic for your equipment. Options:      
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
@@ -310,37 +307,37 @@ Movement must be realistic for your equipment. Options:
     <h4>Static</h4>
     <p><em>Camera remains still.
     <br>Most realistic and most controllable. Strongly recommended.</em></p>
-    <img src="imgs/109.gif" style="width: 100%; height: auto;">
-
-    <h4>Pan</h4>
-    <p><em>Camera rotates left or right on a fixed base.
-    <br>Realistic if on a tripod. Simple and effective.</em></p>
-    <img src="imgs/110.gif" style="width: 100%; height: auto;">
-
-    <h4>Tilt</h4>
-    <p><em>Camera moves up or down vertically on a fixed base.
-    <br>Realistic if on a tripod. Keep it slow and intentional.</em></p>
-    <img src="imgs/111.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
+    <img src="imgs/111.gif" style="width: 100%; height: auto;"> 
 
     <h4>Handheld</h4>
     <p><em>Camera is held by hand, creating natural instability.
     <br>Realistic, but must be controlled. Should be motivated, not accidental.</em></p>
     <img src="imgs/112.gif" style="width: 100%; height: auto;">
 
-    <h4>Zoom</h4>
-    <p><em>Lens changes focal length without moving the camera.
-    <br>Technically easy if using kit lenses, but often looks amateur if overused. Use sparingly.</em></p>
-    <img src="imgs/113.gif" style="width: 100%; height: auto;">
-
     <h4>Dolly</h4>
     <p><em>Camera moves forward or backward toward/away from subject.
     <br>⚠️ There are only three dollies available in the department, and they must be booked in advance. Plan accordingly.</em></p>
     <img src="imgs/113.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Pan</h4>
+    <p><em>Camera rotates left or right on a fixed base.
+    <br>Realistic if on a tripod. Simple and effective.</em></p>
+    <img src="imgs/114.gif" style="width: 100%; height: auto;">
+    
+    <h4>Tilt</h4>
+    <p><em>Camera moves up or down vertically on a fixed base.
+    <br>Realistic if on a tripod. Keep it slow and intentional.</em></p>
+    <img src="imgs/115.gif" style="width: 100%; height: auto;">
+
+    <h4>Zoom</h4>
+    <p><em>Lens changes focal length without moving the camera.
+    <br>Technically easy if using kit lenses, but often looks amateur if overused. Use sparingly.</em></p>
+    <img src="imgs/116.gif" style="width: 100%; height: auto;">
 
   </div>
 
