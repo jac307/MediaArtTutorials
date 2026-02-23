@@ -201,25 +201,25 @@ Shot Type Formula:
 
     <h4>FS - Full Shot</h4>
     <p><strong>Subject fully framed</strong>
-    <br>e.g. [Alone by Shane P. Liao]
+    <br>e.g. <em>Alone</em> by Shane P. Liao
     <br><em>LS of a woman lying on a mattress in a small bedroom to emphasize isolation within the surrounding space.</em></p>
     <img src="imgs/96.jpg" style="width: 100%; height: auto;">
 
     <h4>MWS - Medium Wide Shot</h4>
     <p><strong>Knees up</strong>
-    <br>e.g. [suitcase by Visuall kris]
+    <br>e.g. <em>suitcase</em> by Visuall kris
     <br><em>MWS of a man walking through an urban park to emphasize movement through public space.</em></p>
     <img src="imgs/97.jpg" style="width: 100%; height: auto;">
 
     <h4>MS - Medium Shot</h4>
     <p><strong>Waist up</strong>
-    <br>e.g. [For Milo by Matthew D Gilpin]
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin
     <br><em>MS of a woman seated at a table near a window to balance character presence with environmental context.</em></p>
     <img src="imgs/98.jpg" style="width: 100%; height: auto;">
 
     <h4>Frame within a frame</h4>
     <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
-    <br>e.g. [Anonymous Gift by Michael Kitka]
+    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka
     <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
     <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
@@ -230,19 +230,19 @@ Shot Type Formula:
 
     <h4>MCU - Medium Close-Up</h4>
     <p><strong>Chest/shoulders up</strong>
-    <br>e.g. [PAREIDOLIA by Carlos Andrés Reyes]
+    <br>e.g. <em>PAREIDOLIA</em> by Carlos Andrés Reyes
     <br><em>MCU of a man in a suit to highlight subtle facial expression and internal emotional conflict.</em></p>
     <img src="imgs/99.jpg" style="width: 100%; height: auto;">
     
     <h4>CU - Close Up</h4>
     <p><strong>Face or object fills frame</strong>
-    <br>e.g. [Alone by Shane P. Liao]
+    <br>e.g. <em>Alone</em> by Shane P. Liao
     <br><em>CU of a woman’s face lying on a pillow to emphasize emotional vulnerability and intimate interior space.</em></p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><strong>Shot from behind one character toward another</strong>
-    <br>e.g. [For Milo by Matthew D Gilpin] 
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin 
     <br><em>OTS of a woman crying into another person’s shoulder to emphasize emotional intensity in response to devastating news.</em></p>
     <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
 
@@ -262,8 +262,7 @@ Camera angles indicate the camera’s vertical relationship to the subject, affe
   <div style="width: 50%;">
 
     <h4>Eye-Level</h4>
-    <p><em>The camera is positioned at the subject’s eye height.
-    <br>Creates neutrality and realism. The viewer feels present but not manipulated.</em></p>
+    <p>The camera is positioned at the subject’s eye height. Creates neutrality and realism.</p>
     <img src="imgs/103.gif" style="width: 100%; height: auto;">
 
     <h4>High Angle</h4>
