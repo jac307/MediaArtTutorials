@@ -84,11 +84,12 @@ A new scene is required only if there is:
 - A change in location/space    
 - A change in time (morning → night, “later”)    
 - A shift from INT. to EXT.  
+  
 Continuous movement within the same space **does not** create a new scene.  
 
 ---
 
-### **Transitions (if needed)**  
+### **Transitions**  
 
 A transition indicates movement between scenes or the ending of a sequence.  
 > In a one-minute film, transitions should be minimal.
@@ -100,15 +101,15 @@ A transition indicates movement between scenes or the ending of a sequence.
   <!-- LEFT COLUMN -->
   <div style="width: 50%;">
 
-    <h4>FADE IN / FADE OUT</h4>
+    <h4>Fade In / Fade Out</h4>
     <p><em>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT). Often used at the beginning or end of a film, or to signal closure.</em></p>
     <img src="imgs/89.gif" style="width: 100%; height: auto;">
 
-    <h4>CUT TO</h4>
+    <h4>Cut To</h4>
     <p><em>An immediate change from one shot or scene to another. This is the most common and neutral transition.</em></p>
     <img src="imgs/90.gif" style="width: 100%; height: auto;">
 
-    <h4>DISSOLVE (CROSS-DISSOLVE)</h4>
+    <h4>Dissolve (Cross-Dissolve)</h4>
     <p><em>One image gradually blends into another. Often used to suggest the passage of time or a soft emotional shift.</em></p>
     <img src="imgs/91.gif" style="width: 100%; height: auto;">
 
@@ -117,15 +118,15 @@ A transition indicates movement between scenes or the ending of a sequence.
   <!-- RIGHT COLUMN -->
   <div style="width: 50%;">
 
-    <h4>HARD CUT</h4>
+    <h4>Hard Cut</h4>
     <p><em>An abrupt, sharp cut with no visual or sound smoothing. Can create tension, surprise, or emphasis.</em></p>
     <img src="imgs/92.gif" style="width: 100%; height: auto;">
 
-    <h4>JUMP CUT</h4>
+    <h4>Jump Cut</h4>
     <p><em>A cut within the same shot that creates a visible “jump” in time. Often used to compress time or create unease.</em></p>
     <img src="imgs/93.gif" style="width: 100%; height: auto;">
 
-    <h4>MATCH CUT</h4>
+    <h4>Match Cut</h4>
     <p><em>A cut that connects two shots through similar composition, movement, or action. Creates visual continuity or symbolic connection between moments.</em></p>
     <img src="imgs/94.gif" style="width: 100%; height: auto;">
 
