@@ -212,6 +212,12 @@ Shot types indicate the **camera’s distance** from the subject, shaping how mu
     <br>e.g. <em>suitcase</em> by Visuall kris</p>
     <img src="imgs/97.jpg" style="width: 100%; height: auto;">
 
+    <h4>Frame within a frame</h4>
+    <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
+    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p>
+    <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
+    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
+
   </div>
 
   <!-- RIGHT COLUMN -->
@@ -250,43 +256,37 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
     <h4>Eye-Level</h4>
     <p><strong>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/104.gif" style="width: 100%; height: auto;">
-
-    <h4>High Angle</h4>
-    <p><strong>The camera looks down on the subject - suggest vulnerability, isolation, smallness, or lack of control.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/105.gif" style="width: 100%; height: auto;">
+    <img src="imgs/104.jpg" style="width: 100%; height: auto;">
 
     <h4>Low Angle</h4>
     <p><strong>The camera looks up at the subject - suggest dominance, power, authority, or psychological weight.</strong>
     <br>e.g. <em>Jump</em> by Adrian León</p> 
-    <img src="imgs/106.gif" style="width: 100%; height: auto;">
+    <img src="imgs/106.jpg" style="width: 100%; height: auto;">
 
-    <h4>Frame within a frame</h4>
-    <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
-    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p>
-    <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
-    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
+    <h4>Overhead / Bird’s-Eye View</h4>
+    <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <img src="imgs/107.jpg" style="width: 100%; height: auto;">
 
   </div>
 
   <!-- RIGHT COLUMN -->
   <div style="width: 50%;">
 
-    <h4>Overhead / Bird’s-Eye View</h4>
-    <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/103.gif" style="width: 100%; height: auto;">
-
     <h4>OTS - Over-the-Shoulder</h4>
     <p><strong>Shot from behind one character toward another character/object</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
+    <img src="imgs/108.jpg" style="width: 100%; height: auto;">  
     
     <h4>Dutch Angle (Tilted Frame)</h4>
     <p><strong>The camera shows what a character is seeing from their visual perspective - creates identification and immersion.</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin </p> 
-    <img src="imgs/104.gif" style="width: 100%; height: auto;">
+    <img src="imgs/109.jpg" style="width: 100%; height: auto;">
+
+    <h4>POV - Point of View</h4>
+    <p><strong>Shot from behind one character toward another character/object</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <img src="imgs/110.jpg" style="width: 100%; height: auto;"> 
 
   </div>
 
