@@ -26,9 +26,10 @@ Software (freeware):
 + [Week 5](WT-W5.md) — Lighting as Spatial Transformation
 + [Week 6](WT-W6.md) — Lighting as Temporal Transformation
   + [W6: Technical Walkthrough Activity](TW-W6.md) — Designing Lighting Cues
++ [Week 7](WT-W7.md) — Sound as Temporal Structure
 
 <!--
-+ [Week 7](WT-W7.md) — Sound cue map (beats, dynamics, transitions)
+
 + [Week 8](WT-W8.md) — Spatial sound diagrams
 + [Week 9](WT-W9.md) — Cue script: map sound → light → camera events
 + [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
