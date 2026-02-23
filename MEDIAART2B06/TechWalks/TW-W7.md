@@ -454,6 +454,12 @@ Example:
 
 Sound should reinforce the emotional arc.   
 
+---
+
+<h2 style="color: darkred;"> Location Scouting </h2>   
+
+An annotated storyboard 
+
 
 ________________________________________________________________________
 
