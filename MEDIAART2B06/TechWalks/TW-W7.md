@@ -363,7 +363,7 @@ Lighting should match your script’s mood.
 
 Be realistic with available equipment.  
 
-> <img src="imgs/117.jpg" style="width: 100%; height: auto;">    
+<img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
 🔗 [24 Portrait Character Lighting Setups](https://medium.com/@sukeshgtambi/24-portrait-character-lighting-setups-photography-cinematography-bdd7a967407c){:target="_blank"}  
 
