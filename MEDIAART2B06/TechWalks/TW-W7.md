@@ -32,21 +32,21 @@ A **logline** is a single-sentence summary that **captures the core dramatic act
 
 
 2. **Moment-Based Progression**  
-  As [character performs ongoing action], [emotional shift occurs].
+  As [character performs ongoing action], [emotional shift occurs].  
   
   > e.g. [*Groundhog Day*, Director:  Harold Ramis]
   > *A narcissistic, self-centered and frustrated weatherman finds himself caught in a time warp loop on Groundhog Day, where he wakes up every morning having to face the same day again and again*.  
   > **Compressed to 1-minute scale:** As a man relives the same morning routine again, his frustration slowly turns into desperation.  
 
 3. **Situation + Small Change**  
-  In [specific situation], a [character] experiences [shift] while [visible action].
+  In [specific situation], a [character] experiences [shift] while [visible action].  
   
   > e.g. [*Before Sunrise*, Director:  Richard Linklater]
   > *A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together*.  
   > **Compressed to 1-minute scale:** In a train compartment, two strangers sit in silence, gradually becoming aware of one another through small gestures.  
 
 4. **Object-Focused**  
-  A [character] interacts with [object] in [location], revealing [emotional shift].
+  A [character] interacts with [object] in [location], revealing [emotional shift].  
   
   > e.g. [*WALL·E*, Director:  Andrew Stanton]
   > *A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind*.  
@@ -61,9 +61,9 @@ A **logline** is a single-sentence summary that **captures the core dramatic act
 A script is a **production document** that translates your logline into clear, shootable action.   
 
 For this project, your script must communicate a complete one-minute visual event using only behavior and environment with the followin structure:  
-1. **Slugline** or Scene Heading
-2. **Visual Script (Action Only)**
-3. **Transitions (if needed)**
+1. **Slugline** or **Scene Heading**
+2. **Visual Script**
+3. **Transitions**
 
 > <img src="imgs/88.jpeg" style="width: 80%; height: auto;">     
 > e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes) 
