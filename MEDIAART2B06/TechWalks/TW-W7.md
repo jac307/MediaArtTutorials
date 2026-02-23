@@ -26,10 +26,10 @@ A **logline** is a single-sentence summary that **captures the core dramatic act
 
 1. **Character + Simple Action + Emotional Shift**  
   A [character] [performs a clear physical action] in [specific location], leading to [emotional change].
+  
   > e.g. [*Rear Window*, Director: Alfred Hitchcock]
   > *A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder*.  
   > **Compressed to 1-minute scale:** A photographer confined to his apartment watches his neighbors through a window and slowly becomes convinced something is wrong.  
-
 
 2. **Moment-Based Progression**  
   As [character performs ongoing action], [emotional shift occurs].  
