@@ -440,81 +440,25 @@ Location scouting bridges your **storyboard** and your **production reality**.
 
 ## Location Scouting Structure  
 
-The following sections reflect what you are required to complete in the **Location Scouting Template**. These categories are also aligned with how location documents function in professional productions.
-
 ### 1. Location Identification  
 
-This section clearly defines the space and confirms it is realistically available.
-
-You must identify:
-
-- Indoor or Outdoor  
-- Building name  
-- Specific space (room / area / floor)  
-
-This ensures the location is precise and shootable.
-
-> In professional productions, this section also includes full addresses, access instructions, contact information, permits, and logistical notes (loading access, parking, security, etc.).
-
----
+This section specifies the exact filming location. It identifies whether the space is indoor or outdoor, names the building, and indicates the precise room, area, or floor to be used. Its purpose is to confirm that the location is real and accessible rather than conceptual or hypothetical.   
 
 ### 2. General Photo of Location  
 
-You must include one wide photo of the space you plan to use.
-
-The photo should:
-- Show the full layout  
-- Indicate depth and usable framing space  
-- Reveal existing light sources  
-
-This image functions as a production reference.
-
-> In professional location scouting documents, photos also identify potential camera positions, lighting placement areas, sound setup zones, ceiling height, and spatial limitations.
-
----
+This section includes clear photo(s) of the actual filming space. The images show the full layout, depth of the room, and available framing space. They allow viewers to understand spatial dimensions and how the camera, actors, and equipment can realistically be positioned.  
 
 ### 3. Lighting Conditions  
 
-This section evaluates whether the space supports your intended visual outcome.
-
-You must assess:
-
-- Natural light source (direction / intensity)  
-- Planned time of day  
-- Existing practical lights (lamps / overhead / fluorescent)  
-- Color temperature (daylight / tungsten / mixed / unknown)  
-- Limitations (low light, mixed lighting, no outlets, etc.)  
-
-Your lighting assessment should directly connect to your storyboard lighting plan.
-
----
+This section outlines the existing lighting conditions and evaluates whether they support the intended visual outcome. It identifies natural light sources (direction and intensity), planned time of day, existing practical lights, general colour temperature (daylight, tungsten, mixed, or unknown), and any limitations such as low light, mixed sources, or limited access to power.  
 
 ### 4. Sound Environment  
 
-This section evaluates whether clean production sound is realistically achievable.
-
-You must assess:
-
-- General sound level (quiet / moderate / loud)  
-- Foot traffic / public activity  
-- Mechanical noise (appliances, HVAC, electronics)  
-- External noise (street, wind, campus activity)  
-
-If sound conditions are difficult, you must adjust your plan accordingly.
-
----
+This section describes the acoustic conditions of the location and assesses whether clean production sound is achievable. It indicates general noise levels and identifies potential disturbances such as foot traffic, appliances, HVAC systems, street noise, wind, or public activity.  
 
 ### 5. Accessibility & Control  
 
-This confirms whether you can realistically execute your production in the space.
-
-You must indicate:
-
-- Do you have permission to film here?  
-- Can you control lighting?  
-- Can you control sound?  
-
-> In professional productions, this section may also include safety concerns, scheduling restrictions, insurance requirements, and backup options.
+This section confirms whether the production can realistically be executed in the space. It states whether filming permission has been obtained and whether lighting and sound can be controlled during production.
 
 ________________________________________________________________________
 
