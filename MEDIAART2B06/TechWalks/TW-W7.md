@@ -238,15 +238,19 @@ Shot Type Formula:
     <p><em>Waist up</em></p>
     <img src="imgs/98.jpg" style="width: 100%; height: auto;">
 
-    <h4>MCU - Medium Close-Up</h4>
-    <p><em>Chest/shoulders up</em></p>
-    <img src="imgs/99.jpg" style="width: 100%; height: auto;">
+    <h4>Frame within a frame</h4>
+    <p><em>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</em></p>
+    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
 
   <!-- RIGHT COLUMN -->
   <div style="width: 50%;">
 
+    <h4>MCU - Medium Close-Up</h4>
+    <p><em>Chest/shoulders up</em></p>
+    <img src="imgs/99.jpg" style="width: 100%; height: auto;">
+    
     <h4>CU - Close Up</h4>
     <p><em>Face or object fills frame</em></p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
@@ -254,10 +258,6 @@ Shot Type Formula:
     <h4>OTS - Over-the-Shoulder</h4>
     <p><em>Shot from behind one character toward another</em></p>
     <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
-
-    <h4>Frame within a frame</h4>
-    <p><em>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</em></p>
-    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
 
