@@ -363,59 +363,9 @@ Lighting should match your script’s mood.
 
 Be realistic with available equipment. Options:  
 
-<div style="display: flex; gap: 2rem; width: 100%;">
+> <img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Three-Point Lighting</h4>
-    <p><em>Key Light + Fill Light + Backlight
-    <br>Best for interior narrative scenes.</em></p>
-    <img src="imgs/118.jpg" style="width: 100%; height: auto;">
-
-    <h4>Single-Key Lighting</h4>
-    <p><em>One dominant light source.
-    <br>Best for intimate scenes, focused emotional moments, minimalist aesthetic</em></p>
-    <img src="imgs/119.jpg" style="width: 100%; height: auto;">
-
-    <h4>High-Key Lighting</h4>
-    <p><em>Even illumination, low contrast.
-    <br>Best for neutral tone and calm mood</em></p>
-    <img src="imgs/120.jpg" style="width: 100%; height: auto;">
-
-    <h4>Window Lighting (Natural + Fill)</h4>
-    <p><em>Daylight as key + reflector or LED for fill
-    <br>Best for daytime interiors</em></p>
-    <img src="imgs/121.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Two-Point Lighting</h4>
-    <p><em>Key Light + Fill or Key Light + Backlight
-    <br>Best for dramatic scenes.</em></p>
-    <img src="imgs/122.jpg" style="width: 100%; height: auto;">
-
-    <h4>Motivated Lighting</h4>
-    <p><em>Light appears to come from a visible source (lamp, window, screen)
-    <br>Best for narrative scenes, emotional subtlety, and interior environments</em></p>
-    <img src="imgs/123.jpg" style="width: 100%; height: auto;">
-  
-    <h4>Low-Key Lighting</h4>
-    <p><em>Strong key light with minimal fill
-    <br>Best for tension, isolation, and dramatic mood</em></p>
-    <img src="imgs/124.jpg" style="width: 100%; height: auto;">
-
-    <h4>Silhouette Lighting</h4>
-    <p><em>Strong backlight + minimal/no front light
-    <br>Best for symbolic moments, isolation, and visual abstraction</em></p>
-    <img src="imgs/125.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>  
+🔗 [24 Portrait Character Lighting Setups](https://medium.com/@sukeshgtambi/24-portrait-character-lighting-setups-photography-cinematography-bdd7a967407c){:target="_blank"}  
 
 ---  
 
