@@ -215,7 +215,6 @@ Shot types indicate the **camera’s distance** from the subject, shaping how mu
     <h4>Frame within a frame</h4>
     <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
     <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p>
-    <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
     <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
