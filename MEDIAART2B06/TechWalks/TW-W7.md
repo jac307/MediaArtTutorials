@@ -228,19 +228,19 @@ Shot Type Formula:
 
     <h4>FS - Full Shot</h4>
     <p><em>Subject fully framed</em></p>
-    <img src="imgs/96.gif" style="width: 100%; height: auto;">
+    <img src="imgs/96.jpg" style="width: 100%; height: auto;">
 
     <h4>MWS - Medium Wide Shot</h4>
     <p><em>Knees up</em></p>
-    <img src="imgs/97.gif" style="width: 100%; height: auto;">
+    <img src="imgs/97.jpg" style="width: 100%; height: auto;">
 
     <h4>MS - Medium Shot</h4>
     <p><em>Waist up</em></p>
-    <img src="imgs/98.gif" style="width: 100%; height: auto;">
+    <img src="imgs/98.jpg" style="width: 100%; height: auto;">
 
     <h4>MCU - Medium Close-Up</h4>
     <p><em>Chest/shoulders up</em></p>
-    <img src="imgs/99.gif" style="width: 100%; height: auto;">
+    <img src="imgs/99.jpg" style="width: 100%; height: auto;">
 
   </div>
 
@@ -249,19 +249,19 @@ Shot Type Formula:
 
     <h4>CU - Close Up</h4>
     <p><em>Face or object fills frame</em></p>
-    <img src="imgs/100.gif" style="width: 100%; height: auto;">
-
-    <h4>ECU - Extreme Close-Up</h4>
-    <p><em>Very tight detail (eyes, hand, object texture)</em></p>
-    <img src="imgs/101.gif" style="width: 100%; height: auto;">
+    <img src="imgs/100.jpg" style="width: 100%; height: auto;">
     
     <h4>Two Shot</h4>
     <p><em>Two subjects in frame</em></p>
-    <img src="imgs/102.gif" style="width: 100%; height: auto;">
+    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><em>Shot from behind one character toward another</em></p>
-    <img src="imgs/103.gif" style="width: 100%; height: auto;">
+    <img src="imgs/103.jpg" style="width: 100%; height: auto;">  
+
+    <h4>Frame within a frame</h4>
+    <p><em>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</em></p>
+    <img src="imgs/101.jpg" style="width: 100%; height: auto;">
 
   </div>
 
