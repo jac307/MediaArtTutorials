@@ -108,14 +108,23 @@ Download this 📄 <a href="Script_Template.pdf" target="_blank"><strong>W7 Anno
 
 For Each Shot, You Must Complete:  
 - **Shot #**
-- **Estimated Duration (in seconds)**
-- **Shot Type** (EWS, WS, MS, MCU, CU, OTS, etc.)
-- **Camera Angle** (eye-level, high angle, low angle, overhead, etc.)
-- **Camera Movement** (static, pan, tilt, handheld, tracking, etc.)
+  > Sequential number following the order of your script 
+- **Estimated Duration**
+  > Second / Total time should be 60 seconds
+- **Shot Type**
+  > LS, MWS, MS, MCU, CU, ECU, Two Shot, OTS
+- **Camera Angle**
+  > Eye-Level, High Angle, Low Angle, Overhead, POV, Dutch Angle
+- **Camera Movement**
+  > Static, Pan, Tilt, Handheld, Zoom, Dolly
 - **One-Sentence Action Description**
+  > Write one clear sentence describing what happens in the shot. 
 - **Lighting Plan**
+  > Three-Point Lighting, Two-Point Lighting, Single-Key Lighting, High-Key Lighting, Low-Key Lighting, Motivated Lighting, Window Lighting, Silhouette Lighting
 - **Sound Plan**
+  > Diegetic sound, Non-diegetic sound, Ambient tone, Specific sound cues / foley
 - **Equipment Needed**
+  > general equipment needed per shot: lens, tripod, mic, light, reflector, etc.
 
 ### Important Guidelines
 
