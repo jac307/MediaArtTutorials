@@ -72,10 +72,7 @@ Create a one-page document that includes:
 1. **Working Title**
 2. **Author** (your full name)
 3. **Logline** (1 clear sentence)
-4. **Emotional Trajectory**, three bullet-points:  
-   - Beginning  
-   - Shift  
-   - Ending  
+4. **Emotional Trajectory**, three bullet-points: Beginning, Shift, Ending.    
 
 ➡️ Save the completed document as:  
 `Lastname_Firstname_MicroTreatment.pdf`  
@@ -92,7 +89,7 @@ Download the 📄 [**W7 Script Template**](imgs/Script_Template.pdf){:target="_b
 Your script must:
 - Be **1 minute in duration**
 - Include **one or two scenes maximum**
-- Use proper **slugline format** (INT./EXT. – LOCATION – TIME OF DAY)
+- Use proper **slugline format**
 - Include **transitions** 
 - Describe **clear physical action only**
 - Contain **250–400 words total** (for the entire document)
@@ -138,7 +135,7 @@ For Each Shot (6-10), You Must Complete:
 - **Sound Plan**
   > Diegetic sound, Non-diegetic sound, Ambient tone, Specific sound cues / foley
 - **Equipment Needed**
-  > general equipment needed per shot: lens, tripod, mic, light, reflector, etc.
+  > General equipment needed per shot: lens, tripod, mic, light, reflector, etc.
 
 ---
 
@@ -177,26 +174,15 @@ Choose spaces that are realistic, accessible, and shootable within your schedule
 For **each location**, include:
 
 1. **Location Identification**
-   - Indoor / Outdoor
-   - Building Name
-   - Specific Space (Room / Area / Floor)
+   > Indoor / Outdoor,  Building Name, Specific Space
 2. **General Photo of Location**
-   - Wide photo showing the full space you plan to use
+   > Wide photo showing the full space you plan to use
 3. **Lighting Conditions**
-   - Natural Light Source (windows direction / intensity)
-   - Time of Day Planned
-   - Existing Practical Lights (lamps / overhead / fluorescent)
-   - Color Temperature (Daylight / Tungsten / Mixed / Unknown)
-   - Limitations (low light, mixed lighting, no outlets, etc.)
+   > Natural Light Source, Time of Day Planned, Existing Practical Lights, Color Temperature, Limitations
 4. **Sound Environment**
-   - General Sound Level (Quiet / Moderate / Loud)
-   - Foot Traffic / Public Activity
-   - Mechanical Noise (household appliances, TVs, etc.)
-   - External Noise (street / wind / campus activity)
+   > General Sound Level, Foot Traffic / Public Activity, Mechanical Noise, External Noise
 5. **Accessibility & Control**
-   - Do you have permission to film here?
-   - Can you control lighting?
-   - Can you control sound?
+   > Do you have permission to film here? Can you control lighting? Can you control sound?
 
 ➡️ Save the completed template as:  
 `Lastname_Firstname_LocationScouting.pdf`  
