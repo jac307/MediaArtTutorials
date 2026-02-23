@@ -201,22 +201,26 @@ Shot Type Formula:
 
     <h4>FS - Full Shot</h4>
     <p><strong>Subject fully framed.</strong>
-    <br><em>e.g. LS of a woman lying on a mattress in a small bedroom to emphasize isolation within the surrounding space.</em></p>
+    <br>e.g. [Alone by Shane P. Liao]
+    <br><em>LS of a woman lying on a mattress in a small bedroom to emphasize isolation within the surrounding space.</em></p>
     <img src="imgs/96.jpg" style="width: 100%; height: auto;">
 
     <h4>MWS - Medium Wide Shot</h4>
     <p><strong>Knees up.</strong>
-    <br><em>e.g. MWS of a man walking through an urban park to emphasize movement through public space.</em></p>
+    <br>e.g. [suitcase by Visuall kris]
+    <br><em>MWS of a man walking through an urban park to emphasize movement through public space.</em></p>
     <img src="imgs/97.jpg" style="width: 100%; height: auto;">
 
     <h4>MS - Medium Shot</h4>
     <p><strong>Waist up.</strong>
-    <br><em>e.g. MS of a woman seated at a table near a window to balance character presence with environmental context.</em></p>
+    <br>e.g. [For Milo by Matthew D Gilpin]
+    <br><em>MS of a woman seated at a table near a window to balance character presence with environmental context.</em></p>
     <img src="imgs/98.jpg" style="width: 100%; height: auto;">
 
     <h4>Frame within a frame</h4>
     <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame.</strong>
-    <br><em>e.g. Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
+    <br>e.g. [Anonymous Gift by Michael Kitka]
+    <br><em>Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
     <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
@@ -226,17 +230,20 @@ Shot Type Formula:
 
     <h4>MCU - Medium Close-Up</h4>
     <p>Chest/shoulders up
-    <br><em>e.g. MCU of a man in a suit to highlight subtle facial expression and internal emotional conflict.</em></p>
+    <br>e.g. [PAREIDOLIA by Carlos Andrés Reyes]
+    <br><em>MCU of a man in a suit to highlight subtle facial expression and internal emotional conflict.</em></p>
     <img src="imgs/99.jpg" style="width: 100%; height: auto;">
     
     <h4>CU - Close Up</h4>
     <p><strong>Face or object fills frame.</strong>
-    <br><em>e.g. CU of a woman’s face lying on a pillow to emphasize emotional vulnerability and intimate interior space.</em></p>
+    <br>e.g. [Alone by Shane P. Liao]
+    <br><em>CU of a woman’s face lying on a pillow to emphasize emotional vulnerability and intimate interior space.</em></p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><strong>Shot from behind one character toward another.</strong>
-    <br><em>e.g. OTS of a woman crying into another person’s shoulder to emphasize emotional intensity in response to devastating news.</em></p>
+    <br>e.g. [For Milo by Matthew D Gilpin] 
+    <br><em>OTS of a woman crying into another person’s shoulder to emphasize emotional intensity in response to devastating news.</em></p>
     <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
 
   </div>
