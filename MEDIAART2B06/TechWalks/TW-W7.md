@@ -227,12 +227,12 @@ Shot Type Formula:
   <div style="width: 50%;">
 
     <h4>FS - Full Shot</h4>
-    <p><em><strong>Subject fully framed<./strong>
+    <p><em><strong>Subject fully framed.</strong>
     <br>e.g. LS of a woman lying on a mattress in a small bedroom to emphasize isolation within the surrounding space.</em></p>
     <img src="imgs/96.jpg" style="width: 100%; height: auto;">
 
-    <h4>MWS - Medium Wide Shot.</h4>
-    <p><em><strong>Knees up</strong>
+    <h4>MWS - Medium Wide Shot</h4>
+    <p><em><strong>Knees up.</strong>
     <br>e.g. MWS of a man walking through an urban park to emphasize movement through public space.</em></p>
     <img src="imgs/97.jpg" style="width: 100%; height: auto;">
 
