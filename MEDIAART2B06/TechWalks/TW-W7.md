@@ -20,15 +20,7 @@ This document guides you from concept to executable production plan supporting t
 
 <h2 id="logline" style="color: darkred;"> Logline </h2>  
 
-A **logline** is a single-sentence summary of your film that clearly states:  
-- Who the story follows  
-- What happens  
-- What changes  
-
-It captures the core dramatic action and emotional shift of the film in the most concise way possible.  
-The **logline** must be **clear statement of the story in motion**.  
-
----
+A **logline** is a single-sentence summary that **captures the core dramatic action and emotional shift** of the film in the most concise way possible.  
 
 ### Logline Formulas for a 1-Minute Short
 
