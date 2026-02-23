@@ -120,14 +120,7 @@ Download the 📄 <a href="imgs/Annotated_Storyboard_Template.pdf" target="_blan
 
 ---
 
-### Shot Requirements
-
-- Include **6–10 shots total**
- > 7–8 shots are recommended for a balanced one-minute film
-- Shots must follow the order of your script
-- Total estimated duration across all shots must equal approximately **60 seconds**
-
-For Each Shot, You Must Complete:  
+For Each Shot (6-10), You Must Complete:  
 - **Shot #**
   > Sequential number following the order of your script 
 - **Estimated Duration**
@@ -146,6 +139,8 @@ For Each Shot, You Must Complete:
   > Diegetic sound, Non-diegetic sound, Ambient tone, Specific sound cues / foley
 - **Equipment Needed**
   > general equipment needed per shot: lens, tripod, mic, light, reflector, etc.
+
+---
 
 ### Important Guidelines
 
