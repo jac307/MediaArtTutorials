@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">W7 - Pre-Production Package</h1>  
 
-Plan a one-minute, no-dialogue short film, creating a pre-production package that translates your visual concept into a realistic production plan.
+**Plan a one-minute, no-dialogue short film**, creating a pre-production package that translates your visual concept into a realistic production plan.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
