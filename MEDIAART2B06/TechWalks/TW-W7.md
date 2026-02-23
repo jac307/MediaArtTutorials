@@ -226,7 +226,6 @@ Each shot must include the following components:
 - **Camera Angle**    
 - **Camera Movement**    
 - **One-Sentence Action Description**  
-  > Clear physical action only — no interpretation  
 - **Lighting Plan**    
 - **Sound Plan**    
 - **Equipment Needed**
@@ -234,23 +233,142 @@ Each shot must include the following components:
 
 ---  
 
-#### Shot Types 
+#### Shot Types   
+
+Shot Type Formula:   
+**Distance from subject + framing purpose**   
+> e.g. CU of hand gripping notebook to emphasize tension.
+
+Standard shot scale terminology:  
+
+- EWS — Extreme Wide Shot
+- WS — Wide Shot
+- MS — Medium Shot
+- MCU — Medium Close-Up
+- CU — Close-Up
+- OTS — Over-the-Shoulder
 
 ---  
 
 #### Camera Angles 
 
+ndicate the camera’s vertical relationship to the subject:
+
+- Eye-level
+- High angle
+- Low angle
+- Overhead
+- Dutch tilt (if justified)
+
+Angle affects meaning.
+
+Example:
+> Low angle can make a subject feel dominant.  
+> High angle can create vulnerability.
+
 ---  
 
 #### Camera Movements
+
+Indicate if the camera moves:
+
+- Static
+- Pan
+- Tilt
+- Handheld
+- Tracking
+- Dolly
+
+Movement must be realistic for your equipment.
+
+If you do not have a dolly, do not plan a dolly shot.
+
+Movement should serve the emotional shift.
+
+---  
+
+#### One-Sentence Action Description
+
+Write one clear sentence describing what happens in the shot.
+
+No interpretation.
+
+Instead of:
+> She feels anxious.
+
+Write:
+> She taps her pencil repeatedly and avoids eye contact with the paper.
+
+### Action Formula
+
+**Subject + Physical Action + Relevant Object/Environment**
+
+Keep it concise and visual.
+
 
 ---  
 
 #### Lighting Plan
 
+Indicate:
+
+- Natural light
+- Practical lights (lamps, overheads)
+- Soft key
+- Hard light
+- Direction of light
+- Time of day influence
+
+Lighting should match your script’s mood.
+
+Example:
+> Single desk lamp creating isolated pool of light.
+
+Be realistic with available equipment.
+
 ---  
 
-#### Sound Plan
+#### Sound Plan  
+
+Indicate:
+
+- Diegetic sound (within the world)
+- Non-diegetic sound (music, sound design)
+- Ambient tone
+- Specific sound cues
+
+Example:
+> Ambient room tone + distant hallway footsteps.
+
+Sound should reinforce the emotional arc.   
+
+---
+
+# How Storyboards Are Used in the Film Industry
+
+In professional filmmaking, storyboards are used to:
+
+- Pre-visualize sequences
+- Plan lighting setups
+- Coordinate camera departments
+- Estimate shooting time
+- Avoid unnecessary coverage
+- Communicate vision to crew
+
+Directors, cinematographers, and production designers rely on storyboards to:
+
+- Solve problems before shooting
+- Control pacing
+- Reduce production costs
+- Maintain visual coherence
+
+For your project, the storyboard ensures:
+
+- Your shoot stays efficient
+- Lighting resets are minimized
+- Camera choices are intentional
+- Editing becomes easier
+
 
 
 ________________________________________________________________________
