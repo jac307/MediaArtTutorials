@@ -16,7 +16,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 <ul>
   <li><a href="#logline">Activity 1: Micro-Treatment [30m]</a></li>
-  <li><a href="#script">Activity 2: Script [40m]</a></li>
+  <li><a href="#script">Activity 2: Script [30m]</a></li>
   <li><a href="#storyboard">Activity 3: Annotated Storyboard [1h]</a></li>
   <li><a href="#homework">Homework: Location Scouting, Equipment List, & Production Schedule</a></li>
   <li><a href="#submission">📤 Submission</a></li>
@@ -82,7 +82,7 @@ Create a one-page document that includes:
 
 ---
 
-<h2 id="script" style="color: darkred;">Activity 2: Script [40m]</h2>  
+<h2 id="script" style="color: darkred;">Activity 2: Script [30m]</h2>  
 
 Download this 📄 [**W7 Script Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
 
