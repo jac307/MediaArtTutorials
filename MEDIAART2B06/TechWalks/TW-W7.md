@@ -227,19 +227,23 @@ Shot Type Formula:
   <div style="width: 50%;">
 
     <h4>FS - Full Shot</h4>
-    <p><em>Subject fully framed</em></p>
+    <p><em>Subject fully framed.
+    <br>e.g. LS of a woman lying on a mattress in a small bedroom to emphasize isolation within the surrounding space.</em></p>
     <img src="imgs/96.jpg" style="width: 100%; height: auto;">
 
     <h4>MWS - Medium Wide Shot</h4>
-    <p><em>Knees up</em></p>
+    <p><em>Knees up.
+    <br>e.g. MWS of a man walking through an urban park to emphasize movement through public space.</em></p>
     <img src="imgs/97.jpg" style="width: 100%; height: auto;">
 
     <h4>MS - Medium Shot</h4>
-    <p><em>Waist up</em></p>
+    <p><em>Waist up.
+    <br>e.g. MS of a woman seated at a table near a window to balance character presence with environmental context.</em></p>
     <img src="imgs/98.jpg" style="width: 100%; height: auto;">
 
     <h4>Frame within a frame</h4>
-    <p><em>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</em></p>
+    <p><em>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame.
+    <br>e.g. Frame withing a frame: CU through a narrow opening to create surveillance tension and restricted perspective.</em></p>
     <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
@@ -248,15 +252,18 @@ Shot Type Formula:
   <div style="width: 50%;">
 
     <h4>MCU - Medium Close-Up</h4>
-    <p><em>Chest/shoulders up</em></p>
+    <p><em>Chest/shoulders up.
+    <br>e.g. MCU of a man in a suit to highlight subtle facial expression and internal emotional conflict.</em></p>
     <img src="imgs/99.jpg" style="width: 100%; height: auto;">
     
     <h4>CU - Close Up</h4>
-    <p><em>Face or object fills frame</em></p>
+    <p><em>Face or object fills frame.
+    <br>e.g. CU of a woman’s face lying on a pillow to emphasize emotional vulnerability and intimate interior space.</em></p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
-    <p><em>Shot from behind one character toward another</em></p>
+    <p><em>Shot from behind one character toward another.
+    <br>e.g. OTS of a woman crying into another person’s shoulder to emphasize emotional intensity in response to devastating news.</em></p>
     <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
 
   </div>
