@@ -2,12 +2,13 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W7 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">name?</h2>
+<h1 style="color: darkred;">W7 — Pre-Production Framework</h1>
+<h2 style="color: darkred;">From Concept to Production Plan</h2>
 
 ## Objective
 
-Complete
+Develop a complete and realistic pre-production plan for your 1-minute, no-dialogue short film.  
+This document guides you from concept to executable production plan.  
 
 ---
 
