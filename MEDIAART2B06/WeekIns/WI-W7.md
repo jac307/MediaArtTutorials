@@ -170,7 +170,6 @@ Create a single document with the following sections:
 ### 1. Micro-Treatment
 - Title (working)  
 - Logline (1 sentence)  
-- POV (1 short paragraph)  
 - Emotional Trajectory (beginning → shift → ending, bullet form)  
 
 ### 2. Script (250–400 words)
