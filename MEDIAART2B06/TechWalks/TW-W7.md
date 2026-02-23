@@ -242,7 +242,7 @@ Each shot must include the following components:
 
 Shot Type Formula:   
 **Distance from subject + framing purpose**   
-> e.g. CU of hand gripping notebook to emphasize tension.
+> e.g. *CU of hand gripping notebook to emphasize tension.*
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
@@ -400,22 +400,12 @@ Movement must be realistic for your equipment. Here are your options:
 
 #### One-Sentence Action Description
 
-Write one clear sentence describing what happens in the shot.
+Write one clear sentence describing what happens in the shot.  
+Keep it concise and visual.  
 
-No interpretation.
-
-Instead of:
-> She feels anxious.
-
-Write:
-> She taps her pencil repeatedly and avoids eye contact with the paper.
-
-### Action Formula
-
-**Subject + Physical Action + Relevant Object/Environment**
-
-Keep it concise and visual.
-
+Action Formula:   
+**Subject + Physical Action + Relevant Object/Environment**  
+> e.g. *She taps her pencil repeatedly and avoids eye contact with the paper.*   
 
 ---  
 
