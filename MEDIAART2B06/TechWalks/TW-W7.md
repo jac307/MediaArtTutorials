@@ -306,17 +306,17 @@ Movement must be realistic for your equipment. Options:
 
     <h4>Static</h4>
     <p><em>Camera remains still.
-    <br>Most realistic and most controllable. Strongly recommended.</em></p>
+    <br>Most realistic and most controllable.</em></p>
     <img src="imgs/111.gif" style="width: 100%; height: auto;"> 
 
     <h4>Handheld</h4>
     <p><em>Camera is held by hand, creating natural instability.
-    <br>Realistic, but must be controlled. Should be motivated, not accidental.</em></p>
+    <br>Realistic, but must be controlled.</em></p>
     <img src="imgs/112.gif" style="width: 100%; height: auto;">
 
     <h4>Dolly</h4>
     <p><em>Camera moves forward or backward toward/away from subject.
-    <br>⚠️ There are only three dollies available in the department, and they must be booked in advance. Plan accordingly.</em></p>
+    <br>⚠️ There are only three dollies available to book.</em></p>
     <img src="imgs/113.gif" style="width: 100%; height: auto;">
 
   </div>
@@ -326,17 +326,17 @@ Movement must be realistic for your equipment. Options:
 
     <h4>Pan</h4>
     <p><em>Camera rotates left or right on a fixed base.
-    <br>Realistic if on a tripod. Simple and effective.</em></p>
+    <br>Realistic if on a tripod.</em></p>
     <img src="imgs/114.gif" style="width: 100%; height: auto;">
     
     <h4>Tilt</h4>
     <p><em>Camera moves up or down vertically on a fixed base.
-    <br>Realistic if on a tripod. Keep it slow and intentional.</em></p>
+    <br>Realistic if on a tripod.</em></p>
     <img src="imgs/115.gif" style="width: 100%; height: auto;">
 
     <h4>Zoom</h4>
     <p><em>Lens changes focal length without moving the camera.
-    <br>Technically easy if using kit lenses, but often looks amateur if overused. Use sparingly.</em></p>
+    <br>Looks amateur if overused. Use sparingly.</em></p>
     <img src="imgs/116.gif" style="width: 100%; height: auto;">
 
   </div>
