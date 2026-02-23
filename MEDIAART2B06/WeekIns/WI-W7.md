@@ -169,35 +169,36 @@ Available equipment:
 
 ### Location Scouting (1–2 Locations Maximum)  
 
-You must identify and document the location(s) where you will film.
+Download this 📄 [**W7 Location Scouting Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
 
-Maximum: **1–3 locations**  
-(One or two strongly recommended.)
+> For script info and a sample annotated script, refer to [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"}   
 
-For each location, include:
+You may include **1–2 locations maximum**.   
+Choose spaces that are realistic, accessible, and shootable within your schedule.  
 
-- **Location Description**  
-  (Indoor / Outdoor / Building name / Specific room or space / Floor)
+For **each location**, include:
 
-- **One General Photo of the Location**  
-  (Clear, wide image showing the space you will use)
-
-- **Lighting Conditions**  
-  - Natural light (window direction, strength, time of day)  
-  - Practical lights (lamps, overhead lights)  
-  - Existing color temperature (daylight / tungsten)  
-  - Any limitations (low light, mixed lighting, no outlets, etc.)
-
-- **Sound Environment**  
-  - Quiet / Echo / Controlled  
-  - Foot traffic  
-  - HVAC noise  
-  - Street noise  
-  - Any predictable interruptions  
-
-Your location must be realistic and accessible on your planned shoot date.
-
-Do not choose a space you cannot secure or control.
+1. Location Identification
+   - Indoor / Outdoor
+   - Building Name
+   - Specific Space (Room / Area / Floor)
+2. General Photo of Location
+   - Wide photo showing the full space you plan to use
+3. Lighting Conditions
+   - Natural Light Source (windows direction / intensity)
+   - Time of Day Planned
+   - Existing Practical Lights (lamps / overhead / fluorescent)
+   - Color Temperature (Daylight / Tungsten / Mixed / Unknown)
+   - Limitations (low light, mixed lighting, no outlets, etc.)
+4. Sound Environment
+   - General Sound Level (Quiet / Moderate / Loud)
+   - Foot Traffic / Public Activity
+   - Mechanical Noise (household appliances, TVs, etc.)
+   - External Noise (street / wind / campus activity)
+5. Accessibility & Control
+   - Do you have permission to film here?
+   - Can you control lighting?
+   - Can you control sound?
 
 ---
 
