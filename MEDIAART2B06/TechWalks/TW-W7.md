@@ -265,7 +265,7 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
 
     <h4>Overhead / Bird’s-Eye View</h4>
     <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <br>e.g. <em>Alone</em> by Shane P. Liao</p> 
     <img src="imgs/107.jpg" style="width: 100%; height: auto;">
 
   </div>
@@ -275,17 +275,17 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><strong>Shot from behind one character toward another character/object</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <br>e.g. <em>Unknown</em> by Akil Joefield</p> 
     <img src="imgs/108.jpg" style="width: 100%; height: auto;">  
     
     <h4>Dutch Angle (Tilted Frame)</h4>
-    <p><strong>The camera shows what a character is seeing from their visual perspective - creates identification and immersion.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin </p> 
+    <p><strong>Camera is tilted, causing the horizon line to be slanted rather than parallel to the frame's bottom</strong>
+    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
     <img src="imgs/109.jpg" style="width: 100%; height: auto;">
 
     <h4>POV - Point of View</h4>
-    <p><strong>Shot from behind one character toward another character/object</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <p><strong>Shows exactly what a character is looking at, directly from their perspective</strong>
+    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
     <img src="imgs/110.jpg" style="width: 100%; height: auto;"> 
 
   </div>
