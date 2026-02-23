@@ -226,7 +226,7 @@ Shot Type Formula:
   <!-- LEFT COLUMN -->
   <div style="width: 50%;">
 
-    <h4>LS - Long Shot</h4>
+    <h4>FS - Full Shot</h4>
     <p><em>Subject fully framed</em></p>
     <img src="imgs/96.gif" style="width: 100%; height: auto;">
 
