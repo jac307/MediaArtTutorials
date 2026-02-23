@@ -291,21 +291,54 @@ Shot Type Formula:
 
 ---  
 
-#### Camera Angles 
+#### Camera Angles   
 
-ndicate the camera’s vertical relationship to the subject:
+Camera angles indicate the camera’s vertical relationship to the subject, affecting meaning.  
 
-- Eye-level
-- High angle
-- Low angle
-- Overhead
-- Dutch tilt (if justified)
+<div style="display: flex; gap: 2rem; width: 100%;">
 
-Angle affects meaning.
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
 
-Example:
-> Low angle can make a subject feel dominant.  
-> High angle can create vulnerability.
+    <h4>Eye-Level</h4>
+    <p><em>The camera is positioned at the subject’s eye height.
+    <br>Creates neutrality and realism. The viewer feels present but not manipulated.</em></p>
+    <img src="imgs/103.gif" style="width: 100%; height: auto;">
+
+    <h4>High Angle</h4>
+    <p><em>The camera looks down on the subject.
+    <br>Can suggest vulnerability, isolation, smallness, or lack of control.</em></p>
+    <img src="imgs/104.gif" style="width: 100%; height: auto;">
+
+    <h4>Low Angle</h4>
+    <p><em>The camera looks up at the subject.
+    <br>Can suggest dominance, power, authority, or psychological weight.</em></p>
+    <img src="imgs/105.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Overhead / Bird’s-Eye View</h4>
+    <p><em>The camera looks directly down from above.
+    <br>Creates distance, abstraction, or a sense of observation. Often reduces emotional intimacy.</em></p>
+    <img src="imgs/106.gif" style="width: 100%; height: auto;">
+
+    <h4>POV - Point of View</h4>
+    <p><em>The camera is tilted sideways so the horizon line is not level.
+    <br>Creates instability, tension, psychological imbalance, or unease.</em></p>
+    <img src="imgs/107.gif" style="width: 100%; height: auto;">
+    
+    <h4>Dutch Angle (Tilted Frame)</h4>
+    <p><em>The camera shows what a character is seeing from their visual perspective.
+    <br>Creates identification and immersion, allowing the audience to experience the scene through the character’s eyes.</em></p>
+    <img src="imgs/108.gif" style="width: 100%; height: auto;">
+
+  </div>
+
+</div>  
+
 
 ---  
 
