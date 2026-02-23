@@ -253,11 +253,11 @@ Shot Type Formula:
 
     <h4>OTS - Over-the-Shoulder</h4>
     <p><em>Shot from behind one character toward another</em></p>
-    <img src="imgs/103.jpg" style="width: 100%; height: auto;">  
+    <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
 
     <h4>Frame within a frame</h4>
     <p><em>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</em></p>
-    <img src="imgs/101.jpg" style="width: 100%; height: auto;">
+    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
 
   </div>
 
