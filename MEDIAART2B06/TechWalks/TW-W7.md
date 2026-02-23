@@ -274,17 +274,17 @@ Camera angles indicate the **camera’s vertical relationship** to the subject, 
   <div style="width: 50%;">
 
     <h4>OTS - Over-the-Shoulder</h4>
-    <p><strong>Shot from behind one character toward another character/object</strong>
+    <p><strong>Camera is positioned behind one character - creates relational perspective and emotional alignment.</strong>
     <br>e.g. <em>Unknown</em> by Akil Joefield</p> 
     <img src="imgs/108.jpg" style="width: 100%; height: auto;">  
     
     <h4>Dutch Angle (Tilted Frame)</h4>
-    <p><strong>Camera is tilted, causing the horizon line to be slanted rather than parallel to the frame's bottom</strong>
+    <p><strong>Camera is tilted so the horizon is slanted - creates instability, tension, or psychological imbalance.</strong>
     <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
     <img src="imgs/109.jpg" style="width: 100%; height: auto;">
 
     <h4>POV - Point of View</h4>
-    <p><strong>Shows exactly what a character is looking at, directly from their perspective</strong>
+    <p><strong>The camera shows exactly what a character sees - immerses the viewer in their visual experience.</strong>
     <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
     <img src="imgs/110.jpg" style="width: 100%; height: auto;"> 
 
