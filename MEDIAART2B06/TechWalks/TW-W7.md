@@ -79,8 +79,8 @@ For this project, your script must communicate a complete one-minute visual even
 2. **Visual Script (Action Only)**
 3. **Transitions (if needed)**
 
-> e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes)  
-<img src="imgs/88.jpeg" style="width: 80%; height: auto;">    
+> <img src="imgs/88.jpeg" style="width: 80%; height: auto;">     
+> e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes) 
 
 ---
 
@@ -207,9 +207,10 @@ An annotated storyboard translates your script into a **visual production plan**
 This document connects:  
 Script → Camera → Lighting → Sound → Production Schedule   
 
+> <img src="imgs/95.jpg" style="width: 80%; height: auto;">    
 > e.g. *Parasite*, directed by Bong Joon-ho.    
-<img src="imgs/95.jpg" style="width: 80%; height: auto;">
-> 🔗 [46 Storyboard Examples from Movies, Animation, and Games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}  
+
+🔗 [46 Storyboard Examples from Movies, Animation, and Games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}  
 
 ---
 
