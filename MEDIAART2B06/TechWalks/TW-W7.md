@@ -471,8 +471,83 @@ Location scouting bridges your **storyboard** and your **production reality**.
 
 ---
 
+## Location Scouting Structure  
 
+The following sections reflect what you are required to complete in the **Location Scouting Template**. These categories are also aligned with how location documents function in professional productions.
 
+### 1. Location Identification  
+
+This section clearly defines the space and confirms it is realistically available.
+
+You must identify:
+
+- Indoor or Outdoor  
+- Building name  
+- Specific space (room / area / floor)  
+
+This ensures the location is precise and shootable.
+
+> In professional productions, this section also includes full addresses, access instructions, contact information, permits, and logistical notes (loading access, parking, security, etc.).
+
+---
+
+### 2. General Photo of Location  
+
+You must include one wide photo of the space you plan to use.
+
+The photo should:
+- Show the full layout  
+- Indicate depth and usable framing space  
+- Reveal existing light sources  
+
+This image functions as a production reference.
+
+> In professional location scouting documents, photos also identify potential camera positions, lighting placement areas, sound setup zones, ceiling height, and spatial limitations.
+
+---
+
+### 3. Lighting Conditions  
+
+This section evaluates whether the space supports your intended visual outcome.
+
+You must assess:
+
+- Natural light source (direction / intensity)  
+- Planned time of day  
+- Existing practical lights (lamps / overhead / fluorescent)  
+- Color temperature (daylight / tungsten / mixed / unknown)  
+- Limitations (low light, mixed lighting, no outlets, etc.)  
+
+Your lighting assessment should directly connect to your storyboard lighting plan.
+
+---
+
+### 4. Sound Environment  
+
+This section evaluates whether clean production sound is realistically achievable.
+
+You must assess:
+
+- General sound level (quiet / moderate / loud)  
+- Foot traffic / public activity  
+- Mechanical noise (appliances, HVAC, electronics)  
+- External noise (street, wind, campus activity)  
+
+If sound conditions are difficult, you must adjust your plan accordingly.
+
+---
+
+### 5. Accessibility & Control  
+
+This confirms whether you can realistically execute your production in the space.
+
+You must indicate:
+
+- Do you have permission to film here?  
+- Can you control lighting?  
+- Can you control sound?  
+
+> In professional productions, this section may also include safety concerns, scheduling restrictions, insurance requirements, and backup options.
 
 ________________________________________________________________________
 
