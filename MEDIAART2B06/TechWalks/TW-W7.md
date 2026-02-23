@@ -252,17 +252,17 @@ Shot Type Formula:
   <div style="width: 50%;">
 
     <h4>MCU - Medium Close-Up</h4>
-    <p><em><strongChest/shoulders up.</strong>
+    <p><em><strong>Chest/shoulders up.</strong>
     <br>e.g. MCU of a man in a suit to highlight subtle facial expression and internal emotional conflict.</em></p>
     <img src="imgs/99.jpg" style="width: 100%; height: auto;">
     
     <h4>CU - Close Up</h4>
-    <p><em><strongFace or object fills frame.</strong>
+    <p><em><strong>Face or object fills frame.</strong>
     <br>e.g. CU of a woman’s face lying on a pillow to emphasize emotional vulnerability and intimate interior space.</em></p>
     <img src="imgs/100.jpg" style="width: 100%; height: auto;">
 
     <h4>OTS - Over-the-Shoulder</h4>
-    <p><em><strongShot from behind one character toward another.</strong>
+    <p><em><strong>Shot from behind one character toward another.</strong>
     <br>e.g. OTS of a woman crying into another person’s shoulder to emphasize emotional intensity in response to devastating news.</em></p>
     <img src="imgs/101.jpg" style="width: 100%; height: auto;">  
 
