@@ -176,24 +176,24 @@ Choose spaces that are realistic, accessible, and shootable within your schedule
 
 For **each location**, include:
 
-1. Location Identification
+1. **Location Identification**
    - Indoor / Outdoor
    - Building Name
    - Specific Space (Room / Area / Floor)
-2. General Photo of Location
+2. **General Photo of Location**
    - Wide photo showing the full space you plan to use
-3. Lighting Conditions
+3. **Lighting Conditions**
    - Natural Light Source (windows direction / intensity)
    - Time of Day Planned
    - Existing Practical Lights (lamps / overhead / fluorescent)
    - Color Temperature (Daylight / Tungsten / Mixed / Unknown)
    - Limitations (low light, mixed lighting, no outlets, etc.)
-4. Sound Environment
+4. **Sound Environment**
    - General Sound Level (Quiet / Moderate / Loud)
    - Foot Traffic / Public Activity
    - Mechanical Noise (household appliances, TVs, etc.)
    - External Noise (street / wind / campus activity)
-5. Accessibility & Control
+5. **Accessibility & Control**
    - Do you have permission to film here?
    - Can you control lighting?
    - Can you control sound?
@@ -214,10 +214,10 @@ Your list must:
 - **Be specific**  
   > Do not write “camera” or “lights”  
   > Identify the actual equipment, "Canon T4i" or "Light Kit - Fiilex 360 LED (Large - 3 Lights)".  
-- Be realistic based on available department equipment  
-  > [DSLR Cameras + Lenses](../Cameras.md){:target="_blank"}
-  > [Lighting Equipment](../Lighting.md){:target="_blank"}
-  > [Audio Equipment](../Audio.md){:target="_blank"}   
+- **Be realistic** based on available department equipment  
+  > [DSLR Cameras + Lenses](../Cameras.md){:target="_blank"}  
+  > [Lighting Equipment](../Lighting.md){:target="_blank"}  
+  > [Audio Equipment](../Audio.md){:target="_blank"}    
 
 ➡️ Save the completed document as:  
 `Lastname_Firstname_EquipmentList.pdf`  
@@ -236,8 +236,7 @@ Include:
 - **Estimated Time Per Shot or Sequence**
 - **Buffer Time** (minimum 20–30 minutes recommended)  
 
-#### Production Window  
-**Thursday, March 5 – Wednesday, March 11**    
+**Production Window:** Thursday, March 5 – Wednesday, March 11   
 - There are **no classes on Thursday, March 5**.
 - However, you must schedule and attend a **one-to-one feedback meeting** with the TA or instructor *before recording*.
 - You may not begin filming until your plan has been reviewed.
