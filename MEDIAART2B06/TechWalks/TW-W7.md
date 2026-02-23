@@ -5,14 +5,20 @@
 <h1 style="color: darkred;">W7 — Pre-Production Framework</h1>
 <h2 style="color: darkred;">From Concept to Production Plan</h2>
 
-## Objective
+This document guides you from concept to executable production plan supporting the [W7 - Pre-Production Package](../WeekIns/WI-W7.md){:target="_blank"}  Activities & Submission.    
 
-Develop a complete and realistic pre-production plan for your 1-minute, no-dialogue short film.  
-This document guides you from concept to executable production plan.  
+## Sections
+
+<ul>
+  <li><a href="#logline">Logline</a></li>
+  <li><a href="#script">Script</a></li>
+  <li><a href="#storyboard">Annotated Storyboard</a></li>
+  <li><a href="#location-scouting">Location Scouting</a></li>
+</ul>  
 
 ---
 
-<h2 style="color: darkred;"> Logline </h2>  
+<h2 id="logline" style="color: darkred;"> Logline </h2>  
 
 A **logline** is a single-sentence summary of your film that clearly states:  
 - Who the story follows  
@@ -53,7 +59,7 @@ The **logline** must be **clear statement of the story in motion**.
 
 ---
 
-<h2 style="color: darkred;"> Script </h2>   
+<h2 id="script" style="color: darkred;"> Script </h2>   
 
 A script is a **production document** that translates your logline into clear, shootable action. A visual script describes:
 - Where the scene takes place  
@@ -167,7 +173,7 @@ Emotion is conveyed through repetition and behavior — not through explanation.
 
 ---
 
-<h2 style="color: darkred;"> Annotated Storyboard </h2>   
+<h2 id="storyboard" style="color: darkred;"> Annotated Storyboard </h2>   
 
 An annotated storyboard translates your script into a **visual production plan**, answering:   
 - What will the camera see?
@@ -457,7 +463,7 @@ Sound should reinforce the emotional arc.
 
 ---
 
-<h2 style="color: darkred;"> Location Scouting </h2>   
+<h2 id="location-scouting" style="color: darkred;"> Location Scouting </h2>   
 
 **Location scouting** is the process of selecting and evaluating the physical space where your film will be shot.  
 
