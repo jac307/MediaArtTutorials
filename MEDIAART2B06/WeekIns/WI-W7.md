@@ -114,7 +114,7 @@ This script will guide:
 Download this 📄 <a href="Script_Template.pdf" target="_blank"><strong>W7 Annotated Storyboard Template</strong></a> and complete all required sections directly in that document.  
 
 > For more information on the annotated storyboard structure and examples, refer to the  
-<a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard" target="_blank"><strong>Week 7 Tech Walkthrough document</strong></a>.  
+<a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard" target="_blank"><strong>Week 7 Tech Walkthrough document</strong></a>  
 
 ---
 
@@ -169,7 +169,7 @@ Available equipment:
 
 ### Location Scouting (1–2 Locations Maximum)  
 
-ou must identify and document the location(s) where you will film.
+You must identify and document the location(s) where you will film.
 
 Maximum: **1–3 locations**  
 (One or two strongly recommended.)
