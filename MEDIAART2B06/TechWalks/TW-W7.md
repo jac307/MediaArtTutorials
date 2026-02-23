@@ -52,6 +52,8 @@ A **logline** is a single-sentence summary that **captures the core dramatic act
   > *A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind*.  
   > **Compressed to 1-minute scale:** A lonely robot sorting through discarded objects pauses over one item, revealing an unexpected sense of attachment.    
 
+🔗 [Movie Logline Examples for Screenwriters (IMDb)](https://www.imdb.com/list/ls533728711/){:target="_blank"}     
+
 ---
 
 <h2 id="script" style="color: darkred;"> Script </h2>   
