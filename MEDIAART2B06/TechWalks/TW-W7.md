@@ -190,9 +190,7 @@ A storyboard is divided into shots. A new shot occurs when:
 
 #### Shot Types   
 
-Shot Type Formula:   
-**Distance from subject + framing purpose**   
-> e.g. *CU of hand gripping notebook to emphasize tension.*
+Shot types indicate the **camera’s distance** from the subject, shaping how much of the environment is visible and **how emotionally close the viewer feels** to the action.
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
@@ -254,7 +252,7 @@ Shot Type Formula:
 
 #### Camera Angles   
 
-Camera angles indicate the camera’s vertical relationship to the subject, affecting meaning.  
+Camera angles indicate the **camera’s vertical relationship** to the subject, shaping **how the viewer perceives power, vulnerability, balance, and psychological tension** within the frame.
 
 <div style="display: flex; gap: 2rem; width: 100%;">
 
@@ -262,7 +260,7 @@ Camera angles indicate the camera’s vertical relationship to the subject, affe
   <div style="width: 50%;">
 
     <h4>Eye-Level</h4>
-    <p>The camera is positioned at the subject’s eye height. Creates neutrality and realism.</p>
+    <p>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</p>
     <img src="imgs/103.gif" style="width: 100%; height: auto;">
 
     <h4>High Angle</h4>
