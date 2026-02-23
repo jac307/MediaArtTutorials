@@ -196,8 +196,7 @@ If the script is precise, production becomes efficient.
 
 <h2 style="color: darkred;"> Annotated Storyboard </h2>   
 
-An annotated storyboard translates your script into a **visual production plan**, answering:  
-
+An annotated storyboard translates your script into a **visual production plan**, answering:   
 - What will the camera see?
 - How will the camera frame it?
 - How long will it last?
@@ -206,8 +205,52 @@ An annotated storyboard translates your script into a **visual production plan**
 - What equipment is required?
 
 This document connects:  
-Script → Camera → Lighting → Sound → Production Schedule
+Script → Camera → Lighting → Sound → Production Schedule   
 
+---
+
+### Structure of an Annotated Storyboard  
+
+A storyboard is divided into shots.  
+A shot is one continuous recording from the moment you press record to the moment you stop. A new shot occurs when:
+- You change framing  
+- You change camera angle  
+- You change camera position
+  
+Each shot must include the following components:  
+
+- **Shot #**  
+  > Sequential number following the order of your script  
+- **Estimated Duration (in seconds)**    
+- **Shot Type**    
+- **Camera Angle**    
+- **Camera Movement**    
+- **One-Sentence Action Description**  
+  > Clear physical action only — no interpretation  
+- **Lighting Plan**    
+- **Sound Plan**    
+- **Equipment Needed**
+  > Camera, lens, tripod, mic, light, reflector, etc.
+
+---  
+
+#### Shot Types 
+
+---  
+
+#### Camera Angles 
+
+---  
+
+#### Camera Movements
+
+---  
+
+#### Lighting Plan
+
+---  
+
+#### Sound Plan
 
 
 ________________________________________________________________________
