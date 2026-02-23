@@ -80,7 +80,7 @@ For this project, your script must communicate a complete one-minute visual even
 3. **Transitions (if needed)**
 
 > e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes)  
-<img src="imgs/88.png" style="width: 80%; height: auto;">    
+<img src="imgs/88.jpeg" style="width: 80%; height: auto;">    
 
 ---
 
