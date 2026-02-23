@@ -92,9 +92,12 @@ This script will guide:
 
 <h2 id="storyboard" style="color: darkred;">Activity 3: Annotated Storyboard [1h]</h2>  
 
-Download this 📄 [**W7 Annotated Storyboard Template**](Script_Template.pdf){:target="_blank"} and complete all required sections directly in that document.  
+Download this 📄 <a href="Script_Template.pdf" target="_blank"><strong>W7 Annotated Storyboard Template</strong></a> and complete all required sections directly in that document.  
 
-> For more info on the annotated biliography and examples refer to [**Week 7 Tech Walkthrough document**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"}
+> For more information on the annotated storyboard structure and examples, refer to the  
+<a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard" target="_blank"><strong>Week 7 Tech Walkthrough document</strong></a>.  
+
+---
 
 ### Shot Requirements
 
@@ -119,11 +122,13 @@ For Each Shot, You Must Complete:
 - Your storyboard must reflect your script.
 - Do not introduce new actions not present in the script.
 - Maximum of **one or two locations**.
-- Camera movement must be realistic and achievable.
-- Lighting plans should reflect available equipment.
+- ⚠️ Your **Camera movements**, **Lighting Plan** and **Sound Plan** must be realistic and achievable using the available department equipment. 
 - Artistic drawing skill is not graded — clarity is.
 
-Use arrows to indicate movement when necessary.  
+Available equipment:
++ <a href="Cameras.md" target="_blank">../DSLR Cameras + Lenses</a>  
++ <a href="Lighting.md" target="_blank">../Lighting Equipment</a>  
++ <a href="Audio.md" target="_blank">../Audio Equipment</a>  
 
 ➡️ Save the completed template as: `Lastname_Firstname_Storyboard.pdf`    
 > You may complete the template digitally or by hand.  
