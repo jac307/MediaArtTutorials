@@ -196,9 +196,8 @@ A shot is one continuous recording from the moment you press record to the momen
   
 Each shot must include the following components:  
 
-- **Shot #**  
-  > Sequential number following the order of your script  
-- **Estimated Duration (in seconds)**    
+- **Shot #**   
+- **Estimated Duration**    
 - **Shot Type**    
 - **Camera Angle**    
 - **Camera Movement**    
@@ -206,7 +205,6 @@ Each shot must include the following components:
 - **Lighting Plan**    
 - **Sound Plan**    
 - **Equipment Needed**
-  > Camera, lens, tripod, mic, light, reflector, etc.
 
 ---  
 
@@ -372,8 +370,7 @@ Movement must be realistic for your equipment. Options:
 
 #### One-Sentence Action Description
 
-Write one clear sentence describing what happens in the shot.  
-Keep it concise and visual.  
+One clear sentence describing what happens in the shot. It should be concise and visual.    
 
 Action Formula:   
 **Subject + Physical Action + Relevant Object/Environment**  
