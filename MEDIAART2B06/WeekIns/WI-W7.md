@@ -200,6 +200,9 @@ For **each location**, include:
    - Can you control lighting?
    - Can you control sound?
 
+➡️ Save the completed template as:  
+`Lastname_Firstname_LocationScouting.pdf`  
+
 ---
 
 ### Equipment List  
@@ -222,7 +225,10 @@ If your storyboard includes a dolly movement, your equipment list must include a
 If your lighting plan includes three lights, they must appear on your list.
 
 Be specific.  
-Do not write “camera” or “lights” — identify the actual equipment.
+Do not write “camera” or “lights” — identify the actual equipment.  
+
+➡️ Save the completed document as:  
+`Lastname_Firstname_EquipmentList.pdf`  
 
 ---
 
@@ -256,6 +262,9 @@ If your schedule looks unrealistic, your production will be unrealistic.
 
 Plan conservatively.
 
+➡️ Save the completed document as:  
+`Lastname_Firstname_Schedule.pdf`  
+
 ---
 
 <h2 id="submission" style="color: darkred;">📤 Submission</h2>
@@ -272,14 +281,14 @@ Plan conservatively.
 **File name:**  
 `Lastname_Firstname_PreProductionPackage.zip`  
 
-Create a single document with the following parts:  
+Create a single document with the following documents:  
 
-1. **Micro-Treatment**
-2. **Script** (use template)
-3. **Annotated Storyboard** (use template)
-4. **Location Scouting** (use template)
-5. **Equipment List** (use template)
-6. **Production Schedule** (use template)
+1. **Micro-Treatment**: `Lastname_Firstname_MicroTreatment.pdf`
+2. **Script** (use template): `Lastname_Firstname_Script.pdf`
+3. **Annotated Storyboard** (use template): `Lastname_Firstname_Storyboard.pdf` 
+4. **Location Scouting** (use template): `Lastname_Firstname_LocationScouting.pdf`  
+5. **Equipment List**: `Lastname_Firstname_EquipmentList.pdf`  
+6. **Production Schedule**: `Lastname_Firstname_Schedule.pdf`  
 
 ________________________________________________________________________
 
