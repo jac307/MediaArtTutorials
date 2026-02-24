@@ -130,7 +130,7 @@ When finished:
 - Channels: stereo
 - Format: WAV  
 
-> **Dry Run** = Analyzes the project locally to check peak levels without creating a file.
+> **Dry Run** = Analyzes the project locally to check peak levels without creating a file.  
 > **Render** = Exports the full audio file and saves it to your selected folder.      
 
 <figure style="width: 60%; margin: 0;">
