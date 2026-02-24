@@ -129,11 +129,11 @@ For Each Shot (6-10), You Must Complete:
 - **Camera Movement**
   > Static, Zoom, Pan, Tilt, Dolly, Handheld
 - **One-Sentence Action Description**
-  > Write one clear sentence describing what happens in the shot. 
+  > Write one clear sentence describing what happens in the shot 
 - **Lighting Plan**
   > Type of Lighting with direction and intensity.  
 - **Sound Plan**
-  > Diegetic sound, Non-diegetic sound, Ambient tone, Specific sound cues / foley
+  > Non-Diegetic, Diegetic (on-screen / off-screen), Specific Sound Cues, Ambience  
 - **Equipment Needed**
   > General equipment needed per shot: lens, tripod, mic, light, reflector, etc.
 
