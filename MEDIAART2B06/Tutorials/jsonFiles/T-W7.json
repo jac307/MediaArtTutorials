@@ -1,1 +1,58 @@
+[
+  {
+  "title": "Premiere Pro",
+  "description": "T",
+  "children": [
+    
+    {
+      "title": "How to Write a Logline — TV Writing & Development Course: Ep4",
+      "description": "A clear introduction to writing strong loglines, focusing on how to craft a compelling one-sentence summary that captures your story’s core idea and helps your script stand out in pitches and development.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/pMj8xUa1jOA?si=yZcPlv5P8MJe5Fnu"
+    },
 
+    {
+      "title": "Start Your Short Film in 3 Easy Steps",
+      "description": "Khaila Amazan, writer behind the short film 'The Spider Within' shares her tips to newcomer writers to get started on their short film.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/E_1btDsjZ4s?si=FuMN6mV4rc8-b80J"
+    },
+
+    {
+      "title": "Intro to Storyboarding",
+      "description": "An overview of storyboarding basics, explaining how boards help plan shots, edits, and communicate vision to a team, including common formats, styles, and practical alternatives for non-drawers.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/RQsvhq28sOI?si=Xn3pz8jZ-TdNJ1a9"
+    },
+
+     {
+      "title": "12 SHOTS That Make EVERYTHING CINEMATIC",
+      "description": "An introduction to 12 essential shot types that strengthen visual storytelling, covering foundational cinematography techniques useful for both beginners and experienced filmmakers.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/NJks7JfGKxM?si=rlho1B0E-ZqeCQN5"
+    },
+
+    {
+      "title": "Filmmaking 101: 5 Camera Angles Every Director Must Know",
+      "description": "A masterclass on five essential camera angles and three core viewing perspectives, explaining how camera placement and framing shape emotion, tension, and cinematic storytelling across different film styles.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/nfHvSnILXl0?si=-JbkSFopdzVLTf8y"
+    },
+
+    {
+      "title": "Lighting 101: Intro to Light Placement",
+      "description": "An introduction to the fundamentals of three-point lighting, explaining the roles and placement of key, fill, and backlight, and demonstrating how this classic setup enhances depth, separation, and cinematic quality.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/nqMQZG68Wkc?si=B2LOs0hgvi5pxoi7"
+    },
+
+    {
+      "title": "Title",
+      "description": "Info",
+      "tutorialEmbedCode": "url"
+    },
+
+    {
+      "title": "Roger Deakins on Location Scouting for Film — Cinematography Techniques Ep. 5",
+      "description": "A breakdown of professional location scouting through insights from Roger Deakins, covering pre-visualization, problem-solving on real productions, practical workflow tips, and considerations for both large and small-scale films.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/IX-gQSyXSU4?si=aXoR8G9qDDUivCyB"
+    }
+  ]
+},
+
+  
+]
