@@ -71,12 +71,9 @@ This project synthesizes the technical and creative skills developed in Module I
 
 + W7 — Pre-Production Package
   + [W7 - Pre-Production Framework](TechWalks/TW-W7.md) - From Concept to Production Plan
-  + [W7 - Tutorials](Tutorials/index.html?file=T-W7.json)
+  + [W7 - Tutorials](Tutorials/index.html?file=T-W7.json) - Pre-Production & Cinematic Foundations
  
 <!--
-#### Index 
-
-+ [Week 7](WI-W7.md) — Pre-Production Package
 + [Week 8](WI-W8.md) — Production Week
 + [Week 9](WI-W9.md) — Rough Cut
 + [Week 10](WI-W10.md) — Rough Cut Screening & Sound Design Production
