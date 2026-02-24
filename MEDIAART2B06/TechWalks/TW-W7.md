@@ -407,8 +407,6 @@ The lighting plan is **clear and practical**. It **identifies the light sources*
 
 The sound plan is **concise and functional**. It identifies the **type of sound**, **its source (on- or off-screen)**, and **its timing in relation to the visual action**.
 
-Types of Sounds:  
-
 <div style="display: flex; gap: 2rem; width: 100%;">
 
   <!-- LEFT COLUMN -->
