@@ -119,7 +119,25 @@ When finished:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AW5G-60jH34?si=IF8-HbhJ4EolktVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
 
-#### Export in Reaper and avoid master clipping
+#### Export in Reaper and avoid master clipping  
+
+**Render Settings:**  
+- Source: Master mmix
+- Bounds: Entire proejct
+- File name: [Set name]
+- Reder to: [Select Folder]
+- Sample rate: 48000
+- Channels: stereo
+- Format: WAV  
+
+> **Dry Run** = Analyzes the project locally to check peak levels without creating a file.
+> **Render** = Exports the full audio file and saves it to your selected folder.      
+
+<figure style="width: 60%; margin: 0;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/52.mp4" type="video/mp4">
+  </video>
+</figure>     
 
 <img src="imgs/45.jpeg" style="width: 80%; height: auto;">     
 
@@ -159,24 +177,6 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 </div>    
 
 #### Blender: Export File with Audio  
-
-**Render Settings:**  
-- Source: Master mmix
-- Bounds: Entire proejct
-- File name: [Set name]
-- Reder to: [Select Folder]
-- Sample rate: 48000
-- Channels: stereo
-- Format: WAV  
-
-> **Dry Run** = Analyzes the project locally to check peak levels without creating a file.
-> **Render** = Exports the full audio file and saves it to your selected folder.      
-
-<figure style="width: 60%; margin: 0;">
-  <video controls style="width: 100%; height: auto;">
-    <source src="imgs/52.mp4" type="video/mp4">
-  </video>
-</figure>     
 
 <img src="imgs/46.jpeg" style="width: 80%; height: auto;">    
 
