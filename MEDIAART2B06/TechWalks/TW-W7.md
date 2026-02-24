@@ -358,10 +358,9 @@ Action Formula:
 
 #### Lighting Plan  
 
-Lighting should match your script’s mood.   
-> e.g. *Single desk lamp creating isolated pool of light.*
+The lighting plan is **clear and practical**. It **identifies the light sources** (natural, practical, or artificial), **their direction and intensity**, and **how they shape the scene** in relation to the camera and subject.  
 
-Be realistic with available equipment.  
+> For your Lighting Plan, be realistic with the available equipment.   
 
 <img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
@@ -371,7 +370,7 @@ Be realistic with available equipment.
 
 #### Sound Plan  
 
-The sound plan in a storyboard is **concise and functional**. It identifies the **type of sound**, **its source (on- or off-screen)**, and **its timing in relation to the visual action**.
+The sound plan is **concise and functional**. It identifies the **type of sound**, **its source (on- or off-screen)**, and **its timing in relation to the visual action**.
 
 Types of Sounds:  
 
