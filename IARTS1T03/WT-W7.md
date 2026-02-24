@@ -158,15 +158,27 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x0a4Mmybju8?si=Ra5wVrWYWkzkpGAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>    
 
-#### Blender: Export File with Audio
+#### Blender: Export File with Audio  
 
-<img src="imgs/46.jpeg" style="width: 80%; height: auto;">       
+**Render Settings:**  
+- Source: Master mmix
+- Bounds: Entire proejct
+- File name: [Set name]
+- Reder to: [Select Folder]
+- Sample rate: 48000
+- Channels: stereo
+- Format: WAV  
+
+> **Dry Run** = Analyzes the project locally to check peak levels without creating a file.
+> **Render** = Exports the full audio file and saves it to your selected folder.      
 
 <figure style="width: 60%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
     <source src="imgs/52.mp4" type="video/mp4">
   </video>
-</figure>   
+</figure>     
+
+<img src="imgs/46.jpeg" style="width: 80%; height: auto;">    
 
 ---
 
