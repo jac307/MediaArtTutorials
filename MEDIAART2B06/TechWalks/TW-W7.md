@@ -362,6 +362,8 @@ The lighting plan is **clear and practical**. It **identifies the light sources*
 
 > For your Lighting Plan, be realistic with the available equipment.
 
+#### Light Sources  
+
 <div style="display: flex; gap: 2rem; width: 100%;">
 
   <!-- LEFT COLUMN -->
@@ -391,11 +393,13 @@ The lighting plan is **clear and practical**. It **identifies the light sources*
 
   </div>
 
-</div>    
+</div>     
 
-<img src="imgs/117.jpg" style="width: 100%; height: auto;">    
+#### Character Portrait Lighting Setups 
 
 🔗 [24 Portrait Character Lighting Setups](https://medium.com/@sukeshgtambi/24-portrait-character-lighting-setups-photography-cinematography-bdd7a967407c){:target="_blank"}  
+
+<img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
 ---  
 
