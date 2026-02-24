@@ -102,7 +102,7 @@ A transition indicates movement between scenes or the ending of a sequence.
   <div style="width: 50%;">
 
     <h4>Fade In / Fade Out</h4>
-    <p>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT). Often used at the beginning or end of a film, or to signal closure</p>
+    <p>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT).</p>
     <img src="imgs/89.gif" style="width: 100%; height: auto;">
 
     <h4>Cut To</h4>
