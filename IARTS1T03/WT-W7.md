@@ -160,7 +160,13 @@ Save your updated Blender file as: `Lastname-Firstname-W7.blend`
 
 #### Blender: Export File with Audio
 
-<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
+<img src="imgs/46.jpeg" style="width: 80%; height: auto;">       
+
+<figure style="width: 60%; margin: 0;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/52.mp4" type="video/mp4">
+  </video>
+</figure>   
 
 ---
 
