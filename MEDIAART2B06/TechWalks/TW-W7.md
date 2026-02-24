@@ -365,17 +365,22 @@ The lighting plan is **clear and practical**. It **identifies the light sources*
 <div style="display: flex; gap: 2rem; width: 100%;">
 
   <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
+  <div style="width: 33%;">
 
     <h4>Natural Lighting</h4>
-    <p><strong>Uses available sunlight, moonlight, or ambient, non-artificial sources.</strong>
+    <p><strong>Uses non-artificial sources (sunlight, moonlight, or ambient).</strong>
     <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/104.jpg" style="width: 100%; height: auto;">
+    <img src="imgs/121.jpg" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- CENTRE COLUMN -->
+  <div style="width: 33%;">
 
     <h4>Practical Lighting</h4>
     <p><strong>Any light source visible within the camera frame (lamps, candles, televisions, streetlights)that serves as part of the set design while illuminating the scene.</strong>
     <br>e.g. <em>Jump</em> by Adrian León</p> 
-    <img src="imgs/106.jpg" style="width: 100%; height: auto;">
+    <img src="imgs/122.jpg" style="width: 100%; height: auto;">
 
   </div>
 
@@ -385,11 +390,11 @@ The lighting plan is **clear and practical**. It **identifies the light sources*
     <h4>Artificial Lighting</h4>
     <p><strong>Non-natural light source (LED, tungsten, fluorescent fixtures)</strong>
     <br>e.g. <em>Unknown</em> by Akil Joefield</p> 
-    <img src="imgs/108.jpg" style="width: 100%; height: auto;">  
+    <img src="imgs/123.jpg" style="width: 100%; height: auto;">  
 
   </div>
 
-</div>  
+</div>    
 
 <img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
