@@ -73,7 +73,7 @@ In bullet points (keep it short), outline:
 
 ### Step 2 — Write 3 Logline Versions
 
-> For detailed guidance, examples of strong and weak loglines, and tips on specificity and visual clarity, refer to [**Week 7 - Pre-Production Framework: Loglines**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline){:target="_blank"} and [**W7 - Tutorials**](Tutorials/index.html?file=T-W7.json)   
+> For detailed guidance, examples of strong and weak loglines, and tips on specificity and visual clarity, refer to [**Week 7 - Pre-Production Framework: Loglines**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline){:target="_blank"} and [**W7 - Tutorials**](../Tutorials/index.html?file=T-W7.json)   
 
 Write **three different versions** of your logline.
 
@@ -116,7 +116,7 @@ Create a one-page document that includes:
 
 Download the 📄 [**W7 Script Template - Fillable PDF**](imgs/Script_Template.pdf){:target="_blank"} or [**W7 Script Template - WORD Document**](imgs/Script_Template.docx){:target="_blank"} and complete all required sections.    
 
-> For detailed guidance on formatting, structure, scene headings, transitions, and visual writing strategies, refer to [**Week 7 - Pre-Production Framework: Script**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"} and [**W7 - Tutorials**](Tutorials/index.html?file=T-W7.json)    
+> For detailed guidance on formatting, structure, scene headings, transitions, and visual writing strategies, refer to [**Week 7 - Pre-Production Framework: Script**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"} and [**W7 - Tutorials**](../Tutorials/index.html?file=T-W7.json)    
 
 Your script must:
 - Be **1 minute in duration**
@@ -144,7 +144,7 @@ This script will guide:
 
 Download the 📄 [**W7 Annotated Storyboard Template - Fillable PDF**](imgs/Annotated_Storyboard_Template.pdf){:target="_blank"} or [**W7 Annotated Storyboard Template - WORD Document**](imgs/Annotated_Storyboard_Template.docx){:target="_blank"} and complete all required sections.   
 
-> For detailed guidance on shot structure, framing, camera movement, lighting and sound planning, refer to [**Week 7 - Pre-Production Framework: Annotated Storyboard**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"} and [**W7 - Tutorials**](Tutorials/index.html?file=T-W7.json)    
+> For detailed guidance on shot structure, framing, camera movement, lighting and sound planning, refer to [**Week 7 - Pre-Production Framework: Annotated Storyboard**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"} and [**W7 - Tutorials**](../Tutorials/index.html?file=T-W7.json)    
 
 ---
 
