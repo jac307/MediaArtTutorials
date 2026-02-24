@@ -15,18 +15,33 @@ You are expected to work actively during class time and participate in all in-cl
 
 ## 1-Minute Short Films
 
-- [Unknown](https://www.youtube.com/watch?v=xViEGiLxdwc){:target="_blank"} (2024), by Akil Joefield
-- [PAREIDOLIA](https://www.youtube.com/watch?v=JLmOkEEC9SQ){:target="_blank"} (2023), by Carlos Andrés Reyes
-- [2 AM COFFEE](https://www.youtube.com/watch?v=SR__amDl1c8){:target="_blank"} (2023), by Forrain
-- [Anonymous Gift](https://www.youtube.com/watch?v=eq8GccdVg9A){:target="_blank"} (2023), by Michael Kitka
-- [Alone](https://www.youtube.com/watch?v=P6qJ2326uhY){:target="_blank"} (2020), by Shane P. Liao
-- [The Wait](https://www.youtube.com/watch?v=C7OQHIpDlvA){:target="_blank"} (2020), by Nolt Vutthisak
-- [For Milo](https://www.youtube.com/watch?v=9Tq71PiDJDk){:target="_blank"} (2020), by Matthew D Gilpin
-- [The Jump](https://www.youtube.com/watch?v=CQXGMwLwGSE){:target="_blank"} (2019), by Adrian León
-- [Kick Me](https://www.youtube.com/watch?v=4DKSduhMls0){:target="_blank"} (2018), by Jefferies Brothers
-- [Toast](https://www.youtube.com/watch?v=xV9HnITo2C0){:target="_blank"} (2017), by Moloney Media
-- [suitcase](https://www.youtube.com/watch?v=j0HoMaaQj9I){:target="_blank"} (2016), by Visuall kris
-- [Love in Reverse](https://www.youtube.com/watch?v=urQ2LNY9UUw){:target="_blank"} (2016), by Jacque Rabie
+<div style="display: flex; gap: 3rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+- [Unknown](https://www.youtube.com/watch?v=xViEGiLxdwc){:target="_blank"} (2024), by Akil Joefield  
+- [PAREIDOLIA](https://www.youtube.com/watch?v=JLmOkEEC9SQ){:target="_blank"} (2023), by Carlos Andrés Reyes  
+- [2 AM COFFEE](https://www.youtube.com/watch?v=SR__amDl1c8){:target="_blank"} (2023), by Forrain  
+- [Anonymous Gift](https://www.youtube.com/watch?v=eq8GccdVg9A){:target="_blank"} (2023), by Michael Kitka  
+- [Alone](https://www.youtube.com/watch?v=P6qJ2326uhY){:target="_blank"} (2020), by Shane P. Liao  
+- [The Wait](https://www.youtube.com/watch?v=C7OQHIpDlvA){:target="_blank"} (2020), by Nolt Vutthisak  
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+- [For Milo](https://www.youtube.com/watch?v=9Tq71PiDJDk){:target="_blank"} (2020), by Matthew D Gilpin  
+- [The Jump](https://www.youtube.com/watch?v=CQXGMwLwGSE){:target="_blank"} (2019), by Adrian León  
+- [Kick Me](https://www.youtube.com/watch?v=4DKSduhMls0){:target="_blank"} (2018), by Jefferies Brothers  
+- [Toast](https://www.youtube.com/watch?v=xV9HnITo2C0){:target="_blank"} (2017), by Moloney Media  
+- [suitcase](https://www.youtube.com/watch?v=j0HoMaaQj9I){:target="_blank"} (2016), by Visuall kris  
+- [Love in Reverse](https://www.youtube.com/watch?v=urQ2LNY9UUw){:target="_blank"} (2016), by Jacque Rabie  
+
+  </div>
+
+</div>
 
 ---
 
