@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">W7 - Pre-Production Package</h1>  
 
-<img src="imgs/0.png" style="width: 100%; height: auto;">  
+<img src="imgs/10.png" style="width: 100%; height: auto;">  
 
 **Plan a one-minute, no-dialogue short film**, creating a pre-production package that translates your visual concept into a realistic production plan.
 
