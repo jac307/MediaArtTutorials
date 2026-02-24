@@ -360,7 +360,36 @@ Action Formula:
 
 The lighting plan is **clear and practical**. It **identifies the light sources** (natural, practical, or artificial), **their direction and intensity**, and **how they shape the scene** in relation to the camera and subject.  
 
-> For your Lighting Plan, be realistic with the available equipment.   
+> For your Lighting Plan, be realistic with the available equipment.
+
+<div style="display: flex; gap: 2rem; width: 100%;">
+
+  <!-- LEFT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Natural Lighting</h4>
+    <p><strong>Uses available sunlight, moonlight, or ambient, non-artificial sources.</strong>
+    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
+    <img src="imgs/104.jpg" style="width: 100%; height: auto;">
+
+    <h4>Practical Lighting</h4>
+    <p><strong>Any light source visible within the camera frame (lamps, candles, televisions, streetlights)that serves as part of the set design while illuminating the scene.</strong>
+    <br>e.g. <em>Jump</em> by Adrian León</p> 
+    <img src="imgs/106.jpg" style="width: 100%; height: auto;">
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="width: 50%;">
+
+    <h4>Artificial Lighting</h4>
+    <p><strong>Non-natural light source (LED, tungsten, fluorescent fixtures)</strong>
+    <br>e.g. <em>Unknown</em> by Akil Joefield</p> 
+    <img src="imgs/108.jpg" style="width: 100%; height: auto;">  
+
+  </div>
+
+</div>  
 
 <img src="imgs/117.jpg" style="width: 100%; height: auto;">    
 
