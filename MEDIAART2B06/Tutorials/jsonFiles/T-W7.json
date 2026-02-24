@@ -1,7 +1,7 @@
 [
   {
-  "title": "Premiere Pro",
-  "description": "T",
+  "title": "Pre-Production & Cinematic Foundations",
+  "description": "This curated set of tutorials introduces the core components of pre-production and visual storytelling for short films. The videos guide you from concept development (loglines and story structure) to practical execution through storyboarding, shot design, camera angles, lighting placement, sound design, and location scouting. Together, they build both cinematic literacy and production planning skills needed to move from idea to shootable film.",
   "children": [
     
     {
@@ -41,9 +41,9 @@
     },
 
     {
-      "title": "Title",
-      "description": "Info",
-      "tutorialEmbedCode": "url"
+      "title": "Ultimate Guide to Diegetic vs Non-Diegetic Sound — Definitions, Examples, & How to Break the Rules",
+      "description": "A comprehensive overview of diegetic and non-diegetic sound, explaining their definitions, narrative functions, creative variations (including trans-diegetic sound), and how filmmakers use sound design to deepen storytelling.",
+      "tutorialEmbedCode": "https://www.youtube.com/embed/2vlwm4VyyTc?si=LPb71MLRCsZRcnqP"
     },
 
     {
