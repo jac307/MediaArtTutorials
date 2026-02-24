@@ -13,7 +13,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-## Examples of 1-Minute Short Films
+## 1-Minute Short Films
 
 - [Unknown](https://www.youtube.com/watch?v=xViEGiLxdwc){:target="_blank"} (2024), by Akil Joefield
 - [PAREIDOLIA](https://www.youtube.com/watch?v=JLmOkEEC9SQ){:target="_blank"} (2023), by Carlos Andrés Reyes
