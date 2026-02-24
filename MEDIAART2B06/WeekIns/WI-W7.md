@@ -90,7 +90,8 @@ Your script must:
 - Be **1 minute in duration**
 - Include **one or two scenes maximum**
 - Use proper **slugline format**
-- Include **transitions** 
+- Include **transitions**
+  > Fade In/Out, Hard Cut, Cut To, Jump Cut, Dissolve (Cross-Dissolve), Match Cut
 - Describe **clear physical action only**
 - Contain **250–400 words total** (for the entire document)
 
@@ -99,7 +100,6 @@ This script will guide:
 - Your shot planning  
 - Your equipment list  
 - Your production schedule  
-
 
 ➡️ Save the completed template as:  
 `Lastname_Firstname_Script.pdf`  
@@ -123,15 +123,15 @@ For Each Shot (6-10), You Must Complete:
 - **Estimated Duration**
   > Second / Total time should be 60 seconds
 - **Shot Type**
-  > LS, MWS, MS, MCU, CU, ECU, Two Shot, OTS
+  > WLS, FS, MWS, MS, MCU, CU, Frame within a Frame
 - **Camera Angle**
-  > Eye-Level, High Angle, Low Angle, Overhead, POV, Dutch Angle
+  > Eye-Level, Low Angle, Overhead, OTS, Dutch Angle, POV
 - **Camera Movement**
-  > Static, Pan, Tilt, Handheld, Zoom, Dolly
+  > Static, Zoom, Pan, Tilt, Dolly, Handheld
 - **One-Sentence Action Description**
   > Write one clear sentence describing what happens in the shot. 
 - **Lighting Plan**
-  > Three-Point Lighting, Two-Point Lighting, Single-Key Lighting, High-Key Lighting, Low-Key Lighting, Motivated Lighting, Window Lighting, Silhouette Lighting
+  > Type of Lighting with direction and intensity.  
 - **Sound Plan**
   > Diegetic sound, Non-diegetic sound, Ambient tone, Specific sound cues / foley
 - **Equipment Needed**
