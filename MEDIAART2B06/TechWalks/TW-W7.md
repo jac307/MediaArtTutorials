@@ -127,7 +127,7 @@ A transition indicates movement between scenes or the ending of a sequence.
     <img src="imgs/93.gif" style="width: 100%; height: auto;">
 
     <h4>Match Cut</h4>
-    <p>A cut that connects two shots through similar composition, movement, or action. Creates visual continuity or symbolic connection between moments.</p>
+    <p>A cut that connects two shots through similar composition, movement, or action.</p>
     <img src="imgs/94.gif" style="width: 100%; height: auto;">
 
   </div>
