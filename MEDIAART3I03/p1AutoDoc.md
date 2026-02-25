@@ -22,7 +22,7 @@ The project is grounded in **auto-ethnographic research** and the use of **perso
 
 This project unfolds across **three structured class-work sessions**, each requiring a **submission** so the instructor can provide feedback and track your creative process.
 
----
+<!-- 
 
 ## Index
 
@@ -32,7 +32,7 @@ This project unfolds across **three structured class-work sessions**, each requi
 + [Rough Cut Submission + Critique Activity](P1-RoughCut.md)
 + [Class Exhibition — Final Presentation of Project 1](P1-Exhibition.md)
 + [Final Submission — Project 1 Documentation Package](P1-Final.md)
-
+-->
 ---
 
 ## Analogue Media Technologies (Provided in Class)
