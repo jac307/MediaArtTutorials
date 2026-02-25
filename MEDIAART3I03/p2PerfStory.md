@@ -42,28 +42,25 @@ A key constraint of this project is that **both sound and visuals must be genera
 
 All visual elements in Project 2 must be produced **live** during the performance.
 
-Visuals will be generated using:
-- A **light table** with a **live camera feed**
-- Physical materials placed, moved, layered, or manipulated on the light table  
-  (e.g. paper, transparencies, drawings, found objects, textures)
-- **Optional:** a small projection on the floor or table, using the **same live camera feed** to switch between the light table and the projection surface
-
-> Pre-recorded videos or pre-rendered animations are **not permitted**,  
-> **unless** they are played and **actively altered live** through the optional setup.  
-> Visual storytelling must rely on **improvisation, material exploration, and live manipulation**.
+Visuals will be generated switch between:
+- A **light table** with a **live camera feed**   
+  > Physical materials placed, moved, layered, or manipulated on the light table (e.g. paper, transparencies, drawings, found objects, textures)   
+- A **TV on the floor**, using a **separate live camera feed**.   
+  
+Visual storytelling must rely on **improvisation, material exploration, and live manipulation**.  
 
 <img src="imgs/11.png" style="width: 50%; height: auto;">
 
 ## Live Sound — Technical Framework
 
-All sound must be produced **live** during the performance.
+There must be a **live spoken word** element in the performance.  
 
-Groups may use:
+Sound improvisation must be produced **live** using any of the following elements:  
 - Musical instruments
 - Old toys or mechanical objects
 - Found objects and physical materials
 - Cassette players or other analogue playback devices
-- Voice (spoken, whispered, or performed)
+- Voice-related (whispers, gutural sounds, breathings)
 
 Sound will be captured using **microphones**.
 
