@@ -37,7 +37,8 @@ Each group must include **at minimum** the following roles:
   - Sound generated live using instruments, objects, toys, recorders through microphones.  
 
 - **Live Visuals**
-  - Live visuals using the **light table with a live camera feed**, with the option to use a **small projection** and move between the light table and projection surface in real time.  
+  - Live visuals using the **light table with a live camera feed**
+  - A **TV** on the floor, using a **separate live camera feed**.
 
 - **Coordinator / Lighting & Space**
   - Oversees spatial layout  
@@ -61,7 +62,7 @@ Before planning, **review the project restrictions**:
 - **All sound must be live**
 - **All visuals must be live**
 - No pre-rendered or pre-recorded video  
-  *(unless sound is played and **actively manipulated live**)*
+  *(unless video is played and **actively manipulated live**)*
 - No fixed soundtracks  
   *(unless sound is played and **actively manipulated live**)*
 - The performance must respond to **space, audience, and duration**
