@@ -118,6 +118,8 @@ Download the 📄 [**W7 Script Template - Fillable PDF**](imgs/Script_Template.p
 
 Your script must:
 - Be **1 minute in duration**
+- Include **one to three scenes**
+- Consider only **one to two locations**
 - Use proper **slugline format**
   > INT. / EXT. – LOCATION – TIME OF DAY
 - Include **transitions**
