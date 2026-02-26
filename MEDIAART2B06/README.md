@@ -69,7 +69,7 @@ This project synthesizes the technical and creative skills developed in Module I
 
 #### Index
 
-+ W7 — Pre-Production Package
++ [Week 7](WeekIns/WI-W7.md) — Pre-Production Package
   + [W7 - Pre-Production Framework](TechWalks/TW-W7.md) - From Concept to Production Plan
   + [W7 - Tutorials](Tutorials/index.html?file=T-W7.json) - Pre-Production & Cinematic Foundations
  
