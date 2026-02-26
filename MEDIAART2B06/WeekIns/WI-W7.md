@@ -195,7 +195,7 @@ Available equipment:
 
 ### Location Scouting (1–2 Locations Maximum)  
 
-Download the 📄 [**W7 Location Scouting Template - Fillable PDF**](imgs/Scouting_Template.pdf){:target="_blank"} or [**W7 Location Scouting Template - WORD Document**](imgs/Scouting_Template.docx){:target="_blank"} and complete all required sections.    
+Download the 📄 [**W7 Location Scouting Template - Fillable PDF**](imgs/Location_Scouting_Template.pdf){:target="_blank"} or [**W7 Location Scouting Template - WORD Document**](imgs/Location_Scouting_Template.docx){:target="_blank"} and complete all required sections.    
 
 > For detailed guidance on evaluating spaces, assessing lighting and sound conditions, and aligning locations with your production plan, refer to [**Week 7 - Pre-Production Framework: Location Scouting**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"} and [**W7 - Tutorials**](Tutorials/index.html?file=T-W7.json)    
 
