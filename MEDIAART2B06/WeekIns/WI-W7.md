@@ -87,7 +87,7 @@ Each logline must:
 
 ---
 
-### Step 3 — Refine & Select
+### Step 3 — Select & Refine
 
 - Choose your strongest version.
 - Revise it once more for clarity and precision.
