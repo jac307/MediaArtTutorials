@@ -94,8 +94,6 @@ Each logline must:
 - Remove unnecessary words.
 - Make sure it reflects something you can realistically shoot.
 
-Save your final version for your **Pre-Production Package PDF**.  
-
 ---
 
 ### Step 4 — Document
