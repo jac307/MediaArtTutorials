@@ -118,8 +118,8 @@ Download the 📄 [**W7 Script Template - Fillable PDF**](imgs/Script_Template.p
 
 Your script must:
 - Be **1 minute in duration**
-- Include **one or two scenes maximum**
 - Use proper **slugline format**
+  > INT. / EXT. – LOCATION – TIME OF DAY
 - Include **transitions**
   > Fade In/Out, Hard Cut, Cut To, Jump Cut, Dissolve (Cross-Dissolve), Match Cut
 - Describe **clear physical action only**
