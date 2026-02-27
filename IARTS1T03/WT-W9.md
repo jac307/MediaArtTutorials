@@ -49,35 +49,37 @@ Focus on how the environment functions as an embodied experience.
 
 <h3 style="color: darkred;">[30 min] Installation Floor Map</h3>  
 
-You are designing an **immersive environment** where audiences **navigate the space** with two to three defined spaces / installed objects. 
+You are designing an **immersive environment** in which audiences **physically navigate the space** through two to three clearly defined installation zones.  
 
-You must produce a **top-view floor map** using this 📄 [**LFS Empty-With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"}.  
-  
-You must consider:
+You must produce a **top-view floor map** using this 📄 [**LFS Empty-With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"} template.  
+
+Your floor map must consider:
+
 - Electrical outlet locations  
-- Speaker placement relative to power access  
-- Clear audience circulation path  
-- Zones of intensity and quiet  
+- Speaker placement in relation to power access  
+- A clear audience circulation path  
+- Zones of intensity and quieter transitions  
 
-Each speaker must include:
-- **1–2 geometric objects**
-- **1–2 corresponding lights**
+Each speaker zone must include:
+
+- **1–2 geometric objects**  
+- **1–2 corresponding lights**  
 
 Each light must include:
-- **2–3 looped cues** (designed as a repeating installation cycle)
-- These cues should align conceptually with the 30-second sound loop
+
+- **2–3 looped cues** (designed as a repeating installation cycle)  
+- Cue logic that aligns conceptually with the 30-second sound loop  
 
 Your installation must include:
 
-- **3–4 speakers**
-- **4–6 lights**
-- **3–6 geometric objects**
-- A clearly defined **audience navigation path**
+- **3–4 speakers**  
+- **4–6 lights**  
+- **3–6 geometric objects**  
+- A clearly defined audience navigation path  
 
-Objects must be **geometric forms only** (cube, sphere, cone, cylinder, plane, etc.).  
+Objects must be **geometric forms only** (cube, sphere, cone, cylinder, plane, etc.).
 
 Hand-drawn (preferred) or digital.  
-
 ---
 
 #### Example  
