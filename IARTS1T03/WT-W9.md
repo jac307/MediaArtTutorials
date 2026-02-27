@@ -84,18 +84,20 @@ You are **not copying** the example — you are using it as a reference for **ho
 
 <h3 style="color: darkred;">[40-60 min] REAPER — Multi-Channel Composition</h3>
 
-You must create **a separate sound compositions**, one per speaker.
+You must create **a separate sound compositions**, one per speaker. 
 
 #### Requirements
 
 - Duration: **20-30 seconds**
 - **No panning**
 - Each track must function independently but contribute to a shared atmosphere
+- Must keep using samples from FREESOUNDS or samples you record yourself.
 - Tracks may:
   - Overlap
   - Activate sequentially
   - Create spatial contrast
   - Create directional tension
+- You are expected to use the knowledge that you have learnt in W7 and W8. 
 
 Avoid duplicating the same sound across speakers. Think in spatial zones.
 
