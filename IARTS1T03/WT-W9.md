@@ -119,7 +119,7 @@ Export each speaker composition as a separate **WAV file**:
 > You may use your laptop’s built-in microphone to record sound.  
 > For higher audio quality, you are encouraged to book a USB microphone.  
 > The **Snowball microphone** is available for free through the Media Equipment Rentals at the Lyons New Media Centre (Mills Library).  
-> Book here: [https://library.mcmaster.ca/services/rooms-equipment](https://library.mcmaster.ca/services/rooms-equipment){:target="_blank"}  
+> Book here: [Lyons New Media Centre: Media Rooms and Equipment](https://libcal.mcmaster.ca/equipment?lid=3267){:target="_blank"}  
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe 
