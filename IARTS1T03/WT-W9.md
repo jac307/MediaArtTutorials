@@ -84,28 +84,50 @@ You are **not copying** the example — you are using it as a reference for **ho
 
 <h3 style="color: darkred;">[40-60 min] REAPER — Multi-Channel Composition</h3>
 
-You must create **a separate sound compositions**, one per speaker. 
+You must create **separate sound compositions**, one per speaker.
 
 #### Requirements
 
-- Duration: **20-30 seconds**
+- Duration: **20–30 seconds**
 - **No panning**
-- Each track must function independently but contribute to a shared atmosphere
-- Must keep using samples from FREESOUNDS or samples you record yourself.
-- Tracks may:
-  - Overlap
-  - Activate sequentially
-  - Create spatial contrast
-  - Create directional tension
-- You are expected to use the knowledge that you have learnt in W7 and W8. 
+- Each track must function independently while contributing to a shared spatial atmosphere
+- Continue using sound samples from **FREESOUND**
+- You are expected to apply techniques learned in **W7 and W8**
+- Optional: You may follow the new tutorial below if you would like to record your own sounds
 
-Avoid duplicating the same sound across speakers. Think in spatial zones.
+Tracks may:
 
-When finished:  
-**Export your final compositions as WAV files**    
-- `Lastname-Firstname-W9-SPK1.wav`  
-- `Lastname-Firstname-W9-SPK2.wav`  
-- ...so on
+- Overlap
+- Activate sequentially
+- Create spatial contrast
+- Create directional tension
+
+Avoid duplicating the same sound across all speakers. Think in spatial zones.
+
+### Export
+
+Export each speaker composition as a separate **WAV file**:  
+- `Lastname-Firstname-W9-SPK-#.wav`
+
+---
+
+#### Tutorial
+
+> You may use your laptop’s built-in microphone to record sound.  
+> For higher audio quality, you are encouraged to book a USB microphone.  
+> The **Snowball microphone** is available for free through the Media Equipment Rentals at the Lyons New Media Centre (Mills Library).  
+> Book here: [https://library.mcmaster.ca/services/rooms-equipment](https://library.mcmaster.ca/services/rooms-equipment){:target="_blank"}  
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/ijOPF7dwd7Y"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
 
