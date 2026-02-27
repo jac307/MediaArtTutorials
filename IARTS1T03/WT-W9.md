@@ -6,7 +6,7 @@
 
 ## Objective
 
-This week you will design a **multi-channel light and sound installation** for the Blackbox space.    
+This week you will design a **multi-channel light and sound installation** for the Lyons Family Centre.      
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
@@ -20,6 +20,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - Headphones
 - Blender (free software)
 - Reaper (free software)  
+- 📄 [**LFS Empty-With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"}
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
@@ -31,15 +32,18 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 <h3 style="color: darkred;">[15 min] Installation Concept | Spatial Intentions — Start Here</h3>
 
-Write **7–10 sentences** defining your installation concept.
+Write **1-pharragraph (250-300 words / approximately half a page)** defining your installation concept.  
 
-Address:
+Your paragraph must clearly address:  
 
 1. What kind of atmosphere are you constructing?
-2. How do audiences move through the space?
-3. Where are moments of intimacy, intensity, or distance?
-4. How do sound, light, and objects interact spatially?
-5. What changes as audiences walk between speaker zones?
+2. How will audiences move through the space?
+3. How do sound, light, and geometric objects interact spatially?
+4. How can you define at least three distinct zones within the installation where sound and light create different moods, intensities, or levels of intimacy?  
+
+Be specific.    
+Describe spatial relationships, not narrative meaning.    
+Focus on how the environment functions as an embodied experience.  
 
 ---
 
