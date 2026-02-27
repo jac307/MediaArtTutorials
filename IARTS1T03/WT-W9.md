@@ -51,7 +51,9 @@ Focus on how the environment functions as an embodied experience.
 
 You are designing an **immersive environment** in which audiences **physically navigate the space** through two to three clearly defined installation zones.  
 
-You must produce a **top-view floor map** using this 📄 [**LFS Empty-With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"} template.  
+You must produce:
+- A **top-view floor map** using this 📄[**LFS Empty – With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"} template  
+- A **lighting cue list for each light** (2–3 loop cues per light)
 
 Your floor map must consider:
 
@@ -66,8 +68,8 @@ Each zone must include:
 - **1–2 corresponding lights** 
 
 Each light must include:  
-- **2–3 looped cues** (designed as a repeating installation cycle)  
-- Cue logic that aligns conceptually with the 30-second sound loop   
+- **2–3 looped cue states** that function as a repeating installation cycle.
+- Include color, intensity, and transition per cue.     
 
 ---
 
@@ -88,7 +90,7 @@ You must create **separate sound compositions**, one per speaker.
 
 #### Requirements
 
-- Duration: **20–30 seconds**
+- Duration: **30 seconds**
 - **No panning**
 - Each track must function independently while contributing to a shared spatial atmosphere
 - Continue using sound samples from **FREESOUND**
@@ -136,85 +138,103 @@ Export each speaker composition as a separate **WAV file**:
 
 <h3 style="color: darkred;">[30m] Blender — Spatial Application & Audience POV </h3>  
 
-Import your mono speaker tracks into Blender using **Speaker objects**.
+Import your **multi-channel speaker compositions** into Blender using **Speaker objects**.
 
 #### Requirements
 
-- Use Blender’s **Speaker object** for each sound source
-- Assign each mono WAV file to its corresponding speaker
-- Position speakers exactly as designed in your floor map
-- Place geometric objects and lights according to your installation plan
-- Lights must reflect your 2–3 loop cue logic (no complex animation required — simple looping intensity/colour shifts are sufficient)
-- Keep materials simple and readable
+- Organize the installation into **two to three distinct zones**.
+- Position **Speaker objects**, **geometric objects**, and **lights exactly as designed in your floor map**.
+- Assign each **WAV file** to its corresponding Speaker object.
+- Animate your lights following your defined **cue logic and written instructions**.
+- Loop each light animation for **2–3 cycles**, resulting in approximately **30 seconds** of continuous installation playback.
 
+#### Reminders
+
+- Each zone must include:  
+  - **1–2 speakers**  
+  - **1–3 geometric objects**  
+  - **1–2 corresponding lights**
+- Each light must include **2–3 looped cue states** (a repeating installation cycle).
+- The installation must maintain a clear **audience circulation path**.  
+  
 ---
 
 ### Audience POV Video
 
-Create a **30-second video from the point of view of an audience member navigating the installation**.
+Create a **30-second video from the point of view of an audience member navigating the installation**.  
 
-This is not a cinematic camera study.  
-It should simulate how someone physically walks through the space.
+The video should simulate how someone physically walks through the space.  
+This is not a cinematic study — it is an embodied navigation.
 
 The movement must:
 
-- Follow your designed audience path
-- Move between speaker zones
-- Reveal changes in light and sound spatial relationships
+- Follow your designed **audience circulation path**
+- Move clearly between **speaker zones**
+- Reveal shifts in **light intensity, colour, and spatial sound relationships**
+- Maintain **smooth and intentional transitions** (no abrupt cuts or erratic motion)
 
-Export:
-
+➡️ Export:  
 `Lastname-Firstname-W9.mp4`  
+
+Format:  
 MP4 (H.264), 1920x1080, 24fps
 
 ---
 
 ### Installation Photos
 
-Export **2–3 still images** from Blender that clearly show:
+Export **3–4 still images** from Blender that clearly document your installation.
 
-- A full spatial overview
-- A focused speaker-object-light zone
-- A moment along the audience path
+Images must include:
 
----
+- A **full spatial overview** (top or angled view)
+- A **focused speaker–object–light composition** for each zone
+- A view from a **moment along the audience circulation path**
 
-<h3 style="color: darkred;">Submission Documents</h3>
-
-Create a single PDF including the following, formatted clearly and professionally:
-
-### 1. Installation Concept (7–10 sentences)
+Images should be clearly framed, well lit, and readable.  
 
 ---
+
+<h3 style="color: darkred;">Submission Documents</h3>  
+
+Create a single PDF including the following, formatted clearly and professionally:  
+
+### 1. Installation Concept (250–300 words)
+
+One paragraph clearly defining your spatial intentions, audience movement, and zone differentiation.  
 
 ### 2. Floor Plan (Full Page)
 
-- The floor plan must occupy **one full page**
-- Must include:
-  - Speaker locations (labeled SPK1–SPK4)
-  - Light placements (labeled L1–L6)
-  - Object placements
-  - Electrical outlet considerations
-  - Clearly defined audience navigation path
-- Include brief cue notes for each light (2–3 loop cues per light)
+The floor plan must occupy **one full page**.
 
-The floor plan must be clean, readable, and clearly labeled.
+It must include:
 
----
+- Speaker locations (labeled SPK1–SPK4)
+- Light placements (labeled L1–L6)
+- Object placements
+- Electrical outlet considerations
+- Clearly defined audience circulation path
+- Identification of the **two to three installation zones**
+
+You must also include a **lighting cue list (one per light)**:
+
+- 2–3 looped cues per light
+- Brief description of each cue state (intensity, colour, timing logic)
+- Indication that the cues function as a repeating installation cycle
+
+The floor plan and cue lists must be clean, readable, and clearly labeled.  
 
 ### 3. Installation Photos
 
-Include **2–3 rendered images** from Blender.
+Include **3–4 rendered images** from Blender.
 
 - Each photo must occupy **at least 1/3 of a page**
-- Photos must clearly show:
+- Images must clearly show:
   - A full spatial overview
-  - At least one focused speaker-object-light zone
-  - A view along the audience path
+  - A focused speaker–object–light composition for each zone
+  - A moment along the audience circulation path
 
 Images must be high resolution and clearly composed.
-
----
 
 ### 4. Sound Sample Credits
 
@@ -225,10 +245,9 @@ For each sound sample used:
 - Source link  
 - License information  
 
----
-
 ➡️ Export as PDF  
 `Lastname-Firstname-W9.pdf`
+
 
 ---
 
