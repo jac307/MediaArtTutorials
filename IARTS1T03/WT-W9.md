@@ -84,11 +84,11 @@ You are **not copying** the example — you are using it as a reference for **ho
 
 <h3 style="color: darkred;">[40-60 min] REAPER — Multi-Channel Composition</h3>
 
-You must create **3–4 separate sound compositions**, one per speaker.
+You must create **a separate sound compositions**, one per speaker.
 
 #### Requirements
 
-- Duration: **30 seconds**
+- Duration: **20-30 seconds**
 - **No panning**
 - Each track must function independently but contribute to a shared atmosphere
 - Tracks may:
@@ -96,20 +96,14 @@ You must create **3–4 separate sound compositions**, one per speaker.
   - Activate sequentially
   - Create spatial contrast
   - Create directional tension
-- Follow the tutorial to export **separate mono tracks**, not a single stereo file
 
-Avoid duplicating the same sound across all speakers. Think in spatial zones.
+Avoid duplicating the same sound across speakers. Think in spatial zones.
 
-When finished:
-
-1. **Save your REAPER project file**  
-   `Lastname-Firstname-W9.rpp`  
-
-2. **Export your final compositions as WAV files**  
-   - `Lastname-Firstname-W9-SPK1.wav`  
-   - `Lastname-Firstname-W9-SPK2.wav`  
-   - `Lastname-Firstname-W9-SPK3.wav`  
-   - `Lastname-Firstname-W9-SPK4.wav`
+When finished:  
+**Export your final compositions as WAV files**    
+- `Lastname-Firstname-W9-SPK1.wav`  
+- `Lastname-Firstname-W9-SPK2.wav`  
+- ...so on
 
 ---
 
