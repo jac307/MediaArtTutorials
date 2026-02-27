@@ -60,26 +60,17 @@ Your floor map must consider:
 - A clear audience circulation path  
 - Zones of intensity and quieter transitions  
 
-Each speaker zone must include:
+Each zone must include:  
+- **1-2 speakers**   
+- **1–3 geometric objects**  
+- **1–2 corresponding lights** 
 
-- **1–2 geometric objects**  
-- **1–2 corresponding lights**  
-
-Each light must include:
-
+Each light must include:  
 - **2–3 looped cues** (designed as a repeating installation cycle)  
-- Cue logic that aligns conceptually with the 30-second sound loop  
+- Cue logic that aligns conceptually with the 30-second sound loop   
 
-Your installation must include:
+Hand-drawn (preferred) or digital.   
 
-- **3–4 speakers**  
-- **4–6 lights**  
-- **3–6 geometric objects**  
-- A clearly defined audience navigation path  
-
-Objects must be **geometric forms only** (cube, sphere, cone, cylinder, plane, etc.).
-
-Hand-drawn (preferred) or digital.  
 ---
 
 #### Example  
