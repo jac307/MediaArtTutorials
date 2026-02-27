@@ -39,7 +39,7 @@ Your paragraph must clearly address:
 1. What kind of atmosphere are you constructing?
 2. How will audiences move through the space?
 3. How do sound, light, and geometric objects interact spatially?
-4. How can you define at least three distinct zones within the installation where sound and light create different moods, intensities, or levels of intimacy?  
+4. How can you **define two or three distinct zones** within the installation where sound and light create different moods, intensities, or levels of intimacy?  
 
 Be specific.    
 Describe spatial relationships, not narrative meaning.    
@@ -49,17 +49,15 @@ Focus on how the environment functions as an embodied experience.
 
 <h3 style="color: darkred;">[30 min] Installation Floor Map</h3>  
 
-You are designing an **immersive environment** where audiences **navigate the space**.
+You are designing an **immersive environment** where audiences **navigate the space** with two to three defined spaces / installed objects. 
 
-You must produce a **top-view floor map only**.
-
-Use the architectural layout of the LFS Blackbox (simplified drawing).  
+You must produce a **top-view floor map** using this 📄 [**LFS Empty-With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"}.  
+  
 You must consider:
-
-- Electrical outlet locations
-- Speaker placement relative to power access
-- Clear audience circulation path
-- Zones of intensity and quiet
+- Electrical outlet locations  
+- Speaker placement relative to power access  
+- Clear audience circulation path  
+- Zones of intensity and quiet  
 
 Each speaker must include:
 - **1–2 geometric objects**
