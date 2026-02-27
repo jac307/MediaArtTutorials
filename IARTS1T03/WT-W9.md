@@ -69,8 +69,6 @@ Each light must include:
 - **2–3 looped cues** (designed as a repeating installation cycle)  
 - Cue logic that aligns conceptually with the 30-second sound loop   
 
-Hand-drawn (preferred) or digital.   
-
 ---
 
 #### Example  
@@ -80,7 +78,7 @@ You are **not copying** the example — you are using it as a reference for **ho
 <img src="imgs/36.png" style="width: 60%; height: auto;">   
 
 > ⚠️ Your drawing skill is not graded.  
-> You are graded on **clarity of lighting logic, use of vocabulary, and ability to communicate cues clearly**.
+> You are graded on **clarity of spatial logic and use of technical vocabulary**.
 
 ---
 
