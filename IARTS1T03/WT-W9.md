@@ -107,7 +107,10 @@ Avoid duplicating the same sound across all speakers. Think in spatial zones.
 ### Export
 
 Export each speaker composition as a separate **WAV file**:  
-- `Lastname-Firstname-W9-SPK-#.wav`
+- `Lastname-Firstname-W9-SPK-1.wav`
+- `Lastname-Firstname-W9-SPK-2.wav`
+- `Lastname-Firstname-W9-SPK-3.wav`
+- `Lastname-Firstname-W9-SPK-4.wav`   
 
 ---
 
