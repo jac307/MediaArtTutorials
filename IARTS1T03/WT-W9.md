@@ -223,6 +223,16 @@ MP4 (H.264), 1920x1080, 24fps
 
 ---
 
+### Video Submission Example
+
+<figure style="width: 60%; margin: 0;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/59.mp4" type="video/mp4">
+  </video>
+</figure>
+
+---
+
 <h3 style="color: darkred;">Submission Documents</h3>  
 
 Create a single PDF including the following:
