@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W9 - Multi-Channel Installation Design (Light + Sound + Space)</span>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/56.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/56.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -141,7 +141,7 @@ You will begin with this [**Blender file**](imgs/Lastname-Firstname-W9.blend), w
 2. A **human scale model**. You must use this figure to accurately apply your floor design and evaluate proportions, distances, and audience circulation.  
 3. A **general ambient light** to softly illuminate the space so your renders are properly lit. You can only change the color of this light but don't modify its intensity.   
 
-<img src="imgs/55.png" style="width: 50%; height: auto;">   
+<img src="imgs/55.png" style="width: 60%; height: auto;">   
 
 #### Requirements
 
