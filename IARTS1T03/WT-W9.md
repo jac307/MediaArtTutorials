@@ -4,6 +4,10 @@
 
 # <span style="color: darkred;">W9 - Multi-Channel Installation Design (Light + Sound + Space)</span>
 
+<figure style="width: 100%; margin: auto;">
+  <img src="imgs/56.jpg" style="width: 100%; height: auto;">
+</figure>
+
 ## Objective
 
 This week you will design a **multi-channel light and sound installation** for the Lyons Family Centre.      
