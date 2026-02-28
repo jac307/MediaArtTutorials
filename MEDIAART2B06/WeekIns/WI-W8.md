@@ -56,9 +56,9 @@
       </a>
     </div>
   </div>
-<br>
-<br>
 </div>
+
+---
 
 Film all planned shots and record your on-scene production sound. Follow your pre-production plan and keep your files clearly organized.  
 
