@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">W8 — Production Framework</h1>
 <h2 style="color: darkred;">From Production Plan to On-Set Execution</h2>
 
-This document guides you from concept to executable production plan supporting the [W8 - Production Week](../WeekIns/WI-W8.md){:target="_blank"} activities & submission.    
+This document supports the [W8 - Production Week](../WeekIns/WI-W8.md){:target="_blank"} by outlining technical requirements, on-set best practices, and shot execution tips.    
 
 ## Sections
 
@@ -18,6 +18,8 @@ This document guides you from concept to executable production plan supporting t
 ---
 
 <h2 id="setup" style="color: darkred;">Before Shooting</h2>  
+
+This is everything that must be correct before pressing record.
 
 Camera
 
