@@ -61,7 +61,7 @@ Your floor map must consider:
 - Electrical outlet locations (if needed)    
 - Speaker placement in relation to power access   
 - A clear audience circulation path    
-- Zones of intensity and quieter transitions    
+- 2-3 defined zones  
 
 Each zone must include:  
 - **1-2 speakers** (labeled `SPK1`, `SPK2`, `SPK3`, etc.)
@@ -91,20 +91,13 @@ You must create **separate sound compositions**, one per speaker.
 
 #### Requirements
 
-- Duration: **15 seconds**
+- Duration: **10-20 seconds**
 - **No panning**
 - Each track must function independently while contributing to a shared spatial atmosphere
 - Continue using sound samples from **FREESOUND**
-- You are expected to apply techniques learned in **W7 and W8**
+- You are expected to apply techniques learned in **[W7](WT-W7.md){:target="_blank"}** and **[W8](WT-W8.md){:target="_blank"}**
+- Avoid duplicating the same sound across all speakers. Think in spatial zones
 - Optional: You may follow the new tutorial below if you would like to record your own sounds
-
-Tracks may:
-
-- Overlap
-- Create spatial contrast
-- Create directional tension
-
-Avoid duplicating the same sound across all speakers. Think in spatial zones.
 
 ### Export
 
