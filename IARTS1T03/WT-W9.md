@@ -152,7 +152,7 @@ You may reposition the human model to test navigation through your installation.
 
 - Organize the installation into **two to three distinct zones**.
 - Position **Speaker objects**, **geometric objects**, and **lights exactly as designed in your floor map**.
-- Import and assign each **mono WAV file** to its corresponding Speaker object.
+- Import and assign each **WAV file** to its corresponding Speaker object.
 - Animate your lights following your defined **cue logic and written instructions**.
 - Loop each light animation for **2–3 cycles**, resulting in approximately **30 seconds** of continuous installation playback.
 
