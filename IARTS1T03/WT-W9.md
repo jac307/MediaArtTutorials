@@ -131,34 +131,51 @@ Export each speaker composition as a separate **WAV file**:
 
 <h3 style="color: darkred;">[30m] Blender — Spatial Application & Audience POV </h3>  
 
-You will import this [**.OBJ file**](imgs/W9-Blackbox.obj), with a simplified 3D model simulating the dimensions of the LFS Blackbox.  
+You will begin with this [**Blender file**](imgs/Lastname-Firstname-W9.blend), which contains a collection named **“Venue”** with the following:
 
-The OBJ file includes a **human scale model**. You must use this figure to accurately apply your floor design and evaluate proportions, distance, and circulation.  
-You may reposition the human model to test navigation through your installation.  
+1. A **simplified 3D model** representing the dimensions of the **LFS Blackbox**, with a separate front wall that can be hidden to allow easier arrangement of your objects.
+2. A **human scale model**. You must use this figure to accurately apply your floor design and evaluate proportions, distances, and audience circulation.  
+3. A **general ambient light** to softly illuminate the space so your renders are properly lit. You can only change the color of this light but don't modify its intensity.   
+
+<img src="imgs/55.png" style="width: 50%; height: auto;">   
+
+#### Requirements
+
+- Position **geometric objects**, **Speaker objects**, and **lights exactly as designed in your floor map**.
+- Import and assign each **WAV file** to its corresponding Speaker object.
+- Animate your lights following your defined **cue logic and written instructions**.
+- If needed, loop each light animation for **2–3 cycles**, resulting in approximately **30 seconds** of continuous installation playback.   
 
 ➡️ Save as:  
 `Lastname-Firstname-W9.blend` 
 
 ---
 
-#### Requirements
+### Organization
 
-- Organize the installation into **two to three distinct zones**.
-- Position **Speaker objects**, **geometric objects**, and **lights exactly as designed in your floor map**.
-- Import and assign each **WAV file** to its corresponding Speaker object.
-- Animate your lights following your defined **cue logic and written instructions**.
-- Loop each light animation for **2–3 cycles**, resulting in approximately **30 seconds** of continuous installation playback.
+When working on your scene, you must organize it using **three types of collections**:
 
----
+1. **Venue** (already included in the file)  
+2. **Cameras** (already included in the file)  
+3. **New Collections** named `GRP1`, `GRP2`, `GRP3`, etc.
 
-#### Reminders
+Inside each `GRP` collection, you must include:
 
-- Each zone must include:  
-  - **1–2 speakers**  
-  - **1–3 geometric objects**  
-  - **1–2 corresponding lights**
-- Each light must include **2–3 looped cue states** (a repeating installation cycle).
-- The installation must maintain a clear **audience circulation path**.  
+- All geometries (meshes) belonging to that group.  
+  Naming format: `GRP1_OBJ1`, `GRP1_OBJ2`, `GRP1_OBJ3`, etc.
+
+- All lights belonging to that group.  
+  Naming format: `L1`, `L2`, `L3`, etc.
+
+- All speakers belonging to that group.  
+  Naming format: `SPK1`, `SPK2`, `SPK3`, etc.
+
+- **Correct naming protocol:**  
+  Do not use spaces in object names. Always use underscores `_` between words.
+
+<img src="imgs/54.png" style="width: 50%; height: auto;">      
+
+> ⚠️ **Important:** Your Blender file will be checked for proper organization.   
   
 ---
 
@@ -169,7 +186,7 @@ Export **3–4 still images** from Blender that clearly document your installati
 Images must include:
 
 - A **full spatial overview** (top or angled view)  
-- A **focused speaker–object–light composition** for each zone  
+- One **perspective view (POV)** for each zone  
 
 The **human scale model must be visible in the scene** to communicate proportion, perspective, and spatial dimensions.      
 Images should be clearly framed, well lit, and readable.   
