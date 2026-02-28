@@ -54,6 +54,7 @@ You are designing an **immersive environment** in which audiences **physically n
 You must produce:
 - A **top-view floor map** using this 📄[**LFS Empty – With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"} template  
 - A **lighting cue list for each light** (2–3 loop cues per light)
+- A **perspective drawing of each object group** (1–3 groups per zone required)
 
 Your floor map must consider:
 
@@ -77,7 +78,7 @@ Each light must include:
 
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting decisions and cue logic**.
 
-<img src="imgs/53.png" style="width: 60%; height: auto;">   
+<img src="imgs/53.png" style="width: 80%; height: auto;">   
 
 > ⚠️ Your drawing skill is not graded.  
 > You are graded on **clarity of spatial logic and use of technical vocabulary**.
