@@ -57,15 +57,15 @@ You must produce:
 
 Your floor map must consider:
 
-- Electrical outlet locations  
-- Speaker placement in relation to power access  
-- A clear audience circulation path  
-- Zones of intensity and quieter transitions  
+- Electrical outlet locations    
+- Speaker placement in relation to power access   
+- A clear audience circulation path    
+- Zones of intensity and quieter transitions    
 
 Each zone must include:  
-- **1-2 speakers**   
+- **1-2 speakers** (labeled SPK1–SPK4)
 - **1–3 geometric objects**  
-- **1–2 corresponding lights** 
+- **1–2 corresponding lights** (labeled L1–L6)   
 
 Each light must include:  
 - **2–3 looped cue states** that function as a repeating installation cycle.
@@ -138,15 +138,25 @@ Export each speaker composition as a separate **WAV file**:
 
 <h3 style="color: darkred;">[30m] Blender — Spatial Application & Audience POV </h3>  
 
-Import your **multi-channel speaker compositions** into Blender using **Speaker objects**.
+You will import this [**.OBJ file**](imgs/W9-Blackbox.obj), with a simplified 3D model simulating the dimensions of the LFS Blackbox.  
+
+The OBJ file includes a **human scale model**. You must use this figure to accurately apply your floor design and evaluate proportions, distance, and circulation.  
+You may reposition the human model to test navigation through your installation.  
+
+➡️ Save as:  
+`Lastname-Firstname-W9.blend` 
+
+---
 
 #### Requirements
 
 - Organize the installation into **two to three distinct zones**.
 - Position **Speaker objects**, **geometric objects**, and **lights exactly as designed in your floor map**.
-- Assign each **WAV file** to its corresponding Speaker object.
+- Import and assign each **mono WAV file** to its corresponding Speaker object.
 - Animate your lights following your defined **cue logic and written instructions**.
 - Loop each light animation for **2–3 cycles**, resulting in approximately **30 seconds** of continuous installation playback.
+
+---
 
 #### Reminders
 
@@ -159,95 +169,88 @@ Import your **multi-channel speaker compositions** into Blender using **Speaker 
   
 ---
 
-### Audience POV Video
-
-Create a **30-second video from the point of view of an audience member navigating the installation**.  
-
-The video should simulate how someone physically walks through the space.  
-This is not a cinematic study — it is an embodied navigation.
-
-The movement must:
-
-- Follow your designed **audience circulation path**
-- Move clearly between **speaker zones**
-- Reveal shifts in **light intensity, colour, and spatial sound relationships**
-- Maintain **smooth and intentional transitions** (no abrupt cuts or erratic motion)
-
-➡️ Export:  
-`Lastname-Firstname-W9.mp4`  
-
-Format:  
-MP4 (H.264), 1920x1080, 24fps
-
----
-
 ### Installation Photos
 
 Export **3–4 still images** from Blender that clearly document your installation.
 
 Images must include:
 
-- A **full spatial overview** (top or angled view)
-- A **focused speaker–object–light composition** for each zone
-- A view from a **moment along the audience circulation path**
+- A **full spatial overview** (top or angled view)  
+- A **focused speaker–object–light composition** for each zone  
 
-Images should be clearly framed, well lit, and readable.  
+The **human scale model must be visible in the scene** to communicate proportion, perspective, and spatial dimensions.      
+Images should be clearly framed, well lit, and readable.   
+
+---
+
+### Audience POV Video
+
+Create a **30-second video from the point of view of an audience member navigating the installation**.  
+
+The video should simulate how someone physically walks through the space.  
+This is not a cinematic study — it is an embodied navigation.  
+
+The movement must:
+
+- Follow your designed **audience circulation path**  
+- Move clearly between **speaker zones**  
+- Reveal shifts in **light intensity, colour, and spatial sound relationships**  
+- Maintain **smooth and intentional transitions** (no abrupt cuts or erratic motion)  
+
+⚠️ The **human scale model must be hidden before rendering the final video**.    
+
+➡️ Export:  
+`Lastname-Firstname-W9.mp4`  
+
+Format:  
+MP4 (H.264), 1920x1080, 24fps  
 
 ---
 
 <h3 style="color: darkred;">Submission Documents</h3>  
 
-Create a single PDF including the following, formatted clearly and professionally:  
+Create a single PDF including the following:
 
-### 1. Installation Concept (250–300 words)
+#### 1. Installation Concept (250–300 words)
 
-One paragraph clearly defining your spatial intentions, audience movement, and zone differentiation.  
+- **Title of the Installation**
+- **Name of the Artist** (your full name)
+- One paragraph clearly defining:
+  - Your spatial intentions
+  - Audience movement
+  - Zone differentiation
+  - How sound and light function across the installation
 
-### 2. Floor Plan (Full Page)
+#### 2. Floor Plan + Lighting Cue List (Full Page)
 
-The floor plan must occupy **one full page**.
+- The floor plan must occupy **one full page**.
+- Must include:
+  - Labeled speaker locations (SPK1–SPK4)
+  - Labeled light placements (L1–L6)
+  - Object placements
+  - Audience circulation path
+  - Clearly defined zones
+- Include a **lighting cue list for each light** (2–3 looped cues per light).
+- The floor plan and cue lists must be clean, readable, and clearly labeled.
 
-It must include:
+#### 3. Installation Photos
 
-- Speaker locations (labeled SPK1–SPK4)
-- Light placements (labeled L1–L6)
-- Object placements
-- Electrical outlet considerations
-- Clearly defined audience circulation path
-- Identification of the **two to three installation zones**
+- Include **3–4 rendered images** from Blender.
+- Each image must occupy **at least 1/3 of a page**.
+- Each image must include a **one-sentence description** explaining what it showcases (e.g., zone focus, audience perspective, spatial overview).
+- The human scale model must be visible in these images to demonstrate proportion and perspective.
 
-You must also include a **lighting cue list (one per light)**:
+#### 4. Sound Sample Credits
 
-- 2–3 looped cues per light
-- Brief description of each cue state (intensity, colour, timing logic)
-- Indication that the cues function as a repeating installation cycle
+For each sound sample used, include:
 
-The floor plan and cue lists must be clean, readable, and clearly labeled.  
-
-### 3. Installation Photos
-
-Include **3–4 rendered images** from Blender.
-
-- Each photo must occupy **at least 1/3 of a page**
-- Images must clearly show:
-  - A full spatial overview
-  - A focused speaker–object–light composition for each zone
-  - A moment along the audience circulation path
-
-Images must be high resolution and clearly composed.
-
-### 4. Sound Sample Credits
-
-For each sound sample used:
-
-- Title  
-- Creator  
-- Source link  
+- Title
+- Creator
+- Source link
 - License information  
 
 ➡️ Export as PDF  
-`Lastname-Firstname-W9.pdf`
-
+`Lastname-Firstname-W9.pdf`  
 
 ---
 
@@ -263,21 +266,22 @@ For each sound sample used:
 
 ## Assessment
 
-Your work will be assessed based on:
-
 ### Spatial Installation Design
-Clear organization of speaker zones, objects, lights, and audience movement within the Blackbox layout.
+Clear organization of two to three distinct zones, with intentional placement of speakers, geometric objects, lights, and audience circulation within the Blackbox layout.
 
 ### Multi-Channel Sound Logic
-Each mono speaker composition operates independently while contributing to a cohesive installation.
+Separate sound compositions per speaker function independently while contributing to a cohesive spatial atmosphere. Clear zone differentiation.
 
 ### Light Loop Design
-Each light includes 2–3 clearly designed loop cues that support spatial hierarchy and atmosphere.
+Each light includes 2–3 clearly defined looped cue states (colour, intensity, transition) aligned with the 30-second installation cycle.
+
+### 3D Spatial Implementation
+The OBJ model is used correctly. The human scale model demonstrates proportion in photos and is hidden in the POV render. The 3D layout matches the floor plan.
 
 ### Audience Experience
-The POV video demonstrates spatial awareness and meaningful navigation through sound zones.
+The POV video follows the defined circulation path with smooth, intentional movement and perceptible shifts in spatial sound and lighting.
 
 ### Documentation & Technical Accuracy
-Correct file naming, mono exports, floor map clarity, sound credits, and alignment between plan and 3D implementation.
+Full-page floor plan with cue lists, labeled elements, required photos with descriptions, correct mono exports, proper file naming, and complete sound sample credits.  
 
 ---
