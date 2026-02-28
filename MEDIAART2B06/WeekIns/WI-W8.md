@@ -8,13 +8,13 @@ Film all planned shots and record your on-scene production sound. Follow your pr
 
 ### Technical Requirements
 
-- All video must be shot on a DSLR camera.  
-- Metadata will be reviewed (during W9) to verify:
-  - Camera model  
-  - Manual mode  
-  - Resolution  
-  - Frame rate  
-  - Codec  
+- All video must be shot on a **DSLR camera, 24 fps, 1920x1080px**  
+- Metadata will be reviewed to verify:
+  - **Camera model**  
+  - **Manual mode**  
+  - **Resolution**  
+  - **Frame rate**  
+  - **Codec**  
 - No phone footage.  
 - No stock footage.
 
@@ -47,7 +47,7 @@ During this week, you are responsible for filming all planned shots and recordin
 Before recording, review:
 
 - [**W8 – Production Framework**](../TechWalks/TW-W8.md){:target="_blank"}
-- [**W8 - Tutorials**](../Tutorials/index.html?file=T-W7.json){:target="_blank"}   
+- [**W8 - Tutorials**](../Tutorials/index.html?file=T-W8.json){:target="_blank"}   
   
 These materials include important guidance on preparation, stabilization, sound capture, and on-set decision-making.
 
@@ -148,15 +148,15 @@ Example:
 <h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
 - All recorded files (WAV)  
-- Downloaded/sourced files (WAV preferred; MP3 accepted)  
+- Later to be included: Downloaded/sourced files (WAV preferred; MP3 accepted)  
 
 Naming protocol:  
 `ProjectName_AudioType_SimpleDescription_Take#`
 
-- Audio type = `ProdAudio` (Production Sound), `Ambience`, or `Music`  
+- Audio type = `ProdAudio` (Production Sound)  
 
 Example:  
-`Echo_Ambient_LibraryHall_T01.wav`
+`Echo_ProdAudio_RoomTone_T01.wav`
 
 <h4>📁 <code style="color: navy;">03_Renders</code></h4>
 
@@ -164,9 +164,7 @@ Example:
 
 <h4>📁 <code style="color: navy;">04_Exports</code></h4>
 
-- Later to be included:
-  - RoughCut render  
-  - Final render  
+- Later to be included: RoughCut render and Final render  
 
 ---
 
@@ -177,7 +175,10 @@ Example:
 | Production Package (ZIP Submission)  | `Lastname_Firstname_ProductionPackage.zip`    |
 
 > ⚠️ Follow the submission protocols carefully.  
-> Incorrect submissions will result in a two-point deduction.
+> Incorrect submissions will result in a two-point deduction.   
+
+If Avenue does not allow you to upload your ZIP file due to size limitations, upload a document containing a **shareable cloud link** (Google Drive, OneDrive, etc.) to your ZIP folder.    
+Make sure the link permissions are set so the Instructor/TA can access the files.    
 
 ________________________________________________________________________
 
@@ -185,5 +186,3 @@ Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
 AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.
-
-
