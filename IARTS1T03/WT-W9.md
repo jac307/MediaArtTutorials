@@ -64,7 +64,7 @@ Your floor map must consider:
 
 Each zone must include:  
 - **1-2 speakers** (labeled `SPK1`, `SPK2`, `SPK3`, etc.)
-- **1-3 groups of objects**, each can have **2–3 geometric objects** (labeled `GRP1`, `GRP2`, `GRP3`, etc.) 
+- **1-3 groups of objects**, each can have **2–3 geometric objects** (labeled `GRP1`, `GRP2`, `GRP3`, etc.)
 - **1–2 corresponding lights** (labeled `L1`, `L2`, `L3`, etc.)   
 
 Each light must include:  
