@@ -167,7 +167,7 @@ Do not delete original files from your SD card until:
 
 Failure to follow the folder structure and naming protocol will affect your grade.
 
-All materials must be organized exactly as outlined below.  
+**❗All materials must be organized exactly as outlined below❗**  
 
 ---
 
