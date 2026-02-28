@@ -4,6 +4,58 @@
 
 <h1 style="color: darkred;">W8 - Production Week</h1>  
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; width: 100%;">
+
+  <!-- Video 1 -->
+  <div style="flex: 1 1 320px; text-align: center;">
+    <video controls playsinline style="width: 100%; height: auto; border-radius: 8px;">
+      <source src="imgs/11.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="margin-top: 8px; font-size: 0.95rem; color: #666;">
+      Credits: 
+      <a href="https://www.instagram.com/ruka.mate" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      @ruka.mate
+      </a>
+    </div>
+  </div>
+
+  <!-- Video 2 -->
+  <div style="flex: 1 1 320px; text-align: center;">
+    <video controls playsinline style="width: 100%; height: auto; border-radius: 8px;">
+      <source src="imgs/12.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="margin-top: 8px; font-size: 0.95rem; color: #666;">
+      Credits: 
+      <a href="https://www.instagram.com/jlpctures" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      @jlpctures
+      </a>
+    </div>
+  </div>
+
+  <!-- Video 3 -->
+  <div style="flex: 1 1 320px; text-align: center;">
+    <video controls playsinline style="width: 100%; height: auto; border-radius: 8px;">
+      <source src="imgs/13.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="margin-top: 8px; font-size: 0.95rem; color: #666;">
+      Credits: 
+      <a href="https://www.instagram.com/films_akai" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      @films_akai
+      </a>
+    </div>
+  </div>
+
+</div>
+
 Film all planned shots and record your on-scene production sound. Follow your pre-production plan and keep your files clearly organized.  
 
 ### Technical Requirements
