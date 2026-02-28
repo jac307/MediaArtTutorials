@@ -195,6 +195,8 @@ Images must include:
 The **human scale model must be visible in the scene** to communicate proportion, perspective, and spatial dimensions.      
 Images should be clearly framed, well lit, and readable.   
 
+<img src="imgs/57.png" style="width: 100%; height: auto;">  
+
 ---
 
 ### Audience POV Video
