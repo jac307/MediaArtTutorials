@@ -141,7 +141,7 @@ You will begin with this [**Blender file**](imgs/Lastname-Firstname-W9.blend), w
 2. A **human scale model**. You must use this figure to accurately apply your floor design and evaluate proportions, distances, and audience circulation.  
 3. A **general ambient light** to softly illuminate the space so your renders are properly lit. You can only change the color of this light but don't modify its intensity.   
 
-<img src="imgs/55.png" style="width: 60%; height: auto;">   
+<img src="imgs/55.png" style="width: 70%; height: auto;">   
 
 #### Requirements
 
@@ -161,7 +161,9 @@ When working on your scene, you must organize it using **three types of collecti
 
 1. **Venue** (already included in the file)  
 2. **Cameras** (already included in the file)  
-3. **New Collections** named `GRP1`, `GRP2`, `GRP3`, etc.
+3. **New Collections** named `GRP1`, `GRP2`, `GRP3`, etc.  
+
+<img src="imgs/54.png" style="width: 70%; height: auto;">      
 
 Inside each `GRP` collection, you must include:
 
@@ -175,9 +177,7 @@ Inside each `GRP` collection, you must include:
   Naming format: `SPK1`, `SPK2`, `SPK3`, etc.
 
 - **Correct naming protocol:**  
-  Do not use spaces in object names. Always use underscores `_` between words.
-
-<img src="imgs/54.png" style="width: 50%; height: auto;">      
+  Do not use spaces in object names. Always use underscores `_` between words.  
 
 > ⚠️ **Important:** Your Blender file will be checked for proper organization.   
   
