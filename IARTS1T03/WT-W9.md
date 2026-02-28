@@ -57,15 +57,15 @@ You must produce:
 
 Your floor map must consider:
 
-- Electrical outlet locations    
+- Electrical outlet locations (if needed)    
 - Speaker placement in relation to power access   
 - A clear audience circulation path    
 - Zones of intensity and quieter transitions    
 
 Each zone must include:  
-- **1-2 speakers** (labeled SPK1–SPK4)
-- **1–3 geometric objects**  
-- **1–2 corresponding lights** (labeled L1–L6)   
+- **1-2 speakers** (labeled `SPK1`, `SPK2`, `SPK3`, etc.)
+- **1-3 groups of objects**, each can have **2–3 geometric objects** (labeled `GRP1`, `GRP2`, `GRP3`, etc.) 
+- **1–2 corresponding lights** (labeled `L1`, `L2`, `L3`, etc.)   
 
 Each light must include:  
 - **2–3 looped cue states** that function as a repeating installation cycle.
@@ -77,7 +77,7 @@ Each light must include:
 
 You are **not copying** the example — you are using it as a reference for **how to clearly communicate lighting decisions and cue logic**.
 
-<img src="imgs/36.png" style="width: 60%; height: auto;">   
+<img src="imgs/53.png" style="width: 60%; height: auto;">   
 
 > ⚠️ Your drawing skill is not graded.  
 > You are graded on **clarity of spatial logic and use of technical vocabulary**.
