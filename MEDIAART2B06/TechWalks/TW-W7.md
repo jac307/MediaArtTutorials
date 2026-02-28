@@ -5,7 +5,7 @@
 <h1 style="color: darkred;">W7 — Pre-Production Framework</h1>
 <h2 style="color: darkred;">From Concept to Production Plan</h2>
 
-This document guides you from concept to executable production plan supporting the [W7 - Pre-Production Package](../WeekIns/WI-W7.md){:target="_blank"}  Activities & Submission.    
+This document guides you from concept to executable production plan supporting the [W7 - Pre-Production Package](../WeekIns/WI-W7.md){:target="_blank"} activities & submission.    
 
 ## Sections
 
