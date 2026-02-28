@@ -4,12 +4,12 @@
 
 <h1 style="color: darkred;">W8 - Production Week</h1>  
 
-Film all planned shots and record your on-scene production sound. Collect ambient audio and, if need it, subtle instrumental music (no lyrics). Follow your pre-production plan and keep your files clearly organized.  
+Film all planned shots and record your on-scene production sound. Follow your pre-production plan and keep your files clearly organized.  
 
 ### Technical Requirements
 
 - All video must be shot on a DSLR camera.  
-- Metadata will be reviewed to verify:
+- Metadata will be reviewed (during W9) to verify:
   - Camera model  
   - Manual mode  
   - Resolution  
@@ -23,22 +23,95 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="logline" style="color: darkred;">One-to-One Feedback Meeting [15m]</h2>
+<h2 id="logline" style="color: darkred;">One-to-One Feedback Meeting [15m]</h2>  
+
+Each student must schedule and attend a 15-minute meeting within the available timeframes.
+
+The sign-up spreadsheet link is available on Avenue to Learn under **Announcements** and inside the **W7/W8 Submission Folder**.
+
+During this meeting, the instructor or TA will review your **Pre-Production Package** and provide feedback on the feasibility of your project and/or practical tips for recording.
+
+**Important:**  
+Because the meeting is only 15 minutes, feedback will focus on **one or two key elements** that require immediate attention before or during Production Week.
+
+Failure to attend the scheduled meeting will result in a **2-point deduction** from your W8 grade.
+
+After the meeting, you are responsible for revising your recording plan accordingly. Review your plan and identify additional improvements.  
 
 ---
 
-<h2 id="script" style="color: darkred;">Asynchronous Production Time</h2>
+<h2 id="script" style="color: darkred;">Asynchronous Production Time</h2> 
+
+During this week, you are responsible for filming all planned shots and recording your production sound.
+
+Before recording, review:
+
+- [**W8 – Production Framework**](../TechWalks/TW-W8.md){:target="_blank"}
+- [**W8 - Tutorials**](../Tutorials/index.html?file=T-W7.json){:target="_blank"}   
+  
+These materials include important guidance on preparation, stabilization, sound capture, and on-set decision-making.
 
 ---
 
-<h2 id="submission" style="color: darkred;">📤 Submission</h2>
+### General Preparation
 
-| Item                                 | Required Filename                             |
-|--------------------------------------|-----------------------------------------------|
-| Production Package (ZIP Submission)  | `Lastname_Firstname_ProductionPackage.zip`    |
+- Book all required equipment in advance.
+- Review the **W8 framework** for stabilization advice before shooting.
+- Confirm you have permission to film in your selected location(s).
+- You are limited to **1–2 locations maximum**.
+- Have a **Plan B** (weather, lighting changes, access restrictions, noise, etc.).  
+  Adjusting to real conditions is part of production.
 
-> ⚠️ **Follow the submission protocols carefully.  
-> ⚠️ Incorrect submissions will result in a two-point deduction❗**
+It is highly recommended that you support each other during filming.  
+Work in small groups (3–5 students) to assist with camera operation, sound monitoring, and continuity.
+
+---
+
+### Requirements/Guidelines (Must Follow)
+
+- **Record at least 20–30 seconds of room tone per location.** Review the **W8 framework**.  
+- Setup your microphones and monitor audio levels to **avoid clipping**.  
+- You must record using **Manual Mode**. 
+- Adjust **Aperture, Shutter Speed, and ISO** manually according to your lighting conditions.  
+- Ensure you are using **Custom White Balance** (do not leave white balance on Auto).  
+- Turn **stabilization ON** when shooting handheld.
+- Record each scene from **2–3 different perspectives** whenever possible. This gives you flexibility during editing.  
+- You must record using **Manual Focus**. Autofocus will shift during recording and ruin your shot.  
+  > ❗ Triple-check focus before hitting record.  
+
+You do not need to shoot in chronological order.    
+> If your project moves between different times or locations, record each scene fully before moving to the next. Avoid switching back and forth.  
+
+After recording each take, review your footage immediately.   
+You must check for:
+- **Focus**
+- **Image quality**
+- **Framing**
+If any of these are incorrect — especially focus — record the shot again before leaving the location.  
+
+> ❗ Do not finalize your shoot without reviewing your materials carefully. 
+
+---
+
+### Saving & Backing Up Files
+
+During Production Week, **you are responsible for properly organizing, saving, and backing up all materials**.
+
+- Do not wait until the end of the week to organize your files.
+- Immediately transfer footage and audio to your hard drive after each recording session.
+- Create the required folder structure from the beginning and place files in the correct folders.
+- Rename files according to the required naming protocol before editing.
+- Keep at least **one backup copy** of your materials (external drive or cloud storage).
+
+Do not delete original files from your SD card until:
+1. Files are transferred,
+2. Files are renamed,
+3. Files are verified and playable,
+4. A backup copy exists.
+
+Failure to follow the folder structure and naming protocol will affect your grade.
+
+All materials must be organized exactly as outlined below.  
 
 ---
 
@@ -94,6 +167,17 @@ Example:
 - Later to be included:
   - RoughCut render  
   - Final render  
+
+---
+
+<h2 id="submission" style="color: darkred;">📤 Submission</h2>
+
+| Item                                 | Required Filename                             |
+|--------------------------------------|-----------------------------------------------|
+| Production Package (ZIP Submission)  | `Lastname_Firstname_ProductionPackage.zip`    |
+
+> ⚠️ Follow the submission protocols carefully.  
+> Incorrect submissions will result in a two-point deduction.
 
 ________________________________________________________________________
 
