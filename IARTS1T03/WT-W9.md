@@ -90,7 +90,7 @@ You must create **separate sound compositions**, one per speaker.
 
 #### Requirements
 
-- Duration: **30 seconds**
+- Duration: **15 seconds**
 - **No panning**
 - Each track must function independently while contributing to a shared spatial atmosphere
 - Continue using sound samples from **FREESOUND**
@@ -100,7 +100,6 @@ You must create **separate sound compositions**, one per speaker.
 Tracks may:
 
 - Overlap
-- Activate sequentially
 - Create spatial contrast
 - Create directional tension
 
@@ -185,7 +184,7 @@ Images should be clearly framed, well lit, and readable.
 
 ### Audience POV Video
 
-Create a **30-second video from the point of view of an audience member navigating the installation**.  
+Create a **20 to 30-second video from the point of view of an audience member navigating the installation**.  
 
 The video should simulate how someone physically walks through the space.  
 This is not a cinematic study — it is an embodied navigation.  
