@@ -282,6 +282,6 @@ The OBJ model is used correctly. The human scale model demonstrates proportion i
 The POV video follows the defined circulation path with smooth, intentional movement and perceptible shifts in spatial sound and lighting.
 
 ### Documentation & Technical Accuracy
-Full-page floor plan with cue lists, labeled elements, required photos with descriptions, correct mono exports, proper file naming, and complete sound sample credits.  
+Full-page floor plan with cue lists, labeled elements, required photos with descriptions, proper file naming, and complete sound sample credits.  
 
 ---
