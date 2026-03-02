@@ -37,9 +37,7 @@ For guidance, review:
 
 ### Aim for a Cinematic Look
 
-Your lighting approach should aim for a **cinematic look**.
-
-In this course, “cinematic” does not mean dramatic or expensive. It means:
+Your lighting approach should aim for a **cinematic look**:
 
 - Intentional direction of light (not flat overhead lighting)
 - Visible depth through light and shadow
@@ -49,27 +47,25 @@ In this course, “cinematic” does not mean dramatic or expensive. It means:
 
 <img src="imgs/131.jpg" style="width: 80%; height: auto;">  
 
-**Cinematic Lighting Example**
+**Cinematic Lool Example**
 
 > **Sinners (2025)** – Dir. Ryan Coogler  
-> Cinematographer: Autumn Durald Arkapaw  
+> Cinematographer: **Autumn Durald Arkapaw**  
 > Strong shadow control; clear subject separation through contrast; motivated directional light sources (windows, practical lamps); defined depth between foreground and background.  
 
 <img src="imgs/132.jpg" style="width: 80%; height: auto;">  
 
-**High-Key / Low-Contrast Example**
+**High-Key / Low-Contrast (Not Cinematic Look) Example**
 
 > **Wicked (2024)** – Dir. Jon M. Chu  
-> Cinematographer: Alice Brooks  
-> Even facial illumination; minimal shadow depth; soft, diffused lighting; pastel tonal range; reduced contrast between subject and background.  
-
-For this course, your goal is to create **depth, contrast, and visual hierarchy**.   
+> Cinematographer: **Alice Brooks**  
+> Even facial illumination; minimal shadow depth; soft, diffused lighting; pastel tonal range; reduced contrast between subject and background.   
 
 ---
 
 ### Consistency
 
-Lighting must remain consistent between takes.
+**Lighting must remain consistent between takes.**
 
 Be aware of:
 - Changing daylight (cloud movement, sunset)
@@ -134,7 +130,7 @@ Once white balance is set, adjust:
 Your settings should respond to your **lighting conditions**.  
 Use the **histogram** to monitor exposure rather than relying only on what you see on the screen.
 
-For advanced guidance, review:  
+For guidance, review:  
 [W4 — Tech Walkthrough: Exposure Compensation & Exposure Control & Monitoring (Advanced)](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-compensation){:target="_blank"}  
 
 ---
@@ -165,7 +161,7 @@ For examples, review:
 [W2 — Tech Walkthrough: Shutter Speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}  
 [W3 — Tech Walkthrough: Shutter Speed as a Motion & Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#shutter-speed-as-a-motion--exposure-tool){:target="_blank"}    
 
-<img src="imgs/129.gif" style="width: 80%; height: auto;">   
+<img src="imgs/129.gif" style="width: 60%; height: auto;">   
 
 > **Chungking Express (1994)** – Dir. Wong Kar-wai 
 > Cinematographer: Christopher Doyle 
@@ -228,7 +224,7 @@ For a non-dialogue one-minute film, the **primary on-scene sounds** you should r
 - Sounds created by your main character interacting with the environment (object handling, footsteps, fabric movement, door sounds, etc.).  
   → Use a **condenser microphone connected to your Zoom recorder**.   
 
-For guidance on these microphones, review:  
+For guidance, review:  
 [W2 — Tech Walkthrough: Audio Recording Method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#6-audio-recording-method){:target="_blank"}    
 [W5 — Tech Walkthrough: Audio Setup — Microphones & Recorders](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-setup-%E2%80%94-microphones-recorders){:target="_blank"}    
 
@@ -275,33 +271,154 @@ Record room tone using your **Zoom recorder (built-in microphones)**.
 
 <h2 id="framing" style="color: darkred;">Framing, Focus & Movement</h2>   
 
-This section combines composition and stability — the things that visually make or break a one-minute film.
+This section combines **composition, focus, and stability** — the elements that visually make or break a one-minute film.
 
-Framing & Composition
+### Watch Your Background
 
-Check headroom and balance
+Your background is as important as your subject.
 
-Confirm subject placement
+Every frame contains:
 
-Watch background distractions
+- **Foreground** – The area closest to the camera.
+- **Midground** – Where your main subject usually sits.
+- **Background** – The space behind the subject.
 
-Frame intentionally (do not “just record”)
+All three layers should be intentional.  
 
-Focus
+Avoid:
 
-Triple-check focus before every take
+- Distracting objects behind your subject (exit signs, poles, clutter, bright windows).
+- Background elements that appear to “grow” from the subject’s head.
+- Unbalanced empty space unless it is intentional.
+- Cluttered or dirty backgrounds unless they serve the story — and even then, the messiness must be intentional and controlled.  
 
-Re-check if subject distance changes
+---
 
-Never rely on autofocus
+### Framing, Focal Point & Focus
 
-Stabilization
+Activate the **camera grid** to help with alignment and balance.
 
-Use tripod whenever possible
+- Position your subject or focal point intentionally.
+- Use rule-of-thirds alignment when appropriate.
+- Keep horizons straight.
+- Avoid accidental tilting unless stylistically motivated.
 
-If handheld, move slowly and intentionally
+On a large screen, poor framing becomes immediately obvious.  
 
-Avoid unnecessary camera movement
+For guidance, review:     
+[W7 — Pre-Production Framework: Shot Types & Camera Angles](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#shot-types){:target="_blank"}      
+
+A **focal point** is the area of the frame that draws the viewer’s attention first.  
+It is usually your main subject or the most important visual element.
+
+Your focal point must be sharp.
+
+- Always double-check focus before recording.
+- Use camera zoom-in preview to confirm sharpness.
+- If unsure, re-focus and check again.
+
+---  
+
+### Focus in Motion
+
+When the subject moves:
+
+- Anticipate subject distance changes.
+- Adjust the focus ring gradually as they move.
+- Practice the movement before recording.
+- Rehearse once without recording if needed.
+
+If you cannot maintain focus during movement, simplify the shot.  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/r1adyTSCLEs?si=aNb8hQPwhlZ32rAw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/PQBGonFO9ZY?si=okjAPz6fV_N3R11K"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
+---
+
+### Stabilization & Camera Movement
+
+Avoid unnecessary camera movement.  
+Movement must have purpose.  
+
+---
+
+#### When to Use a Tripod. 
+
+Use a tripod when:
+- The shot is static.
+- The scene relies on performance.
+- You need precise framing.
+- You want a controlled, cinematic feel.
+
+**Controlled Tripod Movements:**  
+- **Tilt** – Vertical movement (up / down).
+- **Pan** – Horizontal movement (left / right).
+- **Locked-off (Static)** – No movement at all.
+- **Motivated Reframe** – Slight repositioning to follow a small subject shift.
+- **Zoom (Use Sparingly)** – Changing focal length during recording.  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/pAvn034VcCg?si=Ddo6c3ntyD3oeF3L"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
+---
+
+### When to Use Handheld 
+
+Handheld is appropriate when:
+- Following a subject.
+- Creating intimacy.
+- Adding subtle realism.
+- Capturing controlled movement.  
+
+**Controlled Handheld Movements:**
+- **Tracking** – Following the subject forward or backward.
+- **Side Tracking** – Moving parallel to the subject.
+- **Push-in / Pull-back** – Slow movement toward or away from subject.
+
+If shooting handheld:
+- Turn stabilization ON.
+- Keep elbows close to your body.
+- Control your breathing.
+- Move slowly and deliberately.
+- Avoid quick jerks or unnecessary pans.  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/r2FERO4j9WI?si=1HtjF0pNDnLcDMIH"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
