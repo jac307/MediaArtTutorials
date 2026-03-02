@@ -19,17 +19,67 @@ This document supports the [W8 - Production Week](../WeekIns/WI-W8.md){:target="
 
 ---
 
-<h2 id="setup-lighting" style="color: darkred;">Before Shooting: Lighting</h2>  
+<h2 id="setup-lighting" style="color: darkred;">Before Shooting: Lighting</h2>    
 
-Subject properly lit
+Set up your lighting **before adjusting camera exposure settings**.  
 
-Lighting
+**Remember:** lighting will look different through the lens of the camera than it does to your eyes.  
+You must balance the **intensity of your lighting equipment** with your **camera exposure settings** (aperture, shutter speed, ISO).  
 
-Check direction of light
+Do not adjust camera settings to compensate for poorly positioned lighting.  
+First shape and position the light, then fine-tune exposure.   
 
-Avoid mixed color temperatures
+For guidance, review:  
+[W2 — Tech Walkthrough: Lighting Setup (Three-Point Logic)](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#2-lighting-setup-three-point-logic){:target="_blank"}   
+[W7 — Pre-Production Framework: Character Portrait Lighting Setups](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#character-portrait-lighting-setups){:target="_blank"}   
 
-Ensure consistency between takes
+---
+
+### Aim for a Cinematic Look
+
+Your lighting approach should aim for a **cinematic look**.
+
+In this course, “cinematic” does not mean dramatic or expensive. It means:
+
+- Intentional direction of light (not flat overhead lighting)
+- Visible depth through light and shadow
+- Controlled contrast
+- Consistent color temperature
+- Separation between subject and background    
+
+<img src="imgs/131.jpg" style="width: 80%; height: auto;">  
+
+**Cinematic Lighting Example**
+
+> **Sinners (2025)** – Dir. Ryan Coogler  
+> Cinematographer: Autumn Durald Arkapaw  
+> Strong shadow control; clear subject separation through contrast; motivated directional light sources (windows, practical lamps); defined depth between foreground and background.  
+
+<img src="imgs/132.jpg" style="width: 80%; height: auto;">  
+
+**High-Key / Low-Contrast Example**
+
+> **Wicked (2024)** – Dir. Jon M. Chu  
+> Cinematographer: Alice Brooks  
+> Even facial illumination; minimal shadow depth; soft, diffused lighting; pastel tonal range; reduced contrast between subject and background.  
+
+For this course, your goal is to create **depth, contrast, and visual hierarchy**.   
+
+---
+
+### Consistency
+
+Lighting must remain consistent between takes.
+
+Be aware of:
+- Changing daylight (cloud movement, sunset)
+- Practical lights being turned on/off
+- Shadows shifting across faces
+- Reflections in the background
+
+If lighting changes significantly, adjust your setup and re-check exposure.  
+
+❗ **Lighting must be controlled on set. Do not rely on fixing exposure or color in post-production.**
 
 ---
 
