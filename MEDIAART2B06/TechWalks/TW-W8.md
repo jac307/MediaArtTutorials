@@ -42,45 +42,25 @@ Ensure consistency between takes
 - All footage must be recorded in **16:9 aspect ratio**, regardless of your intended final crop.
 
 📌 How to set this up:  
-Follow the instructions in the [W2 — Tech Walkthrough: Camera on Video](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#1-camera-on-video){:target="_blank"}
-
-Even if you plan to export your final film in a different aspect ratio, you must **record in 16:9**.
+Follow the instructions in the [W2 — Tech Walkthrough: Camera on Video](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#1-camera-on-video){:target="_blank"}  
 
 <img src="imgs/126.png" style="width: 80%; height: auto;">   
 
-You will always capture the full 16:9 frame in-camera.  
+> 16:9 = **16 units wide for every 9 units tall.** 
+> 4:3 = **4 units wide for every 3 units tall.** 
+> 1.85:1 = **1.85 units wide for every 1 unit tall.** 
+> 2.35:1 = **2.35 units wide for every 1 unit tall.** 
+
+**You will always capture the full 16:9 frame in-camera.**  
 If you change the aspect ratio in editing, you will be **cropping** the image.
 
 This means you must compose your shots carefully during recording, anticipating how your final aspect ratio will affect what remains visible in the frame.  
 
----
-
-#### Aspect Ratios
-
-#### 16:9  
-**16 units wide for every 9 units tall.**  
-Standard widescreen format used for DSLR video, YouTube, and most modern displays.  
-Example: 1920 × 1080.
-
-#### 4:3  
-**4 units wide for every 3 units tall.**  
-More square in appearance. If edited from 16:9 footage, the sides will be cropped.
-
-#### 1.85:1  
-**1.85 units wide for every 1 unit tall.**  
-Common cinematic ratio used in many narrative films. Crops slightly from the top and bottom of 16:9 footage.
-
-#### 2.35:1  
-**2.35 units wide for every 1 unit tall.**  
-Ultra-wide cinematic format (often called Cinemascope). Crops more significantly from the top and bottom.  
-
 ---  
 
-### Manual Mode (Aperture / Shutter / ISO) + White Balance
+### White Balance
 
-Set your camera to **Manual Mode** before adjusting anything else.
-
-The first step is to set a **Custom White Balance**.  
+Set **Custom White Balance**.  
 You may use a white sheet of paper to calibrate it.
 
 📌 How to set this up:  
@@ -88,6 +68,10 @@ Follow the instructions in the
 [W2 — Tech Walkthrough: White Balance](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#4-white-balance){:target="_blank"}   
 
 ---
+
+### Manual Mode (Aperture / Shutter / ISO). 
+
+Set your camera to **Manual Mode**, add the **lenses** you will use, and **setup exposure**.      
 
 #### Exposure Setup
 
@@ -166,7 +150,7 @@ In some cases, visible grain can simulate the look of **35mm, Super 8, 65mm, and
 
 ---
 
-#### Manual Focus
+### Manual Focus
 
 Set your camera to **Manual Focus**.
 
