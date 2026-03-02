@@ -271,7 +271,9 @@ Record room tone using your **Zoom recorder (built-in microphones)**.
 
 <h2 id="composition" style="color: darkred;">Composition & Camera Control</h2>   
 
-This section combines **composition, focus, and stability** — the elements that visually make or break a one-minute film.
+This section combines **composition, focus, and stability**: the elements that visually make or break a one-minute film.  
+
+---
 
 ### Watch Your Background
 
@@ -290,7 +292,18 @@ Avoid:
 - Distracting objects behind your subject (exit signs, poles, clutter, bright windows).
 - Background elements that appear to “grow” from the subject’s head.
 - Unbalanced empty space unless it is intentional.
-- Cluttered or dirty backgrounds unless they serve the story — and even then, the messiness must be intentional and controlled.  
+- Cluttered or dirty backgrounds unless they serve the story — and even then, the messiness must be intentional and controlled.   
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/YNlBHyZwcXI?si=FWU3s6HRw1uhk1S3&amp;start=82"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -339,8 +352,8 @@ If you cannot maintain focus during movement, simplify the shot.
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
-</div> 
-
+</div>    
+  
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/PQBGonFO9ZY?si=okjAPz6fV_N3R11K"
