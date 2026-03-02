@@ -119,15 +119,31 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 #### The Automation or Envelope Knob in REAPER: Animate Volume and Panning
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JN4FV_OBHpU?si=w9GUpaRiGbg3a3kW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>  
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/JN4FV_OBHpU?si=w9GUpaRiGbg3a3kW"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 #### Dynamic Special FX in REAPER - Part 1
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ja8ieZTJGNg?si=GEZkBw29R5dUxRqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/Ja8ieZTJGNg?si=GEZkBw29R5dUxRqy"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>   
+
+#### Export in Reaper and avoid master clipping  
 
 **Render Settings:**  
 - Source: Master mmix
@@ -181,11 +197,18 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 ❗ Review this week’s slides for practical tips on **info**.    
 
-#### How to Use Speakers | Basic
+#### How to Use Speakers | Basic. 
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/32y8N5njt9U?si=CDJUxydlhdia--Ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/32y8N5njt9U?si=CDJUxydlhdia--Ab"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>   
 
 #### Using the Speaker for 3D Sound | Advance
 
@@ -202,8 +225,15 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
   <li><strong>14:30 — Exporting The Audio</strong></li>
 </ul>  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J7lk0CGMa5c?si=9qa6z1qHQz_HLxI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/J7lk0CGMa5c?si=9qa6z1qHQz_HLxI-"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
 </div>   
 
 #### Blender: Export File with Audio
