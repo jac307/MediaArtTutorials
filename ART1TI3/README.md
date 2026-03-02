@@ -34,17 +34,21 @@ Animate a sequence using printed frames and physical materials (paint, paper, th
 
 ## Project 3 (In pais)
 
-Generative visuals or AI-generated Graphic Novel. Choose one of these two options.
-  
-<!--
+Generative visuals or AI-generated Graphic Novel. Choose one of these two options.  
+
 ### Option 1
 
 + [Generative visuals with Hydra  - Part 1](Gen-Visuals-01.md)
-+ [Generative visuals with Hydra  - Part 2](Gen-Visuals-02.md)
 
 ### Option 2
 
 + [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 1](AI-Grap-Novel-01.md)
+  
+<!--
+
++ [Generative visuals with Hydra  - Part 2](Gen-Visuals-02.md)
+
+
 + [AI-generated Graphic Novel with Microsoft Co-Pilot  - Part 2](AI-Grap-Novel-02.md)
  -->
 
