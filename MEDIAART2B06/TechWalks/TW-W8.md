@@ -507,6 +507,18 @@ Always check:
 
 Small inconsistencies become very obvious on a large screen.  
 
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/Ff4_LqI9Oa4?si=4WHP8mmWlDD9JfOK"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
+
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
