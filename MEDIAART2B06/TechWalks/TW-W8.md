@@ -13,7 +13,7 @@ This document supports the [W8 - Production Week](../WeekIns/WI-W8.md){:target="
   <li><a href="#setup-lighting">Before Shooting: Lighting</a></li>
   <li><a href="#setup-camera">Before Shooting: Camera</a></li>
   <li><a href="#setup-sound">Before Shooting: Sound</a></li>
-  <li><a href="#framing">Framing, Focus & Movement</a></li>
+  <li><a href="#composition">While Shooting: Composition & Camera Control</a></li>
   <li><a href="#shooting">Space & Shooting Strategy</a></li>
 </ul>  
 
@@ -269,7 +269,7 @@ Record room tone using your **Zoom recorder (built-in microphones)**.
 
 ---
 
-<h2 id="framing" style="color: darkred;">Framing, Focus & Movement</h2>   
+<h2 id="composition" style="color: darkred;">Composition & Camera Control</h2>   
 
 This section combines **composition, focus, and stability** — the elements that visually make or break a one-minute film.
 
@@ -357,7 +357,10 @@ If you cannot maintain focus during movement, simplify the shot.
 ### Stabilization & Camera Movement
 
 Avoid unnecessary camera movement.  
-Movement must have purpose.  
+Movement must have purpose.   
+
+For guidance, review:     
+[W7 — Pre-Production Framework: Camera Movements](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#camera-movements){:target="_blank"}      
 
 ---
 
@@ -422,40 +425,74 @@ If shooting handheld:
 
 ---
 
-<h2 id="shooting" style="color: darkred;">Space & Shooting Strategy</h2>   
+<h2 id="shooting" style="color: darkred;">Shooting Strategy</h2>  
 
-This is where you address efficiency and discipline.
+This section focuses on **efficiency, discipline, and control** during production.  
 
-Shooting Strategy
+- Keep setups simple.  
+- Avoid overcomplicated settings.
+- Prioritize clarity over ambition.
+- Focus on executing fewer shots well rather than many shots poorly. 
 
-Shoot 2–3 perspectives per scene
+---  
 
-Let camera roll 3–5 seconds before and after action
+### Shoot 2–3 Perspectives Per Scene
 
-Record full actions (don’t cut early)
+Record each scene from **2 angles or framings** whenever possible.  
+This gives you flexibility during editing and strengthens rhythm and pacing.
 
-Do not rely on shooting chronologically
+Avoid relying on a single master shot.  
 
-Complete one scene fully before switching locations
+---
 
-Continuity
+### Let the Camera Roll
 
-Maintain object placement
+- Start recording **3–5 seconds before** the action begins.
+- Continue recording **3–5 seconds after** the action ends.
 
-Maintain body position
+This buffer allows clean cuts and smoother transitions during editing.
 
-Check eyelines
+---
 
-Maintain lighting consistency
+### Record Full Actions
 
-Efficiency for a One-Minute Film
+Do not stop recording too early.
 
-Keep setups simple
+If a character:
+- Sits → record until fully seated.
+- Walks → record until fully stopped.
+- Opens something → record until fully closed (if relevant).
 
-Avoid overcomplicated blocking
+**Incomplete actions create editing problems.**
 
-Prioritize clarity over ambition
+---
 
+### Do Not Rely on Chronological Shooting
+
+You do not need to shoot in story order.
+
+If your project alternates between two spaces or time periods:
+- Complete all shots in one space first.
+- Then move to the next.
+
+**Avoid switching back and forth between locations unnecessarily.**   
+**Complete each scene before moving on.**  
+
+---
+
+## Continuity
+
+Continuity is **visual consistency across cuts**.
+
+Always check:
+
+- **Object placement** (position on table, doors open/closed, etc.)
+- **Body position** (hand placement, posture, direction of movement)
+- **Eyelines** (where the character is looking)
+- **Lighting consistency** (match intensity and direction)
+- **Wardrobe details** (hair position, sleeves rolled up/down)
+
+Small inconsistencies become very obvious on a large screen.  
 
 ________________________________________________________________________
 
