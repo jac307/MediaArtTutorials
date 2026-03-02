@@ -106,9 +106,16 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 #### Why and How to use Reverb in REAPER
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bVguIQTqClo?si=U5rcUHgbwt7HRD0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/bVguIQTqClo?si=U5rcUHgbwt7HRD0g"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 #### The Automation or Envelope Knob in REAPER: Animate Volume and Panning
 
