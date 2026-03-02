@@ -227,13 +227,9 @@ Aperture controls **depth of field** and how much of the image appears in focus.
 
 Follow this tutorial to setup your aperture:  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
-
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
-    src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
+    src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -256,13 +252,9 @@ ISO controls the camera’s **sensitivity to light**.
 
 How to setup ISO:   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>   
-
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
-    src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
+    src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

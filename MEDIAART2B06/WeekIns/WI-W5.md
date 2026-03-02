@@ -92,11 +92,18 @@ You may use **any objects or instruments**, but **all sound must be produced liv
 > **No added sound is allowed in post-production.**  
 All objects or instruments used should be **created, assembled, or adapted by your group**.
 
-For inspiration, you may watch the example below to explore different approaches and objects commonly used in Foley work.
+For inspiration, you may watch the example below to explore different approaches and objects commonly used in Foley work.  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>   
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 

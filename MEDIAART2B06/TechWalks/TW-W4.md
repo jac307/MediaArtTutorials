@@ -60,11 +60,18 @@ To help manage these changes, you will work with **Exposure Compensation**, whic
 ❗ *Exposure Compensation does not replace careful exposure decisions using aperture, shutter speed, and ISO.  
 It is a support tool that helps you protect image information when lighting conditions change.*
 
-Watch this short tutorial on how to **set and adjust Exposure Compensation**:
+Watch this short tutorial on how to **set and adjust Exposure Compensation**:  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2GgBW4iW60c?si=dThr-GmVbQarHAkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/2GgBW4iW60c?si=dThr-GmVbQarHAkM"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -94,9 +101,16 @@ The **Exposure Triangle** describes the relationship between **aperture, shutter
 
 ### Watch this video for a deeper explanation of exposure:     
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r33iwr0nrjU?si=KSF-DVqOVioLv-s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/r33iwr0nrjU?si=KSF-DVqOVioLv-s3"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 

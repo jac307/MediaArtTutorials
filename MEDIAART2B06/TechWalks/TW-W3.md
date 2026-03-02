@@ -173,9 +173,16 @@ These three elements work together — changing one always affects the others.
 
 <img src="imgs/56.jpg" style="width: 50%; height: auto;">    
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n2HSoOq-rfo?si=-Q3nZtOi50DPhnX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/n2HSoOq-rfo?si=-Q3nZtOi50DPhnX8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -193,9 +200,16 @@ For **Week 3 (Static Outdoor Scene)**:
 
 #### How to change the metering
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L4ljKZvf6BU?si=BctLEVZPZYCEhYI5&amp;start=136" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/L4ljKZvf6BU?si=BctLEVZPZYCEhYI5&amp;start=136"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -218,11 +232,18 @@ For this assignment, use the histogram to:
 - Identify crushed shadows (loss of information in dark areas)
 - Confirm that exposure remains consistent across shots
 
-❗ Advise: Expose for Highlights and let the shadow areas fall where they may (better to have less detail in black than blown out whites). 
+❗ Advise: Expose for Highlights and let the shadow areas fall where they may (better to have less detail in black than blown out whites).   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Gmz1c6oq-4?si=Z2-yGKMsq8VTAHzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/8Gmz1c6oq-4?si=Z2-yGKMsq8VTAHzn"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -309,9 +330,16 @@ You will **record audio separately** using a **[ZOOM H4N Handheld Recorder](http
 
 #### ZOOM H4N TUTORIAL - How to set up the Zoom H4N to record - Recording audio for film
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xAFsAAVBoC0?si=UjnSlexSuCQnNhB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/xAFsAAVBoC0?si=UjnSlexSuCQnNhB0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ________________________________________________________________________
 
