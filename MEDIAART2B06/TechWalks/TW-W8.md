@@ -46,10 +46,10 @@ Follow the instructions in the [W2 — Tech Walkthrough: Camera on Video](https:
 
 <img src="imgs/126.png" style="width: 80%; height: auto;">   
 
-> 16:9 = **16 units wide for every 9 units tall.** 
-> 4:3 = **4 units wide for every 3 units tall.** 
-> 1.85:1 = **1.85 units wide for every 1 unit tall.** 
-> 2.35:1 = **2.35 units wide for every 1 unit tall.** 
+> 16:9 = **16 units wide for every 9 units tall.**   
+> 4:3 = **4 units wide for every 3 units tall.**   
+> 1.85:1 = **1.85 units wide for every 1 unit tall.**   
+> 2.35:1 = **2.35 units wide for every 1 unit tall.**   
 
 **You will always capture the full 16:9 frame in-camera.**  
 If you change the aspect ratio in editing, you will be **cropping** the image.
@@ -168,17 +168,58 @@ Use your camera’s **zoom-in keys** (focus assist) to verify sharpness before p
 
 ---
 
-<h2 id="setup-sound" style="color: darkred;">Before Shooting: Sound</h2>  
+<h2 id="setup-sound" style="color: darkred;">Before Shooting: Sound</h2>
 
-Sound
+For a non-dialogue one-minute film, the **primary on-scene sounds** you should record are:
 
-Monitor audio levels (no clipping)
+- Environmental sounds (ambient tone, subtle background activity).  
+  → Use a **shotgun microphone connected directly to your camera**.  
 
-Wear headphones
+- Sounds created by your main character interacting with the environment (object handling, footsteps, fabric movement, door sounds, etc.).  
+  → Use a **condenser microphone connected to your Zoom recorder**.   
 
-Reduce background distractions
+For guidance on these microphones, review:  
+[W2 — Tech Walkthrough: Audio Recording Method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#6-audio-recording-method){:target="_blank"}    
+[W5 — Tech Walkthrough: Audio Setup — Microphones & Recorders](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-setup-%E2%80%94-microphones-recorders){:target="_blank"}    
 
-Record 20–30 seconds of room tone (per location). 
+Do not rely entirely on foley or music added later. Your final film must demonstrate a **complex, multi-layered sound design** using:
+
+- On-scene recordings  
+- Sound effects  
+- Foley  
+- Environmental sounds  
+- Music (optional)
+
+You will develop the full sound design in later weeks.  
+For now, focus on capturing **clean, usable on-scene sound**.  
+
+---
+
+### Room Tone (Mandatory)
+
+You must record **20–30 seconds of room tone per location**.  
+
+Room tone is the **natural ambient sound of a space** when no one is speaking or moving. Room tone allows you to:  
+
+- Smooth edits between cuts  
+- Fill gaps in dialogue-free moments  
+- Maintain sonic continuity  
+- Avoid abrupt audio drop-offs  
+
+In some cases, room tone will function as your “silence.”  
+
+### How to Record Room Tone
+
+Record room tone using your **Zoom recorder (built-in microphones)**.
+
+1. Place the Zoom recorder in the same position where your main sound was captured.
+2. Ask everyone to remain completely still and silent.
+3. Stop all intentional movement (no footsteps, no fabric movement).
+4. Begin recording.
+5. Capture **20–30 seconds** of uninterrupted ambient sound.
+6. Label the file clearly (e.g., `ProjectName_Ambience_Location_T01.wav`).
+
+❗ **Do not skip this step.** Room tone is essential for professional sound editing and for maintaining continuity between cuts.  
 
 ---
 

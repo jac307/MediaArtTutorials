@@ -120,7 +120,7 @@ Export each speaker composition as a separate **WAV file**:
 > The **Snowball microphone** is available for free through the Media Equipment Rentals at the Lyons New Media Centre (Mills Library).  
 > Book here: [Lyons New Media Centre: Media Rooms and Equipment](https://libcal.mcmaster.ca/equipment?lid=3267){:target="_blank"}  
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/ijOPF7dwd7Y"
     title="YouTube video player"
@@ -225,7 +225,7 @@ MP4 (H.264), 1920x1080, 24fps
 
 ### Video Submission Example
 
-<figure style="width: 60%; margin: 0;">
+<figure style="width: 80%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
     <source src="imgs/59.mp4" type="video/mp4">
   </video>

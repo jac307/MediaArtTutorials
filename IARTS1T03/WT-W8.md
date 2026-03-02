@@ -106,7 +106,7 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 #### Why and How to use Reverb in REAPER
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/bVguIQTqClo?si=U5rcUHgbwt7HRD0g"
     title="YouTube video player"
@@ -119,7 +119,7 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 #### The Automation or Envelope Knob in REAPER: Animate Volume and Panning
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/JN4FV_OBHpU?si=w9GUpaRiGbg3a3kW"
     title="YouTube video player"
@@ -132,7 +132,7 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 
 #### Dynamic Special FX in REAPER - Part 1
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/Ja8ieZTJGNg?si=GEZkBw29R5dUxRqy"
     title="YouTube video player"
@@ -157,7 +157,7 @@ Check [W7 REAPER tutorilas](https://jac307.github.io/MediaArtTutorials/IARTS1T03
 > **Dry Run** = Analyzes the project locally to check peak levels without creating a file.  
 > **Render** = Exports the full audio file and saves it to your selected folder.      
 
-<figure style="width: 60%; margin: 0;">
+<figure style="width: 80%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
     <source src="imgs/52.mp4" type="video/mp4">
   </video>
@@ -199,7 +199,7 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 #### How to Use Speakers | Basic. 
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/32y8N5njt9U?si=CDJUxydlhdia--Ab"
     title="YouTube video player"
@@ -225,7 +225,7 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
   <li><strong>14:30 — Exporting The Audio</strong></li>
 </ul>  
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/J7lk0CGMa5c?si=9qa6z1qHQz_HLxI-"
     title="YouTube video player"
@@ -244,7 +244,7 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
 
 ### Video Submission Example
 
-<figure style="width: 60%; margin: 0;">
+<figure style="width: 80%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
     <source src="imgs/51.mp4" type="video/mp4">
   </video>
