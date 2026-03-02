@@ -353,7 +353,8 @@ If you cannot maintain focus during movement, simplify the shot.
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>    
-  
+    
+     
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/PQBGonFO9ZY?si=okjAPz6fV_N3R11K"
