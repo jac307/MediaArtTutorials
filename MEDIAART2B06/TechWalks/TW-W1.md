@@ -123,11 +123,18 @@ First, become familiar with the main camera buttons used to navigate menus and p
 4. Set **Image Quality** to **RAW + JPEG**  
   - JPEG files are used for quick viewing  
   - RAW files preserve full image data
-5. Follow the remaining settings shown in the video:
+5. Follow the remaining settings shown in the video:    
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ❗ *Check these settings every time you rent a camera*  
 
@@ -135,11 +142,18 @@ First, become familiar with the main camera buttons used to navigate menus and p
 
 ### Formatting the SD Card
 
-Before starting a new shoot, format the SD card **in the camera** to avoid file conflicts.
+Before starting a new shoot, format the SD card **in the camera** to avoid file conflicts.  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ❗ *Format SD Card every time you rent a camera*  
 
@@ -217,6 +231,17 @@ Follow this tutorial to setup your aperture:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
 ---
 
 ### ISO
@@ -234,6 +259,17 @@ How to setup ISO:
 <div style= "width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>   
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 <video height="315" controls>
   <source src="imgs/13.mp4" type="video/mp4">
@@ -255,9 +291,16 @@ Typically, the camera records:
 
 Watch the following tutorial to learn how to **enable and adjust AEB** on the camera:   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IyH9sQcXOe4?si=c6FpWLwdhgagqEso&amp;start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>   
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/IyH9sQcXOe4?si=c6FpWLwdhgagqEso&amp;start=29"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -283,9 +326,16 @@ Manual focus encourages:
 
 How to setup AWB (Automatic White Balance) --first 30 seconds:   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syodAm98LiA?si=6oTEtfkDfLa6JapQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/syodAm98LiA?si=6oTEtfkDfLa6JapQ"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 

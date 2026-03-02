@@ -25,11 +25,18 @@ This technical walkthrough supports the **Chiaroscuro Interview (Pairs)** assign
 
 ### Backdrop (If Available)
 - Place backdrop **1–1.5 meters behind the subject**
-- Prevent light spill onto the background
+- Prevent light spill onto the background  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ### Without a Backdrop
 - Choose an **uncluttered background**
@@ -58,14 +65,30 @@ This assignment uses a **three-point lighting approach for chiaroscuro**. Check 
 - **Power:** Leep power low.  
 
 #### Setup Fiilex P360 LED Light Kit
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDljJxLn7pY?si=3-i8h0O1lKp7e-am" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>  
 
-#### Lighting 101: Intro to Light Placement
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>    
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/cDljJxLn7pY?si=3-i8h0O1lKp7e-am"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
+#### Lighting 101: Intro to Light Placement  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 #### Other Studio Lighting Setups
 <img src="imgs/34.png" style="width: 100%; height: auto;"> 
@@ -123,11 +146,18 @@ On Week 2, you will work with **three cameras**, each with a different lenses. S
 
 - **Camera A:** Default kit lens (static - on tripoid)
 - **Camera B:** *50mm* (static - on tripoid)
-- **Camera C:** *85mm* (moving - handheld)
+- **Camera C:** *85mm* (moving - handheld)  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
@@ -137,43 +167,74 @@ For this assignment, use **Manual Mode (M)**.
 - Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
 - Keep exposure consistency across all three cameras
 
-<img src="imgs/26.jpg" style="width: 80%; height: auto;">   
+<img src="imgs/26.jpg" style="width: 80%; height: auto;">     
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ### Aperture (f-number)
 
 - Start with a **wide aperture**, such as **f/2.8 – f/5**
 - A wider aperture lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
 - **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.
-- **Recommendation:** Keep the **same or similar aperture across all cameras** to make multi-camera exposure easier to manage.
+- **Recommendation:** Keep the **same or similar aperture across all cameras** to make multi-camera exposure easier to manage.  
 
-<div style= "width:80%; height:auto">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/19603662?h=1270ae8baa" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://player.vimeo.com/video/19603662?h=1270ae8baa"
+    title="vimeo-player"
+    frameborder="0"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ### Shutter Speed
 
 - Start at **1/60s**. You may raise it or lower it slighthly if needed
 - Shutter speed in this assignment is used primarily to fine-tune overall exposure, and avoid motion blur while keeping movement natural
 - Because the subject is mostly still, extreme shutter speeds are not required.
-- **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.
+- **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.   
 
-<div style= "width:80%; height:auto">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/19603537?h=7533f831d5" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://player.vimeo.com/video/19603537?h=7533f831d5"
+    title="vimeo-player"
+    frameborder="0"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ### ISO
 
 - Begin at **ISO 400** for the cleanest image
 - Increase to **ISO 800-1600** only if the scene is still too dark **after adjusting lights and aperture**
-- Avoid going higher unless instructed, as higher ISO introduces visible noise (especially in low-light scenes)
+- Avoid going higher unless instructed, as higher ISO introduces visible noise (especially in low-light scenes)  
 
-<div style= "width:80%; height:auto">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/19603860?h=70853fa7d3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-</div>   
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://player.vimeo.com/video/19603860?h=70853fa7d3"
+    title="vimeo-player"
+    frameborder="0"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ### Additional Settings
 
@@ -189,11 +250,18 @@ White Balance is the **appearance of Color** determined by the **pigments presen
 In Week 1, you used **Auto White Balance (AWB)**. In this mode, the camera automatically analyzes the scene and adjusts color temperature to neutralize what it assumes should be white.   
 
 For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones in all three cameras. Follow this tutorial to set **White Balance manually**.  
-> A **3 in 1 Balance Card Set (2"x 3")** will be available for White Balance (this item is included on the Department rentals).
+> A **3 in 1 Balance Card Set (2"x 3")** will be available for White Balance (this item is included on the Department rentals).  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-</div>   
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 #### 3 in 1 Balance Card Set (2"x 3")
 
@@ -219,9 +287,16 @@ Check the [Available Microphones](../Audio.md){:target="_blank"}.
 
 Follow this tutorial to setup the **RODE VideoMic NTG On-Camera Shotgun Microphone** to your **main camera (A)**:  
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v_iq4i9zmGA?si=r-7RjE0QbbsV_jgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>     
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/v_iq4i9zmGA?si=r-7RjE0QbbsV_jgq"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 Follow one of these tutorials to setup the **lapel Microphone** to your **side camera (B)**:  
 
@@ -229,21 +304,35 @@ Follow one of these tutorials to setup the **lapel Microphone** to your **side c
 
 > Note: You only need to setup one microphone.   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ### Connect CAMERA to Sennheiser Evolution Wireless(G4 Sys 100-P Series)
 
 <div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHkD4EAtNjM?si=hJM9F8KW1PUiRy5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>   
 
-### Basics of Audio for Video:  
+### Basics of Audio for Video:   
 
-<div style= "width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>    
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ________________________________________________________________________
 
