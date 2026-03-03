@@ -67,7 +67,7 @@ In your **Experimentation** section, create an alternative visual narrative of *
 
 #### ✅ Document Your Process
 
-Create a table with four columns in the **Experimentation** section. For each attempted image (including the ones that failed), include:
+Create a table with four columns in the **Experimentation** section. For each attempted image (including the ones that failed) before or after the following:
 
 1. **Story Section**
    - Copy/paste the excerpt from The Rapid Decline that you visualized.
