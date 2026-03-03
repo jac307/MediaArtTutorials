@@ -72,7 +72,7 @@ Create a table with four columns in the **Experimentation** section. For each at
 1. **Story Section**
    - Copy/paste the excerpt from The Rapid Decline that you visualized.
 2. **Image**
-   - Insert all four generated images—even unsuccessful ones.
+   - Insert all generated images, the four successful ones, and all of the unsuccessful ones (in a different chart).
 3. **Prompt**
    - Copy/paste the exact prompt you used.
 4. **Comments** (4–5 sentences). Reflect on:
