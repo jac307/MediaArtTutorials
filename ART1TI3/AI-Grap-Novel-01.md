@@ -60,7 +60,7 @@ Create a document and include the following sections:
 
 In your **Experimentation** section, create an alternative visual narrative of *The Rapid Decline*:  
 
-- Generate a series of images that follow the **structure, tone, and emotional arc** of the story.
+- Generate a series of four images that follow the **structure, tone, and emotional arc** of the story.
 - Maintain **stylistic cohesion** so your visuals feel like a unified graphic novel.
 - **Actively challenge AI bias**.
   > Copilot often defaults to white or stereotypical characters. Intentionally diversify representation, avoid generic “AI aesthetics” (plastic textures, smooth unrealistic lighting, hyper-glossy detail), and push toward personal, meaningful styles.
@@ -72,7 +72,7 @@ Create a table with four columns in the **Experimentation** section. For each at
 1. **Story Section**
    - Copy/paste the excerpt from The Rapid Decline that you visualized.
 2. **Image**
-   - Insert all generated images—even unsuccessful ones.
+   - Insert all four generated images—even unsuccessful ones.
 3. **Prompt**
    - Copy/paste the exact prompt you used.
 4. **Comments** (4–5 sentences). Reflect on:
