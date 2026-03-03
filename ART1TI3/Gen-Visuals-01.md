@@ -37,7 +37,7 @@ Create a document and include the following sections:
 1. General Info
    - Your name
    - Group number
-   - Tool used (Microsoft Copilot)
+   - Tool used (Hydra)
 2. Experimentation
 
 ---
