@@ -55,13 +55,13 @@ Complete the following Hydra tutorials:
 
 #### ✅ Document Your Process
 
-Create a table with three columns in the **Experimentation** section. For each tutorial, create **four images**. For each image, include:
+Create a table with three columns in the **Experimentation** section. For each tutorial, create **three-four screenshot**. For each image, include:
 
 1. **Image**
    - Insert generated images (screenshots).
 2. **Code**
    - Copy/paste the exact code you used.
-3. **Comments** (4–5 sentences). Reflect on:
+3. **Comments** (3-4 sentences). Reflect on:
    - What challenges did you face?
    - How did the tool respond to your changes?  
    - What creative potential do you see in Hydra?
