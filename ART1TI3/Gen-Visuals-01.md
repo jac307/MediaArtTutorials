@@ -50,7 +50,8 @@ Complete the following Hydra tutorials:
 
 - [Hydra: Intro](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Intro.html){:target="_blank"}  
 - [Hydra: Transformers](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Transformers.html){:target="_blank"}  
-- [Hydra: Modulators and Operators](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-AdvanceReferences.html){:target="_blank"}  
+- [Hydra: Modulators and Operators](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-ModOpe.html){:target="_blank"}
+- [Hydra: Advance References](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-AdvanceReferences.html){:target="_blank"} 
 - [Hydra Cheatsheet](https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Cheatsheet.html){:target="_blank"}
 
 #### ✅ Document Your Process
