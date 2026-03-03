@@ -55,11 +55,19 @@ Your lighting approach should aim for a **cinematic look**:
 
 <img src="imgs/132.jpg" style="width: 80%; height: auto;">  
 
-**High-Key / Low-Contrast (Not Cinematic Look) Example**
+**High-Key / Low-Contrast (Not Great Cinematic Look) Example**
 
 > **Wicked (2024)** – Dir. Jon M. Chu  
 > Cinematographer: **Alice Brooks**  
 > Even facial illumination; minimal shadow depth; soft, diffused lighting; pastel tonal range; reduced contrast between subject and background.   
+
+<img src="imgs/133.jpg" style="width: 80%; height: auto;">  
+
+**Flat (Sitcom/TV Lighting) Example**
+
+> **The Big Bang Theory (2007–2019)** Network: CBS  
+> Sitcom lighting prioritizes consistent exposure across multiple actors and camera angles.  
+The goal is clarity and performance visibility, not dramatic shadow or depth.
 
 ---
 
