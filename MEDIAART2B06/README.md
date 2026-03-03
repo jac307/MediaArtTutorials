@@ -73,8 +73,8 @@ This project synthesizes the technical and creative skills developed in Module I
   + [W7 - Pre-Production Framework](TechWalks/TW-W7.md) - From Concept to Production Plan
   + [W7 - Tutorials](Tutorials/index.html?file=T-W7.json) - Pre-Production & Cinematic Foundations
 + [Week 8](WeekIns/WI-W8.md) — Production Week 
-  + [W8 - Production Framework](TechWalks/TW-W7.md) - From Pre-Production Plan to On-Set Execution
-  + [W8 - Tutorials](Tutorials/index.html?file=T-W7.json) - Cinematic Production Essentials
+  + [W8 - Production Framework](TechWalks/TW-W8.md) - From Pre-Production Plan to On-Set Execution
+  + [W8 - Tutorials](Tutorials/index.html?file=T-W8.json) - Cinematic Production Essentials
 
 <!--
 
