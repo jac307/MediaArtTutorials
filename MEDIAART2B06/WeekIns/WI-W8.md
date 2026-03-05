@@ -181,10 +181,6 @@ Follow the required folder structure (inside ZIP):
 <h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
 
 - W7 PDF submission (final pre-production package)  
-- Later to be included:
-  - Premiere project file (.prproj)  
-  - Audition project file (.sesx)  
-  - Autosaves  
 
 <h4>📁 <code style="color: navy;">01_RawFootage</code></h4>
 
@@ -203,8 +199,7 @@ Example:
 
 <h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
-- All recorded files (WAV)  
-- Later to be included: Downloaded/sourced files (WAV preferred; MP3 accepted)  
+- All on-scene sound recordings (WAV)  
 
 Naming protocol:  
 `ProjectName_AudioType_SimpleDescription_Take#`
@@ -216,11 +211,11 @@ Example:
 
 <h4>📁 <code style="color: navy;">03_Renders</code></h4>
 
-- Later to be included: Temporary renders  
+- Empty folder
 
 <h4>📁 <code style="color: navy;">04_Exports</code></h4>
 
-- Later to be included: RoughCut render and Final render  
+- Empty folder 
 
 ---
 
