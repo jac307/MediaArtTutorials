@@ -180,7 +180,7 @@ Follow the required folder structure (inside ZIP):
 
 <h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
 
-- W7 PDF submission (final pre-production package)  
+- W7 - Pre-Production Package: PDF submission files 
 
 <h4>📁 <code style="color: navy;">01_RawFootage</code></h4>
 
@@ -199,7 +199,7 @@ Example:
 
 <h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
-- All on-scene sound recordings (WAV)  
+- All on-screen sound recording files (WAV)
 
 Naming protocol:  
 `ProjectName_AudioType_SimpleDescription_Take#`
