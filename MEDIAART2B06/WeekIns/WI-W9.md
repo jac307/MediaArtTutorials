@@ -43,45 +43,39 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ---
 
-### Step 2 — Import and Review Footage [10m]
+### Step 2 — Import, Review, and Select Footage [10m]
 
-1. Import all files from: 📁 `01_RawFootage`. 
-2. Review your footage inside the **Source Monitor**.  
+Import all files from: 📁 `01_RawFootage`. 
+Review your footage inside the **Source Monitor**.  
 
 As you review, identify usable takes.  
 Do **not delete any footage**, but avoid using clips with:  
 - Severe focus problems
 - Unusable exposure
 - Major camera shake
-- Recording errors
+- Recording errors  
 
----
-
-### Step 3 — Select Your Shots [10m]
-
-Choose the best takes that correspond to your **storyboard shots**.
-
-Focus on:
+Choose the best takes that correspond to your **storyboard shots**. Focus on:  
 - Clear focus
 - Stable framing
 - Usable performance/action
 - Correct shot type
 
-You may have multiple takes per shot — **select the strongest ones**.
+You may have multiple takes per shot — **select the strongest one**.  
 
 ---
 
-### Step 4 — Build the Rough Assembly [15m]
+### Step 3 — Build the Draft Assembly [15m]
 
 First, **create a sequence** with the following settings:  
 - Set your sequence to **24 fps**.  
 - Use the following frame sizes depending on the **aspect ratio** you choose for your final project:  
-  **16:9** → 1920 px × 1080 px  
-  **4:3** → 1440 px × 1080 px  
-  **1.85:1** → 1920 px × 1038 px  
-  **2.35:1** → 1920 px × 817 px   
+  **16:9** → 1920 × 1080  
+  **4:3** → 1440 × 1080  
+  **1.85:1** → 1920 × 1038  
+  **2.35:1** → 1920 × 817   
   
-> These dimensions maintain the correct proportions while working with footage recorded at **1920 px × 1080 px**.  
+> These dimensions maintain the correct proportions while working with footage recorded at **1920 × 1080**.  
 
 Then, **begin placing your selected clips in order**. For this stage:  
 - Place **one shot after another**
@@ -95,14 +89,13 @@ Then, **begin placing your selected clips in order**. For this stage:
 
 ---
 
-### Step 5 — Watch + Notes [10m]
+### Step 4 — Watch + Notes [10m]
 
-1. Export a temporary version of your rough sequence.  
-   Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.
+Export a temporary version of your rough sequence.  
+  Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.  
 
-2. Watch the video **from beginning to end without stopping**.
-
-While watching, focus on **clarity, shot order, and basic pacing**.  
+Watch the video **from beginning to end without stopping**.  
+  While watching, focus on **clarity, shot order, and basic pacing**.  
 
 Write down **three issues** you notice in your edit that you will address in the next activity.  
 
@@ -114,7 +107,7 @@ Examples of issues:
 - The action does not flow clearly between shots.
 - A moment in the story feels unclear.
 
-⚠️ Do not begin editing yet.  
+⚠️ **Do not begin editing yet.**  
 First **identify the problems**. In the next activity, you will **address those issues**.   
 
 ---
