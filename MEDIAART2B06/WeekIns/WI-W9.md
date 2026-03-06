@@ -18,7 +18,7 @@ You are expected to work actively during class time and participate in all in-cl
   <li><a href="#assembly">Activity 1: Build Rough Assembly [50m]</a></li>
   <li><a href="#rythm">Activity 2: Rhythm + Basic Sound Integration [55m]</a></li>
   <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
-  <li><a href="#reviews">Peer Mini-Reviews + Adjustment [50m]<</a></li>
+  <li><a href="#reviews">Peer Mini-Reviews + Adjustment [50m]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
@@ -92,10 +92,10 @@ Then, **begin placing your selected clips in order**. For this stage:
 ### Step 4 — Watch + Notes [10m]
 
 Export a temporary version of your rough sequence.  
-  Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.  
+   - Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.  
 
 Watch the video **from beginning to end without stopping**.  
-  While watching, focus on **clarity, shot order, and basic pacing**.  
+   - While watching, focus on **clarity, shot order, and basic pacing**.  
 
 Write down **three issues** you notice in your edit that you will address in the next activity.  
 
@@ -112,14 +112,12 @@ First **identify the problems**. In the next activity, you will **address those 
 
 ---
 
-<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2>. 
+<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2> 
 
-In this activity, you will **revise your Draft Assembly** by addressing the issues you identified in the previous step.
-
-Your goal is to **improve rhythm and clarity** by trimming shots, removing unnecessary moments, and refining the order of the sequence.
+In this activity, you will **improve your Draft Assembly** by addressing the issues you identified in the previous step and **focusing on rhythm and clarity** by trimming shots, removing unnecessary moments, and refining the order of the sequence.
 
 At the end of this step, your sequence should be **approximately 1 minute long**.  
-A small margin is acceptable at this stage (**no more than 1:10**).
+> A small margin is acceptable at this stage (**no more than 1:10**).
 
 ---
 
@@ -159,30 +157,23 @@ Your sequence should now feel **clearer and more intentional** than the draft as
 
 In this stage, you will work **only with the sound recorded during production**.  
 
-Place **room tone underneath the sequence** to create a consistent background sound.   
+1. Place **room tone underneath the sequence** to create a consistent background sound.   
+2. You may also include:  
+   - Production sound recorded on set
+   - Environmental sounds captured during filming
 
-You may also include:  
-- Production sound recorded on set
-- Environmental sounds captured during filming
-
-
-Do **not** add:
-- Music
-- Sound effects
-- Foley
-- External sound sources 
-The full sound design will be developed in later stages.  
+⚠️ Do **NOT** add music, sound effects, foley, or external sound sources  
+The full sound design will be developed in later stages.    
 
 ---  
 
 ### Step 4 — Watch + Notes + Adjustments [15m]
 
-1. Export a temporary version of your rough sequence.  
-   Save it as `ProjectName_RhythmPass.mp4` inside folder: 📁 `03_Renders`.
+Export a temporary version of your rough sequence.  
+   - Save it as `ProjectName_RhythmPass.mp4` inside folder: 📁 `03_Renders`.
 
-2. Watch the video **from beginning to end without stopping**.  
-
-While watching, focus specifically on **rhythm and shot duration**.  
+Watch the video **from beginning to end without stopping**.  
+   - While watching, focus specifically on **rhythm and shot duration**.  
 
 Identify **three rhythm issues** that still need improvement. Examples may include:
 
@@ -191,9 +182,9 @@ Identify **three rhythm issues** that still need improvement. Examples may inclu
 - A transition between two shots that feels awkward  
 - A moment where the sequence slows down unnecessarily  
 
-After identifying these issues, return to your sequence and **make quick adjustments** to improve the rhythm.
+After identifying these issues, return to your sequence and **make quick adjustments** to improve the rhythm.  
 
-Do not over-edit at this stage. Focus only on **small timing corrections**.    
+⚠️ Do **NOT** over-edit at this stage. Focus only on **small timing corrections**.    
 
 ---
 
