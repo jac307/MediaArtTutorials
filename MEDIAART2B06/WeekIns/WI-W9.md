@@ -7,7 +7,11 @@
 Assemble your footage and sound materials into a complete sequence that reflects your pre-production plan while allowing room for revision.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
+You are expected to work actively during class time and participate in all in-class activities.  
+
+⚠️ **Reminder:** During the last hour of tutorial, the Instructor/TAs will begin the **in-person grading check**.  
+   - You must have your **project folder properly organized** and be ready to show your files and temporary renders.
+   - Check: <a href="#submission">W9: In-Person Grading</a> 
 
 ---
 
@@ -271,10 +275,6 @@ Return to your project and **begin making adjustments** based on:
 Peer feedback provides an **unbiased viewer perspective**, which is valuable during the editing process.
 
 You are not required to follow every suggestion. However, you should carefully consider the feedback and address any moments that appear **confusing or unclear** to viewers.  
-
-⚠️ **Reminder:** During this stage, the Instructor/TAs will begin the **in-person grading check**.  
-   - You must have your **project folder properly organized** and be ready to show your files and temporary renders.
-   - Check: <a href="#submission">W9: In-Person Grading</a>
 
 ---
 
