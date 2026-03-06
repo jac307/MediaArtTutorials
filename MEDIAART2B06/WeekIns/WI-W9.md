@@ -4,14 +4,14 @@
 
 <h1 style="color: darkred;">W9 - Rough Cut</h1>  
 
-Assemble your footage and sound materials into a complete sequence that reflects your pre-production plan while allowing room for revision.
-
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.  
+Assemble your footage and sound materials into a complete sequence that reflects your pre-production plan while allowing room for revision.  
 
 ⚠️ **Reminder:** During the last hour of tutorial, the Instructor/TAs will begin the **in-person grading check**.  
    - You must have your **project folder properly organized** and be ready to show your files and temporary renders.
-   - Check: <a href="#submission">W9: In-Person Grading</a> 
+   - Check: <a href="#ip-grading">W9: In-Person Grading</a>   
+
+> ❗ **Attendance and engagement are part of the rubric.**  
+You are expected to work actively during class time and participate in all in-class activities.   
 
 ---
 
@@ -236,7 +236,7 @@ The full colour grading will be developed in a later stage.
 ### Step 3 — Export [5m] 
 
 **Export a temporary version** of your sequence.  
-Save it as `ProjectName_RoughPreview.mp4` inside folder: 📁 `03_Renders`.  
+Save it as `ProjectName_ColourPass.mp4` inside folder: 📁 `03_Renders`.  
 
 ---
 
@@ -280,13 +280,12 @@ You are not required to follow every suggestion. However, you should carefully c
 
 <h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
 
-Your Rough Cut should present a **clear and complete version of the film**, including the final shot order, basic rhythm, and integrated on-scene sound.   
-
-The story and visual flow should be understandable, even though **fine sound design, detailed colour grading, and final polishing will be completed in a later**.    
-
 Using the **Premiere-Pro → Media Encoder** workflow, **export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
 
-Save the file inside: 📁 `04_Exports`
+Save the file inside: 📁 `04_Exports`   
+
+> Your Rough Cut should present a **clear and complete version of the film**, including the final shot order, basic rhythm, and integrated on-scene sound.   
+> The story and visual flow should be understandable, even though **fine sound design, detailed colour grading, and final polishing will be completed in a later**.    
 
 ---
 
@@ -313,17 +312,27 @@ Save the file inside: 📁 `04_Exports`
 - Basic colour correction applied  
 
 **Export settings:**  
-MP4 (H.264); 1920x1080; 24 fps  
+MP4 (H.264); 24 fps  
+
+Resolution must match your **chosen aspect ratio**:  
+- **16:9** → 1920 × 1080  
+- **4:3** → 1440 × 1080  
+- **1.85:1** → 1920 × 1038  
+- **2.35:1** → 1920 × 817
 
 **File name:**  
 `Lastname_Firstname_RoughCut.mp4`
 
 ### 2. Rough Cut Information Sheet (PDF)
 
-- Title  
-- Logline  
-- Author/Director  
-- Working credits  
+Include the following information:
+
+- **Title**
+- **Aspect Ratio**
+- **Duration**. 
+- **Author / Director** 
+- **Logline** (revise or update the logline you created in the pre-production package) 
+- **Working Credits** (if other people were involved in the production process)
 
 **File name:**  
 `Lastname_Firstname_RoughCut.pdf`
@@ -343,17 +352,13 @@ Students must have their project folder and be ready to show the following:
 
 <h4>📁 <code style="color: navy;">03_Renders</code></h4>
 
-- Temporary render naming protocol: `ProjectName_RenderType`  
-
-Examples:  
-`Echo_RoughAssembly.mp4`  
-`Echo_RhythmPass.mp4`  
-`Echo_RoughPreview.mp4`
+- `ProjectName_DraftAssembly.mp4`  
+- `ProjectName_RhythmPass.mp4`  
+- `ProjectName_ColourPass.mp4`
 
 <h4>📁 <code style="color: navy;">04_Exports</code></h4>
 
-- Later to be included:  
-  `Lastname_Firstname_RoughCut.mp4`
+- Empty for now, but later to be included: `Lastname_Firstname_RoughCut.mp4`  
 
 ________________________________________________________________________
 

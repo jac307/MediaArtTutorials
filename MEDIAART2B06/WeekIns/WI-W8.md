@@ -226,7 +226,8 @@ Example:
 | Production Package (ZIP Submission)  | `Lastname_Firstname_ProductionPackage.zip`    |
 
 > ⚠️ Follow the submission protocols carefully.  
-> Incorrect submissions will result in a two-point deduction.   
+> Incorrect submissions will result in grade deductions.   
+> ⚠️⚠️ Missing the in-person meeting will result in a 1-point deduction over final grade** ❗❗ 
 
 **If Avenue does not allow you to upload your ZIP file** due to size limitations, upload a document containing a **shareable cloud link** (Google Drive, OneDrive, etc.) to your ZIP folder.    
 Make sure the link permissions are set so the Instructor/TA can access the files.    
