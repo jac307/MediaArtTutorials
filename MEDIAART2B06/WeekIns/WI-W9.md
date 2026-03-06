@@ -24,19 +24,291 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [50m]</h2>
+<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [50m]</h2>. 
+
+In this activity, you will build your **first DRAFT Assembly of the film**.  
+The goal is simply to **place your selected shots in sequence** following your storyboard and script.
+
+Do not worry about rhythm, trimming, or transitions yet.  
+
+Your draft assembly should be **no longer than 2 minutes**.
 
 ---
 
-<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2>
+### Step 1 — Create the Project [5m]
+
+1. Open **Adobe Premiere Pro**.    
+2. Create a new project using the correct naming protocol: `ProjectName.prproj`. 
+3. Save the project inside: 📁 `00_ProjectFiles`. 
+
+Re-save your project constantly.  
 
 ---
 
-<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>
+### Step 2 — Import and Review Footage [10m]
+
+1. Import all files from: 📁 `01_RawFootage`. 
+2. Review your footage inside the **Source Monitor**.  
+
+As you review, identify usable takes.  
+Do **not delete any footage**, but avoid using clips with:  
+- Severe focus problems
+- Unusable exposure
+- Major camera shake
+- Recording errors
+
+---
+
+### Step 3 — Select Your Shots [10m]
+
+Choose the best takes that correspond to your **storyboard shots**.
+
+Focus on:
+- Clear focus
+- Stable framing
+- Usable performance/action
+- Correct shot type
+
+You may have multiple takes per shot — select the strongest one.
+
+---
+
+### Step 4 — Build the Rough Assembly [15m]
+
+Create a sequence and begin placing your selected clips in order.
+
+For this stage:
+
+- Place **one shot after another**
+- Follow the **story order**
+- Do not worry about precise trimming yet
+- Do not add transitions
+- Do not add effects
+
+Your goal is simply to **see the entire film in sequence**.
+
+This first assembly should be **no longer than 2 minutes**.
+
+The sequence will be refined in the next activities.  
+
+---
+
+### Step 5 — Watch + Notes [10m]
+
+1. Export a temporary version of your rough sequence.  
+   Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.
+
+2. Watch the video **from beginning to end without stopping**.
+
+While watching, focus on **clarity, shot order, and basic pacing**.  
+
+Write down **three issues** you notice in your edit that you will address in the next activity.  
+
+Examples of issues:  
+- A shot stays on screen too long.
+- A shot ends too abruptly.
+- Two shots feel repetitive or unnecessary.
+- The sequence feels slow in a specific moment.
+- The action does not flow clearly between shots.
+- A moment in the story feels unclear.
+
+Do not begin editing yet.  
+First **identify the problems**. In the next activity, you will **address those issues**.   
+
+---
+
+<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2>. 
+
+In this activity, you will **revise your Draft Assembly** by addressing the issues you identified in the previous step.
+
+Your goal is to **improve rhythm and clarity** by trimming shots, removing unnecessary moments, and refining the order of the sequence.
+
+At the end of this step, your sequence should be **approximately 1 minute long**.  
+A small margin is acceptable at this stage (**no more than 1:10**).
+
+---
+
+### Step 1 — Address Identified Issues
+
+Return to your sequence and correct the problems you noted during previous **Watch + Notes** step.  
+
+This may involve:
+
+- Trimming shots that stay on screen too long
+- Extending shots that end too abruptly
+- Removing repetitive shots
+- Reordering shots for clearer action
+- Improving the flow between shots
+
+You may also begin adding **basic transitions** if necessary.
+
+Avoid overusing transitions. In most cases, **straight cuts** work best.
+
+---
+
+### Step 2 — Refine Rhythm
+
+Focus on the **temporal rhythm** of the sequence.
+
+Ask yourself:
+
+- Does each shot stay on screen for the right amount of time?
+- Does the action flow clearly from one shot to the next?
+- Are any shots unnecessary?
+
+Your sequence should now feel **clearer and more intentional** than the draft assembly.
+
+---
+
+### Step 3 — Basic Sound Integration
+
+In this stage, you will work **only with the sound recorded during production**.  
+
+Place **room tone underneath the sequence** to create a consistent background sound.   
+
+You may also include:  
+- Production sound recorded on set
+- Environmental sounds captured during filming
+
+
+Do **not** add:
+- Music
+- Sound effects
+- Foley
+- External sound sources 
+The full sound design will be developed in later stages.  
+
+---  
+
+### Step 4 — Watch + Notes + Adjustments [15m]
+
+1. Export a temporary version of your rough sequence.  
+   Save it as `ProjectName_RhythmPass.mp4` inside folder: 📁 `03_Renders`.
+
+2. Watch the video **from beginning to end without stopping**.  
+
+While watching, focus specifically on **rhythm and shot duration**.  
+
+Identify **three rhythm issues** that still need improvement. Examples may include:
+
+- A shot staying on screen slightly too long  
+- A cut that feels too abrupt  
+- A transition between two shots that feels awkward  
+- A moment where the sequence slows down unnecessarily  
+
+After identifying these issues, return to your sequence and **make quick adjustments** to improve the rhythm.
+
+Do not over-edit at this stage. Focus only on **small timing corrections**.    
+
+---
+
+<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>  
+
+In this activity, you will correct **basic exposure and colour consistency issues** in your sequence.  
+
+This step focuses only on **technical corrections**, not artistic colour grading.  
+
+---
+
+### Step 1 — Watch + Notes [5m]
+
+Review your file `ProjectName_RhythmPass.mp4` again from beginning to end. This time, focus specifically on **colour and exposure**.  
+
+Write down **2–3 issues** you notice that affect visual consistency.  
+
+Examples may include:
+
+- A shot that appears **too dark (underexposed)**
+- A shot that appears **too bright (overexposed)**
+- A shot that has a **different colour temperature** than the surrounding shots
+- A noticeable **brightness jump between two shots**
+
+---
+
+### Step 2 — Apply Basic Corrections [20m]
+
+Return to your Premiere Pro sequence and apply **simple corrections** using the **Lumetri Color panel**.  
+
+Focus only on:
+
+- Exposure adjustments
+- Highlight and shadow balance
+- Basic white balance
+- Matching brightness between shots
+
+Your goal is to make the sequence feel **visually consistent**.
+
+Do **not** apply:
+- Stylized looks
+- Heavy colour grading
+- LUTs
+- Dramatic contrast or colour effects
+These will be addressed later.   
+
+---
+
+### Step 3 — Export [5m] 
+
+Export a temporary version of your rough sequence.  
+Save it as `ProjectName_RoughPreview.mp4` inside folder: 📁 `03_Renders`.  
 
 ---
 
 <h2 id="reviews" style="color: darkred;">Peer Mini-Reviews + Adjustments [50m]</h2>
+
+In this stage, you will review each other's edits and make final adjustments before exporting your Rough Cut.
+
+Students will work in **groups of three**.
+
+---
+
+### Step 1 — Peer Viewing + Feedback [20–30m]
+
+Each student will screen their edit **from beginning to end without interruption**.
+
+After each viewing, the two peers will provide feedback while the student receiving comments **takes notes**.
+
+Focus your comments primarily on **clarity and flow**.
+
+Use the following guiding questions to structure your feedback:
+
+- Is the story or action **clear and understandable**?
+- Is there any moment where the sequence feels **confusing or unclear**?
+- Do any shots stay on screen **too long or too short**?
+- Are there **unnecessary or repetitive shots**?
+- Does the **action flow clearly** from one shot to the next?
+- Are there any noticeable **visual inconsistencies** (exposure, colour, framing)?
+
+Keep feedback **specific and constructive**.
+
+---
+
+### Step 2 — Improvements + Adjustments [20–30m]
+
+Return to your project and begin making adjustments based on:
+
+- The notes you took earlier
+- The feedback provided by your peers
+
+Peer feedback provides an **unbiased viewer perspective**, which is valuable during the editing process.
+
+You are not required to follow every suggestion. However, you should carefully consider the feedback and address any moments that appear **confusing or unclear** to viewers.
+
+Use the remaining class time to refine your sequence.
+
+If needed, you may continue adjusting your edit **outside of class before the submission deadline or grace period**.
+
+---
+
+### Final Export
+
+Export your final rough cut as:
+
+`ProjectName_RoughCut.mp4`
+
+Save the file inside:
+
+📁 `04_Exports`
 
 ---
 
