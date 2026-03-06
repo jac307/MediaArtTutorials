@@ -91,7 +91,7 @@ Then, **begin placing your selected clips in order**. For this stage:
 
 ### Step 4 — Watch + Notes [10m]
 
-Export a temporary version of your rough sequence.  
+**Export a temporary version** of your sequence.  
    - Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.  
 
 Watch the video **from beginning to end without stopping**.  
@@ -114,16 +114,17 @@ First **identify the problems**. In the next activity, you will **address those 
 
 <h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2> 
 
-In this activity, you will **improve your Draft Assembly** by addressing the issues you identified in the previous step and **focusing on rhythm and clarity** by trimming shots, removing unnecessary moments, and refining the order of the sequence.
+In this activity, you will **refine** your Draft Assembly, **focusing on rhythm and clarity** by trimming shots, removing unnecessary moments, and adjusting the sequence order.
 
 At the end of this step, your sequence should be **approximately 1 minute long**.  
 > A small margin is acceptable at this stage (**no more than 1:10**).
 
 ---
 
-### Step 1 — Address Identified Issues
+### Step 1 — Address Identified Issues [5m]
+]
 
-Return to your sequence and correct the problems you noted during previous **Watch + Notes** step.  
+**Correct** the problems you noted during previous the **Watch + Notes** step.  
 
 This may involve:
 
@@ -133,13 +134,12 @@ This may involve:
 - Reordering shots for clearer action
 - Improving the flow between shots
 
-You may also begin adding **basic transitions** if necessary.
-
-Avoid overusing transitions. In most cases, **straight cuts** work best.
+You may also begin adding **basic transitions** if necessary.  
+> Avoid overusing transitions. In most cases, **straight cuts** work best.
 
 ---
 
-### Step 2 — Refine Rhythm
+### Step 2 — Refine Rhythm [20m]
 
 Focus on the **temporal rhythm** of the sequence.
 
@@ -153,7 +153,7 @@ Your sequence should now feel **clearer and more intentional** than the draft as
 
 ---
 
-### Step 3 — Basic Sound Integration
+### Step 3 — Basic Sound Integration [15m]
 
 In this stage, you will work **only with the sound recorded during production**.  
 
@@ -163,13 +163,13 @@ In this stage, you will work **only with the sound recorded during production**.
    - Environmental sounds captured during filming
 
 ⚠️ Do **NOT** add music, sound effects, foley, or external sound sources  
-The full sound design will be developed in later stages.    
+The full sound design will be developed in a later stage.    
 
 ---  
 
 ### Step 4 — Watch + Notes + Adjustments [15m]
 
-Export a temporary version of your rough sequence.  
+**Export a temporary version** of your sequence.  
    - Save it as `ProjectName_RhythmPass.mp4` inside folder: 📁 `03_Renders`.
 
 Watch the video **from beginning to end without stopping**.  
@@ -184,7 +184,7 @@ Identify **three rhythm issues** that still need improvement. Examples may inclu
 
 After identifying these issues, return to your sequence and **make quick adjustments** to improve the rhythm.  
 
-⚠️ Do **NOT** over-edit at this stage. Focus only on **small timing corrections**.    
+⚠️ Do **NOT** over-edit. Focus only on **small timing corrections**.    
 
 ---
 
@@ -192,13 +192,13 @@ After identifying these issues, return to your sequence and **make quick adjustm
 
 In this activity, you will correct **basic exposure and colour consistency issues** in your sequence.  
 
-This step focuses only on **technical corrections**, not artistic colour grading.  
+> Focus only on **technical corrections**, not artistic colour grading.  
 
 ---
 
 ### Step 1 — Watch + Notes [5m]
 
-Review your file `ProjectName_RhythmPass.mp4` again from beginning to end. This time, focus specifically on **colour and exposure**.  
+Re-watch your file `ProjectName_RhythmPass.mp4`. This time, focus specifically on **colour and exposure**.  
 
 Write down **2–3 issues** you notice that affect visual consistency.  
 
@@ -213,7 +213,7 @@ Examples may include:
 
 ### Step 2 — Apply Basic Corrections [20m]
 
-Return to your Premiere Pro sequence and apply **simple corrections** using the **Lumetri Color panel**.  
+Apply **simple corrections** using the **Lumetri Color panel**.  
 
 Focus only on:
 
@@ -224,12 +224,8 @@ Focus only on:
 
 Your goal is to make the sequence feel **visually consistent**.
 
-Do **not** apply:
-- Stylized looks
-- Heavy colour grading
-- LUTs
-- Dramatic contrast or colour effects
-These will be addressed later.   
+⚠️ Do **NOT** apply stylized looks, heavy colour grading, LUTs, dramatic contrast or colour effects.   
+The full colour grading will be developed in a later stage.    
 
 ---
 
