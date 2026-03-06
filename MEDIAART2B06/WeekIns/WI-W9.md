@@ -24,14 +24,12 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [50m]</h2>. 
+<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [50m]</h2> 
 
-In this activity, you will build your **first DRAFT Assembly of the film**.  
-The goal is simply to **place your selected shots in sequence** following your storyboard and script.
-
-Do not worry about rhythm, trimming, or transitions yet.  
-
-Your draft assembly should be **no longer than 2 minutes**.
+In this activity, you will build your **first DRAFT Assembly of the film**.   
+- The goal is simply to **place your selected shots in sequence** following your storyboard and script.  
+- Your draft assembly should be **no longer than 2 minutes**.  
+- Do not worry about rhythm, trimming, or transitions yet.  
 
 ---
 
@@ -39,9 +37,9 @@ Your draft assembly should be **no longer than 2 minutes**.
 
 1. Open **Adobe Premiere Pro**.    
 2. Create a new project using the correct naming protocol: `ProjectName.prproj`. 
-3. Save the project inside: 📁 `00_ProjectFiles`. 
+3. Save the project inside: 📁 `00_ProjectFiles`.   
 
-Re-save your project constantly.  
+‼️ Save your project regularly before starting work and throughout the editing process.    
 
 ---
 
@@ -69,27 +67,31 @@ Focus on:
 - Usable performance/action
 - Correct shot type
 
-You may have multiple takes per shot — select the strongest one.
+You may have multiple takes per shot — **select the strongest ones**.
 
 ---
 
 ### Step 4 — Build the Rough Assembly [15m]
 
-Create a sequence and begin placing your selected clips in order.
+First, **create a sequence** with the following settings:  
+- Set your sequence to **24 fps**.  
+- Use the following frame sizes depending on the **aspect ratio** you choose for your final project:  
+  **16:9** → 1920 px × 1080 px  
+  **4:3** → 1440 px × 1080 px  
+  **1.85:1** → 1920 px × 1038 px  
+  **2.35:1** → 1920 px × 817 px   
+  
+> These dimensions maintain the correct proportions while working with footage recorded at **1920 px × 1080 px**.  
 
-For this stage:
-
+Then, **begin placing your selected clips in order**. For this stage:  
 - Place **one shot after another**
 - Follow the **story order**
 - Do not worry about precise trimming yet
 - Do not add transitions
 - Do not add effects
 
-Your goal is simply to **see the entire film in sequence**.
-
-This first assembly should be **no longer than 2 minutes**.
-
-The sequence will be refined in the next activities.  
+> Your goal is simply to **see the entire film in sequence**.  
+> This first assembly should be **no longer than 2 minutes**.  
 
 ---
 
@@ -112,7 +114,7 @@ Examples of issues:
 - The action does not flow clearly between shots.
 - A moment in the story feels unclear.
 
-Do not begin editing yet.  
+⚠️ Do not begin editing yet.  
 First **identify the problems**. In the next activity, you will **address those issues**.   
 
 ---
