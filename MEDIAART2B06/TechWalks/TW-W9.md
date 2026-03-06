@@ -11,11 +11,11 @@ This document supports the [W9 - Rough Cut](../WeekIns/WI-W8.md){:target="_blank
 
 <ul>
   <li><a href="#review-footage">Before Editing: Reviewing Footage</a></li>
-  <li><a href="#roughcut">What a Rough Cut Should Achieve</a></li>
   <li><a href="#assembly">Building the Rough Assembly</a></li>
-  <li><a href="#rhythm">Rhythm & Shot Duration</a></li>
-  <li><a href="#transitions">Cutting & Transitions</a></li>
+  <li><a href="#export-sequence">Exporting Temporary Sequences</a></li>
+  <li><a href="#rhythm">Pacing & Rhythm</a></li>
   <li><a href="#sound">Basic Sound Integration</a></li>
+  <li><a href="#export">Final Rough Cut Export</a></li>
 </ul>  
 
 ---
@@ -131,36 +131,6 @@ Editing decisions are always a balance between **technical quality and storytell
 
 ---
 
-<h2 id="roughcut" style="color: darkred;">What a Rough Cut Should Achieve</h2>     
-
-A **Rough Cut** is the first complete version of your film where the **structure of the sequence is established**.
-
-At this stage, the focus is on **clarity, sequence order, and basic rhythm** — not on polish.
-
-Your Rough Cut should already allow a viewer to:
-
-- Understand the **story or action**
-- Follow the **order of events**
-- Read the **visual logic of the sequence**
-- Experience the **basic pacing of the film**
-
-However, a Rough Cut **does not need to be finished or refined**.
-
-It is normal for a Rough Cut to still have:
-
-- Imperfect pacing
-- Temporary sound levels
-- Basic colour inconsistencies
-- Small visual adjustments still needed
-
-These elements will be refined in later stages.
-
-The goal of the Rough Cut is to create a **clear working version of the film** that can be screened, reviewed, and improved through feedback.
-
-In the examples below, notice how the sequence already communicates the main action and structure of the scene, even though the edit is still rough and unpolished.
-
----
-
 <h2 id="assembly" style="color: darkred;">Building the Rough Assembly</h2>    
 
 The **assembly edit** is the first stage of editing where selected shots are placed in sequence to create the **basic structure of the film**.
@@ -222,7 +192,7 @@ In the tutorial below you will review:
 
 ---
 
-### How to Export Your Sequence
+<h2 id="export-sequence" style="color: darkred;">Exporting Temporary Sequences</h2>
 
 1. Select your **sequence** in the timeline.
 2. Go to **File → Export → Media**.
