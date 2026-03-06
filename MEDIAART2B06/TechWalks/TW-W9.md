@@ -20,28 +20,494 @@ This document supports the [W9 - Rough Cut](../WeekIns/WI-W8.md){:target="_blank
 
 ---
 
-<h2 id="review-footage" style="color: darkred;">Before Editing: Reviewing Footage</h2>    
+<h2 id="review-footage" style="color: darkred;">Before Editing: Reviewing Footage</h2>  
+
+Before assembling your sequence, take time to **review all your footage carefully**.  
+Professional editors rarely begin editing immediately — they first **watch, evaluate, and select usable material**.
+
+The goal of this step is to identify:
+
+- The **best take** of each shot
+- Takes with **technical problems** (focus, exposure, camera shake)
+- Takes that are **emotionally or visually stronger**
+
+Do **not delete any footage**. Simply identify what you will use and what you will avoid.
 
 ---
 
-<h2 id="roughcut" style="color: darkred;">What a Rough Cut Should Achieve</h2>    
+### How to Select Footage in Premiere Pro
+
+There are several ways to mark usable clips in Premiere.
+
+#### Method 1 — In/Out Points (Recommended)
+
+Open the clip in the **Source Monitor**.
+
+1. Play the clip.
+2. Press **I** to mark the **In point** (where the usable part begins).
+3. Press **O** to mark the **Out point** (where it ends).
+4. Insert this section into your timeline.
+
+This allows you to use **only the usable portion of the clip**.
+
+---
+
+#### Method 2 — Clip Markers
+
+You can place **markers** on good moments in the footage.
+
+1. Play the clip.
+2. Press **M** to place a marker.
+3. Use markers to indicate:
+   - Good takes
+   - Strong performances
+   - Clean technical moments
+
+Markers help you **navigate quickly between good sections** of a clip.
+
+---
+
+#### Method 3 — Label Colors (Optional)
+
+Editors often use **color labels** to organize material.
+
+For example:
+
+- Green → good takes  
+- Yellow → possible alternatives  
+- Red → unusable footage
+
+This makes it easier to visually identify material in the project panel.
+
+---
+
+### How Editors Choose Between Similar Shots
+
+Often you will have **multiple takes of the same shot**.
+
+Choosing between them involves both **technical and storytelling decisions**.
+
+Editors usually evaluate:
+
+**Technical quality**
+
+- Is the shot in focus?
+- Is the exposure correct?
+- Is the camera stable?
+- Is the framing clean?
+
+**Performance and timing**
+
+- Does the action feel natural?
+- Does the movement start and end clearly?
+- Does the shot connect well with the next shot?
+
+Sometimes a technically imperfect shot is chosen if it **supports the rhythm or emotion of the sequence better**.
+
+---
+
+### Example: Choosing Between Three Takes
+
+Imagine three similar shots of a character entering a room.
+
+**Shot A**
+- Technically sharp
+- Slight camera shake
+- Movement feels rushed
+
+**Shot B**
+- Slightly softer focus
+- Stable camera
+- Action is clear and well paced
+
+**Shot C**
+- Good framing
+- Action begins too late
+- Character already mid-movement
+
+An editor might choose **Shot B**, because it provides the **clearest action and smoothest timing**, even if the focus is not perfectly sharp.
+
+Editing decisions are always a balance between **technical quality and storytelling clarity**.
+
+---
+
+<h2 id="roughcut" style="color: darkred;">What a Rough Cut Should Achieve</h2>     
+
+A **Rough Cut** is the first complete version of your film where the **structure of the sequence is established**.
+
+At this stage, the focus is on **clarity, sequence order, and basic rhythm** — not on polish.
+
+Your Rough Cut should already allow a viewer to:
+
+- Understand the **story or action**
+- Follow the **order of events**
+- Read the **visual logic of the sequence**
+- Experience the **basic pacing of the film**
+
+However, a Rough Cut **does not need to be finished or refined**.
+
+It is normal for a Rough Cut to still have:
+
+- Imperfect pacing
+- Temporary sound levels
+- Basic colour inconsistencies
+- Small visual adjustments still needed
+
+These elements will be refined in later stages.
+
+The goal of the Rough Cut is to create a **clear working version of the film** that can be screened, reviewed, and improved through feedback.
+
+In the examples below, notice how the sequence already communicates the main action and structure of the scene, even though the edit is still rough and unpolished.
 
 ---
 
 <h2 id="assembly" style="color: darkred;">Building the Rough Assembly</h2>    
 
+The **assembly edit** is the first stage of editing where selected shots are placed in sequence to create the **basic structure of the film**.
+
+At this stage, the goal is **not refinement or polish**.  
+The goal is simply to **see the material together as a continuous sequence** for the first time.
+
+Editors use the assembly stage to verify:
+
+- The **logical order of shots**
+- Whether the **action reads clearly**
+- Whether any **essential shots are missing**
+
+The assembly edit is often **longer than the final film**.  
+Extra seconds before and after actions are normal at this stage.
+
 ---
 
-<h2 id="rhythm" style="color: darkred;">Rhythm & Shot Duration</h2>    
+### Assembly Rules
+
+For this first sequence, follow these rules:
+
+- **Do not trim shots yet.**
+- Place **one shot after the other** in the timeline.
+- Do **not add transitions**.
+- Do **not adjust timing for rhythm yet**.
+- Do **not add music or sound effects**.
+
+Your goal is simply to **construct the first continuous version of the film**.
+
+Think of this step as **building the skeleton of the sequence**.
 
 ---
 
-<h2 id="transitions" style="color: darkred;">Cutting & Transitions</h2>    
+### What the Assembly Should Allow You to See
+
+Even without trimming, the assembly should help you verify:
+
+- The **order of the shots**
+- The **clarity of the action**
+- The **overall structure of the scene**
+
+In the next stage, you will begin refining **rhythm, pacing, and shot duration**.
+
+---
+
+### Creating the Sequence in Premiere Pro
+
+Before building the assembly, you must create your **editing sequence**.
+
+In the tutorial below you will review:
+
+- How to create a new sequence
+- Sequence settings (resolution, aspect ratio, frame rate)
+- Importing and organizing footage
+- Preparing the timeline for editing
+
+📹 *Video tutorial: Premiere Pro — Creating and Configuring a Sequence*
+
+---
+
+### How to Export Your Sequence
+
+1. Select your **sequence** in the timeline.
+2. Go to **File → Export → Media**.
+3. Format: **H.264**
+4. Preset: **Match Source — High Bitrate** (recommended)
+5. Confirm that your **resolution and frame rate match your sequence settings**.
+6. Click **Export** or **Queue** (to send it to Media Encoder).
+
+📹 *Video tutorial: Premiere Pro — Export a Sequence*
+
+---
+
+<h2 id="rhythm" style="color: darkred;">Pacing & Rhythm</h2>     
+
+Once your assembly sequence is built, the next step is refining **pacing and rhythm**.
+
+Pacing refers to **how long shots remain on screen**.  
+Rhythm refers to **how the duration of shots changes across the sequence**.
+
+Together, they determine how the viewer **experiences time and movement** in the film.
+
+At this stage you will begin:
+
+- **Trimming shots**
+- **Removing unnecessary moments**
+- **Refining shot order**
+- **Adjusting transitions between shots**
+
+The goal is to create a sequence that feels **clear, intentional, and readable**.
+
+---
+
+### Trimming Shots
+
+Trimming is the primary tool editors use to control pacing.
+
+When trimming shots:
+
+- Cut **after the important information is understood**.
+- Remove unnecessary pauses before or after actions.
+- Avoid leaving shots longer than needed.
+
+For example:
+Action begins → viewer understands action → cut
+
+
+Good trimming keeps the sequence **clear and efficient**.
+
+---
+
+### Types of Pacing
+
+Different stories require different pacing styles.
+
+#### Slow Pacing
+Shots remain on screen longer.
+
+Often used to create:
+- tension
+- contemplation
+- atmosphere
+
+Examples: quiet moments, observation, emotional pauses.
+
+---
+
+#### Fast Pacing
+Shots change quickly.
+
+Often used to create:
+- urgency
+- action
+- energy
+
+Common in chase scenes or intense sequences.
+
+---
+
+#### Variable Rhythm
+
+Most films combine **longer and shorter shots** to create rhythm.
+
+For example:
+Long shot → medium shot → quick cut → longer pause. 
+
+
+This variation creates **visual rhythm**, similar to rhythm in music.
+
+Avoid sequences where **all shots have the same duration**, as this often feels mechanical.
+
+---
+
+### Cutting Between Shots
+
+In most films, the primary transition is a **hard cut**.
+
+Hard cuts:
+
+- maintain momentum
+- feel natural to the viewer
+- preserve visual continuity
+
+Avoid adding transitions unless there is a clear narrative reason.
+
+Do **not rely on fades or dissolves** to fix pacing problems.
+
+If a transition feels necessary, it is often a sign that the **cut timing needs adjustment instead**.
+
+---
+
+### Cut on Action
+
+One of the most common editing techniques is **cutting on action**.
+
+When a character begins an action in one shot, the cut occurs **during the movement**, continuing the action in the next shot.
+
+This technique helps:
+
+- hide the cut
+- maintain continuity
+- preserve visual flow
+
+---
+
+### Evaluating Your Rhythm
+
+When reviewing your sequence, ask yourself:
+
+- Does any shot stay on screen **too long**?
+- Do any cuts feel **too abrupt**?
+- Does the action **flow clearly** from one shot to the next?
+- Are there **repetitive or unnecessary shots**?
+
+Small timing adjustments — even **a few frames** — can significantly improve rhythm.
+
+Editing is often about **subtle timing decisions** rather than large structural changes.
 
 ---
 
 <h2 id="sound" style="color: darkred;">Basic Sound Integration</h2>    
 
+Once the visual rhythm of your sequence is established, you should integrate **basic production sound**.
+
+At this stage, the goal is **not full sound design**, but creating a **clean and readable audio foundation**.
+
+You will work with:
+
+- **Room tone**
+- **On-scene sounds you recorded during production**
+
+Do **not add music, sound effects, or foley yet**.  
+Those elements will be developed later.
+
+---
+
+### Why Use Premiere → Audition Workflow?
+
+While Premiere Pro allows basic audio editing, **Audition provides more precise tools** for:
+
+- cleaning audio
+- adjusting levels
+- reducing noise
+- balancing multiple sound layers
+
+Editors often send audio to Audition when they need **greater control over sound editing**.
+
+The workflow allows you to edit audio **without damaging the original files** and automatically updates your sequence in Premiere.
+
+---
+
+### Sending Audio to Audition
+
+1. Select the audio clip(s) in your Premiere timeline.
+2. Right-click the clip.
+3. Choose **Edit Clip in Adobe Audition**.
+
+Premiere will create a linked audio file and open it in **Audition**.
+
+Any changes saved in Audition will automatically update inside **Premiere**.
+
+---
+
+### Step 1 — Add Room Tone
+
+Room tone should be placed **throughout the sequence**.
+
+Room tone helps:
+
+- smooth cuts between shots
+- avoid unnatural silence
+- maintain sonic continuity
+
+Steps:
+
+1. Import your **room tone recording**.
+2. Place it on a **separate audio track below your production sound**.
+3. Extend it across the entire sequence.
+4. Adjust the level so it sits quietly under the scene.
+
+Room tone should be **subtle**, not noticeable.
+
+---
+
+### Step 2 — Add On-Scene Sounds
+
+Next, integrate the sounds recorded during production.
+
+Examples:
+
+- footsteps
+- object interaction
+- fabric movement
+- doors or environmental sounds
+
+Align these sounds carefully with the **visual action**.
+
+Good sound synchronization improves the **perceived realism of the scene**.
+
+---
+
+### Step 3 — Adjust Audio Levels
+
+When balancing sound levels:
+
+- Avoid **clipping (0 dB)**.
+- Aim for peaks between **-12 dB and -6 dB**.
+- Ensure sounds remain **clear but not overpowering**.
+
+If audio peaks exceed **0 dB**, distortion occurs and cannot be repaired.
+
+Use **Audio Gain** or **clip volume adjustments** to control levels.
+
+---
+
+### Basic Audio Balance
+
+At this stage, your sequence should have:
+
+- consistent room tone across the scene
+- synchronized on-scene sounds
+- balanced audio levels
+- no clipping or distortion
+
+The purpose is to create a **clean audio foundation** before developing the full sound design later in the project.
+
+---
+
+<h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
+
+Once your sequence is complete, export your **Rough Cut** so it can be reviewed and screened.
+
+Exporting allows you to watch the film **outside the editing timeline**, which makes pacing issues, sound problems, and visual inconsistencies easier to notice.
+
+Always review your exported file **before submitting it**.
+
+---
+
+### Premiere Pro → Media Encoder Workflow
+
+Instead of exporting directly from Premiere, use **Adobe Media Encoder**.  
+This workflow allows you to continue editing while your file exports.
+
+Steps:
+
+1. Select your **sequence** in Premiere Pro.
+2. Go to **File → Export → Media**.
+3. Format: **H.264**.
+4. Confirm that your **resolution and frame rate match your sequence settings**.
+5. Click **Queue** instead of Export.
+
+Premiere will send the sequence to **Media Encoder**, where the export will process.
+
+---
+
+### Export Settings
+
+Format: **MP4 (H.264)**  
+Frame Rate: **24 fps**
+
+Resolution must match your **sequence aspect ratio**:
+
+- **16:9** → 1920 × 1080  
+- **4:3** → 1440 × 1080  
+- **1.85:1** → 1920 × 1038  
+- **2.35:1** → 1920 × 817  
 
 ________________________________________________________________________
 
