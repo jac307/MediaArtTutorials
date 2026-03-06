@@ -19,6 +19,7 @@ You are expected to work actively during class time and participate in all in-cl
   <li><a href="#rythm">Activity 2: Rhythm + Basic Sound Integration [55m]</a></li>
   <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
   <li><a href="#reviews">Peer Mini-Reviews + Adjustment [50m]</a></li>
+  <li><a href="#export">Final Rough Cut Export</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
@@ -122,7 +123,6 @@ At the end of this step, your sequence should be **approximately 1 minute long**
 ---
 
 ### Step 1 — Address Identified Issues [5m]
-]
 
 **Correct** the problems you noted during previous the **Watch + Notes** step.  
 
@@ -231,66 +231,62 @@ The full colour grading will be developed in a later stage.
 
 ### Step 3 — Export [5m] 
 
-Export a temporary version of your rough sequence.  
+**Export a temporary version** of your sequence.  
 Save it as `ProjectName_RoughPreview.mp4` inside folder: 📁 `03_Renders`.  
 
 ---
 
 <h2 id="reviews" style="color: darkred;">Peer Mini-Reviews + Adjustments [50m]</h2>
 
-In this stage, you will review each other's edits and make final adjustments before exporting your Rough Cut.
+In this stage, you will **review each other's edits and make final adjustments** before exporting your Rough Cut.
 
 Students will work in **groups of three**.
 
 ---
 
-### Step 1 — Peer Viewing + Feedback [20–30m]
+### Step 1 — Peer Viewing + Feedback [20–25m]
 
 Each student will screen their edit **from beginning to end without interruption**.
 
 After each viewing, the two peers will provide feedback while the student receiving comments **takes notes**.
 
-Focus your comments primarily on **clarity and flow**.
-
-Use the following guiding questions to structure your feedback:
+Focus your comments primarily on **clarity and flow**. Use the following guiding questions to structure your feedback:
 
 - Is the story or action **clear and understandable**?
 - Is there any moment where the sequence feels **confusing or unclear**?
 - Do any shots stay on screen **too long or too short**?
 - Are there **unnecessary or repetitive shots**?
 - Does the **action flow clearly** from one shot to the next?
-- Are there any noticeable **visual inconsistencies** (exposure, colour, framing)?
-
-Keep feedback **specific and constructive**.
+- Are there any noticeable **visual inconsistencies** (exposure, colour, framing)?  
 
 ---
 
-### Step 2 — Improvements + Adjustments [20–30m]
+### Step 2 — Improvements + Adjustments [20–25m]
 
-Return to your project and begin making adjustments based on:
+Return to your project and **begin making adjustments** based on:
 
 - The notes you took earlier
 - The feedback provided by your peers
 
 Peer feedback provides an **unbiased viewer perspective**, which is valuable during the editing process.
 
-You are not required to follow every suggestion. However, you should carefully consider the feedback and address any moments that appear **confusing or unclear** to viewers.
+You are not required to follow every suggestion. However, you should carefully consider the feedback and address any moments that appear **confusing or unclear** to viewers.  
 
-Use the remaining class time to refine your sequence.
-
-If needed, you may continue adjusting your edit **outside of class before the submission deadline or grace period**.
+⚠️ **Reminder:** During this stage, the Instructor/TAs will begin the **in-person grading check**.  
+   - You must have your **project folder properly organized** and be ready to show your files and temporary renders.
+   - Check: <a href="#submission">W9: In-Person Grading</a>
 
 ---
 
-### Final Export
+<h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
 
-Export your final rough cut as:
+Your Rough Cut should present a **clear and complete version of the film**, including the final shot order, basic rhythm, and integrated on-scene sound.   
 
-`ProjectName_RoughCut.mp4`
+The story and visual flow should be understandable, even though **fine sound design, detailed colour grading, and final polishing will be completed in a later**.    
 
-Save the file inside:
+Using the **Premiere-Pro → Media Encoder** workflow, **export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
 
-📁 `04_Exports`
+Save the file inside: 📁 `04_Exports`
 
 ---
 
@@ -334,7 +330,7 @@ MP4 (H.264); 1920x1080; 24 fps
 
 ---
 
-## In-Person Grading  
+<h2 id="ip-grading" style="color: black;">In-Person Grading</h2> 
 
 > Thursday Production - End-Of-The-Day Check-In
 
