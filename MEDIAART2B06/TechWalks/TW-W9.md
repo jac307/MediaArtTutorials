@@ -37,7 +37,15 @@ Do **not delete any footage**. Simply identify what you will use and what you wi
 
 ### How to Select Footage in Premiere Pro
 
-There are several ways to mark usable clips in Premiere.
+There are several ways to mark usable sections of your footage in Premiere Pro.  
+
+**Watch the following tutorial.**   
+
+You will also find a written summary of the key steps below.
+
+<iframe src="https://www.iorad.com/player/2692283/Premiere-Pro-2--Reviewing--Marking---Organizing-Media?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+---
 
 #### Method 1 — In/Out Points (Recommended)
 
