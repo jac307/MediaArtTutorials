@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W8 — Production Framework</h1>
+<h1 style="color: darkred;">W8 — Production Week Framework</h1>
 <h2 style="color: darkred;">From Pre-Production Plan to On-Set Execution</h2>
 
 This document supports the [W8 - Production Week](../WeekIns/WI-W8.md){:target="_blank"} by outlining technical requirements, on-set best practices, and shot execution tips.    
