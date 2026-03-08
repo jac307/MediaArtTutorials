@@ -42,7 +42,8 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 1. Open **Adobe Premiere Pro**.    
 2. Create a new project using the correct naming protocol: `ProjectName.prproj`. 
-3. Save the project inside: 📁 `00_ProjectFiles`.   
+3. Save the project inside: 📁 `00_ProjectFiles`.  
+4. Import all files from: 📁 `01_RawFootage`.   
 
 ‼️ Save your project regularly before starting work and throughout the editing process.    
 
@@ -52,8 +53,10 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ### Step 2 — Import, Review, and Select Footage [10m]
 
-Import all files from: 📁 `01_RawFootage`. 
-Review your footage inside the **Source Monitor**.  
+Review your footage in the **Source Monitor**.
+
+➡️ Follow the tutorials and tips in  
+[**W9 — Rough Cut Framework**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#how-to-select-footage-in-premiere-pro){:target="_blank"}  
 
 As you review, identify usable takes.  
 Do **not delete any footage**, but avoid using clips with:  
