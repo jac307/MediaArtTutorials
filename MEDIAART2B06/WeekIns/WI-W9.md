@@ -46,6 +46,8 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ‼️ Save your project regularly before starting work and throughout the editing process.    
 
+<iframe src="https://www.iorad.com/player/2692272/Premiere-Pro-1--Project-Setup---Media-Import?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
 ---
 
 ### Step 2 — Import, Review, and Select Footage [10m]
