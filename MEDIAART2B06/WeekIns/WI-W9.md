@@ -53,7 +53,7 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ### Step 2 — Import, Review, and Select Footage [10m] 
 
-➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage Before Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}   
+➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}   
 
 Review your footage in the **Source Monitor**.   
 

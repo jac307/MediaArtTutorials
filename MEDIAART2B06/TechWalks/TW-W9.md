@@ -5,12 +5,12 @@
 <h1 style="color: darkred;">W9 — Rough Cut Framework</h1>
 <h2 style="color: darkred;">From Raw Footage to a Coherent Sequence</h2>
 
-This document supports the [W9 - Rough Cut](../WeekIns/WI-W8.md){:target="_blank"} by outlining editorial principles and best practices when assembling your first edit.  
+This document supports the [W9 - Rough Cut](../WeekIns/WI-W9.md){:target="_blank"} by outlining editorial principles and best practices when assembling your first edit.  
 
 ## Sections
 
 <ul>
-  <li><a href="#review-footage">Before Editing: Reviewing Footage</a></li>
+  <li><a href="#review-footage">Reviewing Footage</a></li>
   <li><a href="#assembly">Building the Rough Assembly</a></li>
   <li><a href="#export-sequence">Exporting Temporary Sequences</a></li>
   <li><a href="#rhythm">Pacing & Rhythm</a></li>
@@ -20,7 +20,7 @@ This document supports the [W9 - Rough Cut](../WeekIns/WI-W8.md){:target="_blank
 
 ---
 
-<h2 id="review-footage" style="color: darkred;">Before Editing: Reviewing Footage</h2>  
+<h2 id="review-footage" style="color: darkred;">Reviewing Footage</h2>  
 
 Before assembling your sequence, take time to **review all your footage carefully**.  
 Professional editors rarely begin editing immediately — they first **watch, evaluate, and select usable material**.
@@ -111,31 +111,6 @@ Editors usually evaluate:
 - Does the shot connect well with the next shot?
 
 Sometimes a technically imperfect shot is chosen if it **supports the rhythm or emotion of the sequence better**.
-
----
-
-### Example: Choosing Between Three Takes
-
-Imagine three similar shots of a character entering a room.
-
-**Shot A**
-- Technically sharp
-- Slight camera shake
-- Movement feels rushed
-
-**Shot B**
-- Slightly softer focus
-- Stable camera
-- Action is clear and well paced
-
-**Shot C**
-- Good framing
-- Action begins too late
-- Character already mid-movement
-
-An editor might choose **Shot B**, because it provides the **clearest action and smoothest timing**, even if the focus is not perfectly sharp.
-
-Editing decisions are always a balance between **technical quality and storytelling clarity**.
 
 ---
 
