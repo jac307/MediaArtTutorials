@@ -184,7 +184,7 @@ For each sound sample used, include:
 
 | Component | File Name |
 |-----------|-----------|
-| Project document (PDF) | `Lastname-Firstname-W9-Part1.pdf` |
+| Project document (PDF) | `Lastname-Firstname-W9.pdf` |
 | Audio files | `Lastname-Firstname-W9-SPK-1.wav` |
 | | `Lastname-Firstname-W9-SPK-2.wav` |
 | | `Lastname-Firstname-W9-SPK-3.wav` |
