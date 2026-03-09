@@ -28,11 +28,10 @@ Software (freeware):
   + [W6: Technical Walkthrough Activity](TW-W6.md) — Designing Lighting Cues
 + [Week 7](WT-W7.md) — Sound as Temporal Structure
 + [Week 8](WT-W8.md) — Presence, Space & Spatialization
++ [Week 9](WT-W9.md) — Multi-Channel Installation Design (Light + Sound + Space)
 
 <!--
 
-+ 
-+ [Week 9](WT-W9.md) — Cue script: map sound → light → camera events
 + [Week 10](WT-W10.md) — Script/shot plan for a 30-second sequence
 + [Week 11](WT-W11.md) — Projection surface sketch and prototype (walls, objects, screens, fabrics)
 
