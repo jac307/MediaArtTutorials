@@ -53,10 +53,9 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ### Step 2 — Import, Review, and Select Footage [10m]
 
-Review your footage in the **Source Monitor**.
+Review your footage in the **Source Monitor**.  
 
-➡️ Follow the tutorials and tips in  
-[**W9 — Rough Cut Framework**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#how-to-select-footage-in-premiere-pro){:target="_blank"}  
+➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage Before Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}  
 
 As you review, identify usable takes.  
 Do **not delete any footage**, but avoid using clips with:  
@@ -75,7 +74,9 @@ You may have multiple takes per shot — **select the strongest one**.
 
 ---
 
-### Step 3 — Build the Draft Assembly [15m]
+### Step 3 — Build the Draft Assembly [15m] 
+
+➡️ Follow the tutorial on how to create your sequence in **Premiere Pro** and review tips for [**Building the Draft Assembly**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#assembly){:target="_blank"}   
 
 First, **create a sequence** with the following settings:  
 - Set your sequence to **24 fps**.  

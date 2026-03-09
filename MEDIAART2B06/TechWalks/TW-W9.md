@@ -139,21 +139,29 @@ Editing decisions are always a balance between **technical quality and storytell
 
 ---
 
-<h2 id="assembly" style="color: darkred;">Building the Rough Assembly</h2>    
+<h2 id="assembly" style="color: darkred;">Building the Draft Assembly</h2>    
 
 The **assembly edit** is the first stage of editing where selected shots are placed in sequence to create the **basic structure of the film**.
 
-At this stage, the goal is **not refinement or polish**.  
-The goal is simply to **see the material together as a continuous sequence** for the first time.
-
-Editors use the assembly stage to verify:
-
-- The **logical order of shots**
-- Whether the **action reads clearly**
-- Whether any **essential shots are missing**
+The goal is simply to **see the material together as a continuous sequence** for the first time.  
 
 The assembly edit is often **longer than the final film**.  
-Extra seconds before and after actions are normal at this stage.
+Extra seconds before and after actions are normal at this stage.  
+
+---
+
+### Creating the Sequence in Premiere Pro
+
+Before building the assembly, you must create your **editing sequence**.
+
+In the tutorial below you will review:
+
+- How to create a new sequence
+- Sequence settings (resolution, aspect ratio, frame rate)
+- Importing and organizing footage
+- Preparing the timeline for editing
+
+<iframe src="https://www.iorad.com/player/2692292/Premiere-Pro-3--Creating-a-Sequence---Starting-the-Draft-Assembly?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>   
 
 ---
 
@@ -169,34 +177,15 @@ For this first sequence, follow these rules:
 
 Your goal is simply to **construct the first continuous version of the film**.
 
-Think of this step as **building the skeleton of the sequence**.
+Think of this step as **building the skeleton of the sequence**.  
 
----
-
-### What the Assembly Should Allow You to See
-
-Even without trimming, the assembly should help you verify:
+The assembly should help you verify:  
 
 - The **order of the shots**
 - The **clarity of the action**
 - The **overall structure of the scene**
 
-In the next stage, you will begin refining **rhythm, pacing, and shot duration**.
-
----
-
-### Creating the Sequence in Premiere Pro
-
-Before building the assembly, you must create your **editing sequence**.
-
-In the tutorial below you will review:
-
-- How to create a new sequence
-- Sequence settings (resolution, aspect ratio, frame rate)
-- Importing and organizing footage
-- Preparing the timeline for editing
-
-📹 *Video tutorial: Premiere Pro — Creating and Configuring a Sequence*
+In the next stage, you will begin refining **rhythm, pacing, and shot duration**.  
 
 ---
 
