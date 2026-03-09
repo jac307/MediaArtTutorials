@@ -29,6 +29,7 @@ Software (freeware):
 + [Week 7](WT-W7.md) — Sound as Temporal Structure
 + [Week 8](WT-W8.md) — Presence, Space & Spatialization
 + [Week 9](WT-W9.md) — Multi-Channel Installation Design (Light + Sound + Space)
+  + [W9: Technical Walkthrough Activity](TW-W9.md) — e-Designing Sound and Light for the LFS Space
 
 <!--
 
