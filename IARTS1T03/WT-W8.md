@@ -236,9 +236,17 @@ Save your updated Blender file as: `Lastname-Firstname-W8.blend`
   </iframe>
 </div>   
 
+#### Blender: Troubleshooting - Audio From Speaker NOT Starting at Frame 0
+
+<img src="imgs/58.jpeg" style="width: 80%; height: auto;">     
+
 #### Blender: Export File with Audio
 
 <img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
+
+#### Blender: Troubleshooting - Video Taking TOO LONG to Render
+
+<img src="imgs/59.jpeg" style="width: 80%; height: auto;">     
 
 ---
 

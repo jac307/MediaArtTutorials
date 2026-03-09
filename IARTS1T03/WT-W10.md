@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W10 - Multi-Channel Installation Design — Part 2 (Spatial Implementation)</span>
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/56.png" style="width: 100%; height: auto;">
+  <img src="imgs/60.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -34,7 +34,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 ---
 
-<h3 style="color: darkred;">[30m] Blender — Spatial Application & Audience POV </h3>  
+<h3 style="color: darkred;">[60-80m] Blender — Spatial Application & Audience POV </h3>  
 
 You will begin with this [**Blender file**](imgs/Lastname-Firstname-W9.blend), which contains a collection named **“Venue”** with the following:
 
@@ -124,13 +124,25 @@ MP4 (H.264), 1920x1080, 24fps
 
 ---
 
-### Video Submission Example
+#### Blender: Troubleshooting - Audio From Speaker NOT Starting at Frame 0
+
+<img src="imgs/58.jpeg" style="width: 80%; height: auto;">     
+
+#### Blender: Export File with Audio
+
+<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
+
+#### Blender: Troubleshooting - Video Taking TOO LONG to Render
+
+<img src="imgs/59.jpeg" style="width: 80%; height: auto;">     
+
+<!-- ### Video Submission Example
 
 <figure style="width: 80%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
     <source src="imgs/59.mp4" type="video/mp4">
   </video>
-</figure>
+</figure> -->
 
 ---
 
