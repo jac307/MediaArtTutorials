@@ -16,13 +16,19 @@
 
 ## Objective
 
-In this session, you will **create an artistic project** using Hydra by building on the skills learned in Part 1. The focus is on:
+In this session, you will **create an artistic project** using Hydra by building on the skills learned in Part 1.   
+
+The focus is on:
 - Conceptual consistency
 - Technical execution
 - Cohesive visual language
 - Critical reflection
-- Thorough documentation of your creative process
+- Thorough documentation of your creative process. 
   
+Your final output consists of:
+1. A series of **4-6 digital paintings** (JPEG or GIF) or **2–4 short videos** (MP4)
+2. A Documentation PDF (process tables, prompts, iterations, reflection)  
+
 ---
 
 ## Materials Required
@@ -84,7 +90,7 @@ In your journal (under **"Project"**), answer:
 
 <h3 style="color: darkred;">[1h10m] Work on Your Project</h3>
 
-**Goal:** Produce a cohesive series of **4-6 digital paintings** (JPEG or GIF) or **2–4 short videos**, using Hydra and exploring a range of coding techniques.
+**Goal:** Produce a cohesive series of **4-6 digital paintings** (JPEG or GIF) or **2–4 short videos** (MP4), using Hydra and exploring a range of coding techniques.
 
 ### Documentation Requirements
 

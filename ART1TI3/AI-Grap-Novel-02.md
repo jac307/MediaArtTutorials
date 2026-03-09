@@ -14,7 +14,9 @@
 
 ## Objective
 
-In this session, you will create **a complete artistic project** by applying the skills developed in Part 1. The emphasis is on:
+In this session, you will create **a complete artistic project** by applying the skills developed in Part 1.   
+
+The emphasis is on:
 - Conceptual consistency
 - Cohesive visual style
 - Technical refinement
@@ -44,7 +46,7 @@ Your final output consists of:
 
 <h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
 
-Create a shared journal with the following sections:
+Create a **shared** journal with the following sections:
 
 1. General Info
    - Group member names
