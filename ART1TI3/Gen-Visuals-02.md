@@ -47,7 +47,7 @@ Your final output consists of:
 
 <h3 style="color: darkred;">[10 min] Set Up an Online Collaborative Journal</h3>
 
-Create a shared journal with the following sections:
+Create a **shared** journal with the following sections:
 
 1. General Info
    - Group member names
@@ -171,7 +171,7 @@ so on
 |------------|-------------------------------------------|-----------------|
 | Group      | `Group-#-Documentation.pdf`               | One per group   |
 | Group      | `Group-#-HydraProject.pdf`                | One per group   |
-| Group      | Final images/GIFs/videos                  | One per group   |
+| Group      | Final individual images/GIFs/videos       | One per group   |
 
 > ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
 
