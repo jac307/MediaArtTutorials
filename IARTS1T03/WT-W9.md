@@ -25,6 +25,7 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - Blender (free software)
 - Reaper (free software)  
 - 📄 [**LFS Empty-With Floor Plywood**](imgs/LFS-Floorplan.pdf){:target="_blank"}
+- 📄 [**LFS: Venue - Blender file**](imgs/Lastname-Firstname-W9.blend)
 - Paper + pen (preferred) *or* digital drawing tool
 
 ---
