@@ -191,14 +191,15 @@ In the next stage, you will begin refining **rhythm, pacing, and shot duration**
 
 <h2 id="export-sequence" style="color: darkred;">Exporting Temporary Sequences</h2>
 
-1. Select your **sequence** in the timeline.
-2. Go to **File → Export → Media**.
-3. Format: **H.264**
-4. Preset: **Match Source — High Bitrate** (recommended)
-5. Confirm that your **resolution and frame rate match your sequence settings**.
-6. Click **Export** or **Queue** (to send it to Media Encoder).
+<iframe src="https://www.iorad.com/player/2692296/Premiere-Pro-4--Exporting-a-Temporary-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
 
-📹 *Video tutorial: Premiere Pro — Export a Sequence*
+With your **sequence** open in the timeline:   
+1. Go to **Export**
+2. Save on: **03_Renders** inside project's folder.
+3. Preset: **Match Source – Adaptive Medium Bitrate**
+4. Format: **H.264**
+5. Dissable Effects
+5. Click **Export**  
 
 ---
 

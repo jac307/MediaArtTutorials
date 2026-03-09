@@ -51,11 +51,11 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ---
 
-### Step 2 — Import, Review, and Select Footage [10m]
+### Step 2 — Import, Review, and Select Footage [10m] 
 
-Review your footage in the **Source Monitor**.  
+➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage Before Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}   
 
-➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage Before Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}  
+Review your footage in the **Source Monitor**.   
 
 As you review, identify usable takes.  
 Do **not delete any footage**, but avoid using clips with:  
@@ -101,6 +101,8 @@ Then, **begin placing your selected clips in order**. For this stage:
 ---
 
 ### Step 4 — Watch + Notes [10m]
+
+➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
 
 **Export a temporary version** of your sequence.  
    - Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.  
