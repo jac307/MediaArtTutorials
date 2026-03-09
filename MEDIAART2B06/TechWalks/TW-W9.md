@@ -43,7 +43,7 @@ There are several ways to mark usable sections of your footage in Premiere Pro.
 
 You will also find a written summary of the key steps below.
 
-<iframe src="https://www.iorad.com/player/2692283/Premiere-Pro-2--Reviewing--Marking---Organizing-Media?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe src="https://www.iorad.com/player/2692283/Premiere-Pro-2--Reviewing--Marking---Organizing-Media?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 80%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 ---
 
@@ -152,16 +152,7 @@ Extra seconds before and after actions are normal at this stage.
 
 ### Creating the Sequence in Premiere Pro
 
-Before building the assembly, you must create your **editing sequence**.
-
-In the tutorial below you will review:
-
-- How to create a new sequence
-- Sequence settings (resolution, aspect ratio, frame rate)
-- Importing and organizing footage
-- Preparing the timeline for editing
-
-<iframe src="https://www.iorad.com/player/2692292/Premiere-Pro-3--Creating-a-Sequence---Starting-the-Draft-Assembly?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>   
+<iframe src="https://www.iorad.com/player/2692292/Premiere-Pro-3--Creating-a-Sequence---Starting-the-Draft-Assembly?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 80%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>   
 
 ---
 
