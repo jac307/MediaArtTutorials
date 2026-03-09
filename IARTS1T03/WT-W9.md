@@ -12,7 +12,7 @@
 
 In **Part 1** (Week 9), you will design the **concept and spatial layout** of your multi-channel installation and create the **sound compositions for each speaker**.  
 
-Part 2 (Week 10) will focus on **implementing this design in Blender and producing the final installation simulation.**
+[Part 2 - Week 10](WT-W10.md){:target="_blank"} will focus on **implementing this design in Blender and producing the final installation simulation.**
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.

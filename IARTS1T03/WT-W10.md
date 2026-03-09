@@ -10,7 +10,7 @@
 
 ## Objective
 
-In Part 1 (Week 9), you designed the **concept and spatial layout** of your multi-channel installation and created the **sound compositions for each speaker**.
+In [Part 1 - Week 9](WT-W9.md){:target="_blank"}, you designed the **concept and spatial layout** of your multi-channel installation and created the **sound compositions for each speaker**.
 
 In **Part 2 (Week 10)**, you will **implement this design in Blender**, building the installation environment and producing a **simulation of the audience experience within the space**.
 
