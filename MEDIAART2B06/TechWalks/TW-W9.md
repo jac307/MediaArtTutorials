@@ -208,14 +208,36 @@ When trimming shots:
 Different stories require different pacing styles.
 
 #### Slow Pacing
-Shots remain on screen longer.
 
-Often used to create:
-- tension
-- contemplation
-- atmosphere
+Shots remain on screen for a longer duration before the next cut.  
+This gives the viewer more time to observe the scene and absorb the atmosphere.
 
-Examples: quiet moments, observation, emotional pauses.
+Slow pacing is often used to create:
+
+- tension  
+- contemplation  
+- emotional weight  
+- atmospheric immersion  
+
+In editing, slow pacing usually means:
+
+- fewer cuts  
+- longer shot durations  
+- subtle character movement or minimal action  
+- ambient sound or slow music that supports the mood  
+
+> **Example:** In the short film *2 AM Coffee* by Forrain, the pacing remains slow throughout the sequence. The film follows a person going out for coffee late at night. Many shots are held longer than usual, allowing the viewer to sit with the quiet atmosphere of the empty streets and the city mart. Even when the character discovers that their bike has been stolen, the reaction unfolds slowly rather than through rapid cuts. This pacing reinforces the feeling of isolation and late-night stillness.  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/SR__amDl1c8?si=_9z4od4Q9dEOXY45"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
 
@@ -223,11 +245,31 @@ Examples: quiet moments, observation, emotional pauses.
 Shots change quickly.
 
 Often used to create:
-- urgency
-- action
-- energy
+- urgency  
+- action  
+- intensity  
+- energetic movement  
 
-Common in chase scenes or intense sequences.
+In editing, fast pacing often includes:
+
+- short shot durations  
+- frequent cuts  
+- strong camera movement  
+- rapid shifts in perspective or location  
+- music or sound with a strong rhythm
+
+> **Example:** In the short film *Kick Me* by the Jefferies Brothers, the pacing is noticeably fast. The film follows a character being bullied through a series of escalating situations. Within one minute, the sequence moves through multiple locations in an office environment using quick cuts, dynamic camera movements, and changing perspectives. These visual shifts are reinforced by fast-paced circus-style music, which intensifies the chaotic and comedic tone of the sequence.  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/4DKSduhMls0?si=O-vGSM0_oJshR0it"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
 
@@ -238,42 +280,22 @@ Most films combine **longer and shorter shots** to create rhythm.
 For example:
 Long shot → medium shot → quick cut → longer pause. 
 
-
 This variation creates **visual rhythm**, similar to rhythm in music.
 
-Avoid sequences where **all shots have the same duration**, as this often feels mechanical.
+Avoid sequences where **all shots have the same duration**, as this often feels mechanical.  
 
----
+> **Example:** In the short film *The Wait* by Morphine starts with a low pace matching the storytelling following the life of a person during the covid-19 pandemic and not being able to leave their apartment. It also matches the mundane and boring activity of waiting for the microwave to sound and not having anything to do. This is pair with long shots, long zoom ins, static shots that they shift into a more dynamic environment when the main character starts drumming to be transported into a drumming set, pair with multiple shots, fast cuts, a lot of energy coming from the drum sound to later soon we hear the microwave and the ending comes sharp into the slow environment of his reality.  
 
-### Cutting Between Shots
-
-In most films, the primary transition is a **hard cut**.
-
-Hard cuts:
-
-- maintain momentum
-- feel natural to the viewer
-- preserve visual continuity
-
-Avoid adding transitions unless there is a clear narrative reason.
-
-Do **not rely on fades or dissolves** to fix pacing problems.
-
-If a transition feels necessary, it is often a sign that the **cut timing needs adjustment instead**.
-
----
-
-### Cut on Action
-
-One of the most common editing techniques is **cutting on action**.
-
-When a character begins an action in one shot, the cut occurs **during the movement**, continuing the action in the next shot.
-
-This technique helps:
-
-- hide the cut
-- maintain continuity
-- preserve visual flow
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/C7OQHIpDlvA?si=8Ixarx_68x1Kk8lq"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>. 
 
 ---
 
