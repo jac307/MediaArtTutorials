@@ -127,6 +127,8 @@ First **identify the problems**. In the next activity, you will **address those 
 
 <h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2> 
 
+➡️ Review the tips and examples on [**Pacing & Rhythm**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#rhythm){:target="_blank"} to help guide how you structure and time your shots.  
+
 In this activity, you will **refine** your Draft Assembly, **focusing on rhythm and clarity** by trimming shots, removing unnecessary moments, and adjusting the sequence order.
 
 At the end of this step, your sequence should be **approximately 1 minute long**.  
@@ -151,7 +153,7 @@ You may also begin adding **basic transitions** if necessary.
 
 ---
 
-### Step 2 — Refine Rhythm [20m]
+### Step 2 — Refine Rhythm [20m] 
 
 Focus on the **temporal rhythm** of the sequence.
 
