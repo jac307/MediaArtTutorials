@@ -199,11 +199,7 @@ When trimming shots:
 - Remove unnecessary pauses before or after actions.
 - Avoid leaving shots longer than needed.
 
-For example:
-Action begins → viewer understands action → cut
-
-
-Good trimming keeps the sequence **clear and efficient**.
+<iframe src="https://www.iorad.com/player/2693409/Premiere-Pro-5--Timeline-Editing---Trim--Cut--and-Adjust-Clips?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
 
 ---
 

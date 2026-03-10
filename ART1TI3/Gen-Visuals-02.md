@@ -159,9 +159,7 @@ In addition, upload your final media files separately (JPEG, GIF, or MP4):
 `Group-#-Com-4`
 so on
 
-> ⚠️ Make sure all files are clearly named and properly formatted to avoid point deductions.
-
----
+> ⚠️ Make sure all files are clearly named and properly formatted to avoid point deductions.  
 
 ---
 
