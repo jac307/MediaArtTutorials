@@ -375,7 +375,18 @@ The workflow allows you to edit audio **without damaging the original files** an
 
 Premiere will create a linked audio file and open it in **Audition**.
 
-Any changes saved in Audition will automatically update inside **Premiere**.
+Any changes saved in Audition will automatically update inside **Premiere**.  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/Q_Cg21CiHhE?si=9-ZPgJyBcvVxxMxo"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
