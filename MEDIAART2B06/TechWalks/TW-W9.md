@@ -295,7 +295,7 @@ Avoid sequences where **all shots have the same duration**, as this often feels 
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
-</div>. 
+</div> 
 
 ---
 
@@ -345,11 +345,33 @@ The workflow allows you to edit audio **without damaging the original files** an
 
 ---
 
-### Sending Audio to Audition
+### Sending Audio (Sequence) to Audition
+
+1. Select the sequence
+2. Main Menu → **Edit** → **Edit in Adobe Audition**
+3. In the Pop-Op Window, Select the correct folder to save new documents and enable **Open in Adobe Audition**.
+4. Click **OK**
+
+#### Premiere Pro → Adobe Audition Workflow: Basic Audio Editing
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/GZdLxdtrBT8?si=4l2MlbvjiHeUA6nR"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
+
+### Sending Audio (Clip) to Audition
 
 1. Select the audio clip(s) in your Premiere timeline.
 2. Right-click the clip.
-3. Choose **Edit Clip in Adobe Audition**.
+3. Choose **Edit Clip in Adobe Audition**.  
+
+<img src="imgs/134.png" style="width: 60%; height: auto;">  
 
 Premiere will create a linked audio file and open it in **Audition**.
 
