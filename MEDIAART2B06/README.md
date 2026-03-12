@@ -75,8 +75,8 @@ This project synthesizes the technical and creative skills developed in Module I
 + [Week 8](WeekIns/WI-W8.md) — Production Week 
   + [W8 - Production Framework](TechWalks/TW-W8.md) - From Pre-Production Plan to On-Set Execution
   + [W8 - Tutorials](Tutorials/index.html?file=T-W8.json) - Cinematic Production Essentials
-+ [Week 9](WeekIns/WI-W8.md) — Rough Cut 
-  + [W9 — Rough Cut Framework](TechWalks/TW-W8.md) - From Raw Footage to a Coherent Sequence
++ [Week 9](WeekIns/WI-W9.md) — Rough Cut 
+  + [W9 — Rough Cut Framework](TechWalks/TW-W9.md) - From Raw Footage to a Coherent Sequence
 
 <!--
 + [Week 10](WI-W10.md) — Rough Cut Screening & Sound Design Production
