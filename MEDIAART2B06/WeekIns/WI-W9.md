@@ -20,10 +20,10 @@ You are expected to work actively during class time and participate in all in-cl
 
 <ul>
   <li><a href="#assembly">Activity 1: Build Rough Assembly [50m]</a></li>
-  <li><a href="#rythm">Activity 2: Rhythm Refinement [35m]</a></li>
-  <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
-  <li><a href="#sound">Activity 4: Basic Sound Integration [20m]</a></li>
-  <li><a href="#reviews">Peer Mini-Reviews + Adjustment [50m]</a></li>
+  <li><a href="#rythm">Activity 2: Rhythm Refinement [40m]</a></li>
+  <li><a href="#color">Activity 3: Basic Colour Correction [35m]</a></li>
+  <li><a href="#sound">Activity 4: Basic Sound Integration [30m]</a></li>
+  <li><a href="#reviews">Peer Mini-Reviews + Adjustment [60-80m]</a></li>
   <li><a href="#export">Final Rough Cut Export</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
@@ -126,7 +126,7 @@ First **identify the problems**. In the next activity, you will **address those 
 
 ---
 
-<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm Refinement [35m]</h2> 
+<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm Refinement [40m]</h2> 
 
 ➡️ Review the tips and examples on [**Pacing & Rhythm**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#rhythm){:target="_blank"} to help guide how you structure and time your shots.  
 
@@ -191,7 +191,7 @@ After identifying these issues, return to your sequence and **make quick adjustm
 
 ---
 
-<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>  
+<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [35m]</h2>  
 
 ➡️ Review the tips and examples on [**Basic Colour Correction**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#color){:target="_blank"} to help guide how you balance colour, exposure, and contrast across your sequence.
 
@@ -216,7 +216,7 @@ Examples may include:
 
 ---
 
-### Step 2 — Apply Basic Corrections [20m]
+### Step 2 — Apply Basic Corrections [25m]
 
 Apply **simple corrections** using the **Lumetri Color panel**.  
 
@@ -243,16 +243,23 @@ Save it as `ProjectName_ColourPass.mp4` inside folder: 📁 `03_Renders`.
 
 ---
 
-<h2 id="sound" style="color: darkred;">Activity 4: Basic Sound Integration [20m]</h2>
+<h2 id="sound" style="color: darkred;">Activity 4: Basic Sound Integration [35m]</h2>
 
 ➡️ Review the tips and examples on [**Basic Sound Integration**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#sound){:target="_blank"} to help guide how you balance production sound and maintain consistent audio levels across your sequence.  
 
 At this stage, your visual edit and colour corrections should already be stable.  
 Now you will integrate the **basic production sound** into your sequence.
 
-The goal is **not full sound design**, but creating a clean audio foundation.
+The goal is **not full sound design**, but creating a clean audio foundation.  
 
-### Step 1 — Add Room Tone
+### Step 1 — Send the Sequence to Adobe Audition
+
+Follow the tutorial on the **Premiere → Audition workflow**.
+
+This workflow allows you to edit audio using a proper **Digital Audio Workstation (DAW)** while keeping the sequence linked to Premiere.  
+
+
+### Step 2 — Add Room Tone
 
 Place **room tone underneath the entire sequence** to create a consistent background sound.
 
@@ -261,7 +268,7 @@ Room tone helps:
 - avoid unnatural silence
 - maintain sonic continuity
 
-### Step 2 — Integrate On-Scene Sounds
+### Step 3 — Integrate On-Scene Sounds
 
 Add production sounds recorded during filming.
 
@@ -273,7 +280,7 @@ Examples may include:
 
 Align sounds carefully with the visual action.
 
-### Step 3 — Balance Audio Levels
+### Step 4 — Balance Audio Levels
 
 Adjust levels so that:
 
@@ -282,11 +289,17 @@ Adjust levels so that:
 - sounds are clear but not overpowering
 
 ⚠️ Do **NOT** add music, sound effects, or foley yet.  
-These elements will be developed in the **Sound Design stage** of the project.
+These elements will be developed in the **Sound Design stage** of the project.  
+
+### Step 5 — Export Back to Premiere
+
+Once you finish editing and balancing your audio, export the session back to Premiere Pro.
+
+Follow the tutorial for the **Audition → Premiere workflow**. 
 
 ---
 
-<h2 id="reviews" style="color: darkred;">Peer Mini-Reviews + Adjustments [50m]</h2>
+<h2 id="reviews" style="color: darkred;">Peer Mini-Reviews + Adjustments [60-80m]</h2>
 
 In this stage, you will **review each other's edits and make final adjustments** before exporting your Rough Cut.
 
@@ -316,7 +329,7 @@ Say:
 
 ---
 
-### Step 2 — Improvements + Adjustments [20–25m]
+### Step 2 — Improvements + Adjustments
 
 Return to your project and **begin making adjustments** based on:
 
