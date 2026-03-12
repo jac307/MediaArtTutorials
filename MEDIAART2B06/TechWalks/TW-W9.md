@@ -158,6 +158,8 @@ In the next stage, you will begin refining **rhythm, pacing, and shot duration**
 
 <h2 id="export-sequence" style="color: darkred;">Exporting Temporary Sequences</h2>
 
+Exporting allows you to watch the film **outside the editing timeline**, which makes pacing issues, sound problems, and visual inconsistencies easier to notice.  
+
 <iframe src="https://www.iorad.com/player/2692296/Premiere-Pro-4--Exporting-a-Temporary-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
 
 With your **sequence** open in the timeline:   
@@ -422,6 +424,16 @@ The workflow allows you to edit audio **without damaging the original files** an
   </iframe>
 </div> 
 
+If you need to continue editing your audio later, you can reopen the **Audition session file** that was created during the Premiere → Audition workflow.
+
+Locate the **session file (.sesx)** inside the folder: 📁 `Adobe Audition Interchange`
+
+This folder is automatically created inside the same directory where your **Premiere project** is saved.
+
+Open the `.sesx` file in **Adobe Audition**, make any additional changes, and then **export again to Premiere Pro** following the same **Export to Adobe Premiere Pro** workflow.  
+
+---
+
 ### Sending Audio (Clip) to Audition
 
 1. Select the audio clip(s) in your Premiere timeline.
@@ -443,37 +455,21 @@ Any changes saved in Audition will automatically update inside **Premiere**.
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
-</div> 
-
----
-
-### Basic Audio Balance
-
-At this stage, your sequence should have:
-
-- consistent room tone across the scene
-- synchronized on-scene sounds
-- balanced audio levels
-- no clipping or distortion
-
-The purpose is to create a **clean audio foundation** before developing the full sound design later in the project.  
+</div>   
 
 ---
 
 <h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
 
-Once your sequence is complete, export your **Rough Cut** so it can be reviewed and screened.
-
-Exporting allows you to watch the film **outside the editing timeline**, which makes pacing issues, sound problems, and visual inconsistencies easier to notice.
-
-Always review your exported file **before submitting it**.
-
----
+Instead of exporting directly from Premiere, use **Adobe Media Encoder**.  
 
 ### Premiere Pro → Media Encoder Workflow
 
-Instead of exporting directly from Premiere, use **Adobe Media Encoder**.  
-This workflow allows you to continue editing while your file exports.
+This workflow allows you to **continue editing in Premiere while your file exports in the background**, which is especially useful when working with multiple revisions or temporary renders.  
+
+Media Encoder also manages export jobs in a queue, making it easier to **export several versions of a sequence without interrupting your editing workflow**.  
+
+<iframe src="https://www.iorad.com/player/2694333/Premiere-Pro-7--Exporting-a-Submission-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 Steps:
 
@@ -483,21 +479,7 @@ Steps:
 4. Confirm that your **resolution and frame rate match your sequence settings**.
 5. Click **Queue** instead of Export.
 
-Premiere will send the sequence to **Media Encoder**, where the export will process.
-
----
-
-### Export Settings
-
-Format: **MP4 (H.264)**  
-Frame Rate: **24 fps**
-
-Resolution must match your **sequence aspect ratio**:
-
-- **16:9** → 1920 × 1080  
-- **4:3** → 1440 × 1080  
-- **1.85:1** → 1920 × 1038  
-- **2.35:1** → 1920 × 817  
+Premiere will send the sequence to **Media Encoder**, where the export will process.  
 
 ________________________________________________________________________
 

@@ -193,7 +193,7 @@ After identifying these issues, return to your sequence and **make quick adjustm
 
 <h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [35m]</h2>  
 
-➡️ Review the tips and examples on [**Basic Colour Correction**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#color){:target="_blank"} to help guide how you balance colour, exposure, and contrast across your sequence.
+➡️ Review the tips and examples on [**Basic Colour Correction**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#colour){:target="_blank"} to help guide how you balance colour, exposure, and contrast across your sequence.
 
 In this activity, you will correct **basic exposure and colour consistency issues** in your sequence.  
 
@@ -254,10 +254,9 @@ The goal is **not full sound design**, but creating a clean audio foundation.
 
 ### Step 1 — Send the Sequence to Adobe Audition
 
-Follow the tutorial on the **Premiere → Audition workflow**.
+Follow the tutorial on [**Premiere Pro → Adobe Audition Workflow: Basic Audio Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--adobe-audition-workflow-basic-audio-editing){:target="_blank"}  
 
 This workflow allows you to edit audio using a proper **Digital Audio Workstation (DAW)** while keeping the sequence linked to Premiere.  
-
 
 ### Step 2 — Add Room Tone
 
@@ -278,24 +277,26 @@ Examples may include:
 - fabric movement
 - doors or environmental sounds
 
-Align sounds carefully with the visual action.
-
-### Step 4 — Balance Audio Levels
-
-Adjust levels so that:
-
-- audio **does not clip (0 dB)**
-- peaks remain between **-12 dB and -6 dB**
-- sounds are clear but not overpowering
+Align sounds carefully with the visual action.  
 
 ⚠️ Do **NOT** add music, sound effects, or foley yet.  
 These elements will be developed in the **Sound Design stage** of the project.  
+
+### Step 4 — Apply Match Clip Loudness to All Sound Clips
+
+1. Select all of your audio clips  
+2. Right click to open the menu  
+3. Click **Match Clip Loudness**
+
+<img src="imgs/135.png" style="width: 40%; height: auto;">    
+
+This tool automatically **normalizes the loudness of multiple audio clips** so they play at a more consistent level. It analyzes the clips and adjusts their gain to match a target loudness value.  
 
 ### Step 5 — Export Back to Premiere
 
 Once you finish editing and balancing your audio, export the session back to Premiere Pro.
 
-Follow the tutorial for the **Audition → Premiere workflow**. 
+Follow the tutorial for [**Premiere Pro → Adobe Audition Workflow: Basic Audio Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--adobe-audition-workflow-basic-audio-editing){:target="_blank"}  
 
 ---
 
@@ -350,6 +351,18 @@ Save the file inside: 📁 `04_Exports`
 
 > Your Rough Cut should present a **clear and complete version of the film**, including the final shot order, basic rhythm, and integrated on-scene sound.   
 > The story and visual flow should be understandable, even though **fine sound design, detailed colour grading, and final polishing will be completed in a later**.    
+
+### Export Settings
+
+Format: **MP4 (H.264)**  
+Frame Rate: **24 fps**
+
+Resolution must match your **sequence aspect ratio**:
+
+- **16:9** → 1920 × 1080  
+- **4:3** → 1440 × 1080  
+- **1.85:1** → 1920 × 1038  
+- **2.35:1** → 1920 × 817  
 
 ---
 
@@ -430,5 +443,3 @@ Credits: Jessica A. Rodríguez
 
 **AI Disclosure**:  
 AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.
-
-
