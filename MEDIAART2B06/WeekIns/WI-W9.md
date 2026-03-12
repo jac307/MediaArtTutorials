@@ -398,7 +398,7 @@ Students must have their project folder and be ready to show the following:
 
 - `ProjectName_DraftAssembly.mp4`  
 - `ProjectName_RhythmPass.mp4`  
-- `ProjectName_ColourPass.mp4`
+- `ProjectName_RoughPreview.mp4`
 
 <h4>📁 <code style="color: navy;">04_Exports</code></h4>
 
