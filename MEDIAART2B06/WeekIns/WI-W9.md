@@ -278,7 +278,7 @@ These elements will be developed in the **Sound Design stage** of the project.
 2. Right click to open the menu  
 3. Click **Match Clip Loudness**
 
-<img src="imgs/135.png" style="width: 40%; height: auto;">    
+<img src="imgs/14.png" style="width: 40%; height: auto;">    
 
 This tool automatically **normalizes the loudness of multiple audio clips** so they play at a more consistent level. It analyzes the clips and adjusts their gain to match a target loudness value.  
 

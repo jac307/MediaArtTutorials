@@ -442,7 +442,7 @@ Open the `.sesx` file in **Adobe Audition**, make any additional changes, and th
 2. Right-click the clip.
 3. Choose **Edit Clip in Adobe Audition**.  
 
-<img src="imgs/135.png" style="width: 60%; height: auto;">  
+<img src="imgs/134.png" style="width: 60%; height: auto;">  
 
 Premiere will create a linked audio file and open it in **Audition**.
 
