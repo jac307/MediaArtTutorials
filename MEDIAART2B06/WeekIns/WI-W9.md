@@ -20,8 +20,9 @@ You are expected to work actively during class time and participate in all in-cl
 
 <ul>
   <li><a href="#assembly">Activity 1: Build Rough Assembly [50m]</a></li>
-  <li><a href="#rythm">Activity 2: Rhythm + Basic Sound Integration [55m]</a></li>
+  <li><a href="#rythm">Activity 2: Rhythm Refinement [35m]</a></li>
   <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
+  <li><a href="#sound">Activity 4: Basic Sound Integration [20m]</a></li>
   <li><a href="#reviews">Peer Mini-Reviews + Adjustment [50m]</a></li>
   <li><a href="#export">Final Rough Cut Export</a></li>
   <li><a href="#submission">📤 Submission</a></li>
@@ -125,7 +126,7 @@ First **identify the problems**. In the next activity, you will **address those 
 
 ---
 
-<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm + Basic Sound Integration [55m]</h2> 
+<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm Refinement [35m]</h2> 
 
 ➡️ Review the tips and examples on [**Pacing & Rhythm**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#rhythm){:target="_blank"} to help guide how you structure and time your shots.  
 
@@ -165,23 +166,11 @@ Ask yourself:
 
 Your sequence should now feel **clearer and more intentional** than the draft assembly.
 
----
-
-### Step 3 — Basic Sound Integration [15m]
-
-In this stage, you will work **only with the sound recorded during production**.  
-
-1. Place **room tone underneath the sequence** to create a consistent background sound.   
-2. You may also include:  
-   - Production sound recorded on set
-   - Environmental sounds captured during filming
-
-⚠️ Do **NOT** add music, sound effects, foley, or external sound sources  
-The full sound design will be developed in a later stage.    
-
 ---  
 
-### Step 4 — Watch + Notes + Adjustments [15m]
+### Step 3 — Watch + Notes + Adjustments [15m]
+
+➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
 
 **Export a temporary version** of your sequence.  
    - Save it as `ProjectName_RhythmPass.mp4` inside folder: 📁 `03_Renders`.
@@ -203,6 +192,8 @@ After identifying these issues, return to your sequence and **make quick adjustm
 ---
 
 <h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>  
+
+➡️ Review the tips and examples on [**Basic Colour Correction**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#color){:target="_blank"} to help guide how you balance colour, exposure, and contrast across your sequence.
 
 In this activity, you will correct **basic exposure and colour consistency issues** in your sequence.  
 
@@ -245,8 +236,53 @@ The full colour grading will be developed in a later stage.
 
 ### Step 3 — Export [5m] 
 
+➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
+
 **Export a temporary version** of your sequence.  
 Save it as `ProjectName_ColourPass.mp4` inside folder: 📁 `03_Renders`.  
+
+---
+
+<h2 id="sound" style="color: darkred;">Activity 4: Basic Sound Integration [20m]</h2>
+
+➡️ Review the tips and examples on [**Basic Sound Integration**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#sound){:target="_blank"} to help guide how you balance production sound and maintain consistent audio levels across your sequence.  
+
+At this stage, your visual edit and colour corrections should already be stable.  
+Now you will integrate the **basic production sound** into your sequence.
+
+The goal is **not full sound design**, but creating a clean audio foundation.
+
+### Step 1 — Add Room Tone
+
+Place **room tone underneath the entire sequence** to create a consistent background sound.
+
+Room tone helps:
+- smooth cuts between shots
+- avoid unnatural silence
+- maintain sonic continuity
+
+### Step 2 — Integrate On-Scene Sounds
+
+Add production sounds recorded during filming.
+
+Examples may include:
+- footsteps
+- object interaction
+- fabric movement
+- doors or environmental sounds
+
+Align sounds carefully with the visual action.
+
+### Step 3 — Balance Audio Levels
+
+Adjust levels so that:
+
+- audio **does not clip (0 dB)**
+- peaks remain between **-12 dB and -6 dB**
+- sounds are clear but not overpowering
+
+⚠️ Do **NOT** add music, sound effects, or foley yet.  
+These elements will be developed in the **Sound Design stage** of the project.
 
 ---
 
@@ -264,14 +300,19 @@ Each student will screen their edit **from beginning to end without interruption
 
 After each viewing, the two peers will provide feedback while the student receiving comments **takes notes**.
 
-Focus your comments primarily on **clarity and flow**. Use the following guiding questions to structure your feedback:
+Each peer should provide:
 
-- Is the story or action **clear and understandable**?
-- Is there any moment where the sequence feels **confusing or unclear**?
-- Do any shots stay on screen **too long or too short**?
-- Are there **unnecessary or repetitive shots**?
-- Does the **action flow clearly** from one shot to the next?
-- Are there any noticeable **visual inconsistencies** (exposure, colour, framing)?  
+• **1 Strength** — something that works well in the sequence  
+• **1 Issue** — a moment that feels unclear, slow, abrupt, or visually inconsistent  
+• **1 Suggestion** — a concrete idea for improvement
+
+Focus on **specific moments in the sequence** rather than general impressions.
+
+For example, instead of saying:
+"the pacing feels slow"
+
+Say:
+"The shot at 00:24 stays on screen too long and slows the rhythm."  
 
 ---
 

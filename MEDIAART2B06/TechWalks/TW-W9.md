@@ -14,6 +14,7 @@ This document supports the [W9 - Rough Cut](../WeekIns/WI-W9.md){:target="_blank
   <li><a href="#assembly">Building the Rough Assembly</a></li>
   <li><a href="#export-sequence">Exporting Temporary Sequences</a></li>
   <li><a href="#rhythm">Pacing & Rhythm</a></li>
+  <li><a href="#color">Visual Consistency (Basic Colour Correction)</a></li>
   <li><a href="#sound">Basic Sound Integration</a></li>
   <li><a href="#export">Final Rough Cut Export</a></li>
 </ul>  
@@ -314,6 +315,62 @@ Editing is often about **subtle timing decisions** rather than large structural 
 
 ---
 
+<h2 id="colour" style="color: darkred;">Visual Consistency (Basic Colour Correction)</h2>
+
+During production, shots are often recorded under slightly different lighting conditions, camera angles, or exposure settings. As a result, two shots that occur in the same scene may appear visually different.
+
+Basic colour correction helps reduce these differences so the sequence feels visually coherent.  
+
+It is important to distinguish between two different processes:  
+
+**Colour Correction**
+- technical adjustments  
+- fixes white balance and exposure  
+- creates consistency between shots  
+
+**Colour Grading**
+- creative styling  
+- adds a cinematic look or visual mood  
+- usually done near the final stage of editing  
+
+At the Rough Cut stage, the goal is **not creative colour grading**, but **visual consistency between shots**.  
+
+---
+
+### Key Colour Correction Principles
+
+When colour correcting your sequence, focus on these basic ideas:
+
+**Neutral whites**  
+White or neutral areas in the image should appear natural rather than tinted toward blue, orange, green, or magenta.
+
+**Balanced exposure**  
+Shots should not appear dramatically brighter or darker than neighboring shots unless intentionally motivated by the scene.
+
+**Consistent contrast**  
+The balance between shadows, midtones, and highlights should feel similar across clips.
+
+**Creating Depth**
+A common approach in basic correction is to slightly deepen shadows and brighten highlights. This increases contrast and can help create a sense of visual depth.
+
+Avoid extreme adjustments. Subtle corrections usually produce the most natural results.
+
+---
+
+### Recommended Tools
+
+For this stage of editing, focus on the following tools in the **Lumetri Color panel** from Premiere Pro:
+
+- **Basic Correction** (Temperature, Exposure, Saturation)  
+- **Curves** (for contrast and tonal balance)  
+- **Color Wheels & Match** (for balancing shadows, midtones, and highlights)
+
+These tools provide enough control to correct most visual inconsistencies in your sequence.  
+
+<iframe src="https://www.iorad.com/player/2694257/Premiere-Pro-6--Basic-Colour-Correction-with-Lumetri-Color?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+---
+
 <h2 id="sound" style="color: darkred;">Basic Sound Integration</h2>    
 
 Once the visual rhythm of your sequence is established, you should integrate **basic production sound**.
@@ -390,58 +447,6 @@ Any changes saved in Audition will automatically update inside **Premiere**.
 
 ---
 
-### Step 1 — Add Room Tone
-
-Room tone should be placed **throughout the sequence**.
-
-Room tone helps:
-
-- smooth cuts between shots
-- avoid unnatural silence
-- maintain sonic continuity
-
-Steps:
-
-1. Import your **room tone recording**.
-2. Place it on a **separate audio track below your production sound**.
-3. Extend it across the entire sequence.
-4. Adjust the level so it sits quietly under the scene.
-
-Room tone should be **subtle**, not noticeable.
-
----
-
-### Step 2 — Add On-Scene Sounds
-
-Next, integrate the sounds recorded during production.
-
-Examples:
-
-- footsteps
-- object interaction
-- fabric movement
-- doors or environmental sounds
-
-Align these sounds carefully with the **visual action**.
-
-Good sound synchronization improves the **perceived realism of the scene**.
-
----
-
-### Step 3 — Adjust Audio Levels
-
-When balancing sound levels:
-
-- Avoid **clipping (0 dB)**.
-- Aim for peaks between **-12 dB and -6 dB**.
-- Ensure sounds remain **clear but not overpowering**.
-
-If audio peaks exceed **0 dB**, distortion occurs and cannot be repaired.
-
-Use **Audio Gain** or **clip volume adjustments** to control levels.
-
----
-
 ### Basic Audio Balance
 
 At this stage, your sequence should have:
@@ -451,7 +456,7 @@ At this stage, your sequence should have:
 - balanced audio levels
 - no clipping or distortion
 
-The purpose is to create a **clean audio foundation** before developing the full sound design later in the project.
+The purpose is to create a **clean audio foundation** before developing the full sound design later in the project.  
 
 ---
 
