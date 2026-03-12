@@ -70,7 +70,7 @@ Markers help you **navigate quickly between good sections** of a clip.
 
 ---
 
-#### Method 3 — Label Colors (Optional)
+#### Method 3 — Label Colors
 
 Editors often use **color labels** to organize material.
 
@@ -227,9 +227,7 @@ In editing, slow pacing usually means:
 - fewer cuts  
 - longer shot durations  
 - subtle character movement or minimal action  
-- ambient sound or slow music that supports the mood  
-
-> **Example:** In the short film *2 AM Coffee* by Forrain, the pacing remains slow throughout the sequence. The film follows a person going out for coffee late at night. Many shots are held longer than usual, allowing the viewer to sit with the quiet atmosphere of the empty streets and the city mart. Even when the character discovers that their bike has been stolen, the reaction unfolds slowly rather than through rapid cuts. This pacing reinforces the feeling of isolation and late-night stillness.  
+- ambient sound or slow music that supports the mood    
 
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
@@ -240,7 +238,9 @@ In editing, slow pacing usually means:
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
-</div>
+</div>  
+
+> **Example:** In the short film *2 AM Coffee* by Forrain, the pacing remains slow throughout the sequence. The film follows a person going out for coffee late at night. Many shots are held longer than usual, allowing the viewer to sit with the quiet atmosphere of the empty streets and the city mart. Even when the character discovers that their bike has been stolen, the reaction unfolds slowly rather than through rapid cuts. This pacing reinforces the feeling of isolation and late-night stillness.  
 
 ---
 
@@ -259,9 +259,7 @@ In editing, fast pacing often includes:
 - frequent cuts  
 - strong camera movement  
 - rapid shifts in perspective or location  
-- music or sound with a strong rhythm
-
-> **Example:** In the short film *Kick Me* by the Jefferies Brothers, the pacing is noticeably fast. The film follows a character being bullied through a series of escalating situations. Within one minute, the sequence moves through multiple locations in an office environment using quick cuts, dynamic camera movements, and changing perspectives. These visual shifts are reinforced by fast-paced circus-style music, which intensifies the chaotic and comedic tone of the sequence.  
+- music or sound with a strong rhythm   
 
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
@@ -272,7 +270,9 @@ In editing, fast pacing often includes:
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
-</div>
+</div>   
+
+> **Example:** In the short film *Kick Me* by the Jefferies Brothers, the pacing is noticeably fast. The film follows a character being bullied through a series of escalating situations. Within one minute, the sequence moves through multiple locations in an office environment using quick cuts, dynamic camera movements, and changing perspectives. These visual shifts are reinforced by fast-paced circus-style music, which intensifies the chaotic and comedic tone of the sequence. 
 
 ---
 
@@ -287,8 +287,6 @@ This variation creates **visual rhythm**, similar to rhythm in music.
 
 Avoid sequences where **all shots have the same duration**, as this often feels mechanical.  
 
-> **Example:** In the short film *The Wait* by Morphine starts with a low pace matching the storytelling following the life of a person during the covid-19 pandemic and not being able to leave their apartment. It also matches the mundane and boring activity of waiting for the microwave to sound and not having anything to do. This is pair with long shots, long zoom ins, static shots that they shift into a more dynamic environment when the main character starts drumming to be transported into a drumming set, pair with multiple shots, fast cuts, a lot of energy coming from the drum sound to later soon we hear the microwave and the ending comes sharp into the slow environment of his reality.  
-
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
     src="https://www.youtube.com/embed/C7OQHIpDlvA?si=8Ixarx_68x1Kk8lq"
@@ -298,7 +296,9 @@ Avoid sequences where **all shots have the same duration**, as this often feels 
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
-</div> 
+</div>   
+
+> **Example:** In the short film *The Wait* by Morphine starts with a low pace matching the storytelling following the life of a person during the covid-19 pandemic and not being able to leave their apartment. It also matches the mundane and boring activity of waiting for the microwave to sound and not having anything to do. This is pair with long shots, long zoom ins, static shots that they shift into a more dynamic environment when the main character starts drumming to be transported into a drumming set, pair with multiple shots, fast cuts, a lot of energy coming from the drum sound to later soon we hear the microwave and the ending comes sharp into the slow environment of his reality.  
 
 ---
 
@@ -352,7 +352,7 @@ Shots should not appear dramatically brighter or darker than neighboring shots u
 **Consistent contrast**  
 The balance between shadows, midtones, and highlights should feel similar across clips.
 
-**Creating Depth**
+**Creating Depth**. 
 A common approach in basic correction is to slightly deepen shadows and brighten highlights. This increases contrast and can help create a sense of visual depth.
 
 Avoid extreme adjustments. Subtle corrections usually produce the most natural results.
@@ -424,6 +424,8 @@ The workflow allows you to edit audio **without damaging the original files** an
   </iframe>
 </div> 
 
+### Reopening the Audition Session for Further Editing
+
 If you need to continue editing your audio later, you can reopen the **Audition session file** that was created during the Premiere → Audition workflow.
 
 Locate the **session file (.sesx)** inside the folder: 📁 `Adobe Audition Interchange`
@@ -440,7 +442,7 @@ Open the `.sesx` file in **Adobe Audition**, make any additional changes, and th
 2. Right-click the clip.
 3. Choose **Edit Clip in Adobe Audition**.  
 
-<img src="imgs/14.png" style="width: 60%; height: auto;">  
+<img src="imgs/135.png" style="width: 60%; height: auto;">  
 
 Premiere will create a linked audio file and open it in **Audition**.
 
