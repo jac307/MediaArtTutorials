@@ -24,14 +24,8 @@ This document supports the [W9 - Rough Cut](../WeekIns/WI-W9.md){:target="_blank
 <h2 id="review-footage" style="color: darkred;">Reviewing Footage</h2>  
 
 Before assembling your sequence, take time to **review all your footage carefully**.  
-Professional editors rarely begin editing immediately — they first **watch, evaluate, and select usable material**.
-
-The goal of this step is to identify:
-
-- The **best take** of each shot
-- Takes with **technical problems** (focus, exposure, camera shake)
-- Takes that are **emotionally or visually stronger**
-
+Professional editors rarely begin editing immediately — they first **watch, evaluate, and select usable material**.  
+  
 Do **not delete any footage**. Simply identify what you will use and what you will avoid.
 
 ---
