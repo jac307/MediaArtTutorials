@@ -154,15 +154,21 @@ In the next stage, you will begin refining **rhythm, pacing, and shot duration**
 
 Exporting allows you to watch the film **outside the editing timeline**, which makes pacing issues, sound problems, and visual inconsistencies easier to notice.  
 
+### Premiere Pro → Media Encoder Workflow
+
+This workflow allows you to **continue editing in Premiere while your file exports in the background**, which is especially useful when working with multiple revisions or temporary renders.  
+
+Media Encoder also manages export jobs in a queue, making it easier to **export several versions of a sequence without interrupting your editing workflow**.  
+
 <iframe src="https://www.iorad.com/player/2692296/Premiere-Pro-4--Exporting-a-Temporary-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
 
-With your **sequence** open in the timeline:   
-1. Go to **Export**
-2. Save on: **03_Renders** inside project's folder.
-3. Preset: **Match Source – Adaptive Medium Bitrate**
-4. Format: **H.264**
-5. Dissable Effects
-5. Click **Export**  
+1. Select your **sequence** in Premiere Pro
+2. Go to **File → Export → Media**
+3. Format: **H.264**
+4. Confirm that your **resolution and frame rate match your sequence settings**
+5. Click **Queue** instead of Export
+
+Premiere will send the sequence to **Media Encoder**, where the export will process.  
 
 ---
 
@@ -455,25 +461,15 @@ Any changes saved in Audition will automatically update inside **Premiere**.
 
 <h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
 
-Instead of exporting directly from Premiere, use **Adobe Media Encoder**.  
-
-### Premiere Pro → Media Encoder Workflow
-
-This workflow allows you to **continue editing in Premiere while your file exports in the background**, which is especially useful when working with multiple revisions or temporary renders.  
-
-Media Encoder also manages export jobs in a queue, making it easier to **export several versions of a sequence without interrupting your editing workflow**.  
-
 <iframe src="https://www.iorad.com/player/2694333/Premiere-Pro-7--Exporting-a-Submission-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-Steps:
-
-1. Select your **sequence** in Premiere Pro.
-2. Go to **File → Export → Media**.
-3. Format: **H.264**.
-4. Confirm that your **resolution and frame rate match your sequence settings**.
-5. Click **Queue** instead of Export.
-
-Premiere will send the sequence to **Media Encoder**, where the export will process.  
+With your **sequence** open in the timeline:   
+1. Go to **Export**
+2. Save on: **03_Renders** inside project's folder.
+3. Preset: **Match Source – Adaptive High Bitrate**
+4. Format: **H.264**
+5. Dissable Effects
+5. Click **Export**  
 
 ________________________________________________________________________
 

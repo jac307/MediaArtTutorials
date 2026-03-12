@@ -21,10 +21,9 @@ You are expected to work actively during class time and participate in all in-cl
 <ul>
   <li><a href="#assembly">Activity 1: Build Rough Assembly [50m]</a></li>
   <li><a href="#rythm">Activity 2: Rhythm Refinement [40m]</a></li>
-  <li><a href="#color">Activity 3: Basic Colour Correction [35m]</a></li>
+  <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
   <li><a href="#sound">Activity 4: Basic Sound Integration [30m]</a></li>
-  <li><a href="#reviews">Peer Mini-Reviews + Adjustment [60-80m]</a></li>
-  <li><a href="#export">Final Rough Cut Export</a></li>
+  <li><a href="#export">Final Changes and Rough Cut Export</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
@@ -39,7 +38,7 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ---
 
-### Step 1 — Create the Project [5m]
+### Step 1 — Create the Project
 
 1. Open **Adobe Premiere Pro**.    
 2. Create a new project using the correct naming protocol: `ProjectName.prproj`. 
@@ -52,7 +51,7 @@ In this activity, you will build your **first DRAFT Assembly of the film**.
 
 ---
 
-### Step 2 — Import, Review, and Select Footage [10m] 
+### Step 2 — Import, Review, and Select Footage 
 
 ➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}   
 
@@ -75,7 +74,7 @@ You may have multiple takes per shot — **select the strongest one**.
 
 ---
 
-### Step 3 — Build the Draft Assembly [15m] 
+### Step 3 — Build the Draft Assembly 
 
 ➡️ Follow the tutorial on how to create your sequence in **Premiere Pro** and review tips for [**Building the Draft Assembly**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#assembly){:target="_blank"}   
 
@@ -101,7 +100,7 @@ Then, **begin placing your selected clips in order**. For this stage:
 
 ---
 
-### Step 4 — Watch + Notes [10m]
+### Step 4 — Watch + Notes
 
 ➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
 
@@ -137,7 +136,7 @@ At the end of this step, your sequence should be **approximately 1 minute long**
 
 ---
 
-### Step 1 — Address Identified Issues [5m]
+### Step 1 — Address Identified Issues
 
 **Correct** the problems you noted during previous the **Watch + Notes** step.  
 
@@ -154,7 +153,7 @@ You may also begin adding **basic transitions** if necessary.
 
 ---
 
-### Step 2 — Refine Rhythm [20m] 
+### Step 2 — Refine Rhythm
 
 Focus on the **temporal rhythm** of the sequence.
 
@@ -168,7 +167,7 @@ Your sequence should now feel **clearer and more intentional** than the draft as
 
 ---  
 
-### Step 3 — Watch + Notes + Adjustments [15m]
+### Step 3 — Watch + Notes + Adjustments
 
 ➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
 
@@ -191,7 +190,7 @@ After identifying these issues, return to your sequence and **make quick adjustm
 
 ---
 
-<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [35m]</h2>  
+<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>  
 
 ➡️ Review the tips and examples on [**Basic Colour Correction**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#colour){:target="_blank"} to help guide how you balance colour, exposure, and contrast across your sequence.
 
@@ -201,7 +200,7 @@ In this activity, you will correct **basic exposure and colour consistency issue
 
 ---
 
-### Step 1 — Watch + Notes [5m]
+### Step 1 — Watch + Notes
 
 Re-watch your file `ProjectName_RhythmPass.mp4`. This time, focus specifically on **colour and exposure**.  
 
@@ -216,7 +215,7 @@ Examples may include:
 
 ---
 
-### Step 2 — Apply Basic Corrections [25m]
+### Step 2 — Apply Basic Corrections
 
 Apply **simple corrections** using the **Lumetri Color panel**.  
 
@@ -234,16 +233,7 @@ The full colour grading will be developed in a later stage.
 
 ---
 
-### Step 3 — Export [5m] 
-
-➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
-
-**Export a temporary version** of your sequence.  
-Save it as `ProjectName_ColourPass.mp4` inside folder: 📁 `03_Renders`.  
-
----
-
-<h2 id="sound" style="color: darkred;">Activity 4: Basic Sound Integration [35m]</h2>
+<h2 id="sound" style="color: darkred;">Activity 4: Basic Sound Integration [30m]</h2>
 
 ➡️ Review the tips and examples on [**Basic Sound Integration**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#sound){:target="_blank"} to help guide how you balance production sound and maintain consistent audio levels across your sequence.  
 
@@ -298,61 +288,38 @@ Once you finish editing and balancing your audio, export the session back to Pre
 
 Follow the tutorial for [**Premiere Pro → Adobe Audition Workflow: Basic Audio Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--adobe-audition-workflow-basic-audio-editing){:target="_blank"}  
 
----
+### Step 6 — Export
 
-<h2 id="reviews" style="color: darkred;">Peer Mini-Reviews + Adjustments [60-80m]</h2>
+➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
 
-In this stage, you will **review each other's edits and make final adjustments** before exporting your Rough Cut.
-
-Students will work in **groups of three**.
-
----
-
-### Step 1 — Peer Viewing + Feedback [20–25m]
-
-Each student will screen their edit **from beginning to end without interruption**.
-
-After each viewing, the two peers will provide feedback while the student receiving comments **takes notes**.
-
-Each peer should provide:
-
-• **1 Strength** — something that works well in the sequence  
-• **1 Issue** — a moment that feels unclear, slow, abrupt, or visually inconsistent  
-• **1 Suggestion** — a concrete idea for improvement
-
-Focus on **specific moments in the sequence** rather than general impressions.
-
-For example, instead of saying:
-"the pacing feels slow"
-
-Say:
-"The shot at 00:24 stays on screen too long and slows the rhythm."  
+**Export a temporary version** of your sequence.  
+Save it as `ProjectName_RoughPreview.mp4` inside folder: 📁 `03_Renders`.  
 
 ---
 
-### Step 2 — Improvements + Adjustments
+<h2 id="export" style="color: darkred;">Final Changes and Rough Cut Export</h2>
 
-Return to your project and **begin making adjustments** based on:
+Review your `ProjectName_RoughPreview.mp4` and make final notes before exporting.
 
-- The notes you took earlier
-- The feedback provided by your peers
+While watching, check for:
 
-Peer feedback provides an **unbiased viewer perspective**, which is valuable during the editing process.
+- **Rhythm issues** — shots that remain on screen too long or cuts that feel too abrupt.  
+- **Visual consistency** — noticeable changes in brightness, colour temperature, or contrast between shots.
 
-You are not required to follow every suggestion. However, you should carefully consider the feedback and address any moments that appear **confusing or unclear** to viewers.  
-
----
-
-<h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
-
-Using the **Premiere-Pro → Media Encoder** workflow, **export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
-
-Save the file inside: 📁 `04_Exports`   
+Make any final adjustments in your sequence.  
 
 > Your Rough Cut should present a **clear and complete version of the film**, including the final shot order, basic rhythm, and integrated on-scene sound.   
 > The story and visual flow should be understandable, even though **fine sound design, detailed colour grading, and final polishing will be completed in a later**.    
 
-### Export Settings
+---
+
+### Export Rough Cut
+
+➡️ Follow the tutorial on [**Exporting A Submission Sequence**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--media-encoder-workflow){:target="_blank"}   
+
+Using the **Premiere-Pro → Media Encoder** workflow, **export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
+
+Save the file inside: 📁 `04_Exports`   
 
 Format: **MP4 (H.264)**  
 Frame Rate: **24 fps**
