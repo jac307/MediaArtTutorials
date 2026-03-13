@@ -467,7 +467,7 @@ Any changes saved in Audition will automatically update inside **Premiere**.
 
 With your **sequence** open in the timeline:   
 1. Go to **Export**
-2. Save on: **03_Renders** inside project's folder.
+2. Save on: **04_Exports** inside project's folder.
 3. Preset: **Match Source – Adaptive High Bitrate**
 4. Format: **H.264**
 5. Dissable Effects

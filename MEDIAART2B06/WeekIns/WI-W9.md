@@ -317,7 +317,7 @@ Make any final adjustments in your sequence.
 
 ➡️ Follow the tutorial on [**Exporting A Submission Sequence**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--media-encoder-workflow){:target="_blank"}   
 
-Using the **Premiere-Pro → Media Encoder** workflow, **export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
+**Export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
 
 Save the file inside: 📁 `04_Exports`   
 
