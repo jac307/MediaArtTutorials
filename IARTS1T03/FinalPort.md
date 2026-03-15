@@ -18,6 +18,8 @@ The purpose of the portfolio is to **showcase the technical and creative skills 
 
 Rather than simply resubmitting previous assignments, you will **review the feedback you received and improve selected works before presenting them in a curated portfolio**.
 
+The portfolio should also demonstrate **basic visual design and organization**. This means thinking about how your work is presented through layout, hierarchy, typography, and image placement.
+
 ---
 
 ## Required Works
@@ -50,9 +52,45 @@ The goal is not perfection, but **evidence of thoughtful revision and improvemen
 
 ## Portfolio Format
 
-Submit your portfolio as **one single PDF document**.
+Submit your portfolio as **one single designed PDF document**.
 
-Each project should appear in its **own clearly labeled section**.
+Your portfolio must include **intentional visual design**. This means the document should not look like a simple collection of screenshots or copied assignment text.
+
+Your portfolio should demonstrate:
+
+- clear layout and page organization
+- consistent typography
+- balanced placement of images and text
+- visual hierarchy between titles, images, and descriptions
+
+You may create your portfolio using tools such as:
+
+- Google Slides
+- PowerPoint
+- Canva
+- Adobe InDesign
+- Figma
+- or another layout tool
+
+Export the final document as a **PDF**.
+
+---
+
+## Portfolio Cover Page
+
+At the beginning of the portfolio include a **cover page** containing:
+
+- your name
+- course title and term
+- the title **Final Portfolio**
+- an image from one of your projects **or a collage combining images from multiple projects**
+
+---
+
+## Project Sections
+
+Each project should appear in its **own clearly labeled section**.  
+Limit each project section to **1–2 pages maximum**.  
 
 For each project include:
 
@@ -67,23 +105,37 @@ Explain:
 - the relationship between sound, image, and space
 - the main concept explored in the assignment
 
-### Revision Notes (2–4 sentences)
+### Tools Used
 
-Briefly explain **what you improved or changed after receiving feedback**.
+List the main tools used to create the project.
 
 Examples:
 
-- lighting adjustments
-- sound balancing
-- camera framing corrections
-- spatial improvements
-- editing changes
+- Blender  
+- Reaper  
+- DaVinci Resolve  
+- Clipchamp  
 
-### Documentation Image
+### Credits (if applicable)
 
-Include **one still image exported from Blender** showing the scene clearly.
+If you used **external materials**, list the sources.
 
-Use a **wide view** so the scene, lighting, and objects are visible.
+This may include:
+
+- sound samples
+- music
+- video footage
+
+Provide:
+
+- title of the material (if available)
+- creator or source
+- platform or website
+- link to the original source
+
+If you created all materials yourself, write:
+
+*All media created by the author.*
 
 ### Video Link
 
@@ -99,24 +151,37 @@ Your video may be:
 - **Public**, or  
 - **Unlisted**
 
-Make sure the link **can be accessed without login permissions**.
+
+⚠️ **Important**
+
+Test all video links before submitting your portfolio.  
+Videos that cannot be accessed may result in lost points.
 
 ---
 
-## Optional: Documentation Images
+## Documentation Images
 
-You may include **additional images** that help explain how your scene was constructed.
+Each project section must include **process and final documentation images**.
 
-These are optional but recommended if they clarify your process.
+Include:
 
-Examples include:
+- **2–3 rendered images** exported from Blender showing the final scene.
+- **1–2 process screenshots** showing your working environment.
 
-- scene setup images
-- lighting setup views
-- video projection surfaces
-- Blender interface screenshots
+Process screenshots may come from:
 
-Include **short captions** explaining what each image shows.
+- **Blender**
+- **Reaper**
+- **DaVinci Resolve**
+
+These images should help explain **how the work was constructed**, not just the final result.
+
+### Guidelines
+
+- Export rendered images directly from **Blender**.
+- Use **clear wide views** so the scene can be easily understood.
+- Choose screenshots that show meaningful aspects of your workflow (timeline, node setup, lighting, materials, etc.).
+- Include **short captions** explaining what each image shows.
 
 ---
 
@@ -126,12 +191,13 @@ Arrange the projects in **chronological order** to show the progression of your 
 
 Example structure:
 
-1. W3 — Continuous Shot  
-2. W4 — Lighting Exercise  
-3. W6 — Sound Composition Scene  
-4. W8 — Environmental Scene  
-5. W9–10 — Multi-Channel Installation Design  
-6. W11 — Hybrid Media Scene
+1. Cover Page  
+2. W3 — Continuous Shot  
+3. W4 — Lighting Exercise  
+4. W6 — Sound Composition Scene  
+5. W8 — Environmental Scene  
+6. W9–10 — Multi-Channel Installation Design  
+7. W11 — Hybrid Media Scene  
 
 ---
 
@@ -141,41 +207,26 @@ Export your final document as:
 
 📄 **Filename**
 
-`Lastname-Firstname-FinalPortfolio.pdf`
-
-Example:
-
-`Rodriguez-Jessica-FinalPortfolio.pdf`
-
+`Lastname-Firstname-FinalPortfolio.pdf`  
 ---
 
 ## Assessment
 
 Your portfolio will be evaluated based on:
 
-### Revision & Improvement
+- **Revision & Improvement**
+  Evidence that feedback from earlier assignments was considered and applied.
 
-Evidence that feedback from earlier assignments was considered and applied.
+- **Range of Techniques**
+  The portfolio demonstrates the different skills explored during the course.
 
-### Range of Techniques
+- **Clarity of Documentation**
+  Images, descriptions, and links clearly present each work.
 
-The portfolio demonstrates the different skills explored during the course.
+- **Organization & Visual Design**
+  The portfolio is clearly structured, visually organized, and demonstrates basic layout and design decisions.
 
-### Clarity of Documentation
+- **Submission Accuracy**
+  All required materials and video links are included and accessible.
 
-Images, descriptions, and links clearly present each work.
-
-### Organization & Presentation
-
-The portfolio is clearly structured and easy to navigate.
-
-### Submission Accuracy
-
-All required materials and video links are included and accessible.
-
----
-
-⚠️ **Important**
-
-Test all video links before submitting your portfolio.  
-Videos that cannot be accessed may result in lost points.
+---  
