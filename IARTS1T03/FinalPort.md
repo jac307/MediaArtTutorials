@@ -22,7 +22,7 @@ The portfolio should also demonstrate **basic visual design and organization**. 
 
 ---
 
-## Required Works
+<h3 style="color: darkred;">Required Works</h3>
 
 Your portfolio must include **revised versions of the following six submissions**:
 
@@ -50,7 +50,7 @@ The goal is not perfection, but **evidence of thoughtful revision and improvemen
 
 ---
 
-## Portfolio Format
+<h3 style="color: darkred;">Portfolio Format</h3>
 
 Submit your portfolio as **one single designed PDF document**.
 
@@ -183,7 +183,7 @@ These images should help explain **how the work was constructed**, not just the 
 - Choose screenshots that show meaningful aspects of your workflow (timeline, node setup, lighting, materials, etc.).
 - Include **short captions** explaining what each image shows.
 
----
+---  
 
 ## Portfolio Organization
 
@@ -201,13 +201,13 @@ Example structure:
 
 ---
 
-## File Naming
+<h3 style="color: darkred;">Submission Documents</h3>
 
-Export your final document as:
+➡️ **Export as PDF**  
+📄 **Filename:** `Lastname-Firstname-FinalPortfolio.pdf`   
 
-📄 **Filename**
+> ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.** 
 
-`Lastname-Firstname-FinalPortfolio.pdf`  
 ---
 
 ## Assessment
