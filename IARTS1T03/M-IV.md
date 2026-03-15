@@ -7,7 +7,7 @@
 
 ## Objective
 
-In this final module, you will work in **groups of 5 students** to design a **Hybrid Media Installation** for the theatre **Blackbox space**.
+In this final module, you will work in **groups of 5 students** (from any tutorial) to design a **Hybrid Media Installation** for the theatre **Blackbox space**.
 
 This project focuses on **storytelling without performers**, using:
 
@@ -30,21 +30,16 @@ Your proposal must be designed for the **Blackbox space**.
 Assume the following setup:
 
 - **No audience seating**
-- Audience can **move through the installation**
+- The audience can **move freely through the installation**
+- **Six-channel sound system**, with speakers positioned around the space
+- **One main video projection surface located on one of the walls**
 
-Available objects:
+Available sculptural objects:
 
 - **2 large metal cubes**
 - **2 medium cubes**
 - **5–6 small cubes**
-
-These cubes may function as:
-
-- sculptural objects
-- sound sources
-- projection surfaces
-- lighting structures
-- spatial markers
+- **2 black solid cubes**
 
 ---
 
@@ -59,12 +54,12 @@ Sound requirements:
 
 Important:
 
-- **Do NOT use panning.**
+- **Do not use panning for the mono channels.**  
+  Panning may be used **only within the stereo composition (2 speakers)**.
 - Each speaker should play a **distinct composition or sound environment**.
 
 These compositions may:
 
-- reuse material from **W9–10**
 - be **re-edited versions of previous work**
 - combine sounds from multiple group members
 
@@ -72,104 +67,44 @@ The goal is to create **spatial listening zones** within the installation.
 
 ---
 
-## Video & Projection (Optional)
+## Video Projection
 
-Groups may choose to include **video projection**.
-
-If projection is used:
+Your installation must include **one main video projection** placed on **one wall of the space**.  
 
 - you must **create or edit the video content**
 - you may reuse or modify **previous video work**
-- the proposal must clearly define:
-  - projection surface
-  - projection position
-  - relationship between video and sound
-
-Projection is **optional**, but if included it must be clearly integrated into the design.
-
+- the proposal must clearly define the relationship between video and sound  
 ---
 
 ## Group Strategy
 
 Groups may:
 
-- select **one project from W9–10 and expand it**, or
-- **combine ideas from multiple group members** to design a new hybrid installation.
+- select **one previous project/submission and expand it**, or
+- **combine ideas from multiple group members** to design this hybrid installation.
 
 The final proposal should represent **one unified installation concept**.
 
 ---
 
-## Proposal Components
+<h2 style="color: darkred;">Proposal Components </h2>  
 
 Submit **one group PDF** containing the following sections.
 
 ---
 
-### 1. Project Concept (150–200 words)
-
-Describe:
-
-- the overall idea of the installation
-- the atmosphere or experience you want to create
-- how sound, objects, and space work together
-
----
-
-### 2. Spatial Plan
-
-Provide a **visual or diagrammatic plan** showing:
-
-- speaker locations
-- cube placement
-- audience circulation
-- projection surfaces (if used)
-
-This may be:
-
-- a **2D plan**
-- a **diagram**
-- a **script-style description of spatial zones**
-
----
-
-### 3. Lighting Plan
-
-Describe how lighting behaves in the installation.
+### 1. General Information
 
 Include:
 
-- lighting zones or focus points
-- lighting color or intensity
-- how lighting interacts with objects or projections
-
-A diagram is recommended.
-
----
-
-### 4. Sound Plan
-
-Describe how the **six sound channels** are organized.
-
-Include:
-
-- which speaker plays which composition
-- how sound zones are distributed in the space
-- how listeners experience the installation while moving through the space
+- **Project Title**
+- **Authors with roles** (e.g., sound design, spatial design, lighting design, video, documentation)
+- **Short bios (max. 50 words each)**
+- **Credits** for any external media used (sound samples, video footage, images, textures, etc.)
 
 ---
 
-### 5. Technical Approach
-
-Briefly describe how the project would be produced using:
-
-- **Blender** (spatial planning / mockup)
-- **REAPER** (sound composition)
-- **DaVinci Resolve** (video, if applicable)
-
----
-
-### 6. Artistic Rationale (100–150 words)
+### 2. Artistic Rationale (150–250 words)
 
 Explain the conceptual framework of the work.
 
@@ -183,29 +118,134 @@ You may discuss ideas related to:
 
 ---
 
-### 7. Blender Mockup
+### 3. Spatial + Lighting Plan
 
-Include **one or more Blender images** showing a mockup of the installation.
+Create a **floor plan (top view)** using the **LFS template document provided in class**.
+
+This floor plan already contains:
+
+- the **projection screen location**
+- the **six speaker positions**
+
+You must use the template and **add the following elements**:
+
+- cube placement (large, medium, small cubes)
+- lighting positions
+- lighting direction or range
+- audience circulation paths
+
+This drawing communicates **how the installation is organized spatially**.
+
+⚠️ Your drawing skill is not graded.  
+You are graded on **clarity of spatial and lighting decisions**.
+
+---
+
+### 4. Lighting Cue Sequence
+
+Using the spatial plan above, create a **cue sequence describing how lighting behaves over time**.
+
+Your cue sequence should follow the **same structure used in W6** and be written **as instructions for a technician**.
+
+Include **3–5 lighting cues maximum**.
+
+Each cue must describe:
+
+- **type of light** (front, side, top, reflected, etc.)
+- **colour** (name or HEX code)
+- **intensity** (low / mid / high or %)
+- **what the light affects** (objects, cubes, projection surface, audience zones)
+- **timing language** (fade, snap, gradual increase, introduce, remove, shift dominance)
+
+Example actions may include:
+
+- fading lights between spatial zones
+- introducing colour changes
+- shifting attention from one cube to another
+- revealing or hiding projection surfaces
+
+Important:
+
+These cues should be designed as **continuous loops** rather than a one-time sequence.
+
+In other words, the lighting pattern should be able to **repeat continuously during the installation experience**.
+
+---
+
+### 5. Sound Plan
+
+Describe how the **six sound channels** are organized.
+
+Your plan must include:
+
+- **1 stereo composition** (2 speakers)
+- **4 mono compositions** (1 speaker each)
+
+Important:
+
+- **Do not use panning**, except within the **stereo composition**.
+
+Explain:
+
+- which speakers play which compositions
+- how sound zones are distributed across the space
+- how audience movement changes the listening experience
+
+---
+
+### 6. Blender Mockup
+
+Include **2–3 Blender images** showing a mockup of the installation.
 
 The mockup should show:
 
 - cube placement
 - speaker positions
 - spatial relationships
-- possible projection surfaces
+- projection surface location
 
 This does not need to be highly detailed.  
 The goal is to **visualize the spatial design**.
 
 ---
 
-## Submission
+### 7. Media Components
 
-Submit **one group PDF** containing the full proposal.
+Include the **audio and video materials** that will be used in the installation.
 
-📄 Filename:
+Your group must submit:
 
-`GroupName-HybridProposal.pdf`
+- **1 stereo composition** (for the stereo speakers)
+- **4 mono compositions** (for the individual speakers)
+
+You must also submit:
+
+- **1 video composition** for the projection surface
+
+The media may:
+
+- reuse material from **previous assignments**
+- be **edited or recombined versions** of earlier work
+- combine contributions from multiple group members
+
+All media files should be included with the proposal submission.
+
+---
+
+<h2 style="color: darkred;">Submission</h2>  
+
+- **1 group PDF proposal**  
+  - `GroupName-HybridProposal.pdf`
+- **Audio files (5 total compositions)**
+  - `GroupName-Audio-Stereo.pdf`
+  - `GroupName-Audio-Mono-1.pdf`
+  - `GroupName-Audio-Mono-2.pdf`
+  - `GroupName-Audio-Mono-3.pdf`
+  - `GroupName-Audio-Mono-4.pdf`
+- **Video file for projection**
+  - `GroupName-Video.pdf`
+
+> ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
 ---
 
@@ -214,9 +254,9 @@ Submit **one group PDF** containing the full proposal.
 📅 **Due:** March 31  
 ⏰ **Grace period ends:** April 7
 
----
+---  
 
-## Final Showcase Selection
+<h2 style="color: darkred;">Final Showcase Selection</h2>  
 
 All proposals will be reviewed by the instructor.
 
@@ -224,7 +264,7 @@ All proposals will be reviewed by the instructor.
 
 Selected groups will be announced:
 
-📅 **April 1**
+📅 **April 1** on Avenue to Learn (announcements) and by email (to the selected groups)
 
 Selected students will receive:
 
@@ -237,3 +277,5 @@ Selected students will receive:
 Selected groups will meet with **theatre technicians** to discuss implementation.
 
 📅 **Technician consultation:** April 3
+
+---
