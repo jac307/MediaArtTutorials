@@ -140,7 +140,9 @@ Then:
 
 - Choose **one of the walls** in your scene as the projected surface.
 - Follow the tutorial below to add your video.
-    - Add your edited video (with sound) into the scene as a **video texture on the wall surface**.
+  - Add a **Plane** that will act as the projection surface.
+  - Apply your edited video (with sound) to the plane as a **video texture**.
+  - Position and rotate the plane so it sits correctly on the wall in your scene.
 - **Fix and adjust your lighting** so the video remains visible  
   > Your lights should support the projected video rather than wash it out completely.
 - Make sure the video, sound, and scene operate together across the full **30 seconds**.
@@ -168,15 +170,31 @@ Save your updated Blender file as:
 
 ❗ Review this week’s slides for practical tips on **applying video textures, adjusting emissive materials, organizing screen/projection surfaces, and balancing light so the video can be seen clearly**.
 
-#### Blender: Add Video Texture to an Object
-<div style="width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-link-here" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+#### How to import videos into blender
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/ssnJ8yewQ2A?si=CFi6kKxsAX63LeAU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
 </div>
 
-#### Blender: Emission / Surface Visibility for Screen-Based Media
-<div style="width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-link-here" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</div>  
+#### Texture Animation | Import Any Video Into Blender With Animated Image Texture or Video Texture (Advance)
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/E1COCnMUIhQ?si=tEcoEB3odO6x85jg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 #### Blender: Export File with Audio
 
