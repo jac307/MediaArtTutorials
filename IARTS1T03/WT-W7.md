@@ -333,7 +333,7 @@ For full reference, review the slides from this week.
     </audio>
 
     <h4>Pitch</h4>
-    <p><em>Pitch is how we perceive frequency (High vs Low)</em></p>
+    <p><em>Pitch is how we perceive frequency (High vsLow)</em></p>
     <audio controls style="width: 100%;">
       <source src="sounds/pitch.mp3" type="audio/mpeg">
     </audio>
