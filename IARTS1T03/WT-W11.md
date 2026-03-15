@@ -10,7 +10,7 @@
 
 ## Objective
 
-You will **build on your existing W6 submission** by **creating a 30-second video** and **integrating it into your scene**.  
+This activity explores how **moving image, surface, light, and sound** interact inside a staged environment.  
 
 This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment.   
 
@@ -33,8 +33,8 @@ Tutorial time may be used to begin or complete this activity depending on your t
    - [**Clipchamp - Access Through McMaster Email**](https://m365.cloud.microsoft/apps?from=PortalHome){:target="_blank" rel="noopener"}  
    ⚠️ No other editing software is permitted for this activity.
 - Your existing **W6** files:  
-    **30-second sound composition (.wav)**
-    **Blender scene (.blend)**
+    - **30-second sound composition (.wav)**  
+    - **Blender scene (.blend)**
 - Personal video footage **or** royalty-free / free-use video footage from <a href="https://www.pexels.com/videos/" target="_blank" rel="noopener noreferrer">Pexels Video</a>
 - Paper + pen (preferred) *or* digital drawing tool
 
@@ -47,13 +47,13 @@ Tutorial time may be used to begin or complete this activity depending on your t
 
 <h3 style="color: darkred;">[10 min] Visual Intentions — Start Here</h3>  
 
-Define the visual direction of your 30-second video in direct relation to your **existing sound composition** and **Blender scene**. Write **4–5 lines** that answer the following:
+Define the **visual approach** of your 30-second video in direct relation to your **existing sound composition** and **Blender scene**. Write **4–5 lines** that answer the following:
 
 1. **How does your video build on your sound composition?**  
    Does it reinforce the sonic mood, create contrast, slow it down, intensify it, or redirect attention?
 
-2. **What is the visual arc?**  
-   What feeling or image language defines the beginning, what shifts in the middle, and how does it end?
+2. **How does the visual material evolve over time?**  
+What visual qualities, gestures, or textures appear at different moments? The video may develop gradually, repeat patterns, shift atmospheres, or experiment with contrast.  
 
 3. **What kind of footage will you use?**  
    Will it be observational, abstract, environmental, symbolic, gestural, architectural, atmospheric, or texture-based?
@@ -102,11 +102,11 @@ Your video must:
 - Be visually connected to your existing sound composition
 - Use **at least 3 different video clips or visual segments**
 - Use simple but intentional editing
-- Maintain visual coherence through pacing, repetition, contrast, or progression
+- Explore visual relationships through pacing, repetition, contrast, layering, or texture  
 - Include your **original Week 6 sound composition** as the audio track
 - Avoid abrupt technical mistakes unless they are clearly intentional
 
-Keep the edit focused and manageable. The goal is not to produce a complex film, but to create a **strong visual layer** that can function within your hybrid scene.
+Your edit should demonstrate a **clear relationship between the visual material and the sound composition** through rhythm, pacing, contrast, or atmosphere.  
 
 When finished:
 
@@ -131,24 +131,19 @@ First:
 
 - Open your updated Blender scene.
 - Keep your timeline at **720 frames (30 seconds at 24 fps)**.
-- Keep your existing **sound composition** in the scene.
+- Remove the **previous sound file** from the scene.  
+  > The **edited video already contains the sound composition**, so it will play through the video texture instead. 
 - Keep the camera in a **static general wide framing** showing the whole scene.  
   > ⚠️ For this week, the camera should remain static. No camera movement.
 
-Then:
+Then:  
 
-- Add your edited video into the scene as a **video texture / projected surface / screen-based element**
-- Choose a surface where the moving image will be visible:
-  - wall
-  - screen
-  - plane
-  - hanging fabric
-  - object face
-  - another intentional display surface
-- Adjust the material settings so the video plays correctly in the scene
+- Choose **one of the walls** in your scene as the projected surface.
+- Follow the tutorial below to add your video.
+    - Add your edited video (with sound) into the scene as a **video texture on the wall surface**.
 - **Fix and adjust your lighting** so the video remains visible  
   > Your lights should support the projected video rather than wash it out completely.
-- Make sure the video, sound, and scene operate together across the full **30 seconds**
+- Make sure the video, sound, and scene operate together across the full **30 seconds**.
 
 Your goal is to create a scene where:
 
@@ -160,8 +155,10 @@ Your goal is to create a scene where:
 Save your updated Blender file as:  
 📄 `Lastname-Firstname-W11.blend`
 
+➡️ Export **1 still image** that clearly documents your stage setup using a **wide shot**.  
+
 ➡️ **Export final video as MP4, codec H.264**  
-📄 **Filename:** `Lastname-Firstname-W11.mp4`
+📄 **Filename:** `Lastname-Firstname-W11-Scene.mp4`
 
 > ⚠️ This must be a **final render**, not a viewport screen recording.
 
@@ -179,23 +176,23 @@ Save your updated Blender file as:
 #### Blender: Emission / Surface Visibility for Screen-Based Media
 <div style="width:80%; height:auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-link-here" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>  
 
-#### Blender: Export Video with Audio
-<img src="imgs/placeholder-export-w11.jpeg" style="width: 80%; height: auto;">    
+#### Blender: Export File with Audio
 
----
+<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
 
-### Final Render Reminder
+#### Blender: Troubleshooting - Video Taking TOO LONG to Render
 
-Your final video must show:
+<img src="imgs/59.jpeg" style="width: 80%; height: auto;">     
 
-- the **full scene in a general wide shot**
-- the **integrated video surface**
-- the **original sound composition**
-- lighting adjusted so the video can be read clearly
+<!-- ### Video Submission Example
 
-The camera should remain **static for the full 30 seconds**.
+<figure style="width: 80%; margin: 0;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/59.mp4" type="video/mp4">
+  </video>
+</figure> -->
 
 ---
 
@@ -204,7 +201,7 @@ The camera should remain **static for the full 30 seconds**.
 Create a single PDF that includes:
 
 - **4–5 sentence visual intention description**  
-  Briefly explain the emotional arc of the video (beginning → middle → end), how it relates to your sound composition, and where it appears in the Blender scene.
+  Briefly explain the visual approach of the video and how it relates to your sound composition and scene.  
 
 - **List of video sources used**  
   Include for each external clip:
@@ -214,7 +211,7 @@ Create a single PDF that includes:
   - Platform
 
 - **One image of your Blender scene setup**  
-  Include a screenshot showing the video surface inside your scene.
+  Include the **still image exported from Blender** (not a screen capture) that clearly shows your stage setup, including the lighting, objects, and video surface in a **wide shot**.
 
 ➡️ **Export as PDF**  
 📄 **Filename:** `Lastname-Firstname-W11.pdf`
@@ -226,9 +223,7 @@ Create a single PDF that includes:
 | Project document (PDF)      | `Lastname-Firstname-W11.pdf`       |
 | Edited video file           | `Lastname-Firstname-W11-Video.mp4` |
 | Blender scene               | `Lastname-Firstname-W11.blend`     |
-| Final rendered hybrid scene | `Lastname-Firstname-W11.mp4`       |
-
-> If you used **DaVinci Resolve**, also submit the editable project file if requested by your TA or instructor.
+| Final rendered hybrid scene | `Lastname-Firstname-W11-Scene.mp4` |
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
@@ -238,17 +233,11 @@ Create a single PDF that includes:
 
 Your work will be assessed based on:
 
-- **Clarity of Visual Intentions (PDF)**  
-  The written description clearly defines the visual arc (beginning → middle → ending), explains the connection to the existing sound composition, and identifies how the video functions within the Blender scene.
+- **Visual Concept & Video Editing (PDF + Edited MP4)**  
+  The visual description explains the video’s approach and its relationship to the sound composition and scene. The 30-second edit shows intentional selection and sequencing of footage using the permitted software.
 
-- **Video Editing Structure (Edited MP4)**  
-  The 30-second video demonstrates intentional selection and sequencing of footage, thematic coherence, and a clear temporal development using only permitted software.
-
-- **Hybrid Media Integration in Blender (BLEND + Final MP4)**  
-  The video is successfully integrated into the 3D scene as a visible screen/projection surface, the original sound composition remains present, and the lighting has been adjusted so the moving image can be read clearly.
-
-- **Framing, Visibility & Technical Execution**  
-  The final render uses a static general wide framing that clearly shows the whole scene, lasts 30 seconds, includes sound, and is properly exported as a final render rather than a screen capture.
+- **Blender Integration & Final Render (BLEND + Final MP4)**  
+  The video is integrated into the 3D scene as a visible projection surface, with lighting adjusted so the image can be clearly seen. The final render uses a **static wide shot**, lasts **30 seconds**, includes sound, and is properly exported (not a screen capture).
 
 - **File Organization & Submission Accuracy**  
   All required files follow naming conventions and are submitted in the correct format.
