@@ -15,9 +15,7 @@ This project focuses on **storytelling without performers**, using:
 - sound
 - light
 - projection
-- moving image
-
-Instead of producing a full installation, your group will create a **design proposal and spatial mockup** demonstrating how these elements would function together inside the space.
+- moving image 
 
 The goal is to apply the skills developed throughout the course — **sound composition, lighting design, spatial staging, and hybrid media integration** — in a collaborative design project.
 
@@ -37,59 +35,28 @@ Assume the following setup:
 Available sculptural objects:
 
 - **2 large metal cubes**
-- **2 medium cubes**
-- **5–6 small cubes**
+- **2 medium metal cubes**
+- **5–6 small metal cubes**
 - **2 black solid cubes**
 
----
-
-## Sound System
-
-Your installation must use **six speakers** placed around the space.
-
-Sound requirements:
-
-- **1 stereo composition (2 speakers)**
-- **4 mono compositions (1 speaker each)**
-
-Important:
-
-- **Do not use panning for the mono channels.**  
-  Panning may be used **only within the stereo composition (2 speakers)**.
-- Each speaker should play a **distinct composition or sound environment**.
-
-These compositions may:
-
-- be **re-edited versions of previous work**
-- combine sounds from multiple group members
-
-The goal is to create **spatial listening zones** within the installation.
-
----
-
-## Video Projection
-
-Your installation must include **one main video projection** placed on **one wall of the space**.  
-
-- you must **create or edit the video content**
-- you may reuse or modify **previous video work**
-- the proposal must clearly define the relationship between video and sound  
 ---
 
 ## Group Strategy
 
 Groups may:
 
-- select **one previous project/submission and expand it**, or
+- select **one previous project or submission and expand it**, or
 - **combine ideas from multiple group members** to design this hybrid installation.
 
 The final proposal should represent **one unified installation concept**.
 
 ---
 
-<h2 style="color: darkred;">Proposal Components </h2>  
+<h2 style="color: darkred;">Proposal (PDF) Components</h2>  
 
-Submit **one group PDF** containing the following sections.
+Submit **one group PDF** containing the following sections.  
+
+The proposal document should not exceed **6 pages**.  
 
 ---
 
@@ -129,7 +96,7 @@ This floor plan already contains:
 
 You must use the template and **add the following elements**:
 
-- cube placement (large, medium, small cubes)
+- cube placement (large, medium, small, and black cubes)
 - lighting positions
 - lighting direction or range
 - audience circulation paths
@@ -178,8 +145,8 @@ Describe how the **six sound channels** are organized.
 
 Your plan must include:
 
-- **1 stereo composition** (2 speakers)
-- **4 mono compositions** (1 speaker each)
+- **1 stereo composition (2 speakers)**
+- **4 mono compositions (1 speaker each, assigned to separate speakers)**. 
 
 Important:
 
@@ -205,11 +172,11 @@ The mockup should show:
 - projection surface location
 
 This does not need to be highly detailed.  
-The goal is to **visualize the spatial design**.
+The goal is to **visualize how the installation is arranged in space**.  
 
 ---
 
-### 7. Media Components
+<h2 style="color: darkred;">Media Components</h2>  
 
 Include the **audio and video materials** that will be used in the installation.
 
@@ -237,13 +204,13 @@ All media files should be included with the proposal submission.
 - **1 group PDF proposal**  
   - `GroupName-HybridProposal.pdf`
 - **Audio files (5 total compositions)**
-  - `GroupName-Audio-Stereo.pdf`
-  - `GroupName-Audio-Mono-1.pdf`
-  - `GroupName-Audio-Mono-2.pdf`
-  - `GroupName-Audio-Mono-3.pdf`
-  - `GroupName-Audio-Mono-4.pdf`
+  - `GroupName-Audio-Stereo.wav`
+  - `GroupName-Audio-Mono-1.wav`
+  - `GroupName-Audio-Mono-2.wav`
+  - `GroupName-Audio-Mono-3.wav`
+  - `GroupName-Audio-Mono-4.wav`
 - **Video file for projection**
-  - `GroupName-Video.pdf`
+  - `GroupName-Video.mp4`
 
 > ⚠️ **Follow submission protocols carefully. Incorrect submissions may result in lost points.**
 
