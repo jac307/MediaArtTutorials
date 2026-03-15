@@ -10,9 +10,9 @@
 
 ## Objective
 
-You will **build on your existing W6 submission** by **creating a 30-second video** and **integrating it into your scene as projected or screen-based media**.  
+You will **build on your existing W6 submission** by **creating a 30-second video** and **integrating it into your scene**.  
 
-This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment. Rather than changing the spatial structure of the scene, you will extend it by adding a video element that is thematically connected to your existing sound composition.  
+This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment.   
 
 Your final result should demonstrate a **hybrid media scene** in which **video, sound, and lighting** operate together within one coherent visual world.
 
@@ -28,11 +28,11 @@ Tutorial time may be used to begin or complete this activity depending on your t
 - **Headphones**
 - Blender (free software)
 - **Video Editing Software**; Options:  
-   - [**DaVinci Resolve 20**](https://www.blackmagicdesign.com/products/davinciresolve){:target="_blank" rel="noopener"} (highly recommended)  
+   - [**DaVinci Resolve 20 - Free Download**](https://www.blackmagicdesign.com/products/davinciresolve){:target="_blank" rel="noopener"} (highly recommended)  
    or    
-   - [**Clipchamp**](){:target="_blank" rel="noopener"}  
+   - [**Clipchamp - Access Through McMaster Email**](https://m365.cloud.microsoft/apps?from=PortalHome){:target="_blank" rel="noopener"}  
    ⚠️ No other editing software is permitted for this activity.
-- Your existing **W6** files:
+- Your existing **W6** files:  
     **30-second sound composition (.wav)**
     **Blender scene (.blend)**
 - Personal video footage **or** royalty-free / free-use video footage from <a href="https://www.pexels.com/videos/" target="_blank" rel="noopener noreferrer">Pexels Video</a>
@@ -58,9 +58,6 @@ Define the visual direction of your 30-second video in direct relation to your *
 3. **What kind of footage will you use?**  
    Will it be observational, abstract, environmental, symbolic, gestural, architectural, atmospheric, or texture-based?
 
-4. **Where will the video appear in your Blender scene?**  
-   Will it function as a screen, projection surface, wall image, suspended panel, fabric, object surface, or another integrated display area?
-
 > Your video must be **thematically connected** to your existing sound work.  
 > Think of the video as an extension of the scene’s emotional and conceptual direction, not as a random visual layer.
 
@@ -85,66 +82,36 @@ Look for footage that matches your intentions, such as:
 - Objects, materials, or repeated motions
 
 ⚠️ **Do not use copyrighted film clips, music videos, or random footage from social media or YouTube.**  
-Only use:
-- your own footage, or
-- footage that is clearly free to use from Pexels.
 
 Save all files in an organized folder and **record the credit information for each external clip used** (title, creator/uploader, source link, platform).
 
 ---
 
-<h3 style="color: darkred;">[60-120m] Create a 30-Second Video in DaVinci Resolve or Clipchamp</h3>
+<h3 style="color: darkred;">[60-120m] Create a 30-Second Video in DaVinci Resolve or Clipchamp</h3> 
 
-Using **DaVinci Resolve or Clipchamp only**, create a **30-second video** that will later be integrated into your Blender scene.
+Using **DaVinci Resolve or Clipchamp only**, create a **30-second video** that will later be integrated into your Blender scene.  
+
+To learn DaVinci Resolve, follow the first section **“Intro to Linear Video Editing”** in the tutorials below:  
+<a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">DaVinci Resolve Tutorials</a>
+
+> You may also explore the other two tutorial sections — **“Intro to Video Collage”** and **“Intro to Keyframe Animation.”** These are optional, but you may use techniques from them if they support your visual approach.  
 
 Your video must:
 
 - Be exactly **30 seconds long**
 - Be visually connected to your existing sound composition
 - Use **at least 3 different video clips or visual segments**
-- Demonstrate a clear **beginning, middle, and end**
 - Use simple but intentional editing
 - Maintain visual coherence through pacing, repetition, contrast, or progression
-- Include your **original Week 7 sound composition** as the audio track
+- Include your **original Week 6 sound composition** as the audio track
 - Avoid abrupt technical mistakes unless they are clearly intentional
-
-You may use:
-
-- straight cuts
-- simple fades / dissolves
-- changes in duration or pacing
-- repeated shots
-- layered visual rhythm
 
 Keep the edit focused and manageable. The goal is not to produce a complex film, but to create a **strong visual layer** that can function within your hybrid scene.
 
 When finished:
 
-1. **Export your edited video as MP4**  
-   📄 **Filename:** `Lastname-Firstname-W11-Video.mp4`
-
-2. **Save your editing project file**
-   - **DaVinci Resolve:** export or save the project file if possible  
-   - **Clipchamp:** if a separate editable file is not possible, only the exported MP4 is required
-
-> If you use **Clipchamp**, the exported MP4 is the required final file.  
-> If you use **DaVinci Resolve**, submit both the project file and exported MP4.
-
----
-
-### Tutorials
-
-❗ Review this week’s slides for practical tips on **editing for projection/screen use, visual pacing, and preparing footage that will later appear inside Blender**.
-
-#### DaVinci Resolve Beginner Editing Tutorial
-<div style="width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-link-here" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</div>
-
-#### Clipchamp Beginner Editing Tutorial
-<div style="width:80%; height:auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-link-here" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</div>
+**Export your edited video as MP4**  
+   📄 **Filename:** `Lastname-Firstname-W11-Video.mp4`.   
 
 #### Export Settings Reminder
 
