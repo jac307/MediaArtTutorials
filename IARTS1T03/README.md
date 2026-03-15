@@ -44,7 +44,7 @@ Selection of **6 revised weekly submissions** assembled into a final portfolio s
 
 + [Module IV - Hybrid Design Project Proposal — Group Work](M-IV.md)
 
-Students form groups (5 students) and collaboratively **propose a Hybrid Design Project** (no performers; storytelling through **objects, sound, light, projection, and video**).  
+Students form groups (4-5 students) and collaboratively **propose a Hybrid Design Project** (no performers; storytelling through **objects, sound, light, projection, and video**).  
  
 ________________________________________________________________________
 

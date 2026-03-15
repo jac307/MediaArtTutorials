@@ -7,7 +7,7 @@
 
 ## Objective
 
-In this final module, you will work in **groups of 5 students** (from any tutorial) to design a **Hybrid Media Installation** for the theatre **Blackbox space**.
+In this final module, you will work in **groups of 4-5 students** (from any tutorial) to design a **Hybrid Media Installation** for the theatre **Blackbox space**.
 
 This project focuses on **storytelling without performers**, using:
 
@@ -224,6 +224,8 @@ All media files should be included with the proposal submission.
 ---  
 
 <h2 style="color: darkred;">Final Showcase Selection</h2>  
+
+> Only proposals submitted by **📅 March 31** will be considered.
 
 All proposals will be reviewed by the instructor.
 
