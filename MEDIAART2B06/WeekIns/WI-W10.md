@@ -102,11 +102,8 @@ For this homework, you will:
 - record **Foley sounds**
 - collect **Sound Effects (SFX)**
 - update or record **ambient sound**
-- **music**
+- collect **music**
 - **clean all sound files individually** in Adobe Audition
-
-⚠️ If you download sound samples, you must **record the source and credit information** (website and sound author if available).  
-You will need this information later when preparing the **final project credits**.
 
 > ⚠️ **Do not mix or edit sound inside Premiere yet.**  
 > The sound design process will happen later during **Week 12**.  
@@ -126,18 +123,24 @@ Examples include:
 - environmental sounds (wind, traffic, room tone)
 - music
 
-> ⚠️ Music can be included, but it **should not be the only sound layer**.  
-> A strong sound design usually combines **ambience, Foley, and sound effects**, with music used as an additional layer when appropriate. 
+A strong sound design usually combines **ambience, Foley, and sound effects**, with music used only as an additional layer when appropriate.  
 
 ---
 
-## Step 2 — Record Foley Sounds
+⚠️ Only **free, non-copyrighted sound files / music** are allowed.
 
-**Foley** refers to **custom-recorded sounds performed to match actions on screen.**
+Students must **document the source and credit information** (website and creator if available).  
+This information will be needed later when preparing the **final project credits**.
 
-These sounds help reinforce the physical realism of the scene.
+---
 
-Examples:
+## Step 2 — Record and/or Collect Foley Sounds & Ambient Sound
+
+Record or collect the sounds (**WAV only**) needed to support the **actions and environments** shown in your film.
+
+**Foley** refers to **custom-recorded sounds performed to match actions on screen**, while **ambient sound** helps establish the environment and continuity between shots.
+
+Examples of Foley sounds:
 
 | Visual Action | Possible Foley Recording |
 |---|---|
@@ -146,6 +149,13 @@ Examples:
 | Clothing movement | jacket or fabric |
 | Bag interaction | zipper or cloth movement |
 
+Examples of ambient sounds:
+
+- room tone
+- wind
+- distant traffic
+- environmental background noise
+
 Recording tips:
 
 - record **multiple takes** of each sound
@@ -153,13 +163,15 @@ Recording tips:
 - leave **1–2 seconds of silence** before and after each recording
 - record sounds **close to the microphone** for clarity
 
+Even subtle ambient sound helps prevent cuts from feeling **empty or abrupt** and supports the spatial continuity of your scene.  
+
 ---
 
-## Step 3 — Gather Sound Effects (SFX)
+## Step 3 — Collect Sound Effects (SFX)
 
 Some sounds may be difficult to record yourself.
 
-You may collect **Sound Effects (SFX)** from external sources when needed.
+You may collect **Sound Effects (SFX)** (**WAV only**) from external sources when needed.
 
 These may include:
 
@@ -175,18 +187,20 @@ When selecting sound effects:
 
 ---
 
-## Step 4 — Record or Update Ambient Sound
+## Step 4 — Collect Music
 
-Ambient sound helps create **continuity between shots** and prevents silent gaps.
+Music can be used as an additional sound layer to support the atmosphere of your film.
 
-Examples of ambient sound:
+⚠️ **No lyrics are allowed.**  
+Music should remain **instrumental** so it does not compete with the visual storytelling.
 
-- room tone
-- wind
-- distant traffic
-- environmental background noise
+Music should **not lead or explain the narrative**. Your film must remain understandable through **image, sequence, and action**, not through the music.
 
-Even subtle ambience helps make cuts feel **more natural and connected.**  
+When selecting music:
+
+- choose **instrumental tracks only**
+- ensure the music **supports the mood without dominating the scene**
+- double-check that the music **does not drive the narrative or replace visual storytelling** 
 
 ---
 
@@ -237,9 +251,11 @@ All sound files must be placed inside the folder:
 
 <h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
-- Recorded Foley sound (WAV)  
-- Downloaded/sourced Sound Effects (WAV preferred; MP3 accepted)  
-- Updated ambient sound recordings (if applicable)  
+- Document with Credits recorded (`ProjectName_AudioCredits`)
+- Recorded Foley sound (WAV files only)  
+- Downloaded/sourced Sound Effects (WAV files only)  
+- Updated ambient sound recordings (WAV files only)  
+- Music
 
 **Naming Protocol:**  
 `ProjectName_AudioType_SimpleDescription_Take#`
