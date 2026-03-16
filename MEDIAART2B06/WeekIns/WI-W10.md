@@ -6,18 +6,8 @@
 
 This week focuses on **two key steps in the post-production process**:
 
-1. **Screening and critique of the rough cut**
-2. **Sound design production**
-
-Your rough cut should already contain all the visual shots required for the film. After receiving critique feedback, you may adjust pacing or replace individual shots if needed, but **the structure of your sequence should already be mostly established before Week 12.**
-
-Sound design will be developed in stages:
-
-- **W10 → Sound Production** (recording and gathering materials)
-- **W12 → Sound Editing and Mixing** (Premiere → Audition workflow)
-
-For this week, **do not begin editing the sound design yet.**  
-Your focus is **recording, collecting, organizing, and cleaning sound materials**.
+1. **Screening and critique of the rough cut** (in-class activity)  
+2. **Sound design production** (recording, collecting, and cleaning sound files  
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -43,17 +33,20 @@ To allow enough time for discussion, the class will be **divided into three scre
 
 > ⚠️ **Check Avenue to Learn to see which screening group you are assigned to.**
 
-Each group will screen films sequentially, followed by short peer feedback discussions.
-
 The goal of this session is to identify **clarity, pacing, and structural issues** before moving to the final cut.
 
 ---
 
 ### Peer Feedback Process
 
-Students will receive a **printed feedback sheet** to guide their critique.
+Students will receive a **printed feedback sheet** to guide their critique.  
 
-This sheet will help you focus on the most important elements of the rough cut.
+Focus on elements that are already present in the rough cut:
+
+- **Sequence clarity** — Is the story understandable?
+- **Editing rhythm** — Do the cuts feel natural?
+- **Shot quality** — Is the image sharp and properly framed?
+- **Lighting consistency** — Are lighting conditions coherent between shots?
 
 ⚠️ **Active participation is required.**
 
@@ -63,30 +56,7 @@ Students are expected to:
 - contribute constructive observations
 - respond respectfully to peers’ work
 
-Providing thoughtful feedback is **part of the participation grade.**
-
----
-
-### Focus of the Feedback
-
-Remember that **this is a Rough Cut**, not the final film.
-
-At this stage, **sound design has not been developed yet**.
-
-Avoid comments such as:
-
-- “You should add music here”
-- “This scene needs a soundtrack”
-- “You should change the music”
-
-Instead, focus on elements that are already present in the rough cut:
-
-- **Sequence clarity** — Is the story understandable?
-- **Editing rhythm** — Do the cuts feel natural?
-- **Shot quality** — Is the image sharp and properly framed?
-- **Lighting consistency** — Are lighting conditions coherent between shots?
-
-Your feedback should help the filmmaker **improve the structure and visual quality** of the sequence.
+> Providing thoughtful feedback is **part of the participation grade.**
 
 ---
 
@@ -118,8 +88,6 @@ During **Week 12**, we will focus on the **final revision stage**, including:
 - colour grading
 - sound design and mixing
 - titles and final polish
-
-These steps will prepare your project for the **Final Submission.**
 
 ---
 
@@ -281,14 +249,6 @@ All sound files must be placed inside the folder:
 **Examples:**  
 `Echo_Foley_Footsteps_T01.wav`  
 `Echo_SFX_OpenDoor_T01.wav`
-
----
-
-## Re-Shoots (If Necessary)
-
-If re-shooting was recommended during critique, students must complete the revised scenes before W12.
-
-No Avenue submission is required for re-shoots. Bring all new recordings and updated files to class in W12, properly organized within your project folder.
 
 ________________________________________________________________________
 
