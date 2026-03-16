@@ -37,29 +37,32 @@ Instead, it should **support the other elements without dominating the scene**.
 
 <h2 id="sound-layers" style="color: darkred;">Understanding Sound Layers</h2>
 
+<h2 id="sound-layers" style="color: darkred;">Understanding Sound Layers</h2>
+
 Most films use **multiple sound layers working together**.
 
-Instead of relying on a single sound element, editors build the soundtrack using **different types of audio that complement each other**.
+Instead of relying on a single sound element, editors build the soundtrack by combining **different types of audio that support the visual sequence**.
 
-A simple structure often looks like this:
+A simple way to understand sound design is to think of it as **stacked layers**, where each layer contributes a different function to the scene.
 
-AMBIENCE
+Foundation → AMBIENCE
+Action → FOLEY
+Accents → SFX
+Emotion → MUSIC
 
-FOLEY
+Each layer plays a different role:
 
-SOUND EFFECTS
+- **Ambience (Foundation)** establishes the environment and spatial atmosphere of the scene.
+- **Foley (Action)** reinforces physical actions performed on screen, such as footsteps or object movement.
+- **Sound Effects (Accents)** emphasize specific moments or enhance certain actions.
+- **Music (Emotion)** supports the emotional tone of the sequence.
 
-MUSIC (optional)
+⚠️ Music should **not be the only sound layer**.  
+A strong sound design usually combines **ambience, Foley, and sound effects**, with music used only as an additional layer when appropriate.
 
+Scenes that rely only on music often feel **flat or unrealistic**, because the viewer cannot hear the environment or physical actions happening in the scene.
 
-Each layer plays a different role.
-
-- **Ambience** establishes the environment.
-- **Foley** reinforces physical actions on screen.
-- **Sound Effects** highlight specific moments.
-- **Music** supports emotional tone.
-
-Together, these layers create a **richer and more immersive experience** for the viewer.
+By combining multiple layers, filmmakers create a **richer and more immersive sound experience** for the viewer.
 
 ---
 
