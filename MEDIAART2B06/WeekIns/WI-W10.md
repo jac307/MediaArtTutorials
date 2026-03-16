@@ -127,10 +127,12 @@ A strong sound design usually combines **ambience, Foley, and sound effects**, w
 
 ---
 
+❗❗❗❗❗  
+
 ⚠️ Only **free, non-copyrighted sound files / music** are allowed.
 
 Students must **document the source and credit information** (website and creator if available).  
-This information will be needed later when preparing the **final project credits**.
+This information will be part of your submission.  
 
 ---
 
@@ -140,7 +142,7 @@ Record or collect the sounds (**WAV only**) needed to support the **actions and 
 
 **Foley** refers to **custom-recorded sounds performed to match actions on screen**, while **ambient sound** helps establish the environment and continuity between shots.
 
-Examples of Foley sounds:
+#### Examples of Foley sounds:
 
 | Visual Action | Possible Foley Recording |
 |---|---|
@@ -149,14 +151,14 @@ Examples of Foley sounds:
 | Clothing movement | jacket or fabric |
 | Bag interaction | zipper or cloth movement |
 
-Examples of ambient sounds:
+#### Examples of ambient sounds:
 
 - room tone
 - wind
 - distant traffic
 - environmental background noise
 
-Recording tips:
+#### Recording tips
 
 - record **multiple takes** of each sound
 - record in a **quiet environment**
@@ -169,21 +171,13 @@ Even subtle ambient sound helps prevent cuts from feeling **empty or abrupt** an
 
 ## Step 3 — Collect Sound Effects (SFX)
 
-Some sounds may be difficult to record yourself.
-
-You may collect **Sound Effects (SFX)** (**WAV only**) from external sources when needed.
+You may collect **Sound Effects (SFX)** —**WAV only**— from external sources when needed.
 
 These may include:
 
 - environmental textures
 - mechanical sounds
-- subtle background elements
-
-When selecting sound effects:
-
-- use **high-quality recordings**
-- avoid heavily processed sounds
-- choose sounds that **fit the realism of the scene**  
+- subtle background elements  
 
 ---
 
@@ -251,11 +245,11 @@ All sound files must be placed inside the folder:
 
 <h4>📁 <code style="color: navy;">02_Audio</code></h4>
 
-- Document with Credits recorded (`ProjectName_AudioCredits`)
-- Recorded Foley sound (WAV files only)  
-- Downloaded/sourced Sound Effects (WAV files only)  
-- Updated ambient sound recordings (WAV files only)  
-- Music
+- Document with recorded sound credits (`ProjectName_AudioCredits.pdf`)
+- Recorded Foley sounds (**WAV files only**)  
+- Downloaded/sourced Sound Effects (**WAV files only**)  
+- Updated ambient sound recordings (**WAV files only**)  
+- Music (**instrumental only; free/non-copyrighted**)
 
 **Naming Protocol:**  
 `ProjectName_AudioType_SimpleDescription_Take#`
