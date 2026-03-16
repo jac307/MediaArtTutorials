@@ -18,14 +18,14 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Rough Cut Screening [4h]</a></li>
+  <li><a href="#screening">Rough Cut Screening [4h]</a></li>
   <li><a href="#homework">Homework - Sound Design Production</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="logline" style="color: darkred;">Rough Cut Screening [4h]</h2>
+<h2 id="screening" style="color: darkred;">Rough Cut Screening [4h]</h2>
 
 Students will screen their **Rough Cut** in small critique groups.
 
