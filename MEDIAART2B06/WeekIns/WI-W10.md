@@ -4,7 +4,20 @@
 
 <h1 style="color: darkred;">W10 - Rough Cut Screening & Sound Design Production</h1>  
 
-Screen your rough cut for critique and gather feedback before final revisions. Record and organize Foley, SFX, and updated ambient sound (and music, if needed) to further develop your sound design.
+This week focuses on **two key steps in the post-production process**:
+
+1. **Screening and critique of the rough cut**
+2. **Sound design production**
+
+Your rough cut should already contain all the visual shots required for the film. After receiving critique feedback, you may adjust pacing or replace individual shots if needed, but **the structure of your sequence should already be mostly established before Week 12.**
+
+Sound design will be developed in stages:
+
+- **W10 → Sound Production** (recording and gathering materials)
+- **W12 → Sound Editing and Mixing** (Premiere → Audition workflow)
+
+For this week, **do not begin editing the sound design yet.**  
+Your focus is **recording, collecting, organizing, and cleaning sound materials**.
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -24,9 +37,215 @@ You are expected to work actively during class time and participate in all in-cl
 
 <h2 id="logline" style="color: darkred;">Rough Cut Screening [4h]</h2>
 
+Students will screen their **Rough Cut** in small critique groups.
+
+To allow enough time for discussion, the class will be **divided into three screening groups**.
+
+> ⚠️ **Check Avenue to Learn to see which screening group you are assigned to.**
+
+Each group will screen films sequentially, followed by short peer feedback discussions.
+
+The goal of this session is to identify **clarity, pacing, and structural issues** before moving to the final cut.
+
+---
+
+### Peer Feedback Process
+
+Students will receive a **printed feedback sheet** to guide their critique.
+
+This sheet will help you focus on the most important elements of the rough cut.
+
+⚠️ **Active participation is required.**
+
+Students are expected to:
+
+- speak during the critique discussion
+- contribute constructive observations
+- respond respectfully to peers’ work
+
+Providing thoughtful feedback is **part of the participation grade.**
+
+---
+
+### Focus of the Feedback
+
+Remember that **this is a Rough Cut**, not the final film.
+
+At this stage, **sound design has not been developed yet**.
+
+Avoid comments such as:
+
+- “You should add music here”
+- “This scene needs a soundtrack”
+- “You should change the music”
+
+Instead, focus on elements that are already present in the rough cut:
+
+- **Sequence clarity** — Is the story understandable?
+- **Editing rhythm** — Do the cuts feel natural?
+- **Shot quality** — Is the image sharp and properly framed?
+- **Lighting consistency** — Are lighting conditions coherent between shots?
+
+Your feedback should help the filmmaker **improve the structure and visual quality** of the sequence.
+
+---
+
+### After the Critique
+
+After the screening session, students will receive:
+
+- **peer feedback in general bullet points**
+- additional **one or two comments from the TA/instructor**
+
+Use this feedback to **revise and refine your sequence.**
+
+At this stage, focus only on:
+
+- improving the **sequence structure**
+- adjusting **shot duration and pacing to 1-minute**
+- replacing or re-recording weak shots if necessary
+- improving **basic colour correction**
+
+Students must **re-work their sequence and confirm picture lock before Week 12.**
+
+Re-recording footage is allowed if improvements are needed.
+> ⚠️ **No additional submission is required for these revisions.**   
+
+Bring your **updated project files (including the Premiere Pro project file)** to class in Week 12, properly organized in your project folder.
+
+During **Week 12**, we will focus on the **final revision stage**, including:
+
+- colour grading
+- sound design and mixing
+- titles and final polish
+
+These steps will prepare your project for the **Final Submission.**
+
 ---
 
 <h2 id="homework" style="color: darkred;">Homework - Sound Design Production</h2>
+
+Your goal is to **gather and prepare all the sound materials** that will later be used to build the final sound design.
+
+At this stage, you should already have a **rough cut sequence**. Use that sequence to identify the sounds needed to support the actions and environment of your film.
+
+For this homework, you will:
+
+- record **Foley sounds**
+- collect **Sound Effects (SFX)**
+- update or record **ambient sound**
+- **music**
+- **clean all sound files individually** in Adobe Audition
+
+⚠️ If you download sound samples, you must **record the source and credit information** (website and sound author if available).  
+You will need this information later when preparing the **final project credits**.
+
+> ⚠️ **Do not mix or edit sound inside Premiere yet.**  
+> The sound design process will happen later during **Week 12**.  
+
+---
+
+## Step 1 — Identify the Sounds Needed
+
+Watch your rough cut and identify the **actions and environments** that require sound.
+
+Examples include:
+
+- footsteps
+- object movement
+- doors opening or closing
+- clothing or bag movement
+- environmental sounds (wind, traffic, room tone)
+- music
+
+> ⚠️ Music can be included, but it **should not be the only sound layer**.  
+> A strong sound design usually combines **ambience, Foley, and sound effects**, with music used as an additional layer when appropriate. 
+
+---
+
+## Step 2 — Record Foley Sounds
+
+**Foley** refers to **custom-recorded sounds performed to match actions on screen.**
+
+These sounds help reinforce the physical realism of the scene.
+
+Examples:
+
+| Visual Action | Possible Foley Recording |
+|---|---|
+| Walking | footsteps on floor, gravel, or grass |
+| Object movement | small objects on table |
+| Clothing movement | jacket or fabric |
+| Bag interaction | zipper or cloth movement |
+
+Recording tips:
+
+- record **multiple takes** of each sound
+- record in a **quiet environment**
+- leave **1–2 seconds of silence** before and after each recording
+- record sounds **close to the microphone** for clarity
+
+---
+
+## Step 3 — Gather Sound Effects (SFX)
+
+Some sounds may be difficult to record yourself.
+
+You may collect **Sound Effects (SFX)** from external sources when needed.
+
+These may include:
+
+- environmental textures
+- mechanical sounds
+- subtle background elements
+
+When selecting sound effects:
+
+- use **high-quality recordings**
+- avoid heavily processed sounds
+- choose sounds that **fit the realism of the scene**  
+
+---
+
+## Step 4 — Record or Update Ambient Sound
+
+Ambient sound helps create **continuity between shots** and prevents silent gaps.
+
+Examples of ambient sound:
+
+- room tone
+- wind
+- distant traffic
+- environmental background noise
+
+Even subtle ambience helps make cuts feel **more natural and connected.**  
+
+---
+
+## Step 5 — Clean Audio Files in Adobe Audition
+
+Before submitting your sound files, **all audio must be cleaned individually in Adobe Audition**.
+
+This includes:
+
+- newly recorded **Foley sounds**
+- downloaded **sound effects**
+- **ambient recordings**
+- existing **production audio recorded during Week 8**
+
+Even if the sound was recorded on-screen during production, it should still be **reviewed and cleaned** before being used later in the final sound design.
+
+Basic cleaning may include:
+
+- trimming silence at the beginning or end
+- removing unwanted background noise
+- adjusting gain levels if the sound is too quiet or too loud
+
+⚠️ Do **not mix, layer, or synchronize sounds yet.**
+
+Your goal this week is to prepare **clean source files** that will later be used for the final sound design.
+
+Sound editing, layering, and mixing will be completed in **Week 12**.
 
 ---
 
