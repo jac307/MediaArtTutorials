@@ -3,21 +3,15 @@
 -------------------------------------------------------------------------------
 
 <h1 style="color: darkred;">W10 — Sound Design Production Framework</h1>
-<h2 style="color: darkred;">Preparing the Audio Materials for Final Sound Design</h2>
+<h2 style="color: darkred;">Gathering and Preparing Sound Materials</h2>
 
 This document supports the [W10 - Rough Cut Screening & Sound Design Production](../WeekIns/WI-W10.md){:target="_blank"} by outlining principles and best practices for **gathering and preparing sound materials**.
 
-During this stage you are **NOT designing the final sound mix yet**, you are preparing the **audio building blocks** that will later be used in the final sound design.
+This framework focuses on **how sound elements function together within a scene**, rather than how to technically edit or mix them.
 
-A strong sound design usually combines:
+During this stage you are **NOT designing the final sound mix yet**. Instead, you are preparing the **audio building blocks** and understanding how different sound layers interact to support **space, action, and narrative**.  
 
-- **Ambience** (environmental sound) 
-- **Foley** (physical actions)
-- **Sound Effects (SFX)** (specific or enhanced sounds)
-- **Music** (optional supporting layer)
-
-Music should **never be the only layer**.  
-Instead, it should **support the other elements without dominating the scene**.
+Think of this stage as building a **sound library for your film**, not the final soundtrack.  
 
 ---
 
@@ -204,6 +198,7 @@ Music can be used to reinforce the **emotional tone** of a scene. However, it sh
 Important guidelines:
 
 - **No lyrics are allowed**
+  > (Examples shown may include lyrics for analysis purposes only.)
 - music should remain **instrumental**
 - music should **support the scene without dominating it**. 
 
@@ -228,7 +223,7 @@ You must **record the source information** (website, sound title, creator, and l
   </td>
   <td>
 
-"Footsteps on gravel" by user123 — Freesound.org  
+"Piano Melody" by user123 — Freesound.org  
 License: CC BY 4.0  
 https://freesound.org/
 
