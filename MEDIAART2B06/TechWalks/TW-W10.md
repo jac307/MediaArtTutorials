@@ -29,12 +29,10 @@ Instead, it should **support the other elements without dominating the scene**.
   <li><a href="#foley">Foley Recording</a></li>
   <li><a href="#sfx">Sound Effects (SFX)</a></li>
   <li><a href="#music">Music as a Supporting Layer</a></li>
-  <li><a href="#cleaning">Preparing and Cleaning Audio Files</a></li>
+  <li><a href="#analysis">Sound Design Analysis — Full Sequence (*2 AM COFFEE* by Forrain)</a></li>
 </ul>
 
 ---
-
-<h2 id="sound-layers" style="color: darkred;">Understanding Sound Layers</h2>
 
 <h2 id="sound-layers" style="color: darkred;">Understanding Sound Layers</h2>
 
@@ -46,29 +44,29 @@ A simple way to understand sound design is to think of it as **stacked layers**,
   *(includes room tone)*  
 <div style="display: flex; gap: 10px; align-items: center;">
 <audio controls style="width: 220px;">
-  <source src="sounds/ambience.mp3" type="audio/mpeg">
+  <source src="imgs/ambience.mp3" type="audio/mpeg">
 </audio>
 <audio controls style="width: 220px;">
-  <source src="sounds/room.mp3" type="audio/mpeg">
+  <source src="imgs/room.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 - **Foley — Action**: reinforces physical actions performed on screen, such as footsteps or object movement.  
   *(Custom-recorded and closely matched to visible actions.)*  
 <audio controls>
-  <source src="sounds/foley.mp3" type="audio/mpeg">
+  <source src="imgs/foley.mp3" type="audio/mpeg">
 </audio>
 
 - **Sound Effects (SFX) — Accents**: emphasize specific moments or enhance certain actions.  
   *(Pre-recorded or designed sounds used to support or enhance the scene.)*  
 <audio controls>
-  <source src="sounds/sfx.mp3" type="audio/mpeg">
+  <source src="imgs/sfx.mp3" type="audio/mpeg">
 </audio>
 
 - **Music — Emotion**: supports the emotional tone of the sequence.  
   *(⚠️ Music should **NOT be the only sound layer**.)*  
 <audio controls>
-  <source src="sounds/music.mp3" type="audio/mpeg">
+  <source src="imgs/music.mp3" type="audio/mpeg">
 </audio>
   
 A strong sound design usually combines **room tone, ambience, Foley, and sound effects**, with music used only as an additional layer when appropriate.
@@ -103,7 +101,7 @@ When working with ambience:
 
 Even very quiet ambience can make a scene feel **more realistic and grounded**.  
 
-<video controls style="width: 80%; height: auto;">
+<video controls style="width: 60%; height: auto;">
   <source src="imgs/ambience.mp4" type="video/mp4">
 </video> 
 
@@ -136,7 +134,7 @@ Recording tips:
 
 Recording multiple takes helps you select the **most natural and convincing sound** later.  
 
-<video controls style="width: 80%; height: auto;">
+<video controls style="width: 60%; height: auto;">
   <source src="imgs/foley.mp4" type="video/mp4">
 </video> 
 
@@ -189,7 +187,7 @@ https://freesound.org/
   </tr>
 </table>  
 
-<video controls style="width: 80%; height: auto;">
+<video controls style="width: 60%; height: auto;">
   <source src="imgs/sfx.mp4" type="video/mp4">
 </video> 
 
@@ -247,8 +245,74 @@ https://freesound.org/
 
 ---
 
-<h2 style="color: darkred;">Sound Design Analysis — Full Sequence</h2>
+<h2 id="analysis" style="color: darkred;">Sound Design Analysis — Full Sequence (*2 AM COFFEE* by Forrain)</h2>
 
+### Sound Analysis — Part 1 
+
+This opening sequence combines:
+
+- **Ambience** to establish environment  
+- **Music** to guide emotional tone  
+- **Foley / SFX** to reinforce actions and transitions  
+
+These layers are introduced gradually, creating a smooth progression from **environment → presence → action → tension**.  
+
+<video controls style="width: 70%; height: auto;">
+  <source src="imgs/Analysis-Part1.mp4" type="video/mp4">
+</video> 
+
+The film begins with a black screen, but the viewer is immediately placed in the scene through sound. An **ambient layer** establishes the outdoor environment (street at 2 AM), where we hear wind and a distant car passing by.
+
+**Function:**  
+- Introduces the **setting before the image appears**  
+- Creates a sense of **time and atmosphere**  
+- Avoids silence, making the transition into the film more immersive  
+
+A subtle **music layer** begins to build in the background, gradually increasing and introducing a light suspense tone.
+
+**Function:**  
+- Prepares the viewer emotionally  
+- Suggests that something may happen, even before any action is visible  
+
+As the image appears, a **sound effect (low-impact hit / drum-like tone)** aligns precisely with the visual transition.
+
+**Function:**  
+- Accentuates the **cut from black to image**  
+- Creates a clear **audio-visual synchronization moment**  
+
+As the scene continues, the ambient layer remains present while a soft **piano element** enters the music, maintaining a calm nighttime tone.
+
+At the same time, **Foley / on-screen sound** of the bike is introduced.
+
+- The sound of the bike becomes louder as the camera gets closer.
+
+**Function:**  
+- Reinforces **spatial proximity** (distance between camera and object)  
+- Grounds the object within the environment  
+- Adds realism to the scene  
+
+As the character approaches the store and leaves the bike behind, additional **low-impact sounds integrated into the music** (bumps or hits) are introduced.
+
+**Function:**  
+- Subtly builds **tension**  
+- Marks small narrative beats without interrupting the flow  
+- Connects sound design with the unfolding action  
+
+---
+
+### Sound Analysis — Part 2 
+
+<video controls style="width: 70%; height: auto;">
+  <source src="imgs/Analysis-Part2.mp4" type="video/mp4">
+</video> 
+
+---
+
+### Sound Analysis — Part 3 
+
+<video controls style="width: 70%; height: auto;">
+  <source src="imgs/Analysis-Part3.mp4" type="video/mp4">
+</video> 
 
 ________________________________________________________________________
 
