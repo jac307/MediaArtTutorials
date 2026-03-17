@@ -236,7 +236,7 @@ https://freesound.org/
   </tr>
 </table>   
 
-<video controls style="width: 80%; height: auto;">
+<video controls style="width: 60%; height: auto;">
   <source src="imgs/music.mp4" type="video/mp4">
 </video> 
 
@@ -377,11 +377,50 @@ Notably, the moment when the drink is placed on the counter is paired with the *
 
 ---
 
-### Sound Analysis — Part 3 
+### Sound Analysis — Part 3  
+
+This final sequence combines:
+
+- **Ambience** to re-establish the outdoor environment  
+- **Foley / SFX** to mark transitions and actions  
+- **Music** to drive the emotional peak  
+
+These layers create a progression from **return → anticipation → realization → payoff**.  
 
 <video controls style="width: 70%; height: auto;">
   <source src="imgs/Analysis-Part3.mp4" type="video/mp4">
 </video> 
+
+The scene returns to the outdoor environment, where the **ambient layer** reintroduces the street sound (wind, distant activity).
+
+**Function:**  
+- Re-establishes the **original setting**  
+- Provides continuity with the opening scene  
+
+We hear the **door opening**, followed by the **doorbell sound**, synchronized with the character exiting the store.
+
+**Function:**  
+- Marks the **transition from interior to exterior**  
+- Reinforces cause-and-effect between action and sound  
+
+As the character walks away, a **music layer begins to fade in**, now with a jazzy tone (piano with subtle guitar).
+
+**Function:**  
+- Signals a shift in tone  
+- Prepares the viewer for a narrative change  
+
+As the character turns the corner and realizes the bike is missing, the **music increases in volume and complexity**, introducing drums and saxophone.
+
+**Function:**  
+- Marks the **moment of realization (narrative peak)**  
+- Amplifies emotional response  
+- Draws attention to the key event  
+
+The music maintains this intensity through the end of the sequence.
+
+**Function:**  
+- Sustains the **emotional impact of the reveal**  
+- Reinforces the final tone of the scene  
 
 ________________________________________________________________________
 
