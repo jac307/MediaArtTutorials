@@ -79,7 +79,7 @@ This project synthesizes the technical and creative skills developed in Module I
   + [W9 — Rough Cut Framework](TechWalks/TW-W9.md) - From Raw Footage to a Coherent Sequence
 + [Week 10](WeekIns/WI-W10.md) — Rough Cut Screening & Sound Design Production 
   + [W10 — Rough Cut Framework](TechWalks/TW-W10.md) - Sound Design Production Framework
-  + [10 - Tutorials](Tutorials/index.html?file=T-W8.json) - Cleaning and Preparing Audio in Adobe Audition
+  + [10 - Tutorials](Tutorials/index.html?file=T-W10.json) - Cleaning and Preparing Audio in Adobe Audition
 
 <!--
 + [Week 12 & 13](WI-W12.md) — Final Cut & Class Screening 
