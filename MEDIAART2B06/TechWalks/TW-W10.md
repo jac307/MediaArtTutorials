@@ -300,11 +300,80 @@ As the character approaches the store and leaves the bike behind, additional **l
 
 ---
 
-### Sound Analysis — Part 2 
+### Sound Analysis — Part 2  
+
+This middle sequence combines:
+
+- **Ambience** to establish interior vs exterior space  
+- **Diegetic Music** to support atmosphere within the scene  
+- **Foley / SFX** to reinforce actions and interactions  
+
+These layers shift dynamically, creating a progression from **space → interaction → transaction → transition**.  
 
 <video controls style="width: 70%; height: auto;">
   <source src="imgs/Analysis-Part2.mp4" type="video/mp4">
 </video> 
+
+The scene takes place inside the mart, where the **ambient layer changes** from outdoor sound to an interior **room tone (subtle hiss)**.
+
+**Function:**  
+- Signals a clear **change of location**  
+- Establishes the **interior acoustic space**  
+- Maintains continuity without silence  
+
+The entrance is reinforced by synchronized **Foley / SFX sounds**, including the doorbell ringing as the door opens, followed by the door closing.
+
+**Function:**  
+- Anchors the viewer in the **physical space**  
+- Reinforces **cause-and-effect between action and sound**  
+
+A **music layer (opera with vocals)** is present, but it is distant and not fully clear, as if coming from a speaker within the space.
+
+**Function:**  
+- Acts as **diegetic sound** (originating from within the scene)  
+- Supports atmosphere without dominating attention  
+
+> **Note:**  
+> Diegetic sound comes from a source within the scene (e.g., radio, speaker), while non-diegetic sound is added for the audience and does not exist in the scene’s world.  
+
+As the character interacts with the fridge, we hear **Foley / SFX sounds**:
+
+- fridge door opening and closing  
+- bottles/glass touching while selecting the drink  
+
+The music subtly increases during this action.
+
+**Function:**  
+- Enhances **material detail and realism**  
+- Connects sound with physical interaction  
+- Builds subtle tension through layering  
+
+When the camera cuts to an exterior view, the **ambient layer shifts back to outdoor sound**.
+
+**Function:**  
+- Reinforces **spatial perspective**  
+- Clarifies inside vs outside positioning  
+
+When the camera returns inside, the **music becomes more present**, though it still feels like it is coming from a speaker within the space.
+
+At the counter, a series of **SFX sounds** structure the interaction:
+
+- glass placed on the counter  
+- scanning “beep”  
+- second “beep” during tap payment  
+- glass handling when picking up the drink  
+
+**Function:**  
+- Marks **key narrative actions**  
+- Provides **clear audio cues for interaction**  
+- Creates rhythm within the scene  
+
+Notably, the moment when the drink is placed on the counter is paired with the **music stopping**.
+
+**Function:**  
+- Creates contrast and emphasis  
+- Draws attention to the action  
+- Signals a subtle shift in the sequence  
 
 ---
 
