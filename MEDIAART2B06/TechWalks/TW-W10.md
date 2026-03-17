@@ -81,7 +81,7 @@ By combining multiple layers, filmmakers create a **richer and more immersive so
 
 <h2 id="ambience" style="color: darkred;">Ambient Sound</h2>
 
-Ambient sound is the **background sound of a location or environment**.
+Ambient sound is the **background sound of a location or environment**.  
 
 It helps create a sense of **space and continuity** between shots.
 
@@ -101,7 +101,14 @@ When working with ambience:
 - avoid overly dramatic or distracting background sounds
 - keep ambience **subtle and consistent**
 
-Even very quiet ambience can make a scene feel **more realistic and grounded**.
+Even very quiet ambience can make a scene feel **more realistic and grounded**.  
+
+<video controls style="width: 80%; height: auto;">
+  <source src="imgs/ambience.mp4" type="video/mp4">
+</video> 
+
+> **Example:** At the end of the short film *The Jump* by Adrian León, an **ambient sound layer** reinforces the park setting through subtle environmental sounds such as wind, birds chirping, and leaves crunching underfoot.  
+> The character’s footsteps and landing from the jump are likely **Foley sounds**, added in post-production to match the action, especially since the camera is positioned far from the subject.  
 
 ---
 
@@ -127,7 +134,14 @@ Recording tips:
 - keep the microphone **close to the sound source**
 - leave **1–2 seconds of silence before and after each recording**
 
-Recording multiple takes helps you select the **most natural and convincing sound** later.
+Recording multiple takes helps you select the **most natural and convincing sound** later.  
+
+<video controls style="width: 80%; height: auto;">
+  <source src="imgs/foley.mp4" type="video/mp4">
+</video> 
+
+> **Example:** In *Anonymous Gift* by Michael Kitka, **Foley sound** reinforces the character’s physical actions, such as interactions with the box. These sounds are closely synchronized with what we see on screen, making the movements feel more present and grounded.  
+> **Ambient sound** is also present and gradually intensifies to build tension, providing a subtle background layer that establishes the environment and supports continuity between shots.
 
 ---
 
