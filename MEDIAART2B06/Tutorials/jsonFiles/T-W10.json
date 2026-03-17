@@ -1,1 +1,44 @@
+[
+  {
+    "title": "Cleaning and Preparing Audio in Adobe Audition",
+    "description": "These tutorials introduce the basic tools in Adobe Audition needed to clean and prepare your audio files. Focus on removing noise, adjusting levels, and exporting clean recordings. You are not mixing or layering yet—your goal is to create clear, usable sound files for your final sound design.",
+    "children": [
+      
+      {
+        "title": "Getting Started with Adobe Audition (Beginner Overview)",
+        "description": "This tutorial introduces the Adobe Audition interface and basic workflow. It helps you understand how to open, edit, and navigate audio files before applying any cleaning tools.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/sFLe87ix2_s?si=KducGGKabXDYsbQa"
+      },
 
+      {
+        "title": "Normalizing Audio Levels",
+        "description": "Learn how to normalize audio to bring clips to a consistent level. This is useful when recordings are too quiet or uneven. Focus on adjusting levels without distorting the original sound.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/3W9fWTsAF_U?si=9X8QedM6k4c10s4E"
+      },
+
+      {
+        "title": "Removing Background Noise",
+        "description": "This tutorial shows different methods for reducing unwanted background noise. Use these tools to clean your recordings while preserving the original sound as much as possible.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/wfNAN7ZZJnE?si=Y2LsQVH5sWgGnLlb"
+      },
+
+      {
+        "title": "Improving Audio Clarity",
+        "description": "Learn simple adjustments that can improve the clarity of your audio recordings. Focus on subtle improvements rather than heavy processing.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/Sgi_1-mQN4w?si=k6Erawhqk3rfVyl7"
+      },
+
+      {
+        "title": "Balancing Volume Levels",
+        "description": "This tutorial explains how to achieve consistent volume across your audio clips. Use these techniques to avoid sudden jumps in loudness between recordings.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/izbmLO83DX0?si=v1q4z-uGFEv9i55c"
+      },
+
+      {
+        "title": "Exporting Clean Audio Files",
+        "description": "Learn how to properly save and export your cleaned audio files. Make sure your files are organized, clearly named, and ready to be used later in your sound design workflow.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/p6Vpvi7FdRo?si=A3Z3OY6BVoif1dj5"
+      }
+    ]
+  }
+]

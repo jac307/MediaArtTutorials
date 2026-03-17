@@ -202,6 +202,8 @@ When selecting music:
 
 ## Step 5 — Clean Audio Files in Adobe Audition
 
+➡️ Check the [**W10 Tutorials — Cleaning and Preparing Audio in Adobe Audition**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W10.json){:target="_blank"} for **step-by-step guidance on cleaning, adjusting, and exporting your audio files**.  
+
 Before submitting your sound files, **all audio must be cleaned individually in Adobe Audition**.
 
 This includes:
