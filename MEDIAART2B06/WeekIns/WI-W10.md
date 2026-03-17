@@ -93,7 +93,7 @@ During **Week 12**, we will focus on the **final revision stage**, including:
 
 <h2 id="homework" style="color: darkred;">Homework - Sound Design Production</h2> 
 
-➡️ Check the [**W10 — Sound Design Production Framework**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"} for **guidelines, examples, and best practices on gathering and organizing your sound materials**.  
+➡️ Check the [**W10 — Sound Design Production Framework**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W10.html#export-sequence){:target="_blank"} for **guidelines, examples, and best practices on gathering and organizing your sound materials**.  
 
 Your goal is to **gather and prepare all the sound materials** that will later be used to build the final sound design.
 
