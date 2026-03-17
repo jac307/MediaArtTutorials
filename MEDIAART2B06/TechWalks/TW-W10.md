@@ -7,15 +7,15 @@
 
 This document supports the [W10 - Rough Cut Screening & Sound Design Production](../WeekIns/WI-W10.md){:target="_blank"} by outlining principles and best practices for **gathering and preparing sound materials**.
 
-During this stage you are **not designing the final sound mix yet**.  
-Instead, you are preparing the **audio building blocks** that will later be used in the final sound design.
+During this stage you are **NOT designing the final sound mix yet**, you are preparing the **audio building blocks** that will later be used in the final sound design.
 
 A strong sound design usually combines:
 
-- **Ambience** (environmental sound)
+- **Ambience** (environmental sound) 
 - **Foley** (physical actions)
 - **Sound Effects (SFX)** (specific or enhanced sounds)
 - **Music** (optional supporting layer)
+- **Room Tone** (based-subtle layer)  
 
 Music should **never be the only layer**.  
 Instead, it should **support the other elements without dominating the scene**.
@@ -39,26 +39,39 @@ Instead, it should **support the other elements without dominating the scene**.
 
 <h2 id="sound-layers" style="color: darkred;">Understanding Sound Layers</h2>
 
-Most films use **multiple sound layers working together**.
-
-Instead of relying on a single sound element, editors build the soundtrack by combining **different types of audio that support the visual sequence**.
+Most films use **multiple sound layers working together**. Editors build the soundtrack by combining **different types of audio that support the visual sequence**.
 
 A simple way to understand sound design is to think of it as **stacked layers**, where each layer contributes a different function to the scene.
 
-Foundation → AMBIENCE
-Action → FOLEY
-Accents → SFX
-Emotion → MUSIC
+- **Ambience — Foundation** (environmental sound): establishes the environment and spatial atmosphere of the scene.  
+<audio controls>
+  <source src="sounds/ambience.mp3" type="audio/mpeg">
+</audio>
 
-Each layer plays a different role:
+- **Room Tone — Base Layer**: provides a continuous background sound that helps smooth transitions between shots.  
+<audio controls>
+  <source src="sounds/room.mp3" type="audio/mpeg">
+</audio> 
 
-- **Ambience (Foundation)** establishes the environment and spatial atmosphere of the scene.
-- **Foley (Action)** reinforces physical actions performed on screen, such as footsteps or object movement.
-- **Sound Effects (Accents)** emphasize specific moments or enhance certain actions.
-- **Music (Emotion)** supports the emotional tone of the sequence.
+- **Foley — Action**: reinforces physical actions performed on screen, such as footsteps or object movement.  
+  *(Custom-recorded and closely matched to visible actions.)*  
+<audio controls>
+  <source src="sounds/foley.mp3" type="audio/mpeg">
+</audio>
 
-⚠️ Music should **not be the only sound layer**.  
-A strong sound design usually combines **ambience, Foley, and sound effects**, with music used only as an additional layer when appropriate.
+- **Sound Effects (SFX) — Accents**: emphasize specific moments or enhance certain actions.  
+  *(Pre-recorded or designed sounds used to support or enhance the scene.)*  
+<audio controls>
+  <source src="sounds/sfx.mp3" type="audio/mpeg">
+</audio>
+
+- **Music — Emotion**: supports the emotional tone of the sequence.  
+  *(⚠️ Music should **NOT be the only sound layer**.)*  
+<audio controls>
+  <source src="sounds/music.mp3" type="audio/mpeg">
+</audio>
+  
+A strong sound design usually combines **room tone, ambience, Foley, and sound effects**, with music used only as an additional layer when appropriate.
 
 Scenes that rely only on music often feel **flat or unrealistic**, because the viewer cannot hear the environment or physical actions happening in the scene.
 
