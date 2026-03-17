@@ -147,9 +147,7 @@ Recording multiple takes helps you select the **most natural and convincing soun
 
 <h2 id="sfx" style="color: darkred;">Sound Effects (SFX)</h2>
 
-Some sounds are difficult or impossible to record directly.
-
-In these cases, editors often use **Sound Effects (SFX)** from sound libraries.
+Some sounds are difficult or impossible to record directly. In these cases, editors often use **Sound Effects (SFX)** from sound libraries.
 
 Examples include:
 
@@ -160,65 +158,97 @@ Examples include:
 
 When selecting SFX:
 
-- choose **high-quality recordings**
+- choose **high-quality WAV recordings**
 - avoid sounds that feel exaggerated or artificial
 - make sure the sound **fits the visual action**
 
-⚠️ Only **free, non-copyrighted sounds** may be used.
+⚠️ Only **free, non-copyrighted sounds** may be used. Use <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound.org</a>.  
 
-You must **record the source information** (website and creator if available) so it can be credited later in your final project.
+You must **record the source information** (website, sound title, creator, and license) so it can be credited later in your final project.
+
+<table>
+  <tr>
+    <th style="text-align: left;">Basic credit format</th>
+    <th style="text-align: left;">Example</th>
+  </tr>
+  <tr>
+    <td>
+
+*"Sound Title" by Username — Freesound.org*  
+*License: Creative Commons (CC BY / CC0 / etc.)*  
+*Link: URL*
+
+  </td>
+  <td>
+
+"Footsteps on gravel" by user123 — Freesound.org  
+License: CC BY 4.0  
+https://freesound.org/
+
+  </td>
+  </tr>
+</table>  
+
+<video controls style="width: 80%; height: auto;">
+  <source src="imgs/sfx.mp4" type="video/mp4">
+</video> 
+
+> **Example:** In *PAREIDOLIA* by Carlos Andrés Reyes, there is a **mix of on-screen recorded sound, Foley, and sound effects (SFX)**. In this excerpt, the alarm is an SFX, while the sound of the hand pumping or forcefully tapping the clock is likely Foley or on-set recording.  
+> The sound of the sleeves moving is most likely SFX, since the fabric appears soft and the sound is exaggerated beyond what would naturally be recorded on set.  
+> The sound of water rushing is likely Foley or on-set recording, as it closely matches the physical interaction and has a natural texture.
 
 ---
 
 <h2 id="music" style="color: darkred;">Music as a Supporting Layer</h2>
 
-Music can be used to reinforce the **emotional tone** of a scene.
-
-However, it should **not drive the narrative** or replace visual storytelling.
+Music can be used to reinforce the **emotional tone** of a scene. However, it should **not drive the narrative** or replace visual storytelling.
 
 Important guidelines:
 
 - **No lyrics are allowed**
 - music should remain **instrumental**
-- music should **support the scene without dominating it**
-
-A film should remain understandable through:
-
-- image
-- editing
-- visual action
+- music should **support the scene without dominating it**. 
 
 Music should only **enhance the atmosphere**, not explain the story.
 
-⚠️ Only **free, non-copyrighted music** may be used.
+⚠️ Only **your own music** or **free, non-copyrighted music** may be used. Use <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound.org</a>.  
 
-Students must document the **source and creator** so the music can be credited later.
+You must **record the source information** (website, sound title, creator, and license) so it can be credited later in your final project.
+
+<table>
+  <tr>
+    <th style="text-align: left;">Basic credit format</th>
+    <th style="text-align: left;">Example</th>
+  </tr>
+  <tr>
+    <td>
+
+*"Sound Title" by Username — Freesound.org*  
+*License: Creative Commons (CC BY / CC0 / etc.)*  
+*Link: URL*
+
+  </td>
+  <td>
+
+"Footsteps on gravel" by user123 — Freesound.org  
+License: CC BY 4.0  
+https://freesound.org/
+
+  </td>
+  </tr>
+</table>   
+
+<video controls style="width: 80%; height: auto;">
+  <source src="imgs/music.mp4" type="video/mp4">
+</video> 
+
+> **Example:** In *2 AM COFFEE* by Forrain, the excerpt begins with a subtle ambient layer (room tone) from the outdoor environment, including wind. This is followed by the sound of the doorbell and the door opening, which function as Foley or SFX depending on how they were produced.  
+> As the sequence progresses, music gradually enters and increases in volume, supporting the emotional build-up of the scene. The music reaches its peak at the punchline, when the character realizes the bike is missing, reinforcing the shift in tone.  
 
 ---
 
-<h2 id="cleaning" style="color: darkred;">Preparing and Cleaning Audio Files</h2>
+<h2 style="color: darkred;">Sound Design Analysis — Full Sequence</h2>
 
-Before submitting your sound materials, **all audio files must be cleaned individually in Adobe Audition**.
-
-This includes:
-
-- newly recorded **Foley**
-- downloaded **sound effects**
-- **ambient recordings**
-- **production audio recorded during Week 8**
-
-Basic cleaning may include:
-
-- trimming unnecessary silence
-- removing background noise
-- adjusting gain levels
-- removing audio clicks or unwanted artifacts
-
-⚠️ At this stage you should **not mix, layer, or synchronize sounds**.
-
-The goal is simply to create **clean source audio files**.
-
-The full sound design process — including layering, mixing, and balancing — will take place during **Week 12** when preparing the **Final Cut**.
 
 ________________________________________________________________________
 
