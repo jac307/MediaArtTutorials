@@ -112,7 +112,8 @@ The movement must:
 - Follow your designed **audience circulation path**  
 - Move clearly between **speaker zones**  
 - Reveal shifts in **light intensity, colour, and spatial sound relationships**  
-- Maintain **smooth and intentional transitions** (no abrupt cuts or erratic motion)  
+- Maintain **smooth and intentional transitions** (no abrupt cuts or erratic motion) 
+- For the sound, you can use the **Non-Linear Animation** editor to make some speakers play at specific points while your camera is passing by (not all from the beginning).  
 
 ⚠️ The **human scale model must be hidden before rendering the final video**.    
 
