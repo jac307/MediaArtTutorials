@@ -10,9 +10,9 @@
 
 ## Objective
 
-This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment.   
+You will return to your W7 scene and create a video composition that **extends your sound into a visual layer within your Blender scene**.  
 
-Your final result should demonstrate a **hybrid media scene** in which **video, sound, and lighting** operate together within one coherent visual world.
+This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment.   
 
 <div style="color: gray; font-style: italic; margin-bottom: 1em;">
 Tutorial time may be used to begin or complete this activity depending on your tutorial day. Some work is expected outside of class.
