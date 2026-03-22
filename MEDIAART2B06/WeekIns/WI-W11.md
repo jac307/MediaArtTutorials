@@ -15,14 +15,14 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#screening">Part 1: Basic AE Intro + Keyframes [1-2h]</a></li>
-  <li><a href="#homework">Part 2: Exploration Pathway (Choose One Technique) [2-3h]</a></li>
+  <li><a href="#part-1">Part 1: Basic AE Intro + Keyframes [1-2h]</a></li>
+  <li><a href="#part-2">Part 2: Exploration Pathway (Choose One Technique) [2-3h]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="screening" style="color: darkred;">Part 1: Basic AE Intro + Keyframes [1-2h]</h2>
+<h2 id="part-1" style="color: darkred;">Part 1: Basic AE Intro + Keyframes [1-2h]</h2>
 
 **Adobe After Effects (AE)** is an industry-standard software for **motion graphics, compositing, and visual effects**.   
 
@@ -50,7 +50,7 @@ Follow this tutorial to complete your first video/exercise.
 
 ---
 
-<h2 id="homework" style="color: darkred;">Part 2: Exploration Pathway (Choose One Technique) [2-3h]</h2> 
+<h2 id="part-2" style="color: darkred;">Part 2: Exploration Pathway (Choose One Technique) [2-3h]</h2> 
 
 For the second part of this submission, choose one of the following options. 
 Follow the corresponding tutorial and create your own version applying the techniques learned.  

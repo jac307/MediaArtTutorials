@@ -89,7 +89,7 @@ This project synthesizes the technical and creative skills developed in Module I
 
 ### **Mini-Module - Motion Graphics & Compositing (individual)**  
 
-+ [Week 11](WI-W11.md) — Motion Graphics & Compositing (individual)
++ [Week 11](WeekIns/WI-W11.md) — Motion Graphics & Compositing (individual)
 
 This one-week module introduces **core techniques in Adobe After Effects**, allowing students to explore motion graphics, compositing, and animation.  
 
