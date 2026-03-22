@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W11 - Projection, Video Surfaces & Hybrid Media</span>  
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/placeholder-w11.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/imgs/63.png" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
@@ -32,9 +32,9 @@ Tutorial time may be used to begin or complete this activity depending on your t
    or    
    - [**Clipchamp - Access Through McMaster Email**](https://m365.cloud.microsoft/apps?from=PortalHome){:target="_blank" rel="noopener"}  
    ⚠️ No other editing software is permitted for this activity.
-- Your existing **W6** files:  
+- Your existing **W7** files:  
     - **30-second sound composition (.wav)**  
-    - **Blender scene (.blend)**
+    - **Blender scene (.blend)**  
 - Personal video footage **or** royalty-free / free-use video footage from <a href="https://www.pexels.com/videos/" target="_blank" rel="noopener noreferrer">Pexels Video</a>
 - Paper + pen (preferred) *or* digital drawing tool
 
@@ -53,7 +53,7 @@ Define the **visual approach** of your 30-second video in direct relation to you
    Does it reinforce the sonic mood, create contrast, slow it down, intensify it, or redirect attention?
 
 2. **How does the visual material evolve over time?**  
-What visual qualities, gestures, or textures appear at different moments? The video may develop gradually, repeat patterns, shift atmospheres, or experiment with contrast.  
+   What visual qualities, gestures, or textures appear at different moments? The video may develop gradually, repeat patterns, shift atmospheres, or experiment with contrast.  
 
 3. **What kind of footage will you use?**  
    Will it be observational, abstract, environmental, symbolic, gestural, architectural, atmospheric, or texture-based?
@@ -71,7 +71,7 @@ Gather the materials you will use to build your 30-second video. You may use:
 - **Royalty-free / free-use footage from Pexels**  
   👉 <a href="https://www.pexels.com/videos/" target="_blank" rel="noopener noreferrer">https://www.pexels.com/videos/</a>
 
-You should gather **5–10 video clips** to create a small working palette. You may not use all of them, but you should collect enough material to explore a clear visual direction.
+You should gather **5–10 video clips** to create a small working palette. You may not use all of them, but you should collect enough material to explore a clear visual direction.  
 
 Look for footage that matches your intentions, such as:
 
@@ -204,13 +204,15 @@ Save your updated Blender file as:
 
 <img src="imgs/59.jpeg" style="width: 80%; height: auto;">     
 
-<!-- ### Video Submission Example
+---
+
+### Video Submission Example
 
 <figure style="width: 80%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
-    <source src="imgs/59.mp4" type="video/mp4">
+    <source src="imgs/62.mp4" type="video/mp4">
   </video>
-</figure> -->
+</figure>
 
 ---
 

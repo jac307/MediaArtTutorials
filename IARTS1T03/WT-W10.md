@@ -137,6 +137,8 @@ MP4 (H.264), 1920x1080, 24fps
 
 <img src="imgs/59.jpeg" style="width: 80%; height: auto;">     
 
+---
+
 ### Video Submission Example
 
 <figure style="width: 80%; margin: 0;">
