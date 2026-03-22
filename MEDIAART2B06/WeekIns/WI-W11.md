@@ -71,47 +71,118 @@ Cut a subject out of live-action footage and composite it into a new environment
 
 <details>
   <summary>▶ Tutorial</summary>
-  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="url"
+      title="Title"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </details>
 
+<br>
 <p><strong>2. Keyframing + Green Screen Compositing</strong><br>
 Record over green screen and animate a keyed-out subject over layered backgrounds using keyframe animation.</p>
 
 <details>
   <summary>▶ Tutorial</summary>
-  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="url"
+      title="Title"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </details>
 
+<br>
 <p><strong>3. Illustrator → After Effects Workflow (Character or Object Animation)</strong><br>
 Create a short character or object animation using Illustrator artwork animated inside After Effects.</p>
 
 <details>
   <summary>▶ Tutorial</summary>
-  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="url"
+      title="Title"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </details>
 
+<br>
 <p><strong>4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong><br>
 Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.</p>
 
 <details>
   <summary>▶ Tutorial</summary>
-  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="url"
+      title="Title"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </details>
 
+<br>
 <p><strong>5. Photoshop → After Effects Workflow Using 3D Cameras</strong><br>
 Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).</p>
 
 <details>
   <summary>▶ Tutorial</summary>
-  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="url"
+      title="Title"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </details>
 
+<br>
 <p><strong>6. Expressions for Randomized & Generative Animation</strong><br>
 Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.</p>
 
 <details>
   <summary>▶ Tutorial</summary>
-  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="url"
+      title="Title"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </details>
 
 ---
