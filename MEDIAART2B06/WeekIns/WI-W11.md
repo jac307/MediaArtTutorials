@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W11 - Rough Cut Screening & Sound Design Productio</h1>  
+<h1 style="color: darkred;">W11 - Motion Graphics & Compositing (individual)</h1>  
 
 This wee
 
@@ -15,20 +15,92 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#screening">Rough Cut Screening [4h]</a></li>
-  <li><a href="#homework">Homework - Sound Design Production</a></li>
+  <li><a href="#screening">Part 1: Basic AE Intro + Keyframes [1-2h]</a></li>
+  <li><a href="#homework">Part 2: Exploration Pathway (Choose One Technique) [2-3h]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="screening" style="color: darkred;">Rough Cut Screening [4h]</h2>
+<h2 id="screening" style="color: darkred;">Part 1: Basic AE Intro + Keyframes [1-2h]</h2>
 
+**Adobe After Effects (AE)** is an industry-standard software for **motion graphics, compositing, and visual effects**.   
+
+In this exercise, follow the intro tutorial to **complete a 30s keyframe animation using position, scale, and opacity**. You will also explore basic effects and learn how to render your final output.  
 
 ---
 
-<h2 id="homework" style="color: darkred;">Homework - Sound Design Production</h2> 
+### Organization
 
+1. Create a new folder: <code style="color: navy;">Lastname_Firstname_AE</code>  
+2. Create a subfolder: 📁 <code style="color: navy;">00_ProjectFiles</code>  
+   > Save your After Effects project files here.  
+3. Create a subfolder: 📁 <code style="color: navy;">01_Media</code>  
+   > Add 3–5 video clips (from your own projects or downloaded from <a href="https://www.pexels.com/videos/" target="_blank">Pexels Videos</a>).  
+4. Create a subfolder: 📁 <code style="color: navy;">02_Exports</code>  
+
+---
+
+### Tutorial
+
+Follow this tutorial to complete your first video/exercise.  
+
+**AE Project File:** `Lastname_Firstname_AEintro.aep`   
+**Final Video File:** `Lastname_Firstname_AEintro.mp4`  
+
+---
+
+<h2 id="homework" style="color: darkred;">Part 2: Exploration Pathway (Choose One Technique) [2-3h]</h2> 
+
+For the second part of this submission, choose one of the following options. 
+Follow the corresponding tutorial and create your own version applying the techniques learned.  
+
+**Save your files in the same folder structure as Part 1.**  
+> If you use new video clips or images, add them to your footage folder.  
+> If you create additional Adobe project files, add them to your project files folder.  
+
+**AE Project File:** `Lastname_Firstname_AEPathway.aep`   
+**Final Video File:** `Lastname_Firstname_AEPathway.mp4`  
+
+---
+
+### Choose One Pathway
+
+<details>
+  <summary><strong>1. Rotoscoping & Masking</strong></summary>
+  <p>Cut a subject out of live-action footage and composite it into a new environment or abstract background.</p>
+  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+</details>
+
+<details>
+  <summary><strong>2. Keyframing + Green Screen Compositing</strong></summary>
+  <p>Record over green screen and animate a keyed-out subject over layered backgrounds using keyframe animation.</p>
+  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+</details>
+
+<details>
+  <summary><strong>3. Illustrator → After Effects Workflow (Character or Object Animation)</strong></summary>
+  <p>Create a short character or object animation using Illustrator artwork animated inside After Effects.</p>
+  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+</details>
+
+<details>
+  <summary><strong>4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong></summary>
+  <p>Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.</p>
+  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+</details>
+
+<details>
+  <summary><strong>5. Photoshop → After Effects Workflow Using 3D Cameras</strong></summary>
+  <p>Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).</p>
+  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+</details>
+
+<details>
+  <summary><strong>6. Expressions for Randomized & Generative Animation</strong></summary>
+  <p>Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.</p>
+  <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
+</details>
 
 ---
 
@@ -36,10 +108,27 @@ You are expected to work actively during class time and participate in all in-cl
 
 | Item                                     | Required Filename                              |
 |------------------------------------------|------------------------------------------------|
-| Sound Design Production Package (ZIP)    | `Lastname_Firstname_SoundDesignProduction.zip` |
+| Sound Design Production Package (ZIP)    | `Lastname_Firstname_AE.zip` |
 
 > ⚠️ **Follow the submission protocols carefully.  
-> ⚠️ Incorrect submissions will result in a one point deduction❗**
+> ⚠️ Incorrect submissions will result in a one point deduction❗**. 
+
+Follow the required folder structure (inside ZIP):  
+
+<h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
+
+- `Lastname_Firstname_AEIntro.aep`  
+- `Lastname_Firstname_AEPathway.aep`  
+- Any additional Adobe project files (if used), following the same naming format.
+
+<h4>📁 <code style="color: navy;">01_Media</code></h4>
+
+- All video and image (if used) files used
+
+<h4>📁 <code style="color: navy;">02_Exports</code></h4>
+
+- `Lastname_Firstname_AEintro.mp4` 
+- `Lastname_Firstname_AEPathway.mp4`
 
 ________________________________________________________________________
 
