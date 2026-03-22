@@ -10,7 +10,7 @@
 
 ## Objective
 
-You will return to your W7 scene and create a video composition that **extends your sound into a visual layer within your Blender scene**.  
+You will return to your **W7 scene** and create a **video composition** that **extends your sound layer** and integrates it into a **hybrid media scene in Blender**.  
 
 This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment.   
 
