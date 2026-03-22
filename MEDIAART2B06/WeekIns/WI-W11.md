@@ -67,15 +67,40 @@ Follow the corresponding tutorial and create your own version applying the techn
 ### Choose One Pathway
 
 <p><strong>1. Rotoscoping & Masking</strong><br>
-Cut a subject out of live-action footage and composite it into a new environment or abstract background.</p>
+Cut a subject out of live-action footage and composite it into a new environment or abstract background.
+<br>
+Create a 15–20 second video using both rotoscoping and masking. Use rotoscoping to remove the background from a person, and masking to add a new element into your scene.  
+</p>
 
 <details>
   <summary>▶ Tutorial</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
-      src="url"
-      title="Title"
+      src="https://www.youtube.com/embed/eoOIrdb_0ko?si=kC4UFKx9fHnZrIKa"
+      title="Learn How to Rotoscope"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+  <br>
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="https://www.youtube.com/embed/4qgXLTbteww?si=e1KTdBt7OIw6Urx2"
+      title="How To Easily Rotoscope"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+  <br>
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="https://www.youtube.com/embed/WMmWIc88HDA?si=ymMs8DPXyK9gdPtA"
+      title="Beginners Guide to MASKING"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
