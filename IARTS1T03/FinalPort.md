@@ -139,7 +139,8 @@ If you created all materials yourself, write:
 
 ### Video Link
 
-Provide a link to the video documentation of the work.
+Provide a link to the video (render) of the work.
+> These videos are the ones you render — re-render if need it.   
 
 Videos must be uploaded to:
 
