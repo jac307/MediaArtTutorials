@@ -125,6 +125,8 @@ When finished:
 
 <h3 style="color: darkred;">[30 min] Blender: Integrate the Video into Your Scene</h3>
 
+❗ Review this week’s slides for practical tips on **workspaces in DaVinci Resolve, intro to Aspect Ratios, and Exporting**.  
+
 Bring your edited video into your Blender environment.
 
 First:
@@ -162,7 +164,7 @@ Save your updated Blender file as:
 
 ### Tutorials
 
-❗ Review this week’s slides for practical tips on **applying video textures, adjusting emissive materials, organizing screen/projection surfaces, and balancing light so the video can be seen clearly**.
+❗ Review this week’s slides for practical tips on **applying video textures, organizing screen/projection surfaces, maintaining aspect ratios, and adjusting video materials (mapping + brightness/contrast)**.  
 
 #### How to import videos into blender
 
@@ -190,13 +192,17 @@ Save your updated Blender file as:
   </iframe>
 </div> 
 
-#### Blender: Export File with Audio
+#### Blender: How to Modify your Video Texture
 
-<img src="imgs/46.jpeg" style="width: 80%; height: auto;">     
+<img src="imgs/66.jpeg" style="width: 80%; height: auto;">     
 
 #### Blender: Troubleshooting - Video Taking TOO LONG to Render
 
-<img src="imgs/59.jpeg" style="width: 80%; height: auto;">     
+<img src="imgs/59.jpeg" style="width: 80%; height: auto;">   
+
+> If your video is taking too long to render, you can:  
+> - Lower the quality to **30%**, or  
+> - *(recommended)* Export **100–200 frames at a time**, then use video editing software to combine each section.  
 
 ---
 
