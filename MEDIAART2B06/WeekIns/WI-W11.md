@@ -66,14 +66,18 @@ Follow the corresponding tutorial and create your own version applying the techn
 
 ### Choose One Pathway
 
-<p><strong>1. Rotoscoping & Masking</strong><br>
-Cut a subject out of live-action footage and composite it into a new environment or abstract background.
-<br>
-Create a 15–20 second video using both rotoscoping and masking. Use rotoscoping to remove the background from a person, and masking to add a new element into your scene.  
+> Click the arrows below to open each tutorial.  
+
+<p>
+  <strong style="color: darkred;">1. Rotoscoping & Masking</strong>
+  <br><br>
+  Cut a subject out of live-action footage and composite it into a new environment or abstract background.
+  <br><br>
+  <strong>Create a 15–20 second video using both rotoscoping and masking</strong>. Use rotoscoping to remove the background from a person, and masking to add a new element into your scene.  
 </p>
 
 <details>
-  <summary>▶ Tutorial</summary>
+  <summary>Tutorials</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -111,16 +115,32 @@ Create a 15–20 second video using both rotoscoping and masking. Use rotoscopin
 </details>
 
 <br>
-<p><strong>2. Keyframing + Green Screen Compositing</strong><br>
-Record over green screen and animate a keyed-out subject over layered backgrounds using keyframe animation.</p>
+<p>
+  <strong <strong style="color: darkred;">2. Keyframing + Green Screen Compositing</strong>
+  <br><br>
+  <strong>For this option, you must record a 15-20s subject over green screen</strong> then keyed-out subject over layered backgrounds using keyframe animation.
+  <br><br>
+   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library. 
+</p>
 
 <details>
-  <summary>▶ Tutorial</summary>
+  <summary>Tutorial</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
-      src="url"
-      title="Title"
+      src="https://www.youtube.com/embed/Mi1834Fl834?si=yUp9zjivgmpqp-ga"
+      title="How to Light a Green Screen"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+  <br>
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="https://www.youtube.com/embed/_a3wR955LW8?si=LneqNU46XkWXSUGC"
+      title="Pull a GREEN KEY Like A BOSS"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
