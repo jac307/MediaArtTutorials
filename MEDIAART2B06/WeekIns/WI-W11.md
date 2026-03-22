@@ -4,7 +4,7 @@
 
 <h1 style="color: darkred;">W11 - Motion Graphics & Compositing (individual)</h1>  
 
-This wee
+This mini-module introduces the fundamentals of motion graphics and compositing using Adobe After Effects. Students will learn how to animate visual elements over time, combine layers, and apply basic effects to create short, dynamic sequences.  
 
 > ❗ **Attendance and engagement are part of the rubric.**  
 You are expected to work actively during class time and participate in all in-class activities.
@@ -66,39 +66,51 @@ Follow the corresponding tutorial and create your own version applying the techn
 
 ### Choose One Pathway
 
+<p><strong>1. Rotoscoping & Masking</strong><br>
+Cut a subject out of live-action footage and composite it into a new environment or abstract background.</p>
+
 <details>
-  <summary><strong>1. Rotoscoping & Masking</strong></summary>
-  <p>Cut a subject out of live-action footage and composite it into a new environment or abstract background.</p>
+  <summary>▶ Tutorial</summary>
   <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
 </details>
 
+<p><strong>2. Keyframing + Green Screen Compositing</strong><br>
+Record over green screen and animate a keyed-out subject over layered backgrounds using keyframe animation.</p>
+
 <details>
-  <summary><strong>2. Keyframing + Green Screen Compositing</strong></summary>
-  <p>Record over green screen and animate a keyed-out subject over layered backgrounds using keyframe animation.</p>
+  <summary>▶ Tutorial</summary>
   <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
 </details>
 
+<p><strong>3. Illustrator → After Effects Workflow (Character or Object Animation)</strong><br>
+Create a short character or object animation using Illustrator artwork animated inside After Effects.</p>
+
 <details>
-  <summary><strong>3. Illustrator → After Effects Workflow (Character or Object Animation)</strong></summary>
-  <p>Create a short character or object animation using Illustrator artwork animated inside After Effects.</p>
+  <summary>▶ Tutorial</summary>
   <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
 </details>
 
+<p><strong>4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong><br>
+Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.</p>
+
 <details>
-  <summary><strong>4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong></summary>
-  <p>Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.</p>
+  <summary>▶ Tutorial</summary>
   <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
 </details>
 
+<p><strong>5. Photoshop → After Effects Workflow Using 3D Cameras</strong><br>
+Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).</p>
+
 <details>
-  <summary><strong>5. Photoshop → After Effects Workflow Using 3D Cameras</strong></summary>
-  <p>Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).</p>
+  <summary>▶ Tutorial</summary>
   <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
 </details>
 
+<p><strong>6. Expressions for Randomized & Generative Animation</strong><br>
+Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.</p>
+
 <details>
-  <summary><strong>6. Expressions for Randomized & Generative Animation</strong></summary>
-  <p>Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.</p>
+  <summary>▶ Tutorial</summary>
   <p><a href="YOUR_LINK_HERE" target="_blank">Open Tutorial</a></p>
 </details>
 
