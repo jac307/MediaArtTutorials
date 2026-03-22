@@ -34,7 +34,6 @@ Tutorial time may be used to begin or complete this activity depending on your t
     - **30-second sound composition (.wav)**  
     - **Blender scene (.blend)**  
 - Personal video footage **or** royalty-free / free-use video footage from <a href="https://www.pexels.com/videos/" target="_blank" rel="noopener noreferrer">Pexels Video</a>
-- Paper + pen (preferred) *or* digital drawing tool
 
 ---
 
@@ -82,7 +81,7 @@ Save all files in an organized folder and **record the credit information for ea
 
 ---
 
-<h3 style="color: darkred;">[60-120m] Create a 30-Second Video in DaVinci Resolve or Clipchamp</h3> 
+<h3 style="color: darkred;">[60-80m] Create a 30-Second Video in DaVinci Resolve or Clipchamp</h3> 
 
 Using **DaVinci Resolve or Clipchamp only**, create a **30-second video** that will later be integrated into your Blender scene.  
 
@@ -124,7 +123,7 @@ When finished:
 
 ---
 
-<h3 style="color: darkred;">[30-50 min] Blender: Integrate the Video into Your Scene</h3>
+<h3 style="color: darkred;">[30 min] Blender: Integrate the Video into Your Scene</h3>
 
 Bring your edited video into your Blender environment.
 
