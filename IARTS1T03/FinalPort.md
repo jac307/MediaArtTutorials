@@ -26,12 +26,12 @@ The portfolio should also demonstrate **basic visual design and organization**. 
 
 Your portfolio must include **revised versions of the following six submissions**:
 
-- **W3 — Continuous Shot**
-- **W4 — Lighting Exercise**
-- **W6 — Sound Composition Scene**
-- **W8 — Environmental Scene**
+- **W3 — POV as Embodied Witness (Multi-Camera Scene)**
+- **W5 — Lighting as Spatial Transformation**
+- **W7 — Sound as Temporal Structure**
+- **W8 — Presence, Space & Spatialization**
 - **W9–10 — Multi-Channel Installation Design**
-- **W11 — Hybrid Media Scene**
+- **W11 — Projection, Video Surfaces & Hybrid Media**
 
 These works represent the **core techniques explored in the course** and demonstrate your progression from early spatial exercises to more complex hybrid media environments.
 
@@ -190,12 +190,12 @@ These images should help explain **how the work was constructed**, not just the 
 Arrange the projects in **chronological order** to show the progression of your work across the semester.
 
 1. Cover Page  
-2. W3 — Continuous Shot  
-3. W4 — Lighting Exercise  
-4. W6 — Sound Composition Scene  
-5. W8 — Environmental Scene  
+2. W3 — POV as Embodied Witness (Multi-Camera Scene)  
+3. W5 — Lighting as Spatial Transformation  
+4. W7 — Sound as Temporal Structure  
+5. W8 — Presence, Space & Spatialization 
 6. W9–10 — Multi-Channel Installation Design  
-7. W11 — Hybrid Media Scene  
+7. W11 — Projection, Video Surfaces & Hybrid Media  
 
 ---
 
