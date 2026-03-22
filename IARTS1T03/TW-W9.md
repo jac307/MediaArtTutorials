@@ -109,4 +109,9 @@ Prepare:
 - **2–3 lines:** What changes did you introduce in sound and light?
 - **1 line:** How does the new version transform the original work in the physical space?
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

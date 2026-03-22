@@ -264,4 +264,9 @@ Your work will be assessed based on:
 - **File Organization & Submission Accuracy**  
   All required files follow naming conventions and are submitted in the correct format.
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

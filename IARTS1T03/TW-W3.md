@@ -67,5 +67,10 @@ Select 2 students to speak in behalf of the group. Prepare:
 - **2-3 lines:** Describe POV + framing + composition + layers
 - **2-3 lines:** What relationship does this POV produce (witnessing, control, apparent neutrality), and why?
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.
 

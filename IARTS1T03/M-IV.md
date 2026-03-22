@@ -247,4 +247,9 @@ Selected groups will meet with **theatre technicians** to discuss implementation
 
 📅 **Technician consultation:** April 3
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

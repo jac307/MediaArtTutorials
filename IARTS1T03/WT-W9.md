@@ -211,4 +211,9 @@ The floor plan clearly communicates speaker placement, object groups, lighting p
 ### Documentation & Technical Accuracy
 Correct file naming, clear floor map and cue lists, and complete sound sample credits.  
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

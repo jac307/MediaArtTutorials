@@ -185,4 +185,9 @@ This Week 3 activity is **graded lightly** based on:
 
 This is an exploratory exercise — **clarity and spatial thinking matter more than polish**.
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

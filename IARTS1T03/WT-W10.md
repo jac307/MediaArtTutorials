@@ -226,5 +226,10 @@ The POV video follows the defined circulation path with smooth, intentional move
 ### Documentation & Technical Accuracy
 Required installation photos are included, the human scale model is visible in images but hidden in the POV render, and all files follow the required naming conventions.
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.
 

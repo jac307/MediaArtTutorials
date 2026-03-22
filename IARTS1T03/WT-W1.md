@@ -212,4 +212,9 @@ This Week 1 activity is **graded lightly** based on:
 
 This is an introductory exercise — **clarity and intention matter more than polish**.
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

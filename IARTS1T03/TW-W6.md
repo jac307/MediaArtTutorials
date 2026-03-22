@@ -132,4 +132,9 @@ Prepare:
 - **2–3 lines:** Describe the cue sequence (what changes, and how).
 - **1–2 lines:** What spatial effect emerged, and was it what you expected (why or why not)?
 
----
+________________________________________________________________________
+
+Credits: Jessica A. Rodríguez
+
+**AI Disclosure**:  
+AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.
