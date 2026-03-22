@@ -7,7 +7,7 @@
 
 ## Objective
 
-In this final module, you will work in **groups of 4-5 students** (from any tutorial) to design a **Hybrid Media Installation** for the theatre **Blackbox space**.
+In this final module, you will work in **groups of 4-5 students** (from any tutorial) to design a **Hybrid Media Installation** for the **Lyons Family Centre (LFS)**.
 
 This project focuses on **storytelling without performers**, using:
 
@@ -23,7 +23,7 @@ The goal is to apply the skills developed throughout the course — **sound comp
 
 ## Installation Context
 
-Your proposal must be designed for the **Blackbox space**.
+Your proposal must be designed for the **Lyons Family Centre (LFS)**.
 
 Assume the following setup:
 
