@@ -156,9 +156,7 @@ Your video may be:
 ⚠️ **Important**
 
 Test all video links before submitting your portfolio.  
-Videos that cannot be accessed may result in lost points.
-
----
+Videos that cannot be accessed may result in lost points.  
 
 ## Documentation Images
 
@@ -168,12 +166,13 @@ Include:
 
 - **2–3 rendered images** exported from Blender showing the final scene.
 - **1–2 process screenshots** showing your working environment.
+- **Floor Plans**
 
 Process screenshots may come from:
 
 - **Blender**
 - **Reaper**
-- **DaVinci Resolve**
+- **DaVinci Resolve** / **Clipchamp**
 
 These images should help explain **how the work was constructed**, not just the final result.
 
