@@ -5,7 +5,7 @@
 # <span style="color: darkred;">W11 - Projection, Video Surfaces & Hybrid Media</span>  
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/imgs/63.png" style="width: 100%; height: auto;">
+  <img src="imgs/imgs/65.jpg" style="width: 100%; height: auto;">
 </figure>
 
 ## Objective
