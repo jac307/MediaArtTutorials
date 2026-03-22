@@ -10,8 +10,6 @@
 
 ## Objective
 
-This activity explores how **moving image, surface, light, and sound** interact inside a staged environment.  
-
 This activity focuses on how **moving image, surface, light, and sound** work together to reshape atmosphere and meaning inside a staged environment.   
 
 Your final result should demonstrate a **hybrid media scene** in which **video, sound, and lighting** operate together within one coherent visual world.
@@ -52,10 +50,7 @@ Define the **visual approach** of your 30-second video in direct relation to you
 1. **How does your video build on your sound composition?**  
    Does it reinforce the sonic mood, create contrast, slow it down, intensify it, or redirect attention?
 
-2. **How does the visual material evolve over time?**  
-   What visual qualities, gestures, or textures appear at different moments? The video may develop gradually, repeat patterns, shift atmospheres, or experiment with contrast.  
-
-3. **What kind of footage will you use?**  
+2. **What kind of footage will you use?**  
    Will it be observational, abstract, environmental, symbolic, gestural, architectural, atmospheric, or texture-based?
 
 > Your video must be **thematically connected** to your existing sound work.  
@@ -91,22 +86,18 @@ Save all files in an organized folder and **record the credit information for ea
 
 Using **DaVinci Resolve or Clipchamp only**, create a **30-second video** that will later be integrated into your Blender scene.  
 
-To learn DaVinci Resolve, follow the first section **“Intro to Linear Video Editing”** in the tutorials below:  
+To learn DaVinci Resolve (**highly recommended**), follow the first section **“Intro to Linear Video Editing”** in the tutorials below:  
 <a href="https://jac307.github.io/MediaArtTutorials/Others/index.html?file=DaVinci.json" target="_blank" rel="noopener noreferrer">DaVinci Resolve Tutorials</a>
 
-> You may also explore the other two tutorial sections — **“Intro to Video Collage”** and **“Intro to Keyframe Animation.”** These are optional, but you may use techniques from them if they support your visual approach.  
+> Optional: you may also explore the other two tutorial sections — **“Intro to Video Collage”** and **“Intro to Keyframe Animation.”**    
 
 Your video must:
 
 - Be exactly **30 seconds long**
+- Include your **original Week 6 sound composition** as the audio track
 - Be visually connected to your existing sound composition
 - Use **at least 3 different video clips or visual segments**
-- Use simple but intentional editing
-- Explore visual relationships through pacing, repetition, contrast, layering, or texture  
-- Include your **original Week 6 sound composition** as the audio track
-- Avoid abrupt technical mistakes unless they are clearly intentional
-
-Your edit should demonstrate a **clear relationship between the visual material and the sound composition** through rhythm, pacing, contrast, or atmosphere.  
+- Your edit should demonstrate a **clear relationship between the visual material and the sound composition** through rhythm, pacing, contrast, or atmosphere.  
 
 When finished:
 
@@ -123,36 +114,40 @@ When finished:
 
 ---
 
+### Video Submission Example
+
+<figure style="width: 80%; margin: 0;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="imgs/62.mp4" type="video/mp4">
+  </video>
+</figure>
+
+---
+
 <h3 style="color: darkred;">[30-50 min] Blender: Integrate the Video into Your Scene</h3>
 
-Now bring your edited video into your Blender environment.
+Bring your edited video into your Blender environment.
 
 First:
 
-- Open your updated Blender scene.
+- Open your Blender scene.
 - Keep your timeline at **720 frames (30 seconds at 24 fps)**.
-- Remove the **previous sound file** from the scene.  
-  > The **edited video already contains the sound composition**, so it will play through the video texture instead. 
+- Keep the **sound file** from the scene. **Don't remove it!**.   
 - Keep the camera in a **static general wide framing** showing the whole scene.  
   > ⚠️ For this week, the camera should remain static. No camera movement.
 
 Then:  
-
-- Choose **one of the walls** in your scene as the projected surface.
+ 
 - Follow the tutorial below to add your video.
-  - Add a **Plane** that will act as the projection surface.
-  - Apply your edited video (with sound) to the plane as a **video texture**.
+  - Add a **Plane** that will act as the projection surface — keep same aspect ratio as your video.  
+  - Apply your video to the plane as a **video texture**.
+  - If need it, change (rotate or scale) video texture if it doesn't match your plane.  
   - Position and rotate the plane so it sits correctly on the wall in your scene.
+  - Change the playing frames under Materials.  
 - **Fix and adjust your lighting** so the video remains visible  
   > Your lights should support the projected video rather than wash it out completely.
-- Make sure the video, sound, and scene operate together across the full **30 seconds**.
-
-Your goal is to create a scene where:
-
-- the **sound composition remains the original sonic structure**
-- the **video adds a visual temporal layer**
-- the **lighting supports visibility and atmosphere**
-- the **wide shot allows the viewer to read the entire hybrid composition**
+  > The video will look darker in Blender: apply a **Brightness & Contrast modifier** (see below).  
+  > Alternativelly, re-render your video increasing the overall brightness in DaVinci Resolve.    
 
 Save your updated Blender file as:  
 📄 `Lastname-Firstname-W11.blend`
@@ -206,11 +201,13 @@ Save your updated Blender file as:
 
 ---
 
-### Video Submission Example
+### Image & Video Submission Example
+
+<img src="imgs/64.jpeg" style="width: 80%; height: auto;">    
 
 <figure style="width: 80%; margin: 0;">
   <video controls style="width: 100%; height: auto;">
-    <source src="imgs/62.mp4" type="video/mp4">
+    <source src="imgs/63.mp4" type="video/mp4">
   </video>
 </figure>
 
