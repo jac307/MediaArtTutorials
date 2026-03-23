@@ -37,7 +37,7 @@ Available sculptural objects:
 - **2 large metal cubes**
 - **2 medium metal cubes**
 - **5–6 small metal cubes**
-- **2 black solid cubes**
+- **2 small black solid cubes**
 
 ---
 
