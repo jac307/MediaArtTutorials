@@ -258,8 +258,10 @@ PREMIERE + AE
 For this option, <strong>use your own Premire Pro Sequence</strong> (from the 1-minute film) to <strong>add effects, animation, masks/rotoscope, or others</strong> to a specific part using Dynamic Links. 
 <br>
 You must combine techniques from the other tutorials listed here or find other tutorial(s) that matches what you want to create in After Effects.   
-<br>
+<br><br>
 <strong>+2 extra points will be given to students who choose this option.</strong>
+<br>
+<strong>Organization & Submission:</strong> if you choose this option, keep all Part 2 files organized within your 1-minute project folder and upload only the final rendered video. The instructor will check and grade file organization in person during Week 12. 
 </p>
 
 <details>
