@@ -26,7 +26,10 @@ You are expected to work actively during class time and participate in all in-cl
 
 **Adobe After Effects (AE)** is an industry-standard software for **motion graphics, compositing, and visual effects**.   
 
-In this exercise, follow the intro tutorial to **complete a 30s keyframe animation using position, scale, and opacity**. You will also explore basic effects and learn how to render your final output.  
+Follow the intro tutorial and **complete a 30s keyframe animation adjusting position, scale, opacity, and 2–3 effect properties**. You must **use 3-5 video clips/images**.  
+
+**AE Project File:** `Lastname_Firstname_AEintro.aep`   
+**Final Video File:** `Lastname_Firstname_AEintro.mp4`  
 
 ---
 
@@ -36,17 +39,23 @@ In this exercise, follow the intro tutorial to **complete a 30s keyframe animati
 2. Create a subfolder: 📁 <code style="color: navy;">00_ProjectFiles</code>  
    > Save your After Effects project files here.  
 3. Create a subfolder: 📁 <code style="color: navy;">01_Media</code>  
-   > Add 3–5 video clips (from your own projects or downloaded from <a href="https://www.pexels.com/videos/" target="_blank">Pexels Videos</a>).  
+   > Add 3–5 video clips/images (from your own projects or downloaded from <a href="https://www.pexels.com/videos/" target="_blank">Pexels Videos</a>).  
 4. Create a subfolder: 📁 <code style="color: navy;">02_Exports</code>  
 
 ---
 
 ### Tutorial
 
-Follow this tutorial to complete your first video/exercise.  
-
-**AE Project File:** `Lastname_Firstname_AEintro.aep`   
-**Final Video File:** `Lastname_Firstname_AEintro.mp4`  
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/hb2bbfiNBXA?si=-mDIwGSAeSi5JRm0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div> 
 
 ---
 
