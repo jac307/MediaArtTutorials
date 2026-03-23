@@ -118,13 +118,12 @@ ROTOSCOPING & MASKING
 KEYFRAMING + GREEN SCREEN
 //////////// -->
 
-<br>
 <p>
   <strong style="color: darkred;">2. Keyframing + Green Screen Compositing</strong>
   <br>
   <strong>For this option, you must record a 15-20s subject over green screen</strong> then keyed-out subject over layered backgrounds using keyframe animation.
   <br>
-   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library or the Green Screen available at the Media Art equipment booking.   
+   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library or book the Green Screen available at the Media Art equipment booking.   
 </p>
 
 <details>
@@ -159,7 +158,6 @@ KEYFRAMING + GREEN SCREEN
 ILLUSTRATOR + AE
 //////////// -->
 
-<br>
 <p>
 <strong style="color: darkred;">3. Illustrator → After Effects Workflow (Object or Character Animation)</strong>
 <br>
@@ -198,11 +196,10 @@ For this option, you must <strong>create a simple graphic or character </strong>
 PHOTOSHOP + AE
 //////////// -->
 
-<br>
 <p>
 <strong style="color: darkred;">4. Photoshop → After Effects Workflow Using 3D Cameras</strong>
 <br>
-For this option, you must <strong>create a simple multi-layered (4–6 layers) scene</strong> in Adobe Photoshop, then import it into After Effects to <strong>create a short 15–20s animation using a 3D camera</strong>.
+For this option, you must <strong>create a simple multi-layered (4–6 layers) scene</strong> in Adobe Photoshop, then import it into After Effects to <strong>create a short 15–20s animation moving through these layers</strong>.
 </p>
 
 <details>
@@ -226,11 +223,12 @@ For this option, you must <strong>create a simple multi-layered (4–6 layers) s
 EXPRESSIONS & GENERATIVE ANIMATION
 //////////// -->
 
-<br>
 <p>
 <strong style="color: darkred;">5. Expressions for Randomized & Generative Animation</strong>
 <br>
 For this option, you must <strong>create a 20–30s animation using 2–4 expressions across 5–8 layers/objects</strong> to add ramdomness or glitch-based behaviours.  
+<br>
+<strong>Note:</strong> Check all tutorials from the watch list embedded in the video player (click the three-line icon at the top to access it).
 </p>
 
 <details>
@@ -254,11 +252,10 @@ For this option, you must <strong>create a 20–30s animation using 2–4 expres
 PREMIERE + AE
 //////////// -->
 
-<br>
 <p>
 <strong style="color: darkred;">6. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong>
 <br>
-For this option, <strong>use your own Premire Pro Sequence</strong> (from the 1-minute film) to <strong>add an effect, animation, or mask</strong> to a specific part using Dynamic Link. 
+For this option, <strong>use your own Premire Pro Sequence</strong> (from the 1-minute film) to <strong>add effects, animation, masks/rotoscope, or others</strong> to a specific part using Dynamic Links. 
 <br>
 You must combine techniques from the other tutorials listed here or find other tutorial(s) that matches what you want to create in After Effects.   
 <br>
