@@ -122,8 +122,8 @@ KEYFRAMING + GREEN SCREEN
   <strong style="color: darkred;">2. Keyframing + Green Screen Compositing</strong>
   <br>
   <strong>For this option, you must record a 15-20s subject over green screen</strong> then keyed-out subject over layered backgrounds using keyframe animation.
-  <br>
-   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library or book the Green Screen available at the Media Art equipment booking.   
+  <br><br>
+   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library or book the Green Screen available at the <a href="https://hmcservicecentre.humanities.mcmaster.ca/" target="_blank">Media Art equipment booking</a>.   
 </p>
 
 <details>
@@ -255,7 +255,7 @@ PREMIERE + AE
 <p>
 <strong style="color: darkred;">6. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong>
 <br>
-For this option, <strong>use your own Premire Pro Sequence</strong> (from the 1-minute film) to <strong>add effects, animation, masks/rotoscope, or others</strong> to a specific part using Dynamic Links. 
+For this option, <strong>use your Premire Pro Sequence</strong> (from the 1-minute film) to <strong>add effects, animation, and/or masks/rotoscope</strong> to a specific part using Dynamic Links. 
 <br>
 You must combine techniques from the other tutorials listed here or find other tutorial(s) that matches what you want to create in After Effects.   
 <br><br>
