@@ -71,9 +71,7 @@ ROTOSCOPING & MASKING
 
 <p>
   <strong style="color: darkred;">1. Rotoscoping & Masking</strong>
-  <br><br>
-  Cut a subject out of live-action footage and composite it into a new environment or abstract background.
-  <br><br>
+  <br>
   <strong>Create a 15–20 second video using both rotoscoping and masking</strong>. Use rotoscoping to remove the background from a person, and masking to add a new element into your scene.  
 </p>
 
@@ -123,10 +121,10 @@ KEYFRAMING + GREEN SCREEN
 <br>
 <p>
   <strong style="color: darkred;">2. Keyframing + Green Screen Compositing</strong>
-  <br><br>
+  <br>
   <strong>For this option, you must record a 15-20s subject over green screen</strong> then keyed-out subject over layered backgrounds using keyframe animation.
-  <br><br>
-   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library. 
+  <br>
+   Book the <a href="https://libcal.mcmaster.ca/spaces?lid=3267" target="_blank">Media Production Room</a> at the Lyons New Media Centre at Mills Library or the Green Screen available at the Media Art equipment booking.   
 </p>
 
 <details>
@@ -163,11 +161,9 @@ ILLUSTRATOR + AE
 
 <br>
 <p>
-<strong style="color: darkred;">3. Illustrator → After Effects Workflow (Character or Object Animation)</strong>
-<br><br>
-Create a short character or object animation using Illustrator artwork animated inside After Effects.
-<br><br>
-For this option, you must <strong>create a simple character</strong> in Adobe Illustrator, then import it into After Effects to <strong>create a short 15–20s animation</strong>. 
+<strong style="color: darkred;">3. Illustrator → After Effects Workflow (Object or Character Animation)</strong>
+<br>
+For this option, you must <strong>create a simple graphic or character </strong> in Adobe Illustrator, then import it into After Effects to <strong>create a short 15–20s animation</strong>. 
 </p>
 
 <details>
@@ -205,10 +201,8 @@ PHOTOSHOP + AE
 <br>
 <p>
 <strong style="color: darkred;">4. Photoshop → After Effects Workflow Using 3D Cameras</strong>
-<br><br>
-Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).
-<br><br>
-For this option, you must <strong>create a simple multi-layered scene</strong> in Adobe Photoshop, then import it into After Effects to <strong>create a short 15–20s animation</strong>. 
+<br>
+For this option, you must <strong>create a simple multi-layered (4–6 layers) scene</strong> in Adobe Photoshop, then import it into After Effects to <strong>create a short 15–20s animation using a 3D camera</strong>.
 </p>
 
 <details>
@@ -235,10 +229,8 @@ EXPRESSIONS & GENERATIVE ANIMATION
 <br>
 <p>
 <strong style="color: darkred;">5. Expressions for Randomized & Generative Animation</strong>
-<br><br>
-Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.
-<br><br>
-For this option, you must <strong>create a 20–30s animation using 2–4 expressions across 5–8 layers/objects</strong>. 
+<br>
+For this option, you must <strong>create a 20–30s animation using 2–4 expressions across 5–8 layers/objects</strong> to add ramdomness or glitch-based behaviours.  
 </p>
 
 <details>
@@ -265,11 +257,12 @@ PREMIERE + AE
 <br>
 <p>
 <strong style="color: darkred;">6. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong>
-<br><br>
-Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.
-For this option, use your own sequence (from the 1-minute film) to add an effect, animation, or mask to a specific part using Dynamic Link. You must find a tutorial that matches what you want to create in After Effects. You may combine techniques from the other tutorials listed here. 
-<br><br>
-+1 extra point will be offered for students who choose this option.
+<br>
+For this option, <strong>use your own Premire Pro Sequence</strong> (from the 1-minute film) to <strong>add an effect, animation, or mask</strong> to a specific part using Dynamic Link. 
+<br>
+You must combine techniques from the other tutorials listed here or find other tutorial(s) that matches what you want to create in After Effects.   
+<br>
+<strong>+2 extra points will be given to students who choose this option.</strong>
 </p>
 
 <details>
