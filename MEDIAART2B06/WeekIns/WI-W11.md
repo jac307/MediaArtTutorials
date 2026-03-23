@@ -62,11 +62,12 @@ Follow the corresponding tutorial and create your own version applying the techn
 **AE Project File:** `Lastname_Firstname_AEPathway.aep`   
 **Final Video File:** `Lastname_Firstname_AEPathway.mp4`  
 
----
-
-### Choose One Pathway
-
 > Click the arrows below to open each tutorial.  
+
+---
+<!-- ///////////////
+ROTOSCOPING & MASKING
+//////////// -->
 
 <p>
   <strong style="color: darkred;">1. Rotoscoping & Masking</strong>
@@ -77,7 +78,7 @@ Follow the corresponding tutorial and create your own version applying the techn
 </p>
 
 <details>
-  <summary>Tutorials</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -114,9 +115,14 @@ Follow the corresponding tutorial and create your own version applying the techn
 
 </details>
 
+---
+<!-- ///////////////
+KEYFRAMING + GREEN SCREEN
+//////////// -->
+
 <br>
 <p>
-  <strong <strong style="color: darkred;">2. Keyframing + Green Screen Compositing</strong>
+  <strong style="color: darkred;">2. Keyframing + Green Screen Compositing</strong>
   <br><br>
   <strong>For this option, you must record a 15-20s subject over green screen</strong> then keyed-out subject over layered backgrounds using keyframe animation.
   <br><br>
@@ -124,7 +130,7 @@ Follow the corresponding tutorial and create your own version applying the techn
 </p>
 
 <details>
-  <summary>Tutorial</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -150,17 +156,38 @@ Follow the corresponding tutorial and create your own version applying the techn
 
 </details>
 
+---
+<!-- ///////////////
+ILLUSTRATOR + AE
+//////////// -->
+
 <br>
-<p><strong>3. Illustrator → After Effects Workflow (Character or Object Animation)</strong><br>
-Create a short character or object animation using Illustrator artwork animated inside After Effects.</p>
+<p>
+<strong style="color: darkred;">3. Illustrator → After Effects Workflow (Character or Object Animation)</strong>
+<br><br>
+Create a short character or object animation using Illustrator artwork animated inside After Effects.
+<br><br>
+For this option, you must <strong>create a simple character</strong> in Adobe Illustrator, then import it into After Effects to <strong>create a short 15–20s animation</strong>. 
+</p>
 
 <details>
-  <summary>▶ Tutorial</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
-      src="url"
-      title="Title"
+      src="https://www.youtube.com/embed/qV3KXRrGm-A?si=rUZWVGYxF9Dmu6F0"
+      title="Animating Artwork from Adobe Illustrator in After Effects"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+  <br>
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="https://www.youtube.com/embed/QQgmXARn8aA?si=92GoiS7Ucx4shDm8"
+      title="How to Create Cartoon Animation | After Effects & Illustrator Workflow Tutorial"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -170,12 +197,19 @@ Create a short character or object animation using Illustrator artwork animated 
 
 </details>
 
+---
+<!-- ///////////////
+PREMIERE + AE
+//////////// -->
+
 <br>
-<p><strong>4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong><br>
+<p>
+<strong style="color: darkred;">4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong>
+<br><br>
 Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.</p>
 
 <details>
-  <summary>▶ Tutorial</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -190,12 +224,19 @@ Enhance a Premiere edit using After Effects motion graphics elements that update
 
 </details>
 
+---
+<!-- ///////////////
+PHOTOSHOP + AE
+//////////// -->
+
 <br>
-<p><strong>5. Photoshop → After Effects Workflow Using 3D Cameras</strong><br>
+<p>
+<strong style="color: darkred;">5. Photoshop → After Effects Workflow Using 3D Cameras</strong>
+<br><br>
 Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).</p>
 
 <details>
-  <summary>▶ Tutorial</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -210,12 +251,19 @@ Create a layered 3D parallax scene from a Photoshop image (environment, collage,
 
 </details>
 
+---
+<!-- ///////////////
+EXPRESSIONS & GENERATIVE ANIMATION
+//////////// -->
+
 <br>
-<p><strong>6. Expressions for Randomized & Generative Animation</strong><br>
+<p>
+<strong style="color: darkred;">6. Expressions for Randomized & Generative Animation</strong>
+<br><br>
 Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.</p>
 
 <details>
-  <summary>▶ Tutorial</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
