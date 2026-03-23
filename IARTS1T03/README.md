@@ -31,13 +31,12 @@ Software (freeware):
 + [Week 9](WT-W9.md) — Multi-Channel Installation Design — Part 1 (Concept + Sound)
   + [W9: Technical Walkthrough Activity](TW-W9.md) — Re-Designing Sound and Light for the LFS Space
 + [Week 10](WT-W10.md) — Multi-Channel Installation Design — Part 2 (Spatial Implementation)  
++ [Week 11](WT-W11.md) — Projection, Video Surfaces & Hybrid Media
+
 
 Selection of **6 revised weekly submissions** assembled into a final portfolio showcasing the skills developed throughout the course.  
 + [Final Portfolio — Individual Work](FinalPort.md)
 
-<!--
-+ [Week 11](WT-W11.md) —  Projection, Video Surfaces & Hybrid Media
--->
 ---
 
 ### **Module IV — Projection, Image & Hybrid Media**  
