@@ -238,7 +238,7 @@ EXPRESSIONS & GENERATIVE ANIMATION
 <br><br>
 Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.
 <br><br>
-For this option, you must <strong>create 20s-30s animation video using 3-5 expressions in multiple layers/objects</strong>. 
+For this option, you must <strong>create a 20–30s animation using 2–4 expressions across 5–8 layers/objects</strong>. 
 </p>
 
 <details>
