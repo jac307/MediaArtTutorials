@@ -199,49 +199,25 @@ For this option, you must <strong>create a simple character</strong> in Adobe Il
 
 ---
 <!-- ///////////////
-PREMIERE + AE
-//////////// -->
-
-<br>
-<p>
-<strong style="color: darkred;">4. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong>
-<br><br>
-Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.</p>
-
-<details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
-
-  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-    <iframe 
-      src="url"
-      title="Title"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-  </div>
-
-</details>
-
----
-<!-- ///////////////
 PHOTOSHOP + AE
 //////////// -->
 
 <br>
 <p>
-<strong style="color: darkred;">5. Photoshop → After Effects Workflow Using 3D Cameras</strong>
+<strong style="color: darkred;">4. Photoshop → After Effects Workflow Using 3D Cameras</strong>
 <br><br>
-Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).</p>
+Create a layered 3D parallax scene from a Photoshop image (environment, collage, or artwork).
+<br><br>
+For this option, you must <strong>create a simple multi-layered scene</strong> in Adobe Photoshop, then import it into After Effects to <strong>create a short 15–20s animation</strong>. 
+</p>
 
 <details>
   <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
-      src="url"
-      title="Title"
+      src="https://www.youtube.com/embed/7tVyu-rjHbg?si=duTbqvrsXBNLvhU6"
+      title="Create a 3D Scene from a Single Photo in After Effects"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -258,17 +234,62 @@ EXPRESSIONS & GENERATIVE ANIMATION
 
 <br>
 <p>
-<strong style="color: darkred;">6. Expressions for Randomized & Generative Animation</strong>
+<strong style="color: darkred;">5. Expressions for Randomized & Generative Animation</strong>
 <br><br>
-Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.</p>
+Produce a generative motion graphic using randomness, flickering light, drifting elements, or glitch-based behaviors.
+<br><br>
+For this option, you must <strong>create 20s-30s animation video using 3-5 expressions in multiple layers/objects</strong>. 
+</p>
+
+<details>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="https://www.youtube.com/embed/videoseries?si=uqu2GNA3NAhk2_Cr&amp;list=PLvr5U5ZSt6IzHyvSL9fo0M9NRPsTvra31"
+      title="World of Expressions - After Effects Training"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+</details>
+
+---
+<!-- ///////////////
+PREMIERE + AE
+//////////// -->
+
+<br>
+<p>
+<strong style="color: darkred;">6. Premiere → After Effects Workflow (Dynamic Link for Motion Graphics)</strong>
+<br><br>
+Enhance a Premiere edit using After Effects motion graphics elements that update dynamically.
+For this option, use your own sequence (from the 1-minute film) to add an effect, animation, or mask to a specific part using Dynamic Link. You must find a tutorial that matches what you want to create in After Effects. You may combine techniques from the other tutorials listed here. 
+<br><br>
++1 extra point will be offered for students who choose this option.
+</p>
 
 <details>
   <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
-      src="url"
-      title="Title"
+      src="https://www.youtube.com/embed/8SKZUuZkE08?si=jfLigkL6_dfyLApC"
+      title="Adobe Premiere Pro and After Effects workflow: Dynamic Link"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+  <br>
+  <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+    <iframe 
+      src="https://www.youtube.com/embed/cD3PX14G-BU?si=8BTDC3xkuaS44isI"
+      title="3 Essential Adobe After Effects to Premiere Workflows"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
