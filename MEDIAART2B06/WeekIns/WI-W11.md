@@ -85,7 +85,7 @@ ROTOSCOPING & MASKING
 </p>
 
 <details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓ [click to open]</summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -136,7 +136,7 @@ KEYFRAMING + GREEN SCREEN
 </p>
 
 <details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓ [click to open] </summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -174,7 +174,7 @@ For this option, you must <strong>create a simple graphic or character </strong>
 </p>
 
 <details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓ [click to open] </summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -212,7 +212,7 @@ For this option, you must <strong>create a simple multi-layered (4–6 layers) s
 </p>
 
 <details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓ [click to open] </summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -241,7 +241,7 @@ For this option, you must <strong>create a 20–30s animation using 2–4 expres
 </p>
 
 <details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓ [click to open] </summary>
   
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
@@ -274,7 +274,7 @@ You must combine techniques from the other tutorials listed here or find other t
 </p>
 
 <details>
-  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓</summary>
+  <summary style="color: navy; font-weight: bold;">Tutorials ↓↓↓ [click to open] </summary>
 
   <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
     <iframe 
