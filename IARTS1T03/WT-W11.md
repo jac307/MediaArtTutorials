@@ -243,7 +243,7 @@ Create a single PDF that includes:
 | Component                      | File Name                          |
 |--------------------------------|------------------------------------|
 | Project document (PDF)         | `Lastname-Firstname-W11.pdf`       |
-| Edited video file (DaVinci).   | `Lastname-Firstname-W11-Video.mp4` |
+| Edited video file (DaVinci)   | `Lastname-Firstname-W11-Video.mp4` |
 | Blender scene                  | `Lastname-Firstname-W11.blend`     |
 | Rendered scene (Blender)       | `Lastname-Firstname-W11-Scene.mp4` |
 
