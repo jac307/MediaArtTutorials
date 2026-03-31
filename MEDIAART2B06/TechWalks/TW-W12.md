@@ -147,6 +147,8 @@ Take the time to properly format your document and include a strong visual layou
 - create a clear **hierarchy of information** with headings and subheadings
 - align text, images, and spacing carefully
 - position your still image thoughtfully within the page
+- keep your still image at a readable size — **around 1/3 of a page is recommended**
+- avoid making the image too large, where it overwhelms the text, or too small, where it loses impact
 - use **margins** and **white space** to avoid a crowded layout
 - keep the layout clean, readable, and visually balanced
 - avoid too many fonts, colours, or decorative elements
