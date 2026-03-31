@@ -248,7 +248,7 @@ Before submitting, confirm:
 
 Select **2–3 strong frames** from your final sequence that clearly represent your film.
 
-- Format: **PNG** or **TIFF**
+- Format: **PNG**
 - File name:  
    - `Lastname_Firstname_Still_01.png`  
    - `Lastname_Firstname_Still_02.png`  
@@ -290,6 +290,7 @@ Complete your **Final Information Sheet (PDF)**:
 
 ### 1. Final Cut Export (MP4)
 
+- One representative still  
 - Full sequence assembled  
 - Final sound mix integrated  
 - Final colour correction applied  

@@ -43,6 +43,7 @@ Choose frames that:
 - represent the **visual style** of your project  
 - have **good composition and lighting**  
 - reflect key moments in your sequence (beginning, middle, or end)
+- Export in PNG (higher quality)
 
 Avoid:
 
