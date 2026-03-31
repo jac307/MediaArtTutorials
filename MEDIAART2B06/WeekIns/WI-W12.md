@@ -246,39 +246,11 @@ Before submitting, confirm:
 
 Select **2–3 strong frames** from your final sequence that clearly represent your film.
 
-These stills will be used for **documentation and presentation purposes**.
-
-Choose frames that:
-
-- clearly show the **main subject or action**  
-- represent the **visual style** of your project  
-- have **good composition and lighting**  
-- reflect key moments in your sequence (beginning, middle, or end)
-
-Avoid:
-
-- blurry frames  
-- transitional frames (mid-motion unless intentional)  
-- frames that are too dark or overexposed  
-
-#### How to Export Stills in Premiere Pro
-
 - Format: **PNG** or **TIFF**
 - File name:  
    - `Lastname_Firstname_Still_01.png`  
    - `Lastname_Firstname_Still_02.png`  
    - `Lastname_Firstname_Still_03.png`  
-
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
-    src="https://www.youtube.com/embed/K_t5ueWaDT4?si=KnTqtnHhXjz--EcU"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>  
 
 ---
 
@@ -287,33 +259,10 @@ Avoid:
 Complete your **Final Information Sheet (PDF)**:
 
 - One representative still  
-- Film Information (Title, Director, Year of Completion, Runtime)  
+- Film Information (Title, Director, Country, Year of Completion, Runtime)  
 - Logline  
 - Short Synopsis (100–150 words)  
 - Credits  
-
-#### Short Synopsis — Structure
-
-Use this simple structure to write your synopsis:
-
-**Character + Situation → Development → Outcome (without revealing everything)**  
-
-- Introduce the **main character and context**  
-- Describe the **key action or progression**  
-- Indicate the **shift or outcome** (keep it concise and controlled)
-
-> ⚠️ Do not fully explain the ending—keep some ambiguity.
-
-#### Design
-
-Design matters. Take the time to properly format your document and include a clear visual layout:
-
-- choose a consistent **font style and size**  
-- align text and spacing clearly  
-- position your still image thoughtfully  
-- keep the layout clean and readable  
-
-> ⚠️ This document represents your project professionally—treat it as part of your final work.
 
 ---
 
@@ -350,7 +299,7 @@ MP4 (H.264); 1920x1080; 24 fps
 
 ### 2. Final Information Sheet (PDF)
 
-- Film Information (Title, Director, Year of Completion, Runtime)  
+- Film Information (Title, Director, Country, Year of Completion, Runtime)  
 - Logline (1–2 sentences)  
 - Short Synopsis (100–150 words)   
 - Credits  
