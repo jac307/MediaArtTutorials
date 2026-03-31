@@ -244,6 +244,8 @@ Before submitting, confirm:
 
 ### Step 3 — Export Three Representative Stills
 
+➡️ Check the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W12.html#representative-stills" target="_blank" rel="noopener noreferrer"><strong>Representative Stills</strong></a>  Tips and Tutorial on how to export stills using Premiere Pro.
+
 Select **2–3 strong frames** from your final sequence that clearly represent your film.
 
 - Format: **PNG** or **TIFF**
@@ -255,6 +257,8 @@ Select **2–3 strong frames** from your final sequence that clearly represent y
 ---
 
 ### Step 4 — Prepare Documentation
+
+➡️ Check the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W12.html" target="_blank" rel="noopener noreferrer"><strong>W12 — Final Cut Framework</strong></a> for guidance. 
 
 Complete your **Final Information Sheet (PDF)**:
 
