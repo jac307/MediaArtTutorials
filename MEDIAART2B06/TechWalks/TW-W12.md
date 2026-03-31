@@ -29,6 +29,8 @@ The materials you prepare (stills, film information, logline, synopsis, and cred
 
 A strong final package **helps others quickly understand your work, your role in it, and how to present it accurately**.
 
+---
+
 ### Representative Stills
 
 Still frames are **one of the main ways a film is introduced before anyone watches it**. Festivals, screening organizers, curators, and programmers often use stills in catalogs, websites, promotional posts, schedules, and projection slides. **A strong still can quickly communicate the tone, visual quality, and overall identity of your project.**
@@ -59,6 +61,8 @@ Avoid:
   </iframe>
 </div>  
 
+---
+
 ### Film Information
 
 Basic film information **identifies the work clearly** and allows **others to reference it correctly**. Festivals, screening committees, and exhibition organizers use this information to catalogue, schedule, and publish your film.
@@ -79,15 +83,36 @@ Tips:
 
 Example:
 
-**Title:** *Echo*  
-**Director:** Your Name  
-**Country:** Name of Country 
-**Year of Completion:** 2026  
-**Runtime:** 1 min
+**Title:** *2 AM COFFEE*  
+**Director:** Ayush Karki   
+**Country:** United States 
+**Year of Completion:** 2023  
+**Runtime:** 00:01:49
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/SR__amDl1c8?si=CZORMnhiXA-bowoO"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>  
+
+---
 
 ### Logline
 
 A logline gives a very short introduction to your film. It should communicate the central action, situation, or tension in one or two sentences.
+
+➡️ Review the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline" target="_blank" rel="noopener noreferrer"><strong>W7 — Pre-Production Framework: Logline</strong></a>. 
+
+Example (*2 AM COFFEE*):
+
+*A man bikes to a quiet gas station at 2 a.m. for a coffee, only to return and find his unlocked bike gone.*
+
+---
 
 #### Short Synopsis — Structure
 
@@ -99,10 +124,16 @@ Use this simple structure to write your synopsis:
 
 - Introduce the **main character and context**  
 - Describe the **key action or progression**  
-- Indicate the **shift or outcome** (keep it concise and controlled)
+- Indicate the **shift or outcome** (keep it concise)
 
 > ⚠️ Do not fully explain the ending—keep some ambiguity.
 > Try to keep your synopsis focused on what the viewer experiences, not on every detail of the plot.
+
+Example (*2 AM COFFEE*):
+
+*During a quiet 2 a.m. coffee run, a man stops at a nearly empty gas station and leaves his bike outside. What begins as an ordinary late-night routine changes when he steps back into the dark and realizes the bike is no longer there. In that sudden disruption, the film transforms a familiar everyday action into a brief moment of vulnerability, tension, and disorientation.*
+
+---
 
 ### Credits
 
@@ -137,6 +168,12 @@ Example
 **Additional Collaborators:** Samantha Guizar (production assistance)
 **Locations / Location Support:** Factory Media Centre, Hamilton
 
+Example (*2 AM COFFEE*):
+
+**Writer/Director** Ayush Karki   
+**Cinematography** Robidh Basnet  
+**Performer:** Abdulhaq Alrudaini  
+
 #### Design
 
 Design matters. Use the layout, alignment, hierarchy, and composition principles you practiced in Design Fundamentals to build a document that is clear, intentional, and visually coherent.
@@ -168,9 +205,13 @@ Think about:
 
 <h2 id="portfolio" style="color: darkred;">From Class Project to Portfolio Entry</h2>
 
+coming soon
+
 ---
 
 <h2 id="cv" style="color: darkred;">CV Basics for Creative Practice</h2>
+
+coming soon
 
 
 
