@@ -1,1 +1,64 @@
+[
+  {
+  "title": "Title",
+  "description": "Info"
+ },
+  
+  {
+    "title": "🎧 Sound Design for Film & Sound Production in Adobe Audition",
+    "description": "Info",
+    "children": [
+      {
+        "title": "13 Sound Design Tips for More Cinematic Films",
+        "description": "This video presents practical sound design tips for filmmaking, focusing on techniques such as layering, contrast, rhythm, and ambience. It helps you understand how to shape sound to enhance storytelling, pacing, and emotional impact.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/4gpSsFEl_T0?si=bBgliwV24nVLZZxX"
+      },
+      {
+        "title": "How to Sound Design a Short Film",
+        "description": "This video introduces the basics of sound design, showing how to build a soundscape using ambience, sound effects, and music. Although demonstrated in Premiere Pro, focus on what to listen for and how to structure your sound layers.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/caWge0sQqzw?si=iVP8PGM90JsjBVBQ"
+      },
+      {
+        "title": "Title",
+        "description": "Info",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Title",
+        "description": "Info",
+        "tutorialEmbedCode": "url"
+      }
+    ]
+  },
+
+
+  {
+    "title": "🌈 Colour in Film & Colour Grading (Premiere Pro)",
+    "description": "Info",
+    "children": [
+      {
+        "title": "Title",
+        "description": "Info",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Title",
+        "description": "Info",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Title",
+        "description": "Info",
+        "tutorialEmbedCode": "url"
+      },
+      {
+        "title": "Title",
+        "description": "Info",
+        "tutorialEmbedCode": "url"
+      }
+    ]
+  }
+  
+ 
+]
 

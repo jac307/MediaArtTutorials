@@ -15,10 +15,10 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#final-assembly-">Activity 1: Final Assembly [20m]</a></li>
-  <li><a href="#final-sound">Activity 2: Final Sound Design in Audition [1h40m]</a></li>
-  <li><a href="#final-color">Activity 3: Final Colour Correction in Premiere [50m]</a></li>
-  <li><a href="#portfolio">Final Package [20m]</a></li>
+  <li><a href="#final-assembly-">Activity 1: Final Assembly [1h]</a></li>
+  <li><a href="#final-sound">Activity 2: Final Sound Design in Audition [2h]</a></li>
+  <li><a href="#final-color">Activity 3: Final Colour Correction in Premiere [1h]</a></li>
+  <li><a href="#portfolio">Final Package Assemblage [30m]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
@@ -74,9 +74,14 @@ Once complete:
 
 > ⚠️ All sound design and colour grading must now adapt to this locked sequence.
 
-**Export a temporary version** of your sequence for analysis and identifying corrections.  
-- Save it as `Echo_PictureLock.mp4` inside folder: 📁 `03_Renders`.  
+### Step 5 — Export Temporary Version
+
+Export a temporary version of your sequence **for identifying corrections**.  
+- Save it as `ProjectName_PictureLock.mp4` inside folder: 📁 `03_Renders`.  
+
 > ⚠️ Temporary versions will be checked for grading at the end of the class.  
+
+- Review the export and make any final corrections before moving into **Activity 2**.
 
 ---
 
@@ -90,8 +95,10 @@ In this activity, you will build your **full sound design**, combining all layer
 - music (optional)
 
 ➡️ Review: 
-- <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W10.html" target="_blank" rel="noopener noreferrer"><strong>W10 — Sound Design Production Framework</strong></a>    
+- [**W10 Tutorials — Sound Design Production Framework**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W10.html){:target="_blank"} for **sound design guidelines and examples**.  
 - [**W10 Tutorials — Cleaning and Preparing Audio in Adobe Audition**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W10.json){:target="_blank"} for **step-by-step guidance on cleaning, adjusting, and exporting your audio files**.  
+
+➡️ Check the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W12.json" target="_blank" rel="noopener noreferrer"><strong>W12 Tutorials — Sound Design for Film & Sound Production in Adobe Audition</strong></a> for guidance and tips.
 
 ---
 
@@ -133,8 +140,6 @@ Ensure:
 
 ### Step 4 — Clean & Mix
 
-➡️ Check the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W12.json" target="_blank" rel="noopener noreferrer"><strong>W12 Tutorials — Sound Production in Adobe Audition & Sound Design for Film</strong></a> for guidance and tips.
-
 Apply:
 
 - noise reduction (subtle)  
@@ -152,9 +157,13 @@ Balance levels so:
 
 Return your final sound mix to Premiere. 
 
+### Step 6 — Export Temporary Version
+
 In Premiere, **export a temporary version** of your sequence for analysis and identifying corrections.  
 - Save it as `ProjectName_AudioCheck.mp4` inside folder: 📁 `03_Renders`.  
 > ⚠️ Temporary versions will be checked for grading at the end of the class.
+
+- Review the export and make any final corrections before moving into **Activity 3**.
 
 ---
 
@@ -163,6 +172,8 @@ In Premiere, **export a temporary version** of your sequence for analysis and id
 In this activity, you will move from **colour correction to colour grading**.  
 
 **Colour grading** is the process of **shaping the visual tone and mood** of a film after technical corrections are complete.  
+
+➡️ Check the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W12.json" target="_blank" rel="noopener noreferrer"><strong>W12 Tutorials — Colour in Film & Colour Grading (Premiere Pro)</strong></a> for guidance and tips. 
 
 ---
 
@@ -183,26 +194,27 @@ Now refine the visual tone:
 - unify colour palette across shots  
 - apply subtle stylistic choices (if appropriate)
 
-> ⚠️ Avoid over-grading. Keep it controlled and intentional.
-
-### Step 3 — Sequence Consistency Check
-
-**Export a temporary version** of your sequence for analysis and identifying corrections.  
-- Save it as `EchoColourCheck.mp4` inside folder: 📁 `03_Renders`.  
-> ⚠️ Temporary versions will be checked for grading at the end of the class.
-
-Watch your full film and check:
+Check:
 
 - consistency between shots  
 - visual continuity  
 - balance between brightness and contrast  
 
+> ⚠️ Avoid over-grading. Keep it controlled and intentional.
+
+### Step 6 — Export Temporary Version
+
+**Export a temporary version** of your sequence for analysis and identifying corrections.  
+- Save it as `EchoColourCheck.mp4` inside folder: 📁 `03_Renders`.  
+> ⚠️ Temporary versions will be checked for grading at the end of the class.
+
+- Review the export and make any final corrections before moving into **Final Package Assemblage**.
 
 ---
 
 <!-- <h2 id="storyboard" style="color: darkred;">Final Package & Portfolio Preparation Workshop [1h40m]</h2> -->
 
-<h2 id="storyboard" style="color: darkred;">Final Package [30m]</h2>
+<h2 id="storyboard" style="color: darkred;">Final Package Assemblage [30m]</h2>
 
 ### Step 1 — Final Export
 
