@@ -143,7 +143,6 @@ Ensure:
 Apply:
 
 - noise reduction (subtle)  
-- EQ (if needed)  
 - compression (light)  
 - Match Clip Loudness  
 

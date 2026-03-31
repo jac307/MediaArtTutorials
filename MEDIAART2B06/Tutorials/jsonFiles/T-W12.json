@@ -1,12 +1,12 @@
 [
   {
-  "title": "Title",
-  "description": "Info"
+  "title": "Final Sound & Colour Refinement",
+  "description": "This section focuses on finalizing both sound and image for your film. It covers sound design and mixing in Audition, along with colour grading in Premiere Pro, helping you refine, balance, and unify all elements into a cohesive and intentional final cut ready for screening."
  },
   
   {
     "title": "🎧 Sound Design for Film & Sound Production in Adobe Audition",
-    "description": "Info",
+    "description": "This section focuses on building and refining your final sound design. It covers how to structure sound layers (ambience, Foley, SFX, and music), clean and balance audio in Adobe Audition, and apply mixing and mastering techniques to produce a clear, cohesive, and intentional final sound.",
     "children": [
       {
         "title": "13 Sound Design Tips for More Cinematic Films",
@@ -19,14 +19,24 @@
         "tutorialEmbedCode": "https://www.youtube.com/embed/caWge0sQqzw?si=iVP8PGM90JsjBVBQ"
       },
       {
-        "title": "Title",
-        "description": "Info",
-        "tutorialEmbedCode": "url"
+        "title": "How to Get Volume Levels the Same - Adobe Audition Tutorial",
+        "description": "This video explains how to achieve consistent volume levels using loudness and compression tools, helping you create a balanced and comfortable listening experience across your audio.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/izbmLO83DX0?si=KM_MV7plwdWRNo7o"
       },
       {
-        "title": "Title",
-        "description": "Info",
-        "tutorialEmbedCode": "url"
+        "title": "How to Create Film Quality Sound Effects in Adobe Audition CC",
+        "description": "This video focuses on using sound effects effectively, showing how to layer and refine SFX to enhance key moments and strengthen storytelling.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/qBcTeo5Vo9U?si=nyZ3M3j2AhBFdXnQ"
+      },
+      {
+        "title": "How to Flatten Audio to the Same Volume Level",
+        "description": "2 minute tutorial on Normalizing and Hard Limiting in Adobe Audition",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/mVR_QO7M9PE?si=8xqDJ6K-AYVot4nV"
+      },
+      {
+        "title": "How to Master Your Audio in Adobe Audition",
+        "description": "This video introduces mastering as a final step after mixing, showing how to apply compression, EQ, and limiting to the full track to create a polished and cohesive final sound.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/fQlTrR0YSWY?si=V46VHS4jvOFyQJd1"
       }
     ]
   },
@@ -34,27 +44,32 @@
 
   {
     "title": "🌈 Colour in Film & Colour Grading (Premiere Pro)",
-    "description": "Info",
+    "description": "This section focuses on understanding and applying colour in film. It covers the difference between colour correction and grading, how colour shapes mood and meaning, and how to use tools in Premiere Pro (such as curves and LUTs) to achieve consistent, intentional, and visually coherent results.",
     "children": [
       {
-        "title": "Title",
-        "description": "Info",
-        "tutorialEmbedCode": "url"
+        "title": "Color Grading 101 - Everything You Need to Know",
+        "description": "This video introduces colour grading fundamentals, covering correction, grading techniques, colour spaces, and tools such as LUTs and scopes to achieve consistent and controlled results.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/pAh83khT1no?si=6Ifxvv6aS3qaWufh"
       },
       {
-        "title": "Title",
-        "description": "Info",
-        "tutorialEmbedCode": "url"
+        "title": "The "Grey" Curse in Modern Cinema",
+        "description": "This video explores how colour grading shapes the look of films, comparing different styles and examining how grading choices influence tone, realism, and genre.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/za20Kb2VSN8?si=L9Xq6qXYhK69CI5H"
       },
       {
-        "title": "Title",
-        "description": "Info",
-        "tutorialEmbedCode": "url"
+        "title": "Adobe Premiere Pro Color Grading",
+        "description": "This video walks through how to colour grade LOG footage in Premiere Pro, focusing on a step-by-step process to convert flat footage into a balanced and visually consistent image.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/1wZym4fQGig?si=ulz3YDZ6zQ92bDho"
       },
       {
-        "title": "Title",
-        "description": "Info",
-        "tutorialEmbedCode": "url"
+        "title": "Intro to Color Correction in #PremierePro (Part 1 of 2)",
+        "description": "This video explains what LUTs are and how to use them, covering input vs creative LUTs, when to apply them, and how they support colour correction and grading workflows.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/nNHGNcIBeq0?si=B18FYX7Orra8Odu1"
+      },
+      {
+        "title": "How to use LUTs in Premiere Pro with Sam Newton (Ep 2 of 3)",
+        "description": "This video demonstrates how to apply and manage LUTs in Premiere Pro, focusing on using input LUTs for colour correction and refining exposure, white balance, and overall balance before applying creative looks.",
+        "tutorialEmbedCode": "https://www.youtube.com/embed/JA9hyl80zug?si=VOnvGWM-tXuLGCFq"
       }
     ]
   }
