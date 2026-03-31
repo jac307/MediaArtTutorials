@@ -211,8 +211,6 @@ Check:
 
 ---
 
-<!-- <h2 id="storyboard" style="color: darkred;">Final Package & Portfolio Preparation Workshop [1h40m]</h2> -->
-
 <h2 id="storyboard" style="color: darkred;">Final Package Assemblage [30m]</h2>
 
 ### Step 1 — Final Export
