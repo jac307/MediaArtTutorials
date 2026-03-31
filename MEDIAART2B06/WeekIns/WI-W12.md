@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-<h1 style="color: darkred;">W12 & W13 - Final Cut & Class Screening</h1>  
+<h1 style="color: darkred;">W12 - Final Cut</h1>  
 
 Refine and finalize picture, sound, and colour for your one-minute short, and prepare professional documentation for final submission and public screening.
 
