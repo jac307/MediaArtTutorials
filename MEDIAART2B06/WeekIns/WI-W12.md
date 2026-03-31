@@ -15,28 +15,262 @@ You are expected to work actively during class time and participate in all in-cl
 **Complete the following in order. Ask the professor or TAs for support or feedback.**  
 
 <ul>
-  <li><a href="#logline">Activity 1: Final Assembly [50m]</a></li>
-  <li><a href="#script">Activity 2: Final Sound Design in Audition [1h40m]</a></li>
-  <li><a href="#storyboard">Activity 3: Final Colour Correction in Premiere [50m]</a></li>
-  <li><a href="#storyboard">Final Package & Portfolio Preparation Workshop [1h40m]</a></li>
+  <li><a href="#final-assembly-">Activity 1: Final Assembly [20m]</a></li>
+  <li><a href="#final-sound">Activity 2: Final Sound Design in Audition [1h40m]</a></li>
+  <li><a href="#final-color">Activity 3: Final Colour Correction in Premiere [50m]</a></li>
+  <li><a href="#portfolio">Final Package [20m]</a></li>
   <li><a href="#submission">📤 Submission</a></li>
 </ul>  
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Final Assembly [50m]</h2>
+<h2 id="logline" style="color: darkred;">Activity 1: Final Assembly [30m]</h2>
+
+Before anything else, finalize your sequence and confirm **picture lock**.  
+> Picture lock means: **no more changes to timing, shot order, or duration**.
 
 ---
 
-<h2 id="script" style="color: darkred;">Activity 2: Final Sound Design in Audition [1h40m]</h2>
+### Step 1 — Review Your Rough Cut
+
+Watch your latest sequence from beginning to end.
+
+Focus on:
+
+- clarity of the sequence  
+- pacing and rhythm  
+- shot necessity (remove anything redundant)  
+- transitions (keep them minimal and intentional)  
+
+### Step 2 — Apply Final Adjustments
+
+Make final corrections:
+
+- trim or extend shots slightly  
+- remove unnecessary shots  
+- refine transitions (prefer cuts or simple crossfades)  
+- confirm total duration is **1 minute (without titles)**  
+
+### Step 3 — Add Titles
+
+Add **opening and closing titles** to your sequence.
+
+Guidelines:
+
+- Titles include: film title, author name, and credits  
+- Titles must be **clear, readable, and simple**  
+- Avoid excessive animation or distracting effects  
+
+> ⚠️ Titles can extend the total duration of your project by **up to 10 seconds maximum**.  
+> (Final runtime: **1:00 + up to 10s for titles**)
+> Do **NOT** include the name of this class in your titles.
+
+### Step 4 — Confirm Picture Lock
+
+Once complete:
+
+- Do **NOT** change shot timing after this point  
+- Lock your sequence visually (excluding titles if minor adjustments are needed)
+
+> ⚠️ All sound design and colour grading must now adapt to this locked sequence.
+
+**Export a temporary version** of your sequence for analysis and identifying corrections.  
+- Save it as `Echo_PictureLock.mp4` inside folder: 📁 `03_Renders`.  
+> ⚠️ Temporary versions will be checked for grading at the end of the class.  
 
 ---
 
-<h2 id="storyboard" style="color: darkred;">Activity 3: Final Colour Correction in Premiere [50m]</h2>
+<h2 id="final-sound" style="color: darkred;">Activity 2: Final Sound Design & Mix in Audition [2h]</h2>
+
+In this activity, you will build your **full sound design**, combining all layers:
+
+- ambience  
+- Foley  
+- sound effects (SFX)  
+- music (optional)
+
+➡️ Review: 
+- <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W10.html" target="_blank" rel="noopener noreferrer"><strong>W10 — Sound Design Production Framework</strong></a>    
+- [**W10 Tutorials — Cleaning and Preparing Audio in Adobe Audition**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W10.json){:target="_blank"} for **step-by-step guidance on cleaning, adjusting, and exporting your audio files**.  
 
 ---
 
-<h2 id="storyboard" style="color: darkred;">Final Package & Portfolio Preparation Workshop [1h40m]</h2>
+### Step 1 — Send Sequence to Audition
+
+Follow the workflow:
+
+**Premiere Pro → Adobe Audition**
+
+### Step 2 — Build Sound Layers
+
+Add and organize:
+
+- **Ambience / room tone** → continuous base  
+- **Foley** → actions (footsteps, objects, movement)  
+- **SFX** → accents and enhancements  
+- **Music** → emotional support (if used)
+
+> ⚠️ Music should **support**, not dominate.
+
+### Step 3 — Synchronization & Balance
+
+Ensure:
+
+- sounds match actions precisely  
+- no noticeable delays or mismatches  
+- layers do not compete with each other  
+
+### Step 4 — Clean & Mix
+
+➡️ Check the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Tutorials/index.html?file=T-W12.json" target="_blank" rel="noopener noreferrer"><strong>W12 Tutorials — Sound Production in Adobe Audition & Sound Design for Film</strong></a> for guidance and tips.
+
+Apply:
+
+- noise reduction (subtle)  
+- EQ (if needed)  
+- compression (light)  
+- Match Clip Loudness  
+
+Balance levels so:
+
+- no clipping  
+- no sound overpowering others  
+- dialogue-free clarity is maintained  
+
+### Step 5 — Export Back to Premiere
+
+Return your final sound mix to Premiere. 
+
+In Premiere, **export a temporary version** of your sequence for analysis and identifying corrections.  
+- Save it as `ProjectName_AudioCheck.mp4` inside folder: 📁 `03_Renders`.  
+> ⚠️ Temporary versions will be checked for grading at the end of the class.
+
+---
+
+<h2 id="storyboard" style="color: darkred;">Activity 3: Final Colour Correction in Premiere [1h]</h2>
+
+In this activity, you will move from **colour correction to colour grading**.  
+
+**Colour grading** is the process of **shaping the visual tone and mood** of a film after technical corrections are complete.  
+
+---
+
+### Step 1 — Check Base Corrections
+
+Before grading, confirm:
+
+- exposure is consistent  
+- white balance is corrected  
+- no major brightness shifts  
+
+### Step 2 — Apply Colour Grading
+
+Now refine the visual tone:
+
+- adjust contrast using **curves**  
+- refine highlights and shadows  
+- unify colour palette across shots  
+- apply subtle stylistic choices (if appropriate)
+
+> ⚠️ Avoid over-grading. Keep it controlled and intentional.
+
+### Step 3 — Sequence Consistency Check
+
+**Export a temporary version** of your sequence for analysis and identifying corrections.  
+- Save it as `EchoColourCheck.mp4` inside folder: 📁 `03_Renders`.  
+> ⚠️ Temporary versions will be checked for grading at the end of the class.
+
+Watch your full film and check:
+
+- consistency between shots  
+- visual continuity  
+- balance between brightness and contrast  
+
+
+---
+
+<!-- <h2 id="storyboard" style="color: darkred;">Final Package & Portfolio Preparation Workshop [1h40m]</h2> -->
+
+<h2 id="storyboard" style="color: darkred;">Final Package [30m]</h2>
+
+### Step 1 — Final Export
+
+Go to the **Export tab** and use the following **settings**:
+
+- File name: `Lastname_Firstname_FinalCut.mp4`
+- Preset: **Match Source - Adaptative High Bitrate**
+- Format: H.264  
+- Audio Format: **ACC**
+- **Enable Effects**
+- Range: **Entire Source**
+- Export (either directly or through Media Encoder)
+
+<img src="imgs/15.png" style="width: 80%; height: auto;">  
+
+---
+
+### Step 2 — Final Check
+
+Before submitting, confirm:
+
+- no black frames  
+- audio is balanced (both speakers)  
+- no missing sound layers  
+- no abrupt cuts or errors  
+
+**Re-export if need it.**  
+
+---
+
+### Step 3 — Export Three Representative Stills
+
+Select **2–3 strong frames** from your final sequence that clearly represent your film.
+
+These stills will be used for **documentation and presentation purposes**.
+
+Choose frames that:
+
+- clearly show the **main subject or action**  
+- represent the **visual style** of your project  
+- have **good composition and lighting**  
+- reflect key moments in your sequence (beginning, middle, or end)
+
+Avoid:
+
+- blurry frames  
+- transitional frames (mid-motion unless intentional)  
+- frames that are too dark or overexposed  
+
+#### How to Export Stills in Premiere Pro
+
+- Format: **PNG** or **TIFF**
+- File name:  
+   - `Lastname_Firstname_Still_01.png`  
+   - `Lastname_Firstname_Still_02.png`  
+   - `Lastname_Firstname_Still_03.png`  
+
+<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
+  <iframe 
+    src="https://www.youtube.com/embed/K_t5ueWaDT4?si=KnTqtnHhXjz--EcU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>  
+
+---
+
+### Step 4 — Prepare Documentation
+
+Complete your **Final Information Sheet (PDF)**:
+
+- One Representative Still
+- Film Information (Title, Director, Year of Completion, Runtime)  
+- Logline  
+- Short Synopsis (100–150 words)   
+- Credits  
 
 ---
 
@@ -73,10 +307,9 @@ MP4 (H.264); 1920x1080; 24 fps
 
 ### 2. Final Information Sheet (PDF)
 
-- Film Information (Title, Director, Year of Completion, Runtime, Format)  
+- Film Information (Title, Director, Year of Completion, Runtime)  
 - Logline (1–2 sentences)  
-- Short Synopsis (100–150 words)  
-- Director’s Statement (150–250 words)  
+- Short Synopsis (100–150 words)   
 - Credits  
 
 **File name:**  
