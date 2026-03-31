@@ -15,8 +15,7 @@ This framework focuses on **preparing a clear, well-designed final submission pa
 
 <ul>
   <li><a href="#final-package">Final Package</a></li>
-  <li><a href="#portfolio">From Class Project to Portfolio Entry</a></li>
-  <li><a href="#cv">CV Basics for Creative Practice</a></li>
+  <li><a href="#cv">CV and Artist Portfolio Basics for Creative Practice</a></li>
 </ul>
 
 ---
@@ -33,7 +32,7 @@ A strong final package **helps others quickly understand your work, your role in
 
 ### Representative Stills
 
-Still frames are **one of the main ways a film is introduced before anyone watches it**. Festivals, screening organizers, curators, and programmers often use stills in catalogs, websites, promotional posts, schedules, and projection slides. **A strong still can quickly communicate the tone, visual quality, and overall identity of your project.**
+Still frames are **one of the main ways a film is introduced before anyone watches it**. A strong still can quickly **communicate the tone, visual quality, and overall identity** of your project. 
 
 > For your PDF information sheet, including one representative still **helps make the document more engaging and gives the viewer an immediate sense of your film’s visual language**.
 
@@ -66,21 +65,14 @@ Avoid:
 
 ### Film Information
 
-Basic film information **identifies the work clearly** and allows **others to reference it correctly**. Festivals, screening committees, and exhibition organizers use this information to catalogue, schedule, and publish your film.
+Basic film information **identifies the work clearly** and allows **others to reference it correctly**.
 
 Include the following:
 
-- **Title**  
+- **Title**    
 - **Director**  
 - **Year of Completion**  
-- **Runtime**
-
-Tips:
-
-- Use the **final title** of your film, not a temporary working title  
-- Write the **director’s name** consistently across all documents  
-- Use the **year your film was completed**
-- Write the **runtime exactly**, for example: `1 min` or `00:01:00`
+- **Runtime** (example: `1 min` or `00:01:00`)  
 
 Example:
 
@@ -117,9 +109,9 @@ Example (*2 AM COFFEE*):
 
 #### Short Synopsis — Structure
 
-A synopsis gives a **slightly fuller description of the film than a logline**. Festivals and screening organizers often use the synopsis in programs, submission platforms, websites, and jury review materials. **It should help someone understand the shape of the film without over-explaining it**.
+A synopsis gives a **slightly fuller description of the film than a logline**. It should help someone understand the shape of the film without over-explaining it.  
 
-Use this simple structure to write your synopsis:
+Simple structure to write your synopsis:
 
 **Character + Situation → Development → Outcome (without revealing everything)**  
 
@@ -127,7 +119,7 @@ Use this simple structure to write your synopsis:
 - Describe the **key action or progression**  
 - Indicate the **shift or outcome** (keep it concise)
 
-> ⚠️ Do not fully explain the ending—keep some ambiguity.
+> ⚠️ Do not fully explain the ending —keep some ambiguity.
 > Try to keep your synopsis focused on what the viewer experiences, not on every detail of the plot.
 
 Example (*2 AM COFFEE*):
@@ -138,18 +130,16 @@ Example (*2 AM COFFEE*):
 
 ### Credits
 
-Credits **identify who made the film and recognize the work of everyone involved**. This is **important both professionally and ethically**. Proper credits acknowledge collaboration, make production roles visible, and help you avoid presenting shared work as if it were completed entirely by one person.
-
-Structure your credits clearly. Start with the main roles, then add additional collaborators if needed.
+Credits **identify who made the film and recognize the work of everyone involved**. This is **important both professionally and ethically**. Proper credits acknowledge collaboration, make production roles visible, and help you avoid presenting shared work as if it were completed entirely by one person.  
 
 Template
 
 **Director / Editor:** Your Name with Lastname  
 **Camera / Cinematography:** Collaborator Name (only if other)  
 **Performer:** Performer Name (only if other)  
-**Sound Design (Music, Sound Effects, Foley, Ambient Sound):** Name, Author, & Website, or Author (if recorded specifically for the project)
+**Sound Design (Music, Sound Effects, Foley, Ambient Sound):** Name, Author, & Website, or Author (if recorded specifically for the project)  
 **Additional Collaborators:** Name (production assistance), Name (location support)...  
-**Locations / Location Support:** Location Name, City  
+**Locations / Location Support:** Location Name, City   
 
 Tips:
 
@@ -157,17 +147,16 @@ Tips:
 - Use people’s names accurately and consistently  
 - If you worked alone, you may list multiple roles under your own name  
 - If you used music, sound, or visual materials created by others, make sure they are properly credited  
-- Do not leave out collaborators
 
 Example
 
 **Director / Editor / Camera:** Maria Lopez  
-**Performer:** Tamara Smith
-**Music:** *Morning Drift* — Blue Dot Sessions [downloaded from FreeSound]
+**Performer:** Tamara Smith  
+**Music:** *Morning Drift* — Blue Dot Sessions [downloaded from FreeSound]  
 **Sound Effects:** *Door Creak* — Freesound user `soundmonger` [downloaded from FreeSound]  
 **Foley:** Recorded by Maria Lopez  
-**Additional Collaborators:** Samantha Guizar (production assistance)
-**Locations / Location Support:** Factory Media Centre, Hamilton
+**Additional Collaborators:** Samantha Guizar (production assistance)  
+**Locations / Location Support:** Factory Media Centre, Hamilton  
 
 Example (*2 AM COFFEE*):
 
@@ -177,16 +166,16 @@ Example (*2 AM COFFEE*):
 
 #### Design
 
-Design matters. Use the layout, alignment, hierarchy, and composition principles you practiced in Design Fundamentals to build a document that is clear, intentional, and visually coherent.
+**Design matters**. Use the layout, alignment, hierarchy, and composition principles you practiced in Design Fundamentals to build a document that is clear, intentional, and visually coherent.
 
-Take the time to properly format your document and include a strong visual layout:
+Take the time to properly format your document:
 
 - choose a consistent **font style and size**
 - create a clear **hierarchy of information** with headings and subheadings
 - align text, images, and spacing carefully
 - position your still image thoughtfully within the page
-- keep your still image at a readable size — **around 1/3 of a page is recommended**
 - avoid making the image too large, where it overwhelms the text, or too small, where it loses impact
+- keep your still image at a readable size — **around 1/3 of a page is recommended**
 - use **margins** and **white space** to avoid a crowded layout
 - keep the layout clean, readable, and visually balanced
 - avoid too many fonts, colours, or decorative elements
@@ -200,17 +189,11 @@ Think about:
 - **balance** — does the page feel visually stable?
 - **emphasis** — what do you want the viewer to notice first?
 
-> ⚠️ This document represents your project professionally—treat it as part of your final work.
+> ⚠️ This document represents your project professionally.
 
 ---
 
-<h2 id="portfolio" style="color: darkred;">From Class Project to Portfolio Entry</h2>
-
-coming soon
-
----
-
-<h2 id="cv" style="color: darkred;">CV Basics for Creative Practice</h2>
+<h2 id="cv" style="color: darkred;">CV and Artist Portfolio Basics for Creative Practice</h2>
 
 coming soon
 

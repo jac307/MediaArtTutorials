@@ -24,7 +24,7 @@ You are expected to work actively during class time and participate in all in-cl
 
 ---
 
-<h2 id="logline" style="color: darkred;">Activity 1: Final Assembly [30m]</h2>
+<h2 id="logline" style="color: darkred;">Activity 1: Final Assembly [1h]</h2>
 
 Before anything else, finalize your sequence and confirm **picture lock**.  
 > Picture lock means: **no more changes to timing, shot order, or duration**.
