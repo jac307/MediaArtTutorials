@@ -15,7 +15,7 @@ This framework focuses on **preparing a clear, well-designed final submission pa
 
 <ul>
   <li><a href="#final-package">Final Package</a></li>
-  <li><a href="#cv">CV and Artist Portfolio Basics for Creative Practice</a></li>
+  <li><a href="#dossier">Dossier Basics</a></li>
 </ul>
 
 ---
@@ -189,28 +189,29 @@ Think about:
 
 ---
 
-<h2 id="cv" style="color: darkred;">CV and Artist Portfolio Basics for Creative Practice</h2>
+<h2 id="dossier" style="color: darkred;">Dossier Basics</h2>
 
-As an artist or filmmaker, when applying for jobs in the creative industries, post-graduate programs, conferences, galleries, residencies, grants, festivals, or screenings, you may be asked to submit one or more of the following materials:  
+A **dossier** is a larger support document that brings together multiple professional and creative materials in one file.   
+
+In some cases, an application will specifically ask for a dossier. In other cases, it may not use that word, but it may still ask you to submit a combination of the following materials as separate files or grouped together in one PDF.  It is important to read submission requirements carefully and prepare your files in advance.  
 
 <ul>
   <li><a href="#resume">CV or Resume</a></li>
-  <li><a href="#portfolio">Portfolio Materials</a></li>
-  <ul>
-    <li>Portfolio</li>
-    <li>Demo Reel</li>
-    <li>Work Sample Document (Works list)</li>
-  </ul>
-  <li><a href="#written">Written Professional Materials</a></li>
-  <ul>
-    <li>Artist Bio</li>
-    <li>Artist Statement</li>
-    <li>Cover Letter or Letter of Intent</li>
-  </ul>
-  <li><a href="#dossier">Dossier</a></li>
+  <li><a href="#portfolio">Portfolio Materials</a>
+    <ul>
+      <li>Portfolio</li>
+      <li>Demo Reel</li>
+      <li>Work Sample Document (Works List)</li>
+    </ul>
+  </li>
+  <li><a href="#written">Written Professional Materials</a>
+    <ul>
+      <li>Artist Bio</li>
+      <li>Artist Statement</li>
+      <li>Cover Letter or Letter of Intent</li>
+    </ul>
+  </li>
 </ul>
-
-Different opportunities ask for different combinations, so it is important to read submission requirements carefully and prepare your materials in advance.  
 
 ---
 
@@ -472,15 +473,147 @@ This longer version should still read like a bio, not a full CV. The final secti
 
 ### Artist Statement
 
-A short text that explains your creative practice, themes, methods, and concerns. It focuses on what your work does and why it matters.
+A short text that explains your creative practice, themes, methods, and concerns. It focuses on what your work does, how you work, and why that work matters.
+
+Artist statements are usually written in the **first person**. Unlike a bio, which introduces you professionally, the artist statement speaks from your own voice and reflects how you understand your practice.
+
+In artist statements, **writing matters**. The text should be clear, intentional, and well written. Depending on the application, the tone may be more direct and professional, or more reflective and poetic. The statement should sound like you, but it should also help someone unfamiliar with your practice understand what you do.  
+
+> Some applications may ask for a **video artist statement** instead of, or in addition to, a written one.
+
+### Versions
+
+It is a good idea to prepare **two standard versions** of your statement:
+
+- a **150-word version**
+- a **300-word version**
+
+**Recommendation:** Write the **150-word version first**, then expand it into the **300-word version**. This helps you keep the information consistent across both versions.  
+
+Your artist statement should help the reader understand:
+
+- **What kind of work you make**
+- **What questions, themes, or concerns shape your practice**
+- **What materials, media, or methods you work with**
+- **How you approach making**
+- **Why this work matters to you and/or to the context in which it is presented**
+
+#### 150-Word Version
+
+Use this version for shorter applications, project pages, screening notes, exhibition support material, or forms with limited space.
+
+**Include:**
+
+- A brief description of your **practice**
+- Your main **themes, concerns, or questions**
+- Your main **media, materials, or methods**
+- A short explanation of what motivates or grounds the work
+
+#### 300-Word Version
+
+Use this version for portfolios, grant applications, residency applications, exhibition proposals, and other contexts where you have more space.
+
+**Include:**
+
+- Everything from the **150-word version**
+- A fuller explanation of your **process or methodology**
+- More context for your **themes, influences, or artistic concerns**
+- A clearer sense of why the work matters in relation to audience, place, memory, politics, identity, technology, community, or another relevant context
+
+---
 
 ### Cover Letter or Letter of Intent
 
-A brief document tailored to a specific opportunity. It explains why you are applying and why your work fits that context.
+A **cover letter** or **letter of intent** is a brief document tailored to a specific opportunity. 
 
-<h2 id="dossier" style="color: navy;">Dossier</h2>
+Cover letters are usually **one page**. In some cases, especially for **post-graduate applications in creative fields**, they may be **one to two pages**, depending on the instructions and the amount of detail requested.
 
-A larger support document that brings together multiple materials in one file. It may include a bio, artist statement, project descriptions, images, stills, links, and a CV. 
+> Like a CV, this document should never be treated as fixed. It should be revised for each application.
+> Avoid writing one generic letter and sending it everywhere. The reader should be able to tell that the letter was written for that specific opportunity.
+
+A strong cover letter or letter of intent should:
+
+- clearly state **what you are applying for**
+- explain **why you are interested**
+- highlight the **most relevant parts of your background**
+- show that you understand the **context of the position, program, or opportunity**
+- make a clear case for **why your experience, work, or goals fit**
+
+### Expectations by Context
+
+#### Job applications in the creative industries
+
+These letters should be **direct and specific**. The main goal is to show:
+
+- why you want this specific role
+- how your experience connects to the responsibilities of the job
+- what technical, creative, collaborative, or organizational skills you bring
+- why you are a good fit for the company, studio, centre, or institution
+
+A useful formula is:
+
+**Position + interest in the organization + relevant experience + relevant skills + closing fit**
+
+#### Post-graduate school in creative fields
+
+These letters should explain not only your background, but also your **creative interests, research direction, and reasons for applying to that specific program**. The main goal is to show:
+
+- why you want to pursue graduate study
+- what questions, themes, or areas of practice shape your work
+- how your past education and creative experience have prepared you
+- why this specific program, department, faculty, or institution is a good fit
+- what you hope to develop through the degree
+
+A useful formula is:
+
+**Program + creative/research interests + relevant background + why this program + future goals**
+
+#### Exhibitions, residencies, grants, festivals, and other arts applications
+
+These letters often functions more like a **statement of intent**. The main goal is to show:
+
+- why you are applying to this opportunity
+- why your work fits the theme, context, or goals of the call
+- what project, practice, or body of work you are presenting
+- why this opportunity matters for your development or for the project itself
+
+A useful formula is:
+
+**Opportunity + project/practice + why the fit makes sense + relevant background + closing intention**
+
+### AI Tip
+
+Like CVs and resumes, cover letters may also be reviewed by automated systems before a person reads them, especially in larger organizations and some medium-sized ones. This means that the language you use matters.
+
+#### Use AI without uploading your letter
+
+Paste the **job posting, call for applications, or program description** into an AI tool and ask it to help you identify what matters most:
+
+- What are the main skills, experiences, and priorities emphasized in this application?
+- What should a cover letter foreground for this role, program, or opportunity?
+- What keywords or themes appear most important in this posting?
+- What kinds of experience seem most valued here: technical skills, collaboration, leadership, research, creative practice, community work, or public presentation?
+- What should be highlighted in a letter for this specific company, department, gallery, festival, or residency?
+
+This step helps you understand the application more strategically before you start revising your letter.
+
+#### Paste your draft and ask for targeted revision help
+
+If you want, you can also copy and paste your draft into an AI tool and ask for **revision support**. The important thing is to tell the AI **not to replace your voice** or rewrite the whole letter in generic language.
+
+Useful prompts include:
+
+- Improve clarity, flow, and structure without changing my tone or voice.
+- Point out repetition, vague phrases, or weak sentences.
+- Suggest where I can be more specific.
+- Check whether this letter clearly matches the application.
+- Identify places where I should name relevant skills, experience, or context more directly.
+- Keep my wording as much as possible and only suggest minimal edits.
+- Help me make this letter more concise without making it sound generic.
+
+Always **proofread the final version yourself**.
+
+AI can help you identify priorities, improve structure, or point out unclear sections, but it may also flatten your tone, introduce incorrect details, or make the writing sound generic.  
 
 ________________________________________________________________________
 
