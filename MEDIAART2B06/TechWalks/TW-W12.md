@@ -198,8 +198,8 @@ As an artist or filmmaker, when applying for jobs in the creative industries, po
   <li><a href="#portfolio">Portfolio Materials</a></li>
   <ul>
     <li>Portfolio</li>
-    <li>Dossier</li>
-    <li>Demo Reel or Work Sample Links</li>
+    <li>Demo Reel</li>
+    <li>Work Sample Links</li>
   </ul>
   <li><a href="#written">Written Professional Materials</a></li>
   <ul>
@@ -207,6 +207,7 @@ As an artist or filmmaker, when applying for jobs in the creative industries, po
     <li>Artist Statement</li>
     <li>Cover Letter or Letter of Intent</li>
   </ul>
+  <li><a href="#dossier">Dossier</a></li>
 </ul>
 
 Different opportunities ask for different combinations, so it is important to read submission requirements carefully and prepare your materials in advance.  
@@ -284,23 +285,113 @@ Use AI as a tool to help you **read the application more strategically**, not to
 
 ---
 
-## Portfolio Materials
+<h2 id="portfolio" style="color: navy;">Portfolio Materials</h2>
 
 ### Portfolio
 
-A selection of your creative work presented in a clear and organized format. This may include images, film stills, project descriptions, installation views, links, or short excerpts of work.
+A portfolio is a selection of your creative work presented in a clear, organized, and visually coherent format. You may prepare your portfolio as a **web portfolio** and/or as a **PDF portfolio** ready to send. It is a good idea to have both.  
 
-### Dossier
+> Depending on the application, you may be asked to submit only a small selection of work. In that case, select **4–5 representative projects** that are most relevant to the opportunity.  
 
-A larger support document that brings together multiple materials in one file. It may include a bio, artist statement, project descriptions, images, stills, links, and a CV. 
+Whichever format you use, keep the presentation of information **consistent** across projects. Use the same structure, same order of information, and a similar visual logic throughout the portfolio.   
 
-### Demo Reel or Work Sample Links 
+Remember that **design matters**. Your portfolio should be engaging to look at, easy to navigate, and strong enough to represent your work professionally. The layout, image choices, and structure should help communicate the quality and character of each project.
 
-A short video reel or a set of links to selected work. These are especially common for film, video, animation, and media arts applications.
+For each project, include:
+
+- **Title**  
+- **Year**  
+- **Author** and other relevant **credits**  
+- **Links**, when applicable    
+  This may include published videos, websites, interviews, online exhibitions, or other public materials related to the project.  
+- **Short description**    
+- **Representative images**    
+  These may include finished work, installation views, film stills, interface views, and, when relevant, behind-the-scenes images or process documentation.    
+
+**Short description:**    
+
+A good standard length is **150–250 words**, since this is common in applications for programs, festivals, residencies, grants, and exhibitions. A useful formula for writing the description is:    
+
+- **Project title / format + central idea or concern + materials, methods, or process + presentation context or outcome**.   
+- Focus on the project’s concept, form, process, and context without becoming too vague or overly promotional.  
+
+For **web portfolios**, you can extend this description up to **500 words**, while still making sure the main information is clear within the first **150–250 words**.  
+
+### Demo Reel
+
+### Demo Reel
+
+A **demo reel** is a short video that presents selected excerpts of your work. These are especially common in film, video, animation, motion graphics, editing, cinematography, sound, and media arts applications.
+
+Demo reels should usually be **1–2 minutes long**.
+
+**Tips:**
+
+- **Open with strong work immediately**  
+  Do not wait until the middle or end to show your best material.
+
+- **Keep clips short and purposeful**  
+  Each clip should demonstrate something clearly and move quickly.
+
+- **Make your role clear**  
+  If the work was collaborative, indicate what you did: director, editor, cinematographer, animator, sound designer, performer, etc.
+
+- **Use clean titles or captions when needed**  
+  Include your name and, if useful, brief labels for projects or roles.
+
+- **Pay attention to sound**  
+  Audio levels should be clean and balanced. Do not let the music overpower the clips. If you use music, make sure it supports the reel rather than distracting from it.
+
+- **Keep transitions simple**  
+  Avoid unnecessary visual effects, decorative titles, or flashy transitions unless they are directly relevant to the kind of work you are applying for.
+
+- **End clearly**  
+  Include your name and contact information, portfolio link, or website at the end if appropriate.
+
+If you work across different areas, you may need more than one reel. For example, you might prepare separate reels for:
+
+- **editing**
+- **cinematography**
+- **animation or motion graphics**
+- **media art / installation / hybrid practice**
+
+Like a portfolio or CV, a demo reel should not be treated as a fixed file. You should revise it depending on the application and the kind of work you want to highlight.
+
+### Work Sample Document 
+
+A **work sample document** is a file that presents individual artworks or projects in a clear, consistent, and easy-to-review format. These are often requested for exhibitions, grants, and other arts applications.  
+
+A good approach is to present **one work per page**, keeping the format consistent throughout the document.
+
+For each work, include:
+
+- **Representative image**  
+  This may be a still frame, installation view, documentation photo, interface capture, or another image that best represents the work
+- **Title**
+- **Year**
+- **Author** and other relevant **credits**
+- **Medium**
+- **Dimensions**  
+  For example: height × width × depth, using cm or inches consistently
+- **Duration / Runtime**  
+  For time-based media, include the full running time
+- **Format**  
+  For example: single-channel video, multi-channel installation, live performance, interactive website, digital print, projection-based installation
+- **Short description**
+- **Link**, if applicable  
+  For example: Vimeo link, website, online exhibition, project page, or documentation page
+
+Depending on the application, you may also need to include:
+
+- **Exhibition, screening, or presentation history**
+- **Technical requirements**
+  Important information needed to present or install the work.
+- **Access information**  
+  Such as password-protected links or instructions for experiencing the work
 
 ---
 
-## Written Professional Materials
+<h2 id="written" style="color: navy;">Written Professional Materials</h2>
 
 ### Artist Bio
 
@@ -313,6 +404,10 @@ A short text that explains your creative practice, themes, methods, and concerns
 ### Cover Letter or Letter of Intent
 
 A brief document tailored to a specific opportunity. It explains why you are applying and why your work fits that context.
+
+<h2 id="dossier" style="color: navy;">Dossier</h2>
+
+A larger support document that brings together multiple materials in one file. It may include a bio, artist statement, project descriptions, images, stills, links, and a CV. 
 
 ________________________________________________________________________
 
