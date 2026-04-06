@@ -74,13 +74,12 @@ Include the following:
 - **Year of Completion**  
 - **Runtime** (example: `1 min` or `00:01:00`)  
 
-Example:
-
-**Title:** *2 AM COFFEE*  
-**Director:** Ayush Karki   
-**Country:** United States 
-**Year of Completion:** 2023  
-**Runtime:** 00:01:49
+> Example:  
+> **Title:** *2 AM COFFEE*  
+> **Director:** Ayush Karki   
+> **Country:** United States 
+> **Year of Completion:** 2023  
+> **Runtime:** 00:01:49
 
 <div style="position: relative; width: 80%; padding-bottom: 56.25%;">
   <iframe 
@@ -101,9 +100,8 @@ A logline gives a very short introduction to your film. It should communicate th
 
 ➡️ Review the <a href="https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline" target="_blank" rel="noopener noreferrer"><strong>W7 — Pre-Production Framework: Logline</strong></a>. 
 
-Example (*2 AM COFFEE*):
-
-*A man bikes to a quiet gas station at 2 a.m. for a coffee, only to return and find his unlocked bike gone.*
+> Example (*2 AM COFFEE*):  
+> *A man bikes to a quiet gas station at 2 a.m. for a coffee, only to return and find his unlocked bike gone.*
 
 ---
 
@@ -118,13 +116,11 @@ Simple structure to write your synopsis:
 - Introduce the **main character and context**  
 - Describe the **key action or progression**  
 - Indicate the **shift or outcome** (keep it concise)
+- ⚠️ Do not fully explain the ending —keep some ambiguity.
+- Keep your synopsis focused on what the viewer experiences, not on every detail of the plot.
 
-> ⚠️ Do not fully explain the ending —keep some ambiguity.
-> Try to keep your synopsis focused on what the viewer experiences, not on every detail of the plot.
-
-Example (*2 AM COFFEE*):
-
-*During a quiet 2 a.m. coffee run, a man stops at a nearly empty gas station and leaves his bike outside. What begins as an ordinary late-night routine changes when he steps back into the dark and realizes the bike is no longer there. In that sudden disruption, the film transforms a familiar everyday action into a brief moment of vulnerability, tension, and disorientation.*
+> Example (*2 AM COFFEE*):  
+> *During a quiet 2 a.m. coffee run, a man stops at a nearly empty gas station and leaves his bike outside. What begins as an ordinary late-night routine changes when he steps back into the dark and realizes the bike is no longer there. In that sudden disruption, the film transforms a familiar everyday action into a brief moment of vulnerability, tension, and disorientation.*
 
 ---
 
@@ -148,23 +144,23 @@ Tips:
 - If you worked alone, you may list multiple roles under your own name  
 - If you used music, sound, or visual materials created by others, make sure they are properly credited  
 
-Example
+> Example:  
+> **Director / Editor / Camera:** Maria Lopez  
+> **Performer:** Tamara Smith  
+> **Music:** *Morning Drift* — Blue Dot Sessions [downloaded from FreeSound]  
+> **Sound Effects:** *Door Creak* — Freesound user `soundmonger` [downloaded from FreeSound]  
+> **Foley:** Recorded by Maria Lopez  
+> **Additional Collaborators:** Samantha Guizar (production assistance)  
+> **Locations / Location Support:** Factory Media Centre, Hamilton  
 
-**Director / Editor / Camera:** Maria Lopez  
-**Performer:** Tamara Smith  
-**Music:** *Morning Drift* — Blue Dot Sessions [downloaded from FreeSound]  
-**Sound Effects:** *Door Creak* — Freesound user `soundmonger` [downloaded from FreeSound]  
-**Foley:** Recorded by Maria Lopez  
-**Additional Collaborators:** Samantha Guizar (production assistance)  
-**Locations / Location Support:** Factory Media Centre, Hamilton  
+> Example (*2 AM COFFEE*):  
+> **Writer/Director** Ayush Karki   
+> **Cinematography** Robidh Basnet  
+> **Performer:** Abdulhaq Alrudaini  
 
-Example (*2 AM COFFEE*):
+---
 
-**Writer/Director** Ayush Karki   
-**Cinematography** Robidh Basnet  
-**Performer:** Abdulhaq Alrudaini  
-
-#### Design
+### Design
 
 **Design matters**. Use the layout, alignment, hierarchy, and composition principles you practiced in Design Fundamentals to build a document that is clear, intentional, and visually coherent.
 
