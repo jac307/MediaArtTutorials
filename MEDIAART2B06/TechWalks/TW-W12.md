@@ -191,9 +191,128 @@ Think about:
 
 <h2 id="cv" style="color: darkred;">CV and Artist Portfolio Basics for Creative Practice</h2>
 
-coming soon
+As an artist or filmmaker, when applying for jobs in the creative industries, post-graduate programs, conferences, galleries, residencies, grants, festivals, or screenings, you may be asked to submit one or more of the following materials:  
 
+<ul>
+  <li><a href="#resume">CV or Resume</a></li>
+  <li><a href="#portfolio">Portfolio Materials</a></li>
+  <ul>
+    <li>Portfolio</li>
+    <li>Dossier</li>
+    <li>Demo Reel or Work Sample Links</li>
+  </ul>
+  <li><a href="#written">Written Professional Materials</a></li>
+  <ul>
+    <li>Artist Bio</li>
+    <li>Artist Statement</li>
+    <li>Cover Letter or Letter of Intent</li>
+  </ul>
+</ul>
 
+Different opportunities ask for different combinations, so it is important to read submission requirements carefully and prepare your materials in advance.  
+
+---
+
+<h2 id="resume" style="color: navy;">CV or Resume</h2>
+
+A document that outlines your education, professional experience, exhibitions, screenings, skills, awards, publications, and other relevant experience.
+
+Recommended sections include:
+
+- **Education**
+- **Professional Work**  
+  Prioritize creative and artistic work first when relevant.
+- **Art Service**  
+  Volunteer work, organizing, coordination, or support roles in art-related spaces.
+- **Professional and Artistic Associations**  
+  Collectives, organizations, networks, unions, or memberships connected to your practice.
+- **Awards and Funding**
+- **Performances / Exhibitions / Screenings / Selections**
+  Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer).
+
+Depending on the job, call, or submission, you should re-arrange your CV to highlight the experience most relevant to that specific application.
+
+- For **art applications**, emphasize public presentations, exhibitions, screenings, performances, and artistic production.
+- For **film applications**, emphasize public presentations, screenings, selections, and film-related production work.
+- For **post-graduate applications**, emphasize education, artistic research, writing, and creative practice.
+- For **creative industries applications**, emphasize education, relevant creative work, technical skills, collaborative projects, professional experience, and art service when applicable.
+
+Your CV should not be treated as a fixed document. It should be adjusted depending on the context, making the most relevant experience easier to find quickly.
+
+### Recommendations
+
+For **technical skills**, include the software, tools, and production skills you can use confidently.  
+
+For this course, you can already list software such as **Adobe Premiere Pro**, since you have used it across several projects and at multiple stages of the production process, including editing, sequencing, sound integration, colour correction, and final export.
+
+You may also include other relevant production skills, such as:
+- **DSLR camera operation** with **manual camera settings**
+- **basic lighting setup**
+- **video editing**
+
+Make a general **CV/Resume** document and add every new activity as soon as it happens so you do not forget it later. You can include both **in-person** and **online exhibitions or screenings**.
+
+As part of this course, you can already add presentations such as:
+
+- **February 12, 2026**, *"Title of the Work"*, screening presented at **Come As You Art**, public exhibition, Lyons Family Studio, McMaster University, Hamilton, Ontario, Canada. **Artist**.
+- **2026**, *"Title of the Work"* at **Come As You Art: Photo Film**, online exhibition. **Artist**.Public access: [https://media-studio-art.github.io/come-as-you-art/](https://media-studio-art.github.io/come-as-you-art/)
+- **April 7, 2026**, *"Title of the Work"*, screening presented at **In One Minute**, public screening, Concert Hall, McMaster University, Hamilton, Ontario, Canada. 
+
+Keep a full CV document with all your experience. In a separate file, prepare a **one-page or two-page version** that you can adapt for specific jobs, submissions, grants, screenings, or graduate school applications.
+
+Remember that **design matters**. Your CV should be clear, readable, and well organized.
+
+### AI Tip 
+
+You can also use AI to help revise and adapt your document.
+
+For larger companies, and sometimes medium-sized companies as well, applications may first be reviewed through automated systems before a person reads them. These systems may scan CVs and resumes for keywords, skills, software, job titles, and types of experience that match the posting. This means that the language you use in your document matters.
+
+One useful strategy is to paste the **job posting, call for submissions, or application description** into an AI tool and ask it to identify the main skills, priorities, and repeated terms. Then, revise your CV to make the most relevant experience more visible and easier to find.
+
+This does **not** mean you should copy the posting word for word or exaggerate your experience. It means you should make sure your document clearly names the tools, skills, and types of work you actually have, using language that matches the application when appropriate.
+
+You do **not** need to upload your CV into an AI tool to do this. You can begin by asking questions like:
+
+- What are the main skills, experiences, and priorities emphasized in this application?
+- Which parts of a creative CV should be foregrounded for this opportunity?
+- What keywords or types of experience appear most important in this posting and for this centre, company, conference, or department?
+- Are there software names, technical skills, or types of experience I should name more clearly in my CV?
+- What kinds of experience seem most valued here: creative production, collaboration, research, public presentation, technical skills, or administration?
+
+Use AI as a tool to help you **read the application more strategically**, not to invent experience or write a misleading CV for you.  
+
+---
+
+## Portfolio Materials
+
+### Portfolio
+
+A selection of your creative work presented in a clear and organized format. This may include images, film stills, project descriptions, installation views, links, or short excerpts of work.
+
+### Dossier
+
+A larger support document that brings together multiple materials in one file. It may include a bio, artist statement, project descriptions, images, stills, links, and a CV. 
+
+### Demo Reel or Work Sample Links 
+
+A short video reel or a set of links to selected work. These are especially common for film, video, animation, and media arts applications.
+
+---
+
+## Written Professional Materials
+
+### Artist Bio
+
+A short professional introduction written in the third person. It usually explains who you are, what kind of work you make, and your background.
+
+### Artist Statement
+
+A short text that explains your creative practice, themes, methods, and concerns. It focuses on what your work does and why it matters.
+
+### Cover Letter or Letter of Intent
+
+A brief document tailored to a specific opportunity. It explains why you are applying and why your work fits that context.
 
 ________________________________________________________________________
 
