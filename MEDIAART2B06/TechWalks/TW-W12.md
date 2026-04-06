@@ -199,7 +199,7 @@ As an artist or filmmaker, when applying for jobs in the creative industries, po
   <ul>
     <li>Portfolio</li>
     <li>Demo Reel</li>
-    <li>Work Sample Links</li>
+    <li>Work Sample Document (Works list)</li>
   </ul>
   <li><a href="#written">Written Professional Materials</a></li>
   <ul>
@@ -317,7 +317,7 @@ A good standard length is **150–250 words**, since this is common in applicati
 
 For **web portfolios**, you can extend this description up to **500 words**, while still making sure the main information is clear within the first **150–250 words**.  
 
-### Demo Reel
+---
 
 ### Demo Reel
 
@@ -357,7 +357,9 @@ If you work across different areas, you may need more than one reel. For example
 
 Like a portfolio or CV, a demo reel should not be treated as a fixed file. You should revise it depending on the application and the kind of work you want to highlight.
 
-### Work Sample Document 
+---
+
+### Work Sample Document (Works list)
 
 A **work sample document** is a file that presents individual artworks or projects in a clear, consistent, and easy-to-review format. These are often requested for exhibitions, grants, and other arts applications.  
 
@@ -395,7 +397,78 @@ Depending on the application, you may also need to include:
 
 ### Artist Bio
 
-A short professional introduction written in the third person. It usually explains who you are, what kind of work you make, and your background.
+A short professional introduction that explains who you are, what kind of work you make, and your background. Artist bios are often written in the **third person**, especially for exhibitions, festivals, conferences, websites, and printed programs.  
+
+An artist bio responds to:  
+
+- Who are you?
+- Where are you based or working from?
+- What kind of work do you make?
+- What themes, questions, or methods shape your practice?
+- What background or training is relevant?
+- What key presentations, exhibitions, screenings, awards, or grants help position your work?
+
+It is important to include your **country**, since this helps situate your practice professionally and geographically. In some cases, you may want to include **two countries** if that reflects your background, identity, or artistic context more accurately, for example:
+
+- **Mexican artist based in Canada**
+- **Artist working between Mexico and Canada**
+- **Mexican-Canadian media artist**
+- **Artist from Mexico currently based in Canada**
+
+Make sure the tone stays professional, specific, and clear. Avoid vague phrases such as “passionate artist” or “deeply interested in creativity.” Focus instead on the actual forms, methods, themes, and contexts of your work.
+
+### Versions
+
+It is a good idea to prepare **three standard versions** of your bio:
+
+- a **100-word version**
+- a **250-word version**
+- a **500-word version**
+
+This helps you respond quickly to different application requirements without rewriting the text from scratch every time.
+
+**Recommendation:** Write the **100-word version first**, then expand it into the **250-word version**, and finally into the **500-word version**. This helps you keep the information consistent across all three.
+
+#### 100-Word Bio
+
+Use this version for short programs, screening notes, event pages, festival booklets, or websites with limited space.
+
+**Include:**
+
+- **Name**
+- **Current role or identity as an artist / filmmaker / designer / researcher**
+- **Country** or **country + current base**
+- **Main media, format, or area of practice**
+- **Main themes, concerns, or approaches**
+- **One brief background point**  
+  This could be your program, institution, location, or a relevant area of experience.
+
+
+#### 250-Word Bio
+
+Use this version for applications, exhibition texts, conference programs, portfolios, or professional websites.
+
+**Include:**
+
+- Everything from the **100-word version**
+- A fuller explanation of your **creative practice**
+- Your **training, education, or professional background**
+- A few **representative presentations, screenings, exhibitions, collaborations, awards, or grants**
+
+#### 500-Word Bio
+
+Use this version for major applications, residencies, grant files, long-form websites, professional dossiers, or institutional contexts that ask for a more developed biography.
+
+**Include:**
+
+- Everything from the **250-word version**
+- More detail about your **creative practice, research, methods, or community context**
+- A stronger sense of your **professional trajectory**
+- A short list of **representative presentations, exhibitions, screenings, residencies, awards, or grants**
+
+This longer version should still read like a bio, not a full CV. The final section can briefly mention selected achievements without becoming a long inventory.
+
+---
 
 ### Artist Statement
 
