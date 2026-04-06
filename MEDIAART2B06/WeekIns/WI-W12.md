@@ -272,11 +272,10 @@ Complete your **Final Information Sheet (PDF)**:
 
 <h2 id="submission" style="color: darkred;">📤 Submission</h2>
 
-| Item                               | Required Filename                   |
-|------------------------------------|-------------------------------------|
-| Final Cut Export (MP4)             | `Lastname_Firstname_FinalCut.mp4`   |
-| Final Information Sheet (PDF)      | `Lastname_Firstname_InfoSheet.pdf`  |
-| Organization                       | *In-Person Grading*                 |
+| Item                               | Required Filename                    |
+|------------------------------------|--------------------------------------|
+| Final Cut Package                  | `Lastname_Firstname_FinalPackage.zip`|
+| Organization                       | *In-Person Grading*                  |
 
 > ⚠️ **Follow the submission protocols carefully.**  
 > ⚠️⚠️⚠️ **Incorrect submissions will result in exclusion from the screening, which will affect your grade importantly**❗❗❗
