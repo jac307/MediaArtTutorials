@@ -229,7 +229,7 @@ Recommended sections include:
 - **Professional and Artistic Associations**  
   Collectives, organizations, networks, unions, or memberships connected to your practice.
 - **Awards and Funding**
-- **Performances / Exhibitions / Screenings / Selections**
+- **Performances / Exhibitions / Screenings / Selections**  
   Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer).
 
 Depending on the job, call, or submission, you should re-arrange your CV to highlight the experience most relevant to that specific application.
@@ -266,7 +266,7 @@ Remember that **design matters**. Your CV should be clear, readable, and well or
 
 ### AI Tip 
 
-You can also use AI to help revise and adapt your document.
+You can use AI to help revise and adapt your document.
 
 For larger companies, and sometimes medium-sized companies as well, applications may first be reviewed through automated systems before a person reads them. These systems may scan CVs and resumes for keywords, skills, software, job titles, and types of experience that match the posting. This means that the language you use in your document matters.
 
@@ -274,7 +274,7 @@ One useful strategy is to paste the **job posting, call for submissions, or appl
 
 This does **not** mean you should copy the posting word for word or exaggerate your experience. It means you should make sure your document clearly names the tools, skills, and types of work you actually have, using language that matches the application when appropriate.
 
-You do **not** need to upload your CV into an AI tool to do this. You can begin by asking questions like:
+You **don't** need to upload your CV into an AI tool to do this. You can begin by asking questions like:
 
 - What are the main skills, experiences, and priorities emphasized in this application?
 - Which parts of a creative CV should be foregrounded for this opportunity?
@@ -349,13 +349,6 @@ Demo reels should usually be **1–2 minutes long**.
 - **End clearly**  
   Include your name and contact information, portfolio link, or website at the end if appropriate.
 
-If you work across different areas, you may need more than one reel. For example, you might prepare separate reels for:
-
-- **editing**
-- **cinematography**
-- **animation or motion graphics**
-- **media art / installation / hybrid practice**
-
 Like a portfolio or CV, a demo reel should not be treated as a fixed file. You should revise it depending on the application and the kind of work you want to highlight.
 
 ---
@@ -409,7 +402,7 @@ An artist bio responds to:
 - What background or training is relevant?
 - What key presentations, exhibitions, screenings, awards, or grants help position your work?
 
-It is important to include your **country**, since this helps situate your practice professionally and geographically. In some cases, you may want to include **two countries** if that reflects your background, identity, or artistic context more accurately, for example:
+It is important to include your **country**, since this helps situate your practice professionally, geographically, and culturally. In some cases, you may want to include **two countries** if that reflects your background, identity, or artistic context more accurately, for example:
 
 - **Mexican artist based in Canada**
 - **Artist working between Mexico and Canada**
