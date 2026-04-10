@@ -23,7 +23,7 @@ Welcome to this **Media Art Tools Workshop Series** — a hands-on learning hub 
 
 First-Year Courses:  
 
-+ [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md)
+<!-- + [ART 1TI3 (C01) – Making Art & Understanding Technology & Images](ART1TI3/README.md) -->
 
 + [IARTS 1T03 - Story and Design in Theatre and Film](IARTS1T03/README.md)
 
