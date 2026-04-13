@@ -634,7 +634,7 @@ A strong cover letter or letter of intent should:
   <img 
     src="imgs/140.jpeg" 
     alt="Letter"
-    style="display: block; max-width: 100%; height: auto;"
+    style="display: block; max-width: 80%; height: auto;"
   >
   <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
     Application letter for a sessional instructor prosition written by me (Jessica A. Rodriguez).
