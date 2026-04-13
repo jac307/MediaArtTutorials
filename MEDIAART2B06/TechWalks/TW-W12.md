@@ -230,9 +230,18 @@ Recommended sections include:
   Collectives, organizations, networks, unions, or memberships connected to your practice.
 - **Awards and Funding**
 - **Performances / Exhibitions / Screenings / Selections**  
-  Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer).  
+  Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer). 
 
-<img src="imgs/135.png" style="width: 100%; height: auto;">  
+<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
+  <img 
+    src="imgs/135.png" 
+    alt="Excerpts CV 
+    style="display: block; max-width: 100%; height: auto;"
+  >
+  <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
+    Excerpts of my (Jessica A. Rodriguez) CV.
+  </div>
+</div> 
 
 Depending on the job, call, or submission, you should re-arrange your CV to highlight the experience most relevant to that specific application.
 
