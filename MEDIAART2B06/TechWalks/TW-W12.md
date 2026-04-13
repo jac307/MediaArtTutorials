@@ -275,7 +275,7 @@ Keep a full CV document with all your experience. In a separate file, prepare a 
 
 Remember that **design matters**. Your CV should be clear, readable, and well organized.
 
-### AI Tip 
+### 🤖 AI Tip 
 
 You can use AI to help revise and adapt your document.
 
@@ -643,7 +643,7 @@ A strong cover letter or letter of intent should:
 
 ### Expectations by Context
 
-#### Job applications in the creative industries
+#### 🏭 Job applications in the creative industries
 
 These letters should be **direct and specific**. The main goal is to show:
 
@@ -656,7 +656,7 @@ A useful formula is:
 
 **Position + interest in the organization + relevant experience + relevant skills + closing fit**
 
-#### Post-graduate school in creative fields
+#### 🏫 Post-graduate school in creative fields
 
 These letters should explain not only your background, but also your **creative interests, research direction, and reasons for applying to that specific program**. The main goal is to show:
 
@@ -670,7 +670,7 @@ A useful formula is:
 
 **Program + creative/research interests + relevant background + why this program + future goals**
 
-#### Exhibitions, residencies, grants, festivals, and other arts applications
+#### 🏫 Exhibitions, residencies, grants, festivals, and other arts applications
 
 These letters often functions more like a **statement of intent**. The main goal is to show:
 
@@ -683,7 +683,7 @@ A useful formula is:
 
 **Opportunity + project/practice + why the fit makes sense + relevant background + closing intention**
 
-### AI Tip
+### 🤖 AI Tip
 
 Like CVs and resumes, cover letters may also be reviewed by automated systems before a person reads them, especially in larger organizations and some medium-sized ones. This means that the language you use matters.
 
