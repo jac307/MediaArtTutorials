@@ -494,6 +494,9 @@ Use this version for short programs, screening notes, event pages, festival book
 - **One brief background point**  
   This could be your program, institution, location, or a relevant area of experience.
 
+> Example:  
+> Jessica A. Rodríguez (Mexico–Canada) is a media artist, designer, and researcher working across audiovisual practices and experimental storytelling. Based in Hamilton, Canada, her work explores the intersections of technology, language, and the body through installation and performance, combining video, sound, printmaking, and creative coding. Her practice engages themes of embodiment, migration, and memory from feminist and Latinx perspectives.  
+> She holds a Ph.D. in Communication, New Media, and Cultural Studies from McMaster University, where she currently works as a sessional instructor. Rodríguez is the co-founder of the artistic collective andamio.in.  
 
 #### 250-Word Bio
 
@@ -504,7 +507,13 @@ Use this version for applications, exhibition texts, conference programs, portfo
 - Everything from the **100-word version**
 - A fuller explanation of your **creative practice**
 - Your **training, education, or professional background**
-- A few **representative presentations, screenings, exhibitions, collaborations, awards, or grants**
+- A few **representative presentations, screenings, exhibitions, collaborations, awards, or grants**  
+
+> Example:  
+> Jessica A. Rodríguez (Mexico–Canada) is a media artist, designer, and researcher based in Hamilton, Canada, working across audiovisual practices and experimental storytelling. Her work explores the intersections of technology, language, and the body through installation and performance, combining video, sound, printmaking, and creative coding. Engaging themes of embodiment, migration, and memory, her practice is informed by feminist and Latinx perspectives.  
+> Her work is grounded in research-creation, developing projects that treat computational systems and code as expressive and culturally situated forms. Through interdisciplinary collaboration, she creates projects that move between visual music, live audiovisual performance, and installation-based environments.  
+> Rodríguez holds a Ph.D. in Communication, New Media, and Cultural Studies from McMaster University, where she currently works as a sessional instructor teaching media arts, design, and digital storytelling through practice-based approaches.  
+> She is the co-founder of andamio.in, an artistic collective and platform for collaborative experimentation across text, image, and sound. She is also a member of RGGTRN and GRUPO D’BINIS, collectives that explore algorithmic Latinx music and live audiovisual performance.  
 
 #### 500-Word Bio
 
@@ -517,7 +526,15 @@ Use this version for major applications, residencies, grant files, long-form web
 - A stronger sense of your **professional trajectory**
 - A short list of **representative presentations, exhibitions, screenings, residencies, awards, or grants**
 
-This longer version should still read like a bio, not a full CV. The final section can briefly mention selected achievements without becoming a long inventory.
+This longer version should still read like a bio, not a full CV. The final section can briefly mention selected achievements without becoming a long inventory.  
+
+> Example:  
+> Jessica A. Rodríguez (Mexico–Canada) is a media artist, designer, and researcher based in Hamilton, Canada. Her work focuses on audiovisual practices and experimental storytelling, exploring the intersections of technology, language, and the body through installation and performance. Combining video, sound, printmaking, and creative coding, she develops interdisciplinary projects that engage themes of embodiment, migration, and memory from feminist and Latinx perspectives.  
+> Her practice is grounded in research-creation, where computational systems and code are approached as poetic and culturally situated forms. Through performance and installation, she creates works that blend natural and machine languages, producing audiovisual compositions that move between visual music, live coding, and expanded media environments. Collaboration plays a central role in her work, and she frequently develops projects with artists across disciplines, including composers, writers, and designers.
+> Rodríguez holds a Ph.D. in Communication, New Media, and Cultural Studies from McMaster University, where her doctoral research focused on developing a computer language for live-coded video. She also holds a Master’s degree in Fine Arts and a BA in Visual Arts from Mexico. She currently works as a sessional instructor at McMaster University, teaching courses in media arts, design, and digital storytelling, with an emphasis on practice-based learning, collaboration, and accessible approaches to technology.  
+> She is the co-founder of andamio.in, an artistic collective and platform that supports collaborative experimentation across text, image, and sound. She is also a member of RGGTRN and GRUPO D’BINIS, collectives that explore algorithmic Latinx music and live audiovisual performance through coding and improvisation.  
+> Her work has been presented in performance, festival, and academic contexts, including events such as the International Conference on Live Coding (ICLC), the Electroacoustic Music Studies Network (EMS), and media arts festivals and collaborative performances in Canada, Europe, and Latin America. Selected presentations include live audiovisual performances and research-creation talks that explore live coding as a form of storytelling and audiovisual composition.  
+> Across her artistic and pedagogical work, Rodríguez develops projects that connect creative experimentation with critical approaches to media, emphasizing the role of technology in shaping cultural narratives and lived experience.  
 
 ---
 
