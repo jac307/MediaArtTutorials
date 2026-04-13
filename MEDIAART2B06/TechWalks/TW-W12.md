@@ -238,7 +238,7 @@ Recommended sections include:
     alt="Excerpts CV"
     style="display: block; max-width: 100%; height: auto;"
   >
-  <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
+  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
     Excerpts of my (Jessica A. Rodriguez) CV.
   </div>
 </div>
@@ -305,7 +305,7 @@ Use AI as a tool to help you **read the application more strategically**, not to
     alt="Excerpts portfolio design"
     style="display: block; max-width: 100%; height: auto;"
   >
-  <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
+  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
     Excerpts of my (Jessica A. Rodriguez) Design Portfolio.
   </div>
 </div>
@@ -346,7 +346,7 @@ For **web portfolios**, you can extend this description up to **500 words**, whi
     alt="Excerpts portfolio design"
     style="display: block; max-width: 100%; height: auto;"
   >
-  <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
+  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
     Excerpts of my (Jessica A. Rodriguez) Artistic Portfolio.
   </div>
 </div>
@@ -358,6 +358,19 @@ For **web portfolios**, you can extend this description up to **500 words**, whi
 A **demo reel** is a short video that presents selected excerpts of your work. These are especially common in film, video, animation, motion graphics, editing, cinematography, sound, and media arts applications.
 
 Demo reels should usually be **1–2 minutes long**.
+
+<div style="width: 80%; margin: 0 auto; border: 2px solid black; padding: 8px; background-color: white;">
+  
+  <video controls style="display: block; width: 100%; height: auto;">
+    <source src="imgs/138.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
+    Demo Reel (2016) focused on techniques I (Jessica A. Rodriguez) used for experimental video.
+  </div>
+
+</div>
 
 **Tips:**
 
