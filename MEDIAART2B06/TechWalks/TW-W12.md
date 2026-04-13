@@ -232,17 +232,6 @@ Recommended sections include:
 - **Performances / Exhibitions / Screenings / Selections**  
   Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer). 
 
-<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
-  <img 
-    src="imgs/135.png" 
-    alt="Excerpts CV"
-    style="display: block; max-width: 100%; height: auto;"
-  >
-  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
-    Excerpts of my (Jessica A. Rodriguez) CV.
-  </div>
-</div>
-
 Depending on the job, call, or submission, you should re-arrange your CV to highlight the experience most relevant to that specific application.
 
 - For **art applications**, emphasize public presentations, exhibitions, screenings, performances, and artistic production.
@@ -250,7 +239,18 @@ Depending on the job, call, or submission, you should re-arrange your CV to high
 - For **post-graduate applications**, emphasize education, artistic research, writing, and creative practice.
 - For **creative industries applications**, emphasize education, relevant creative work, technical skills, collaborative projects, professional experience, and art service when applicable.
 
-Your CV should not be treated as a fixed document. It should be adjusted depending on the context, making the most relevant experience easier to find quickly.
+Your CV should not be treated as a fixed document. It should be adjusted depending on the context, making the most relevant experience easier to find quickly.  
+
+<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
+  <img 
+    src="imgs/135.png" 
+    alt="Excerpts CV"
+    style="display: block; max-width: 100%; height: auto;"
+  >
+  <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
+    Excerpts from my (Jessica A. Rodriguez) CV.
+  </div>
+</div>
 
 ### Recommendations
 
@@ -305,8 +305,8 @@ Use AI as a tool to help you **read the application more strategically**, not to
     alt="Excerpts portfolio design"
     style="display: block; max-width: 100%; height: auto;"
   >
-  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
-    Excerpts of my (Jessica A. Rodriguez) Design Portfolio.
+  <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
+    Excerpts from my (Jessica A. Rodriguez) Design Portfolio.
   </div>
 </div>
 
@@ -346,8 +346,8 @@ For **web portfolios**, you can extend this description up to **500 words**, whi
     alt="Excerpts portfolio design"
     style="display: block; max-width: 100%; height: auto;"
   >
-  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
-    Excerpts of my (Jessica A. Rodriguez) Artistic Portfolio.
+  <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
+    Excerpts from my (Jessica A. Rodriguez) Artistic Portfolio.
   </div>
 </div>
 
@@ -358,19 +358,6 @@ For **web portfolios**, you can extend this description up to **500 words**, whi
 A **demo reel** is a short video that presents selected excerpts of your work. These are especially common in film, video, animation, motion graphics, editing, cinematography, sound, and media arts applications.
 
 Demo reels should usually be **1–2 minutes long**.
-
-<div style="width: 80%; margin: 0 auto; border: 2px solid black; padding: 8px; background-color: white;">
-  
-  <video controls style="display: block; width: 100%; height: auto;">
-    <source src="imgs/138.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <div style="margin-top: 6px; font-size: 0.8em; color: lightgray; text-align: centre;">
-    Demo Reel (2016) focused on techniques I (Jessica A. Rodriguez) used for experimental video.
-  </div>
-
-</div>
 
 **Tips:**
 
@@ -395,7 +382,20 @@ Demo reels should usually be **1–2 minutes long**.
 - **End clearly**  
   Include your name and contact information, portfolio link, or website at the end if appropriate.
 
-Like a portfolio or CV, a demo reel should not be treated as a fixed file. You should revise it depending on the application and the kind of work you want to highlight.
+Like a portfolio or CV, a demo reel should not be treated as a fixed file. You should revise it depending on the application and the kind of work you want to highlight.  
+
+<div style="width: 80%; margin: 0 auto; border: 2px solid black; padding: 8px; background-color: white;">
+  
+  <video controls style="display: block; width: 100%; height: auto;">
+    <source src="imgs/138.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
+    Demo Reel (2016) focused on techniques I (Jessica A. Rodriguez) used for experimental video.
+  </div>
+
+</div>
 
 ---
 
@@ -430,6 +430,17 @@ Depending on the application, you may also need to include:
   Important information needed to present or install the work.
 - **Access information**  
   Such as password-protected links or instructions for experiencing the work
+
+<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
+  <img 
+    src="imgs/139.png" 
+    alt="Excerpts portfolio design"
+    style="display: block; max-width: 100%; height: auto;"
+  >
+  <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
+    Excerpts from my own (Jessica A. Rodriguez) work sample document (afrontaciones project).
+  </div>
+</div>
 
 ---
 
