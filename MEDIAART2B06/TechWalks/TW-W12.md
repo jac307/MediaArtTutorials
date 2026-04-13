@@ -230,7 +230,9 @@ Recommended sections include:
   Collectives, organizations, networks, unions, or memberships connected to your practice.
 - **Awards and Funding**
 - **Performances / Exhibitions / Screenings / Selections**  
-  Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer).
+  Include the **year**, **title of the work**, **event or venue name**, **city**, **country**, and your **role** when relevant (for example: artist, filmmaker, performer, collaborator, editor, sound designer).  
+
+<img src="imgs/135.png" style="width: 100%; height: auto;">  
 
 Depending on the job, call, or submission, you should re-arrange your CV to highlight the experience most relevant to that specific application.
 
