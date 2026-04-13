@@ -492,7 +492,17 @@ Use this version for short programs, screening notes, event pages, festival book
 - **Main media, format, or area of practice**
 - **Main themes, concerns, or approaches**
 - **One brief background point**  
-  This could be your program, institution, location, or a relevant area of experience.
+  This could be your program, institution, location, or a relevant area of experience.  
+
+<div style="border: 2px solid black; padding: 12px; color: #555; font-size: 0.9em;">
+
+<strong>Example:</strong><br><br>
+
+Jessica A. Rodríguez (Mexico–Canada) is a media artist, designer, and researcher working across audiovisual practices and experimental storytelling. Based in Hamilton, Canada, her work explores the intersections of technology, language, and the body through installation and performance, combining video, sound, printmaking, and creative coding. Her practice engages themes of embodiment, migration, and memory from feminist and Latinx perspectives.<br><br>
+
+She holds a Ph.D. in Communication, New Media, and Cultural Studies from McMaster University, where she currently works as a sessional instructor. Rodríguez is the co-founder of the artistic collective andamio.in.
+
+</div>  
 
 > Example:  
 > Jessica A. Rodríguez (Mexico–Canada) is a media artist, designer, and researcher working across audiovisual practices and experimental storytelling. Based in Hamilton, Canada, her work explores the intersections of technology, language, and the body through installation and performance, combining video, sound, printmaking, and creative coding. Her practice engages themes of embodiment, migration, and memory from feminist and Latinx perspectives.  
