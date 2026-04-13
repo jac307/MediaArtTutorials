@@ -235,13 +235,13 @@ Recommended sections include:
 <div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
   <img 
     src="imgs/135.png" 
-    alt="Excerpts CV 
+    alt="Excerpts CV"
     style="display: block; max-width: 100%; height: auto;"
   >
   <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
     Excerpts of my (Jessica A. Rodriguez) CV.
   </div>
-</div> 
+</div>
 
 Depending on the job, call, or submission, you should re-arrange your CV to highlight the experience most relevant to that specific application.
 
@@ -299,6 +299,17 @@ Use AI as a tool to help you **read the application more strategically**, not to
 
 <h2 id="portfolio" style="color: navy;">Portfolio Materials</h2>
 
+<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
+  <img 
+    src="imgs/136.png" 
+    alt="Excerpts portfolio design"
+    style="display: block; max-width: 100%; height: auto;"
+  >
+  <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
+    Excerpts of my (Jessica A. Rodriguez) Design Portfolio.
+  </div>
+</div>
+
 ### Portfolio
 
 A portfolio is a selection of your creative work presented in a clear, organized, and visually coherent format. You may prepare your portfolio as a **web portfolio** and/or as a **PDF portfolio** ready to send. It is a good idea to have both.  
@@ -328,6 +339,17 @@ A good standard length is **150–250 words**, since this is common in applicati
 - Focus on the project’s concept, form, process, and context without becoming too vague or overly promotional.  
 
 For **web portfolios**, you can extend this description up to **500 words**, while still making sure the main information is clear within the first **150–250 words**.  
+
+<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
+  <img 
+    src="imgs/137.png" 
+    alt="Excerpts portfolio design"
+    style="display: block; max-width: 100%; height: auto;"
+  >
+  <div style="margin-top: 6px; font-size: 0.9em; color: gray;">
+    Excerpts of my (Jessica A. Rodriguez) Artistic Portfolio.
+  </div>
+</div>
 
 ---
 
