@@ -630,6 +630,17 @@ A strong cover letter or letter of intent should:
 - show that you understand the **context of the position, program, or opportunity**
 - make a clear case for **why your experience, work, or goals fit**
 
+<div style="display: inline-block; border: 2px solid black; padding: 8px; background-color: white;">
+  <img 
+    src="imgs/140.jpeg" 
+    alt="Letter"
+    style="display: block; max-width: 100%; height: auto;"
+  >
+  <div style="margin-top: 6px; font-size: 0.8em; color: gray; text-align: centre;">
+    Application letter for a sessional instructor prosition written by me (Jessica A. Rodriguez).
+  </div>
+</div>. 
+
 ### Expectations by Context
 
 #### Job applications in the creative industries
