@@ -16,9 +16,9 @@ Through weekly guided workshops and production exercises, students **learn the f
 
 ## Equipment
 
-+ [DSLR Cameras + Lenses](Cameras.md)  
+<!-- + [DSLR Cameras + Lenses](Cameras.md)  
 + [Lighting Equipment](Lighting.md)  
-+ [Audio Equipment](Audio.md)  
++ [Audio Equipment](Audio.md)   -->
 
 **Video and Audio equipment**. You can book equipment here: [https://hmcservicecentre.humanities.mcmaster.ca/](https://hmcservicecentre.humanities.mcmaster.ca/){:target="_blank"}
   > **Important**: to access this link, you will need to log in using your McMaster user information using the University’s internet (if not, you will require the McMaster VPN).
@@ -31,7 +31,7 @@ Through weekly guided workshops and production exercises, students **learn the f
 
 ### Student-Led Critical Discussions
 
-[Full Instructions](Presentations/Presentations.md) - Groups of Three Students
+<!-- [Full Instructions](Presentations/Presentations.md) - Groups of Three Students -->
 
 In teams, lead one class discussion on the weekly readings and topics to collaboratively spark critical thinking and dialogue in the classroom.
 
@@ -43,7 +43,7 @@ Series of hands-on production exercises designed to **build core skills** in cam
 
 #### Index  
 
-+ [Week 1](WeekIns/WI-W1.md) — Photo Film (Individual)
+<!-- + [Week 1](WeekIns/WI-W1.md) — Photo Film (Individual)
   + [W1 - Tech Walkthrough](TechWalks/TW-W1.md) - Intro to DSLR Photography
   + [W1 - Tutorials](Tutorials/index.html?file=T-W1.json) - Photoshop & Premiere Pro Fundamentals
 + [Week 2](WeekIns/WI-W2.md) — Chiaroscuro Interview (Pairs)
@@ -57,7 +57,7 @@ Series of hands-on production exercises designed to **build core skills** in cam
   + [W4 - Tutorials](Tutorials/index.html?file=T-W4.json) - Color Correction Over Time
 + [Week 5](WeekIns/WI-W5.md) — Foley Sound Creation (Groups of 3)
   + [W5 - Tech Walkthrough](TechWalks/TW-W5.md) - Foley Sound Creation · Multi-Device Recording Setup
-  + [W5 - Tutorials](Tutorials/index.html?file=T-W5.json) - Live Foley: Multi-Camera Video & Live Sound Workflow  
+  + [W5 - Tutorials](Tutorials/index.html?file=T-W5.json) - Live Foley: Multi-Camera Video & Live Sound Workflow   -->
 
 ---
 
@@ -69,7 +69,7 @@ This project synthesizes the technical and creative skills developed in Module I
 
 #### Index
 
-+ [Week 7](WeekIns/WI-W7.md) — Pre-Production Package
+<!-- + [Week 7](WeekIns/WI-W7.md) — Pre-Production Package
   + [W7 - Pre-Production Framework](TechWalks/TW-W7.md) - From Concept to Production Plan
   + [W7 - Tutorials](Tutorials/index.html?file=T-W7.json) - Pre-Production & Cinematic Foundations
 + [Week 8](WeekIns/WI-W8.md) — Production Week 
@@ -82,13 +82,13 @@ This project synthesizes the technical and creative skills developed in Module I
   + [W10 - Tutorials](Tutorials/index.html?file=T-W10.json) - Cleaning and Preparing Audio in Adobe Audition
 + [Week 12](WeekIns/WI-W12.md) — Final Cut 
   + [W12 - Tutorials](Tutorials/index.html?file=T-W12.json) - Final Sound & Colour Refinement
-  + [W12 — Final Cut Framework](TechWalks/TW-W12.md) - Final Package & Portfolio Preparation
+  + [W12 — Final Cut Framework](TechWalks/TW-W12.md) - Final Package & Portfolio Preparation -->
 
 ---
 
 ### **Mini-Module - Motion Graphics & Compositing (individual)**  
 
-+ [Week 11](WeekIns/WI-W11.md) — Motion Graphics & Compositing (individual)
+<!-- + [Week 11](WeekIns/WI-W11.md) — Motion Graphics & Compositing (individual) -->
 
 This one-week module introduces **core techniques in Adobe After Effects**, allowing students to explore motion graphics, compositing, and animation.  
 

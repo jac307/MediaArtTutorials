@@ -8,13 +8,13 @@ This course explores **audio-visual self and collective storytelling**, emphasiz
 
 # Projects
 
-## [Project 1 - Individual Project: Autobiographical Documentary](p1AutoDoc.md)
+<!-- ## [Project 1 - Individual Project: Autobiographical Documentary](p1AutoDoc.md)
 
 Students will create an **autobiographical documentary** engaging with personal archival material, analogue media technologies (Voice Recorders, Digital Projectors, CRT TVs, and Light Projectors), auto-ethnography research, and documentary production.
 
 ## [Project 2 - Group Project: Performative Storytelling](p2PerfStory.md)
 
-Students will create and present a **collective live storytelling performance**, engaging with video footage, audio mixing, live reading, and VJ/DJ practices. 
+Students will create and present a **collective live storytelling performance**, engaging with video footage, audio mixing, live reading, and VJ/DJ practices.  -->
 
 ---
 
