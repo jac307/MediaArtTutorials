@@ -31,7 +31,7 @@ Through weekly guided workshops and production exercises, students **learn the f
 
 ### Student-Led Critical Discussions
 
-<!-- [Full Instructions](Presentations/Presentations.md) - Groups of Three Students -->
+[Full Instructions](Presentations/Presentations.md) - Groups of Three Students
 
 In teams, lead one class discussion on the weekly readings and topics to collaboratively spark critical thinking and dialogue in the classroom.
 
