@@ -18,7 +18,7 @@ Software (freeware):
 
 #### Index  
 
-<!-- + [Week 1](WT-W1.md) — Floor plan + Blocking map
++ [Week 1](WT-W1.md) — Floor plan + Blocking map
 + [Week 2](WT-W2.md) — Camera, Framing & Cinematic Space
 + [Week 3](WT-W3.md) — POV as Embodied Witness (Multi-Camera Scene)
   + [W3: Technical Walkthrough Activity](TW-W3.md) — Technical Scene Analysis (POV + Space)
@@ -31,7 +31,7 @@ Software (freeware):
 + [Week 9](WT-W9.md) — Multi-Channel Installation Design — Part 1 (Concept + Sound)
   + [W9: Technical Walkthrough Activity](TW-W9.md) — Re-Designing Sound and Light for the LFS Space
 + [Week 10](WT-W10.md) — Multi-Channel Installation Design — Part 2 (Spatial Implementation)  
-+ [Week 11](WT-W11.md) — Projection, Video Surfaces & Hybrid Media -->
++ [Week 11](WT-W11.md) — Projection, Video Surfaces & Hybrid Media 
 
 
 Selection of **6 revised weekly submissions** assembled into a final portfolio showcasing the skills developed throughout the course.  
