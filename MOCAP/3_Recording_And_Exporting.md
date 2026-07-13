@@ -1,5 +1,4 @@
-[MOCAP Tutorials](README.md) | [Home](../../README.md)
-
+[MOCAP Tutorials](README.md)
 -------------------------------------------------------------------------------
 
 # 🎥 Intro to Record & Export Motion Data in Axis Studio
