@@ -1,0 +1,11 @@
+{% assign site_title = site.title | default: "Media Art Tutorials" %}
+
+<header class="site-header" data-speech-ignore>
+  <div class="site-header__inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      {{ site_title }}
+    </a>
+
+    {% include text-to-speech.html %}
+  </div>
+</header>

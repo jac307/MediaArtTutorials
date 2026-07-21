@@ -1,0 +1,30 @@
+{% assign clean_url = page.url | remove: "index.html" %}
+{% assign path_parts = clean_url | split: "/" %}
+{% assign current_path = "" %}
+
+<nav class="breadcrumb" aria-label="Breadcrumb" data-speech-ignore>
+  <a href="{{ '/' | relative_url }}">Home</a>
+
+  {% for part in path_parts %}
+    {% if part != "" %}
+      {% assign current_path = current_path | append: "/" | append: part %}
+      {% assign part_label = part
+        | remove: ".html"
+        | replace: "-", " "
+        | replace: "_", " "
+      %}
+
+      <span class="breadcrumb__separator" aria-hidden="true">›</span>
+
+      {% if forloop.last %}
+        <span class="breadcrumb__current" aria-current="page">
+          {{ page.breadcrumb_title | default: page.title | default: part_label }}
+        </span>
+      {% else %}
+        <a href="{{ current_path | append: '/' | relative_url }}">
+          {{ part_label }}
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</nav>

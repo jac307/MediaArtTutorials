@@ -1,0 +1,45 @@
+<div class="speech-controls" aria-label="Text-to-speech controls">
+  <button
+    id="speech-play"
+    class="speech-button"
+    type="button"
+    aria-controls="page-content"
+  >
+    <svg
+      class="speech-button__icon"
+      viewBox="0 0 24 24"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <path
+        d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-9v2.06A7.01 7.01 0 0 1 19 12a7.01 7.01 0 0 1-5 6.94V21a9 9 0 0 0 0-18z"
+      />
+    </svg>
+
+    <span>Read page</span>
+  </button>
+
+  <button
+    id="speech-stop"
+    class="speech-button speech-button--secondary"
+    type="button"
+    disabled
+  >
+    <svg
+      class="speech-button__icon"
+      viewBox="0 0 24 24"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <path d="M6 6h12v12H6z" />
+    </svg>
+
+    <span>Stop</span>
+  </button>
+
+  <span
+    id="speech-status"
+    class="screen-reader-only"
+    aria-live="polite"
+  ></span>
+</div>
