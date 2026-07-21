@@ -60,16 +60,156 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
 ## Camera body
 
-![Main external camera controls](imgs/04.jpg)
+<div class="interactive-image" data-interactive-image>
 
-**Shutter button**  
-Press halfway to focus. Press fully to take the photograph.
+  <div class="interactive-image__visual">
 
-**Mode dial**  
-Selects the shooting mode. Use `Av` for this activity.
+    <img
+      src="imgs/camera-top.webp"
+      alt="Top view of a Canon DSLR camera showing the main shooting controls"
+    >
 
-**Power switch**  
-Turns the camera on and off. Turn the camera off before removing the lens or SD card.
+    <button
+      class="image-hotspot is-active"
+      style="--hotspot-x: 84%; --hotspot-y: 29%;"
+      type="button"
+      aria-label="Shutter button"
+      aria-pressed="true"
+      data-target="camera-shutter"
+    >
+      1
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 88%; --hotspot-y: 41%;"
+      type="button"
+      aria-label="Main control dial"
+      aria-pressed="false"
+      data-target="camera-control-dial"
+    >
+      2
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 75%; --hotspot-y: 49%;"
+      type="button"
+      aria-label="ISO button"
+      aria-pressed="false"
+      data-target="camera-iso"
+    >
+      3
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 74%; --hotspot-y: 68%;"
+      type="button"
+      aria-label="Mode dial"
+      aria-pressed="false"
+      data-target="camera-mode"
+    >
+      4
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 89%; --hotspot-y: 67%;"
+      type="button"
+      aria-label="Power switch"
+      aria-pressed="false"
+      data-target="camera-power"
+    >
+      5
+    </button>
+
+  </div>
+
+  <div class="interactive-image__information">
+
+    <section
+      id="camera-shutter"
+      class="image-information-panel"
+      tabindex="-1"
+    >
+      <p class="image-information-panel__number">Control 1</p>
+
+      <h3>Shutter button</h3>
+
+      <p>
+        Press halfway to activate autofocus. Press fully to take the
+        photograph.
+      </p>
+    </section>
+
+    <section
+      id="camera-control-dial"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 2</p>
+
+      <h3>Main control dial</h3>
+
+      <p>
+        Turn this dial to change the aperture while the camera is set to
+        Aperture Priority mode.
+      </p>
+    </section>
+
+    <section
+      id="camera-iso"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 3</p>
+
+      <h3>ISO button</h3>
+
+      <p>
+        Press this button to open the ISO settings. Begin with ISO 100 or
+        200 for the Photo Film activity.
+      </p>
+    </section>
+
+    <section
+      id="camera-mode"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 4</p>
+
+      <h3>Mode dial</h3>
+
+      <p>
+        Selects the camera’s shooting mode. Turn the dial to
+        <code>Av</code> for this activity.
+      </p>
+    </section>
+
+    <section
+      id="camera-power"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 5</p>
+
+      <h3>Power switch</h3>
+
+      <p>
+        Turns the camera on and off. Turn the camera off before removing
+        the SD card or changing the lens.
+      </p>
+    </section>
+
+  </div>
+
+</div>
 
 ## Lens controls
 
