@@ -906,7 +906,7 @@ Before using the back controls, turn on the camera and set the shooting mode to 
   </label>
 </fieldset>
 
-![Camera set to Aperture Priority mode](imgs/aperture-mode.jpg)
+![Camera set to Aperture Priority mode](imgs/aperture-mode.png)
 
 In **Aperture Priority mode**, you choose the aperture and the camera automatically selects the shutter speed.
 
