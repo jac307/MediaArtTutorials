@@ -620,17 +620,6 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
       2
     </button>
 
-    <button
-      class="image-hotspot"
-      style="--hotspot-x: 84%; --hotspot-y: 35%;"
-      type="button"
-      aria-label="Lens release button"
-      aria-pressed="false"
-      data-target="bottom-lens-release"
-    >
-      3
-    </button>
-
   </div>
 
   <div class="interactive-image__information">
@@ -672,27 +661,6 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
       <p>
         Tighten the plate until the camera is secure, but do not
         overtighten it.
-      </p>
-    </section>
-
-    <section
-      id="bottom-lens-release"
-      class="image-information-panel"
-      tabindex="-1"
-      hidden
-    >
-      <p class="image-information-panel__number">Control 3</p>
-
-      <h3>Lens release button</h3>
-
-      <p>
-        Press and hold this button while turning the lens to remove it
-        from the camera body.
-      </p>
-
-      <p>
-        Turn the camera off before changing lenses. Hold the lens securely
-        and avoid touching the glass or the inside of the camera.
       </p>
     </section>
 
@@ -782,20 +750,10 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
         Open this cover to access the camera’s digital output connections.
       </p>
 
-      <ul>
-        <li>
-          <strong>HDMI:</strong> Connects the camera to a monitor,
-          television, or compatible recording device.
-        </li>
-        <li>
-          <strong>A/V OUT / Digital:</strong> Connects the camera to
-          compatible devices for file transfer or audiovisual output.
-        </li>
-      </ul>
-
       <p>
         Keep the cover closed when the ports are not in use.
       </p>
+
     </section>
 
     <section
@@ -811,11 +769,6 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
       <p>
         Open this cover to connect an external microphone with a compatible
         3.5 mm audio cable.
-      </p>
-
-      <p>
-        An external microphone can provide clearer and more controlled
-        sound than the camera’s built-in microphone.
       </p>
     </section>
 
