@@ -884,7 +884,7 @@ SECTION 3
 
 ## Step 1: Turn on the camera and select Aperture Priority
 
-Before using the back controls, turn on the camera and set the shooting mode to **Aperture Priority**.
+Before using the back controls, turn on the camera and set the shooting mode to **Aperture Priority (Av)**.
 
 <fieldset class="equipment-checklist">
   <legend>Camera mode checklist</legend>
@@ -931,7 +931,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot is-active"
-      style="--hotspot-x: 80%; --hotspot-y: 20%;"
+      style="--hotspot-x: 69%; --hotspot-y: 7%;"
       type="button"
       aria-label="Zoom out and thumbnail button"
       aria-pressed="true"
@@ -942,7 +942,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 92%; --hotspot-y: 20%;"
+      style="--hotspot-x: 82%; --hotspot-y: 7%;"
       type="button"
       aria-label="Zoom in button"
       aria-pressed="false"
@@ -975,7 +975,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 56%; --hotspot-y: 67%;"
+      style="--hotspot-x: 54%; --hotspot-y: 63%;"
       type="button"
       aria-label="White balance button"
       aria-pressed="false"
@@ -986,7 +986,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 57%; --hotspot-y: 78%;"
+      style="--hotspot-x: 55%; --hotspot-y: 75%;"
       type="button"
       aria-label="SET button and navigation controls"
       aria-pressed="false"
@@ -997,7 +997,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 72%; --hotspot-y: 77%;"
+      style="--hotspot-x: 65%; --hotspot-y: 77%;"
       type="button"
       aria-label="Autofocus button"
       aria-pressed="false"
@@ -1008,7 +1008,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 42%; --hotspot-y: 87%;"
+      style="--hotspot-x: 45%; --hotspot-y: 92%;"
       type="button"
       aria-label="Playback button"
       aria-pressed="false"
@@ -1019,7 +1019,7 @@ Use the interactive image below to review the buttons you will use most often.
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 75%; --hotspot-y: 89%;"
+      style="--hotspot-x: 60%; --hotspot-y: 95%;"
       type="button"
       aria-label="Erase button"
       aria-pressed="false"
