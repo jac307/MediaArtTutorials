@@ -576,20 +576,10 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
       <p>
         These buttons and the central <code>SET</code> button are used to
-        adjust common shooting settings.
-      </p>
-
-      <ul>
-        <li><strong>Av +/-</strong> helps adjust exposure compensation.</li>
-        <li><strong>WB</strong> opens white balance settings.</li>
-        <li><strong>AF</strong> opens autofocus options.</li>
-        <li><strong>SET</strong> confirms a selection.</li>
-        <li><strong>Arrow buttons</strong> move through menus and images.</li>
-      </ul>
-
-      <p>
-        For Week 1, you will mainly use these controls to navigate menus,
-        confirm settings, and review photographs.
+        adjust common shooting settings: <strong>Av +/-</strong> (exposure compensation), 
+        <strong>WB</strong> (white balance), <strong>AF</strong> (autofocus options),
+        <strong>SET</strong> (confirms selection), <strong>Arrow buttons</strong> 
+        (move through options).
       </p>
     </section>
 
