@@ -1227,7 +1227,7 @@ The <code>Q</code> button provides access to the settings used most often.
 1. Press <code>Q</code>.
 2. Confirm that the shooting mode is already set to <code>Av</code>.
 3. Set Image Quality to **RAW + JPEG**.
-4. Set White Balance to **AWB**.
+4. Set White Balance to **Daylight** (sun icon)
 5. Confirm that flash and exposure bracketing are off.
 
 <div class="video-wrapper">
