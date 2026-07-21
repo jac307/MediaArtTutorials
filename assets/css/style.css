@@ -715,12 +715,11 @@ main:focus-visible {
 }
 
 /* --------------------------------------------------
-   Equipment checklist
+   Reusable checklist component
 -------------------------------------------------- */
 
 .equipment-checklist {
-  display: grid;
-  gap: 10px;
+  display: block;
   margin: 1.25rem 0;
   padding: 18px;
   border: 1px solid var(--border-colour);
@@ -735,16 +734,21 @@ main:focus-visible {
   font-weight: 700;
 }
 
-.checklist-item {
+.equipment-checklist > .checklist-item {
   display: grid;
-  grid-template-columns: 24px 1fr;
+  grid-template-columns: 24px minmax(0, 1fr);
   gap: 10px;
   align-items: start;
   padding: 12px;
   border: 1px solid transparent;
   border-radius: var(--small-radius);
-  background: #ffffff;
+  background: var(--content-background);
   cursor: pointer;
+}
+
+/* Space between checklist items */
+.equipment-checklist > .checklist-item + .checklist-item {
+  margin-top: 10px;
 }
 
 .checklist-item:hover {
@@ -760,6 +764,7 @@ main:focus-visible {
 }
 
 .checklist-item span {
+  display: block;
   line-height: 1.5;
 }
 

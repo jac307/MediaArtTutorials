@@ -582,10 +582,7 @@ SECTION 1
 
       <p>
         These buttons and the central <code>SET</code> button are used to
-        adjust common shooting settings: <strong>Av +/-</strong> (exposure compensation), 
-        <strong>WB</strong> (white balance), <strong>AF</strong> (autofocus options),
-        <strong>SET</strong> (confirms selection), <strong>Arrow buttons</strong> 
-        (move through options).
+        adjust common shooting settings.
       </p>
     </section>
 
@@ -815,7 +812,7 @@ Check each item as you prepare the equipment.
       Keep the power switch set to <code>OFF</code> while preparing the equipment.
     </span>
   </label>
-
+  
   <label class="checklist-item">
     <input type="checkbox">
     <span>
@@ -923,6 +920,12 @@ The `Q` button provides access to the settings used most often.
   </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
     <span class="section-title">4. Understand exposure</span>
@@ -951,6 +954,12 @@ For Week 1, use **Aperture Priority (`Av`)**. You select the aperture and ISO, a
 
   </div>
 </details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
@@ -994,6 +1003,12 @@ A smaller f-number means a wider opening. A larger f-number means a narrower ope
   </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
     <span class="section-title">6. Set the ISO</span>
@@ -1035,6 +1050,12 @@ ISO affects image brightness and visible digital noise.
   </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
     <span class="section-title">7. Focus and stabilize the camera</span>
@@ -1073,6 +1094,12 @@ Use `MF` when autofocus does not select the intended subject or when you need pr
   </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 8
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
     <span class="section-title">8. Compose and take the photograph</span>
@@ -1098,6 +1125,12 @@ Remember that the final sequence will be black and white. Pay attention to shape
 
   </div>
 </details>
+
+<!-- 
+/////////////////
+SECTION 9
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
@@ -1125,6 +1158,12 @@ After taking a photograph:
 
   </div>
 </details>
+
+<!-- 
+/////////////////
+SECTION 10
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
@@ -1157,6 +1196,12 @@ Keep the original files unchanged. Create a separate folder for edited photograp
 
   </div>
 </details>
+
+<!-- 
+/////////////////
+SECTION 11
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
