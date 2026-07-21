@@ -713,3 +713,72 @@ main:focus-visible {
     margin-top: 1rem;
   }
 }
+
+/* --------------------------------------------------
+   Equipment checklist
+-------------------------------------------------- */
+
+.equipment-checklist {
+  display: grid;
+  gap: 10px;
+  margin: 1.25rem 0;
+  padding: 18px;
+  border: 1px solid var(--border-colour);
+  border-radius: var(--medium-radius);
+  background: var(--soft-background);
+}
+
+.equipment-checklist legend {
+  padding: 0 8px;
+  color: var(--text-colour);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.checklist-item {
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  gap: 10px;
+  align-items: start;
+  padding: 12px;
+  border: 1px solid transparent;
+  border-radius: var(--small-radius);
+  background: #ffffff;
+  cursor: pointer;
+}
+
+.checklist-item:hover {
+  border-color: var(--border-colour);
+}
+
+.checklist-item input {
+  width: 19px;
+  height: 19px;
+  margin: 3px 0 0;
+  accent-color: var(--accent-colour);
+  cursor: pointer;
+}
+
+.checklist-item span {
+  line-height: 1.5;
+}
+
+.checklist-item strong {
+  display: block;
+  margin-bottom: 2px;
+}
+
+.checklist-item:has(input:checked) {
+  border-color: var(--accent-colour);
+  background: rgb(122 21 21 / 6%);
+}
+
+.checklist-item:has(input:checked) span {
+  color: var(--muted-text);
+}
+
+@media print {
+  .checklist-item {
+    break-inside: avoid;
+  }
+}

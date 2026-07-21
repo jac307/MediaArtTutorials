@@ -48,6 +48,12 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 </details> -->
 
 
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
     <span class="section-title">1. Locate the main camera controls</span>
@@ -779,29 +785,75 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
   </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Prepare the camera</span>
+    <span class="section-title">2. Prepare the camera</span>
     <span class="section-description">
-      Check the battery, insert the SD card, and confirm that the camera is ready to use.
+      Check the battery, SD card, lens, and lens cap before turning on the camera.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-Before turning on the camera:
+## Before turning on the camera
 
-1. Check that the battery is charged.
-2. Insert an SD card.
-3. Confirm that the lens is securely attached.
-4. Remove the lens cap.
-5. Turn on the camera.
+Check each item as you prepare the equipment.
 
-![Memory card slot and battery compartment](imgs/06.jpg)
+<fieldset class="equipment-checklist">
+  <legend>Camera preparation checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The camera is turned off.</strong>
+      Keep the power switch set to <code>OFF</code> while preparing the equipment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The battery is charged and inserted.</strong>
+      A low battery may prevent the camera from turning on or saving files.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>An SD card is inserted.</strong>
+      Confirm that the card is facing the correct direction and clicks into place.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The lens is securely attached.</strong>
+      The lens should be locked into the camera body.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The lens cap is removed.</strong>
+      Store the cap somewhere safe while photographing.
+    </span>
+  </label>
+</fieldset>
+
+> After completing the checklist, turn on the camera and proceed to format the SD card. 
 
 ### Format the SD card
 
-Format the card in the camera before beginning a new shoot.
+Format the SD card in the camera before beginning a new shoot.
 
 > **Warning:** Formatting deletes every file on the card. Confirm that you have copied any files you need before continuing.
 
@@ -814,8 +866,14 @@ Format the card in the camera before beginning a new shoot.
   </iframe>
 </div>
 
-  </div>
+</div>
 </details>
+
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
