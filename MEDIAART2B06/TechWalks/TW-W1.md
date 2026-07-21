@@ -218,7 +218,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
   <div class="interactive-image__visual">
 
     <img
-      src="imgs/05.jpg"
+      src="imgs/camera-side.jpg"
       alt="Canon DSLR camera with a zoom lens showing the focus ring, zoom ring, autofocus switch, and image stabilization switch"
     >
 
