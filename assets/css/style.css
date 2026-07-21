@@ -574,3 +574,137 @@ main:focus-visible {
     display: none;
   }
 }
+
+/* --------------------------------------------------
+   Interactive images
+-------------------------------------------------- */
+
+.interactive-image {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(260px, 0.8fr);
+  gap: 24px;
+  align-items: start;
+  margin: 1.5rem 0;
+}
+
+.interactive-image__visual {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--border-colour);
+  border-radius: var(--medium-radius);
+  background: #ffffff;
+}
+
+.interactive-image__visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+}
+
+.image-hotspot {
+  position: absolute;
+  top: var(--hotspot-y);
+  left: var(--hotspot-x);
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  background: var(--accent-colour);
+  box-shadow: 0 2px 8px rgb(0 0 0 / 35%);
+  color: #ffffff;
+  cursor: pointer;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 750;
+  line-height: 1;
+  transform: translate(-50%, -50%);
+  transition:
+    background-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.image-hotspot:hover {
+  background: var(--accent-hover);
+  transform: translate(-50%, -50%) scale(1.08);
+}
+
+.image-hotspot.is-active {
+  background: var(--text-colour);
+  box-shadow:
+    0 0 0 4px rgb(255 255 255 / 90%),
+    0 0 0 7px var(--accent-colour);
+}
+
+.interactive-image__information {
+  min-height: 220px;
+  padding: 22px;
+  border: 1px solid var(--border-colour);
+  border-radius: var(--medium-radius);
+  background: var(--soft-background);
+}
+
+.image-information-panel > :first-child {
+  margin-top: 0;
+}
+
+.image-information-panel > :last-child {
+  margin-bottom: 0;
+}
+
+.image-information-panel h3 {
+  margin: 0 0 10px;
+  color: var(--accent-colour);
+  font-size: 1.3rem;
+}
+
+.image-information-panel__number {
+  margin: 0 0 5px;
+  color: var(--muted-text);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 760px) {
+  .interactive-image {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .interactive-image__information {
+    min-height: 0;
+  }
+
+  .image-hotspot {
+    width: 34px;
+    height: 34px;
+    border-width: 2px;
+    font-size: 0.9rem;
+  }
+}
+
+@media print {
+  .interactive-image {
+    display: block;
+  }
+
+  .image-hotspot {
+    display: none;
+  }
+
+  .interactive-image__information {
+    margin-top: 1rem;
+  }
+
+  .image-information-panel[hidden] {
+    display: block;
+    margin-top: 1rem;
+  }
+}
