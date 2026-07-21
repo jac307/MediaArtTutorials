@@ -906,7 +906,7 @@ Before using the back controls, turn on the camera and set the shooting mode to 
   </label>
 </fieldset>
 
-![Camera set to Aperture Priority mode](imgs/aperture-mode.png)
+![Camera set to Aperture Priority mode](imgs/aperture-mode.jpg)
 
 In **Aperture Priority mode**, you choose the aperture and the camera automatically selects the shutter speed.
 
@@ -1273,7 +1273,7 @@ Exposure is controlled by three settings:
 - **Shutter speed:** How long the sensor receives light.
 - **ISO:** How strongly the camera responds to light.
 
-For Week 1, use **Aperture Priority (`Av`)**. You select the aperture and ISO, and the camera selects the shutter speed.
+In **Aperture Priority (`Av`)**, you select the aperture and ISO, and the camera selects the shutter speed.
 
   </div>
 </details>
