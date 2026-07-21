@@ -22,7 +22,7 @@ The course uses Adobe Photoshop, Premiere Pro, After Effects, Audition, and REAP
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 ## Computer lab
 
@@ -42,15 +42,13 @@ To access the booking system:
 2. Connect through the McMaster campus network.
 3. When working off campus, connect to the McMaster VPN before opening the booking system.
 
-<!--
-Additional equipment guides:
+### Additional equipment guides
 
 - [DSLR cameras and lenses](Cameras.md)
 - [Lighting equipment](Lighting.md)
 - [Audio equipment](Audio.md)
--->
 
-  </div>
+</div>
 </details>
 
 <details class="tutorial-section">
@@ -61,7 +59,7 @@ Additional equipment guides:
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 ## Student-led critical discussions
 
@@ -71,7 +69,7 @@ Each group will lead one class discussion based on the assigned readings and wee
 
 [Read the full instructions](Presentations/Presentations.md)
 
-  </div>
+</div>
 </details>
 
 <details class="tutorial-section">
@@ -82,7 +80,7 @@ Each group will lead one class discussion based on the assigned readings and wee
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 ## Module I — Production Exercises
 
@@ -138,7 +136,7 @@ Create and record sound effects while coordinating live sound and multicamera vi
 - [Technical walkthrough: Multidevice Foley recording setup](TechWalks/TW-W5.md)
 - [Tutorials: Multicamera video and live sound workflow](Tutorials/index.html?file=T-W5.json)
 
-  </div>
+</div>
 </details>
 
 <details class="tutorial-section">
@@ -149,7 +147,7 @@ Create and record sound effects while coordinating live sound and multicamera vi
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 ## Module II — Short Film Project
 
@@ -198,7 +196,7 @@ Complete the final edit, sound mix, colour correction, and delivery package.
 - [Tutorials: Final sound and colour refinement](Tutorials/index.html?file=T-W12.json)
 - [Framework: Final package and portfolio preparation](TechWalks/TW-W12.md)
 
-  </div>
+</div>
 </details>
 
 <details class="tutorial-section">
@@ -209,7 +207,7 @@ Complete the final edit, sound mix, colour correction, and delivery package.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 ## Mini-Module — Motion Graphics and Compositing
 
@@ -219,7 +217,7 @@ This one-week module introduces basic motion graphics, animation, and compositin
 
 - [Week 11 activity: Motion Graphics and Compositing](WeekIns/WI-W11.md)
 
-  </div>
+</div>
 </details>
 
 ---
