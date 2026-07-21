@@ -435,7 +435,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 82%; --hotspot-y: 58%;"
+      style="--hotspot-x: 82%; --hotspot-y: 54%;"
       type="button"
       aria-label="Main camera controls"
       aria-pressed="false"
@@ -580,6 +580,242 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
         <strong>WB</strong> (white balance), <strong>AF</strong> (autofocus options),
         <strong>SET</strong> (confirms selection), <strong>Arrow buttons</strong> 
         (move through options).
+      </p>
+    </section>
+
+  </div>
+
+</div>
+
+## Bottom and lens-mount controls
+
+<div class="interactive-image" data-interactive-image>
+
+  <div class="interactive-image__visual">
+
+    <img
+      src="imgs/camera-bottom.jpg"
+      alt="Bottom view of a Canon DSLR camera showing the battery compartment, tripod mount, and lens release button"
+    >
+
+    <button
+      class="image-hotspot is-active"
+      style="--hotspot-x: 21%; --hotspot-y: 69%;"
+      type="button"
+      aria-label="Battery compartment"
+      aria-pressed="true"
+      data-target="bottom-battery"
+    >
+      1
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 59%; --hotspot-y: 76%;"
+      type="button"
+      aria-label="Tripod mount"
+      aria-pressed="false"
+      data-target="bottom-tripod"
+    >
+      2
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 84%; --hotspot-y: 42%;"
+      type="button"
+      aria-label="Lens release button"
+      aria-pressed="false"
+      data-target="bottom-lens-release"
+    >
+      3
+    </button>
+
+  </div>
+
+  <div class="interactive-image__information">
+
+    <section
+      id="bottom-battery"
+      class="image-information-panel"
+      tabindex="-1"
+    >
+      <p class="image-information-panel__number">Control 1</p>
+
+      <h3>Battery compartment</h3>
+
+      <p>
+        Open this compartment to insert or remove the camera battery.
+      </p>
+
+      <p>
+        Turn the camera off before removing the battery. Check the battery
+        level before beginning a shoot.
+      </p>
+    </section>
+
+    <section
+      id="bottom-tripod"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 2</p>
+
+      <h3>Tripod mount</h3>
+
+      <p>
+        The threaded mount connects the camera to a tripod or tripod
+        plate.
+      </p>
+
+      <p>
+        Tighten the plate until the camera is secure, but do not
+        overtighten it.
+      </p>
+    </section>
+
+    <section
+      id="bottom-lens-release"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 3</p>
+
+      <h3>Lens release button</h3>
+
+      <p>
+        Press and hold this button while turning the lens to remove it
+        from the camera body.
+      </p>
+
+      <p>
+        Turn the camera off before changing lenses. Hold the lens securely
+        and avoid touching the glass or the inside of the camera.
+      </p>
+    </section>
+
+  </div>
+
+</div>
+
+## Storage and cable connections
+
+<div class="interactive-image" data-interactive-image>
+
+  <div class="interactive-image__visual">
+
+    <img
+      src="imgs/camera-sides.jpg"
+      alt="Side views of a Canon DSLR camera showing the SD card slot, A/V and HDMI ports, and microphone port"
+    >
+
+    <button
+      class="image-hotspot is-active"
+      style="--hotspot-x: 68%; --hotspot-y: 70%;"
+      type="button"
+      aria-label="SD card slot"
+      aria-pressed="true"
+      data-target="side-sd-card"
+    >
+      1
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 35%; --hotspot-y: 69%;"
+      type="button"
+      aria-label="A/V output and HDMI ports"
+      aria-pressed="false"
+      data-target="side-video-ports"
+    >
+      2
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 25%; --hotspot-y: 72%;"
+      type="button"
+      aria-label="Microphone port"
+      aria-pressed="false"
+      data-target="side-microphone"
+    >
+      3
+    </button>
+
+  </div>
+
+  <div class="interactive-image__information">
+
+    <section
+      id="side-sd-card"
+      class="image-information-panel"
+      tabindex="-1"
+    >
+      <p class="image-information-panel__number">Control 1</p>
+
+      <h3>SD card slot</h3>
+
+      <p>
+        Open this cover to insert or remove the SD card used to store
+        photographs and video files.
+      </p>
+
+      <p>
+        Turn the camera off before removing the card. Press the card
+        gently until it releases.
+      </p>
+    </section>
+
+    <section
+      id="side-video-ports"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 2</p>
+
+      <h3>A/V OUT and HDMI ports</h3>
+
+      <p>
+        Open this cover to access the camera’s digital output connections.
+      </p>
+
+      <ul>
+        <li>
+          <strong>HDMI:</strong> Connects the camera to a monitor,
+          television, or compatible recording device.
+        </li>
+        <li>
+          <strong>A/V OUT / Digital:</strong> Connects the camera to
+          compatible devices for file transfer or audiovisual output.
+        </li>
+      </ul>
+
+      <p>
+        Keep the cover closed when the ports are not in use.
+      </p>
+    </section>
+
+    <section
+      id="side-microphone"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 3</p>
+
+      <h3>Microphone port</h3>
+
+      <p>
+        Open this cover to connect an external microphone with a compatible
+        3.5 mm audio cable.
+      </p>
+
+      <p>
+        An external microphone can provide clearer and more controlled
+        sound than the camera’s built-in microphone.
       </p>
     </section>
 
