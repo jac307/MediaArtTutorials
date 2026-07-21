@@ -402,7 +402,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 27%; --hotspot-y: 36%;"
+      style="--hotspot-x: 22%; --hotspot-y: 36%;"
       type="button"
       aria-label="Menu button"
       aria-pressed="false"
@@ -413,7 +413,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 40%; --hotspot-y: 36%;"
+      style="--hotspot-x: 35%; --hotspot-y: 36%;"
       type="button"
       aria-label="Info button"
       aria-pressed="false"
@@ -435,7 +435,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 82%; --hotspot-y: 54%;"
+      style="--hotspot-x: 82%; --hotspot-y: 50%;"
       type="button"
       aria-label="Main camera controls"
       aria-pressed="false"
@@ -622,7 +622,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 84%; --hotspot-y: 42%;"
+      style="--hotspot-x: 84%; --hotspot-y: 35%;"
       type="button"
       aria-label="Lens release button"
       aria-pressed="false"
