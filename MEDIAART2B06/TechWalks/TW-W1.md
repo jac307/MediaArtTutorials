@@ -213,21 +213,148 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
 ## Lens controls
 
-![Lens controls](imgs/05.jpg)
+<div class="interactive-image" data-interactive-image>
 
-**AF/MF switch**
+  <div class="interactive-image__visual">
 
-- `AF` uses autofocus.
-- `MF` allows you to focus with the focus ring.
+    <img
+      src="imgs/05.jpg"
+      alt="Canon DSLR camera with a zoom lens showing the focus ring, zoom ring, autofocus switch, and image stabilization switch"
+    >
 
-**Focus ring**  
-Adjusts focus when the lens is set to `MF`.
+    <button
+      class="image-hotspot is-active"
+      style="--hotspot-x: 66%; --hotspot-y: 36%;"
+      type="button"
+      aria-label="Autofocus and manual focus switch"
+      aria-pressed="true"
+      data-target="lens-focus-switch"
+    >
+      1
+    </button>
 
-**Zoom ring**  
-Changes the focal length on a zoom lens, such as an 18–55 mm lens.
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 34%; --hotspot-y: 37%;"
+      type="button"
+      aria-label="Focus ring"
+      aria-pressed="false"
+      data-target="lens-focus-ring"
+    >
+      2
+    </button>
 
-**Image Stabilization switch**  
-Reduces camera shake during handheld photography.
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 53%; --hotspot-y: 45%;"
+      type="button"
+      aria-label="Zoom ring"
+      aria-pressed="false"
+      data-target="lens-zoom-ring"
+    >
+      3
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 68%; --hotspot-y: 49%;"
+      type="button"
+      aria-label="Image stabilization switch"
+      aria-pressed="false"
+      data-target="lens-stabilizer"
+    >
+      4
+    </button>
+
+  </div>
+
+  <div class="interactive-image__information">
+
+    <section
+      id="lens-focus-switch"
+      class="image-information-panel"
+      tabindex="-1"
+    >
+      <p class="image-information-panel__number">Control 1</p>
+
+      <h3>AF/MF switch</h3>
+
+      <p>
+        Use <code>AF</code> for autofocus. Use <code>MF</code> when you
+        want to focus manually with the focus ring.
+      </p>
+
+      <p>
+        Begin with <code>AF</code> for the Photo Film activity.
+      </p>
+    </section>
+
+    <section
+      id="lens-focus-ring"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 2</p>
+
+      <h3>Focus ring</h3>
+
+      <p>
+        Turn this ring to adjust focus when the lens is set to
+        <code>MF</code>.
+      </p>
+
+      <p>
+        Turn the ring slowly and use the camera screen or viewfinder to
+        check which part of the image appears sharp.
+      </p>
+    </section>
+
+    <section
+      id="lens-zoom-ring"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 3</p>
+
+      <h3>Zoom ring</h3>
+
+      <p>
+        Turn this ring to change the focal length and adjust how much of
+        the scene appears inside the frame.
+      </p>
+
+      <p>
+        A shorter focal length creates a wider view. A longer focal
+        length brings distant subjects closer.
+      </p>
+    </section>
+
+    <section
+      id="lens-stabilizer"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 4</p>
+
+      <h3>Image Stabilization switch</h3>
+
+      <p>
+        Turn Image Stabilization <strong>on</strong> when photographing
+        handheld to reduce camera shake.
+      </p>
+
+      <p>
+        Turn it <strong>off</strong> when the camera is mounted on a
+        tripod.
+      </p>
+    </section>
+
+  </div>
+
+</div>
 
 ## Viewing and mounting
 
