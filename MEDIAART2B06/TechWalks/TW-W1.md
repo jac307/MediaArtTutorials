@@ -882,15 +882,37 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## Step 1: Set the shooting mode to Aperture Priority
+## Step 1: Turn on the camera and select Aperture Priority
 
-Before using the back controls, make sure the camera is set to **Aperture Priority** mode.
+Before using the back controls, turn on the camera and set the shooting mode to **Aperture Priority**.
 
-In this course, you will usually begin by setting the mode dial to **`Av`**.
+<fieldset class="equipment-checklist">
+  <legend>Camera mode checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn on the camera.</strong>
+      Move the power switch from <code>OFF</code> to <code>ON</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the mode dial to <code>Av</code>.</strong>
+      Turn the dial until <code>Av</code> aligns with the mode marker.
+    </span>
+  </label>
+</fieldset>
 
 ![Camera set to Aperture Priority mode](imgs/aperture-mode.jpg)
 
-> In `Av` mode, you choose the aperture and the camera automatically chooses the shutter speed.
+In **Aperture Priority mode**, you choose the aperture and the camera automatically selects the shutter speed.
+
+Aperture affects how much light enters the camera and how much of the image appears in focus. You will learn more about aperture and depth of field later in this walkthrough.
+
+> Keep the camera set to <code>Av</code> for the Photo Film activity.
 
 ---
 
