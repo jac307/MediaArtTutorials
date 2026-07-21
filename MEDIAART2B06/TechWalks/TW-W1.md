@@ -356,18 +356,246 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
 </div>
 
-## Viewing and mounting
+## Viewing and back controls
 
-![Camera viewing and mounting controls](imgs/07.jpg)
+<div class="interactive-image" data-interactive-image>
 
-**Viewfinder**  
-Use it to frame the photograph while looking through the camera.
+  <div class="interactive-image__visual">
 
-**LCD screen**  
-Displays menus, live view, and captured photographs.
+    <img
+      src="imgs/camera-back.webp"
+      alt="Back view of a Canon DSLR camera showing the viewfinder, LCD screen, menu and info buttons, playback button, and main control buttons"
+    >
 
-**Tripod mount**  
-Attaches the camera to a tripod.
+    <button
+      class="image-hotspot is-active"
+      style="--hotspot-x: 56%; --hotspot-y: 23%;"
+      type="button"
+      aria-label="Viewfinder"
+      aria-pressed="true"
+      data-target="back-viewfinder"
+    >
+      1
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 42%; --hotspot-y: 62%;"
+      type="button"
+      aria-label="LCD screen"
+      aria-pressed="false"
+      data-target="back-lcd"
+    >
+      2
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 75%; --hotspot-y: 28%;"
+      type="button"
+      aria-label="Live View button"
+      aria-pressed="false"
+      data-target="back-liveview"
+    >
+      3
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 27%; --hotspot-y: 36%;"
+      type="button"
+      aria-label="Menu button"
+      aria-pressed="false"
+      data-target="back-menu"
+    >
+      4
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 40%; --hotspot-y: 36%;"
+      type="button"
+      aria-label="Info button"
+      aria-pressed="false"
+      data-target="back-info"
+    >
+      5
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 78%; --hotspot-y: 79%;"
+      type="button"
+      aria-label="Playback button"
+      aria-pressed="false"
+      data-target="back-playback"
+    >
+      6
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 82%; --hotspot-y: 58%;"
+      type="button"
+      aria-label="Main camera controls"
+      aria-pressed="false"
+      data-target="back-controls"
+    >
+      7
+    </button>
+
+  </div>
+
+  <div class="interactive-image__information">
+
+    <section
+      id="back-viewfinder"
+      class="image-information-panel"
+      tabindex="-1"
+    >
+      <p class="image-information-panel__number">Control 1</p>
+
+      <h3>Viewfinder</h3>
+
+      <p>
+        Use the viewfinder to frame the photograph while looking through
+        the camera.
+      </p>
+
+      <p>
+        This is especially useful in bright outdoor conditions when the
+        LCD screen may be harder to see clearly.
+      </p>
+    </section>
+
+    <section
+      id="back-lcd"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 2</p>
+
+      <h3>LCD screen</h3>
+
+      <p>
+        The LCD screen displays menus, live view, and captured
+        photographs.
+      </p>
+
+      <p>
+        Use it to review images, check focus, and adjust settings.
+      </p>
+    </section>
+
+    <section
+      id="back-liveview"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 3</p>
+
+      <h3>Live View button</h3>
+
+      <p>
+        This button activates Live View so you can compose the photograph
+        on the LCD screen instead of using the viewfinder.
+      </p>
+
+      <p>
+        Use it when you want a larger view of the scene or when checking
+        focus more carefully.
+      </p>
+    </section>
+
+    <section
+      id="back-menu"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 4</p>
+
+      <h3>Menu button</h3>
+
+      <p>
+        Opens the camera’s main menu, where you can change settings such
+        as image quality, formatting, and other camera options.
+      </p>
+    </section>
+
+    <section
+      id="back-info"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 5</p>
+
+      <h3>Info button</h3>
+
+      <p>
+        Changes the information shown on the camera screen.
+      </p>
+
+      <p>
+        Use it to display or hide shooting information while you work.
+      </p>
+    </section>
+
+    <section
+      id="back-playback"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 6</p>
+
+      <h3>Playback button</h3>
+
+      <p>
+        Opens your captured photographs on the LCD screen.
+      </p>
+
+      <p>
+        Use it to review framing, focus, and exposure after taking a
+        shot.
+      </p>
+    </section>
+
+    <section
+      id="back-controls"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 7</p>
+
+      <h3>Main camera controls</h3>
+
+      <p>
+        These buttons and the central <code>SET</code> button are used to
+        adjust common shooting settings.
+      </p>
+
+      <ul>
+        <li><strong>Av +/-</strong> helps adjust exposure compensation.</li>
+        <li><strong>WB</strong> opens white balance settings.</li>
+        <li><strong>AF</strong> opens autofocus options.</li>
+        <li><strong>SET</strong> confirms a selection.</li>
+        <li><strong>Arrow buttons</strong> move through menus and images.</li>
+      </ul>
+
+      <p>
+        For Week 1, you will mainly use these controls to navigate menus,
+        confirm settings, and review photographs.
+      </p>
+    </section>
+
+  </div>
+
+</div>
 
   </div>
 </details>
