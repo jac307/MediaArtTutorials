@@ -812,7 +812,7 @@ Check each item as you prepare the equipment.
       Keep the power switch set to <code>OFF</code> while preparing the equipment.
     </span>
   </label>
-  
+
   <label class="checklist-item">
     <input type="checkbox">
     <span>
@@ -874,34 +874,336 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Use the camera menu</span>
+    <span class="section-title">3. Use the camera menu and control buttons</span>
     <span class="section-description">
-      Learn the buttons used to change settings and review photographs.
+      Set the camera to Aperture Priority mode and learn the buttons used to change settings and review photographs.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-![Camera menu and playback buttons](imgs/11.jpg)
+## Step 1: Set the shooting mode to Aperture Priority
 
-- **Menu:** Opens the full camera menu.
-- **Navigation arrows:** Move through menus and photographs.
-- **SET:** Confirms a selection.
-- **Playback:** Opens captured photographs.
-- **Live View:** Displays the camera view on the LCD screen.
-- **Q:** Opens the Quick Control screen.
-- **Erase:** Deletes the selected photograph during playback.
+Before using the back controls, make sure the camera is set to **Aperture Priority** mode.
 
-### Quick Control screen
+In this course, you will usually begin by setting the mode dial to **`Av`**.
 
-The `Q` button provides access to the settings used most often.
+![Camera set to Aperture Priority mode](imgs/aperture-mode.jpg)
+
+> In `Av` mode, you choose the aperture and the camera automatically chooses the shutter speed.
+
+---
+
+## Step 2: Learn the main back controls
+
+Use the interactive image below to review the buttons you will use most often.
+
+<div class="interactive-image" data-interactive-image>
+
+  <div class="interactive-image__visual">
+
+    <img
+      src="imgs/back-controls-detail.jpg"
+      alt="Close-up of the back control buttons of a Canon DSLR camera, including the zoom buttons, playback button, erase button, Quick Control button, SET button, white balance, autofocus, and exposure controls"
+    >
+
+    <button
+      class="image-hotspot is-active"
+      style="--hotspot-x: 80%; --hotspot-y: 20%;"
+      type="button"
+      aria-label="Zoom out and thumbnail button"
+      aria-pressed="true"
+      data-target="menu-zoom-out"
+    >
+      1
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 92%; --hotspot-y: 20%;"
+      type="button"
+      aria-label="Zoom in button"
+      aria-pressed="false"
+      data-target="menu-zoom-in"
+    >
+      2
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 46%; --hotspot-y: 38%;"
+      type="button"
+      aria-label="Exposure compensation and aperture button"
+      aria-pressed="false"
+      data-target="menu-exposure"
+    >
+      3
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 50%; --hotspot-y: 50%;"
+      type="button"
+      aria-label="Quick Control button"
+      aria-pressed="false"
+      data-target="menu-q"
+    >
+      4
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 56%; --hotspot-y: 67%;"
+      type="button"
+      aria-label="White balance button"
+      aria-pressed="false"
+      data-target="menu-wb"
+    >
+      5
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 57%; --hotspot-y: 78%;"
+      type="button"
+      aria-label="SET button and navigation controls"
+      aria-pressed="false"
+      data-target="menu-set"
+    >
+      6
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 72%; --hotspot-y: 77%;"
+      type="button"
+      aria-label="Autofocus button"
+      aria-pressed="false"
+      data-target="menu-af"
+    >
+      7
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 42%; --hotspot-y: 87%;"
+      type="button"
+      aria-label="Playback button"
+      aria-pressed="false"
+      data-target="menu-playback"
+    >
+      8
+    </button>
+
+    <button
+      class="image-hotspot"
+      style="--hotspot-x: 75%; --hotspot-y: 89%;"
+      type="button"
+      aria-label="Erase button"
+      aria-pressed="false"
+      data-target="menu-erase"
+    >
+      9
+    </button>
+
+  </div>
+
+  <div class="interactive-image__information">
+
+    <section
+      id="menu-zoom-out"
+      class="image-information-panel"
+      tabindex="-1"
+    >
+      <p class="image-information-panel__number">Control 1</p>
+
+      <h3>Zoom out / Thumbnail button</h3>
+
+      <p>
+        Use this button during playback to zoom out from an image.
+      </p>
+
+      <p>
+        It can also help you view multiple images as thumbnails when reviewing photographs.
+      </p>
+    </section>
+
+    <section
+      id="menu-zoom-in"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 2</p>
+
+      <h3>Zoom in button</h3>
+
+      <p>
+        Use this button during playback to zoom in and inspect image details.
+      </p>
+
+      <p>
+        This is useful when checking whether an image is in focus.
+      </p>
+    </section>
+
+    <section
+      id="menu-exposure"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 3</p>
+
+      <h3>Av +/- button</h3>
+
+      <p>
+        This button is used for aperture and exposure-related adjustments.
+      </p>
+
+      <p>
+        In some situations, it is used together with the control dial to adjust exposure compensation.
+      </p>
+
+      <p>
+        For Week 1, your main task is to keep the camera in <code>Av</code> mode and understand that this button is part of the exposure controls.
+      </p>
+    </section>
+
+    <section
+      id="menu-q"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 4</p>
+
+      <h3>Q button</h3>
+
+      <p>
+        Press <code>Q</code> to open the <strong>Quick Control</strong> screen.
+      </p>
+
+      <p>
+        This is one of the most important buttons for Week 1 because it gives quick access to common settings such as image quality, white balance, and focus-related options.
+      </p>
+    </section>
+
+    <section
+      id="menu-wb"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 5</p>
+
+      <h3>WB button</h3>
+
+      <p>
+        Opens the white balance settings.
+      </p>
+
+      <p>
+        For Week 1, keep white balance set to <strong>AWB</strong> (Auto White Balance).
+      </p>
+    </section>
+
+    <section
+      id="menu-set"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 6</p>
+
+      <h3>SET button and navigation controls</h3>
+
+      <p>
+        The arrow buttons move through menus and photographs.
+      </p>
+
+      <p>
+        The central <code>SET</code> button confirms a selection.
+      </p>
+
+      <p>
+        You will use these controls often when changing settings and reviewing images.
+      </p>
+    </section>
+
+    <section
+      id="menu-af"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 7</p>
+
+      <h3>AF button</h3>
+
+      <p>
+        Opens autofocus-related settings.
+      </p>
+
+      <p>
+        For Week 1, students should generally begin by using autofocus unless the assignment specifically asks for manual focus.
+      </p>
+    </section>
+
+    <section
+      id="menu-playback"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 8</p>
+
+      <h3>Playback button</h3>
+
+      <p>
+        Opens your captured photographs on the LCD screen.
+      </p>
+
+      <p>
+        Use it to review framing, focus, and exposure after taking a shot.
+      </p>
+    </section>
+
+    <section
+      id="menu-erase"
+      class="image-information-panel"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-information-panel__number">Control 9</p>
+
+      <h3>Erase button</h3>
+
+      <p>
+        Deletes the currently selected photograph during playback.
+      </p>
+
+      <p>
+        Avoid deleting files in the field unless you are certain the image is unusable.
+      </p>
+    </section>
+
+  </div>
+
+</div>
+
+---
+
+## Step 3: Use the Quick Control screen
+
+The <code>Q</code> button provides access to the settings used most often.
 
 ![Canon Quick Control screen](imgs/15.png)
 
 ### Initial setup
 
-1. Press `Q`.
-2. Set the shooting mode to `Av`.
+1. Press <code>Q</code>.
+2. Confirm that the shooting mode is already set to <code>Av</code>.
 3. Set Image Quality to **RAW + JPEG**.
 4. Set White Balance to **AWB**.
 5. Confirm that flash and exposure bracketing are off.
@@ -917,7 +1219,7 @@ The `Q` button provides access to the settings used most often.
 
 > Check these settings whenever you borrow a camera. Another user may have changed them.
 
-  </div>
+</div>
 </details>
 
 <!-- 
