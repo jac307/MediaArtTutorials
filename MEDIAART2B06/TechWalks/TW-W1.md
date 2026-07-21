@@ -1224,11 +1224,12 @@ The <code>Q</code> button provides access to the settings used most often.
 
 ### Initial setup
 
-1. Press <code>Q</code>.
-2. Confirm that the shooting mode is already set to <code>Av</code>.
-3. Set Image Quality to **RAW + JPEG**.
-4. Set White Balance to **Daylight** (sun icon)
-5. Confirm that flash and exposure bracketing are off.
+1. Confirm that the shooting mode is already set to <code>Av</code>.
+2. Confirm that you are working with **Manual Focus (MF)**
+3. In your main back controls, **press WB** and Set White Balance to **Daylight** (sun icon).
+4. In your main back controls, **press Q** and set Image Quality (last lower-right option) to **RAW + JPEG**.
+
+> Check these settings whenever you borrow a camera. Another user may have changed them.
 
 <div class="video-wrapper">
   <iframe
@@ -1238,8 +1239,6 @@ The <code>Q</code> button provides access to the settings used most often.
     allowfullscreen>
   </iframe>
 </div>
-
-> Check these settings whenever you borrow a camera. Another user may have changed them.
 
 </div>
 </details>
