@@ -424,7 +424,7 @@ Each photograph will create two files when using RAW + JPEG. Keep both files whe
 
     <button
       class="image-hotspot"
-      style="--hotspot-x: 78%; --hotspot-y: 79%;"
+      style="--hotspot-x: 78%; --hotspot-y: 72%;"
       type="button"
       aria-label="Playback button"
       aria-pressed="false"
