@@ -8,13 +8,11 @@ description: Camera setup, exposure, focus, and file-transfer instructions for t
 
 # W1 — DSLR Photography
 
-## Photo Film technical walkthrough
-
 This walkthrough introduces the camera controls and settings needed for the **Photo Film** activity.
 
-You will use a Canon EOS Rebel T4i, T5i, or T7i to create a black-and-white photo sequence. The photographs will be captured in colour and converted to black and white later in Adobe Photoshop.
+Throughout the course, you will use Canon EOS Rebel T4i, T5i, and/or T7i.
 
-[Check the available DSLR cameras](../Cameras.md){:target="_blank"}
+[Check the tech specs of these DSLR cameras](../Cameras.md){:target="_blank"}
 
 By the end of the walkthrough, you should be able to:
 
@@ -23,7 +21,7 @@ By the end of the walkthrough, you should be able to:
 - review photographs on the camera
 - transfer, organize, and back up your files
 
-<details class="tutorial-section" open>
+<!-- <details class="tutorial-section" open>
   <summary>
     <span class="section-title">Week 1 settings</span>
     <span class="section-description">
@@ -47,49 +45,12 @@ Use the following settings for the Photo Film activity:
 Each photograph will create two files when using RAW + JPEG. Keep both files when transferring your work.
 
   </div>
-</details>
+</details> -->
+
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Prepare the camera</span>
-    <span class="section-description">
-      Check the battery, insert the SD card, and confirm that the camera is ready to use.
-    </span>
-  </summary>
-
-  <div class="section-content" markdown="1">
-
-Before turning on the camera:
-
-1. Check that the battery is charged.
-2. Insert an SD card.
-3. Confirm that the lens is securely attached.
-4. Remove the lens cap.
-5. Turn on the camera.
-
-![Memory card slot and battery compartment](imgs/06.jpg)
-
-### Format the SD card
-
-Format the card in the camera before beginning a new shoot.
-
-> **Warning:** Formatting deletes every file on the card. Confirm that you have copied any files you need before continuing.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG"
-    title="How to format an SD card in a Canon DSLR camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-  </div>
-</details>
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">2. Locate the main camera controls</span>
+    <span class="section-title">1. Locate the main camera controls</span>
     <span class="section-description">
       Identify the buttons, rings, and switches used during the activity.
     </span>
@@ -140,6 +101,44 @@ Displays menus, live view, and captured photographs.
 
 **Tripod mount**  
 Attaches the camera to a tripod.
+
+  </div>
+</details>
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Prepare the camera</span>
+    <span class="section-description">
+      Check the battery, insert the SD card, and confirm that the camera is ready to use.
+    </span>
+  </summary>
+
+  <div class="section-content" markdown="1">
+
+Before turning on the camera:
+
+1. Check that the battery is charged.
+2. Insert an SD card.
+3. Confirm that the lens is securely attached.
+4. Remove the lens cap.
+5. Turn on the camera.
+
+![Memory card slot and battery compartment](imgs/06.jpg)
+
+### Format the SD card
+
+Format the card in the camera before beginning a new shoot.
+
+> **Warning:** Formatting deletes every file on the card. Confirm that you have copied any files you need before continuing.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG"
+    title="How to format an SD card in a Canon DSLR camera"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
   </div>
 </details>
