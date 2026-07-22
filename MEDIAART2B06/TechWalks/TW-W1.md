@@ -14,33 +14,6 @@ Throughout the course, you will use Canon EOS Rebel T4i, T5i, and/or T7i.
 
 > [Check the tech specs of these DSLR cameras](../Cameras.md){:target="_blank"}
 
-<!-- <details class="tutorial-section" open>
-  <summary>
-    <span class="section-title">Week 1 settings</span>
-    <span class="section-description">
-      Check these settings before you begin photographing.
-    </span>
-  </summary>
-
-  <div class="section-content" markdown="1">
-
-Use the following settings for the Photo Film activity:
-
-- **Shooting mode:** Aperture Priority (`Av`)
-- **Image quality:** RAW + JPEG
-- **White balance:** Auto White Balance (`AWB`)
-- **ISO:** Begin at 100 or 200
-- **Focus:** Begin with Autofocus (`AF`)
-- **Image Stabilization:** On when handheld; off when using a tripod
-- **Flash:** Off
-- **Auto Exposure Bracketing:** Off
-
-Each photograph will create two files when using RAW + JPEG. Keep both files when transferring your work.
-
-  </div>
-</details> -->
-
-
 <!-- 
 /////////////////
 SECTION 1
@@ -1220,7 +1193,7 @@ The <code>Q</code> button provides access to the settings used most often.
 1. Confirm that the shooting mode is already set to <code>Av</code>.
 2. Confirm that you are working with **Manual Focus (MF)**
 3. In your main back controls, **press WB** and Set White Balance to **Daylight** (sun icon).
-4. In your main back controls, **press Q** and set Image Quality (last lower-right option) to **RAW + JPEG**.
+4. In your main back controls, **press Q** and set Image Quality (last lower-right option) to **RAW + JPEG**. Each photograph will create two files when using RAW + JPEG. Keep both files when transferring your work.
 
 > Check these settings whenever you borrow a camera. Another user may have changed them.
 

@@ -1054,3 +1054,13 @@ main:focus-visible {
     height: auto;
   }
 }
+
+.tutorial-content .media-grid.media-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+@media (max-width: 760px) {
+  .tutorial-content .media-grid.media-grid--three {
+    grid-template-columns: 1fr;
+  }
+}

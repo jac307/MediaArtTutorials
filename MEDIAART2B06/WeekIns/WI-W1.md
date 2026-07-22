@@ -1,263 +1,926 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# Photo Film
 
-<h1 style="color: darkred;">Photo Film (Individual)</h1>  
+![Examples from the Photo Film activity](imgs/0.png)
 
-<img src="imgs/0.png" style="width: 100%; height: auto;">  
+## Project goal
 
-## Goal
+Create a **30-second black-and-white photo film** composed entirely of still photographs. Arrange the photographs into an **observational micro-narrative** using framing, sequencing, rhythm, and pacing.
 
-Create a **30-second black-and-white photo film** composed entirely of **still photographs**, organized into a **observational micro-narrative**.
+You will work in pairs during class for technical support and feedback. However, each student must photograph, edit, assemble, and submit an individual project.
 
-You will work **in pairs during class time** for support and feedback, but **each student must produce and submit an individual work**.  
+> Attendance, participation, and active engagement during class activities are part of the project rubric.
 
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
+## Project overview
 
----
+- **Format:** 30-second photo film
+- **Number of photographs:** Approximately 10–18
+- **Narrative approach:** Observational micro-narrative
+- **Location:** A McMaster University campus location
+- **Production time:** During class
+- **Collaboration:** Work in pairs and submit individually
+- **Image orientation:** Landscape
+- **Final colour:** Black and white
+- **Dialogue:** Not permitted
+- **Video footage:** Not permitted
 
-## Project Overview
+## Required camera settings
 
-- **Camera Mode:** - Aperture Priority (Av)  
-- **Format:** 30-second photo film (still images only)
-- **Images:** Approximately **10–18 photographs**
-- **Narrative type:** Observational / micro-narrative
-- **Location:** Any McMaster campus location, during class time only
-- **Collaboration:** Work in pairs, submit individually
-- **Dialogue:** Not allowed
-- **Video footage:** Not allowed (stills only)  
+- **Shooting mode:** Aperture Priority (`Av`)
+- **Image quality:** RAW + JPEG
+- **White balance:** Daylight
+- **Focus:** Manual Focus
+- **Image Stabilization:** On when handheld; off when using a tripod
+- **Flash:** Off
+- **Auto Exposure Bracketing:** Off
 
-## Examples
+## Project stages
 
-**La Jetée** (1962), by Chris Marker   
-→ A canonical still-image film that constructs a powerful narrative entirely through sequencing, pacing, and voice-over, with almost no motion.  
-▶️ [Full Movie](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}    
+Complete the following stages in order:
 
-**Año Uña** (2010), by Jonás Cuarón  
-→ A photo-based film where rhythm and narrative emerge through uneven timing of still images, everyday observation, and post-hoc narrative construction.  
-▶️ [Movie Trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}  
-▶️ [Año Uña Clip - Diego's Toenail](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}    
-▶️ [Año Uña Clip - Molly & Diego On The Beach](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}  
+1. Brainstorm and sketch
+2. Prepare the camera
+3. Photograph the sequence
+4. Transfer and back up the files
+5. Create the photo contact sheet
+6. Edit the photographs in Photoshop
+7. Participate in the group image analysis
+8. Assemble the photo film in Premiere Pro
+9. Create the project information PDF
+10. Submit the completed project
 
-**Olga Karlovac** (Dubrovnik, Croatia)   
-→ Olga uses her camera to capture fleeting moments and emotions. Working exclusively in black and white, predominantly after dark and in rainy conditions, her abstracted images blur the lines between figuration and visual poetry.   
-🌐 [Artist's Website](https://olga-karlovac-photography.com/site/){:target="_blank"}    
-🌐 [Google Images](https://www.google.com/search?q=olga+karlovac&sca_esv=727911a362dc4a92&sxsrf=ANbL-n6ZS_7GT0ENijSgTJu9qfuo0JTwDg%3A1767888054707&source=hp&ei=ttRfaZnZKM_XptQPpLKE4AY&iflsig=AFdpzrgAAAAAaV_ixnDeBQRlsOCtfMrSLTNoxo6CFbnp&udm=2&oq=olga+k&gs_lp=Egdnd3Mtd2l6IgZvbGdhIGsqAggAMg0QIxjwBRiABBgnGIoFMg4QLhiABBjHARjLARivATIIEC4YgAQYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBSPUQUABYvQlwAHgAkAEAmAGOAqABxAeqAQUwLjUuMbgBA8gBAPgBAZgCBqAC5AfCAgQQIxgnwgIKECMY8AUYJxjJAsICChAuGIAEGEMYigXCAgUQABiABMICBRAuGIAEwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgILEC4YgAQYxwEYrwGYAwCSBwUwLjUuMaAHo3CyBwUwLjUuMbgH5AfCBwcwLjMuMi4xyAcWgAgA&sclient=gws-wiz){:target="_blank"}  
 
----
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Review the examples</span>
+    <span class="section-description">
+      Examine how artists use still photography, sequencing, duration, and observation.
+    </span>
+  </summary>
 
-## Activities  
-**Complete the following in order. Ask the professor or TAs for support or feedback.**  
+<div class="section-content" markdown="1">
 
-<ul>
-  <li><a href="#brainstorming">1. Brainstorming & Sketching</a></li>
-  <li><a href="#shooting">2. Photographing</a></li>
-  <li><a href="#photo-editing">3. Post-Production: Edit Photographs in Photoshop</a></li>
-  <li><a href="#premiere">4. Post-Production: Assemble in Premiere Pro</a></li>
-</ul>
+## La Jetée
 
----
+**La Jetée** (1962), directed by Chris Marker, constructs a narrative almost entirely through still photographs. Meaning develops through sequencing, pacing, sound, narration, and the duration of each image.
 
-<h3 id="brainstorming" style="color: darkred;">1. Brainstorming & Sketching [20 min]</h3>
+[Watch La Jetée](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}
 
-Use the PDF worksheet below to:
+## Año Uña
 
-- Develop a simple **observational micro-narrative or idea** that can be completed on campus
-  > An **Observational micro-narrative** does not require a traditional beginning–middle–end storyline. Instead, you may focus on mood, atmosphere, or the gradual revealing of a character’s presence or situation through the sequence of photographs.
-- Create **3–5 visual frame-moods** (rough sketches or notes)
-- Treat sketches as a **starting point**, not a fixed script. **Remain open to discovery during shooting**
+**Año Uña** (2007), directed by Jonás Cuarón, uses family photographs to create a fictional narrative. Rhythm and character emerge through image selection, uneven timing, repetition, and post-production.
 
-<a href="imgs/Photofilm_Brainstorming_Worksheet.pdf" target="_blank" rel="noopener noreferrer">
-📄 Download / View Brainstorming & Sketching Worksheet (PDF)
-</a>  
-> If you use the physical version of this Worksheet, you must scan or take an image of each page and combine them into a PDF file.  
-> You can use a simple Word document for this process.  
-> Optional: <a href="https://www.ilovepdf.com/" target="_blank" rel="noopener noreferrer">https://www.ilovepdf.com/</a> - Choose: **JPG to PDF**.  
+- [Watch the trailer](https://www.youtube.com/watch?v=FV799cwkhCY){:target="_blank"}
+- [Watch “Diego’s Toenail”](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank"}
+- [Watch “Molly and Diego on the Beach”](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank"}
 
-### Submission
+## Olga Karlovac
 
-- ➡️ **Export as PDF**
-- 📄 **Filename:** `Name-Lastname-Brainstorming.pdf`
+Olga Karlovac photographs fleeting moments, movement, and atmosphere. Her black-and-white street photography often uses blur, contrast, darkness, and abstraction to move between documentation and visual poetry.
 
----
+- [Visit Olga Karlovac’s website](https://olga-karlovac-photography.com/site/){:target="_blank"}
+- [View image examples](https://www.google.com/search?q=olga+karlovac&udm=2){:target="_blank"}
 
-<h3 id="shooting" style="color: darkred;">2. Photographing [60 min]</h3>
+As you review the examples, consider:
 
-During this phase, you will photograph your sequence on campus, applying the technical and conceptual tools introduced in Week 1.  
+- How does the order of the photographs create meaning?
+- How long does each image remain on screen?
+- What visual details connect one image to the next?
+- How do framing, repetition, contrast, and rhythm shape the experience?
+- How can an ordinary observation become a short narrative?
 
-Check: [W1 - Tech Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} - Intro to DSLR Photography for Photo Film Activity.     
+</div>
+</details>
 
-**Notes to keep in mind:**  
-- Set your aperture first. Start with ISO 100. If the camera selects a shutter speed that is too slow for a stable image, gradually increase the ISO.
-- In Aperture Priority (Av) mode, the camera automatically sets the shutter speed based on your aperture choice and the lighting conditions.
-- A wider aperture (lower f-number) results in a faster shutter speed, while darker lighting conditions result in a slower shutter speed.  
 
-### Photographing Requirements
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Brainstorm and sketch</span>
+    <span class="section-description">
+      Develop an observational idea and prepare several possible frames before photographing.
+    </span>
+  </summary>
 
-- **Camera Mode:** - Aperture Priority (Av)
-- Photographs are captured **in colour** and converted to **black and white** in post-production 
-- All photographs must be completed **during class time**
-- Images must be **static stills** (no video or motion capture)
-- Shoot in landscape  
-- Use at least:
-  - **3 different standard shot sizes** (excluding *Extreme Long Shot*)
-  - **1–2 compositional frameworks**
-  - Work with **depth of field**
-- **Tripod-based** recommended
+<div class="section-content" markdown="1">
 
-### Working in Pairs
+## Observational micro-narrative
 
-- Work with your partner for **support and feedback**
-- You may appear in your partner’s images
-- Bodies and faces are allowed
-- Faces of **strangers should be avoided**
-  > *Be mindful of shared spaces and respect others while photographing on campus.*
+An **observational micro-narrative** does not require a traditional beginning, middle, and end.
 
----
+Your sequence may instead focus on:
 
-<img src="imgs/01.png" style="width: 80%; height: auto;">  
-<img src="imgs/02.png" style="width: 80%; height: auto;">  
-<img src="imgs/03.jpeg" style="width: 80%; height: auto;">  
+- A person moving through a location
+- A repeated gesture or action
+- A change in light, distance, or perspective
+- A gradual reveal of a subject
+- A relationship between a person and a space
+- An overlooked event or detail
+- A particular mood or atmosphere
 
----
+The narrative should emerge through the selection and arrangement of photographs rather than through dialogue or explanatory text.
 
-### Create Your Photo Grid (For Submission)
+## Brainstorming activity
 
-After shooting (and before the next step), prepare a contact-sheet style PDF of your selected images.  
+Use the worksheet to:
 
-- Select **your final sequence of images** (10–18 photographs)
-- **Paper size:** Letter (11 × 8.5 in)
+- Develop a simple observational idea that can be completed on campus
+- Identify a location
+- Consider what may change across the sequence
+- Create 3–5 visual frame-moods using sketches or written notes
+- Consider possible shot sizes and compositions
+- Plan a starting point without creating a fixed script
+
+> Your sketches are a starting point. Remain open to unexpected actions, details, and visual relationships while photographing.
+
+[Download the Brainstorming and Sketching Worksheet](imgs/Photofilm_Brainstorming_Worksheet.pdf){:target="_blank"}
+
+When using the physical worksheet, scan or photograph every completed page and combine the pages into one PDF.
+
+You may use Word, PowerPoint, Pages, or another document application to create the PDF.
+
+### Brainstorming submission
+
+- **Format:** PDF
+- **Filename:** `Name-Lastname-Brainstorming.pdf`
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Prepare the camera</span>
+    <span class="section-description">
+      Confirm the required camera settings before beginning the photo sequence.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} before beginning.
+
+<fieldset class="equipment-checklist">
+  <legend>Photo Film camera setup</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shooting mode to <code>Av</code>.</strong>
+      In Aperture Priority mode, you select the aperture and the camera selects the shutter speed.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the image quality to RAW + JPEG.</strong>
+      Keep both versions of every photograph. Use the RAW files for editing and the JPEG files for quick review.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set White Balance to Daylight.</strong>
+      A fixed white-balance setting keeps the colour consistent across the sequence.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the lens to Manual Focus.</strong>
+      Move the focus switch on the lens from <code>AF</code> to <code>MF</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Image Stabilization for the way you are shooting.</strong>
+      Keep stabilization on when holding the camera. Turn it off when the camera is secured to a tripod.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the flash is off.</strong>
+      Do not use the built-in flash for this activity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that Auto Exposure Bracketing is off.</strong>
+      The exposure scale should display a single marker at <code>0</code>, not three separate markers.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin at <code>ISO 100</code>.</strong>
+      Increase the ISO gradually only when the camera selects a shutter speed that is too slow for a stable image.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Choose an aperture.</strong>
+      Consider whether you want a shallow depth of field or more of the scene to remain sharp.
+    </span>
+  </label>
+</fieldset>
+
+In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
+
+A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Photograph the sequence</span>
+    <span class="section-description">
+      Create an observational sequence using shot size, composition, focus, and depth of field.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+You have approximately **60 minutes** to photograph your sequence on campus.
+
+## Photographing requirements
+
+Your photographs must:
+
+- Be completed during class time
+- Be captured in colour
+- Use landscape orientation
+- Be static still photographs
+- Be created specifically for this project
+- Include at least three standard shot sizes
+- Exclude the Extreme Long Shot from the three required shot sizes
+- Use one or two compositional frameworks
+- Explore depth of field
+- Avoid video or motion capture
+- Avoid using the camera’s flash
+
+A tripod is recommended when working with precise framing or slower shutter speeds.
+
+## Working in pairs
+
+You may work with a partner for:
+
+- Technical support
+- Feedback on framing and focus
+- Assistance with the tripod
+- Participation as a subject in a photograph
+- Help maintaining continuity between shots
+
+Each student must still create a separate photographic sequence.
+
+Bodies and faces are permitted, but avoid photographing identifiable strangers without their permission.
+
+> Be mindful of shared spaces. Do not block hallways, entrances, classrooms, or accessibility routes.
+
+## Photographing checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Sequence production checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the location and observational idea.</strong>
+      Make sure the sequence can be completed safely during the available class time.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the aperture, ISO, focus, and shutter speed.</strong>
+      Review the settings before taking the first photograph.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Photograph more images than you expect to use.</strong>
+      Your final sequence will contain approximately 10–18 photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use at least three shot sizes.</strong>
+      Create visual variation while maintaining continuity across the sequence.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use one or two compositional frameworks.</strong>
+      Apply them intentionally rather than changing the composition randomly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Experiment with depth of field.</strong>
+      Consider which subjects or areas should appear sharp.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review focus and exposure regularly.</strong>
+      Magnify important photographs on the camera screen to check sharpness.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the visual approach consistent.</strong>
+      Consider framing, camera height, contrast, direction, and subject placement.
+    </span>
+  </label>
+</fieldset>
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/01.png"
+      alt="Example of photographic framing for the Photo Film activity"
+    >
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/02.png"
+      alt="Example of composition for the Photo Film activity"
+    >
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/03.jpeg"
+      alt="Example of depth of field for the Photo Film activity"
+    >
+  </figure>
+
+</div>
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Transfer and back up the photographs</span>
+    <span class="section-description">
+      Copy the RAW and JPEG files to a computer and create a second copy.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>File transfer and backup checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn off the camera.</strong>
+      Set the power switch to <code>OFF</code> before removing the SD card.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Remove the SD card and insert it into a card reader.</strong>
+      Wait for the card to appear on the computer.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Open the <code>DCIM</code> folder.</strong>
+      Locate the RAW and JPEG files created during the shoot.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a clearly named project folder.</strong>
+      Use a name such as <code>Lastname_PhotoFilm_Date</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Copy all RAW and JPEG files to the project folder.</strong>
+      Wait until the transfer is complete before removing the card.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Open several files to confirm the transfer.</strong>
+      Check that the photographs display correctly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a second copy of the project folder.</strong>
+      Save it to an external drive or cloud-storage service.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Eject the SD card safely.</strong>
+      Use the computer’s eject function before removing the card.
+    </span>
+  </label>
+</fieldset>
+
+> Do not edit files directly from the SD card. Do not format or erase the card until the files have been confirmed in at least two locations.
+
+Keep the original photographs unchanged. Create separate folders for original and edited files.
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Create the photo contact sheet</span>
+    <span class="section-description">
+      Select the final sequence and arrange the photographs in a contact-sheet PDF.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Select approximately **10–18 photographs** that could form your final sequence.
+
+Arrange the selected photographs in a contact-sheet document using PowerPoint, Word, Canva, Pages, Keynote, or another layout application.
+
+## Contact-sheet requirements
+
+- **Page size:** Letter, 11 × 8.5 inches
 - **Orientation:** Landscape
-- Arrange images in a **2 × 4 grid per page**
-- Use: PowerPoint, Word, Canva, Pages, or Keynote
+- **Layout:** 2 × 4 image grid per page
+- **Image order:** Arrange the photographs in the proposed sequence
+- **File format:** PDF
 
-<img src="imgs/04.png" style="width: 50%; height: auto;">  
+![Example of a photo contact sheet](imgs/04.png)
 
-### Submission
+Review the sequence before exporting:
 
-- ➡️ **Export as PDF**
-- 📄 **Filename:** `Name-Lastname-Photos.pdf`
+- Does each photograph contribute something new?
+- Is the main subject or action understandable?
+- Are there useful changes in shot size and perspective?
+- Does the sequence contain unnecessary repetition?
+- Does the image order create rhythm or progression?
 
----  
+### Contact-sheet submission
 
-<h3 id="photo-editing" style="color: darkred;">3. Post-Production: Edit Photographs in Photoshop [60 min]</h3>
+- **Format:** PDF
+- **Filename:** `Name-Lastname-Photos.pdf`
 
-**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Photoshop Fundamentals**   
+</div>
+</details>
 
-Follow the tutorials to:  
 
-- Convert selected images to **black and white**
-- Adjust **exposure and contrast**
-- Maintain **visual consistency** across the sequence
-- Save edited images as **PNG** or **TIFF** for Premiere Pro sequencing
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Edit the photographs in Photoshop</span>
+    <span class="section-description">
+      Convert the selected photographs to black and white and create visual consistency.
+    </span>
+  </summary>
 
-🚫 Do **not** crop, retouch, apply filters, or add effects at this stage.
+<div class="section-content" markdown="1">
 
----
+You have approximately **60 minutes** for this stage.
 
-### Group Image Analysis [4:00 PM – 4:25 PM]
+Review the [Week 1 Photoshop Fundamentals tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"}.
 
-#### **Before 4:00 PM (Preparation Required)**
+Use the RAW files whenever possible.
 
-- Select **one photograph** from your shoot  
-- Convert it to **black and white**  
-- Make **basic exposure and contrast adjustments**  
-- Upload it to your assigned group link:
-  - [Group 1 Link](https://www.dropbox.com/request/iGYWsf2A7x7LwSlwvLrk){:target="_blank"}
-  - [Group 2 Link](https://www.dropbox.com/request/Lx5xCt6vkPROg0hrrJsd){:target="_blank"}
-  - [Group 3 Link](https://www.dropbox.com/request/LtFQ086TcWNboxvisj4y){:target="_blank"}
+## Required adjustments
 
-#### **Group Assignments & Location**
+- Convert every selected photograph to black and white
+- Adjust exposure
+- Adjust contrast
+- Preserve detail in important highlights and shadows
+- Maintain visual consistency across the sequence
+- Export the edited photographs as PNG or TIFF files
 
-- A printed list with groups and room assignments will be placed **at the Computer Lab entrance**
-- Each group will work with an **assigned TA or the instructor** in a designated classroom
+## Restrictions
 
-❗ **You must arrive at your assigned room at least 5 minutes before 4:00 PM**  
-All students should be **ready to begin at 4:00 PM sharp**  
+Do not:
 
-#### **During the Analysis Session**
+- Crop the photographs
+- Retouch or remove elements
+- Apply filters
+- Add textures
+- Add visual effects
+- Use stylized colour treatments
+- Introduce generated imagery
 
-- The TA/instructor will **randomly select images** from the uploaded submissions
-- Images will be discussed collectively, focusing on:
-  - **Framing**
-  - **Composition**
-  - **Shot size**
-  - **Visual balance and structure**
-- Students are expected to **actively contribute** to the discussion
+Create a separate folder for the edited files. Do not overwrite the original RAW or JPEG photographs.
 
-❗ **Attendance and engagement during this activity are part of the rubric.**
+</div>
+</details>
 
----
 
-<h3 id="premiere" style="color: darkred;">4. Post-Production: Assemble in Premiere Pro [Begin in Class]</h3>
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">8. Participate in the group image analysis</span>
+    <span class="section-description">
+      Prepare one photograph and contribute to a guided discussion about visual structure.
+    </span>
+  </summary>
 
-**Check: [W1 - Tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"} - Premiere Pro Fundamentals**   
+<div class="section-content" markdown="1">
 
-Using your selected **10–18 photographs**, follow the tutorials to assemble your Photo Film.
+## Before 4:00 p.m.
+
+Complete the following before the analysis session:
+
+<fieldset class="equipment-checklist">
+  <legend>Image analysis preparation</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Select one photograph from your shoot.</strong>
+      Choose an image that would benefit from discussion and feedback.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Convert the photograph to black and white.</strong>
+      Complete the conversion in Photoshop.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Make basic exposure and contrast adjustments.</strong>
+      Do not add effects or filters.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Upload the photograph to your assigned group link.</strong>
+      Complete the upload before arriving at the assigned room.
+    </span>
+  </label>
+</fieldset>
+
+- [Group 1 upload](https://www.dropbox.com/request/iGYWsf2A7x7LwSlwvLrk){:target="_blank"}
+- [Group 2 upload](https://www.dropbox.com/request/Lx5xCt6vkPROg0hrrJsd){:target="_blank"}
+- [Group 3 upload](https://www.dropbox.com/request/LtFQ086TcWNboxvisj4y){:target="_blank"}
+
+## Group assignments and location
+
+A printed list of group and room assignments will be placed at the entrance to the Computer Lab.
+
+Arrive at the assigned room at least five minutes before 4:00 p.m. The analysis begins at 4:00 p.m.
+
+## During the analysis
+
+The instructor or TA will select images from the group submissions for collective discussion.
+
+The discussion will focus on:
+
+- Framing
+- Composition
+- Shot size
+- Visual balance
+- Subject placement
+- Depth of field
+- Relationships between visual elements
+
+Students are expected to observe closely and contribute actively.
+
+> Attendance and engagement during the group image analysis are part of the project rubric.
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">9. Assemble the photo film in Premiere Pro</span>
+    <span class="section-description">
+      Sequence the edited photographs and use duration, rhythm, sound, and transitions to shape the work.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review the [Week 1 Premiere Pro Fundamentals tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank"}.
+
+## Sequence requirements
 
 - **Resolution:** 1920 × 1080
-- Import still images and sequence images considering **rhythm and pacing**
-- **Total duration:** 30 seconds
-- Add:
-  - Music or silence (see sound restrictions below)
-  - A **simple title and credits**
-- **Allowed transitions:**
-  - Jump cuts
-  - Fade in / fade out
-  - **Cross overs** (simple/subtle temporal overlap between still images)
+- **Duration:** Exactly 30 seconds
+- **Number of photographs:** Approximately 10–18
+- **Image orientation:** Landscape
+- **Image colour:** Black and white
+- **Video footage:** Not permitted
+- **Motion animation:** Not permitted
 
-🚫 **Do not** use colour correction, filters, visual effects, motion animation, or stylized transitions.
+Arrange the photographs by considering:
 
-➡️ **Export as MP4**   
-Codec: **H.264**   
-📄 **Filename:** `Name-Lastname-PhotoFilm.mp4`  
+- Image order
+- Duration
+- Repetition
+- Rhythm
+- Pacing
+- Contrast
+- Continuity
+- Visual transitions between frames
 
-### Sound
+Different photographs may remain on screen for different lengths of time.
 
-- **Music is required**, or **silence may be used if conceptually justified**
-- Instrumental or ambient sound only (no lyrics)
-- No sound effects
-- Sound should support **pacing and rhythm**, not dominate the sequence
-- **Only royalty-free audio. Options:**
-  - <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">Freesound.org</a> — Ambient sounds, drones, textures, and minimal audio
-  - <a href="https://freemusicarchive.org" target="_blank" rel="noopener noreferrer">Free Music Archive (FMA)</a> — Instrumental and experimental music (check licenses)
-  - <a href="https://pixabay.com/music/" target="_blank" rel="noopener noreferrer">Pixabay Music</a> — Royalty-free instrumental tracks
-  - <a href="https://mixkit.co/free-stock-music/" target="_blank" rel="noopener noreferrer">Mixkit</a> — Short, clean instrumental music
-  - <a href="https://www.youtube.com/audiolibrary" target="_blank" rel="noopener noreferrer">YouTube Audio Library</a> — Free instrumental music and ambient tracks
+## Titles and credits
 
----
+Include:
 
-### Project Info PDF
+- A simple project title
+- Your name
+- A brief final credit
 
-Create a **one-page document** including:
+Keep the typography readable and visually consistent with the work.
 
-- **One representative still image**
-- Title
+## Permitted transitions
+
+You may use:
+
+- Straight cuts
+- Fade in
+- Fade out
+- Simple cross-dissolves
+
+Do not use:
+
+- Stylized transitions
+- Motion presets
+- Filters
+- Visual effects
+- Animated photographs
+- Colour effects
+- Additional colour correction in Premiere Pro
+
+## Sound
+
+Use either:
+
+- Instrumental or ambient music, or
+- Silence when conceptually justified
+
+Do not use:
+
+- Lyrics
+- Dialogue
+- Sound effects
+- Copyrighted commercial music without permission
+
+Sound should support the rhythm and pacing of the photographs without dominating the work.
+
+Royalty-free sources include:
+
+- [Freesound](https://freesound.org){:target="_blank"}
+- [Free Music Archive](https://freemusicarchive.org){:target="_blank"}
+- [Pixabay Music](https://pixabay.com/music/){:target="_blank"}
+- [Mixkit](https://mixkit.co/free-stock-music/){:target="_blank"}
+- [YouTube Audio Library](https://www.youtube.com/audiolibrary){:target="_blank"}
+
+Check the licence and attribution requirements before using any audio.
+
+## Export settings
+
+- **Format:** H.264
+- **File type:** MP4
+- **Filename:** `Name-Lastname-PhotoFilm.mp4`
+
+Watch the complete exported file before submitting it. Confirm that the duration, image quality, sound, titles, and credits are correct.
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">10. Create the project information PDF</span>
+    <span class="section-description">
+      Present the basic project information and a short artistic description.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Create a one-page document containing:
+
+- One representative still image
+- Project title
 - Year
-- Author
-- **3/4-line artistic description**
+- Your name
+- A three- or four-line artistic description
 
-➡️ **Export as PDF**  
-📄 **Filename:** `Name-Lastname-PhotoFilm.pdf`
+The description should briefly identify:
+
+- What the sequence observes
+- The location, situation, or subject
+- The visual or narrative approach
+- The atmosphere or idea explored through the work
+
+### Project information submission
+
+- **Format:** PDF
+- **Filename:** `Name-Lastname-PhotoFilm.pdf`
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">11. Submit the project</span>
+    <span class="section-description">
+      Confirm the filenames and submit all four required components.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>Final submission checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Brainstorming PDF</strong>
+      <code>Name-Lastname-Brainstorming.pdf</code>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Photo contact-sheet PDF</strong>
+      <code>Name-Lastname-Photos.pdf</code>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Final Photo Film</strong>
+      <code>Name-Lastname-PhotoFilm.mp4</code>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Project information PDF</strong>
+      <code>Name-Lastname-PhotoFilm.pdf</code>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Open every file before submitting.</strong>
+      Confirm that each file displays or plays correctly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check every filename.</strong>
+      Make sure your name and the required project title are included.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the video is exactly 30 seconds.</strong>
+      Check the exported MP4 rather than relying only on the Premiere Pro timeline.
+    </span>
+  </label>
+</fieldset>
+
+> Follow the submission protocol carefully. Missing files, incorrect formats, or incorrect filenames may affect the project grade.
+
+</div>
+</details>
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">12. Recharge and return the camera</span>
+    <span class="section-description">
+      Protect the equipment, recharge the battery, and return the complete kit.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>Camera return checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the files have been transferred and backed up.</strong>
+      Make sure the photographs exist in at least two locations.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn off the camera.</strong>
+      Move the power switch to <code>OFF</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Replace the lens cap.</strong>
+      Secure the cap before placing the camera in its case.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Recharge the battery.</strong>
+      Charge the battery fully before returning the equipment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Gather all borrowed equipment.</strong>
+      Include the camera, lens, battery, charger, strap, SD card, tripod, and any additional accessories.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Return the complete equipment kit.</strong>
+      Place every item in its correct case or compartment.
+    </span>
+  </label>
+</fieldset>
+
+> Report missing, damaged, or malfunctioning equipment when returning the kit.
+
+</div>
+</details>
 
 
 ---
-
-<h3 style="color: darkred;">📤 Submission</h3>
-
-| Item                    | Required Filename                 |
-|-------------------------|-----------------------------------|
-| Brainstorming PDF       | `Name-Lastname-Brainstorming.pdf` |
-| Photo Contact Sheet PDF | `Name-Lastname-Photos.pdf`        |
-| Final Photo Film MP4    | `Name-Lastname-PhotoFilm.mp4`     |
-| Project Description PDF | `Name-Lastname-PhotoFilm.pdf`     |
-
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
-
-________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-Microsoft CoPilot and ChatGPT was used for **editing and clarity only**, as well as to create some to the **image visualizations**. AI is not used to generate original course content.
