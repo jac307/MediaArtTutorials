@@ -628,6 +628,106 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 
 > These frameworks are starting points rather than strict rules. Choose the approach that best supports the subject, space, and mood of your photograph.
 
+
+## Depth of Field
+
+Depth of field describes how much of the image appears sharp.
+
+**Click each image to learn more.**
+
+<div class="composition-example-grid">
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="depth-of-field-1"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="depth-of-field-1"
+    >
+      <img
+        src="imgs/depth-of-field-1.png"
+        alt="Example showing an image with most parts of the scene in focus"
+      >
+      <span class="photo-reveal-card__title">
+        Deep Depth of Field
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      Most areas of the image appear sharp, so attention is shared across the scene.
+    </p>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="depth-of-field-2"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="depth-of-field-2"
+    >
+      <img
+        src="imgs/depth-of-field-2.png"
+        alt="Example showing shallow depth of field with focus on the ear of the subject where the face looks blurry."
+      >
+      <span class="photo-reveal-card__title">
+        Shallow Depth of Field
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      Only one part of the image is in focus, while the rest becomes blurred.
+    </p>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="depth-of-field-3"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="depth-of-field-3"
+    >
+      <img
+        src="imgs/depth-of-field-3.png"
+        alt="Example showing shallow depth of field with focus on the face of the subject where the ear looks blurry."
+      >
+      <span class="photo-reveal-card__title">
+        Shifted Focus
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      The focus has moved to a different area, changing which part of the image stands out.
+    </p>
+  </div>
+
+</div>
+
+> A shallow depth of field helps direct attention to a specific part of the image, while a deep depth of field keeps more of the scene visible and sharp.
+
+
 </div>
 </details>
 
