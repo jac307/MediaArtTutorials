@@ -536,122 +536,146 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 
 **Select each photograph to learn how the composition is structured.**
 
-<div class="composition-example-grid composition-example-grid--two">
+<div class="photography-examples">
 
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="composition-rule-of-thirds"
-    >
+  <!-- First row -->
+  <section class="photography-example-row">
 
-    <label
-      class="photo-reveal-card__image"
-      for="composition-rule-of-thirds"
-    >
-      <img
-        src="imgs/Thirds.png"
-        alt="Photographic example using the rule of thirds"
-      >
-      <span class="photo-reveal-card__title">
-        Rule of Thirds
-      </span>
-      <span class="photo-reveal-card__prompt">
-        Click to learn more
-      </span>
-    </label>
+    <div class="photography-example-row__images">
 
-    <p class="photo-reveal-card__description">
-      The subject is positioned along an imaginary grid line or intersection instead of directly in the centre.
-    </p>
-  </div>
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="composition-rule-of-thirds"
+        >
 
+        <label
+          class="photo-reveal-card__image"
+          for="composition-rule-of-thirds"
+        >
+          <img
+            src="imgs/Thirds.png"
+            alt="Photographic example using the rule of thirds"
+          >
 
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="composition-golden-ratio"
-    >
+          <span class="photo-reveal-card__title">
+            Rule of Thirds
+          </span>
 
-    <label
-      class="photo-reveal-card__image"
-      for="composition-golden-ratio"
-    >
-      <img
-        src="imgs/GoldenRatio.png"
-        alt="Photographic example using the golden ratio"
-      >
-      <span class="photo-reveal-card__title">
-        Golden Ratio
-      </span>
-      <span class="photo-reveal-card__prompt">
-        Click to learn more
-      </span>
-    </label>
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
 
-    <p class="photo-reveal-card__description">
-      The subject and surrounding elements follow a curved spiral or proportional arrangement that guides the eye through the frame.
-    </p>
-  </div>
+        <p class="photo-reveal-card__description">
+          The subject is positioned along an imaginary grid line or intersection instead of directly in the centre.
+        </p>
+      </div>
 
 
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="composition-leading-lines"
-    >
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="composition-golden-ratio"
+        >
 
-    <label
-      class="photo-reveal-card__image"
-      for="composition-leading-lines"
-    >
-      <img
-        src="imgs/Lines.png"
-        alt="Photographic example using leading lines"
-      >
-      <span class="photo-reveal-card__title">
-        Leading Lines
-      </span>
-      <span class="photo-reveal-card__prompt">
-        Click to learn more
-      </span>
-    </label>
+        <label
+          class="photo-reveal-card__image"
+          for="composition-golden-ratio"
+        >
+          <img
+            src="imgs/GoldenRatio.png"
+            alt="Photographic example using the golden ratio"
+          >
 
-    <p class="photo-reveal-card__description">
-      Visible lines guide the viewer’s eye through the frame or toward the main subject.
-    </p>
-  </div>
+          <span class="photo-reveal-card__title">
+            Golden Ratio
+          </span>
+
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          The visual elements follow a proportional or spiral arrangement that guides the viewer’s eye through the frame.
+        </p>
+      </div>
+
+    </div>
+  </section>
 
 
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="composition-centred-symmetrical"
-    >
+  <!-- Second row -->
+  <section class="photography-example-row">
 
-    <label
-      class="photo-reveal-card__image"
-      for="composition-centred-symmetrical"
-    >
-      <img
-        src="imgs/Symmetry.png"
-        alt="Photographic example using a centred and symmetrical composition"
-      >
-      <span class="photo-reveal-card__title">
-        Centred and Symmetrical
-      </span>
-      <span class="photo-reveal-card__prompt">
-        Click to learn more
-      </span>
-    </label>
+    <div class="photography-example-row__images">
 
-    <p class="photo-reveal-card__description">
-      The subject is placed near the centre while visual elements are balanced across both sides of the frame.
-    </p>
-  </div>
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="composition-leading-lines"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="composition-leading-lines"
+        >
+          <img
+            src="imgs/Lines.png"
+            alt="Photographic example using leading lines"
+          >
+
+          <span class="photo-reveal-card__title">
+            Leading Lines
+          </span>
+
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          Visible lines guide the viewer’s eye through the frame or toward the main subject.
+        </p>
+      </div>
+
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="composition-centred-symmetrical"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="composition-centred-symmetrical"
+        >
+          <img
+            src="imgs/Symmetry.png"
+            alt="Photographic example using a centred and symmetrical composition"
+          >
+
+          <span class="photo-reveal-card__title">
+            Centred and Symmetrical
+          </span>
+
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          The subject is placed near the centre while visual elements are balanced across both sides of the frame.
+        </p>
+      </div>
+
+    </div>
+  </section>
 
 </div>
 
