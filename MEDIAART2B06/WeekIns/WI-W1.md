@@ -536,7 +536,7 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 
 **Select each photograph to learn how the composition is structured.**
 
-<div class="composition-example-grid">
+<div class="composition-example-grid composition-example-grid--two">
 
   <div class="photo-reveal-card">
     <input
@@ -563,6 +563,35 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 
     <p class="photo-reveal-card__description">
       The subject is positioned along an imaginary grid line or intersection instead of directly in the centre.
+    </p>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="composition-golden-ratio"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="composition-golden-ratio"
+    >
+      <img
+        src="imgs/GoldenRatio.png"
+        alt="Photographic example using the golden ratio"
+      >
+      <span class="photo-reveal-card__title">
+        Golden Ratio
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      The subject and surrounding elements follow a curved spiral or proportional arrangement that guides the eye through the frame.
     </p>
   </div>
 
