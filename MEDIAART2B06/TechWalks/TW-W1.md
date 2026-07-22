@@ -1721,8 +1721,6 @@ Complete this checklist before returning the camera.
   </label>
 </fieldset>
 
-![Camera battery charging instructions](imgs/69.png)
-
 > Report any missing, damaged, or malfunctioning equipment when you return the camera.
 
 </div>
