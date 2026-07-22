@@ -1424,7 +1424,7 @@ SECTION 5
 
   <figure class="media-card">
     <img
-      src="imgs/aperture-graph"
+      src="imgs/aperture-graph.png"
       alt="Aperture scale showing wide and narrow lens openings at different f-stop values"
     >
     <figcaption>
@@ -1457,6 +1457,14 @@ Aperture is measured in **f-stops**.
 
 ## Set the aperture
 
+1. Confirm that the shooting mode is set to <code>Av</code>.
+2. Press <strong>Q</strong> to open the Quick Control screen. Select <strong>Aperture (F#)</strong>, then turn the main control dial to change the f-stop. Watch the video below for a demonstration.
+3. Take two photographs of the same subject using different aperture settings:
+   - Use the lowest available f-number, such as <code>f/4</code> or <code>f/5.6</code>, for a blurred background.
+   - Use <code>f/8</code> or <code>f/11</code> to keep more of the scene in focus.
+4. Review both photographs and compare which areas appear sharp.
+5. Repeat the process by changing the aperture one stop at a time. Keep the framing and subject position the same so you can clearly see what changes.
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH"
@@ -1465,50 +1473,6 @@ Aperture is measured in **f-stops**.
     allowfullscreen>
   </iframe>
 </div>
-
-<fieldset class="equipment-checklist">
-  <legend>Aperture setup checklist</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that the mode dial is set to <code>Av</code>.</strong>
-      In Aperture Priority mode, you select the aperture and the camera selects the shutter speed.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Turn the main control dial to select an f-stop.</strong>
-      Watch the aperture value on the LCD screen or in the viewfinder as you turn the dial.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Choose a starting aperture.</strong>
-      Use <code>f/4</code> or <code>f/5.6</code> for a blurred background, or <code>f/8</code> or <code>f/11</code> to keep more of the scene in focus.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Take a test photograph.</strong>
-      Keep the camera steady and focus on the main subject before pressing the shutter.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the photograph.</strong>
-      Check which areas appear sharp and decide whether the aperture needs to be adjusted.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
