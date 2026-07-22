@@ -15,7 +15,7 @@ You will work in pairs during class for technical support and feedback. However,
 ## Project overview
 
 - **Format:** 30-second photo film
-- **Number of photographs:** Approximately 9–13
+- **Number of photographs:** Approximately 8-12
 - **Narrative approach:** Observational micro-narrative
 - **Location:** A McMaster University campus location
 - **Production time:** During class
@@ -1015,7 +1015,7 @@ Bodies and faces are permitted, but avoid photographing identifiable strangers w
     <input type="checkbox">
     <span>
       <strong>Photograph more images than you expect to use.</strong>
-      Your final sequence will contain approximately 9-13 photographs. It is highly recommended you take the tripple of this amount.
+      Your final sequence will contain approximately 8-12 photographs. It is highly recommended you take the tripple of this amount.
     </span>
   </label>
 
@@ -1170,7 +1170,7 @@ SECTION 7
 
 <div class="section-content" markdown="1">
 
-Select approximately **9–13 photographs** that could form your final sequence.
+Select approximately **8-12 photographs** that could form your final sequence.
 
 Arrange the selected photographs in a contact-sheet document using PowerPoint, Word, Canva, Pages, Keynote, or another layout application.
 
@@ -1181,7 +1181,7 @@ Arrange the selected photographs in a contact-sheet document using PowerPoint, W
 - **Layout:** 2 × 4 image grid per page
 - **Image size:** All photographs must appear at the same size
 - **Alignment:** Photographs must be evenly spaced and perfectly aligned within the grid
-- **Image order:** Arrange the photographs in the required sequence (check Example of a photo contact sheet)
+- **Colour:** Photographs must remain in colour; do not convert them to black and white at this stage
 - **File format:** PDF
 
 ![Example of a photo contact sheet](imgs/04.png)
