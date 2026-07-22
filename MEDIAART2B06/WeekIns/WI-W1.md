@@ -85,7 +85,6 @@ Through carefully curated sequences of black and white images, the students of M
 </div>
 </details>
 
-
 <!-- 
 /////////////////
 SECTION 2
@@ -94,164 +93,7 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Brainstorm and sketch</span>
-    <span class="section-description">
-      Develop an observational idea and prepare several possible frames before photographing.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Observational micro-narrative
-
-An **observational micro-narrative** does not require a traditional beginning, middle, and end.
-
-Your sequence may instead focus on:
-
-- A person moving through a location
-- A repeated gesture or action
-- A change in light, distance, or perspective
-- A gradual reveal of a subject
-- A relationship between a person and a space
-- An overlooked event or detail
-- A particular mood or atmosphere
-
-The narrative should emerge through the selection and arrangement of photographs rather than through dialogue or explanatory text.
-
-## Brainstorming activity
-
-Use this [Brainstorming and Sketching Worksheet](imgs/Photofilm_Brainstorming_Worksheet.pdf){:target="_blank"} to:
-
-- Develop a simple observational idea that can be **completed on campus**
-- Consider what may change across the sequence
-- Create 3–5 visual frame-moods using sketches or written notes
-- Consider possible shot sizes and compositions
-- Plan a starting point without creating a fixed script
-
-> Your sketches are a starting point. Remain open to unexpected actions, details, and visual relationships while photographing.
-
-**Notes:** 
-- When using the physical worksheet, scan or photograph every completed page and combine the pages into one PDF.
-- You may use Word, PowerPoint, Pages, or another document application to create the PDF.
-
-### Brainstorming submission
-
-- **Format:** PDF
-- **Filename:** `Name-Lastname-Brainstorming.pdf`
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 3
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Prepare the camera</span>
-    <span class="section-description">
-      Confirm the required camera settings before beginning the photo sequence.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} before beginning.
-
-<fieldset class="equipment-checklist">
-  <legend>Photo Film camera setup</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the shooting mode to <code>Av</code>.</strong>
-      In Aperture Priority mode, you select the aperture and the camera selects the shutter speed.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the image quality to RAW + JPEG.</strong>
-      Keep both versions of every photograph. Use the RAW files for editing and the JPEG files for quick review.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set White Balance to Daylight.</strong>
-      A fixed white-balance setting keeps the colour consistent across the sequence.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the lens to Manual Focus.</strong>
-      Move the focus switch on the lens from <code>AF</code> to <code>MF</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set Image Stabilization for the way you are shooting.</strong>
-      Keep stabilization on when holding the camera. Turn it off when the camera is secured to a tripod.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that the flash is off.</strong>
-      Do not use the built-in flash for this activity.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that Auto Exposure Bracketing is off.</strong>
-      The exposure scale should display a single marker at <code>0</code>, not three separate markers.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Choose an aperture.</strong>
-      Consider whether you want a shallow depth of field or more of the scene to remain sharp.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Begin at <code>ISO 100</code>.</strong>
-      Increase the ISO gradually only when the camera selects a shutter speed that is too slow for a stable image.
-    </span>
-  </label>
-</fieldset>
-
-**Notes:**
-- In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
-- A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Photographic Composition</span>
+    <span class="section-title">2. Photographic Composition</span>
     <span class="section-description">
       Explore shot sizes and compositional frameworks before photographing your sequence.
     </span>
@@ -785,6 +627,164 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 </div>
 
 > These frameworks are starting points rather than strict rules. Choose the approach that best supports the subject, space, and mood of your photograph.
+
+</div>
+</details>
+
+
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Brainstorm and sketch</span>
+    <span class="section-description">
+      Develop an observational idea and prepare several possible frames before photographing.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Observational micro-narrative
+
+An **observational micro-narrative** does not require a traditional beginning, middle, and end.
+
+Your sequence may instead focus on:
+
+- A person moving through a location
+- A repeated gesture or action
+- A change in light, distance, or perspective
+- A gradual reveal of a subject
+- A relationship between a person and a space
+- An overlooked event or detail
+- A particular mood or atmosphere
+
+The narrative should emerge through the selection and arrangement of photographs rather than through dialogue or explanatory text.
+
+## Brainstorming activity
+
+Use this [Brainstorming and Sketching Worksheet](imgs/Photofilm_Brainstorming_Worksheet.pdf){:target="_blank"} to:
+
+- Develop a simple observational idea that can be **completed on campus**
+- Consider what may change across the sequence
+- Create 3–5 visual frame-moods using sketches or written notes
+- Consider possible shot sizes and compositions
+- Plan a starting point without creating a fixed script
+
+> Your sketches are a starting point. Remain open to unexpected actions, details, and visual relationships while photographing.
+
+**Notes:** 
+- When using the physical worksheet, scan or photograph every completed page and combine the pages into one PDF.
+- You may use Word, PowerPoint, Pages, or another document application to create the PDF.
+
+### Brainstorming submission
+
+- **Format:** PDF
+- **Filename:** `Name-Lastname-Brainstorming.pdf`
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Prepare the camera</span>
+    <span class="section-description">
+      Confirm the required camera settings before beginning the photo sequence.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md){:target="_blank"} before beginning.
+
+<fieldset class="equipment-checklist">
+  <legend>Photo Film camera setup</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shooting mode to <code>Av</code>.</strong>
+      In Aperture Priority mode, you select the aperture and the camera selects the shutter speed.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the image quality to RAW + JPEG.</strong>
+      Keep both versions of every photograph. Use the RAW files for editing and the JPEG files for quick review.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set White Balance to Daylight.</strong>
+      A fixed white-balance setting keeps the colour consistent across the sequence.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the lens to Manual Focus.</strong>
+      Move the focus switch on the lens from <code>AF</code> to <code>MF</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Image Stabilization for the way you are shooting.</strong>
+      Keep stabilization on when holding the camera. Turn it off when the camera is secured to a tripod.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the flash is off.</strong>
+      Do not use the built-in flash for this activity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that Auto Exposure Bracketing is off.</strong>
+      The exposure scale should display a single marker at <code>0</code>, not three separate markers.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Choose an aperture.</strong>
+      Consider whether you want a shallow depth of field or more of the scene to remain sharp.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin at <code>ISO 100</code>.</strong>
+      Increase the ISO gradually only when the camera selects a shutter speed that is too slow for a stable image.
+    </span>
+  </label>
+</fieldset>
+
+**Notes:**
+- In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
+- A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
 
 </div>
 </details>
