@@ -15,7 +15,7 @@ You will work in pairs during class for technical support and feedback. However,
 ## Project overview
 
 - **Format:** 30-second photo film
-- **Number of photographs:** Approximately 10–18
+- **Number of photographs:** Approximately 9–13
 - **Narrative approach:** Observational micro-narrative
 - **Location:** A McMaster University campus location
 - **Production time:** During class
@@ -38,17 +38,6 @@ You will work in pairs during class for technical support and feedback. However,
 ## Project stages
 
 Complete the following stages in order:
-
-1. Brainstorm and sketch
-2. Prepare the camera
-3. Photograph the sequence
-4. Transfer and back up the files
-5. Create the photo contact sheet
-6. Edit the photographs in Photoshop
-7. Participate in the group image analysis
-8. Assemble the photo film in Premiere Pro
-9. Create the project information PDF
-10. Submit the completed project
 
 
 <details class="tutorial-section">
