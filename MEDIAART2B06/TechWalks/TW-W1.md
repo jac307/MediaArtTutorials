@@ -1516,11 +1516,6 @@ ISO affects image brightness and visible digital noise.
   </iframe>
 </div>
 
-<video controls>
-  <source src="imgs/13.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
   </div>
 </details>
 
