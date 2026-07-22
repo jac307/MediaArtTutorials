@@ -1457,6 +1457,15 @@ Aperture is measured in **f-stops**.
 
 ## Set the aperture
 
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH"
+    title="How to set aperture on a Canon DSLR camera"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 <fieldset class="equipment-checklist">
   <legend>Aperture setup checklist</legend>
 
@@ -1500,15 +1509,6 @@ Aperture is measured in **f-stops**.
     </span>
   </label>
 </fieldset>
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH"
-    title="How to set aperture on a Canon DSLR camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
 
 </div>
 </details>
