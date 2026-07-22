@@ -246,21 +246,17 @@ Your photographs must:
 
 - Be completed during class time
 - Be captured in colour
-- Use landscape orientation
-- Be static still photographs
+- Use **landscape orientation**
 - Be created specifically for this project
-- Include at least three standard shot sizes
-- Exclude the Extreme Long Shot from the three required shot sizes
-- Use one or two compositional frameworks
+- **Include at least three different shot sizes**
+- **Use one or two compositional frameworks**
 - Explore depth of field
-- Avoid video or motion capture
-- Avoid using the camera’s flash
 
-A tripod is recommended when working with precise framing or slower shutter speeds.
+> A tripod is recommended when working with precise framing or slower shutter speeds.
 
 ## Working in pairs
 
-You may work with a partner for:
+Work with a partner for:
 
 - Technical support
 - Feedback on framing and focus
