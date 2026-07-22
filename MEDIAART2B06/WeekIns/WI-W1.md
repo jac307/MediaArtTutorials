@@ -1170,7 +1170,7 @@ SECTION 7
 
 <div class="section-content" markdown="1">
 
-Select approximately **10–18 photographs** that could form your final sequence.
+Select approximately **9–13 photographs** that could form your final sequence.
 
 Arrange the selected photographs in a contact-sheet document using PowerPoint, Word, Canva, Pages, Keynote, or another layout application.
 
@@ -1179,7 +1179,9 @@ Arrange the selected photographs in a contact-sheet document using PowerPoint, W
 - **Page size:** Letter, 11 × 8.5 inches
 - **Orientation:** Landscape
 - **Layout:** 2 × 4 image grid per page
-- **Image order:** Arrange the photographs in the proposed sequence
+- **Image size:** All photographs must appear at the same size
+- **Alignment:** Photographs must be evenly spaced and perfectly aligned within the grid
+- **Image order:** Arrange the photographs in the required sequence (check Example of a photo contact sheet)
 - **File format:** PDF
 
 ![Example of a photo contact sheet](imgs/04.png)
