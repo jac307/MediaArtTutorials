@@ -708,7 +708,7 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
       for="composition-rule-of-thirds"
     >
       <img
-        src="imgs/composition-rule-of-thirds.jpg"
+        src="imgs/Thirds.png"
         alt="Photographic example using the rule of thirds"
       >
       <span class="photo-reveal-card__title">
@@ -737,7 +737,7 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
       for="composition-leading-lines"
     >
       <img
-        src="imgs/composition-leading-lines.jpg"
+        src="imgs/Lines.png"
         alt="Photographic example using leading lines"
       >
       <span class="photo-reveal-card__title">
@@ -766,7 +766,7 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
       for="composition-centred-symmetrical"
     >
       <img
-        src="imgs/composition-centred-symmetrical.jpg"
+        src="imgs/Symmetry.png"
         alt="Photographic example using a centred and symmetrical composition"
       >
       <span class="photo-reveal-card__title">
