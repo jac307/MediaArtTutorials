@@ -1493,19 +1493,42 @@ SECTION 6
 
   <div class="section-content" markdown="1">
 
-ISO affects image brightness and visible digital noise.
+ISO affects image brightness and visible digital noise. A higher ISO can produce a brighter image in low-light conditions, but it may also increase noise and reduce fine detail. A lower ISO produces a cleaner image, but it requires more available light, a wider aperture, or a slower shutter speed.
 
-- Begin with **ISO 100 or 200** outdoors or in bright light.
-- Try **ISO 400 or 800** when there is less light.
-- Use a higher ISO only when necessary.
-- Higher ISO values can produce more visible noise.
+<div class="media-grid media-grid--two">
 
-### A simple Week 1 rule
+  <figure class="media-card">
+    <img
+      src="imgs/ISO-and-effective-exposure.gif"
+      alt="Animated example showing how increasing ISO makes the image appear brighter"
+    >
+    <figcaption>
+      Higher ISO increases image brightness
+    </figcaption>
+  </figure>
 
-1. Set the aperture for the depth of field you want.
-2. Take a test photograph.
-3. If the photograph is too dark, increase the ISO.
-4. If the shutter speed becomes too slow for handheld photography, increase the ISO or use a tripod.
+  <figure class="media-card">
+    <img
+      src="imgs/ISO-digital-noise.gif"
+      alt="Animated example showing how increasing ISO introduces more visible digital noise"
+    >
+    <figcaption>
+      Higher ISO can also increase digital noise
+    </figcaption>
+  </figure>
+</div>
+
+> The goal is to find a balance: use an ISO high enough to achieve a usable exposure, but low enough to preserve detail and reduce visible noise.
+
+## Set ISO
+
+1. Confirm that the shooting mode is set to <code>Av</code>.
+2. Press <strong>Q</strong> to open the Quick Control screen. Select <strong>ISO</strong>, then turn the main control dial to change the value. Watch the video below for a demonstration.
+3. Take two photographs of the same subject using different ISO settings:
+   - Take the first photograph at <code>ISO 100</code>, the lowest standard setting.
+   - Take the second photograph at <code>ISO 6400</code> or <code>ISO 12800</code.
+4. Review both photographs and compare the amount of digital noise and fine detail. Also notice whether the camera selected a different shutter speed.
+5. Repeat the process by increasing the ISO one level at a time. Keep the framing, subject position, aperture, and lighting consistent so you can clearly see what changes.
 
 <div class="video-wrapper">
   <iframe
