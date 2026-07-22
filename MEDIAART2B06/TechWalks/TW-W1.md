@@ -1253,29 +1253,150 @@ SECTION 4
   <summary>
     <span class="section-title">4. Understand exposure</span>
     <span class="section-description">
-      Learn how aperture, shutter speed, and ISO affect image brightness.
+      Compare underexposed, balanced, and overexposed photographs.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
+
+## What is exposure?
 
 **Exposure** describes how light or dark a photograph appears.
 
-- **Balanced exposure:** The important details remain visible.
-- **Overexposure:** The photograph is too bright and may lose highlight detail.
 - **Underexposure:** The photograph is too dark and may lose shadow detail.
+- **Balanced exposure:** Important details remain visible in both bright and dark areas.
+- **Overexposure:** The photograph is too bright and may lose highlight detail.
 
-![Examples of underexposure, balanced exposure, and overexposure](imgs/14.png)
+## Check your understanding
 
-Exposure is controlled by three settings:
+The image below shows the same scene at three exposure levels.
 
-- **Aperture:** The size of the lens opening.
-- **Shutter speed:** How long the sensor receives light.
-- **ISO:** How strongly the camera responds to light.
+**Which photograph is underexposed, balanced, and overexposed? Select each image to check.**
 
-In **Aperture Priority (`Av`)**, you select the aperture and ISO, and the camera selects the shutter speed.
+<div class="image-reveal-quiz" data-image-reveal-quiz>
+
+  <div class="image-reveal-quiz__visual">
+
+    <img
+      src="imgs/exposure-comparison.webp"
+      alt="Three versions of the same mountain and lake scene photographed at different exposure levels"
+    >
+
+    <button
+      class="image-reveal-choice"
+      style="--choice-left: 0%; --choice-width: 33.33%;"
+      type="button"
+      aria-label="Check the exposure of photograph 1"
+      aria-pressed="false"
+      aria-controls="exposure-answer-1"
+      data-answer="exposure-answer-1"
+    >
+      <span class="image-reveal-choice__number" aria-hidden="true">1</span>
+    </button>
+
+    <button
+      class="image-reveal-choice"
+      style="--choice-left: 33.33%; --choice-width: 33.34%;"
+      type="button"
+      aria-label="Check the exposure of photograph 2"
+      aria-pressed="false"
+      aria-controls="exposure-answer-2"
+      data-answer="exposure-answer-2"
+    >
+      <span class="image-reveal-choice__number" aria-hidden="true">2</span>
+    </button>
+
+    <button
+      class="image-reveal-choice"
+      style="--choice-left: 66.67%; --choice-width: 33.33%;"
+      type="button"
+      aria-label="Check the exposure of photograph 3"
+      aria-pressed="false"
+      aria-controls="exposure-answer-3"
+      data-answer="exposure-answer-3"
+    >
+      <span class="image-reveal-choice__number" aria-hidden="true">3</span>
+    </button>
 
   </div>
+
+  <div
+    class="image-reveal-quiz__instructions"
+    data-quiz-instructions
+    aria-live="polite"
+  >
+    Select photograph 1, 2, or 3 to reveal its exposure.
+  </div>
+
+  <div class="image-reveal-quiz__answers">
+
+    <section
+      id="exposure-answer-1"
+      class="image-reveal-answer"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-reveal-answer__label">Photograph 1</p>
+
+      <h3>Underexposed</h3>
+
+      <p>
+        This photograph is too dark. Detail has been lost in the mountains,
+        trees, and foreground shadows.
+      </p>
+    </section>
+
+    <section
+      id="exposure-answer-2"
+      class="image-reveal-answer"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-reveal-answer__label">Photograph 2</p>
+
+      <h3>Balanced exposure</h3>
+
+      <p>
+        This photograph preserves detail in the sky, mountains, water, and
+        foreground. The brightest and darkest areas remain visible.
+      </p>
+    </section>
+
+    <section
+      id="exposure-answer-3"
+      class="image-reveal-answer"
+      tabindex="-1"
+      hidden
+    >
+      <p class="image-reveal-answer__label">Photograph 3</p>
+
+      <h3>Overexposed</h3>
+
+      <p>
+        This photograph is too bright. Much of the sky and foreground has
+        lost detail and appears white.
+      </p>
+    </section>
+
+  </div>
+
+</div>
+
+> For this exercise, a balanced exposure preserves useful detail. A photographer may intentionally choose a darker or brighter exposure for creative reasons.
+
+## What controls exposure?
+
+Exposure is affected by three camera settings:
+
+- **Aperture:** The size of the lens opening.
+- **Shutter speed:** How long the camera sensor receives light.
+- **ISO:** How strongly the camera responds to light.
+
+In **Aperture Priority (`Av`)**, you select the aperture and ISO. The camera then selects the shutter speed.
+
+You will learn more about each setting in the following sections.
+
+</div>
 </details>
 
 <!-- 

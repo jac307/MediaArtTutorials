@@ -34,19 +34,20 @@
     const contentCopy = pageContent.cloneNode(true);
 
     const ignoredElements = contentCopy.querySelectorAll(
-      [
-        "[data-speech-ignore]",
-        "script",
-        "style",
-        "noscript",
-        "pre",
-        "code",
-        "button",
-        "audio",
-        "video",
-        "iframe"
-      ].join(",")
-    );
+  [
+    "[data-speech-ignore]",
+    "[hidden]",
+    "script",
+    "style",
+    "noscript",
+    "pre",
+    "code",
+    "button",
+    "audio",
+    "video",
+    "iframe"
+  ].join(",")
+);
 
     ignoredElements.forEach(function (element) {
       element.remove();
