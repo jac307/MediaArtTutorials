@@ -39,6 +39,11 @@ You will work in pairs during class for technical support and feedback. However,
 
 Complete the following stages in order:
 
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
@@ -80,6 +85,12 @@ Through carefully curated sequences of black and white images, the students of M
 </div>
 </details>
 
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
@@ -131,6 +142,11 @@ Use this [Brainstorming and Sketching Worksheet](imgs/Photofilm_Brainstorming_Wo
 </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
@@ -210,7 +226,6 @@ Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md
       Consider whether you want a shallow depth of field or more of the scene to remain sharp.
     </span>
   </label>
-</fieldset>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -219,6 +234,7 @@ Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md
       Increase the ISO gradually only when the camera selects a shutter speed that is too slow for a stable image.
     </span>
   </label>
+</fieldset>
 
 **Notes:**
 - In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
@@ -227,10 +243,561 @@ Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md
 </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Photograph the sequence</span>
+    <span class="section-title">4. Photographic Composition</span>
+    <span class="section-description">
+      Explore shot sizes and compositional frameworks before photographing your sequence.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Types of shots
+
+Shot size determines how much of the subject and surrounding space appears within the frame.
+
+Each row shows one shot size using a human subject and an object.
+
+**Select each photograph to read its description.**
+
+<div class="photography-examples">
+
+  <!-- Long shot -->
+  <section class="photography-example-row">
+    <h3>Long Shot</h3>
+
+    <div class="photography-example-row__images">
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="long-shot-human"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="long-shot-human"
+        >
+          <img
+            src="imgs/LS.png"
+            alt="Long shot example using a human subject"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+           A long shot shows the complete person from a distance while giving significant visual importance to the surrounding environment.
+        </p>
+      </div>
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="long-shot-object"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="long-shot-object"
+        >
+          <img
+            src="imgs/LS-O.png"
+            alt="Long shot example using an object"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          A long shot presents the object from a distance so its relationship to the surrounding location remains important.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Full Shot -->
+<section class="photography-example-row">
+  <h3>Full Shot</h3>
+
+  <div class="photography-example-row__images">
+
+    <div class="photo-reveal-card">
+      <input
+        class="photo-reveal-card__toggle screen-reader-only"
+        type="checkbox"
+        id="full-shot-human"
+      >
+
+      <label
+        class="photo-reveal-card__image"
+        for="full-shot-human"
+      >
+        <img
+          src="imgs/FS.png"
+          alt="Full shot example using a human subject"
+        >
+        <span class="photo-reveal-card__prompt">
+          Click to learn more
+        </span>
+      </label>
+
+      <p class="photo-reveal-card__description">
+        A full shot frames the entire person from head to toe while keeping the body as the main focus of the photograph.
+      </p>
+    </div>
+
+    <div class="photo-reveal-card">
+      <input
+        class="photo-reveal-card__toggle screen-reader-only"
+        type="checkbox"
+        id="full-shot-object"
+      >
+
+      <label
+        class="photo-reveal-card__image"
+        for="full-shot-object"
+      >
+        <img
+          src="imgs/FS-O.png"
+          alt="Full shot example using an object"
+        >
+        <span class="photo-reveal-card__prompt">
+          Click to learn more
+        </span>
+      </label>
+
+      <p class="photo-reveal-card__description">
+        A full shot shows the complete object while reducing the amount of surrounding space visible in the frame.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<!-- Medium Full Shot / Cowboy Shot -->
+<section class="photography-example-row">
+  <h3>Medium Full Shot / Cowboy Shot</h3>
+
+  <div class="photography-example-row__images">
+
+    <div class="photo-reveal-card">
+      <input
+        class="photo-reveal-card__toggle screen-reader-only"
+        type="checkbox"
+        id="medium-full-shot-human"
+      >
+
+      <label
+        class="photo-reveal-card__image"
+        for="medium-full-shot-human"
+      >
+        <img
+          src="imgs/MFS.png"
+          alt="Medium full shot or cowboy shot example using a human subject"
+        >
+        <span class="photo-reveal-card__prompt">
+          Click to learn more
+        </span>
+      </label>
+
+      <p class="photo-reveal-card__description">
+        A medium full shot frames a person from approximately the head to the knees or mid-thigh, showing gesture and body language.
+      </p>
+    </div>
+
+    <div class="photo-reveal-card">
+      <input
+        class="photo-reveal-card__toggle screen-reader-only"
+        type="checkbox"
+        id="medium-full-shot-object"
+      >
+
+      <label
+        class="photo-reveal-card__image"
+        for="medium-full-shot-object"
+      >
+        <img
+          src="imgs/MFS-O.png"
+          alt="Medium full shot example using an object"
+        >
+        <span class="photo-reveal-card__prompt">
+          Click to learn more
+        </span>
+      </label>
+
+      <p class="photo-reveal-card__description">
+        A medium full shot frames most of the object while retaining enough surrounding space to provide context.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+  <!-- Medium shot -->
+  <section class="photography-example-row">
+    <h3>Medium Shot</h3>
+
+    <div class="photography-example-row__images">
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="medium-shot-human"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="medium-shot-human"
+        >
+          <img
+            src="imgs/MS.png"
+            alt="Medium shot example using a human subject"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          A medium shot usually frames a person from approximately the waist up while retaining some surrounding context.
+        </p>
+      </div>
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="medium-shot-object"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="medium-shot-object"
+        >
+          <img
+            src="imgs/MS-O.png"
+            alt="Medium shot example using an object"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          A medium shot gives the object greater visual importance while still showing part of its surroundings.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Medium Close-Up -->
+<section class="photography-example-row">
+  <h3>Medium Close-Up</h3>
+
+  <div class="photography-example-row__images">
+
+    <div class="photo-reveal-card">
+      <input
+        class="photo-reveal-card__toggle screen-reader-only"
+        type="checkbox"
+        id="medium-close-up-human"
+      >
+
+      <label
+        class="photo-reveal-card__image"
+        for="medium-close-up-human"
+      >
+        <img
+          src="imgs/MCU.png"
+          alt="Medium close-up example using a human subject"
+        >
+        <span class="photo-reveal-card__prompt">
+          Click to learn more
+        </span>
+      </label>
+
+      <p class="photo-reveal-card__description">
+        A medium close-up usually frames a person from the chest or shoulders upward, emphasizing facial expression while retaining some body language.
+      </p>
+    </div>
+
+    <div class="photo-reveal-card">
+      <input
+        class="photo-reveal-card__toggle screen-reader-only"
+        type="checkbox"
+        id="medium-close-up-object"
+      >
+
+      <label
+        class="photo-reveal-card__image"
+        for="medium-close-up-object"
+      >
+        <img
+          src="imgs/MCU-O.png"
+          alt="Medium close-up example using an object"
+        >
+        <span class="photo-reveal-card__prompt">
+          Click to learn more
+        </span>
+      </label>
+
+      <p class="photo-reveal-card__description">
+        A medium close-up presents a large portion of the object while keeping a small amount of surrounding context visible.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+  <!-- Close-up -->
+  <section class="photography-example-row">
+    <h3>Close-Up</h3>
+
+    <div class="photography-example-row__images">
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="close-up-human"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="close-up-human"
+        >
+          <img
+            src="imgs/CU.png"
+            alt="Close-up example using a human subject"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          A close-up emphasizes the face, expression, or gesture while reducing the surrounding visual information.
+        </p>
+      </div>
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="close-up-object"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="close-up-object"
+        >
+          <img
+            src="imgs/CU-O.png"
+            alt="Close-up example using an object"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          A close-up directs attention toward the object’s form, surface, function, or important details.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- Extreme close-up -->
+  <section class="photography-example-row">
+    <h3>Extreme Close-Up</h3>
+
+    <div class="photography-example-row__images">
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="extreme-close-up-human"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="extreme-close-up-human"
+        >
+          <img
+            src="imgs/ECU.png"
+            alt="Extreme close-up example using a human subject"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          An extreme close-up isolates a small bodily detail, such as an eye, hand, or section of the face.
+        </p>
+      </div>
+
+      <div class="photo-reveal-card">
+        <input
+          class="photo-reveal-card__toggle screen-reader-only"
+          type="checkbox"
+          id="extreme-close-up-object"
+        >
+
+        <label
+          class="photo-reveal-card__image"
+          for="extreme-close-up-object"
+        >
+          <img
+            src="imgs/ECU-O-.png"
+            alt="Extreme close-up example using an object"
+          >
+          <span class="photo-reveal-card__prompt">
+            Click to learn more
+          </span>
+        </label>
+
+        <p class="photo-reveal-card__description">
+          An extreme close-up isolates a small detail and emphasizes texture, material, pattern, or shape.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+
+## Compositional frameworks
+
+Composition describes how subjects, objects, lines, and empty spaces are organized within the photographic frame.
+
+**Select each photograph to learn how the composition is structured.**
+
+<div class="composition-example-grid">
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="composition-rule-of-thirds"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="composition-rule-of-thirds"
+    >
+      <img
+        src="imgs/composition-rule-of-thirds.jpg"
+        alt="Photographic example using the rule of thirds"
+      >
+      <span class="photo-reveal-card__title">
+        Rule of Thirds
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      The subject is positioned along an imaginary grid line or intersection instead of directly in the centre.
+    </p>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="composition-leading-lines"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="composition-leading-lines"
+    >
+      <img
+        src="imgs/composition-leading-lines.jpg"
+        alt="Photographic example using leading lines"
+      >
+      <span class="photo-reveal-card__title">
+        Leading Lines
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      Visible lines guide the viewer’s eye through the frame or toward the main subject.
+    </p>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="composition-centred-symmetrical"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="composition-centred-symmetrical"
+    >
+      <img
+        src="imgs/composition-centred-symmetrical.jpg"
+        alt="Photographic example using a centred and symmetrical composition"
+      >
+      <span class="photo-reveal-card__title">
+        Centred and Symmetrical
+      </span>
+      <span class="photo-reveal-card__prompt">
+        Click to learn more
+      </span>
+    </label>
+
+    <p class="photo-reveal-card__description">
+      The subject is placed near the centre while visual elements are balanced across both sides of the frame.
+    </p>
+  </div>
+
+</div>
+
+> These frameworks are starting points rather than strict rules. Choose the approach that best supports the subject, space, and mood of your photograph.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Photograph the sequence</span>
     <span class="section-description">
       Create an observational sequence using shot size, composition, focus, and depth of field.
     </span>
@@ -286,7 +853,7 @@ Bodies and faces are permitted, but avoid photographing identifiable strangers w
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Check the aperture, ISO, focus, and shutter speed.</strong>
+      <strong>Check the aperture, ISO, and focus.</strong>
       Review the settings before taking the first photograph.
     </span>
   </label>
@@ -295,7 +862,7 @@ Bodies and faces are permitted, but avoid photographing identifiable strangers w
     <input type="checkbox">
     <span>
       <strong>Photograph more images than you expect to use.</strong>
-      Your final sequence will contain approximately 10–18 photographs.
+      Your final sequence will contain approximately 9-13 photographs. It is highly recommended you take the tripple of this amount.
     </span>
   </label>
 
@@ -340,38 +907,18 @@ Bodies and faces are permitted, but avoid photographing identifiable strangers w
   </label>
 </fieldset>
 
-<div class="media-grid media-grid--three">
-
-  <figure class="media-card">
-    <img
-      src="imgs/01.png"
-      alt="Example of photographic framing for the Photo Film activity"
-    >
-  </figure>
-
-  <figure class="media-card">
-    <img
-      src="imgs/02.png"
-      alt="Example of composition for the Photo Film activity"
-    >
-  </figure>
-
-  <figure class="media-card">
-    <img
-      src="imgs/03.jpeg"
-      alt="Example of depth of field for the Photo Film activity"
-    >
-  </figure>
-
-</div>
-
 </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Transfer and back up the photographs</span>
+    <span class="section-title">6. Transfer and back up the photographs</span>
     <span class="section-description">
       Copy the RAW and JPEG files to a computer and create a second copy.
     </span>
@@ -454,10 +1001,15 @@ Keep the original photographs unchanged. Create separate folders for original an
 </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create the photo contact sheet</span>
+    <span class="section-title">7. Create the photo contact sheet</span>
     <span class="section-description">
       Select the final sequence and arrange the photographs in a contact-sheet PDF.
     </span>
@@ -496,9 +1048,15 @@ Review the sequence before exporting:
 </details>
 
 
+<!-- 
+/////////////////
+SECTION 8
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Edit the photographs in Photoshop</span>
+    <span class="section-title">8. Edit the photographs in Photoshop</span>
     <span class="section-description">
       Convert the selected photographs to black and white and create visual consistency.
     </span>
@@ -538,10 +1096,15 @@ Create a separate folder for the edited files. Do not overwrite the original RAW
 </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 9
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">8. Participate in the group image analysis</span>
+    <span class="section-title">9. Participate in the group image analysis</span>
     <span class="section-description">
       Prepare one photograph and contribute to a guided discussion about visual structure.
     </span>
@@ -621,9 +1184,15 @@ Students are expected to observe closely and contribute actively.
 </details>
 
 
+<!-- 
+/////////////////
+SECTION 10
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">9. Assemble the photo film in Premiere Pro</span>
+    <span class="section-title">10. Assemble the photo film in Premiere Pro</span>
     <span class="section-description">
       Sequence the edited photographs and use duration, rhythm, sound, and transitions to shape the work.
     </span>
@@ -723,9 +1292,15 @@ Watch the complete exported file before submitting it. Confirm that the duration
 </details>
 
 
+<!-- 
+/////////////////
+SECTION 11
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">10. Create the project information PDF</span>
+    <span class="section-title">11. Create the project information PDF</span>
     <span class="section-description">
       Present the basic project information and a short artistic description.
     </span>
@@ -757,9 +1332,15 @@ The description should briefly identify:
 </details>
 
 
+<!-- 
+/////////////////
+SECTION 12
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">11. Submit the project</span>
+    <span class="section-title">12. Submit the project</span>
     <span class="section-description">
       Confirm the filenames and submit all four required components.
     </span>
@@ -832,10 +1413,15 @@ The description should briefly identify:
 </div>
 </details>
 
+<!-- 
+/////////////////
+SECTION 13
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">12. Recharge and return the camera</span>
+    <span class="section-title">13. Recharge and return the camera</span>
     <span class="section-description">
       Protect the equipment, recharge the battery, and return the complete kit.
     </span>
