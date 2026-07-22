@@ -1263,7 +1263,7 @@ SECTION 4
 
 **Exposure** describes how light or dark a photograph appears.
 
-## Explore the examples
+### Explore the examples
 
 The image below shows the same scene photographed at three different exposure levels.
 
@@ -1418,27 +1418,88 @@ SECTION 5
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-![Aperture and f-stop scale](imgs/09.jpg)
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/aperture-graph"
+      alt="Aperture scale showing wide and narrow lens openings at different f-stop values"
+    >
+    <figcaption>
+      Aperture scale and f-stop values
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/aperture-example.gif"
+      alt="Animated example showing how aperture changes depth of field"
+    >
+    <figcaption>
+      Aperture and depth of field
+    </figcaption>
+  </figure>
+
+</div>
+
+## What is aperture?
+
+Aperture is the opening inside the lens. It affects how much light enters the camera and how much of the scene appears sharp.
 
 Aperture is measured in **f-stops**.
 
 - A **wide aperture**, such as `f/3.5` or `f/5.6`, creates a shallow depth of field. The subject may appear sharp while the background appears blurred.
 - A **narrow aperture**, such as `f/8` or `f/11`, creates a deeper depth of field. More of the scene may appear sharp.
 
-A smaller f-number means a wider opening. A larger f-number means a narrower opening.
+> A smaller f-number means a wider opening. A larger f-number means a narrower opening.
 
-![Aperture and depth-of-field example](imgs/10.gif)
+## Set the aperture
 
-### Set the aperture
+<fieldset class="equipment-checklist">
+  <legend>Aperture setup checklist</legend>
 
-1. Turn the mode dial to `Av`.
-2. Use the main control dial to select an f-stop.
-3. Begin with one of these options:
-   - `f/4` or `f/5.6` for a blurred background
-   - `f/8` or `f/11` for more of the scene in focus
-4. Take a test photograph and review it.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the mode dial is set to <code>Av</code>.</strong>
+      In Aperture Priority mode, you select the aperture and the camera selects the shutter speed.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn the main control dial to select an f-stop.</strong>
+      Watch the aperture value on the LCD screen or in the viewfinder as you turn the dial.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Choose a starting aperture.</strong>
+      Use <code>f/4</code> or <code>f/5.6</code> for a blurred background, or <code>f/8</code> or <code>f/11</code> to keep more of the scene in focus.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Take a test photograph.</strong>
+      Keep the camera steady and focus on the main subject before pressing the shutter.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the photograph.</strong>
+      Check which areas appear sharp and decide whether the aperture needs to be adjusted.
+    </span>
+  </label>
+</fieldset>
 
 <div class="video-wrapper">
   <iframe
@@ -1449,7 +1510,7 @@ A smaller f-number means a wider opening. A larger f-number means a narrower ope
   </iframe>
 </div>
 
-  </div>
+</div>
 </details>
 
 <!-- 
