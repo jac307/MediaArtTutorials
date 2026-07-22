@@ -206,23 +206,22 @@ Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Begin at <code>ISO 100</code>.</strong>
-      Increase the ISO gradually only when the camera selects a shutter speed that is too slow for a stable image.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Choose an aperture.</strong>
       Consider whether you want a shallow depth of field or more of the scene to remain sharp.
     </span>
   </label>
 </fieldset>
 
-In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin at <code>ISO 100</code>.</strong>
+      Increase the ISO gradually only when the camera selects a shutter speed that is too slow for a stable image.
+    </span>
+  </label>
 
-A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
+> In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
+> A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
 
 </div>
 </details>
