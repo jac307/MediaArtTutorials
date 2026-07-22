@@ -109,10 +109,9 @@ The narrative should emerge through the selection and arrangement of photographs
 
 ## Brainstorming activity
 
-Use the worksheet to:
+Use this [Brainstorming and Sketching Worksheet](imgs/Photofilm_Brainstorming_Worksheet.pdf){:target="_blank"} to:
 
-- Develop a simple observational idea that can be completed on campus
-- Identify a location
+- Develop a simple observational idea that can be **completed on campus**
 - Consider what may change across the sequence
 - Create 3–5 visual frame-moods using sketches or written notes
 - Consider possible shot sizes and compositions
@@ -120,11 +119,9 @@ Use the worksheet to:
 
 > Your sketches are a starting point. Remain open to unexpected actions, details, and visual relationships while photographing.
 
-[Download the Brainstorming and Sketching Worksheet](imgs/Photofilm_Brainstorming_Worksheet.pdf){:target="_blank"}
-
-When using the physical worksheet, scan or photograph every completed page and combine the pages into one PDF.
-
-You may use Word, PowerPoint, Pages, or another document application to create the PDF.
+**Notes:** 
+- When using the physical worksheet, scan or photograph every completed page and combine the pages into one PDF.
+- You may use Word, PowerPoint, Pages, or another document application to create the PDF.
 
 ### Brainstorming submission
 
