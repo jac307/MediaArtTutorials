@@ -14,13 +14,6 @@ Throughout the course, you will use Canon EOS Rebel T4i, T5i, and/or T7i.
 
 [Check the tech specs of these DSLR cameras](../Cameras.md){:target="_blank"}
 
-By the end of the walkthrough, you should be able to:
-
-- prepare the camera for a new shoot
-- control aperture, ISO, focus, and framing
-- review photographs on the camera
-- transfer, organize, and back up your files
-
 <!-- <details class="tutorial-section" open>
   <summary>
     <span class="section-title">Week 1 settings</span>
