@@ -669,7 +669,7 @@ Each row shows one shot size using a human subject and an object.
           for="extreme-close-up-object"
         >
           <img
-            src="imgs/ECU-O-.png"
+            src="imgs/ECU-O.png"
             alt="Extreme close-up example using an object"
           >
           <span class="photo-reveal-card__prompt">
