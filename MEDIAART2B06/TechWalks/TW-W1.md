@@ -1253,7 +1253,7 @@ SECTION 4
   <summary>
     <span class="section-title">4. Understand exposure</span>
     <span class="section-description">
-      Compare underexposed, balanced, and overexposed photographs.
+      Compare three exposure levels and learn how brightness affects image detail.
     </span>
   </summary>
 
@@ -1263,118 +1263,123 @@ SECTION 4
 
 **Exposure** describes how light or dark a photograph appears.
 
-- **Underexposure:** The photograph is too dark and may lose shadow detail.
-- **Balanced exposure:** Important details remain visible in both bright and dark areas.
-- **Overexposure:** The photograph is too bright and may lose highlight detail.
+## Explore the examples
 
-## Check your understanding
+The image below shows the same scene photographed at three different exposure levels.
 
-The image below shows the same scene at three exposure levels.
+**Click each photograph to find out which type of exposure it shows.**
 
-**Which photograph is underexposed, balanced, and overexposed? Select each image to check.**
+<div class="visual-reveal visual-reveal--three">
 
-<div class="image-reveal-quiz" data-image-reveal-quiz>
+  <input
+    class="screen-reader-only visual-reveal__input"
+    type="radio"
+    name="exposure-example"
+    id="exposure-example-1"
+  >
 
-  <div class="image-reveal-quiz__visual">
+  <input
+    class="screen-reader-only visual-reveal__input"
+    type="radio"
+    name="exposure-example"
+    id="exposure-example-2"
+  >
+
+  <input
+    class="screen-reader-only visual-reveal__input"
+    type="radio"
+    name="exposure-example"
+    id="exposure-example-3"
+  >
+
+  <div class="visual-reveal__image">
 
     <img
       src="imgs/exposure-comparison.webp"
       alt="Three versions of the same mountain and lake scene photographed at different exposure levels"
     >
 
-    <button
-      class="image-reveal-choice"
-      style="--choice-left: 0%; --choice-width: 33.33%;"
-      type="button"
-      aria-label="Check the exposure of photograph 1"
-      aria-pressed="false"
-      aria-controls="exposure-answer-1"
-      data-answer="exposure-answer-1"
+    <label
+      class="visual-reveal__choice visual-reveal__choice--1"
+      for="exposure-example-1"
     >
-      <span class="image-reveal-choice__number" aria-hidden="true">1</span>
-    </button>
+      <span class="visual-reveal__number" aria-hidden="true">1</span>
+      <span class="screen-reader-only">
+        Select the first exposure example
+      </span>
+    </label>
 
-    <button
-      class="image-reveal-choice"
-      style="--choice-left: 33.33%; --choice-width: 33.34%;"
-      type="button"
-      aria-label="Check the exposure of photograph 2"
-      aria-pressed="false"
-      aria-controls="exposure-answer-2"
-      data-answer="exposure-answer-2"
+    <label
+      class="visual-reveal__choice visual-reveal__choice--2"
+      for="exposure-example-2"
     >
-      <span class="image-reveal-choice__number" aria-hidden="true">2</span>
-    </button>
+      <span class="visual-reveal__number" aria-hidden="true">2</span>
+      <span class="screen-reader-only">
+        Select the second exposure example
+      </span>
+    </label>
 
-    <button
-      class="image-reveal-choice"
-      style="--choice-left: 66.67%; --choice-width: 33.33%;"
-      type="button"
-      aria-label="Check the exposure of photograph 3"
-      aria-pressed="false"
-      aria-controls="exposure-answer-3"
-      data-answer="exposure-answer-3"
+    <label
+      class="visual-reveal__choice visual-reveal__choice--3"
+      for="exposure-example-3"
     >
-      <span class="image-reveal-choice__number" aria-hidden="true">3</span>
-    </button>
+      <span class="visual-reveal__number" aria-hidden="true">3</span>
+      <span class="screen-reader-only">
+        Select the third exposure example
+      </span>
+    </label>
 
   </div>
 
-  <div
-    class="image-reveal-quiz__instructions"
-    data-quiz-instructions
-    aria-live="polite"
-  >
-    Select photograph 1, 2, or 3 to reveal its exposure.
-  </div>
+  <div class="visual-reveal__feedback">
 
-  <div class="image-reveal-quiz__answers">
+    <p class="visual-reveal__prompt">
+      Select photograph 1, 2, or 3 to learn more.
+    </p>
 
-    <section
-      id="exposure-answer-1"
-      class="image-reveal-answer"
-      tabindex="-1"
-      hidden
-    >
-      <p class="image-reveal-answer__label">Photograph 1</p>
+    <section class="visual-reveal__answer visual-reveal__answer--1">
+      <p class="visual-reveal__label">Photograph 1</p>
 
       <h3>Underexposed</h3>
 
       <p>
-        This photograph is too dark. Detail has been lost in the mountains,
-        trees, and foreground shadows.
+        This photograph is too dark. Details are difficult to see in the
+        mountains, trees, water, and foreground.
+      </p>
+
+      <p>
+        An underexposed photograph does not receive enough light.
       </p>
     </section>
 
-    <section
-      id="exposure-answer-2"
-      class="image-reveal-answer"
-      tabindex="-1"
-      hidden
-    >
-      <p class="image-reveal-answer__label">Photograph 2</p>
+    <section class="visual-reveal__answer visual-reveal__answer--2">
+      <p class="visual-reveal__label">Photograph 2</p>
 
       <h3>Balanced exposure</h3>
 
       <p>
-        This photograph preserves detail in the sky, mountains, water, and
-        foreground. The brightest and darkest areas remain visible.
+        This photograph keeps useful detail in the sky, mountains, water,
+        and foreground.
+      </p>
+
+      <p>
+        A balanced exposure avoids losing too much information in the
+        brightest and darkest areas.
       </p>
     </section>
 
-    <section
-      id="exposure-answer-3"
-      class="image-reveal-answer"
-      tabindex="-1"
-      hidden
-    >
-      <p class="image-reveal-answer__label">Photograph 3</p>
+    <section class="visual-reveal__answer visual-reveal__answer--3">
+      <p class="visual-reveal__label">Photograph 3</p>
 
       <h3>Overexposed</h3>
 
       <p>
-        This photograph is too bright. Much of the sky and foreground has
-        lost detail and appears white.
+        This photograph is too bright. Large parts of the sky, mountains,
+        and foreground appear white and have lost detail.
+      </p>
+
+      <p>
+        An overexposed photograph receives too much light.
       </p>
     </section>
 
@@ -1382,7 +1387,7 @@ The image below shows the same scene at three exposure levels.
 
 </div>
 
-> For this exercise, a balanced exposure preserves useful detail. A photographer may intentionally choose a darker or brighter exposure for creative reasons.
+> A darker or brighter exposure can also be an intentional creative choice. For this activity, begin by creating an exposure that preserves useful detail.
 
 ## What controls exposure?
 
@@ -1392,9 +1397,9 @@ Exposure is affected by three camera settings:
 - **Shutter speed:** How long the camera sensor receives light.
 - **ISO:** How strongly the camera responds to light.
 
-In **Aperture Priority (`Av`)**, you select the aperture and ISO. The camera then selects the shutter speed.
+In **Aperture Priority (`Av`)**, you select the aperture and ISO. The camera selects the shutter speed.
 
-You will learn more about each setting in the following sections.
+You will learn more about these settings in the following sections.
 
 </div>
 </details>

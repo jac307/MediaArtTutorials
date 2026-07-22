@@ -789,14 +789,14 @@ main:focus-visible {
 }
 
 /* --------------------------------------------------
-   Image reveal quiz
+   Visual reveal component
 -------------------------------------------------- */
 
-.image-reveal-quiz {
+.visual-reveal {
   margin: 1.5rem 0;
 }
 
-.image-reveal-quiz__visual {
+.visual-reveal__image {
   position: relative;
   overflow: hidden;
   border: 1px solid var(--border-colour);
@@ -804,7 +804,7 @@ main:focus-visible {
   background: var(--content-background);
 }
 
-.image-reveal-quiz__visual img {
+.visual-reveal__image img {
   display: block;
   width: 100%;
   height: auto;
@@ -812,14 +812,11 @@ main:focus-visible {
   border-radius: 0;
 }
 
-.image-reveal-choice {
+.visual-reveal__choice {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: var(--choice-left);
-  width: var(--choice-width);
-  padding: 0;
-  border: 0;
+  width: 33.333%;
   border-right: 2px solid rgb(255 255 255 / 70%);
   background: transparent;
   cursor: pointer;
@@ -828,26 +825,24 @@ main:focus-visible {
     box-shadow 150ms ease;
 }
 
-.image-reveal-choice:last-of-type {
+.visual-reveal__choice--1 {
+  left: 0;
+}
+
+.visual-reveal__choice--2 {
+  left: 33.333%;
+}
+
+.visual-reveal__choice--3 {
+  left: 66.666%;
   border-right: 0;
 }
 
-.image-reveal-choice:hover {
+.visual-reveal__choice:hover {
   background: rgb(122 21 21 / 10%);
 }
 
-.image-reveal-choice:focus-visible {
-  z-index: 2;
-  outline: 4px solid var(--focus-colour);
-  outline-offset: -4px;
-}
-
-.image-reveal-choice.is-active {
-  background: rgb(122 21 21 / 20%);
-  box-shadow: inset 0 0 0 4px var(--accent-colour);
-}
-
-.image-reveal-choice__number {
+.visual-reveal__number {
   position: absolute;
   right: 12px;
   bottom: 12px;
@@ -857,7 +852,7 @@ main:focus-visible {
   height: 38px;
   border: 2px solid rgb(255 255 255 / 85%);
   border-radius: 50%;
-  background: rgb(122 21 21 / 60%);
+  background: rgb(122 21 21 / 55%);
   box-shadow: 0 2px 8px rgb(0 0 0 / 25%);
   color: #ffffff;
   font-weight: 700;
@@ -867,47 +862,42 @@ main:focus-visible {
     background-color 150ms ease;
 }
 
-.image-reveal-choice:hover .image-reveal-choice__number {
+.visual-reveal__choice:hover .visual-reveal__number {
   opacity: 0.9;
 }
 
-.image-reveal-choice.is-active .image-reveal-choice__number {
-  background: var(--accent-colour);
-  opacity: 1;
-}
-
-.image-reveal-quiz__instructions {
-  margin-top: 0.75rem;
-  color: var(--muted-text);
-  font-size: 0.95rem;
-}
-
-.image-reveal-quiz__answers {
+.visual-reveal__feedback {
+  min-height: 150px;
   margin-top: 1rem;
-}
-
-.image-reveal-answer {
   padding: 18px;
   border: 1px solid var(--border-colour);
-  border-left: 5px solid var(--accent-colour);
   border-radius: var(--small-radius);
   background: var(--soft-background);
 }
 
-.image-reveal-answer > :first-child {
+.visual-reveal__prompt {
+  margin: 0;
+  color: var(--muted-text);
+}
+
+.visual-reveal__answer {
+  display: none;
+}
+
+.visual-reveal__answer > :first-child {
   margin-top: 0;
 }
 
-.image-reveal-answer > :last-child {
+.visual-reveal__answer > :last-child {
   margin-bottom: 0;
 }
 
-.image-reveal-answer h3 {
+.visual-reveal__answer h3 {
   margin: 0 0 0.5rem;
   color: var(--accent-colour);
 }
 
-.image-reveal-answer__label {
+.visual-reveal__label {
   margin: 0 0 0.25rem;
   color: var(--muted-text);
   font-size: 0.82rem;
@@ -916,27 +906,93 @@ main:focus-visible {
   text-transform: uppercase;
 }
 
+/* Reveal the selected answer */
+
+#exposure-example-1:checked
+  ~ .visual-reveal__feedback
+  .visual-reveal__answer--1,
+#exposure-example-2:checked
+  ~ .visual-reveal__feedback
+  .visual-reveal__answer--2,
+#exposure-example-3:checked
+  ~ .visual-reveal__feedback
+  .visual-reveal__answer--3 {
+  display: block;
+}
+
+/* Hide the prompt after a selection */
+
+#exposure-example-1:checked
+  ~ .visual-reveal__feedback
+  .visual-reveal__prompt,
+#exposure-example-2:checked
+  ~ .visual-reveal__feedback
+  .visual-reveal__prompt,
+#exposure-example-3:checked
+  ~ .visual-reveal__feedback
+  .visual-reveal__prompt {
+  display: none;
+}
+
+/* Highlight the selected photograph */
+
+#exposure-example-1:checked
+  ~ .visual-reveal__image
+  .visual-reveal__choice--1,
+#exposure-example-2:checked
+  ~ .visual-reveal__image
+  .visual-reveal__choice--2,
+#exposure-example-3:checked
+  ~ .visual-reveal__image
+  .visual-reveal__choice--3 {
+  background: rgb(122 21 21 / 18%);
+  box-shadow: inset 0 0 0 4px var(--accent-colour);
+}
+
+#exposure-example-1:checked
+  ~ .visual-reveal__image
+  .visual-reveal__choice--1
+  .visual-reveal__number,
+#exposure-example-2:checked
+  ~ .visual-reveal__image
+  .visual-reveal__choice--2
+  .visual-reveal__number,
+#exposure-example-3:checked
+  ~ .visual-reveal__image
+  .visual-reveal__choice--3
+  .visual-reveal__number {
+  background: var(--accent-colour);
+  opacity: 1;
+}
+
+.visual-reveal__input:focus-visible
+  ~ .visual-reveal__image
+  .visual-reveal__choice {
+  outline-offset: -4px;
+}
+
 @media (max-width: 680px) {
-  .image-reveal-choice__number {
+  .visual-reveal__number {
     right: 7px;
     bottom: 7px;
     width: 32px;
     height: 32px;
     font-size: 0.9rem;
   }
+
+  .visual-reveal__feedback {
+    min-height: 0;
+  }
 }
 
 @media print {
-  .image-reveal-choice {
+  .visual-reveal__choice,
+  .visual-reveal__prompt {
     display: none;
   }
 
-  .image-reveal-answer[hidden] {
+  .visual-reveal__answer {
     display: block;
-    margin-top: 0.75rem;
-  }
-
-  .image-reveal-quiz__instructions {
-    display: none;
+    margin-top: 1rem;
   }
 }
