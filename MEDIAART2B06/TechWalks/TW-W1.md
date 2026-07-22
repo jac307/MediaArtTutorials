@@ -1548,43 +1548,7 @@ SECTION 7
 /////////////////
 -->
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Focus and stabilize the camera</span>
-    <span class="section-description">
-      Confirm the focal point and reduce camera shake before taking the photograph.
-    </span>
-  </summary>
 
-  <div class="section-content" markdown="1">
-
-## Autofocus
-
-Begin with the lens set to `AF`.
-
-1. Place the main subject within the selected focus area.
-2. Press the shutter button halfway.
-3. Wait for the camera to confirm focus.
-4. Press the shutter button fully.
-
-## Manual focus
-
-Use `MF` when autofocus does not select the intended subject or when you need precise control.
-
-1. Set the lens switch to `MF`.
-2. Turn the focus ring slowly.
-3. Use Live View or image magnification to check sharpness.
-4. Take a test photograph.
-
-## Image Stabilization
-
-- Turn Image Stabilization **on** when photographing handheld.
-- Turn Image Stabilization **off** when using a tripod.
-- Hold the camera with both hands and keep your elbows close to your body.
-- Pause before pressing the shutter.
-
-  </div>
-</details>
 
 <!-- 
 /////////////////
@@ -1594,28 +1558,97 @@ SECTION 8
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">8. Compose and take the photograph</span>
+    <span class="section-title">8. Transfer and back up your files</span>
     <span class="section-description">
-      Check framing, focus, light, and contrast before pressing the shutter.
+      Copy your photographs to a computer, confirm the transfer, and create a backup.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-Before taking each photograph:
+Complete this checklist after the shoot.
 
-1. Identify the main subject.
-2. Decide what should remain inside and outside the frame.
-3. Check the direction and quality of the light.
-4. Look for clear differences between light and dark areas.
-5. Confirm the focal point.
-6. Press the shutter halfway to focus.
-7. Press the shutter fully to take the photograph.
-8. Review the result before changing the composition.
+<fieldset class="equipment-checklist">
+  <legend>File transfer and backup checklist</legend>
 
-Remember that the final sequence will be black and white. Pay attention to shape, texture, light, shadow, and contrast rather than colour alone.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn off the camera.</strong>
+      Make sure the power switch is set to <code>OFF</code> before removing the SD card.
+    </span>
+  </label>
 
-  </div>
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Remove the SD card.</strong>
+      Open the card compartment, gently press the card inward, and allow it to release.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Insert the SD card into a card reader.</strong>
+      Connect the card reader to your computer and wait for the card to appear.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Locate your photographs.</strong>
+      Open the SD card and find the image files inside the <code>DCIM</code> folder.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a clearly named folder on your computer.</strong>
+      Use a name such as <code>Lastname_PhotoFilm_Date</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Copy the RAW and JPEG files into the new folder.</strong>
+      Wait until the transfer is complete before opening or removing the SD card.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the files copied correctly.</strong>
+      Open several RAW and JPEG files and check that they display properly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a second copy.</strong>
+      Copy the complete folder to an external drive or cloud storage.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Eject the SD card safely.</strong>
+      Use your computer’s eject function before removing the card from the reader.
+    </span>
+  </label>
+</fieldset>
+
+> Do not edit files directly from the SD card. Keep the original files unchanged and save edited photographs in a separate folder.
+
+> Do not delete or format the SD card until you have confirmed that your files exist in at least two locations.
+
+</div>
 </details>
 
 <!-- 
@@ -1626,96 +1659,73 @@ SECTION 9
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">9. Review photographs on the camera</span>
-    <span class="section-description">
-      Check focus, framing, and exposure before leaving the location.
-    </span>
-  </summary>
-
-  <div class="section-content" markdown="1">
-
-After taking a photograph:
-
-1. Press the **Playback** button.
-2. Use the navigation arrows to move between photographs.
-3. Use the zoom controls to inspect focus.
-4. Check:
-   - Is the main subject sharp?
-   - Is the framing intentional?
-   - Are important highlights too bright?
-   - Are important shadows too dark?
-5. Retake the photograph when necessary.
-
-> Avoid deleting photographs during the shoot unless you are certain they are unusable. A larger screen may reveal details that are difficult to see on the camera.
-
-  </div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 10
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">10. Transfer and back up your files</span>
-    <span class="section-description">
-      Copy the photographs to your computer, confirm the transfer, and create a backup.
-    </span>
-  </summary>
-
-  <div class="section-content" markdown="1">
-
-After the shoot:
-
-1. Turn off the camera.
-2. Remove the SD card.
-3. Insert the card into a card reader.
-4. Open the SD card and locate the `DCIM` folder.
-5. Create a folder on your computer using a clear name, such as:
-
-   `Lastname_PhotoFilm_Date`
-
-6. Copy the RAW and JPEG files into the folder.
-7. Open several files to confirm that they copied correctly.
-8. Copy the folder to an external drive or cloud storage.
-9. Eject the SD card safely before removing it.
-
-Do not edit files directly from the SD card.
-
-Keep the original files unchanged. Create a separate folder for edited photographs.
-
-  </div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 11
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">11. Recharge and return the camera</span>
+    <span class="section-title">9. Recharge and return the camera</span>
     <span class="section-description">
       Charge the battery and return all borrowed equipment in good condition.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-Before returning the camera:
+Complete this checklist before returning the camera.
 
-1. Confirm that your files have been transferred and backed up.
-2. Turn off the camera.
-3. Replace the lens cap.
-4. Recharge the battery.
-5. Return the camera, battery, charger, lens, strap, and any other borrowed items.
+<fieldset class="equipment-checklist">
+  <legend>Camera return checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that your files have been transferred and backed up.</strong>
+      Make sure your photographs are saved in at least two locations before returning the equipment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn off the camera.</strong>
+      Move the power switch to <code>OFF</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Replace the lens cap.</strong>
+      Make sure the cap is securely attached to protect the lens.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Recharge the battery.</strong>
+      Remove the battery from the camera, place it in the charger, and charge it fully.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Gather all borrowed equipment.</strong>
+      Check that you have the camera, battery, charger, lens, strap, and any other items included with the equipment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Return the complete equipment kit.</strong>
+      Place all items in their case and return them in good condition.
+    </span>
+  </label>
+</fieldset>
 
 ![Camera battery charging instructions](imgs/69.png)
 
-  </div>
+> Report any missing, damaged, or malfunctioning equipment when you return the camera.
+
+</div>
 </details>
 
 ---
