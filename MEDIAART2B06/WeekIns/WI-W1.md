@@ -220,8 +220,9 @@ Review the [Week 1 DSLR Photography Technical Walkthrough](../TechWalks/TW-W1.md
     </span>
   </label>
 
-> In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
-> A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
+**Notes:**
+- In `Av` mode, the camera changes the shutter speed in response to your aperture, ISO, and available light.
+- A wider aperture uses a lower f-number and allows more light into the camera. A darker environment or narrower aperture may produce a slower shutter speed.
 
 </div>
 </details>
