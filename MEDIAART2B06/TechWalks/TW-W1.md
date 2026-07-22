@@ -1568,6 +1568,8 @@ A standard bracketed sequence includes:
 - One darker photograph
 - One brighter photograph
 
+![Exposure Bracketing Example](imgs/bracketing.webp)
+
 > Bracketing is useful when you are uncertain which exposure will preserve the most detail, particularly in scenes containing both bright highlights and dark shadows.
 
 ## Set exposure bracketing
