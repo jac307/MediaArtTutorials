@@ -54,7 +54,7 @@ Complete the following stages in order:
 
 **La Jetée** (1962), directed by Chris Marker, constructs a narrative almost entirely through still photographs. Meaning develops through sequencing, pacing, sound, narration, and the duration of each image.
 
-[Watch La Jetée](https://www.youtube.com/watch?v=Pf4AY_DI9BE){:target="_blank"}
+[Watch La Jetée](https://vimeo.com/658254211){:target="_blank"}
 
 ## Año Uña
 
@@ -71,13 +71,11 @@ Olga Karlovac photographs fleeting moments, movement, and atmosphere. Her black-
 - [Visit Olga Karlovac’s website](https://olga-karlovac-photography.com/site/){:target="_blank"}
 - [View image examples](https://www.google.com/search?q=olga+karlovac&udm=2){:target="_blank"}
 
-As you review the examples, consider:
+## Student Works
 
-- How does the order of the photographs create meaning?
-- How long does each image remain on screen?
-- What visual details connect one image to the next?
-- How do framing, repetition, contrast, and rhythm shape the experience?
-- How can an ordinary observation become a short narrative?
+Through carefully curated sequences of black and white images, the students of MEDIAART 2B06 (Winter 2026) developed a series of concise 30-second photo-films.
+
+[Online Gallery](https://media-studio-art.github.io/come-as-you-art/time-based/index.html){:target="_blank"}
 
 </div>
 </details>
