@@ -1548,7 +1548,61 @@ SECTION 7
 /////////////////
 -->
 
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Use Exposure Bracketing (AEB)</span>
+    <span class="section-description">
+      Photograph the same scene at three exposure levels: darker, balanced, and brighter.
+    </span>
+  </summary>
 
+<div class="section-content" markdown="1">
+
+## What is exposure bracketing?
+
+**Exposure bracketing** creates several photographs of the same scene using different exposure levels.
+
+A standard bracketed sequence includes:
+
+- One photograph at the camera’s recommended exposure
+- One darker photograph
+- One brighter photograph
+
+> Bracketing is useful when you are uncertain which exposure will preserve the most detail, particularly in scenes containing both bright highlights and dark shadows.
+
+## Set exposure bracketing
+
+1. Confirm that the shooting mode is set to <code>Av</code>.
+2. Press <strong>Q</strong> to open the Quick Control screen.
+3. Select the <strong>Exposure Compensation/AEB</strong> scale.
+4. Turn the main control dial until three exposure markers appear on the scale.
+5. Begin with a difference of approximately one stop between each photograph:
+   - <code>-1</code> for the darker exposure
+   - <code>0</code> for the camera’s recommended exposure
+   - <code>+1</code> for the brighter exposure
+6. Keep the camera and subject in the same position.
+7. Press the shutter button to capture the three photographs. Depending on the camera’s drive mode, you may need to press the shutter three times.
+8. Review the photographs and compare the details in the highlights and shadows.
+
+> Use a tripod or place the camera on a stable surface so the framing remains consistent across all three photographs.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/ayH7Y_6-VVw?si=-P_L3h20kxe5xTdb"
+    title="How to Use Auto Exposure Bracketing (AEB) and in-Camera HDR (CANON)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Turn bracketing off
+
+After completing the exercise, return to the **Exposure Compensation/AEB** scale and bring the three markers back together at <code>0</code>.
+
+> Always turn bracketing off when you finish. Otherwise, the camera may continue producing photographs at different exposure levels during your next shoot.
+
+</div>
+</details>
 
 <!-- 
 /////////////////
