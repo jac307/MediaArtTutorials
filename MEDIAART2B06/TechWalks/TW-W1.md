@@ -12,7 +12,7 @@ This walkthrough introduces the camera controls and settings needed for the **Ph
 
 Throughout the course, you will use Canon EOS Rebel T4i, T5i, and/or T7i.
 
-[Check the tech specs of these DSLR cameras](../Cameras.md){:target="_blank"}
+> [Check the tech specs of these DSLR cameras](../Cameras.md){:target="_blank"}
 
 <!-- <details class="tutorial-section" open>
   <summary>
