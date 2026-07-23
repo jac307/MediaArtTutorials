@@ -190,7 +190,9 @@ Examples include:
 
 > The Sennheiser ME 80 is the **detail microphone**. Its position should prioritize one specific area or group of subtle sounds rather than the entire Foley station.
 
-## Audio Device 2 — RØDE VideoMic NTG on Camera A
+## Audio Device 2 — Shutgun on Camera A
+
+![Condenser Microphone Placement](imgs/ShutGMic-Placement.png)
 
 ### Purpose
 
@@ -200,15 +202,15 @@ This recording will also provide an important synchronized reference during edit
 
 ### Setup
 
-- Attach the **RØDE VideoMic NTG** to **Camera A**.
-- Connect the microphone directly to the camera’s microphone input.
-- Mount Camera A on a tripod.
-- Position Camera A on the opposite side of the Foley station from the Sennheiser ME 80.
-- Aim the microphone toward the general Foley action area.
-- Place the camera closer to the objects or actions that require stronger directional coverage.
-- Begin with a low or low-medium recording level.
-- Monitor the camera audio using headphones.
-- Confirm that the camera is receiving the external microphone signal.
+1. Attach the **RØDE VideoMic NTG** to **Camera A**.
+2. Connect the microphone directly to the camera’s microphone input.
+3. Mount Camera A on a tripod.
+4. Position Camera A on the opposite side of the Foley station from the Sennheiser ME 80.
+5. Aim the microphone toward the general Foley action area.
+6. Place the camera closer to the objects or actions that require stronger directional coverage.
+7. Begin with a low or low-medium recording level.
+8. Monitor the camera audio using headphones.
+9. Confirm that the camera is receiving the external microphone signal.
 
 > This microphone captures directional sound with an immediate visual reference. It will support synchronization and help identify individual Foley actions during editing.
 
