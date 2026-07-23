@@ -23,7 +23,7 @@ SECTION 1
   <summary>
     <span class="section-title">1. Compare lens focal lengths</span>
     <span class="section-description">
-      Observe how 24 mm, 35 mm, and 50 mm lenses affect the field of view, framing, and representation of space.
+      Observe how lenses affect the field of view, framing, and representation of space.
     </span>
   </summary>
 
@@ -191,7 +191,7 @@ For Week 3, continue using the core recording settings introduced in the [W2 Tec
     <input type="checkbox">
     <span>
       <strong>Select and install one lens.</strong>
-      Choose an available lens that provides approximately <code>24 mm</code>, <code>35 mm</code>, or <code>50 mm</code>. This lense are perfect for landscape photography and videogrpahy. 
+      Choose an available lens that provides approximately <code>24 mm</code>, <code>35 mm</code>, or <code>50 mm</code>. This lense are perfect for landscape photography and videography. 
     </span>
   </label>
 
@@ -199,7 +199,7 @@ For Week 3, continue using the core recording settings introduced in the [W2 Tec
     <input type="checkbox">
     <span>
       <strong>Set the general recording format.</strong>
-      Select <strong>Video mode</strong>, a <code>16:9</code> aspect ratio, a resolution of <code>1920 × 1080</code>, a frame rate of <code>30 fps</code>, and <strong>Grid 1</strong>.
+      <strong>Video mode</strong>, a <code>16:9</code> aspect ratio, a resolution of <code>1920 × 1080</code>, a frame rate of <code>30 fps</code>, and use the <strong>Grid 1</strong> for compositional guides.
     </span>
   </label>
 
