@@ -241,7 +241,7 @@ The **fill light** controls how much detail remains visible in the shadowed area
 
 ## Other studio lighting arrangements
 
-![Examples of studio lighting arrangements](imgs/34.png)
+![Examples of studio lighting arrangements](imgs/LightArragements.png)
 
 ## Adjust intensity and colour temperature
 
@@ -250,7 +250,7 @@ Use the controls on the back of each light to adjust:
 - **Intensity:** The brightness of the light
 - **Colour temperature:** The warmth or coolness of the light
 
-![Controls for light intensity and colour temperature](imgs/32.jpg)
+![Controls for light intensity and colour temperature](imgs/LightTemperature-Switch.jpg)
 
 Keep the colour temperature consistent across all lights unless a deliberate colour contrast is part of the visual approach.
 
