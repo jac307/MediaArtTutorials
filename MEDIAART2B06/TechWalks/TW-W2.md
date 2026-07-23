@@ -162,15 +162,15 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Three-point
+## Three-point Lighting
+
+![Diagram showing a three-point lighting arrangement](imgs/28.png)
 
 A three-point lighting setup uses three lights with different functions:
 
 - The key light provides the main illumination
 - The fill light controls the depth of the shadows
 - The back light separates the subject from the background
-
-![Diagram showing a three-point lighting arrangement](imgs/28.png)
 
 ## Three-point lighting for chiaroscuro
 
