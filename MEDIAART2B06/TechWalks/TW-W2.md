@@ -53,7 +53,7 @@ The background does not need to be completely black. The main goal is to control
 
   <figure class="media-card">
     <img
-      src="imgs/with-backdrop2.png"
+      src="imgs/with-backdrop2.jpg"
       alt="Mairi Troisième (Photography) by Pat David"
     >
     <figcaption>
@@ -95,7 +95,7 @@ The background does not need to be completely black. The main goal is to control
 
   <figure class="media-card">
     <img
-      src="imgs/without-backdrop.jpg"
+      src="imgs/without-backdrop.png"
       alt="Sony Pictures Classics. (2003). Robert McNamara in The Fog of War [Film still]. Everett Collection."
     >
     <figcaption>
