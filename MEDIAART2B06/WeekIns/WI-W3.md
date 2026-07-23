@@ -266,15 +266,15 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Check equipment and go to location</span>
+    <span class="section-title">4. Check equipment and go to the location</span>
     <span class="section-description">
-    Confirming equipment before leaving the classroom and go to the location to evaluate environment. 
+      Confirm the equipment before leaving the classroom, then evaluate the actual environment.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-  ## Confirm the equipment before leaving the classroom
+## Confirm the equipment before leaving the classroom
 
 <fieldset class="equipment-checklist">
   <legend>Prepare the equipment</legend>
@@ -294,8 +294,9 @@ SECTION 4
       Do not expose cameras, lenses, microphones, or recorders to rain, snow, moisture, or unsafe temperatures.
     </span>
   </label>
+</fieldset>
 
-  ## Go to the location and evaluate the actual environment
+## Go to the location and evaluate the actual environment
 
 <fieldset class="equipment-checklist">
   <legend>Review the location before setting up</legend>
@@ -342,7 +343,6 @@ SECTION 4
 </fieldset>
 
 > Your final camera position should reflect both your artistic plan and the actual visual, environmental, and safety conditions of the location.
-
 
 </div>
 </details>
