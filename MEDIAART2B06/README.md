@@ -44,7 +44,7 @@ To access the booking system:
 
 ### Additional equipment guides
 
-- [DSLR cameras and lenses](Cameras.md)
+- [Cameras, Stabilization Equipment, and Lenses](Cameras.md)
 - [Lighting equipment](Lighting.md)
 - [Audio equipment](Audio.md)
 
