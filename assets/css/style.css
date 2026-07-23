@@ -1253,3 +1253,23 @@ main:focus-visible {
     break-inside: avoid;
   }
 }
+
+/* --------------------------------------------------
+   16:9 photographs: 1920 × 1080 proportion
+-------------------------------------------------- */
+
+.tutorial-content
+  .photography-examples--sixteen-nine
+  .photo-reveal-card__image {
+  aspect-ratio: 16 / 9;
+}
+
+.tutorial-content
+  .photography-examples--sixteen-nine
+  .photo-reveal-card__image img {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+  object-position: center;
+}

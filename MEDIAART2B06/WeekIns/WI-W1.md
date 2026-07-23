@@ -109,7 +109,7 @@ Each row shows one shot size using a human subject and an object.
 
 **Select each photograph to read its description.**
 
-<div class="photography-examples">
+<div class="photography-examples photography-examples--sixteen-nine"">
 
   <!-- Long shot -->
   <section class="photography-example-row">
@@ -536,7 +536,7 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 
 **Select each photograph to learn how the composition is structured.**
 
-<div class="photography-examples">
+<div class="photography-examples photography-examples--sixteen-nine"">
 
   <!-- First row -->
   <section class="photography-example-row">
