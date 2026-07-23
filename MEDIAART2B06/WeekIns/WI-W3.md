@@ -255,6 +255,27 @@ The final visual sequence must remain continuous.
 
 > Do not cut out material from the middle of the shot. Any change in duration must preserve the continuity of time.
 
+## Confirm the equipment before leaving the classroom
+
+<fieldset class="equipment-checklist">
+  <legend>Prepare the equipment</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm all booked equipment.</strong>
+      Check the equipment numbers and verify that all cameras, lenses, batteries, SD cards, supports, microphones, cables, windscreens, and accessories are present.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Protect the equipment from weather.</strong>
+      Do not expose cameras, lenses, microphones, or recorders to rain, snow, moisture, or unsafe temperatures.
+    </span>
+  </label>
+
 </div>
 </details>
 
@@ -266,7 +287,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Go to your space, then set up and configure the camera</span>
+    <span class="section-title">4. Go to your space, then set up and configure camera</span>
     <span class="section-description">
       Compare your plan with the actual environment, establish the composition, secure the equipment, and configure the camera before recording.
     </span>
@@ -325,36 +346,6 @@ Your original plan should guide the recording, but you must also respond to the 
 </fieldset>
 
 > Your final camera position should reflect both your artistic plan and the actual visual, environmental, and safety conditions of the location.
-
-## Confirm the equipment and production roles
-
-<fieldset class="equipment-checklist">
-  <legend>Prepare the equipment</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm all booked equipment.</strong>
-      Check the equipment numbers and verify that all cameras, lenses, batteries, SD cards, supports, microphones, cables, windscreens, and accessories are present.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Protect the equipment from weather.</strong>
-      Do not expose cameras, lenses, microphones, or recorders to rain, snow, moisture, or unsafe temperatures.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Assign production roles.</strong>
-      Assign one student to camera and exposure and one student to ZOOM H4n recording, environmental observation, time, and equipment safety.
-    </span>
-  </label>
-</fieldset>
 
 ## Set up the tripod and composition
 
@@ -510,12 +501,6 @@ Set the lens to **Manual Focus (`MF`)**. Autofocus may shift when people, vehicl
 
 ## Set the exposure in order
 
-Set the controls in this order:
-
-1. **Shutter speed**
-2. **Aperture**
-3. **ISO**
-
 <fieldset class="equipment-checklist">
   <legend>Set and verify the manual exposure</legend>
 
@@ -578,45 +563,16 @@ Set the controls in this order:
 
 > Lock the camera settings before recording. Do not adjust the shutter speed, aperture, ISO, white balance, focus, focal length, or framing during a take.
 
-</div>
-</details>
-
-
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Configure and record outdoor audio</span>
-    <span class="section-description">
-      Record a continuous environmental base layer and collect specific sounds for a multilayered outdoor soundscape.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Record audio using both devices:
-
-| Audio device | Recording role | How it will be used |
-|---|---|---|
-| **RØDE VideoMic NTG connected to the camera** | Continuous base layer | Captures the general environmental sound throughout the complete visual take and provides audio for synchronization. |
-| **[ZOOM H4n handheld recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}** | Specific sound layers | Records selected sounds from different positions and distances, such as footsteps, leaves, water, traffic, voices, mechanical sounds, or other details connected to the location. |
-
-> Immersive outdoor sound is created by combining a continuous layer of general environmental sound with recordings of specific sounds. Keep the RØDE VideoMic NTG recording for the complete visual take, and use the ZOOM H4n to collect additional sound layers.
-
-## Prepare the RØDE VideoMic NTG
+## Prepare the on-camera shotgun microphone
 
 <fieldset class="equipment-checklist">
-  <legend>Set up the camera microphone</legend>
+  <legend>Set up the camera audio</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Mount the RØDE VideoMic NTG on the camera.</strong>
-      Use the same on-camera shotgun microphone setup introduced during the Chiaroscuro Interview activity.
+      <strong>Mount the shotgun microphone on the camera.</strong>
+      Secure the microphone in the camera’s accessory shoe using the appropriate mount.
     </span>
   </label>
 
@@ -639,16 +595,16 @@ Record audio using both devices:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Confirm the external audio input.</strong>
-      Open the camera’s audio settings and verify that it is receiving sound from the external microphone rather than the built-in microphone.
+      <strong>Confirm the external microphone input.</strong>
+      Open the camera’s audio settings and verify that sound is being received from the shotgun microphone rather than the built-in microphone.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Check and adjust the camera recording levels.</strong>
-      Aim for strong environmental sounds to peak at approximately <code>-12 dB</code>. The levels must remain below <code>0 dB</code>.
+      <strong>Check the recording levels.</strong>
+      Monitor the audio and adjust the levels so the loudest environmental sounds remain below clipping and do not reach <code>0 dB</code>.
     </span>
   </label>
 
@@ -656,155 +612,16 @@ Record audio using both devices:
     <input type="checkbox">
     <span>
       <strong>Record and review a short audio test.</strong>
-      Confirm that the sound is clear, audible, free from clipping, and being recorded through the RØDE VideoMic NTG.
+      Confirm that the environmental sound is clear, audible, and free from excessive wind noise, distortion, or interference.
     </span>
   </label>
 </fieldset>
 
-## Prepare the ZOOM H4n
-
-<fieldset class="equipment-checklist">
-  <legend>Set up the separate recorder</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use the built-in stereo microphones.</strong>
-      Position the recorder so the microphones face the intended sound source.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Install outdoor wind protection.</strong>
-      Attach a windscreen or furry windshield before recording.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the recording format to <code>WAV 48 kHz / 24-bit</code>.</strong>
-      This format is appropriate for video production and post-production.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select Stereo mode.</strong>
-      Confirm that the built-in stereo microphones are active.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Connect headphones.</strong>
-      Monitor the sound before and during each recording.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set and test the recording level.</strong>
-      Keep the loudest sounds below clipping and avoid red peak indicators.
-    </span>
-  </label>
-</fieldset>
-
-## Record the sound layers
-
-- Record the ZOOM H4n during the visual take to create a synchronized recording.
-- Keep the recorder outside the camera frame.
-- Hold it steadily and keep fingers away from the microphones.
-- Do not tap, touch, or adjust it while recording usable sound.
-- After the visual takes, record several additional sounds from different positions and distances.
-- Capture each specific sound as a separate recording when possible.
-- Record several seconds before and after each sound to create editing flexibility.
-- Ask group members to remain still and quiet when they are not creating an intentional sound.
-
-## Synchronize the recordings
-
-1. Press **Record** on the camera.
-2. Press **Record** on the ZOOM H4n.
-3. Stand where the camera can see you.
-4. Perform one clear, loud hand clap.
-5. Confirm that the clap was captured by both devices.
-6. Wait approximately three seconds.
-7. Begin the visual take.
-8. Continue recording without stopping either device.
-
-The clap creates a visible and audible reference for synchronizing the video, shotgun-microphone recording, and ZOOM H4n recording in Premiere Pro.
+> Keep the shotgun microphone connected and ready to record the continuous environmental base layer during each visual take.
 
 </div>
 </details>
 
-
-<!--
-/////////////////
-SECTION 7
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Record two complete takes</span>
-    <span class="section-description">
-      Lock the camera settings, synchronize the audio, and record two continuous versions of the static scene.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Record **two complete visual takes**.
-
-Each take must:
-
-- Use the same fixed camera position
-- Remain continuous
-- Keep the exposure settings locked
-- Keep the white balance fixed
-- Keep the focus fixed
-- Keep the focal length fixed
-- Include continuous RØDE VideoMic NTG audio
-- Include a synchronized ZOOM H4n recording
-- Begin with a visible and audible hand clap
-
-## Recording rules
-
-- Do not move or touch the tripod during a take.
-- Do not pan, tilt, or reposition the camera.
-- Do not zoom in or out.
-- Do not refocus.
-- Do not adjust shutter speed, aperture, ISO, or white balance.
-- Do not stage unnecessary action in front of the camera.
-- People may pass naturally through the frame.
-- Group members must remain outside the frame unless their presence is part of the planned scene.
-- Monitor the equipment and surroundings throughout the recording.
-
-## Between takes
-
-You may review the footage and change:
-
-- The camera position
-- The composition
-- The focus point
-- The shutter speed
-- The aperture
-- The ISO
-- The white balance
-- The microphone placement
-- The planned environmental sounds
-
-Any changes must be completed before the next take begins.
-
-> Record the settings used for both takes. Identify which take you select for the final project.
-
-</div>
-</details>
 
 
 <!--
