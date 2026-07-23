@@ -15,7 +15,7 @@ You will work in pairs during class for technical support and feedback. However,
 ## Project overview
 
 - **Format:** 30-second photo film
-- **Number of photographs:** Approximately 8-12
+- **Number of photographs:** 8-12
 - **Narrative approach:** Observational micro-narrative
 - **Location:** A McMaster University campus location
 - **Production time:** During class
@@ -1361,9 +1361,9 @@ Review the [Week 1 Premiere Pro Fundamentals tutorials](../Tutorials/index.html?
 
 - **Resolution:** 1920 × 1080
 - **Duration:** Exactly 30 seconds
-- **Number of photographs:** Approximately 10–18
+- **Number of photographs:** 8-12
 - **Image orientation:** Landscape
-- **Image colour:** Black and white
+- **Image colour:** Black and White
 - **Video footage:** Not permitted
 - **Motion animation:** Not permitted
 
@@ -1465,7 +1465,7 @@ SECTION 11
 
 Create a one-page document containing:
 
-- One representative still image
+- One representative still image / frame
 - Project title
 - Year
 - Your name
