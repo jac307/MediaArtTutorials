@@ -316,7 +316,7 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Cameras and Lenses</span>
+    <span class="section-title">3. Multi-Camera Recording: Cameras and Lenses</span>
     <span class="section-description">
       Multi-Camera Recording using different lenses and production roles.
     </span>
@@ -402,7 +402,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Multi-Camera Recording</span>
+    <span class="section-title">4. Multi-Camera Recording: Camera Positions</span>
     <span class="section-description">
       Assign a distinct angle and framing purpose to each camera, then set Manual Focus.
     </span>
@@ -1084,14 +1084,14 @@ Aim for healthy levels that remain below clipping. Speech peaks around `-12 dB` 
 
 <!-- 
 /////////////////
-SECTION 8
+SECTION 9
 /////////////////
 -->
 
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">8. Record and review a technical test</span>
+    <span class="section-title">9. Record and review a technical test</span>
     <span class="section-description">
       Test all three cameras and both microphones before beginning the full interview.
     </span>
