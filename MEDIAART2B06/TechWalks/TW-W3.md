@@ -120,6 +120,8 @@ SECTION 2
 
 ## Factors that affect depth of field
 
+> Explore this [Depth of Field Simulator](https://jherr.github.io/depth-of-field/){:target="_blank"} to see how focal length, aperture, camera distance, and subject distance affect depth of field.
+
 ### Aperture
 
 - A wider aperture with a lower f-number, such as `f/2.8`, generally creates a shallower depth of field.
@@ -137,17 +139,19 @@ SECTION 2
 
 > These factors work together. Do not evaluate aperture, distance, or focal length in isolation.
 
-## Use Manual Focus
+## Manual Focus
 
-Set the lens to **Manual Focus (`MF`)**. Manual Focus prevents the camera from shifting focus automatically during a static recording.
+For static outdoor recordings, it is highly recommended to use **Manual Focus (`MF`)**. Autofocus may shift unexpectedly when people, vehicles, shadows, or other objects move through the frame.
 
-Before recording:
+For a static shot, establish the focus once and keep it locked:
 
 1. Decide which part of the scene must remain sharp.
-2. Magnify the image on the camera display when available.
+2. Magnify the image on the camera display, when available.
 3. Adjust the focus ring carefully.
 4. Return to the full view and confirm the composition.
-5. Record a short test and review it at full size.
+5. Record a short test and review it at full size before filming the final scene.
+
+> Recheck the focus whenever you move the camera, change the lens, adjust the focal length, or change the subject distance.
 
 ## A wide lens does not keep everything in focus
 
@@ -170,7 +174,7 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Configure the camera</span>
+    <span class="section-title">3. Camera Configuration</span>
     <span class="section-description">
       Prepare the lens, recording format, white balance, focus, metering, and manual exposure controls.
     </span>
@@ -187,7 +191,7 @@ For Week 3, continue using the core recording settings introduced in the [W2 Tec
     <input type="checkbox">
     <span>
       <strong>Select and install one lens.</strong>
-      Choose an available lens that provides approximately <code>24 mm</code>, <code>35 mm</code>, or <code>50 mm</code>.
+      Choose an available lens that provides approximately <code>24 mm</code>, <code>35 mm</code>, or <code>50 mm</code>. This lense are perfect for landscape photography and videogrpahy. 
     </span>
   </label>
 
@@ -220,14 +224,6 @@ For Week 3, continue using the core recording settings introduced in the [W2 Tec
     <span>
       <strong>Set a Custom White Balance.</strong>
       Use a balance card or a neutral white or grey surface under the actual outdoor lighting conditions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select Evaluative or Matrix Metering.</strong>
-      Use the full frame as a starting point for assessing the brightness of the scene.
     </span>
   </label>
 
