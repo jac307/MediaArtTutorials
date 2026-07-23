@@ -8,6 +8,8 @@ This technical walkthrough supports the **Chiaroscuro Interview** activity.
 
 You will work in pairs to prepare a three-camera interview using controlled lighting, consistent camera settings, and externally connected microphones.
 
+Review the [available lighting equipment](../Lighting.md){:target="_blank"} before beginning.
+
 <!-- 
 /////////////////
 SECTION 1
@@ -37,7 +39,7 @@ The background does not need to be completely black. The main goal is to control
 3. Direct the lights toward the subject rather than toward the backdrop.
 4. Check that the edges of the backdrop remain outside the camera frame.
 
-<div class="media-grid media-grid--two">
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -79,7 +81,7 @@ The background does not need to be completely black. The main goal is to control
 - Prevent the background lighting from competing with the subject
 - Remove bright or reflective objects that create unwanted distractions
 
-<div class="media-grid media-grid--two">
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -93,7 +95,7 @@ The background does not need to be completely black. The main goal is to control
 
   <figure class="media-card">
     <img
-      src="imgs/without-backdrop.png"
+      src="imgs/without-backdrop.jpg"
       alt="Sony Pictures Classics. (2003). Robert McNamara in The Fog of War [Film still]. Everett Collection."
     >
     <figcaption>
@@ -139,14 +141,6 @@ The background does not need to be completely black. The main goal is to control
       Keep cables away from walking paths or secure them with appropriate floor tape.
     </span>
   </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the camera frame.</strong>
-      Confirm that backdrop edges, stands, bags, and cables are not visible.
-    </span>
-  </label>
 </fieldset>
 
 </div>
@@ -168,17 +162,21 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Three-point lighting for chiaroscuro
+## Three-point
 
-This activity uses the logic of a **three-point lighting setup**, but the lights should not have equal intensity.
+A three-point lighting setup uses three lights with different functions:
 
-The key light should remain dominant. The fill and back lights should be subtle so they do not remove the strong contrast between light and shadow.
-
-Review the [available lighting equipment](../Lighting.md){:target="_blank"} before beginning.
+- The key light provides the main illumination
+- The fill light controls the depth of the shadows
+- The back light separates the subject from the background
 
 ![Diagram showing a three-point lighting arrangement](imgs/28.png)
 
-## Key light
+## Three-point lighting for chiaroscuro
+
+For this activity, you will **adapt this setup to create a chiaroscuro effect**. The key light should remain dominant, while the fill and back lights should be used at lower intensities. This preserves strong contrast between light and shadow while maintaining selected details and separation within the frame.
+
+### Key light
 
 The **key light** is the primary light source.
 
@@ -186,34 +184,30 @@ The **key light** is the primary light source.
 - Position it slightly above eye level
 - Place it approximately 45–90 degrees to one side
 - Adjust the angle to create a clearly illuminated side and a shadowed side
-- Use it as the main source for setting the camera exposure
 
-A steeper side angle can produce stronger contrast across the face.
+> A steeper side angle can produce stronger contrast across the face.
 
-## Fill light
+### Fill light
 
 The **fill light** controls how much detail remains visible in the shadowed areas.
 
 - Place it opposite the key light
-- Use very low power
-- Keep it dimmer than the key light
+- Use very low power (dimmer) to increase the effect of the chiaroscuro
 - Adjust it only enough to reveal selected shadow details
-
-The fill light may instead be directed toward a specific background element when additional facial fill is not needed.
+- You may use a a softbox to control spill
 
 > Too much fill light will flatten the image and reduce the chiaroscuro effect.
+> A **softbox** surrounds the light with reflective material and places diffusion fabric in front of it. This softens and redirects the light.
 
-## Back or rim light
+### Back or rim light
 
 The **back light** separates the subject from the background.
 
-- Position it behind and to one side of the subject
+- Position it behind and only to one side of the subject
 - Aim it toward the edge of the hair, head, or shoulders
 - Keep the intensity low
 - Prevent the light from shining directly into the camera lens
-- Use a modifier when necessary to control spill
-
-A **softbox** surrounds the light with reflective material and places diffusion fabric in front of it. This softens and redirects the light.
+- You may use a a softbox to control spill
 
 ## Set up the Fiilex P360 LED lights
 
