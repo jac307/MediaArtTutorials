@@ -129,9 +129,9 @@ Groups will be posted on Avenue to Learn before the recording session. Each pair
     <input type="checkbox">
     <span>
       <strong>Tripod</strong>
-      Only for one camera:
-      - Manfrotto - Large for DSLR Camera (190XDB), 
-      - Manfrotto - Large for DSLR Camera (Element MII), or 
+      Only for one camera: <br>
+      - Manfrotto - Large for DSLR Camera (190XDB),  <br>
+      - Manfrotto - Large for DSLR Camera (Element MII), or  <br>
       - Manfrotto - Large for DSLR Camera (190D)
     </span>
   </label>
@@ -140,11 +140,11 @@ Groups will be posted on Avenue to Learn before the recording session. Each pair
     <input type="checkbox">
     <span>
       <strong>One Shutgun Microphone</strong>
-      Book one of these:  
-      - RODE VideoMic NTG On-Camera Shotgun Microphone,
-      - RODE Shotgun (VIDEOMIC GO),
-      - RODE VideoMicro Compact On-Camera Microphone,
-      - Sennheiser Shotgun (MKE 400), or 
+      Book one of these:   <br>
+      - RODE VideoMic NTG On-Camera Shotgun Microphone,  <br>
+      - RODE Shotgun (VIDEOMIC GO),  <br>
+      - RODE VideoMicro Compact On-Camera Microphone,  <br>
+      - Sennheiser Shotgun (MKE 400), or   <br>
       - Sony Shotgun Cam Mount (ECM-MS908C).
     </span>
   </label>
@@ -193,9 +193,11 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-Before leaving the classroom, your group must define the type of outdoor space you intend to record.
+Before leaving the classroom, your group must **define the type of outdoor space you intend to record.**
 
-Do not automatically choose the first location you see or the location closest to the classroom. Select a space that offers possibilities for sustained observation.
+Do not automatically choose the first location you see or the location closest to the classroom. Select a space that offers possibilities for sustained observation and supports a clear artistic approach.
+
+> Your artistic vision, originality, and intentional use of location are part of the project assessment.
 
 ## Location requirements
 
@@ -209,17 +211,19 @@ Look for a location with:
 - A safe position for the camera, tripod, and audio equipment
 - No obstruction of doors, walkways, roads, or accessibility routes
 
-## Assigned lens
+## Booked lens
 
-Each group will be assigned one available focal length:
+Review the specifications of the lens your group booked before the recording session.
 
-- Approximately `24 mm`
-- Approximately `35 mm`
-- Approximately `50 mm`
+Confirm:
 
-Review the [available cameras and lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"}.
+- The available focal length or zoom range
+- The minimum and maximum aperture
+- Whether the lens includes Image Stabilization
+- Whether the lens is compatible with the booked camera
+- Whether it can provide the framing and depth of field required for your scene
 
-Consider how the assigned lens will affect:
+Consider how the selected lens will affect:
 
 - The field of view
 - The amount of environment included in the frame
@@ -231,15 +235,13 @@ Consider how the assigned lens will affect:
 
 Before recording, agree on:
 
-- The camera position and height
 - The main point of interest
 - The intended spatial layers
-- The required depth of field
 - The type of movement expected within the frame
 - Whether the shutter speed will render movement naturally, emphasize motion blur, or make movement appear sharper
 - The general environmental sound and specific sounds you want to record
 
-> The camera will remain still. All visual change must come from movement, light, weather, and activity within the frame.
+> The camera will remain still. All visual change must come from movement, light, weather, sound, and activity within the frame.
 
 ## Plan the duration
 
@@ -264,9 +266,9 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Prepare the location and equipment</span>
+    <span class="section-title">4. Go to your space, then set up and configure the camera</span>
     <span class="section-description">
-      Confirm the equipment, evaluate the location, secure the tripod, and assign production responsibilities.
+      Compare your plan with the actual environment, establish the composition, secure the equipment, and configure the camera before recording.
     </span>
   </summary>
 
@@ -274,30 +276,66 @@ SECTION 4
 
 Follow the [W3 Technical Walkthrough](../TechWalks/TW-W3.md){:target="_blank"} while preparing the camera and audio equipment.
 
+Your original plan should guide the recording, but you must also respond to the actual conditions you encounter. Observe the available light, movement, sound, weather, safety, and spatial activity before deciding on the final camera position.
+
+## Evaluate the actual environment
+
 <fieldset class="equipment-checklist">
-  <legend>Location and equipment check</legend>
+  <legend>Review the location before setting up</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Compare the location with your original plan.</strong>
+      Confirm that the space provides the depth, environmental movement, sound, and visual activity you expected. Revise the plan when the actual conditions suggest a stronger approach.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Observe movement through the space.</strong>
+      Notice where people, vehicles, shadows, vegetation, reflections, or other elements are likely to move within the frame.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Evaluate the position of the sun.</strong>
+      Position the camera so it is not pointed directly at the sun. Direct sunlight entering the lens can create severe overexposure, glare, lens flare, and loss of image detail.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Observe how sunlight and shadows affect the composition.</strong>
+      Consider the direction of the light, the brightness of the sky, changing cloud cover, and the movement of shadows across the scene.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Choose a safe camera position.</strong>
+      Confirm that the tripod will not block a walkway, entrance, road, accessibility route, or area of regular movement.
+    </span>
+  </label>
+</fieldset>
+
+> Your final camera position should reflect both your artistic plan and the actual visual, environmental, and safety conditions of the location.
+
+## Confirm the equipment and production roles
+
+<fieldset class="equipment-checklist">
+  <legend>Prepare the equipment</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Confirm all booked equipment.</strong>
       Check the equipment numbers and verify that all cameras, lenses, batteries, SD cards, supports, microphones, cables, windscreens, and accessories are present.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Evaluate the recording location.</strong>
-      Confirm that the camera can remain in a safe position without blocking a walkway, entrance, road, or accessibility route.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Secure the tripod.</strong>
-      Extend the legs safely, level the camera, tighten all controls, and keep the centre column as low as practical.
     </span>
   </label>
 
@@ -313,61 +351,69 @@ Follow the [W3 Technical Walkthrough](../TechWalks/TW-W3.md){:target="_blank"} w
     <input type="checkbox">
     <span>
       <strong>Assign production roles.</strong>
-      Assign one student to camera and exposure, one to ZOOM H4n recording, and one to observe the frame, surroundings, time, and equipment safety.
+      Assign one student to camera and exposure and one student to ZOOM H4n recording, environmental observation, time, and equipment safety.
     </span>
   </label>
 </fieldset>
 
-## Confirm the composition
-
-Before adjusting exposure:
-
-1. Position the tripod.
-2. Install the assigned lens.
-3. Establish the camera height and angle.
-4. Identify the foreground, midground, and background.
-5. Check the edges of the frame for distractions.
-6. Confirm that people can pass naturally without colliding with the equipment.
-7. Lock the tripod head and do not move it during the take.
-
-## Important: Use Manual Focus
-
-Set the lens to **Manual Focus (`MF`)**. Autofocus may shift when people, vehicles, shadows, or other objects move through the frame.
-
-For a static shot, establish the focus once and keep it locked:
-
-1. Decide which part of the scene must remain sharp.
-2. Magnify the image on the camera display, when available.
-3. Adjust the focus ring carefully.
-4. Return to the full view and confirm the composition.
-5. Record a short test and review it at full size.
-
-> Recheck the focus whenever you move the camera, change the lens, adjust the focal length, or change the distance to the focus point.
-
-</div>
-</details>
-
-
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Configure the camera and exposure</span>
-    <span class="section-description">
-      Set the recording format, establish a fixed white balance, define the motion approach, and lock the manual exposure.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Camera configuration
+## Set up the tripod and composition
 
 <fieldset class="equipment-checklist">
-  <legend>Prepare the camera</legend>
+  <legend>Establish the final frame</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Secure and level the tripod.</strong>
+      Extend the legs safely, tighten all controls, and keep the centre column as low as practical.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Install the booked lens.</strong>
+      Confirm that the lens is attached securely and review its available focal length and aperture range.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Establish the camera height and angle.</strong>
+      Position the camera according to the intended artistic approach and the activity occurring within the space.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the spatial layers.</strong>
+      Confirm that the frame contains a deliberate relationship between foreground, midground, and background.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the complete frame.</strong>
+      Review the edges for distractions and confirm that movement can occur naturally without endangering the equipment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Lock the tripod position.</strong>
+      Tighten the tripod head after confirming the final composition. Do not move it during the take.
+    </span>
+  </label>
+</fieldset>
+
+## Configure the camera
+
+<fieldset class="equipment-checklist">
+  <legend>Prepare the recording settings</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -382,14 +428,6 @@ SECTION 5
     <span>
       <strong>Set the shooting mode to <code>M</code>.</strong>
       Manual mode prevents the camera from changing the exposure automatically during the take.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the lens to Manual Focus.</strong>
-      Select <code>MF</code> and confirm that the intended plane of focus is sharp.
     </span>
   </label>
 
@@ -426,7 +464,49 @@ SECTION 5
   </label>
 </fieldset>
 
-> Keep the white balance fixed for the complete take. Recalibrate it only when the lighting conditions change significantly before a new take.
+> Keep the white balance fixed during the complete take. Recalibrate it before a new take when the lighting conditions change significantly.
+
+## Set and lock Manual Focus
+
+Set the lens to **Manual Focus (`MF`)**. Autofocus may shift when people, vehicles, shadows, or other objects move through the frame.
+
+<fieldset class="equipment-checklist">
+  <legend>Establish the focus</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Choose the intended plane of focus.</strong>
+      Decide which part of the scene must remain sharp.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Magnify the image on the camera display.</strong>
+      Use the enlarged view, when available, to evaluate focus accurately.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the focus ring carefully.</strong>
+      Confirm that the intended part of the scene is sharp.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Return to the full view.</strong>
+      Recheck the composition and confirm that the selected depth of field supports the visual plan.
+    </span>
+  </label>
+</fieldset>
+
+> Recheck the focus whenever you move the camera, change the lens, adjust the focal length, or change the distance to the focus point.
 
 ## Set the exposure in order
 
@@ -451,7 +531,7 @@ Set the controls in this order:
     <input type="checkbox">
     <span>
       <strong>Select the aperture for the intended depth of field.</strong>
-      Consider the focal length, camera distance, focus distance, and available aperture range of the assigned lens.
+      Consider the focal length, camera distance, focus distance, available light, and aperture range of the booked lens.
     </span>
   </label>
 
@@ -459,7 +539,7 @@ Set the controls in this order:
     <input type="checkbox">
     <span>
       <strong>Set the ISO after the shutter speed and aperture.</strong>
-      Begin between approximately <code>ISO 100</code> and <code>ISO 400</code>. Increase it only when necessary, because higher values produce more visible noise.
+      Begin between approximately <code>ISO 100</code> and <code>ISO 400</code>. Increase it only when necessary because higher values produce more visible noise.
     </span>
   </label>
 
@@ -468,6 +548,14 @@ Set the controls in this order:
     <span>
       <strong>Check the meter, histogram, and visible image.</strong>
       Confirm that important highlights are not clipped and that the shadow detail required by the composition remains visible.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the brightest part of the frame.</strong>
+      Pay particular attention to the sky, snow, pale concrete, reflective surfaces, and areas illuminated by direct sunlight.
     </span>
   </label>
 
@@ -483,12 +571,12 @@ Set the controls in this order:
     <input type="checkbox">
     <span>
       <strong>Record and review a short technical test.</strong>
-      Check framing, focus, depth of field, exposure, movement, noise, and the stability of the tripod.
+      Check framing, focus, depth of field, exposure, movement, image noise, changing sunlight, and tripod stability.
     </span>
   </label>
 </fieldset>
 
-> Lock the exposure before recording. Do not adjust the shutter speed, aperture, ISO, white balance, focus, focal length, or framing during a take.
+> Lock the camera settings before recording. Do not adjust the shutter speed, aperture, ISO, white balance, focus, focal length, or framing during a take.
 
 </div>
 </details>
@@ -496,13 +584,13 @@ Set the controls in this order:
 
 <!--
 /////////////////
-SECTION 6
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Configure and record outdoor audio</span>
+    <span class="section-title">5. Configure and record outdoor audio</span>
     <span class="section-description">
       Record a continuous environmental base layer and collect specific sounds for a multilayered outdoor soundscape.
     </span>
