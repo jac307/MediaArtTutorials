@@ -1,349 +1,1176 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# W2 — Chiaroscuro Interview
 
-<h1 style="color: darkred;">W2 — Tech Walkthrough</h1>
-<h2 style="color: darkred;">Chiaroscuro Interview: Camera, Lighting & Audio Setup</h2>
+## Camera, Lighting, and Audio Setup
 
-## Objective
+This technical walkthrough supports the **Chiaroscuro Interview** activity.
 
-This technical walkthrough supports the **Chiaroscuro Interview (Pairs)** assignment.  
+You will work in pairs to prepare a three-camera interview using controlled lighting, consistent camera settings, and externally connected microphones.
 
-### By the end of this session, students should be able to:
-- Set up a **basic three-point lighting arrangement**, adjusting key, fill, and back light to shape contrast 
-- Set and maintain **manual mode**, applying **aperture, shutter speed, ISO, and camera placement** to maintain consistent exposure across a multi-camera setup
-- Set and maintain **manual white balance** for consistent color and skin tones across multiple cameras
-- Configure and record **audio** using **shot gun and lapel microphones**   
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
----
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Space and Background</span>
+    <span class="section-description">
+      Select and arrange a background that supports strong contrasts between light and shadow.
+    </span>
+  </summary>
 
-<h2 style="color: darkred;"> Space & Lighting Setup </h2>  
+<div class="section-content" markdown="1">
 
-## 1. Backdrop / Background Setup
+## Create a chiaroscuro background
 
-❗ *Even without a black backdrop, you can still create a chiaroscuro scene by prioritizing strong contrasts between light and shadow across the frame. The background does not need to be completely black.*  
+**Chiaroscuro** uses strong contrasts between illuminated and shadowed areas.
 
-### Backdrop (If Available)
-- Place backdrop **1–1.5 meters behind the subject**
-- Prevent light spill onto the background  
+The background does not need to be completely black. The main goal is to control where light falls and prevent distracting visual details from competing with the subject.
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+## Working with a backdrop
+
+1. Place the backdrop approximately **1–1.5 metres behind the subject**.
+2. Keep the subject far enough from the backdrop to reduce shadows and light spill.
+3. Direct the lights toward the subject rather than toward the backdrop.
+4. Check that the edges of the backdrop remain outside the camera frame.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to set up a photography backdrop"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Without a Backdrop
-- Choose an **uncluttered background**
-- Allow the background to fall into shadow
+## Working without a backdrop
 
----
+- Choose a simple, uncluttered background
+- Increase the distance between the subject and background
+- Prevent the key light from illuminating the background
+- Allow part of the background to fall into shadow
+- Remove bright or reflective objects from the frame
 
-## 2. Lighting Setup (Three-Point Logic)
+## Space preparation checklist
 
-This assignment uses a **three-point lighting approach for chiaroscuro**. Check the [Available Lighting Equipment](../Lighting.md){:target="_blank"}.  
+<fieldset class="equipment-checklist">
+  <legend>Background and safety</legend>
 
-<img src="imgs/28.png" style="width: 100%; height: auto;">  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Select an uncluttered background.</strong>
+      Remove objects that distract from the subject or reflect unwanted light.
+    </span>
+  </label>
 
-### Key Light 
-- **Position:** Close to the subject, slightly above, at a steep 45-90 degree angle to create strong contrast and shape (often short lighting).
-- **Power:** Set as the primary exposure source; adjust for desired highlight intensity.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position the subject away from the background.</strong>
+      Leave approximately 1–1.5 metres when the room permits.
+    </span>
+  </label>
 
-### Fill Light
-- **Position:** Can be used as a very low-power fill opposite the key for minimal detail, or positioned to light a specific background element.
-- **Power:** Very low; its purpose is to add dimension without flattening the high-contrast look. 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Secure the backdrop and stands.</strong>
+      Make sure stands are stable and do not obstruct doors, walkways, or accessibility routes.
+    </span>
+  </label>
 
-### Back (Rim) Light
-- **Position:** Behind the subject, aimed at the edge of their hair/shoulders to create separation from the dark background just o specific zones.   
-- **Modifier:** Use a softbox to control spill and create focused light.
-  > A softbox is a light modifier that surrounds a light source with reflective interior walls and a translucent front diffuser.
-- **Power:** Leep power low.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Organize all cables.</strong>
+      Keep cables away from walking paths or secure them with appropriate floor tape.
+    </span>
+  </label>
 
-#### Setup Fiilex P360 LED Light Kit
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the camera frame.</strong>
+      Confirm that backdrop edges, stands, bags, and cables are not visible.
+    </span>
+  </label>
+</fieldset>
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Lighting</span>
+    <span class="section-description">
+      Position the key, fill, and back lights to shape the subject and control contrast.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Three-point lighting for chiaroscuro
+
+This activity uses the logic of a **three-point lighting setup**, but the lights should not have equal intensity.
+
+The key light should remain dominant. The fill and back lights should be subtle so they do not remove the strong contrast between light and shadow.
+
+Review the [available lighting equipment](../Lighting.md){:target="_blank"} before beginning.
+
+![Diagram showing a three-point lighting arrangement](imgs/28.png)
+
+## Key light
+
+The **key light** is the primary light source.
+
+- Place it close to the subject
+- Position it slightly above eye level
+- Place it approximately 45–90 degrees to one side
+- Adjust the angle to create a clearly illuminated side and a shadowed side
+- Use it as the main source for setting the camera exposure
+
+A steeper side angle can produce stronger contrast across the face.
+
+## Fill light
+
+The **fill light** controls how much detail remains visible in the shadowed areas.
+
+- Place it opposite the key light
+- Use very low power
+- Keep it dimmer than the key light
+- Adjust it only enough to reveal selected shadow details
+
+The fill light may instead be directed toward a specific background element when additional facial fill is not needed.
+
+> Too much fill light will flatten the image and reduce the chiaroscuro effect.
+
+## Back or rim light
+
+The **back light** separates the subject from the background.
+
+- Position it behind and to one side of the subject
+- Aim it toward the edge of the hair, head, or shoulders
+- Keep the intensity low
+- Prevent the light from shining directly into the camera lens
+- Use a modifier when necessary to control spill
+
+A **softbox** surrounds the light with reflective material and places diffusion fabric in front of it. This softens and redirects the light.
+
+## Set up the Fiilex P360 LED lights
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/cDljJxLn7pY?si=3-i8h0O1lKp7e-am"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to set up the Fiilex P360 LED light kit"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-#### Lighting 101: Intro to Light Placement  
+## Review light placement
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/nqMQZG68Wkc?si=wkut27qgbl3T2Xdc"
-    title="YouTube video player"
-    frameborder="0"
+    title="Introduction to studio light placement"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-#### Other Studio Lighting Setups
-<img src="imgs/34.png" style="width: 100%; height: auto;"> 
+## Other studio lighting arrangements
 
----
+![Examples of studio lighting arrangements](imgs/34.png)
 
-## 3. Lighting Intensity & Color Temperature (Warmth)
+## Adjust intensity and colour temperature
 
-Use the **control knobs on the back of the light** to adjust:
+Use the controls on the back of each light to adjust:
 
-- **Light intensity** (brightness)
-- **Color temperature** (warm ↔ cool)  
+- **Intensity:** The brightness of the light
+- **Colour temperature:** The warmth or coolness of the light
 
-<img src="imgs/32.jpg" style="width: 60%; height: auto;"> 
+![Controls for light intensity and colour temperature](imgs/32.jpg)
 
----
+Keep the colour temperature consistent across all lights unless a deliberate colour contrast is part of the visual approach.
 
-<h2 style="color: darkred;"> Camera Settings — What to Use for Week 2 </h2>   
+## Lighting setup checklist
 
-## 1. Camera on Video
+<fieldset class="equipment-checklist">
+  <legend>Lighting preparation</legend>
 
-- Set the camera to **Video Mode**
-- Set the **Aspect Ratio** to **16:9**
-  > An aspect ratio is the **proportional relationship between** an image or screen's **width and height**, expressed as two numbers separated by a colon.
-- Set the **Resolution** to **1920x1080**
-  > **Resolution** refers to the pixel dimensions (width x height) of an image or display, which determines the level of detail.
-- Set the **Frame Rate** to **30 fps**
-  > **Frame rate (FPS)** refers to how many individual images (frames) are recorded per second. 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the key light.</strong>
+      Create a clear contrast between the illuminated and shadowed sides of the subject.
+    </span>
+  </label>
 
-### How to set aspect ratio, resolution, and frame rate:
-- Go to **Menu**
-- Navigate to the **second video tab**
-- Select **Movie rec. size**
-- Choose **1920 30**
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Add minimal fill light.</strong>
+      Keep the fill dim enough to preserve the shadowed areas.
+    </span>
+  </label>
 
-<img src="imgs/27.JPG" style="width: 70%; height: auto;">     
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position the back light.</strong>
+      Create a controlled rim of light around selected areas of the subject.
+    </span>
+  </label>
 
-<img src="imgs/30.jpg" style="width: 70%; height: auto;">  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Control light spill.</strong>
+      Prevent unnecessary light from reaching the background or camera lens.
+    </span>
+  </label>
 
-### Recommended: Activate the Grid display
-- Go to **Menu**
-- Navigate to the **first video tab**
-- Select **Grid Display**
-- Choose **Grid 1**
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Match the colour temperature of the lights.</strong>
+      Use consistent settings before creating the Custom White Balance.
+    </span>
+  </label>
 
-<img src="imgs/35.JPG" style="width: 70%; height: auto;"> 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the brightest areas of the face.</strong>
+      Reduce the key-light intensity if highlight detail is being lost.
+    </span>
+  </label>
+</fieldset>
 
----
+</div>
+</details>
 
-## 2. Camera Lenses
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
-[Available DSLR Cameras & Lenses](../Cameras.md){:target="_blank"}  
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Video Recording in DSLR Cameras</span>
+    <span class="section-description">
+      Set every camera to the required resolution, frame rate, aspect ratio, and display grid.
+    </span>
+  </summary>
 
-On Week 2, you will work with **three cameras**, each with a different lenses. Setup the lens for each camera first, then go over the rest of the settings below.    
+<div class="section-content" markdown="1">
 
-- **Camera A:** Default kit lens (static - on tripoid)
-- **Camera B:** *50mm* (static - on tripoid)
-- **Camera C:** *85mm* (moving - handheld)  
+All three cameras must use matching recording settings.
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+## Required video settings
+
+- **Camera mode:** Video
+- **Aspect ratio:** 16:9
+- **Resolution:** 1920 × 1080
+- **Frame rate:** 30 fps
+- **Grid display:** Grid 1
+
+An **aspect ratio** describes the proportional relationship between the width and height of the image.
+
+**Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.
+
+**Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
+
+## Set the recording size
+
+1. Set the camera to Video mode.
+2. Press **Menu**.
+3. Navigate to the second video menu tab.
+4. Select **Movie recording size**.
+5. Choose the option showing **1920 × 1080 at 30 fps**.
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/27.JPG"
+      alt="Canon camera video menu showing the Movie recording size option"
+    >
+    <figcaption>
+      Locate Movie recording size in the video menu
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/30.jpg"
+      alt="Canon camera menu showing 1920 by 1080 recording at 30 frames per second"
+    >
+    <figcaption>
+      Select 1920 × 1080 at 30 fps
+    </figcaption>
+  </figure>
+
+</div>
+
+## Activate the grid display
+
+The grid helps maintain consistent framing, headroom, visual balance, and alignment across the cameras.
+
+1. Press **Menu**.
+2. Navigate to the first video menu tab.
+3. Select **Grid display**.
+4. Choose **Grid 1**.
+
+![Canon camera menu showing the Grid 1 display option](imgs/35.JPG)
+
+## Video settings checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete on all three cameras</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the camera to Video mode.</strong>
+      Confirm that the camera is prepared to record video rather than still photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the resolution to 1920 × 1080.</strong>
+      Use the same resolution on Cameras A, B, and C.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the frame rate to 30 fps.</strong>
+      Do not combine footage recorded at different frame rates.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the 16:9 aspect ratio.</strong>
+      The selected 1920 × 1080 recording size uses a 16:9 frame.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Activate Grid 1.</strong>
+      Use the grid to compare framing across the three cameras.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Cameras and Lenses</span>
+    <span class="section-description">
+      Prepare three cameras with different lenses and production roles.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review the [available DSLR cameras and lenses](../Cameras.md){:target="_blank"}.
+
+Each camera has a different purpose within the interview setup.
+
+| Camera | Lens | Support | Primary role |
+|---|---|---|---|
+| **Camera A** | Default kit lens | Tripod | Main frontal interview shot |
+| **Camera B** | 50 mm lens | Tripod | Secondary angle |
+| **Camera C** | 85 mm lens | Handheld | Details and additional coverage |
+
+Attach and confirm the correct lens before completing the remaining camera settings.
+
+> Camera C uses a longer lens. Small movements may appear more noticeable, so hold the camera carefully and maintain a stable position.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/xS-sM2wvPHI?si=5zIiVux5CBlGrBEt"
-    title="YouTube video player"
-    frameborder="0"
+    title="Introduction to camera lenses and focal length"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
----
+## Camera and lens checklist
 
-### 3. Camera Settings
+<fieldset class="equipment-checklist">
+  <legend>Assign the equipment</legend>
 
-For this assignment, use **Manual Mode (M)**.  
-- Shooting in Manual Mode gives you **full control** over the camera’s exposure settings, including **aperture, shutter speed, and ISO**.
-- Keep exposure consistency across all three cameras
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Prepare Camera A with the kit lens.</strong>
+      Mount the camera securely on a tripod.
+    </span>
+  </label>
 
-<img src="imgs/26.jpg" style="width: 80%; height: auto;">     
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Prepare Camera B with the 50 mm lens.</strong>
+      Mount the camera securely on a second tripod.
+    </span>
+  </label>
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Prepare Camera C with the 85 mm lens.</strong>
+      This camera will be used handheld for selected details.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that every lens is locked into place.</strong>
+      Turn off the camera before attaching or removing a lens.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Image Stabilization for each camera.</strong>
+      Turn stabilization off for tripod-mounted cameras. Turn it on for the handheld camera when the lens provides this option.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Camera Settings</span>
+    <span class="section-description">
+      Control aperture, shutter speed, and ISO while maintaining consistency across all three cameras.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Why use Manual mode?
+
+Set all three cameras to **Manual mode (`M`)**.
+
+Manual mode gives you direct control over:
+
+- Aperture
+- Shutter speed
+- ISO
+
+Automatic settings may change while the subject moves or the framing changes. Manual settings help maintain consistent exposure throughout the interview and between cameras.
+
+![Camera mode dial set to Manual mode](imgs/26.jpg)
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to use Manual mode on a Canon DSLR camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Aperture (f-number)
+## Aperture
 
-- Start with a **wide aperture**, such as **f/2.8 – f/5**
-- A wider aperture lets in more light, creates a **shallow depth of field**, helps separate the subject from the background, reinforcing the dramatic effect of chiaroscuro
-- **Note:** Each lens has a specific range of available apertures, determined by its physical design and focal length.
-- **Recommendation:** Keep the **same or similar aperture across all cameras** to make multi-camera exposure easier to manage.  
+Begin with a relatively wide aperture, such as:
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+- `f/2.8`
+- `f/4`
+- `f/5.6`
+
+A wider aperture:
+
+- Allows more light into the camera
+- Creates a shallower depth of field
+- Helps separate the subject from the background
+- Supports the dramatic visual effect of chiaroscuro
+
+Each lens has a different available aperture range. Select the closest practical aperture when the same value is not available on every lens.
+
+> Keep the aperture settings the same or as similar as possible across the three cameras.
+
+<div class="video-wrapper">
+  <iframe
     src="https://player.vimeo.com/video/19603662?h=1270ae8baa"
-    title="vimeo-player"
-    frameborder="0"
-    referrerpolicy="strict-origin-when-cross-origin"
+    title="Introduction to aperture"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Shutter Speed
+## Shutter speed
 
-- Start at **1/60s**. You may raise it or lower it slighthly if needed
-- Shutter speed in this assignment is used primarily to fine-tune overall exposure, and avoid motion blur while keeping movement natural
-- Because the subject is mostly still, extreme shutter speeds are not required.
-- **Recommendation:** Keep the **same shutter speed across all cameras** to make multi-camera exposure easier to manage.   
+Set the shutter speed to:
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+```text
+1/60 second
+```
+
+A shutter speed of `1/60` is appropriate for recording at 30 fps and helps maintain natural-looking movement.
+
+Avoid very slow shutter speeds that produce excessive motion blur.
+
+> Keep the same shutter speed across all three cameras.
+
+<div class="video-wrapper">
+  <iframe
     src="https://player.vimeo.com/video/19603537?h=7533f831d5"
-    title="vimeo-player"
-    frameborder="0"
-    referrerpolicy="strict-origin-when-cross-origin"
+    title="Introduction to shutter speed"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### ISO
+## ISO
 
-- Begin at **ISO 400** for the cleanest image
-- Increase to **ISO 800-1600** only if the scene is still too dark **after adjusting lights and aperture**
-- Avoid going higher unless instructed, as higher ISO introduces visible noise (especially in low-light scenes)  
+Begin at:
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+```text
+ISO 400
+```
+
+When the image remains too dark:
+
+1. Adjust the lights first.
+2. Confirm that the aperture is sufficiently wide.
+3. Increase ISO to `800`.
+4. Increase ISO to `1600` only when necessary.
+
+Higher ISO settings can brighten the image, but they also introduce more visible digital noise and reduce fine detail.
+
+<div class="video-wrapper">
+  <iframe
     src="https://player.vimeo.com/video/19603860?h=70853fa7d3"
-    title="vimeo-player"
-    frameborder="0"
+    title="Introduction to ISO"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Additional Settings
+## Manual exposure checklist
 
-- **Ignore Auto-Exposure Bracketing (AEB)** for this assignment  
-  > Leave it at the default setting
+<fieldset class="equipment-checklist">
+  <legend>Complete on all three cameras</legend>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shooting mode to <code>M</code>.</strong>
+      Manual mode prevents automatic exposure changes during recording.
+    </span>
+  </label>
 
-## 4. White Balance
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the aperture between approximately <code>f/2.8</code> and <code>f/5.6</code>.</strong>
+      Use the same or closest available aperture across the cameras.
+    </span>
+  </label>
 
-White Balance is the **appearance of Color** determined by the **pigments present in the subject**, and the **light illuminating it**.   
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shutter speed to <code>1/60</code>.</strong>
+      Keep this setting consistent on Cameras A, B, and C.
+    </span>
+  </label>
 
-In Week 1, you used **Auto White Balance (AWB)**. In this mode, the camera automatically analyzes the scene and adjusts color temperature to neutralize what it assumes should be white.   
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin at <code>ISO 400</code>.</strong>
+      Increase ISO only after adjusting the lighting and aperture.
+    </span>
+  </label>
 
-For Week 2, we will switch to **Custom White Balance** to maintain consistent skin tones in all three cameras. Follow this tutorial to set **White Balance manually**.  
-> A **3 in 1 Balance Card Set (2"x 3")** will be available for White Balance (this item is included on the Department rentals).  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn Auto Exposure Bracketing off.</strong>
+      Confirm that only one exposure marker appears on the scale.
+    </span>
+  </label>
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Compare exposure across all three cameras.</strong>
+      Check the subject’s skin, highlights, shadows, and background.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Custom White Balance</span>
+    <span class="section-description">
+      Use a neutral reference card to create consistent colour and skin tones across all cameras.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## What is white balance?
+
+White balance adjusts how the camera records the colour of the light illuminating the scene.
+
+Automatic White Balance may change between cameras or during recording. For this activity, use **Custom White Balance** so the three cameras record the lighting and skin tones consistently.
+
+A **3-in-1 balance card set (2 × 3 inches)** is available through the department rentals.
+
+![Three-in-one white, grey, and black balance card set](imgs/33.jpg)
+
+## Set Custom White Balance
+
+Complete the following process separately on each camera after the lighting has been finalized:
+
+1. Place the neutral grey or white reference card where the subject will sit.
+2. Make sure the card is illuminated by the same light that will illuminate the subject.
+3. Fill most of the frame with the reference card.
+4. Take a correctly exposed photograph of the card.
+5. Open the camera menu.
+6. Select **Custom White Balance**.
+7. Choose the reference photograph.
+8. Set the camera’s White Balance mode to the **Custom White Balance** symbol.
+9. Repeat the process on Cameras A, B, and C.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to set Custom White Balance on a Canon DSLR camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-#### 3 in 1 Balance Card Set (2"x 3")
+> Create the Custom White Balance only after the lights and their colour temperatures are in their final positions.
 
-<img src="imgs/33.jpg" style="width: 40%; height: auto;">   
+## White-balance checklist
 
----
+<fieldset class="equipment-checklist">
+  <legend>Complete on all three cameras</legend>
 
-## 5. Camera Placement
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Finalize the lighting first.</strong>
+      Do not change the light colour temperature after setting Custom White Balance.
+    </span>
+  </label>
 
-- **Camera A:** eye-level, directly facing the subject (on tripoid)  
-- **Camera B:** positioned 30–45° to left or right side (on tripoid)   
-- **Camera C:** flexible (moving around), focused on details (handheld)  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the reference card at the subject’s position.</strong>
+      The card must receive the same light as the subject.
+    </span>
+  </label>
 
-<img src="imgs/29.png" style="width: 50%; height: auto;">
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a Custom White Balance on Camera A.</strong>
+      Select the reference photograph and activate the Custom White Balance setting.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a Custom White Balance on Camera B.</strong>
+      Use the same reference card under the same lighting.
+    </span>
+  </label>
 
-## 6. Audio Recording Method
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a Custom White Balance on Camera C.</strong>
+      Compare the colour of the subject across all three camera screens.
+    </span>
+  </label>
+</fieldset>
 
-You will **record audio directly into two of your cameras (A & B)** using two a lapel microphone and a shotgun microphone.  
+</div>
+</details>
 
-Check the [Available Microphones](../Audio.md){:target="_blank"}.   
+<!-- 
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Position and focus the cameras</span>
+    <span class="section-description">
+      Assign a distinct angle and framing purpose to each camera, then set Manual Focus.
+    </span>
+  </summary>
 
-Follow this tutorial to setup the **RODE VideoMic NTG On-Camera Shotgun Microphone** to your **main camera (A)**:  
+<div class="section-content" markdown="1">
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+## Camera placement
+
+Use the three cameras to create complementary views rather than three nearly identical images.
+
+- **Camera A:** Position at eye level, directly facing the subject, on a tripod
+- **Camera B:** Position approximately 30–45 degrees to the left or right of the subject, on a tripod
+- **Camera C:** Use handheld for controlled details, alternative angles, and additional visual coverage
+
+![Diagram showing the three-camera interview arrangement](imgs/29.png)
+
+## Framing guidelines
+
+### Camera A: Main shot
+
+- Create the primary interview framing
+- Keep the eyes near the upper horizontal grid line
+- Leave appropriate headroom
+- Keep the subject’s position stable throughout the interview
+- Avoid placing the subject too close to the edge of the frame
+
+### Camera B: Secondary angle
+
+- Maintain a clear difference from Camera A
+- Keep the camera at approximately the same eye level
+- Check that equipment does not appear in the frame
+- Maintain a consistent looking direction between the two static cameras
+
+### Camera C: Detail camera
+
+Use the handheld camera selectively for:
+
+- Hands
+- Facial details
+- Clothing or personal objects
+- Lighting details
+- Environmental details
+- Controlled changes in framing
+
+Move slowly and avoid unnecessary camera movement.
+
+## Set Manual Focus
+
+Use **Manual Focus** for the interview.
+
+1. Move the focus switch on the lens from `AF` to `MF`.
+2. Magnify the image on the LCD screen.
+3. Focus carefully on the subject’s eyes.
+4. Return to the full image.
+5. Ask the subject to remain near the marked position.
+6. Recheck focus after moving a camera or changing the focal length.
+
+> A shallow depth of field leaves less room for movement. Recheck focus whenever the subject changes position.
+
+## Camera placement checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Framing and focus</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position Camera A at eye level.</strong>
+      Create the main frontal interview shot.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position Camera B at a 30–45-degree angle.</strong>
+      Make the secondary view visually distinct from Camera A.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Plan the role of Camera C.</strong>
+      Identify the details and alternative framings needed before recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set every lens to Manual Focus.</strong>
+      Magnify the image and focus on the subject’s eyes.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check headroom and visual balance.</strong>
+      Use Grid 1 to compare the three compositions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Remove equipment from every frame.</strong>
+      Check for lights, stands, cables, microphones, bags, and other cameras.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details> -->
+
+<!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Record High-Quality Audio</span>
+    <span class="section-description">
+      Record the interview audio directly into Cameras A and B using shotgun and lapel microphones.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Audio recording method
+
+Record audio directly into two cameras:
+
+- **Camera A:** RØDE VideoMic NTG shotgun microphone
+- **Camera B:** One lapel microphone system
+- **Camera C:** Camera reference audio only
+
+Review the [available microphones](../Audio.md){:target="_blank"} before selecting the equipment.
+
+Recording the main voice into two cameras provides an additional audio source if one microphone has a technical problem.
+
+## Camera A: RØDE VideoMic NTG
+
+Connect the RØDE VideoMic NTG to Camera A.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/v_iq4i9zmGA?si=r-7RjE0QbbsV_jgq"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to connect the RODE VideoMic NTG to a camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-Follow one of these tutorials to setup the **lapel Microphone** to your **side camera (B)**:  
+Position the shotgun microphone:
 
-### Connect CAMERA to Rode Wireless GO II Microphone
+- Close to the subject
+- Outside the camera frame
+- Pointed toward the subject’s upper chest or mouth
+- Away from loud equipment, ventilation systems, and reflective surfaces
 
-> Note: You only need to setup one microphone.   
+## Camera B: Lapel microphone
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+Connect one lapel microphone system to Camera B.
+
+Only one of the following systems is required.
+
+### RØDE Wireless GO II
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/jp1e7pZZQ-0?si=zysMniDdCKgcV38K"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to connect the RODE Wireless GO II to a camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Connect CAMERA to Sennheiser Evolution Wireless(G4 Sys 100-P Series) 
+### Sennheiser Evolution Wireless G4
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
-    title="YouTube video player"
-    frameborder="0"
+    title="How to connect the Sennheiser Evolution Wireless G4 system to a camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Basics of Audio for Video:   
+## Place the lapel microphone
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+- Attach the microphone approximately 15–20 centimetres below the speaker’s mouth
+- Keep it away from necklaces, hair, scarves, and loose fabric
+- Hide or secure the cable when possible
+- Confirm that the transmitter and receiver are turned on
+- Check that the receiver is connected to the camera’s microphone input
+
+## Monitor and test the audio
+
+Use headphones when the camera provides a headphone output.
+
+Ask the subject to speak at the volume they will use during the interview.
+
+Listen for:
+
+- Clear speech
+- Clothing noise
+- Electrical interference
+- Background noise
+- Distortion
+- Audio that is too quiet
+- Audio recorded by the camera’s internal microphone instead of the external microphone
+
+Aim for healthy levels that remain below clipping. Speech peaks around `-12 dB` provide useful headroom. The level must not reach `0 dB`.
+
+## Audio fundamentals
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/gULyPx-F_Xs?si=wZaEcUW5hbBq9HVX"
-    title="YouTube video player"
-    frameborder="0"
+    title="Introduction to recording audio for video"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-________________________________________________________________________
+## Audio setup checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Microphone preparation</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connect the shotgun microphone to Camera A.</strong>
+      Confirm that the cable is connected to the camera’s microphone input.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connect one lapel system to Camera B.</strong>
+      Confirm that the transmitter and receiver are paired and turned on.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position both microphones correctly.</strong>
+      Keep them close to the speaker and away from clothing or other noise sources.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Ask the subject to speak at interview volume.</strong>
+      Test using complete sentences rather than whispering or tapping the microphone.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the audio meters.</strong>
+      Maintain healthy levels without reaching <code>0 dB</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Listen to a test recording.</strong>
+      Confirm that each camera recorded the intended external microphone.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 8
+/////////////////
+-->
+
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">8. Record and review a technical test</span>
+    <span class="section-description">
+      Test all three cameras and both microphones before beginning the full interview.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Record the test
+
+1. Ask the subject to sit or stand in the marked position.
+2. Start recording on Cameras A, B, and C.
+3. Record a visible and audible hand clap.
+4. Ask the subject to speak for approximately 20–30 seconds.
+5. Stop all three cameras.
+6. Review the image and audio from each camera.
+
+The hand clap creates a shared visual and audio reference that can help synchronize the recordings in post-production.
+
+## Review the test
+
+Check:
+
+- Exposure
+- Highlight detail
+- Shadow detail
+- Focus on the eyes
+- Depth of field
+- Skin tones
+- Colour consistency
+- Framing and headroom
+- Camera stability
+- Shotgun microphone sound
+- Lapel microphone sound
+- Background noise
+- Equipment visible in the frame
+
+Make corrections before beginning the complete interview.
+
+## Final recording checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Ready to record</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The background and subject positions are finalized.</strong>
+      Mark the subject and tripod positions when necessary.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The lighting creates the intended contrast.</strong>
+      Check the key, fill, back light, and background separately.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>All cameras record at 1920 × 1080 and 30 fps.</strong>
+      Confirm the settings again before recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>All cameras use Manual exposure.</strong>
+      Check aperture, shutter speed, ISO, and Auto Exposure Bracketing.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Custom White Balance is active on all cameras.</strong>
+      Compare colour and skin tones across the three screens.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Manual Focus has been checked on all cameras.</strong>
+      Magnify the subject’s eyes to confirm sharpness.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The microphones are connected and tested.</strong>
+      Listen to a recorded test from Cameras A and B.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The batteries and memory cards have sufficient capacity.</strong>
+      Replace or recharge equipment before beginning when necessary.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>A synchronization clap will be recorded.</strong>
+      Make the clap visible to all cameras and audible to both microphones.
+    </span>
+  </label>
+</fieldset>
+
+> Do not begin the full interview until the group has watched and listened to the technical test.
+
+</div>
+</details>
+
+
+---
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-Microsoft CoPilot and ChatGPT was used for **editing and clarity only**, as well as to create some to the **image visualizations**. AI is not used to generate original course content.
