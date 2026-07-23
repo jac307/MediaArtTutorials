@@ -418,8 +418,6 @@ When recording with multiple cameras, each camera should have a distinct purpose
 - **Camera B:** Position approximately 30–45 degrees to the left or right of the subject, on a tripod
 - **Camera C:** Use handheld for controlled details, alternative angles, and additional visual coverage
 
-![Diagram showing the three-camera interview arrangement](imgs/29.png)
-
 ## Framing guidelines
 
 ### Camera A: Main shot
