@@ -316,111 +316,15 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Video Recording in DSLR Cameras</span>
+    <span class="section-title">3. Cameras and Lenses</span>
     <span class="section-description">
-      Set resolution - aspect ratio, frame rate, and display grid.
+      Multi-Camera Recording using different lenses and production roles.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Set Resolution, Aspect Ratio & Frame Rate
-
-- **Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.  
-- An **aspect ratio** describes the proportional relationship between the width and height of the image.  
-- **Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
-
-![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/30.png)
-
-### Steps
-
-1. Set the camera to Video mode.
-2. Press **Menu**.
-3. Navigate to the second video menu tab.
-4. Select **Movie recording size**.
-5. Choose the option showing **1920 × 1080 at 30 fps**.  
-
-![Canon camera video menu showing the Movie recording size option](imgs/27.png)
-
-## Activate Display Grid
-
-The grid helps maintain consistent framing, headroom, visual balance, and alignment.
-
-1. Press **Menu**.
-2. Navigate to the first video menu tab.
-3. Select **Grid display**.
-4. Choose **Grid 1**.
-
-![Canon camera menu showing the Grid 1 display option](imgs/35.JPG)
-
-## Video settings checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete on all three cameras</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the camera to Video mode.</strong>
-      Confirm that the camera is prepared to record video rather than still photographs.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the resolution to 1920 × 1080.</strong>
-      Use the same resolution on Cameras A, B, and C.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the frame rate to 30 fps.</strong>
-      Do not combine footage recorded at different frame rates.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the 16:9 aspect ratio.</strong>
-      The selected 1920 × 1080 recording size uses a 16:9 frame.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Activate Grid 1.</strong>
-      Use the grid to compare framing across the three cameras.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Cameras and Lenses</span>
-    <span class="section-description">
-      Prepare three cameras with different lenses and production roles.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Review the [available DSLR cameras and lenses](../Cameras.md){:target="_blank"}.
-
-Each camera has a different purpose within the interview setup.
+For an interview setup, it is common to use multiple cameras with different lenses, positions, and production roles. The following camera arrangement is assigned for this week:  
 
 | Camera | Lens | Support | Primary role |
 |---|---|---|---|
@@ -492,15 +396,109 @@ Attach and confirm the correct lens before completing the remaining camera setti
 
 <!-- 
 /////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Video Recording in DSLR Cameras</span>
+    <span class="section-description">
+      Set resolution - aspect ratio, frame rate, and display grid.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Set Resolution, Aspect Ratio & Frame Rate
+
+- **Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.  
+- An **aspect ratio** describes the proportional relationship between the width and height of the image.  
+- **Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
+
+![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/30.png)
+
+### Steps
+
+1. Set the camera to Video mode.
+2. Press **Menu**.
+3. Navigate to the second video menu tab.
+4. Select **Movie recording size**.
+5. Choose the option showing **1920 × 1080 at 30 fps**.  
+
+![Canon camera video menu showing the Movie recording size option](imgs/27.png)
+
+## Activate Display Grid
+
+The grid helps maintain consistent framing, headroom, visual balance, and alignment.
+
+1. Press **Menu**.
+2. Navigate to the first video menu tab.
+3. Select **Grid display**.
+4. Choose **Grid 1**.
+
+![Canon camera menu showing the Grid 1 display option](imgs/35.JPG)
+
+## Video settings checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete on all three cameras</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the cameras to Video mode.</strong>
+      Confirm that all cameras are prepared to record video rather than still photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the resolution to 1920 × 1080.</strong>
+      Use the same resolution on Cameras A, B, and C.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the frame rate to 30 fps.</strong>
+      Do not combine footage recorded at different frame rates.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the 16:9 aspect ratio.</strong>
+      The selected 1920 × 1080 recording size uses a 16:9 frame in all cameras.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Activate Grid 1.</strong>
+      Use the grid to compare framing across the three cameras.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
 SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Camera Settings</span>
+    <span class="section-title">5. Exposure Camera Settings</span>
     <span class="section-description">
-      Control aperture, shutter speed, and ISO while maintaining consistency across all three cameras.
+      Control aperture and ISO while maintaining consistency across all three cameras.
     </span>
   </summary>
 
