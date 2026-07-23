@@ -190,22 +190,22 @@ Examples include:
 
 > The Sennheiser ME 80 is the **detail microphone**. Its position should prioritize one specific area or group of subtle sounds rather than the entire Foley station.
 
-## Audio Device 2 — Shutgun on Camera A
+## Audio Device 2 — Shutgun on Camera B
 
 ![Condenser Microphone Placement](imgs/ShutGMic-Placement.png)
 
 ### Purpose
 
-Use the **RØDE VideoMic NTG** to capture medium and loud Foley sounds while recording audio directly with the video from Camera A.
+Use the **RØDE VideoMic NTG** to capture medium and loud Foley sounds while recording audio directly with the video from Camera B.
 
 This recording will also provide an important synchronized reference during editing.
 
 ### Setup
 
-1. Attach the **RØDE VideoMic NTG** to **Camera A**.
+1. Attach the **RØDE VideoMic NTG** to **Camera B**.
 2. Connect the microphone directly to the camera’s microphone input.
-3. Mount Camera A on a tripod.
-4. Position Camera A on the opposite side of the Foley station from the Sennheiser ME 80.
+3. Mount Camera B on a tripod.
+4. Position Camera B on the opposite side of the Foley station from the Sennheiser ME 80.
 5. Aim the microphone toward the general Foley action area.
 6. Place the camera closer to the objects or actions that require stronger directional coverage.
 7. Begin with a low or low-medium recording level.
@@ -214,7 +214,7 @@ This recording will also provide an important synchronized reference during edit
 
 > This microphone captures directional sound with an immediate visual reference. It will support synchronization and help identify individual Foley actions during editing.
 
-## Audio Device 3 — ZOOM H4n ambient recorder
+## Audio Device 3 — Ambient recorder
 
 ### Purpose
 
@@ -225,11 +225,10 @@ This recorder should document how the individual sounds blend within the complet
 ### Setup
 
 - Mount the second ZOOM H4n on a compatible tripod or stand.
-- Position it above the Foley station.
+- Position it above the Foley station coming from the side or behind. 
+- Use the built-in stereo microphones.
 - Angle the built-in microphones downward.
 - Centre it over the general action area.
-- Keep it outside all camera frames.
-- Use the built-in stereo microphones.
 - Begin with a low-medium input level.
 - Monitor the signal using headphones.
 - Confirm that the loudest combined Foley actions do not clip.
