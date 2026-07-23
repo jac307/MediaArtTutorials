@@ -586,19 +586,82 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Record separate outdoor audio</span>
+    <span class="section-title">6. Record high quality Audio</span>
     <span class="section-description">
-      Configure the ZOOM H4n, monitor the recording, and create a synchronization point for editing.
+      Configure the on-camera shotgun microphone and ZOOM H4n, monitor both recordings, and create a synchronization point for editing.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Record audio separately using a [ZOOM H4n handheld recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}.
+- A **RØDE VideoMic NTG** connected to the camera
+- A separate [ZOOM H4n handheld recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}
 
-Separate audio recording provides greater control over microphone placement, recording levels, and sound quality during editing.
+The ZOOM H4n should provide the primary audio recording. The on-camera shotgun microphone provides reference audio for synchronization and an additional backup.
 
-## Recorder setup
+## Camera microphone setup
+
+<fieldset class="equipment-checklist">
+  <legend>Prepare the RØDE VideoMic NTG</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Mount the RØDE VideoMic NTG on the camera.</strong>
+      Use the same on-camera shotgun microphone setup introduced during the Chiaroscuro Interview activity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Install a windscreen.</strong>
+      Use a windscreen or furry windshield to reduce outdoor wind noise.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connect and turn on the microphone.</strong>
+      Insert the audio cable into the camera’s external microphone input and confirm that the RØDE VideoMic NTG is powered on.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the external audio input.</strong>
+      Open the camera’s audio settings and verify that it is receiving sound from the external microphone rather than the built-in microphone.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connect headphones and monitor the sound.</strong>
+      Listen for clear environmental sound, wind noise, electrical interference, handling noise, or distortion.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check and adjust the recording levels.</strong>
+      Aim for the loudest sounds to peak at approximately <code>-12 dB</code>. The levels must remain below <code>0 dB</code> to prevent clipping.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record and review a short audio test.</strong>
+      Confirm that the audio is clear, audible, free from clipping, and being recorded through the RØDE VideoMic NTG.
+    </span>
+  </label>
+</fieldset>
+
+## ZOOM H4n setup
 
 <fieldset class="equipment-checklist">
   <legend>Prepare the ZOOM H4n</legend>
@@ -651,26 +714,6 @@ Separate audio recording provides greater control over microphone placement, rec
     </span>
   </label>
 </fieldset>
-
-## Recording method
-
-- Assign one student to hold and monitor the recorder.
-- Hold the recorder steadily and keep fingers away from the microphones.
-- Position the recorder close enough to capture the intended sound clearly.
-- Do not tap, touch, or adjust the recorder while capturing usable audio.
-- Ask everyone who is not performing a production role to remain still and quiet.
-- The recorder operator may move carefully when following a sound source, but must remain outside the camera frame.
-
-## Synchronize the audio and video
-
-1. Press **Record** on the camera.
-2. Press **Record** on the ZOOM H4n.
-3. Stand where the camera can see you.
-4. Perform one clear, loud hand clap.
-5. Wait several seconds before the intended action begins.
-6. Continue recording without stopping either device.
-
-The hand clap creates a visible and audible reference that can be used to synchronize the separate audio and video in Premiere Pro.
 
 ## ZOOM H4n tutorial
 
