@@ -204,7 +204,7 @@ Before beginning:
     <input type="checkbox">
     <span>
       <strong>Open the technical walkthrough.</strong>
-      Follow the <a href="../TechWalks/TW-W2.md" target="_blank">W2 Chiaroscuro Interview Technical Walkthrough</a> throughout the setup.
+      Follow the <a href="../TechWalks/TW-W2.html" target="_blank">W2 Chiaroscuro Interview Technical Walkthrough</a> throughout the setup.
     </span>
   </label>
 </fieldset>
@@ -219,7 +219,7 @@ The background may be **entirely in shadow, partially shadowed, or intentionally
 
   <figure class="media-card">
     <img
-      src="imgs/with-backdrop.jpg"
+      src="../TechWalks/imgs/with-backdrop.jpg"
       alt="Interview lighting setup using a black backdrop behind the subject"
     >
     <figcaption>With a backdrop</figcaption>
@@ -227,7 +227,7 @@ The background may be **entirely in shadow, partially shadowed, or intentionally
 
   <figure class="media-card">
     <img
-      src="imgs/without-backdrop.png"
+      src="../TechWalks/imgs/without-backdrop.png"
       alt="Interview lighting setup using the room as the visible background"
     >
     <figcaption>Without a backdrop</figcaption>
@@ -235,31 +235,17 @@ The background may be **entirely in shadow, partially shadowed, or intentionally
 
 </div>
 
-### Working with a backdrop
+## Set up three-point lighting for chiaroscuro
 
-- Secure the backdrop and support stands.
-- Position the interviewee away from the backdrop when space permits.
-- Keep the backdrop edges, supports, and clamps outside the camera frame.
-- Control light spill so the backdrop supports the intended level of darkness.
+![Key Light Example of Arragement](../TechWalks/imgs/ThreePointLight.png)
 
-### Working without a backdrop
+Use the three lights to create strong contrast between light and shadow:
 
-- Choose a simple, uncluttered background.
-- Increase the distance between the interviewee and the background.
-- Decide whether the background will be entirely shadowed, partially shadowed, or intentionally illuminated.
-- Maintain clear contrast through differences in brightness, lighting direction, or light intensity.
-- Prevent the background lighting from competing with the interviewee.
-- Remove bright or reflective objects that create distractions.
+- Key light: Main illumination
+- Fill light: Controls shadow depth
+- Back light: Separates the interviewee from the background
 
-## Use three-point lighting for chiaroscuro
-
-A **three-point lighting setup** uses three lights with different functions:
-
-- The **key light** provides the main illumination.
-- The **fill light** controls the depth of the shadows.
-- The **back light** separates the interviewee from the background.
-
-For this activity, adapt the setup to create a chiaroscuro effect. The key light should remain dominant, while the fill and back lights should be used at lower intensities. This preserves strong contrast between light and shadow while maintaining selected details and separation within the frame.
+**Refer to the Week 2 Technical Walkthrough for detailed setup instructions.**
 
 > Handle all lighting equipment carefully. Keep stands stable and organize cables so they do not obstruct doors, walkways, or accessibility routes.
 
