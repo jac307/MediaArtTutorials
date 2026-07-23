@@ -37,6 +37,30 @@ The background does not need to be completely black. The main goal is to control
 3. Direct the lights toward the subject rather than toward the backdrop.
 4. Check that the edges of the backdrop remain outside the camera frame.
 
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/with-backdrop.jpg"
+      alt="Sony Pictures Classics. (2003). Robert McNamara in The Fog of War [Film still]. Everett Collection."
+    >
+    <figcaption>
+      Example of a chiaroscuro effect with a black backdrop in The Fog of War.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/with-backdrop2.png"
+      alt="Mairi Troisième (Photography) by Pat David"
+    >
+    <figcaption>
+      Example of a chiaroscuro effect in photography on Mairi Troisième by Pat David.
+    </figcaption>
+  </figure>
+
+</div>
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/ppy6S3nBl7w?si=__vTHJHWHWVtj5s8"
@@ -49,10 +73,35 @@ The background does not need to be completely black. The main goal is to control
 ## Working without a backdrop
 
 - Choose a simple, uncluttered background
-- Increase the distance between the subject and background
-- Prevent the key light from illuminating the background
-- Allow part of the background to fall into shadow
-- Remove bright or reflective objects from the frame
+- Increase the distance between the subject and the background
+- Decide how the background will support the composition: it may be entirely in shadow, partially shadowed, or intentionally illuminated
+- Maintain a clear contrast between the subject and the background through differences in brightness, direction, or intensity of light
+- Prevent the background lighting from competing with the subject
+- Remove bright or reflective objects that create unwanted distractions
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/without-backdrop2.jpg"
+      alt="Paramount Pictures. (1974). Al Pacino as Michael Corleone in The Godfather: Part II [Photography]. Everett Collection."
+    >
+    <figcaption>
+      Example of a clear chiaroscuro effect of Al Pacino as Michael Corleone in The Godfather: Part II.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/without-backdrop.png"
+      alt="Sony Pictures Classics. (2003). Robert McNamara in The Fog of War [Film still]. Everett Collection."
+    >
+    <figcaption>
+      Example of a subtle chiaroscuro effect in The Fog of War.
+    </figcaption>
+  </figure>
+
+</div>
 
 ## Space preparation checklist
 
