@@ -4,16 +4,6 @@
 
 Use this page to review the available lighting kits, individual lights, reflectors, backdrops, and support equipment before booking.
 
-Before using any lighting equipment:
-
-- Confirm that all lights, stands, cables, adapters, and accessories are included.
-- Inspect the equipment for visible damage.
-- Stabilize every light and backdrop stand.
-- Keep electrical cables away from doors, walkways, and accessibility routes.
-- Allow hot lights to cool before handling or packing them.
-- Return each item to its correctly numbered bag or case.
-
-
 <!--
 /////////////////
 SECTION 1
@@ -32,7 +22,7 @@ SECTION 1
 
 ## Fiilex P360 LED Kit
 
-![Fiilex P360 three-light LED kit](TechWalks/imgs/16.jpg)
+![Fiilex P360 three-light LED kit](TechWalks/imgs/025.jpg)
 
 A three-light, bi-colour, dimmable LED kit suitable for controlled indoor setups.
 
@@ -87,7 +77,7 @@ It may be used as:
 
 ## Ianiro 1000W three-light kit
 
-![Ianiro three-light tungsten kit](TechWalks/imgs/73.jpg)
+![Ianiro three-light tungsten kit](TechWalks/imgs/026.jpg)
 
 A high-output tungsten lighting kit that produces strong, directional illumination and dramatic contrast.
 
@@ -104,7 +94,7 @@ This kit is most suitable for controlled indoor environments.
 
 ## Ledgo LG-900CSCII three-panel LED kit
 
-![Ledgo LG-900CSCII three-panel LED kit](TechWalks/imgs/74.jpg)
+![Ledgo LG-900CSCII three-panel LED kit](TechWalks/imgs/027.jpg)
 
 A three-panel, bi-colour LED kit that provides soft and even illumination.
 
@@ -124,7 +114,7 @@ The kit is suitable for interviews, narrative scenes, and controlled lighting ar
 
 ## Photoflex Starlite Kit
 
-![Photoflex Starlite softbox kit](TechWalks/imgs/75.jpg)
+![Photoflex Starlite softbox kit](TechWalks/imgs/028.jpg)
 
 A single tungsten light with a softbox that produces broad, diffused illumination.
 
