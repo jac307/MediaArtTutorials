@@ -221,8 +221,8 @@ Each station group is responsible for booking the equipment listed below. Becaus
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>One backdrop kit, if available</strong>
-      Book Backdrop Stand – Cameron or Neewer Backdrop Stand, Two Sandbags, One Black Backdrop.
+      <strong>One backdrop equipment (book 3 items separatelly), if available</strong>
+      Book Backdrop Stand – Cameron or Neewer Backdrop Stand, One Sandbags (for light with softbox), One Black Backdrop.
     </span>
   </label>
 
@@ -647,18 +647,42 @@ SECTION 7
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Pack and return the equipment</span>
+    <span class="section-title">7. Save your files, pack, and return the equipment</span>
     <span class="section-description">
-      Confirm every numbered component, pack the equipment securely, remove it from the station, and return it to the designated location.
+      Back up all project files, confirm every numbered component, pack the equipment securely, and return it to the designated location.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-When all pairs at the station have finished, your group is responsible for packing and returning all booked equipment. **Do not leave equipment unattended at the station.**
+When all pairs at the station have finished, save and verify all project files before packing the equipment. Your group is responsible for returning all booked equipment. **Do not leave equipment unattended at the station.**
 
 <fieldset class="equipment-checklist">
-  <legend>Equipment wrap-up and return</legend>
+  <legend>File backup, equipment wrap-up, and return</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Transfer and organize all project files.</strong>
+      Copy the video footage from every camera and save all worksheets, notes, audio files, and related documents in a clearly labelled project folder.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a second copy for security.</strong>
+      Save a duplicate of the complete project folder in a separate location, such as another drive or approved cloud storage. Do not keep both copies on the same device.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Verify both copies before returning the equipment.</strong>
+      Open several video and audio files from each copy to confirm that they transferred correctly. Do not delete or format any SD card until the files have been checked.
+    </span>
+  </label>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -679,8 +703,8 @@ When all pairs at the station have finished, your group is responsible for packi
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Compare the equipment with the station list and pack the equipment securely.</strong>
-      Confirm that every assigned item and accessory is present. Store cameras, lenses, lights, microphones, and accessories in their assigned bags or cases.
+      <strong>Compare the equipment with the station list and pack it securely.</strong>
+      Confirm that every assigned item and accessory is present. Store cameras, lenses, lights, microphones, and accessories in their correctly numbered bags or cases.
     </span>
   </label>
 
@@ -696,25 +720,26 @@ When all pairs at the station have finished, your group is responsible for packi
     <input type="checkbox">
     <span>
       <strong>Return the equipment.</strong>
-      Your station group is responsible for transporting all booked equipment back to the designated return location and completing the required return process.
+      Your station group is responsible for transporting all booked equipment to the designated return location and completing the required return process.
     </span>
   </label>
 </fieldset>
 
-Divide the wrap-up and return responsibilities evenly. Handle all equipment carefully until it has been officially returned.
+Divide the file-transfer, wrap-up, and return responsibilities evenly. Handle all equipment carefully until it has been officially returned.
 
 </div>
 </details>
 
+
 <!-- 
 /////////////////
-SECTION 7
+SECTION 8
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Edit and submit the project</span>
+    <span class="section-title">8. Edit and submit the project</span>
     <span class="section-description">
       Synchronize the three cameras, assemble a 30-second sequence, and prepare the required files.
     </span>
