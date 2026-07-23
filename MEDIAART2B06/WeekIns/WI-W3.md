@@ -102,12 +102,12 @@ SECTION 2
 
 ## Equipment booking
 
-Pairs will be posted on Avenue to Learn before the recording session. Each pair is responsible for booking the equipment listed below.
+Groups will be posted on Avenue to Learn before the recording session. Each pair is responsible for booking the equipment listed below.
 
 ## Equipment checklist
 
 <fieldset class="equipment-checklist">
-  <legend>Book and confirm the equipment for your station</legend>
+  <legend>Book and confirm the equipment for your group</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -128,8 +128,11 @@ Pairs will be posted on Avenue to Learn before the recording session. Each pair 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>One tripod (Manfrotto - Large for DSLR Camera: 190XDB, Element MII, or 190D)</strong>
-      Only for one camera.
+      <strong>Tripod</strong>
+      Only for one camera:
+      - Manfrotto - Large for DSLR Camera (190XDB), 
+      - Manfrotto - Large for DSLR Camera (Element MII), or 
+      - Manfrotto - Large for DSLR Camera (190D)
     </span>
   </label>
 
@@ -137,7 +140,12 @@ Pairs will be posted on Avenue to Learn before the recording session. Each pair 
     <input type="checkbox">
     <span>
       <strong>One Shutgun Microphone</strong>
-      Book one of these: RODE VideoMic NTG On-Camera Shotgun Microphone, RODE Shotgun (VIDEOMIC GO), RODE VideoMicro Compact On-Camera Microphone, Sennheiser Shotgun (MKE 400), or Sony Shotgun Cam Mount (ECM-MS908C).
+      Book one of these:  
+      - RODE VideoMic NTG On-Camera Shotgun Microphone,
+      - RODE Shotgun (VIDEOMIC GO),
+      - RODE VideoMicro Compact On-Camera Microphone,
+      - Sennheiser Shotgun (MKE 400), or 
+      - Sony Shotgun Cam Mount (ECM-MS908C).
     </span>
   </label>
 
@@ -145,7 +153,7 @@ Pairs will be posted on Avenue to Learn before the recording session. Each pair 
     <input type="checkbox">
     <span>
       <strong>ZOOM H4N Handheld</strong>
-      If not available, book ZOOM H4N Handheld PRO. 
+      Includes the recorder, SD card, batteries, and outdoor wind protection. If not available, book ZOOM H4N Handheld PRO. 
     </span>
   </label>
 
@@ -164,6 +172,7 @@ Pairs will be posted on Avenue to Learn before the recording session. Each pair 
       For setting a consistent Custom White Balance across all three cameras. If not available, bring a white piece of paper. 
     </span>
   </label>
+  </fieldset>
 
 </div>
 </details>
@@ -246,7 +255,6 @@ The final visual sequence must remain continuous.
 
 </div>
 </details>
-
 
 <!--
 /////////////////
