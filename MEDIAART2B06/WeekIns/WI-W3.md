@@ -624,7 +624,7 @@ Set the lens to **Manual Focus (`MF`)**. Autofocus may shift when people, vehicl
     <input type="checkbox">
     <span>
       <strong>Check the recording levels.</strong>
-      Monitor the audio and adjust the levels so the loudest environmental sounds remain below clipping and do not reach <code>0 dB</code>.
+      With the headphones, monitor the audio and adjust the levels so the loudest environmental sounds remain below clipping and do not reach <code>0 dB</code>.
     </span>
   </label>
 
@@ -665,9 +665,9 @@ Outdoor immersive sound is created by combining:
 | **On-camera shotgun microphone** | Continuous environmental base layer | Records the general sound of the location throughout each complete visual take. |
 | **[ZOOM H4n handheld recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}** | Specific environmental sound layers | Records 10–15 individual sounds from different positions and distances for the final multilayered soundscape. |
 
-## Record two complete visual takes
+## Record three complete visual takes
 
-Record **two complete takes** using the camera and the connected shotgun microphone.
+Record **three complete takes** using the camera and the connected shotgun microphone.
 
 Each take must:
 
@@ -688,7 +688,7 @@ Each take must:
 - Do not adjust the shutter speed, aperture, ISO, or white balance.
 - Do not stage unnecessary action in front of the camera.
 - People may pass naturally through the frame.
-- Remain outside the frame unless your presence is part of the planned scene.
+- Remain outside the frame.
 - Monitor the camera, microphone, equipment, and surroundings throughout the recording.
 
 ## Between takes
@@ -823,7 +823,7 @@ Save and verify all project files before packing the equipment. Your group is re
     <input type="checkbox">
     <span>
       <strong>Transfer and organize all project files.</strong>
-      Copy the camera footage, RØDE microphone audio, ZOOM H4n recordings, notes, and related documents into a clearly labelled project folder.
+      Copy the camera footage, ZOOM H4n recordings, notes, and related documents into a clearly labelled project folder.
     </span>
   </label>
 
@@ -922,7 +922,7 @@ Before beginning, review the [W3 Tutorials](../Tutorials/index.html?file=T-W3.js
 - Use one continuous visual take.
 - Do not make cuts within the shot.
 - Trim only the beginning or end when necessary.
-- You may adjust the speed slightly to reach 30 seconds while preserving continuous time.
+- You may adjust the speed to reach 30 seconds while preserving continuous time.
 - Add only a simple fade-in at the beginning and fade-out at the end.
 - Apply colour correction to restore appropriate contrast, exposure, and colour balance.
 - A subtle colour grade is permitted when it supports the intended atmosphere and maintains a natural image.
@@ -931,7 +931,7 @@ Before beginning, review the [W3 Tutorials](../Tutorials/index.html?file=T-W3.js
 
 ## Create the outdoor soundscape
 
-Build a **multilayered soundscape** by combining:
+Build a **multilayered soundscape** in Premiere Pro by combining:
 
 - The continuous environmental base layer recorded with the on-camera shotgun microphone
 - Selected ZOOM H4n recordings of specific environmental sounds
@@ -952,8 +952,8 @@ Place the continuous environmental recording on the first audio track. Add the Z
 - Keep the continuous environmental base layer present unless a deliberate moment of silence supports the artistic approach.
 - Remove or reduce handling noise, wind noise, and unwanted interference when possible.
 - Monitor the complete soundscape with headphones and through the Premiere Pro audio meters.
-- Keep the final mix below clipping. The master audio level must not reach `0 dB`.
-- Do not add music.
+- Keep the final mix below clipping. The master audio level must not reach `-0.3 dB`.
+- Do not add music or external sound effects.
 
 > The goal is not to make every sound equally loud. Create an immersive soundscape by balancing clear foreground details with quieter middle- and background layers.
 
