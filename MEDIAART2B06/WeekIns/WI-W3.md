@@ -663,7 +663,7 @@ Outdoor immersive sound is created by combining:
 | Audio device | Recording role | How it will be used |
 |---|---|---|
 | **On-camera shotgun microphone** | Continuous environmental base layer | Records the general sound of the location throughout each complete visual take. |
-| **[ZOOM H4n handheld recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}** | Specific environmental sound layers | Records 10–15 individual sounds from different positions and distances for the final multilayered soundscape. |
+| **ZOOM H4n handheld recorder** | Specific environmental sound layers | Records 10–15 individual sounds from different positions and distances for the final multilayered soundscape. |
 
 ## Record three complete visual takes
 
