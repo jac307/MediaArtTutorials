@@ -341,8 +341,6 @@ SECTION 4
 
 > Your final camera position should reflect both your artistic plan and the actual visual, environmental, and safety conditions of the location.
 
-<div class="section-content" markdown="1">
-
 
 </div>
 </details>
