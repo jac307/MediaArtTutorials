@@ -9,7 +9,7 @@ This technical walkthrough supports the **Static Outdoor Scene** assignment.
 You will work in pairs to prepare and record this scene using consistent manual exposure for outdoor recording. You will use camera distance, focal length, and aperture together to shape depth, while recording high-quality separate audio with a ZOOM H4n recorder.
 
 Before beginning, review
-- [available camera equipment](../Cameras.md){:target="_blank"}
+- [available leses](../Cameras.md){:target="_blank"}
 - [available lighting equipment](../Lighting.md){:target="_blank"}
 - [available audio equipment](../Audio.md){:target="_blank"}
 
