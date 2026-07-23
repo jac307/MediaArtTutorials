@@ -794,6 +794,8 @@ When recording with multiple cameras, each camera should have a distinct purpose
 
 ### Camera A: Main shot
 
+![Camera A Position with Example](imgs/Camera-A.png)
+
 - Create the primary interview framing
 - Keep the eyes near the upper horizontal grid line
 - Leave appropriate headroom
@@ -802,12 +804,16 @@ When recording with multiple cameras, each camera should have a distinct purpose
 
 ### Camera B: Secondary angle
 
+![Camera B Position with Example](imgs/Camera-B.png)
+
 - Maintain a clear difference from Camera A
 - Keep the camera at approximately the same eye level
 - Check that equipment does not appear in the frame
 - Maintain a consistent looking direction between the two static cameras
 
 ### Camera C: Detail camera
+
+![Camera C Position with Example](imgs/Camera-C.png)
 
 Use the handheld camera selectively for:
 
