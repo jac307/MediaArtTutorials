@@ -54,9 +54,6 @@ The most important challenge is moving between two contrasting environments, suc
       alt="Example of a camera moving from a darker indoor space into a brighter outdoor space"
       loading="lazy"
     >
-
-    <p>When moving from indoors to outdoors:</p>
-
     <ul>
       <li>The exterior may become severely overexposed.</li>
       <li>Windows and doorways may clip before you reach the exterior.</li>
@@ -74,9 +71,6 @@ The most important challenge is moving between two contrasting environments, suc
       alt="Example of a camera moving from a brighter outdoor space into a darker indoor space"
       loading="lazy"
     >
-
-    <p>When moving from outdoors to indoors:</p>
-
     <ul>
       <li>The interior may become severely underexposed.</li>
       <li>The subject may become difficult to see.</li>
@@ -123,20 +117,6 @@ SECTION 2
 <div class="section-content" markdown="1">
 
 ## Exposure Triangle
-
-The Exposure Triangle describes the relationship between:
-
-- Aperture
-- Shutter speed
-- ISO
-
-Together, these controls affect:
-
-- Recorded brightness
-- Depth of field
-- Motion blur
-- Image noise
-- Visual continuity
 
 ![Exposure Triangle](imgs/FullExposureDiagram.jpg)
 
@@ -259,8 +239,9 @@ SECTION 3
 
 Review the previous technical walkthroughs when necessary:
 
-- [W2 Technical Walkthrough](TW-W2.md){:target="_blank"}
-- [W3 Technical Walkthrough](TW-W3.md){:target="_blank"}
+- [W1 Technical Walkthrough](TW-W1.html){:target="_blank"}
+- [W2 Technical Walkthrough](TW-W2.html){:target="_blank"}
+- [W3 Technical Walkthrough](TW-W3.html){:target="_blank"}
 
 <fieldset class="equipment-checklist">
   <legend>Set the Week 4 camera controls</legend>
@@ -269,7 +250,7 @@ Review the previous technical walkthroughs when necessary:
     <input type="checkbox">
     <span>
       <strong>Set the camera to Video mode.</strong>
-      Confirm that the camera is prepared to record video rather than photographs.
+      Confirm that the camera is prepared to record video.
     </span>
   </label>
 
@@ -316,6 +297,14 @@ Review the previous technical walkthroughs when necessary:
   <label class="checklist-item">
   <input type="checkbox">
   <span>
+    <strong>Set a fixed White Balance.</strong>
+    Select <strong>Daylight</strong>, <strong>Cloudy</strong>, or establish a <strong>Custom White Balance</strong> using a white or grey balance card or piece of paper. Test the selected setting in both the indoor and outdoor areas, then keep it unchanged throughout the continuous shot.
+  </span>
+</label>
+
+  <label class="checklist-item">
+  <input type="checkbox">
+  <span>
     <strong>Set the lens to Auto Focus.</strong>
     Select <code>AF</code> because the distance between the camera, subject, and environment may change during the continuous shot. Set the active focus point near the centre of the frame and keep the main subject within this area while moving.
   </span>
@@ -358,19 +347,8 @@ Image Stabilization can reduce some unwanted handheld movement, but it does not:
 
 Maintain a stable posture, bend your knees slightly, keep your elbows close to your body, and move carefully.
 
-## Configure the exposure controls and white balance
-
-<fieldset class="equipment-checklist">
-  <legend>Prepare the camera for changing exposure</legend>
-
-  <!-- checklist items -->
-</fieldset>
-
-> Auto ISO supports the exposure transition, but it does not replace careful monitoring. Continue watching the image, meter, and histogram while recording. A visible change in colour temperature between the indoor and outdoor spaces is acceptable when the white balance remains fixed and the change reflects the actual lighting conditions.
-
 </div>
 </details>
-
 
 <!--
 /////////////////
@@ -380,15 +358,17 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Monitor the histogram while moving</span>
+    <span class="section-title">4. Rehearse and monitor the exposure transition</span>
     <span class="section-description">
-      Use the histogram as a live tool to recognize clipping and underexposure during the continuous shot.
+      Rehearse the complete route, monitor the histogram in real time, and refine the aperture adjustment before recording usable footage.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-In Week 4, the histogram is no longer used only before recording. It becomes a **live monitoring tool** while the camera moves through changing light.
+In Week 4, the histogram is not used only to check exposure before recording. It becomes a **live monitoring tool** while the camera moves through contrasting lighting conditions.
+
+Complete at least **two full technical rehearsals** before recording usable footage. During each rehearsal, pay close attention to how the histogram changes as you move between the darkest and brightest parts of the route.
 
 ## The histogram is dynamic
 
@@ -401,12 +381,114 @@ The histogram updates when:
 - The camera crosses between indoor and outdoor environments
 - The direction of the camera changes relative to the sun or another light source
 
-Even when the camera settings remain unchanged, the histogram can change because the scene itself has changed.
+Even when the shutter speed remains fixed and the ISO is set to Auto, the histogram will continue changing because the scene, available light, and aperture are changing.
 
-## What to watch for
+## Rehearse the complete route
 
 <fieldset class="equipment-checklist">
-  <legend>Monitor the exposure transition</legend>
+  <legend>Test and refine the exposure transition</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Walk through the complete route without recording.</strong>
+      Identify the darkest area, brightest area, and main point where the lighting conditions begin to change.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the aperture for the darkest area.</strong>
+      Determine the lower f-number required to allow more light into the camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the aperture for the brightest area.</strong>
+      Determine the higher f-number required to reduce the amount of light entering the camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin the first recorded rehearsal.</strong>
+      Follow the complete route while maintaining the planned composition and camera movement.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Monitor the histogram continuously.</strong>
+      Observe how it moves as the camera crosses between the contrasting environments.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify when the exposure begins changing.</strong>
+      Notice the point where the histogram starts moving toward the far-left or far-right edge.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Practise adjusting the aperture.</strong>
+      Move toward a higher f-number when entering brighter light and toward a lower f-number when entering darker light.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Anticipate the adjustment.</strong>
+      Begin changing the aperture before the image becomes severely overexposed or underexposed.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the aperture change controlled.</strong>
+      Avoid repeatedly opening and closing the aperture in response to every small change in the frame.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the footage at full size.</strong>
+      Check the complete recording rather than relying only on the small camera display.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Revise the timing of the aperture change.</strong>
+      Determine whether the adjustment should begin earlier, later, more gradually, or more quickly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Complete a second rehearsal.</strong>
+      Apply the revised aperture timing and monitor whether the histogram remains more controlled throughout the route.
+    </span>
+  </label>
+</fieldset>
+
+## What to watch for in the histogram
+
+<fieldset class="equipment-checklist">
+  <legend>Evaluate the recorded image information</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -427,7 +509,7 @@ Even when the camera settings remain unchanged, the histogram can change because
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Monitor important parts of the image.</strong>
+      <strong>Monitor the important parts of the frame.</strong>
       Consider whether the subject, sky, windows, shadows, or background information has visual priority.
     </span>
   </label>
@@ -435,16 +517,24 @@ Even when the camera settings remain unchanged, the histogram can change because
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Anticipate the transition.</strong>
-      Begin adjusting before the histogram reaches the edge and important information is lost.
+      <strong>Observe the effect of Auto ISO.</strong>
+      Notice how the camera responds automatically while you change the aperture. Confirm that the resulting brightness changes remain controlled.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Avoid repeated corrections.</strong>
-      Do not move the exposure continuously up and down in response to every small change in the frame.
+      <strong>Check the depth of field.</strong>
+      Changing the aperture also changes how much of the scene appears sharp. Confirm that the main subject remains appropriately focused.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the stability of the camera movement.</strong>
+      Confirm that operating the aperture control does not create sudden movement, framing changes, or unsafe walking.
     </span>
   </label>
 </fieldset>
@@ -460,127 +550,29 @@ There is no single correct histogram shape.
 - High-contrast scenes may contain information across the complete histogram.
 - A histogram does not need to be centred or evenly distributed.
 
-![Example of histogram information](imgs/Histogram-Examples.png)
+![Examples of different histogram distributions](imgs/Histogram-Examples.png)
 
-## Highlight and shadow priority
-
-Highlights and shadows do not lose information in the same way.
-
-- Highlights clip abruptly when they become severely overexposed.
-- Shadows lose usable information more gradually.
-- Brightening underexposed footage may reveal noise.
-- Important highlights should usually be protected when entering a bright exterior.
-- Required shadow information should remain visible when entering a darker interior.
-
-### Moving toward a bright exterior
+## Moving toward a bright exterior
 
 - Watch the far-right edge of the histogram.
-- Begin lowering the ISO before large areas become clipped.
+- Begin closing the aperture by moving toward a higher f-number before large areas become clipped.
 - Pay attention to the sky, windows, pale walls, snow, and reflective surfaces.
 - Avoid pointing the camera directly toward the sun.
+- Make the aperture adjustment gradually enough that the exposure change remains controlled.
 
-### Moving toward a dark interior
+## Moving toward a dark interior
 
 - Watch the far-left edge of the histogram.
-- Begin raising the ISO as you approach the entrance.
-- Confirm that the subject remains visible.
-- Increase the ISO only as much as necessary.
-- Avoid making the adjustment so quickly that the change becomes distracting.
+- Begin opening the aperture by moving toward a lower f-number before the subject becomes difficult to see.
+- Confirm that important shadow information remains visible.
+- Open the aperture only as much as necessary.
+- Make the adjustment gradually enough that the exposure change does not become distracting.
 
+> The exposure transition should appear deliberate, controlled, and connected to the movement between the two environments.
+ 
 </div>
 </details>
 
-
-<!--
-/////////////////
-SECTION 8
-/////////////////
--->
-
-<!-- <details class="tutorial-section">
-  <summary>
-    <span class="section-title">8. Rehearse and evaluate the transition</span>
-    <span class="section-description">
-      Complete technical rehearsals, review the exposure transition, and refine the route before recording usable footage.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Complete at least **two full technical rehearsals** before recording usable footage.
-
-<fieldset class="equipment-checklist">
-  <legend>Test the complete continuous shot</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Walk through the complete route.</strong>
-      Follow the planned camera movement from the opening position to the final position.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Monitor the histogram.</strong>
-      Observe how the exposure changes as the camera moves between the contrasting environments.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify when the exposure begins changing.</strong>
-      Determine whether the adjustment should begin earlier or later.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Practise adjusting the ISO.</strong>
-      Make the change gradually while keeping the camera stable and maintaining the composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the footage at full size.</strong>
-      Check the image rather than relying only on the small camera display.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Evaluate the exposure transition.</strong>
-      Look for clipped highlights, severe underexposure, abrupt exposure changes, distracting ISO steps, and excessive image noise.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Evaluate the camera movement.</strong>
-      Check for instability, sudden direction changes, loss of focus, unsafe movement, or interruptions to the continuous shot.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Revise the route or settings.</strong>
-      Adjust the starting exposure, timing, path, aperture, or ISO values before recording the final take.
-    </span>
-  </label>
-</fieldset>
-
-> The exposure transition should appear deliberate, controlled, and connected to the movement between the two spaces.
-
-</div>
-</details> -->
 
 ---
 
