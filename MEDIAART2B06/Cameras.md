@@ -156,15 +156,6 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-Before booking a lens, confirm:
-
-- The focal length or zoom range
-- The minimum and maximum aperture
-- Camera compatibility
-- Whether the lens includes Auto Focus
-- Whether the lens includes Image Stabilization
-- Whether it provides the framing and depth of field required for the project
-
 ## Zoom lenses
 
 Zoom lenses have **variable focal lengths**, allowing the field of view and framing to change without replacing the lens.
