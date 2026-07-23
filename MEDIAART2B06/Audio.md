@@ -1,147 +1,286 @@
 [MEDIAART 2B06](README.md)
 
--------------------------------------------------------------------------------
+# Audio Equipment
 
-<h1 style="color: darkred;">Available Audio Equipment</h1>
+Use this page to review the microphones, handheld recorders, field-recording equipment, cables, stands, and boom supports available for Media Art projects.
 
-________________________________________________________________________
 
-<h2 style="color: darkred;">On-Camera & Direct-Input Microphones</h2>  
+<!--
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-### RODE Microphone System Wireless Go II
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. On-camera and wireless microphones</span>
+    <span class="section-description">
+      Compare microphones that connect directly to a camera for interviews, dialogue, environmental sound, and mobile recording.
+    </span>
+  </summary>
 
-<img src="TechWalks/imgs/18.jpg" style="width: 50%; height: auto;">
+<div class="section-content" markdown="1">
 
-Compact wireless microphone system used to capture clean production audio directly from a subject. In this course, it can be clipped onto an interviewee to record clear, isolated sound while filming. The dual-channel system allows recording two sources simultaneously, and on-board recording provides a backup in case of signal dropouts.  
+## RØDE Wireless GO II
 
-- 📘 [User Guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
-- ▶️ RODE Wireless GO II Beginners Guide: [link to YouTube video](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
+![RØDE Wireless GO II microphone system](TechWalks/imgs/18.jpg)
 
-### RODE VideoMic NTG On-Camera Shotgun Microphone
+A compact wireless microphone system used to record clear sound directly from a subject.
 
-<img src="TechWalks/imgs/31.jpg" style="width: 50%; height: auto;">
+The system supports two transmitters through one receiver and includes onboard recording that may provide a backup if the wireless signal is interrupted.
 
-Directional on-camera shotgun microphone used to capture focused sound from the subject directly in front of the camera. In this course, it is suitable for interviews, close-ups, and controlled narrative scenes where the camera is positioned near the subject. It offers better clarity than built-in camera microphones and allows manual gain control to avoid distortion.    
+**Equipment booking name:** `RODE Microphone System Wireless Go II`
 
-- 📘 [User Guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
-- ▶️ Features and Specifications: [link to YouTube video](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
+- [Read the user guide](https://rode.com/en-ca/user-guides/wireless-go-ii){:target="_blank"}
+- [Watch the beginner’s guide](https://www.youtube.com/watch?v=Ewl-_rzIehk){:target="_blank"}
 
-### RODE Shotgun (VIDEOMIC GO)
+## RØDE VideoMic NTG
 
-<img src="TechWalks/imgs/76.jpg" style="width: 50%; height: auto;">
+![RØDE VideoMic NTG on-camera shotgun microphone](TechWalks/imgs/31.jpg)
 
-Lightweight, plug-and-play on-camera shotgun microphone. Ideal for simple setups and quick shoots where mobility is important. Captures directional sound from the front of the camera and improves overall audio quality compared to internal camera microphones. Best used in relatively quiet environments.   
+A directional shotgun microphone that mounts on the camera and records sound from the area in front of the lens.
 
-### RODE VideoMicro Compact On-Camera Microphone 
+It provides clearer and more focused sound than the camera’s built-in microphone and includes manual gain control.
 
-<img src="TechWalks/imgs/77.jpg" style="width: 50%; height: auto;">
+**Equipment booking name:** `RODE VideoMic NTG On-Camera Shotgun Microphone`
 
-Compact and portable directional microphone that mounts directly onto the camera. Suitable for capturing general production audio and ambient sound in controlled settings. Works well for small crews and lightweight setups but should be positioned close to the subject for best results.   
+- [Read the user guide](https://rode.com/en-ca/user-guides/videomic-ntg){:target="_blank"}
+- [Watch the feature overview](https://www.youtube.com/watch?v=c4SHRya4d6I){:target="_blank"}
 
-### Sennheiser Shotgun (MKE 400)
+## RØDE VideoMic GO
 
-<img src="TechWalks/imgs/81.jpg" style="width: 50%; height: auto;">
+![RØDE VideoMic GO on-camera microphone](TechWalks/imgs/76.jpg)
 
-Compact on-camera shotgun microphone designed for focused sound capture directly in front of the camera. Suitable for interviews, documentary-style shooting, and controlled narrative scenes where the camera is positioned close to the subject. Provides clearer audio than built-in camera microphones and works best in moderately quiet environments.
+A lightweight, plug-and-play shotgun microphone designed for mobile camera setups.
 
-### Sony Shotgun Cam Mount (ECM-MS908C)
+It records directional sound from the front of the camera and improves audio quality compared with the internal camera microphone.
 
-<img src="TechWalks/imgs/82.jpg" style="width: 50%; height: auto;">
+**Equipment booking name:** `RODE Shotgun (VIDEOMIC GO)`
 
-On-camera stereo shotgun microphone that captures directional sound with a wider stereo image. Useful for recording environmental sound and general production audio. Best suited for run-and-gun setups where mobility is important and external recorders are not being used.
+## RØDE VideoMicro
 
-________________________________________________________________________  
+![RØDE VideoMicro compact microphone](TechWalks/imgs/77.jpg)
 
-<h2 style="color: darkred;">Handheld Recorders</h2>  
+A compact directional microphone that mounts directly on the camera.
 
-### ZOOM H4N Handheld
+**Equipment booking name:** `RODE VideoMicro Compact On-Camera Microphone`
 
-<img src="TechWalks/imgs/17.jpg" style="width: 60%; height: auto;">
+## Sennheiser MKE 400
 
-Portable audio recorder used to capture production sound, ambient audio, and Foley. In this course, it should be used during filming to record cleaner sound than the camera’s built-in microphone. Can be mounted on-camera, placed closer to the sound source, or pair it with a shotgun microphone for improved clarity. Always monitor with headphones and record in WAV format.
+![Sennheiser MKE 400 on-camera microphone](TechWalks/imgs/81.jpg)
 
-- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
-- ▶️ How to use the Zoom H4N portable audio recorder: [link to YouTube video](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
+A compact directional microphone designed to record sound from the area in front of the camera.
 
-### ZOOM H4N Handheld PRO
+It is suitable for interviews, documentary recording, handheld camera work, and controlled narrative scenes.
 
-Upgraded version of the H4n with lower-noise preamps and improved audio quality. Recommended for capturing dialogue (if applicable), detailed Foley, and subtle ambient sound. Locking XLR inputs provide a more stable connection when using external microphones.
+**Equipment booking name:** `Sennheiser Shotgun (MKE 400)`
 
-- 📘 [Operation Manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
+## Sony ECM-MS908C
 
-### ZOOM H4N SP Handheld
+![Sony ECM-MS908C camera-mounted microphone](TechWalks/imgs/82.jpg)
 
-Similar functionality to the original H4n, but often bundled with additional accessories (windscreen, case, etc.). Suitable for production audio, ambient recording, and Foley capture. Use in the same way as the standard H4n, following proper gain staging and monitoring practices.  
+A camera-mounted stereo microphone that records a wider environmental sound field.
 
-- 📘 [Operation Manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
+**Equipment booking name:** `Sony Shotgun Cam Mount (ECM-MS908C)`
 
-________________________________________________________________________ 
+</div>
+</details>
 
-<h2 style="color: darkred;">Field Recording Microphones</h2>  
 
-### Cable XLR to XLR
+<!--
+/////////////////
+SECTION 2
+/////////////////
+-->
 
-<img src="TechWalks/imgs/71.png" style="width: 40%; height: auto;">
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Handheld audio recorders</span>
+    <span class="section-description">
+      Compare the available ZOOM H4n recorders for environmental sound, dialogue, Foley, and field recording.
+    </span>
+  </summary>
 
-Standard professional audio cable used to connect microphones to the Zoom H4n recorder. Required for condenser and shotgun microphones listed below. Provides balanced audio signal and supports phantom power when needed.  
+<div class="section-content" markdown="1">
 
-- ▶️ XLR Audio Cable Tips: [link to YouTube video](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
+## ZOOM H4n
 
-### Sennheiser ME 80 (Condenser Shotgun)
+![ZOOM H4n handheld audio recorder](TechWalks/imgs/17.jpg)
 
-<img src="TechWalks/imgs/70.jpg" style="width: 50%; height: auto;">  
+A portable recorder with built-in stereo microphones and two XLR inputs.
 
-Highly directional condenser shotgun microphone used for focused sound capture in narrative scenes. Best mounted on a boom pole or positioned close to the subject. Requires phantom power (24V or 48V) via the Zoom H4n XLR input.  
+The recorder may be handheld, mounted on a compatible stand, or positioned safely near a sound source.
 
-- ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
+**Equipment booking name:** `ZOOM H4N Handheld`
 
-### Azden Professional Shotgun - SGM 1X
+- [Read the operation manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
+- [Watch an introductory tutorial](https://www.youtube.com/watch?v=xP9AKt5JBcI){:target="_blank"}
 
-<img src="TechWalks/imgs/78.jpg" style="width: 50%; height: auto;">  
+## ZOOM H4n Pro
 
-Directional shotgun microphone suitable for dialogue and controlled scene recording. Connect via XLR to the Zoom H4n. Some models may operate on battery power; confirm settings before recording.
+An updated version of the H4n with improved preamps and lower recording noise.
 
-- ▶️ Mic Overview: [link to YouTube video](https://www.youtube.com/watch?v=rHcKKyfQqc4){:target="_blank"}
+**Equipment booking name:** `ZOOM H4N Handheld PRO`
 
-### Azden Professional Shotgun - SGM 2X
+- [Read the operation manual](https://zoomcorp.com/media/documents/E_H4n_Pro_REV3.pdf){:target="_blank"}
 
-Higher-output shotgun microphone designed for extended reach and focused sound pickup. Suitable for boom use in narrative filming. Connect via XLR and monitor gain levels carefully to avoid distortion.
+## ZOOM H4n SP
 
-### Hydrophone
+A version of the H4n that may include additional accessories such as a windscreen or carrying case.
 
-<img src="TechWalks/imgs/79.png" style="width: 40%; height: auto;">  
+It provides similar functionality to the standard H4n and is suitable for production audio, environmental sound, Foley, and field recording.
 
-Specialized microphone designed to record underwater sound. Can be used to capture subtle textures such as water movement, vibrations, or resonant tones when submerged in water. In this course, it may be used experimentally for abstract or atmospheric sound design. Must only be used in water environments and handled carefully to protect cables and connections.
+**Equipment booking name:** `ZOOM H4N SP Handheld`
 
-- ▶️ Recording Underwater Sounds in Ponds with my Hydrophones: [link to YouTube video](https://www.youtube.com/watch?v=TfF_i1OztQw){:target="_blank"}
+- [Read the operation manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4nSP_0.pdf){:target="_blank"}
 
-### DIY Contact Microphone
+> For video projects, record in `WAV 48 kHz / 24-bit` and monitor the sound using headphones.
 
-<img src="TechWalks/imgs/80.jpg" style="width: 50%; height: auto;">  
+</div>
+</details>
 
-Microphone designed to capture vibrations directly from solid surfaces rather than airborne sound. Useful for recording subtle textures such as metal, wood, glass, or mechanical objects. In this course, it can be used for experimental Foley and detailed sound design. Attach firmly to the surface and monitor levels carefully, as vibration signals can be strong and uneven.
 
-- ▶️ 20 Contact Microphone Experiments: [link to YouTube video](https://www.youtube.com/watch?v=cgFEfTZ58Eo){:target="_blank"}
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
 
-________________________________________________________________________ 
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Field-recording microphones and cables</span>
+    <span class="section-description">
+      Review XLR shotgun microphones, hydrophones, contact microphones, and the cables required for specialized sound recording.
+    </span>
+  </summary>
 
-<h2 style="color: darkred;">Microphone Stands & Boom Support</h2>  
+<div class="section-content" markdown="1">
 
-Microphone stands and boom poles are used to position microphones accurately and keep them stable during recording. Boom stands and boom poles allow you to suspend a shotgun microphone above or near the subject without entering the frame. Short stands are useful for table-level or close-surface recording (Foley, ambience, object sound).  
+## XLR cable
 
-- Boom Stand - Yorkville (MS 206)
-- Boom Pole with/ 5/8"-27 Female Thread
-- Boom Pole 
-- Microphone Stand - K&M
-- Microphone Stand - K&M (short) 
+![XLR audio cable](TechWalks/imgs/71.png)
 
-When using a Zoom H4n recorder on a stand, you must book either:
-- A camera tripod, or
-- A stand with a 5/8"-27 female thread adapter (limited availability — ask the instructor in advance).
+A balanced professional audio cable used to connect microphones to recorders such as the ZOOM H4n.
 
-________________________________________________________________________
+**Equipment booking name:** `Cable XLR to XLR`
+
+- [Watch an introduction to XLR cables](https://www.youtube.com/watch?v=ryxO9Bf-pas&t=4s){:target="_blank"}
+
+## Sennheiser ME 80
+
+![Sennheiser ME 80 condenser shotgun microphone](TechWalks/imgs/70.jpg)
+
+A highly directional condenser shotgun microphone used to isolate focused sound from a distance.
+
+Connect it to the ZOOM H4n using an XLR cable. It may require phantom power.
+
+**Equipment booking name:** `Sennheiser ME 80 (Condenser Shotgun)`
+
+- [Watch a microphone overview](https://www.youtube.com/watch?v=JL_mRrzJXfc){:target="_blank"}
+
+## Azden SGM-1X
+
+![Azden SGM-1X professional shotgun microphone](TechWalks/imgs/78.jpg)
+
+A directional shotgun microphone suitable for dialogue, interviews, controlled narrative scenes, and boom operation.
+
+Connect it to the ZOOM H4n using an XLR cable. Some versions may operate with battery power.
+
+**Equipment booking name:** `Azden Professional Shotgun - SGM 1X`
+
+- [Watch a microphone overview](https://www.youtube.com/watch?v=rHcKKyfQqc4){:target="_blank"}
+
+## Azden SGM-2X
+
+A longer shotgun microphone designed for greater reach and focused sound capture.
+
+**Equipment booking name:** `Azden Professional Shotgun - SGM 2X`
+
+## Hydrophone
+
+![Hydrophone used for underwater sound recording](TechWalks/imgs/79.png)
+
+A specialized microphone designed to record sound and vibrations travelling through water.
+
+**Equipment booking name:** `Hydrophone`
+
+- [Watch an example of hydrophone recording](https://www.youtube.com/watch?v=TfF_i1OztQw){:target="_blank"}
+
+> Submerge only the part designed for underwater use. Keep the recorder, connectors, and other electrical equipment dry.
+
+## DIY contact microphone
+
+![Contact microphone attached to a surface](TechWalks/imgs/80.jpg)
+
+A contact microphone records vibrations travelling through a solid surface rather than through the air.
+
+It is useful for experimental Foley, mechanical textures, surface vibration, and detailed sound design.
+
+**Equipment booking name:** `DIY Contact Microphone`
+
+- [Watch contact-microphone experiments](https://www.youtube.com/watch?v=cgFEfTZ58Eo){:target="_blank"}
+
+> Attach the microphone without damaging the object or surface. Do not use permanent adhesives.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Microphone stands and boom supports</span>
+    <span class="section-description">
+      Review the available stands, boom poles, adapters, and supports used to position microphones and handheld recorders.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Microphone stands and boom poles position microphones accurately while reducing handling noise.
+
+They may be used to:
+
+- Hold a shotgun microphone above a subject
+- Keep a microphone outside the camera frame
+- Position a microphone near an interviewee
+- Support a recorder close to a sound source
+- Record Foley at table or floor level
+- Maintain a consistent microphone position
+
+## Available support equipment
+
+- `Boom Stand - Yorkville (MS 206)`
+- `Boom Pole with 5/8"-27 Female Thread`
+- `Boom Pole`
+- `Microphone Stand - K&M`
+- `Microphone Stand - K&M (Short)`
+
+## Boom stands
+
+Boom stands are useful when a microphone must remain in a fixed position above, beside, or in front of a subject.
+
+## Boom poles
+
+Boom poles allow an operator to follow a moving subject while keeping the microphone close and outside the camera frame.
+
+## Mounting a ZOOM H4n
+
+To mount a ZOOM H4n, book either:
+
+- A compatible camera tripod, or
+- A microphone stand with the appropriate `5/8"-27` thread adapter
+
+Adapter availability is limited. Confirm the required mounting setup with the instructor before booking.
+
+</div>
+</details>
+
+---
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-AI tools (Gemini and ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
