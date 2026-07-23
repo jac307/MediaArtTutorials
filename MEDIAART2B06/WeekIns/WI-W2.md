@@ -159,7 +159,136 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Organize the station and prepare the setup</span>
+    <span class="section-title">3. Required equipment</span>
+    <span class="section-description">
+      Coordinate with your station group and book the required equipment before the recording session.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Equipment booking
+
+You will be assigned to a station group of approximately **10 students**. Station locations and group assignments will be posted on Avenue to Learn before the recording session.
+
+Each station group is responsible for booking the equipment listed below. Because equipment is limited, submit only **one booking per station for each required item**. Coordinate with your group before booking to avoid duplicate reservations.
+
+## Equipment checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Book and confirm the equipment for your station</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Six cameras (Canon EOS Rebel T4i, Canon EOS Rebel T5i, and/or Canon EOS Rebel T7i)</strong>
+      Use three cameras as Cameras A, B, and C. Keep the remaining three as backups in case a battery runs out or an SD card becomes full or unavailable. <strong>Important:</strong> The Canon EOS Rebel T7i uses a different battery type. When using a T7i, book at least two T7i cameras so that a compatible backup is available.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One 50 mm lens (Canon 50mm 1:1.4 USM or Canon 50mm 1:1.2L USM)</strong>
+      For Camera B, the secondary interview angle.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One 85 mm lens (Canon 85mm 1:1.8 USM)</strong>
+      For Camera C, the handheld detail camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Two tripods (Manfrotto - Large for DSLR Camera: 190XDB, Element MII, or 190D)</strong>
+      One for Camera A and one for Camera B.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One three-light kit: Fiilex 360 LED (Large - 3 Lights)</strong>
+      Key, fill, and back lights with stands, power cables, and accessories.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One backdrop kit, if available</strong>
+      Book Backdrop Stand – Cameron or Neewer Backdrop Stand, Two Sandbags, One Black Backdrop.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One RØDE VideoMic NTG kit</strong>
+      Shotgun microphone, mount adapter, and audio cable for Camera A.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One RØDE Wireless GO II kit</strong>
+      Receiver, transmitter, lapel microphone, and audio cable for Camera B.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Two pairs of headphones</strong>
+      For monitoring audio from Cameras A and B.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One white balance card</strong>
+      For setting a consistent Custom White Balance across all three cameras.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Two extensions</strong>
+      Book two electrical extensions. 
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Cables, adapters, and accessories</strong>
+      Confirm that all required power cables, audio cables, mounts, adapters, and extension cables are included.
+    </span>
+  </label>
+</fieldset>
+
+> Confirm with your group that no other member has submitted a duplicate equipment booking.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Organize the station and prepare the setup</span>
     <span class="section-description">
       Confirm the equipment, prepare the background, and establish the lighting arrangement as a station group.
     </span>
@@ -167,11 +296,9 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## Station organization
+**Arrive at your assigned station**. Station locations and group assignments will be posted on Avenue to Learn before the recording session.
 
-You will be assigned to a station group of approximately **10 students**. The equipment for each station will be prepared in the designated space, together with a printed equipment list.
-
-Before beginning:
+## Before beginning:
 
 <fieldset class="equipment-checklist">
   <legend>Equipment check</legend>
@@ -188,7 +315,15 @@ Before beginning:
     <input type="checkbox">
     <span>
       <strong>Record the equipment numbers.</strong>
-      Write down the identifying number for every item assigned to the station.
+      Write down the identifying number of every item assigned to the station. Each item must be returned to the bag with the matching number.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Batteries and SD cards</strong>
+      Confirm that every camera has a charged battery and an SD card with sufficient recording space.
     </span>
   </label>
 
@@ -208,8 +343,6 @@ Before beginning:
     </span>
   </label>
 </fieldset>
-
-Station locations and group assignments will be posted on Avenue to Learn, displayed during class, and printed in the production space.
 
 ## Prepare the background
 
@@ -291,13 +424,13 @@ When recording with multiple cameras, each camera should have a distinct purpose
 
 <!-- 
 /////////////////
-SECTION 4
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Configure Camera settings</span>
+    <span class="section-title">5. Configure Camera settings</span>
     <span class="section-description">
       Assign a distinct role to each camera, set manual exposure, and test the external microphones.
     </span>
@@ -449,13 +582,13 @@ Before recording the interview:
 
 <!-- 
 /////////////////
-SECTION 5
+SECTION 6
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Record two complete takes</span>
+    <span class="section-title">6. Record two complete takes</span>
     <span class="section-description">
       Coordinate all three cameras, create a synchronization point, and record continuous interview coverage.
     </span>
@@ -508,24 +641,24 @@ The clap creates a shared visual and audio reference that can be used to synchro
 
 <!-- 
 /////////////////
-SECTION 6
+SECTION 7
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Return the equipment</span>
+    <span class="section-title">7. Pack and return the equipment</span>
     <span class="section-description">
-      Confirm every numbered component, repack the equipment, and leave the station ready for collection.
+      Confirm every numbered component, pack the equipment securely, remove it from the station, and return it to the designated location.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-When all pairs at the station have finished:
+When all pairs at the station have finished, your group is responsible for packing and returning all booked equipment. **Do not leave equipment unattended at the station.**
 
 <fieldset class="equipment-checklist">
-  <legend>Equipment wrap-up</legend>
+  <legend>Equipment wrap-up and return</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -538,37 +671,37 @@ When all pairs at the station have finished:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Compare the equipment with the station list.</strong>
-      Confirm that every assigned item and accessory is present.
+      <strong>Recharge the camera batteries.</strong>
+      Place all rechargeable batteries in the appropriate chargers and confirm that they are charging before returning the equipment.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Return components to the correctly numbered bags.</strong>
-      Match cameras, lenses, batteries, SD cards, cables, mounts, and adapters with their engraved or labelled equipment numbers.
+      <strong>Compare the equipment with the station list and pack the equipment securely.</strong>
+      Confirm that every assigned item and accessory is present. Store cameras, lenses, lights, microphones, and accessories in their assigned bags or cases.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Pack the equipment securely.</strong>
-      Store cameras, lenses, lights, microphones, and accessories in their assigned cases.
+      <strong>Remove all equipment from the recording location.</strong>
+      Check the station, floor, tables, and surrounding area to make sure no equipment, cables, or accessories are left behind.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Leave the equipment at the station.</strong>
-      The instructor will collect the equipment after the final check.
+      <strong>Return the equipment.</strong>
+      Your station group is responsible for transporting all booked equipment back to the designated return location and completing the required return process.
     </span>
   </label>
 </fieldset>
 
-Divide the wrap-up tasks evenly and handle all equipment carefully.
+Divide the wrap-up and return responsibilities evenly. Handle all equipment carefully until it has been officially returned.
 
 </div>
 </details>
