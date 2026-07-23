@@ -587,7 +587,6 @@ Every student must receive a copy of their own footage before the equipment is p
 </div>
 </details>
 
-
 <!--
 /////////////////
 SECTION 7
@@ -596,9 +595,9 @@ SECTION 7
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Edit and submit the project</span>
+    <span class="section-title">7. Colour-correct and export Version 1</span>
     <span class="section-description">
-      Edit the continuous shot in Premiere Pro, apply advanced colour correction across the exposure transition, and submit the individual project files.
+      Edit the continuous shot in Premiere Pro, correct the changing exposure, balance the natural sound, and export the technical version.
     </span>
   </summary>
 
@@ -612,7 +611,7 @@ Pay particular attention to:
 
 - Importing and organizing footage
 - Lumetri Scopes
-- Basic colour correction
+- Lumetri Color
 - Exposure and colour keyframes
 - Audio levels
 - Titles and credits
@@ -633,24 +632,21 @@ Pay particular attention to:
 - Do not change the playback speed.
 - Add only a simple fade-in at the beginning and fade-out at the end.
 - Use the original camera sound.
-- Adjust the audio level when necessary.
 - Do not add music.
 
 ## Apply advanced colour correction
 
-Use **Lumetri Color**, **Lumetri Scopes**, and **keyframes** to respond to the changing exposure over time.
+Use **Lumetri Color**, **Lumetri Scopes**, and **keyframes** to respond to the changing exposure and colour over time.
 
 Your correction should:
 
-- Address the contrast between the outdoor and indoor environments
-- Protect important highlight information in the outdoor section
-- Improve the visibility of important shadow information in the interior
-- Correct changes gradually as the camera moves
+- Address the contrast between the indoor and outdoor environments
+- Protect important highlight information in the brighter section
+- Improve the visibility of important shadow information in the darker section
+- Correct exposure and colour gradually as the camera moves
 - Maintain natural colour and contrast
 - Avoid making the two environments look artificially identical
-- Preserve the visible sense of moving between different lighting conditions
-
-Use keyframes when different parts of the shot require different corrections.
+- Preserve the visible experience of moving between different lighting conditions
 
 Possible adjustments include:
 
@@ -663,9 +659,21 @@ Possible adjustments include:
 - Colour temperature
 - Tint
 
-> The purpose of colour correction is not to erase the lighting transition. Preserve the spatial and atmospheric difference between the outdoor and indoor environments while improving the continuity and legibility of the image.
+Use keyframes when different parts of the shot require different corrections.
 
-A subtle colour grade is permitted after the technical correction is complete.
+> The purpose of colour correction is not to erase the lighting transition. Preserve the spatial and atmospheric difference between the two environments while improving the continuity and legibility of the image.
+
+## Edit the natural sound
+
+Use only the original sound recorded by the camera.
+
+- Listen to the complete recording using headphones.
+- Adjust the audio level so the natural sound remains clear and audible.
+- Use audio keyframes or fades when levels change abruptly.
+- Reduce unwanted noise when possible.
+- Check the Premiere Pro audio meters throughout the sequence.
+- Keep the final audio below clipping.
+- The master audio level must not reach <code>0 dB</code>.
 
 ## Titles and credits
 
@@ -684,22 +692,153 @@ The text must be:
 - Visible long enough to be read
 - Placed over the continuous video image
 
-## Restrictions
+## Version 1 restrictions
 
 - No cuts within the shot
 - No speed changes
 - No music
-- No decorative visual effects
+- No expressive colour grading
 - No additional footage
 - No stock footage or stock audio
-- No filters that obscure the original image
+- No visual effects that obscure the original image
+- Maintain a natural visual appearance
 
-## Export the video
+## Export Version 1
 
 - **Format:** MP4
 - **Codec:** H.264
 - **Resolution:** 1920 × 1080 pixels
-- **Filename:** `Lastname-Name-ContinuousShot.mp4`
+- **Filename:** `Lastname-Name-ContinuousShot-ColourCorrection.mp4`
+
+> Export and review Version 1 before beginning the Expressive Version. Confirm that the video plays correctly, the exposure correction changes gradually, and the natural sound remains clearly audible.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 8
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">8. Create Version 2 and submit the project</span>
+    <span class="section-description">
+      Duplicate the corrected sequence, use colour grading and music to create an expressive interpretation, and submit all project files.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+After exporting Version 1, duplicate the corrected sequence in Premiere Pro.
+
+Use the second version to create a specific **feeling, atmosphere, or narrative interpretation** of the first-person movement.
+
+The second version must use the same visual sequence as Version 1:
+
+- Use the same take.
+- Use the same beginning and ending points.
+- Maintain the same 30-second duration.
+- Do not add cuts.
+- Do not change the playback speed.
+- Do not add other footage.
+
+## Define the expressive approach
+
+Before editing, identify the feeling or narrative approach you want to create.
+
+Consider:
+
+- How the movement between spaces may suggest a change in mood
+- How the first-person perspective may imply memory, tension, curiosity, isolation, anticipation, or another experience
+- How colour can affect the interpretation of the route
+- How music can influence pace, atmosphere, and emotional response
+- Whether the indoor and outdoor spaces should feel connected or contrasting
+
+> The expressive choices should develop from the original movement and spatial transition rather than appearing as unrelated decoration.
+
+## Apply expressive colour grading
+
+After completing the technical colour correction, apply a colour grade that supports the intended feeling or narrative.
+
+You may adjust:
+
+- Colour temperature
+- Tint
+- Saturation
+- Contrast
+- Highlights and shadows
+- Whites and blacks
+- Individual colour channels
+- Curves
+- Colour wheels
+- Vignette
+- Other Lumetri Color controls
+
+Use **keyframes** when the colour grade changes during the movement between spaces.
+
+Colour changes should:
+
+- Develop gradually
+- Respond to the camera’s movement
+- Support the intended emotional or narrative approach
+- Remain intentional throughout the sequence
+- Preserve enough image information for the scene to remain readable
+
+> Colour grading may transform the atmosphere of the recording, but it should not obscure the image or make important visual information unreadable.
+
+## Select and add music
+
+You may add **openly licensed or public-domain music**.
+
+Before using the music:
+
+- Confirm that the licence permits reuse.
+- Record the music title.
+- Record the creator’s name.
+- Record the source.
+- Record the licence or required attribution.
+
+When editing the music:
+
+- Connect it to the intended feeling or narrative.
+- Use volume keyframes and fades.
+- Balance it with any natural sound you choose to keep.
+- Monitor the mix using headphones and Premiere Pro audio meters.
+- Keep the final mix below clipping.
+- The master audio level must not reach <code>0 dB</code>.
+
+You may:
+
+- Keep the natural camera sound beneath the music
+- Reduce the natural sound
+- Use selected moments of natural sound
+- Remove the natural sound when this supports the intended approach
+
+## Titles and credits
+
+Add the title and credits during the final part of the video.
+
+Include:
+
+- Project title
+- Your name
+- Year
+- Music title
+- Music creator
+- Music source
+- Licence or attribution information
+
+The text must remain readable and appear over the continuous video image.
+
+## Export Version 2
+
+- **Format:** MP4
+- **Codec:** H.264
+- **Resolution:** 1920 × 1080 pixels
+- **Filename:** `Lastname-Name-ContinuousShot-Expressive.mp4`
 
 ## Create the project information PDF
 
@@ -714,17 +853,21 @@ Create a one- or two-page document containing:
 - A three- to four-line artistic description explaining:
   - Your framing choices
   - How movement shaped the image
-  - How the outdoor-to-indoor transition affected the composition
+  - How the lighting transition affected the composition
   - How changing light influenced the shot
 - Lens and focal length
 - Shutter speed
 - ISO setting
-- Outdoor aperture
-- Indoor aperture
+- Aperture for the brightest area
+- Aperture for the darkest area
 - White Balance setting
 - A brief explanation of when and how the aperture was adjusted
 - A one- or two-sentence description of the main exposure and colour challenges
 - A brief explanation of how Lumetri Scopes and keyframes were used during colour correction
+- A brief explanation of the feeling or narrative approach developed in Version 2
+- A description of how colour grading supported this approach
+- A description of how music and natural sound were edited and balanced
+- Music title, creator, source, and licence information
 
 Export the document as:
 
@@ -735,13 +878,15 @@ Export the document as:
 
 | Item | Required filename |
 |---|---|
-| Final Continuous Shot video | `Lastname-Name-ContinuousShot.mp4` |
+| Colour-Corrected Continuous Shot | `Lastname-Name-ContinuousShot-ColourCorrection.mp4` |
+| Expressive Continuous Shot | `Lastname-Name-ContinuousShot-Expressive.mp4` |
 | Project information PDF | `Lastname-Name-ContinuousShot.pdf` |
 
-> Each student must submit both files individually. Follow the submission protocols carefully. Incorrect filenames or missing files may result in lost points.
+> Each student must submit all three files individually. Follow the submission protocols carefully. Incorrect filenames or missing files may result in lost points.
 
 </div>
 </details>
+
 
 ---
 
