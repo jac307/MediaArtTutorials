@@ -255,7 +255,24 @@ The final visual sequence must remain continuous.
 
 > Do not cut out material from the middle of the shot. Any change in duration must preserve the continuity of time.
 
-## Confirm the equipment before leaving the classroom
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Check equipment and go to location</span>
+    <span class="section-description">
+    Confirming equipment before leaving the classroom and go to the location to evaluate environment. 
+    </span>
+  </summary>
+
+  ## Confirm the equipment before leaving the classroom
 
 <fieldset class="equipment-checklist">
   <legend>Prepare the equipment</legend>
@@ -276,30 +293,7 @@ The final visual sequence must remain continuous.
     </span>
   </label>
 
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Go to your space, then set up and configure camera</span>
-    <span class="section-description">
-      Compare your plan with the actual environment, establish the composition, secure the equipment, and configure the camera before recording.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Follow the [W3 Technical Walkthrough](../TechWalks/TW-W3.md){:target="_blank"} while preparing the camera and audio equipment.
-
-Your original plan should guide the recording, but you must also respond to the actual conditions you encounter. Observe the available light, movement, sound, weather, safety, and spatial activity before deciding on the final camera position.
-
-## Evaluate the actual environment
+  ## Go to the location and evaluate the actual environment
 
 <fieldset class="equipment-checklist">
   <legend>Review the location before setting up</legend>
@@ -346,6 +340,32 @@ Your original plan should guide the recording, but you must also respond to the 
 </fieldset>
 
 > Your final camera position should reflect both your artistic plan and the actual visual, environmental, and safety conditions of the location.
+
+<div class="section-content" markdown="1">
+
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Set up and configure camera</span>
+    <span class="section-description">
+      Compare your plan with the actual environment, establish the composition, secure the equipment, and configure the camera before recording.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Follow the [W3 Technical Walkthrough](../TechWalks/TW-W3.md){:target="_blank"} while preparing the camera and audio equipment.
+
+Your original plan should guide the recording, but you must also respond to the actual conditions you encounter. Observe the available light, movement, sound, weather, safety, and spatial activity before deciding on the final camera position.
 
 ## Set up the tripod and composition
 
@@ -622,17 +642,171 @@ Set the lens to **Manual Focus (`MF`)**. Autofocus may shift when people, vehicl
 </div>
 </details>
 
-
-
 <!--
 /////////////////
-SECTION 8
+SECTION 6
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">8. Save your files, pack, and return the equipment</span>
+    <span class="section-title">6. Record the scene and collect environmental sounds</span>
+    <span class="section-description">
+      Record two continuous visual takes with the on-camera audio, then use the ZOOM H4n to collect 10–15 specific sounds from the environment.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Outdoor immersive sound is created by combining:
+
+| Audio device | Recording role | How it will be used |
+|---|---|---|
+| **On-camera shotgun microphone** | Continuous environmental base layer | Records the general sound of the location throughout each complete visual take. |
+| **[ZOOM H4n handheld recorder](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Audio.html#zoom-h4n-handheld){:target="_blank"}** | Specific environmental sound layers | Records 10–15 individual sounds from different positions and distances for the final multilayered soundscape. |
+
+## Record two complete visual takes
+
+Record **two complete takes** using the camera and the connected shotgun microphone.
+
+Each take must:
+
+- Use a fixed camera position
+- Remain continuous
+- Keep the exposure settings locked
+- Keep the white balance fixed
+- Keep the focus fixed
+- Keep the focal length fixed
+- Include continuous environmental audio from the on-camera shotgun microphone
+
+## Recording rules
+
+- Do not move or touch the tripod during a take.
+- Do not pan, tilt, or reposition the camera.
+- Do not zoom in or out.
+- Do not refocus.
+- Do not adjust the shutter speed, aperture, ISO, or white balance.
+- Do not stage unnecessary action in front of the camera.
+- People may pass naturally through the frame.
+- Remain outside the frame unless your presence is part of the planned scene.
+- Monitor the camera, microphone, equipment, and surroundings throughout the recording.
+
+## Between takes
+
+After reviewing the first take, you may change:
+
+- The camera position
+- The composition
+- The focus point
+- The shutter speed
+- The aperture
+- The ISO
+- The white balance
+- The shotgun microphone settings
+
+Complete all changes before beginning the second take.
+
+> Record the camera settings used for both takes and identify which take you select for the final project.
+
+## Prepare the ZOOM H4n
+
+After recording both visual takes, configure the ZOOM H4n to collect specific sounds from the location.
+
+<fieldset class="equipment-checklist">
+  <legend>Set up the separate audio recorder</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use the built-in stereo microphones.</strong>
+      Position the recorder so the microphones face the intended sound source.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Install outdoor wind protection.</strong>
+      Attach a windscreen or furry windshield before recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the recording format to <code>WAV 48 kHz / 24-bit</code>.</strong>
+      This format is appropriate for video production and post-production.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Select Stereo mode.</strong>
+      Confirm that the built-in stereo microphones are active.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connect headphones.</strong>
+      Monitor the sound before and during each recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set and test the recording level.</strong>
+      Keep the loudest sounds below clipping and avoid red peak indicators.
+    </span>
+  </label>
+</fieldset>
+
+## Record 10–15 environmental sounds
+
+Record between **10 and 15 specific sounds** connected to the location.
+
+Possible sounds include:
+
+- Footsteps
+- Leaves or branches moving
+- Water
+- Traffic
+- Bicycle wheels
+- Doors
+- Voices at a distance
+- Mechanical sounds
+- Birds
+- Wind moving through structures
+- Other sounds specific to the selected environment
+
+For each sound:
+
+- Create a separate recording when possible.
+- Move closer to capture detail and farther away to capture spatial context.
+- Experiment with different microphone positions and directions.
+- Record several seconds before and after the main sound.
+- Hold the recorder steadily and keep your fingers away from the microphones.
+- Do not tap, touch, or adjust the recorder during a usable recording.
+- Keep the recorder protected from wind, rain, snow, and moisture.
+- Ask your partner to remain still and quiet unless they are intentionally producing the sound.
+
+> The ZOOM H4n recordings do not need to match the visual action exactly. They will be layered with the continuous on-camera environmental recording during editing to create a more detailed and immersive soundscape.
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Save your files, pack, and return the equipment</span>
     <span class="section-description">
       Create two verified copies of all footage and audio before packing and returning the booked equipment.
     </span>
@@ -718,21 +892,23 @@ Divide the file-transfer, wrap-up, and return responsibilities evenly. Handle al
 
 <!--
 /////////////////
-SECTION 9
+SECTION 8
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">9. Edit and submit the project</span>
+    <span class="section-title">8. Edit and submit the project</span>
     <span class="section-description">
-      Assemble one continuous 30-second visual shot, create a multilayered soundscape, and prepare the required submission files.
+      Edit the video and sound in Premiere Pro, create an immersive multilayered soundscape, and prepare the required submission files.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Review the [W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"} and relevant previous tutorials before editing.
+Edit both the **video and sound in Adobe Premiere Pro**.
+
+Before beginning, review the [W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blank"} and any relevant tutorials from previous weeks. Pay particular attention to the tutorials on importing media, audio levels, keyframes, panning, colour correction, and exporting.
 
 ## Create the sequence
 
@@ -755,20 +931,31 @@ Review the [W3 Tutorials](../Tutorials/index.html?file=T-W3.json){:target="_blan
 
 ## Create the outdoor soundscape
 
-Combine:
+Build a **multilayered soundscape** by combining:
 
-- The continuous environmental base layer recorded with the RØDE VideoMic NTG
-- Selected ZOOM H4n recordings of specific sounds
-- Additional room for silence, distance, and spatial variation
+- The continuous environmental base layer recorded with the on-camera shotgun microphone
+- Selected ZOOM H4n recordings of specific environmental sounds
+- Variations in volume, distance, timing, and stereo position
+- Moments of quieter sound or silence that support the composition
 
-When editing the sound:
+Place the continuous environmental recording on the first audio track. Add the ZOOM H4n recordings on separate tracks so each sound can be adjusted independently.
 
-- Synchronize the camera and ZOOM recordings using the hand clap.
-- Balance the general environmental sound with the specific sound layers.
-- Use volume changes, fades, and stereo placement carefully.
-- Remove or reduce unwanted handling noise when possible.
-- Keep the final mix below clipping.
+## Edit and mix the sound
+
+- Select the strongest ZOOM H4n recordings from the 10–15 sounds collected.
+- Layer several sounds to create depth rather than placing every recording at the same level.
+- Use **volume keyframes** and fades to introduce, emphasize, or reduce individual sounds over time.
+- Use **audio panning** to place sounds toward the left, centre, or right of the stereo field.
+- Connect the panning decisions to the location or movement of sounds within the video frame.
+- Use different volume levels to suggest foreground, midground, and background distance.
+- Make sure every selected sound remains audible without overpowering the complete mix.
+- Keep the continuous environmental base layer present unless a deliberate moment of silence supports the artistic approach.
+- Remove or reduce handling noise, wind noise, and unwanted interference when possible.
+- Monitor the complete soundscape with headphones and through the Premiere Pro audio meters.
+- Keep the final mix below clipping. The master audio level must not reach `0 dB`.
 - Do not add music.
+
+> The goal is not to make every sound equally loud. Create an immersive soundscape by balancing clear foreground details with quieter middle- and background layers.
 
 ## Titles and credits
 
@@ -788,7 +975,7 @@ Do not use separate title cards.
 - No decorative visual effects
 - No filters that obscure the original image
 - No music
-- No additional stock footage
+- No additional stock footage or stock audio
 
 ## Export the video
 
@@ -807,14 +994,15 @@ Create a one- or two-page document containing:
 - Authors
 - Location
 - A three- to four-line description explaining why the location was selected, with attention to spatial depth, duration, and environmental change
-- The assigned lens and focal length
+- Lens and focal length
 - Aperture
 - Shutter speed
 - ISO
 - White balance
 - A brief explanation of the shutter-speed choice and its artistic purpose
 - A one- or two-sentence description of the colour correction or grading
-- A brief description of how the RØDE base layer and ZOOM H4n sound layers were combined
+- A brief description of how the shotgun-microphone base layer and ZOOM H4n sound layers were combined
+- A brief explanation of how volume and panning were used to create an immersive soundscape
 
 Export the document as:
 
