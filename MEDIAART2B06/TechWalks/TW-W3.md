@@ -29,17 +29,9 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-Review the [available camera lenses](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/Cameras.html#zoom-lenses){:target="_blank"} before selecting a lens.
-
 ## Focal length and field of view
 
 Focal length affects how much of the scene appears within the frame:
-
-| Focal length | General characteristics |
-|---|---|
-| **24 mm** | Wide field of view; includes more of the environment and can emphasize spatial depth when the camera is close to the subject |
-| **35 mm** | Moderately wide field of view; balances the subject with the surrounding environment |
-| **50 mm** | Narrower field of view; includes less of the environment and can isolate the subject more easily |
 
 ![Diagram comparing the field of view produced by different lens focal lengths](imgs/48.svg)
 
@@ -106,7 +98,6 @@ Wide-angle lenses make changes in camera distance especially noticeable.
 SECTION 2
 /////////////////
 -->
-
 
 <details class="tutorial-section">
   <summary>
