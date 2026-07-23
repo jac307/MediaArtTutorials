@@ -231,7 +231,7 @@ For Week 3, continue using the core recording settings introduced in the [W2 Tec
     <input type="checkbox">
     <span>
       <strong>Display the histogram.</strong>
-      Press the <strong>INFO.</strong> button until the histogram appears.
+      Press the <strong>INFO</strong> button until the histogram appears.
     </span>
   </label>
 </fieldset>
@@ -261,23 +261,120 @@ SECTION 4
 
 **Exposure** describes how light or dark the recorded image appears. It is shaped by the combined relationship between shutter speed, aperture, ISO, and the available light in the scene.
 
-![Three versions of the same scene showing different exposure levels](imgs/55.jpg)
+## Reading exposure with the histogram
 
-### Balanced exposure
+The histogram shows how brightness values are distributed across the image:
 
-A balanced exposure preserves the important details needed for the intended image. This does not mean that every part of the image must have equal brightness.
+- The **left side** represents shadows
+- The **centre** represents midtones
+- The **right side** represents highlights
 
-### Overexposure
+Select each example to compare the image with its histogram.
 
-Overexposure occurs when important bright areas receive too much light and lose visible detail.
+<div class="exposure-example-list">
 
-> When highlights are clipped to pure white, the missing information cannot be recovered fully in post-production.
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="underexposure-example"
+    >
 
-### Underexposure
+    <label
+      class="photo-reveal-card__image"
+      for="underexposure-example"
+    >
+      <img
+        src="imgs/underexposure.jpg"
+        alt="Underexposed outdoor scene with a histogram concentrated toward the shadows"
+      >
 
-Underexposure occurs when important dark areas receive too little light and lose visible detail.
+      <span class="photo-reveal-card__title">
+        Underexposure
+      </span>
 
-> Brightening severely underexposed footage later can reveal noise, compression artefacts, and limited shadow information.
+      <span class="photo-reveal-card__prompt">
+        Select for details
+      </span>
+    </label>
+
+    <div class="photo-reveal-card__description">
+      <strong>Notice the histogram:</strong> Most brightness information is concentrated toward the left side. When the graph presses against the far-left edge, dark areas may be clipped and important shadow detail may be lost.
+
+      Brightening severely underexposed footage during editing can reveal noise, compression artefacts, and limited colour information.
+    </div>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="balanced-exposure-example"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="balanced-exposure-example"
+    >
+      <img
+        src="imgs/balanced-exposure.jpg"
+        alt="Balanced outdoor exposure with brightness information distributed across the histogram"
+      >
+
+      <span class="photo-reveal-card__title">
+        Balanced exposure
+      </span>
+
+      <span class="photo-reveal-card__prompt">
+        Select for details
+      </span>
+    </label>
+
+    <div class="photo-reveal-card__description">
+      <strong>Notice the histogram:</strong> Brightness information is distributed across the shadows, midtones, and highlights without a strong pile-up against either edge.
+
+      A balanced histogram does not need to be centred or evenly shaped. Its form depends on the brightness of the scene. The goal is to preserve the important details required by the composition.
+    </div>
+  </div>
+
+
+  <div class="photo-reveal-card">
+    <input
+      class="photo-reveal-card__toggle screen-reader-only"
+      type="checkbox"
+      id="overexposure-example"
+    >
+
+    <label
+      class="photo-reveal-card__image"
+      for="overexposure-example"
+    >
+      <img
+        src="imgs/overexposure.jpg"
+        alt="Overexposed outdoor scene with a histogram concentrated toward the highlights"
+      >
+
+      <span class="photo-reveal-card__title">
+        Overexposure
+      </span>
+
+      <span class="photo-reveal-card__prompt">
+        Select for details
+      </span>
+    </label>
+
+    <div class="photo-reveal-card__description">
+      <strong>Notice the histogram:</strong> Most brightness information is concentrated toward the right side. When the graph presses against the far-right edge, highlights may be clipped to pure white.
+
+      Once important highlight information is clipped, it cannot be fully recovered during editing.
+    </div>
+  </div>
+
+</div>
+
+> A histogram does not identify one universally correct exposure. Read it together with the visible image and the intended brightness of the scene.
+
 
 ## Common exposure problems
 
@@ -377,7 +474,7 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Set shutter speed, aperture, and ISO</span>
+    <span class="section-title">5. Shutter speed, aperture, and ISO</span>
     <span class="section-description">
       Establish motion rendering first, choose the required depth of field, and use ISO only when additional brightness is necessary.
     </span>
