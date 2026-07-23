@@ -167,7 +167,7 @@ SECTION 2
 
 ## Three-point Lighting
 
-![Diagram showing a three-point lighting arrangement](imgs/28.png)
+![Diagram showing a three-point lighting arrangement](imgs/LightsDiagram.png)
 
 A three-point lighting setup uses three lights with different functions:
 
@@ -549,7 +549,7 @@ SECTION 5
 - An **aspect ratio** describes the proportional relationship between the width and height of the image.  
 - **Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
 
-![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/30.jpg)
+![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/CameraQuality.jpg)
 
 ### Steps
 
