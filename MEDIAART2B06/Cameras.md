@@ -332,7 +332,7 @@ Telephoto prime lenses narrow the field of view, compress spatial distance, and 
 
 ### Canon 50mm f/1.4 USM
 
-![Canon 50mm f/1.4 USM lens](TechWalks/imgs/20.jpg)
+![Canon 50mm f/1.4 USM lens](TechWalks/imgs/019.jpg)
 
 A standard prime lens suitable for medium shots, interviews, close-ups, and shallow depth of field.
 
@@ -341,7 +341,7 @@ A standard prime lens suitable for medium shots, interviews, close-ups, and shal
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/23.jpg"
+    src="TechWalks/imgs/020.jpg"
     alt="Photographic examples created with a Canon 50mm f/1.4 lens"
   >
   <figcaption>
@@ -351,7 +351,7 @@ A standard prime lens suitable for medium shots, interviews, close-ups, and shal
 
 ### Canon 50mm f/1.2 L USM
 
-![Canon 50mm f/1.2 L USM lens](TechWalks/imgs/21.jpg)
+![Canon 50mm f/1.2 L USM lens](TechWalks/imgs/021.jpg)
 
 A very fast prime lens offering an extremely shallow depth of field and strong subject isolation.
 
@@ -362,7 +362,7 @@ It is suitable for stylized narrative scenes and controlled low-light setups.
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/24.jpg"
+    src="TechWalks/imgs/022.jpg"
     alt="Photographic examples created with a Canon 50mm f/1.2 lens"
   >
   <figcaption>
@@ -372,7 +372,7 @@ It is suitable for stylized narrative scenes and controlled low-light setups.
 
 ### Canon 85mm f/1.8 USM
 
-![Canon 85mm f/1.8 USM lens](TechWalks/imgs/22.jpg)
+![Canon 85mm f/1.8 USM lens](TechWalks/imgs/023.jpg)
 
 A telephoto prime lens that creates visual compression and strong background blur.
 
@@ -385,7 +385,7 @@ It is useful for portrait-style framing, details, interviews, and isolating subj
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/25.jpg"
+    src="TechWalks/imgs/024.jpg"
     alt="Photographic examples created with a Canon 85mm lens"
   >
   <figcaption>
