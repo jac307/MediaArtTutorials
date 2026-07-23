@@ -8,36 +8,13 @@
 
 This technical walkthrough supports the **Continuous Shot (Individual)** project.
 
-The central challenge for Week 4 is managing exposure while recording one continuous moving shot through **strongly contrasting lighting conditions**, particularly:
+The central challenge for Week 4 is managing exposure while recording one continuous moving shot through **strongly contrasting lighting conditions**.
 
-- Indoors to outdoors
-- Outdoors to indoors
-- Shadow to direct sunlight
-- Direct sunlight to shadow
-- A dark corridor toward a bright doorway
-- A bright entrance into a darker interior
-
-Unlike the static scene from Week 3, the lighting conditions may change significantly while the camera is recording. You must anticipate these changes, monitor the image continuously, and adjust the exposure without interrupting the shot.
-
-> The goal is not to make every part of the shot equally bright. The goal is to create a controlled and intentional transition while preserving important highlight and shadow information.
-
-## Learning objectives
-
-By the end of this session, you should be able to:
-
-- Plan a continuous route through contrasting lighting environments
-- Identify the brightest and darkest parts of the route
-- Monitor the histogram while the camera is moving
-- Recognize highlight clipping and severe underexposure
-- Anticipate exposure changes before entering a new environment
-- Adjust exposure gradually while recording
-- Maintain a consistent visual approach throughout a continuous shot
-- Evaluate how exposure changes affect visual continuity
+> The goal is to create a controlled and intentional transition while preserving important highlight and shadow information.
 
 ## Technical stages
 
 Complete the following stages in order.
-
 
 <!--
 /////////////////
@@ -67,25 +44,49 @@ The most important challenge is moving between two contrasting environments, suc
 - Direct sunlight and deep shade
 - An interior corridor and a bright window or doorway
 
-## Indoor to outdoor
+<div class="media-grid media-grid--two">
 
-When moving from indoors to outdoors:
+  <article class="media-card">
+    <h2>Indoor to outdoor</h2>
 
-- The exterior may become severely overexposed.
-- Windows and doorways may clip before you reach the exterior.
-- The sky may lose detail.
-- Pale walls, snow, concrete, or reflective surfaces may become completely white.
-- You may need to reduce the exposure before or while crossing the transition.
+    <img
+      src="imgs/indoor-to-outdoor.gif"
+      alt="Example of a camera moving from a darker indoor space into a brighter outdoor space"
+      loading="lazy"
+    >
 
-## Outdoor to indoor
+    <p>When moving from indoors to outdoors:</p>
 
-When moving from outdoors to indoors:
+    <ul>
+      <li>The exterior may become severely overexposed.</li>
+      <li>Windows and doorways may clip before you reach the exterior.</li>
+      <li>The sky may lose detail.</li>
+      <li>Pale walls, snow, concrete, or reflective surfaces may become completely white.</li>
+      <li>Begin reducing the exposure before or while crossing the transition.</li>
+    </ul>
+  </article>
 
-- The interior may become severely underexposed.
-- The subject may become difficult to see.
-- Shadow areas may contain limited information.
-- Raising the exposure too quickly may create an abrupt and distracting change.
-- You may need to begin increasing the exposure as you approach the entrance.
+  <article class="media-card">
+    <h2>Outdoor to indoor</h2>
+
+    <img
+      src="imgs/outdoor-to-indoor.gif"
+      alt="Example of a camera moving from a brighter outdoor space into a darker indoor space"
+      loading="lazy"
+    >
+
+    <p>When moving from outdoors to indoors:</p>
+
+    <ul>
+      <li>The interior may become severely underexposed.</li>
+      <li>The subject may become difficult to see.</li>
+      <li>Shadow areas may contain limited image information.</li>
+      <li>Increasing the exposure too quickly may create an abrupt and distracting change.</li>
+      <li>Begin increasing the exposure as you approach or cross the entrance.</li>
+    </ul>
+  </article>
+
+</div>
 
 > Do not wait until the image is already severely overexposed or underexposed. Anticipate the lighting transition and begin adjusting before important visual information is lost.
 
@@ -105,7 +106,6 @@ Consider:
 </div>
 </details>
 
-
 <!--
 /////////////////
 SECTION 2
@@ -114,7 +114,142 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Configure the camera</span>
+    <span class="section-title">2. Advanced exposure theory</span>
+    <span class="section-description">
+      Review how aperture, shutter speed, ISO, and full-stop changes interact before applying them to changing lighting conditions.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Exposure Triangle
+
+The Exposure Triangle describes the relationship between:
+
+- Aperture
+- Shutter speed
+- ISO
+
+Together, these controls affect:
+
+- Recorded brightness
+- Depth of field
+- Motion blur
+- Image noise
+- Visual continuity
+
+![Exposure Triangle](imgs/56.jpg)
+
+[Watch the Exposure Triangle tutorial](https://www.youtube.com/watch?v=r33iwr0nrjU){:target="_blank"}
+
+## Understanding stops
+
+A **stop** is a standard measurement used to describe changes in exposure.
+
+A change of one full stop:
+
+- Doubles the amount of recorded light, or
+- Reduces the amount of recorded light by half
+
+Stops allow you to compare changes in aperture, shutter speed, and ISO using the same exposure system.
+
+For example, reducing the light by one stop with the aperture can be balanced by increasing the ISO by one stop.
+
+> For Week 4, the shutter speed will remain fixed at <code>1/60</code>, the ISO will be set to Auto, and the aperture will be adjusted manually during the continuous shot.
+
+## Aperture and stops
+
+![Aperture and f-stop reference](imgs/66.jpg)
+
+[Download the F-Stop Chart](imgs/F-Stop-Chart.pdf){:target="_blank"}
+
+Aperture values are written as **f-numbers** and organized into stops.
+
+- Lower f-number → larger opening → more light
+- Higher f-number → smaller opening → less light
+
+Examples:
+
+- Moving from <code>f/4</code> to <code>f/2.8</code> allows approximately twice as much light.
+- Moving from <code>f/5.6</code> to <code>f/8</code> allows approximately half as much light.
+
+Each step compounds:
+
+- One stop wider → twice as much light
+- Two stops wider → four times as much light
+- One stop narrower → half as much light
+- Two stops narrower → one quarter as much light
+
+### Aperture and depth of field
+
+Aperture also affects how much of the scene appears acceptably sharp:
+
+- Wider aperture and lower f-number → shallower depth of field
+- Narrower aperture and higher f-number → deeper depth of field
+
+During the Week 4 continuous shot:
+
+- Open the aperture by moving toward a lower f-number when entering a darker environment.
+- Close the aperture by moving toward a higher f-number when entering a brighter environment.
+
+> Changing the aperture affects both exposure and depth of field. Monitor whether the subject remains in focus as the aperture changes.
+
+## Shutter speed and stops
+
+![Shutter-speed reference](imgs/67.jpg)
+
+[Download the Shutter Speed Chart](imgs/Shutter-Chart.pdf){:target="_blank"}
+
+Shutter speeds are also organized into stops.
+
+- Slower shutter speed → longer exposure time → more light
+- Faster shutter speed → shorter exposure time → less light
+
+Examples:
+
+- Moving from <code>1/60</code> to <code>1/30</code> allows approximately twice as much light.
+- Moving from <code>1/250</code> to <code>1/500</code> allows approximately half as much light.
+
+Each step compounds:
+
+- One stop slower → twice as much light
+- One stop faster → half as much light
+- Two stops faster → one quarter as much light
+- Three stops faster → one eighth as much light
+
+Changing shutter speed also changes the appearance of movement and motion blur.
+
+> Keep the shutter speed fixed at <code>1/60</code> throughout the Week 4 continuous shot. Do not use shutter speed to manage the changing exposure.
+
+## ISO and stops
+
+ISO values are also organized into stops.
+
+- Higher ISO → brighter recorded image and more visible noise
+- Lower ISO → darker recorded image and less visible noise
+
+Examples:
+
+- Moving from <code>ISO 100</code> to <code>ISO 200</code> increases the recorded brightness by one stop.
+- Moving from <code>ISO 400</code> to <code>ISO 200</code> decreases the recorded brightness by one stop.
+
+For Week 4, set the ISO to **Auto**. The camera will use ISO to respond to smaller changes in light while you manually control the aperture.
+
+> Auto ISO supports the exposure transition, but you must still monitor the histogram and manually adjust the aperture between the darkest and brightest parts of the route.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Configure the camera</span>
     <span class="section-description">
       Prepare the camera for handheld recording and activate the tools required to monitor changing exposure.
     </span>
@@ -179,18 +314,18 @@ Review the previous technical walkthroughs when necessary:
   </label>
 
   <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the lens to Auto Focus.</strong>
-      Select <code>AF</code> because the distance between the camera, subject, and environment may change during the continuous shot.
-    </span>
-  </label>
+  <input type="checkbox">
+  <span>
+    <strong>Set the lens to Auto Focus.</strong>
+    Select <code>AF</code> because the distance between the camera, subject, and environment may change during the continuous shot. Set the active focus point near the centre of the frame and keep the main subject within this area while moving.
+  </span>
+</label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Turn Image Stabilization on.</strong>
-      Activate the stabilization switch on the lens for handheld recording.
+      Activate the stabilization switch on the lens for handheld recording. Find the image stabilization switcher on the side of the lense. 
     </span>
   </label>
 
@@ -213,8 +348,6 @@ Review the previous technical walkthroughs when necessary:
 
 ## Image Stabilization
 
-![Image Stabilization switch located on the camera lens](imgs/65.png)
-
 Image Stabilization can reduce some unwanted handheld movement, but it does not:
 
 - Replace controlled camera handling
@@ -228,91 +361,53 @@ Maintain a stable posture, bend your knees slightly, keep your elbows close to y
 </div>
 </details>
 
-
-<!--
-/////////////////
-SECTION 3
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Plan the route and lighting transition</span>
-    <span class="section-description">
-      Walk through the complete route and identify where the strongest changes in brightness will occur.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Before recording, walk through the complete route without recording.
-
-Do not establish the exposure only for the opening frame. Evaluate the entire route from beginning to end.
+## Configure the exposure controls and white balance
 
 <fieldset class="equipment-checklist">
-  <legend>Evaluate the complete route</legend>
+  <legend>Prepare the camera for changing exposure</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Identify the darkest area.</strong>
-      Determine where the subject, environment, or important shadow information may become difficult to see.
+      <strong>Set the shutter speed to <code>1/60</code>.</strong>
+      Keep the shutter speed fixed throughout the complete shot to maintain consistent motion blur while recording at <code>30 fps</code>.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Identify the brightest area.</strong>
-      Look for direct sunlight, bright skies, windows, doorways, pale walls, snow, concrete, or reflective surfaces.
+      <strong>Set the ISO to Auto.</strong>
+      Auto ISO allows the camera to respond to smaller changes in brightness while you manually control the aperture.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Locate the main exposure transition.</strong>
-      Identify the point where the camera moves between the two contrasting lighting environments.
+      <strong>Set a fixed white balance.</strong>
+      Use <strong>Daylight White Balance</strong> or establish a <strong>Custom White Balance</strong> with a white or grey balance card. Test the setting in both the indoor and outdoor areas before recording.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Evaluate the direction of the sun.</strong>
-      Avoid pointing the camera directly at the sun. Direct sunlight entering the lens may create clipping, glare, lens flare, and reduced contrast.
+      <strong>Keep the white balance unchanged during the shot.</strong>
+      Do not use Auto White Balance. Automatic adjustments may create distracting colour shifts as the camera moves between indoor and outdoor lighting.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Check for backlighting.</strong>
-      Observe whether the subject becomes darker when positioned in front of a window, doorway, sky, or another bright area.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm a safe walking route.</strong>
-      Check for doors, stairs, curbs, obstacles, people, cables, and changes in the ground surface.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Determine where the exposure adjustment should begin.</strong>
-      Plan to begin adjusting before the image becomes severely overexposed or underexposed.
+      <strong>Use the aperture as the main manual exposure control.</strong>
+      Adjust the aperture while moving between the darker and brighter parts of the route.
     </span>
   </label>
 </fieldset>
 
-> The route must present a meaningful exposure challenge. A shot that remains under the same lighting conditions does not address the main technical objective of Week 4.
-
-</div>
-</details>
+> Auto ISO supports the exposure transition, but it does not replace careful monitoring. Continue watching the image, meter, and histogram while recording. A visible change in colour temperature between the indoor and outdoor spaces is acceptable when the white balance remains fixed and the change reflects the actual lighting conditions.
 
 
 <!--
@@ -323,204 +418,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Establish an exposure strategy</span>
-    <span class="section-description">
-      Set the shutter speed and aperture, then determine how the exposure will be adjusted during the lighting transition.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Set the exposure controls in this order:
-
-1. **Shutter speed**
-2. **Aperture**
-3. **ISO**
-
-## Shutter speed
-
-<fieldset class="equipment-checklist">
-  <legend>Set the shutter speed</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Begin with <code>1/60</code>.</strong>
-      This is the standard shutter speed for recording at <code>30 fps</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the shutter speed consistent.</strong>
-      Changing it during the shot may alter the appearance of movement and create inconsistent motion blur.
-    </span>
-  </label>
-</fieldset>
-
-## Aperture
-
-<fieldset class="equipment-checklist">
-  <legend>Select the aperture</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Choose an aperture that supports the required depth of field.</strong>
-      Consider the subject’s distance, camera movement, lens focal length, and the amount of the scene that must remain in focus.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Consider both lighting environments.</strong>
-      Select an aperture that provides sufficient flexibility for both the darker and brighter areas of the route.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the aperture fixed when possible.</strong>
-      Changing it while recording may alter the depth of field and create visible exposure steps.
-    </span>
-  </label>
-</fieldset>
-
-## ISO
-
-<fieldset class="equipment-checklist">
-  <legend>Plan the ISO adjustment</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Determine the ISO required for the darker environment.</strong>
-      Test the darkest part of the route and identify the value required to preserve the necessary shadow information.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Determine the ISO required for the brighter environment.</strong>
-      Test the brightest area and identify the value required to protect important highlights.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Practise moving between the two values.</strong>
-      Locate the ISO control and rehearse adjusting it without destabilizing the camera.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Adjust the ISO gradually.</strong>
-      Lower the ISO when entering a brighter environment and raise it when entering a darker environment.
-    </span>
-  </label>
-</fieldset>
-
-> Higher ISO values amplify the recorded signal and make noise more visible, particularly in darker parts of the image.
-
-## Exposure Compensation
-
-Exposure Compensation may be available when the camera is using an automatic exposure setting, such as Auto ISO or a semi-automatic shooting mode.
-
-When shutter speed, aperture, and ISO are all controlled manually, use those exposure controls to change the recorded brightness.
-
-Review the exposure-compensation tutorial:
-
-[Watch the Exposure Compensation tutorial](https://www.youtube.com/watch?v=2GgBW4iW60c){:target="_blank"}
-
-> Confirm how Exposure Compensation operates on the specific camera before relying on it during a continuous take.
-
-</div>
-</details>
-
-
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Set the white balance</span>
-    <span class="section-description">
-      Choose a fixed white balance and evaluate how the colour of the light changes between indoor and outdoor environments.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Indoor and outdoor light may have very different colour temperatures.
-
-For example:
-
-- Outdoor daylight may appear neutral or blue.
-- Interior tungsten lighting may appear warmer or orange.
-- Fluorescent lighting may introduce a green tone.
-- Mixed lighting may produce different colours across the frame.
-
-<fieldset class="equipment-checklist">
-  <legend>Establish the white balance</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test the complete route.</strong>
-      Observe how the selected white balance appears in both the indoor and outdoor environments.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use a fixed white balance.</strong>
-      Select Custom White Balance or another fixed setting that supports the overall visual approach.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Do not change the white balance during a usable take.</strong>
-      A manual change may create an abrupt shift in colour.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Avoid distracting Auto White Balance changes.</strong>
-      Auto White Balance may visibly shift as the camera moves between different light sources.
-    </span>
-  </label>
-</fieldset>
-
-> The focus of Week 4 is changing exposure. A visible change in colour temperature is acceptable when it reflects the actual difference between the two environments and supports the artistic approach.
-
-</div>
-</details>
-
-
-<!--
-/////////////////
-SECTION 6
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Monitor the histogram while moving</span>
+    <span class="section-title">4. Monitor the histogram while moving</span>
     <span class="section-description">
       Use the histogram as a live tool to recognize clipping and underexposure during the continuous shot.
     </span>
@@ -633,118 +531,11 @@ Highlights and shadows do not lose information in the same way.
 
 <!--
 /////////////////
-SECTION 7
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Review stops and the Exposure Triangle</span>
-    <span class="section-description">
-      Review how aperture, shutter speed, and ISO interact and how full-stop changes affect the recorded light.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Exposure Triangle
-
-The Exposure Triangle describes the relationship between:
-
-- Aperture
-- Shutter speed
-- ISO
-
-Together, these controls affect:
-
-- Recorded brightness
-- Depth of field
-- Motion blur
-- Image noise
-- Visual continuity
-
-![Exposure Triangle](imgs/56.jpg)
-
-[Watch the Exposure Triangle tutorial](https://www.youtube.com/watch?v=r33iwr0nrjU){:target="_blank"}
-
-## Aperture and stops
-
-![Aperture and f-stop reference](imgs/66.jpg)
-
-[Download the F-Stop Chart](imgs/F-Stop-Chart.pdf){:target="_blank"}
-
-Aperture values are organized into steps called **stops**.
-
-Each full-stop change:
-
-- Doubles the amount of light entering the camera, or
-- Reduces the amount of light by half
-
-### Aperture values
-
-- Lower f-number → larger opening → more light
-- Higher f-number → smaller opening → less light
-
-Examples:
-
-- Moving from `f/4` to `f/2.8` allows approximately twice as much light.
-- Moving from `f/5.6` to `f/8` allows approximately half as much light.
-
-Each step compounds:
-
-- One stop wider → twice as much light
-- Two stops wider → four times as much light
-- One stop narrower → half as much light
-
-### Aperture and depth of field
-
-- Wider aperture and lower f-number → shallower depth of field
-- Narrower aperture and higher f-number → deeper depth of field
-
-Changing the aperture during a moving shot may affect both exposure and the amount of the image that appears sharp.
-
-## Shutter speed and stops
-
-![Shutter-speed reference](imgs/67.jpg)
-
-[Download the Shutter Speed Chart](imgs/Shutter-Chart.pdf){:target="_blank"}
-
-Shutter speeds are also organized into stops.
-
-Each full-stop change:
-
-- Doubles the amount of light, or
-- Reduces the amount of light by half
-
-### Shutter-speed values
-
-- Slower shutter speed → longer exposure time → more light
-- Faster shutter speed → shorter exposure time → less light
-
-Examples:
-
-- Moving from `1/60` to `1/30` allows approximately twice as much light.
-- Moving from `1/250` to `1/500` allows approximately half as much light.
-
-Each step compounds:
-
-- One stop faster → half as much light
-- Two stops faster → one quarter as much light
-- Three stops faster → one eighth as much light
-
-> Changing the shutter speed also changes the appearance of movement. Keep it at `1/60` whenever possible and manage the changing exposure primarily through ISO.
-
-</div>
-</details>
-
-
-<!--
-/////////////////
 SECTION 8
 /////////////////
 -->
 
-<details class="tutorial-section">
+<!-- <details class="tutorial-section">
   <summary>
     <span class="section-title">8. Rehearse and evaluate the transition</span>
     <span class="section-description">
@@ -827,7 +618,7 @@ Complete at least **two full technical rehearsals** before recording usable foot
 > The exposure transition should appear deliberate, controlled, and connected to the movement between the two spaces.
 
 </div>
-</details>
+</details> -->
 
 ---
 
