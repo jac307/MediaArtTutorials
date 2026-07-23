@@ -510,11 +510,13 @@ Set all three cameras to **Manual mode (`M`)**.
 
 Manual mode gives you direct control over:
 
-- Aperture
-- Shutter speed
-- ISO
+- **Aperture:** Controls how much light enters the camera and the depth of field.
+- **Shutter speed:** Controls how movement appears and how long each frame is exposed.
+- **ISO:** Controls image brightness; higher values produce more digital noise.
 
 Automatic settings may change while the subject moves or the framing changes. Manual settings help maintain consistent exposure throughout the interview and between cameras.
+
+### Quick Aperture, Shutter Speed, and ISO reference
 
 ![Camera mode dial set to Manual mode](imgs/26.jpg)
 
@@ -686,18 +688,16 @@ White balance adjusts how the camera records the colour of the light illuminatin
 
 Automatic White Balance may change between cameras or during recording. For this activity, use **Custom White Balance** so the three cameras record the lighting and skin tones consistently.
 
-A **3-in-1 balance card set (2 × 3 inches)** is available through the department rentals.
-
-![Three-in-one white, grey, and black balance card set](imgs/33.jpg)
+> A **3-in-1 balance card set (2 × 3 inches)** is available through the department rentals.
 
 ## Set Custom White Balance
 
 Complete the following process separately on each camera after the lighting has been finalized:
 
-1. Place the neutral grey or white reference card where the subject will sit.
-2. Make sure the card is illuminated by the same light that will illuminate the subject.
+1. Place the neutral grey or white reference card where the subject will sit. You can use a white piece of paper or a balance card set.  
+2. Make sure the card/paper is illuminated by the same light that will illuminate the subject.
 3. Fill most of the frame with the reference card.
-4. Take a correctly exposed photograph of the card.
+4. Take a correctly exposed photograph of the card/paper.
 5. Open the camera menu.
 6. Select **Custom White Balance**.
 7. Choose the reference photograph.
@@ -765,9 +765,14 @@ Complete the following process separately on each camera after the lighting has 
 </details>
 
 <!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Position and focus the cameras</span>
+    <span class="section-title">7. Multi-Camera Recording</span>
     <span class="section-description">
       Assign a distinct angle and framing purpose to each camera, then set Manual Focus.
     </span>
@@ -777,7 +782,7 @@ Complete the following process separately on each camera after the lighting has 
 
 ## Camera placement
 
-Use the three cameras to create complementary views rather than three nearly identical images.
+When recording with multiple cameras, each camera should have a distinct purpose within the overall visual coverage. For this activity, you will follow a standard three-camera setup, using complementary angles and shot types rather than creating three nearly identical images.  
 
 - **Camera A:** Position at eye level, directly facing the subject, on a tripod
 - **Camera B:** Position approximately 30–45 degrees to the left or right of the subject, on a tripod
@@ -883,17 +888,17 @@ Use **Manual Focus** for the interview.
 </fieldset>
 
 </div>
-</details> -->
+</details>
 
 <!-- 
 /////////////////
-SECTION 7
+SECTION 8
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Record High-Quality Audio</span>
+    <span class="section-title">8. Record High-Quality Audio</span>
     <span class="section-description">
       Record the interview audio directly into Cameras A and B using shotgun and lapel microphones.
     </span>
