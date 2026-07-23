@@ -33,7 +33,7 @@ SECTION 1
 
 Focal length affects how much of the scene appears within the frame:
 
-![Diagram comparing the field of view produced by different lens focal lengths](imgs/48.svg)
+![Diagram comparing the field of view produced by different lens focal lengths](imgs/LensesDiagram.svg)
 
 > **Important:** Perspective is primarily determined by the camera’s position. Changing the lens changes the field of view. When you move the camera to maintain similar framing with a different lens, the spatial relationships between foreground and background also change.
 
@@ -51,17 +51,17 @@ Wide-angle lenses make changes in camera distance especially noticeable.
 <div class="media-grid media-grid--three">
 
   <figure class="media-card">
-    <img src="imgs/49.gif" alt="Outdoor scene recorded using the first lens comparison">
+    <img src="imgs/LensComparison-1.gif" alt="Outdoor scene recorded using the first lens comparison">
     <figcaption>Lens comparison 1</figcaption>
   </figure>
 
   <figure class="media-card">
-    <img src="imgs/50.gif" alt="Outdoor scene recorded using the second lens comparison">
+    <img src="imgs/LensComparison-2.gif" alt="Outdoor scene recorded using the second lens comparison">
     <figcaption>Lens comparison 2</figcaption>
   </figure>
 
   <figure class="media-card">
-    <img src="imgs/51.gif" alt="Outdoor scene recorded using the third lens comparison">
+    <img src="imgs/LensComparison-3.gif" alt="Outdoor scene recorded using the third lens comparison">
     <figcaption>Lens comparison 3</figcaption>
   </figure>
 

@@ -559,7 +559,7 @@ SECTION 5
 4. Select **Movie recording size**.
 5. Choose the option showing **1920 × 1080 at 30 fps**.  
 
-![Canon camera video menu showing the Movie recording size option](imgs/27.JPG)
+![Canon camera video menu showing the Movie recording size option](imgs/CanonVideoSettings.JPG)
 
 ## Activate Display Grid
 
@@ -570,7 +570,7 @@ The grid helps maintain consistent framing, headroom, visual balance, and alignm
 3. Select **Grid display**.
 4. Choose **Grid 1**.
 
-![Canon camera menu showing the Grid 1 display option](imgs/35.JPG)
+![Canon camera menu showing the Grid 1 display option](imgs/CanonGridSettings.JPG)
 
 ## Video settings checklist
 
@@ -651,7 +651,7 @@ Automatic settings may change while the subject moves or the framing changes. Ma
 
 ### Quick Aperture, Shutter Speed, and ISO reference
 
-![Camera mode dial set to Manual mode](imgs/26.jpg)
+![Quick Exposure Reference](imgs/QuickExposureReference.jpg)
 
 <div class="video-wrapper">
   <iframe

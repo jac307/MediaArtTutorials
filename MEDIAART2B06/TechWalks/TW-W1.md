@@ -1186,7 +1186,7 @@ Use the interactive image below to review the buttons you will use most often.
 
 The <code>Q</code> button provides access to the settings used most often.
 
-![Canon Quick Control screen](imgs/15.png)
+![Canon Quick Control screen](imgs/QuickControlScreen.png)
 
 ### Initial setup
 
