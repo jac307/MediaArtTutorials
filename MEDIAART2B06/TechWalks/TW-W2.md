@@ -8,7 +8,10 @@ This technical walkthrough supports the **Chiaroscuro Interview** activity.
 
 You will work in pairs to prepare a three-camera interview using controlled lighting, consistent camera settings, and externally connected microphones.
 
-Review the [available lighting equipment](../Lighting.md){:target="_blank"} before beginning.
+Before beginning, review
+- [available camera equipment](../Cameras.md){:target="_blank"}
+- [available lighting equipment](../Lighting.md){:target="_blank"}
+- [available audio equipment](../Audio.md){:target="_blank"}
 
 <!-- 
 /////////////////
