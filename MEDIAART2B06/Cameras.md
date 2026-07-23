@@ -80,7 +80,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-![Camera mounted on a tripod](TechWalks/imgs/86.jpg)
+![Camera mounted on a tripod](TechWalks/imgs/004.jpg)
 
 ## Tripods
 
@@ -171,7 +171,7 @@ Zoom lenses have **variable focal lengths**, allowing the field of view and fram
 
 ### Canon 17–40mm f/4 L USM
 
-![Canon 17–40mm f/4 L USM lens](TechWalks/imgs/83.jpg)
+![Canon 17–40mm f/4 L USM lens](TechWalks/imgs/005.jpg)
 
 A wide-angle zoom lens suitable for establishing shots, environmental compositions, and tight interior spaces.
 
@@ -182,7 +182,7 @@ Its constant `f/4` maximum aperture supports consistent exposure while changing 
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/84.jpg"
+    src="TechWalks/imgs/006.jpg"
     alt="Photographic examples created with a Canon 17–40mm lens"
   >
   <figcaption>
@@ -192,7 +192,7 @@ Its constant `f/4` maximum aperture supports consistent exposure while changing 
 
 ### Canon 24–105mm f/3.5–5.6 IS STM
 
-![Canon 24–105mm f/3.5–5.6 IS STM lens](TechWalks/imgs/36.jpg)
+![Canon 24–105mm f/3.5–5.6 IS STM lens](TechWalks/imgs/007.jpg)
 
 A versatile zoom lens that can produce wide establishing views, medium shots, and closer framing without changing lenses.
 
@@ -203,7 +203,7 @@ The available maximum aperture changes depending on the selected focal length.
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/42.jpg"
+    src="TechWalks/imgs/008.jpg"
     alt="Photographic examples created with a Canon 24–105mm lens"
   >
   <figcaption>
@@ -213,7 +213,7 @@ The available maximum aperture changes depending on the selected focal length.
 
 ### Canon 24–105mm f/4 L IS II USM
 
-![Canon 24–105mm f/4 L IS II USM lens](TechWalks/imgs/37.jpg)
+![Canon 24–105mm f/4 L IS II USM lens](TechWalks/imgs/009.jpg)
 
 A professional zoom lens with a constant `f/4` maximum aperture.
 
@@ -224,7 +224,7 @@ It is useful for narrative, documentary, and controlled production setups that r
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/43.jpg"
+    src="TechWalks/imgs/010.jpg"
     alt="Photographic examples created with a Canon 24–105mm lens"
   >
   <figcaption>
@@ -240,7 +240,7 @@ Wide-angle prime lenses provide a broader field of view and allow more of the en
 
 ### Canon 24mm f/1.4 L II USM
 
-![Canon 24mm f/1.4 L II USM lens](TechWalks/imgs/38.jpg)
+![Canon 24mm f/1.4 L II USM lens](TechWalks/imgs/011.jpg)
 
 A wide-angle prime lens with a large maximum aperture.
 
@@ -251,7 +251,7 @@ It is suitable for low-light recording, environmental compositions, and wide ima
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/44.jpg"
+    src="TechWalks/imgs/012.jpg"
     alt="Photographic examples created with a Canon 24mm f/1.4 lens"
   >
   <figcaption>
@@ -261,7 +261,7 @@ It is suitable for low-light recording, environmental compositions, and wide ima
 
 ### Canon 24mm f/2.8
 
-![Canon 24mm f/2.8 lens](TechWalks/imgs/39.jpg)
+![Canon 24mm f/2.8 lens](TechWalks/imgs/013.jpg)
 
 A compact and lightweight wide-angle prime lens.
 
@@ -274,7 +274,7 @@ It is suitable for handheld filming, moving shots, and environmental framing.
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/45.jpg"
+    src="TechWalks/imgs/014.jpg"
     alt="Photographic examples created with a Canon 24mm f/2.8 lens"
   >
   <figcaption>
@@ -284,7 +284,7 @@ It is suitable for handheld filming, moving shots, and environmental framing.
 
 ### Canon 24mm f/2.8 IS USM
 
-![Canon 24mm f/2.8 IS USM lens](TechWalks/imgs/40.jpg)
+![Canon 24mm f/2.8 IS USM lens](TechWalks/imgs/015.jpg)
 
 A wide-angle prime lens with Image Stabilization.
 
@@ -295,7 +295,7 @@ It is useful for handheld filming, continuous shots, environmental compositions,
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/46.jpg"
+    src="TechWalks/imgs/016.jpg"
     alt="Photographic examples created with a Canon 24mm f/2.8 IS lens"
   >
   <figcaption>
@@ -305,7 +305,7 @@ It is useful for handheld filming, continuous shots, environmental compositions,
 
 ### Canon 35mm f/2
 
-![Canon 35mm f/2 lens](TechWalks/imgs/41.jpg)
+![Canon 35mm f/2 lens](TechWalks/imgs/017.jpg)
 
 A prime lens that provides a natural field of view.
 
@@ -316,7 +316,7 @@ It is suitable for handheld narrative filming, moving shots, environmental portr
 
 <figure class="media-card">
   <img
-    src="TechWalks/imgs/47.jpg"
+    src="TechWalks/imgs/018.jpg"
     alt="Photographic examples created with a Canon 35mm lens"
   >
   <figcaption>
