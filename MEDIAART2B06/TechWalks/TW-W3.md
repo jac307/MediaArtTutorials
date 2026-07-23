@@ -443,13 +443,6 @@ A histogram does not need to have one ideal shape. Its shape should reflect the 
 - A strong pile-up against the far left may indicate crushed shadows.
 - Information touching either edge requires careful review.
 
-For this assignment, use the histogram to:
-
-- Identify clipped highlights
-- Identify crushed shadows
-- Compare exposure between test recordings
-- Confirm that the exposure remains stable during a static shot
-
 > Protect important highlights while preserving the shadow detail required by the composition. It is often safer to retain highlight information than to record large areas as pure white.
 
 <div class="video-wrapper">
@@ -484,11 +477,7 @@ SECTION 5
 
 Set the controls in this order:
 
-1. **Shutter speed**
-2. **Aperture**
-3. **ISO**
-
-## Shutter speed
+## 1. Shutter speed
 
 For recording at `30 fps`, begin with a shutter speed of `1/60`.
 
@@ -516,7 +505,7 @@ Keep the shutter speed fixed unless there is a clear visual reason to change how
 
 </div>
 
-## Aperture
+## 2. Aperture
 
 After setting the shutter speed, select the aperture according to the required depth of field:
 
@@ -525,21 +514,10 @@ After setting the shutter speed, select the aperture according to the required d
 
 Each lens has a specific available aperture range. Use the closest practical value when your preferred aperture is not available.
 
-<div class="media-grid media-grid--two">
+![Lens markings showing the available aperture range at each shot](imgs/57.jpg)
 
-  <figure class="media-card">
-    <img src="imgs/57.jpg" alt="Lens markings showing an available aperture range">
-    <figcaption>Example of aperture information on a lens</figcaption>
-  </figure>
 
-  <figure class="media-card">
-    <img src="imgs/58.png" alt="Camera display showing aperture settings">
-    <figcaption>Example of aperture selection on the camera</figcaption>
-  </figure>
-
-</div>
-
-## ISO
+## 3. ISO
 
 Adjust ISO only after setting the shutter speed and aperture.
 
@@ -548,6 +526,8 @@ Adjust ISO only after setting the shutter speed and aperture.
 - Review darker areas carefully because higher ISO values make noise more visible.
 - Do not use ISO to compensate for clipped highlights.
 - Raising ISO cannot recreate image information that was not captured.
+
+![Camera display showing the selected ISO settings at each shot](imgs/58.png)
 
 ## Exposure checklist
 
