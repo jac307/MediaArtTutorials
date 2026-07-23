@@ -116,7 +116,7 @@ SECTION 2
 - A **shallow depth of field** keeps a limited area in focus while other areas appear blurred.
 - A **deep depth of field** keeps a larger area of the scene in focus.
 
-![Diagram illustrating shallow and deep depth of field](imgs/63.jpg)
+![Diagram illustrating shallow and deep depth of field](imgs/DetphIllustration.jpg)
 
 ## Factors that affect depth of field
 
@@ -378,7 +378,7 @@ Select each example to compare the image with its histogram.
 
 ## Common exposure problems
 
-![Examples of exposure problems in recorded images](imgs/64.png)
+![Examples of exposure problems in recorded images](imgs/ExposureProblems.png)
 
 ## Exposure controls
 
@@ -388,7 +388,7 @@ The three principal camera controls are:
 - **Aperture:** Controls the lens opening and affects both brightness and depth of field.
 - **ISO:** Controls how strongly the captured signal is amplified; higher values generally produce more visible noise.
 
-![Diagram explaining the relationship between shutter speed, aperture, and ISO](imgs/56.jpg)
+![Diagram explaining the relationship between shutter speed, aperture, and ISO](imgs/FullExposureDiagram.jpg)
 
 <div class="video-wrapper">
   <iframe
@@ -435,7 +435,7 @@ The histogram shows how brightness values are distributed across the image:
 - **Centre:** Midtones
 - **Right:** Highlights and brighter values
 
-![Camera display showing an exposure histogram](imgs/62.png)
+![Camera display showing an exposure histogram](imgs/ExposureHistogram.png)
 
 A histogram does not need to have one ideal shape. Its shape should reflect the intended scene. However:
 
@@ -514,9 +514,9 @@ After setting the shutter speed, select the aperture according to the required d
 
 Each lens has a specific available aperture range. Use the closest practical value when your preferred aperture is not available.
 
-![Lens markings showing the available aperture range at each shot](imgs/57.jpg)
+![Lens markings showing the available aperture range at each shot](imgs/ApertureProgression-1.jpg)
 
-![Camera display showing the selected ISO settings at each shot](imgs/58.png)
+![Camera display showing the selected ISO settings at each shot](imgs/ApertureProgression-2.png)
 
 ## 3. ISO
 
