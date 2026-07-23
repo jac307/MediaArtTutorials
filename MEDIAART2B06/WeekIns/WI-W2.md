@@ -96,7 +96,6 @@ SECTION 2
 /////////////////
 -->
 
-
 <details class="tutorial-section">
   <summary>
     <span class="section-title">2. Choose an interview prompt</span>

@@ -84,8 +84,7 @@ While reviewing the examples, consider:
 </div>
 </details>
 
-
-<!--
+<!-- 
 /////////////////
 SECTION 2
 /////////////////
@@ -93,7 +92,91 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Plan the scene</span>
+    <span class="section-title">2. Required equipment</span>
+    <span class="section-description">
+      Coordinate with your station group and book the required equipment before the recording session.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Equipment booking
+
+Pairs will be posted on Avenue to Learn before the recording session. Each pair is responsible for booking the equipment listed below.
+
+## Equipment checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Book and confirm the equipment for your station</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Two camera (Canon EOS Rebel T4i, Canon EOS Rebel T5i, or Canon EOS Rebel T7i)</strong>
+      Use one camera to record and the second as a backup in case a battery runs out. <strong>Important:</strong> The Canon EOS Rebel T7i uses a different battery type. When using a T7i, book two T7i cameras so that a compatible backup is available.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Lense</strong>
+      Choose and book one of the following lenses: `24 mm`, `35 mm`, or `50 mm`
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One tripod (Manfrotto - Large for DSLR Camera: 190XDB, Element MII, or 190D)</strong>
+      Only for one camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One Shutgun Microphone</strong>
+      Book one of these: RODE VideoMic NTG On-Camera Shotgun Microphone, RODE Shotgun (VIDEOMIC GO), RODE VideoMicro Compact On-Camera Microphone, Sennheiser Shotgun (MKE 400), or Sony Shotgun Cam Mount (ECM-MS908C).
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>ZOOM H4N Handheld</strong>
+      If not available, book ZOOM H4N Handheld PRO. 
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Two pairs of headphones</strong>
+      For monitoring audio from the camera and the ZOOM H4n. If not available, bring your own cable headphones.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One white balance card</strong>
+      For setting a consistent Custom White Balance across all three cameras. If not available, bring a white piece of paper. 
+    </span>
+  </label>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Plan the scene</span>
     <span class="section-description">
       Choose a location and define how framing, focal length, depth, duration, and environmental change will shape the recording.
     </span>
