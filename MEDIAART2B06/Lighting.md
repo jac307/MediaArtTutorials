@@ -211,7 +211,7 @@ SECTION 2
 
 ## Silver and white reflector
 
-![Silver and white collapsible reflector](TechWalks/imgs/85.jpg)
+![Silver and white collapsible reflector](TechWalks/imgs/029.jpg)
 
 A portable reflector redirects an existing light source without requiring electrical power.
 
@@ -238,7 +238,7 @@ Reflectors are useful for:
 
 ## Backdrops and support systems
 
-![Backdrop stand and background setup](TechWalks/imgs/87.jpg)
+![Backdrop stand and background setup](TechWalks/imgs/030.jpg)
 
 Backdrop systems control the visual background and reduce distractions within the frame.
 
