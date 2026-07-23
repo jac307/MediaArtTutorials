@@ -105,7 +105,7 @@ SECTION 2
 
 ## ZOOM H4n
 
-![ZOOM H4n handheld audio recorder](TechWalks/imgs/17.jpg)
+![ZOOM H4n handheld audio recorder](TechWalks/imgs/037.jpg)
 
 A portable recorder with built-in stereo microphones and two XLR inputs.
 
@@ -158,7 +158,7 @@ SECTION 3
 
 ## XLR cable
 
-![XLR audio cable](TechWalks/imgs/71.png)
+![XLR audio cable](TechWalks/imgs/038.png)
 
 A balanced professional audio cable used to connect microphones to recorders such as the ZOOM H4n.
 
@@ -168,7 +168,7 @@ A balanced professional audio cable used to connect microphones to recorders suc
 
 ## Sennheiser ME 80
 
-![Sennheiser ME 80 condenser shotgun microphone](TechWalks/imgs/70.jpg)
+![Sennheiser ME 80 condenser shotgun microphone](TechWalks/imgs/039.jpg)
 
 A highly directional condenser shotgun microphone used to isolate focused sound from a distance.
 
@@ -180,7 +180,7 @@ Connect it to the ZOOM H4n using an XLR cable. It may require phantom power.
 
 ## Azden SGM-1X
 
-![Azden SGM-1X professional shotgun microphone](TechWalks/imgs/78.jpg)
+![Azden SGM-1X professional shotgun microphone](TechWalks/imgs/040.jpg)
 
 A directional shotgun microphone suitable for dialogue, interviews, controlled narrative scenes, and boom operation.
 
@@ -198,7 +198,7 @@ A longer shotgun microphone designed for greater reach and focused sound capture
 
 ## Hydrophone
 
-![Hydrophone used for underwater sound recording](TechWalks/imgs/79.png)
+![Hydrophone used for underwater sound recording](TechWalks/imgs/041.png)
 
 A specialized microphone designed to record sound and vibrations travelling through water.
 
@@ -210,7 +210,7 @@ A specialized microphone designed to record sound and vibrations travelling thro
 
 ## DIY contact microphone
 
-![Contact microphone attached to a surface](TechWalks/imgs/80.jpg)
+![Contact microphone attached to a surface](TechWalks/imgs/042.jpg)
 
 A contact microphone records vibrations travelling through a solid surface rather than through the air.
 
