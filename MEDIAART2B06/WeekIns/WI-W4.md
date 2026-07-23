@@ -150,23 +150,25 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-Work with the same equipment-sharing group used during Week 3. Your group may use the same general location, but each student must develop and record an individual approach.
+Your partner and you may use the same general location, but each student must develop and record an individual approach.
 
-Select a route that moves from an **outdoor space into an indoor space** at a normal walking pace.
+Select a route that moves from an **outdoor space into an indoor space (or vice-versa)** at a normal walking pace.
 
 The route should take approximately **40–60 seconds** to complete so you can trim the beginning or end to create a final 30-second video.
 
 ## Route requirements
 
-- Include a clear transition from outdoor to indoor light.
+- Include a clear transition from outdoor to indoor light, or from indoor to outdoor light.
 - Use a door, entrance, corridor, or similar spatial threshold.
 - Avoid stairs.
 - Avoid running or abrupt movement.
 - Do not block doors, walkways, roads, or accessibility routes.
 - Confirm that another student can safely assist with opening doors when necessary.
 - Select a route that presents a meaningful difference between the brightest and darkest areas.
+- Consider the weather and available daylight on the day of recording when selecting the route.
+- Choose an indoor space that creates an exposure challenge without being almost completely dark in comparison with the exterior.
 
-> The route must create a clear exposure challenge. A route that remains under similar lighting conditions does not address the main technical objective of Week 4.
+> The route must create a clear exposure challenge. A route that remains under similar lighting conditions does not address the main technical objective of Week 4. However, the contrast should remain manageable. Avoid combining a very bright exterior with an almost completely dark interior, as this may produce a difference that cannot be controlled effectively during recording or corrected successfully in post-production.
 
 ## Develop your individual approach
 
@@ -232,7 +234,6 @@ Although equipment and general locations may be shared, decide individually:
 </div>
 </details>
 
-
 <!--
 /////////////////
 SECTION 4
@@ -241,83 +242,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Prepare and share the equipment</span>
-    <span class="section-description">
-      Confirm the camera, lens, batteries, and accessories before leaving the classroom.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Equipment may be shared within your Week 3 group, but every student must record their own footage.
-
-<fieldset class="equipment-checklist">
-  <legend>Confirm the equipment</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Camera and compatible backup camera</strong>
-      Confirm that both cameras use compatible batteries and that the backup is ready if the primary camera becomes unavailable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Compatible lens with Auto Focus and Image Stabilization</strong>
-      Review the lens controls and confirm that both <code>AF</code> and Image Stabilization are available.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Charged batteries</strong>
-      Confirm that the primary and backup cameras have sufficient power.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>SD cards</strong>
-      Confirm that each card has enough available storage for all individual recordings.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>White or grey balance card</strong>
-      Use the card when establishing a Custom White Balance.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record the equipment numbers.</strong>
-      Write down the identifying number of every item. Return each item to the correctly numbered bag or case.
-    </span>
-  </label>
-</fieldset>
-
-> Establish a recording order before leaving the classroom so every student has sufficient time to rehearse and record up to two takes.
-
-</div>
-</details>
-
-
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Configure the camera and rehearse the transition</span>
+    <span class="section-title">4. Configure the camera and rehearse the transition</span>
     <span class="section-description">
       Set the Week 4 camera controls, determine the required aperture range, and rehearse while monitoring the histogram.
     </span>
@@ -521,13 +446,13 @@ Follow the [W4 Technical Walkthrough](../TechWalks/TW-W4.md){:target="_blank"} t
 
 <!--
 /////////////////
-SECTION 6
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Record up to two complete takes</span>
+    <span class="section-title">5. Record up to two complete takes</span>
     <span class="section-description">
       Record an uninterrupted first-person movement from outdoors to indoors while adjusting the aperture.
     </span>
@@ -535,22 +460,7 @@ SECTION 6
 
 <div class="section-content" markdown="1">
 
-Each student may record a maximum of **two complete takes**.
-
-Each take must:
-
-- Last approximately 40–60 seconds
-- Begin outdoors
-- End indoors
-- Use a first-person point of view
-- Remain continuous
-- Use a handheld camera
-- Keep the shutter speed fixed at `1/60`
-- Keep the ISO set to Auto
-- Keep the selected White Balance fixed
-- Use Auto Focus
-- Include a planned aperture adjustment
-- Use the original sound from the camera
+Each student should record **two-three takes**.
 
 ## Recording rules
 
@@ -596,13 +506,13 @@ Complete all changes before beginning the second take.
 
 <!--
 /////////////////
-SECTION 7
+SECTION 6
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Save the files and return the equipment</span>
+    <span class="section-title">6. Save the files and return the equipment</span>
     <span class="section-description">
       Create two verified copies of every student’s footage before packing and returning the shared equipment.
     </span>
