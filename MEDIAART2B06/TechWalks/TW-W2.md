@@ -174,32 +174,25 @@ A three-point lighting setup uses three lights with different functions:
 
 ## Three-point lighting for chiaroscuro
 
+![Key Light Example of Arragement](imgs/ThreePointLight.png)
+
 For this activity, you will **adapt this setup to create a chiaroscuro effect**. The key light should remain dominant, while the fill and back lights should be used at lower intensities. This preserves strong contrast between light and shadow while maintaining selected details and separation within the frame.
 
 ### Key light
 
+![Key Light Example of Arragement](imgs/KeyLight.png)
+
 The **key light** is the primary light source.
 
 - Place it close to the subject
-- Position it slightly above eye level
+- Position it slightly above eye level or
+- A steeper side angle can produce stronger contrast across the face
 - Place it approximately 45–90 degrees to one side
 - Adjust the angle to create a clearly illuminated side and a shadowed side
 
-> A steeper side angle can produce stronger contrast across the face.
-
-### Fill light
-
-The **fill light** controls how much detail remains visible in the shadowed areas.
-
-- Place it opposite the key light
-- Use very low power (dimmer) to increase the effect of the chiaroscuro
-- Adjust it only enough to reveal selected shadow details
-- You may use a a softbox to control spill
-
-> Too much fill light will flatten the image and reduce the chiaroscuro effect.
-> A **softbox** surrounds the light with reflective material and places diffusion fabric in front of it. This softens and redirects the light.
-
 ### Back or rim light
+
+![Back Light Example of Arragement](imgs/BackLight.png)
 
 The **back light** separates the subject from the background.
 
@@ -207,7 +200,19 @@ The **back light** separates the subject from the background.
 - Aim it toward the edge of the hair, head, or shoulders
 - Keep the intensity low
 - Prevent the light from shining directly into the camera lens
-- You may use a a softbox to control spill
+
+### Fill light
+
+![Fill Light Example of Arragement](imgs/FillLight.png)
+
+The **fill light** controls how much detail remains visible in the shadowed areas.
+
+- Place it opposite the key light
+- Use very low power (dimmer) to increase the effect of the chiaroscuro
+- Adjust it only enough to reveal selected shadow details
+- Use a a softbox to control spill
+
+> A **softbox** surrounds the light with reflective material and places diffusion fabric in front of it. This softens and redirects the light.
 
 ## Set up the Fiilex P360 LED lights
 
