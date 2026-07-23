@@ -459,7 +459,7 @@ Move slowly and avoid unnecessary camera movement.
 Use **Manual Focus** for the interview.
 
 1. Move the focus switch on the lens from `AF` to `MF`.
-2. Magnify the image on the LCD screen.
+2. Magnify the image on the LCD screen using the Zoom buttons.
 3. Focus carefully on the subject’s eyes.
 4. Return to the full image.
 5. Ask the subject to remain near the marked position.
@@ -698,9 +698,9 @@ A wider aperture:
 - Helps separate the subject from the background
 - Supports the dramatic visual effect of chiaroscuro
 
-Each lens has a different available aperture range. Select the closest practical aperture when the same value is not available on every lens.
+Each lens has a different available aperture range. Select the closest practical value when the same aperture is not available on every lens.
 
-> Keep the aperture settings the same or as similar as possible across the three cameras.
+> Keep the aperture settings the same or as similar as possible on Cameras A and B. Camera C may require a different aperture when changing its framing, subject detail, or position within the lighting setup.
 
 <div class="video-wrapper">
   <iframe
@@ -755,6 +755,14 @@ Higher ISO settings can brighten the image, but they also introduce more visible
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>Set the shutter speed to <code>1/60</code>.</strong>
+      Keep the shutter speed consistent on Cameras A, B, and C to maintain similar motion across the footage.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>Set Cameras A and B to a similar aperture.</strong>
       Begin between approximately <code>f/2.8</code> and <code>f/5.6</code> to maintain consistent depth of field and exposure between the two static interview angles.
     </span>
@@ -771,14 +779,6 @@ Higher ISO settings can brighten the image, but they also introduce more visible
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Set the shutter speed to <code>1/60</code>.</strong>
-      Keep the shutter speed consistent on Cameras A, B, and C to maintain similar motion across the footage.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Begin at <code>ISO 400</code> on Cameras A and B.</strong>
       Increase ISO only after adjusting the lighting and aperture.
     </span>
@@ -789,14 +789,6 @@ Higher ISO settings can brighten the image, but they also introduce more visible
     <span>
       <strong>Adjust the ISO on Camera C when its position or framing changes.</strong>
       Different parts of the body may receive different amounts of light. Recheck the exposure and manually adjust the ISO before recording each new detail shot.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Turn Auto Exposure Bracketing off.</strong>
-      Confirm that only one exposure marker appears on the scale.
     </span>
   </label>
 
@@ -931,16 +923,16 @@ SECTION 8
 Record audio directly into two cameras:
 
 - **Camera A:** RØDE VideoMic NTG shotgun microphone
-- **Camera B:** One lapel microphone system
+- **Camera B:** RØDE Wireless GO II
 - **Camera C:** Camera reference audio only
 
-Review the [available microphones](../Audio.md){:target="_blank"} before selecting the equipment.
-
-Recording the main voice into two cameras provides an additional audio source if one microphone has a technical problem.
+> Recording the main voice into two cameras provides an additional audio source if one microphone has a technical problem.
 
 ## Camera A: RØDE VideoMic NTG
 
-Connect the RØDE VideoMic NTG to Camera A.
+Connect the RØDE VideoMic NTG to Camera A, then mount it on top of the camera using the microphone mount adapter.
+
+> **Important:** Open the camera’s audio settings and confirm that it is recording from the external microphone input, not the camera’s built-in microphone.
 
 <div class="video-wrapper">
   <iframe
@@ -951,20 +943,13 @@ Connect the RØDE VideoMic NTG to Camera A.
   </iframe>
 </div>
 
-Position the shotgun microphone:
+## Camera B: Lapel microphone / RØDE Wireless GO II
 
-- Close to the subject
-- Outside the camera frame
-- Pointed toward the subject’s upper chest or mouth
-- Away from loud equipment, ventilation systems, and reflective surfaces
+Connect the RØDE Wireless GO II receiver to Camera B. Turn on one transmitter and attach the lapel microphone near the interviewee’s collar or upper chest.
 
-## Camera B: Lapel microphone
+The microphone may be hidden beneath clothing, but make sure the fabric does not rub against it or obstruct the sound.  
 
-Connect one lapel microphone system to Camera B.
-
-Only one of the following systems is required.
-
-### RØDE Wireless GO II
+> **Important:** Open the camera’s audio settings and confirm that it is recording from the external microphone input, not the camera’s built-in microphone.
 
 <div class="video-wrapper">
   <iframe
@@ -975,30 +960,11 @@ Only one of the following systems is required.
   </iframe>
 </div>
 
-### Sennheiser Evolution Wireless G4
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
-    title="How to connect the Sennheiser Evolution Wireless G4 system to a camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Place the lapel microphone
-
-- Attach the microphone approximately 15–20 centimetres below the speaker’s mouth
-- Keep it away from necklaces, hair, scarves, and loose fabric
-- Hide or secure the cable when possible
-- Confirm that the transmitter and receiver are turned on
-- Check that the receiver is connected to the camera’s microphone input
-
 ## Monitor and test the audio
 
-Use headphones when the camera provides a headphone output.
+Connect headphones to Cameras A and B to monitor the audio in real time.
 
-Ask the subject to speak at the volume they will use during the interview.
+Ask the interviewee to speak at the volume they expect to use during the interview.  
 
 Listen for:
 
@@ -1032,7 +998,7 @@ Aim for healthy levels that remain below clipping. Speech peaks around `-12 dB` 
     <input type="checkbox">
     <span>
       <strong>Connect the shotgun microphone to Camera A.</strong>
-      Confirm that the cable is connected to the camera’s microphone input.
+      Confirm that the cable is connected to the camera’s microphone input and microphone is mounted on top of the camera.  
     </span>
   </label>
 
@@ -1040,15 +1006,7 @@ Aim for healthy levels that remain below clipping. Speech peaks around `-12 dB` 
     <input type="checkbox">
     <span>
       <strong>Connect one lapel system to Camera B.</strong>
-      Confirm that the transmitter and receiver are paired and turned on.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Position both microphones correctly.</strong>
-      Keep them close to the speaker and away from clothing or other noise sources.
+      Confirm that the transmitter and receiver are paired and turned on. Keep the microphone close to the speaker and away from clothing or other noise sources.
     </span>
   </label>
 
