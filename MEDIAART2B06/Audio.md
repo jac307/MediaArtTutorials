@@ -23,7 +23,7 @@ SECTION 1
 
 ## RØDE Wireless GO II
 
-![RØDE Wireless GO II microphone system](TechWalks/imgs/18.jpg)
+![RØDE Wireless GO II microphone system](TechWalks/imgs/031.jpg)
 
 A compact wireless microphone system used to record clear sound directly from a subject.
 
@@ -36,7 +36,7 @@ The system supports two transmitters through one receiver and includes onboard r
 
 ## RØDE VideoMic NTG
 
-![RØDE VideoMic NTG on-camera shotgun microphone](TechWalks/imgs/31.jpg)
+![RØDE VideoMic NTG on-camera shotgun microphone](TechWalks/imgs/032.jpg)
 
 A directional shotgun microphone that mounts on the camera and records sound from the area in front of the lens.
 
@@ -49,7 +49,7 @@ It provides clearer and more focused sound than the camera’s built-in micropho
 
 ## RØDE VideoMic GO
 
-![RØDE VideoMic GO on-camera microphone](TechWalks/imgs/76.jpg)
+![RØDE VideoMic GO on-camera microphone](TechWalks/imgs/033.jpg)
 
 A lightweight, plug-and-play shotgun microphone designed for mobile camera setups.
 
@@ -59,7 +59,7 @@ It records directional sound from the front of the camera and improves audio qua
 
 ## RØDE VideoMicro
 
-![RØDE VideoMicro compact microphone](TechWalks/imgs/77.jpg)
+![RØDE VideoMicro compact microphone](TechWalks/imgs/034.jpg)
 
 A compact directional microphone that mounts directly on the camera.
 
@@ -67,7 +67,7 @@ A compact directional microphone that mounts directly on the camera.
 
 ## Sennheiser MKE 400
 
-![Sennheiser MKE 400 on-camera microphone](TechWalks/imgs/81.jpg)
+![Sennheiser MKE 400 on-camera microphone](TechWalks/imgs/035.jpg)
 
 A compact directional microphone designed to record sound from the area in front of the camera.
 
@@ -77,7 +77,7 @@ It is suitable for interviews, documentary recording, handheld camera work, and 
 
 ## Sony ECM-MS908C
 
-![Sony ECM-MS908C camera-mounted microphone](TechWalks/imgs/82.jpg)
+![Sony ECM-MS908C camera-mounted microphone](TechWalks/imgs/036.jpg)
 
 A camera-mounted stereo microphone that records a wider environmental sound field.
 
