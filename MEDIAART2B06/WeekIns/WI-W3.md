@@ -272,6 +272,8 @@ SECTION 4
     </span>
   </summary>
 
+  <div class="section-content" markdown="1">
+
   ## Confirm the equipment before leaving the classroom
 
 <fieldset class="equipment-checklist">
