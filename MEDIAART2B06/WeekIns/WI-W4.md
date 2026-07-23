@@ -376,6 +376,8 @@ Follow the [W4 Technical Walkthrough](../TechWalks/TW-W4.md){:target="_blank"} t
   </label>
 </fieldset>
 
+> Record the aperture settings used for the brightest and darkest parts of the route. You will need this information for the final submission.
+
 ## Complete two technical rehearsals
 
 <fieldset class="equipment-checklist">
@@ -607,16 +609,6 @@ Edit the video and sound in **Adobe Premiere Pro**.
 
 Before beginning, review the [W4 Tutorials](../Tutorials/index.html?file=T-W4.json){:target="_blank"} and relevant tutorials from previous weeks.
 
-Pay particular attention to:
-
-- Importing and organizing footage
-- Lumetri Scopes
-- Lumetri Color
-- Exposure and colour keyframes
-- Audio levels
-- Titles and credits
-- H.264 exporting
-
 ## Create the sequence
 
 - **Resolution:** 1920 × 1080 pixels
@@ -673,7 +665,7 @@ Use only the original sound recorded by the camera.
 - Reduce unwanted noise when possible.
 - Check the Premiere Pro audio meters throughout the sequence.
 - Keep the final audio below clipping.
-- The master audio level must not reach <code>0 dB</code>.
+- The master audio level must not reach <code>-0.3 dB</code>.
 
 ## Titles and credits
 
@@ -724,9 +716,9 @@ SECTION 8
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">8. Create Version 2 and submit the project</span>
+    <span class="section-title">8. Create Version 2</span>
     <span class="section-description">
-      Duplicate the corrected sequence, use colour grading and music to create an expressive interpretation, and submit all project files.
+      Duplicate the corrected sequence, use colour grading and music to create an expressive interpretation.
     </span>
   </summary>
 
@@ -793,9 +785,19 @@ Colour changes should:
 
 You may add **openly licensed or public-domain music**.
 
-Before using the music:
+Music should support the rhythm and pacing of the work.
 
-- Confirm that the licence permits reuse.
+Royalty-free sources include:
+
+- [Freesound](https://freesound.org){:target="_blank"}
+- [Free Music Archive](https://freemusicarchive.org){:target="_blank"}
+- [Pixabay Music](https://pixabay.com/music/){:target="_blank"}
+- [Mixkit](https://mixkit.co/free-stock-music/){:target="_blank"}
+- [YouTube Audio Library](https://www.youtube.com/audiolibrary){:target="_blank"}
+
+You must: 
+
+- Check the licence and attribution requirements before using any audio.
 - Record the music title.
 - Record the creator’s name.
 - Record the source.
@@ -803,19 +805,11 @@ Before using the music:
 
 When editing the music:
 
-- Connect it to the intended feeling or narrative.
 - Use volume keyframes and fades.
 - Balance it with any natural sound you choose to keep.
 - Monitor the mix using headphones and Premiere Pro audio meters.
 - Keep the final mix below clipping.
-- The master audio level must not reach <code>0 dB</code>.
-
-You may:
-
-- Keep the natural camera sound beneath the music
-- Reduce the natural sound
-- Use selected moments of natural sound
-- Remove the natural sound when this supports the intended approach
+- The master audio level must not reach <code>-0.3 dB</code>.
 
 ## Titles and credits
 
@@ -839,6 +833,25 @@ The text must remain readable and appear over the continuous video image.
 - **Codec:** H.264
 - **Resolution:** 1920 × 1080 pixels
 - **Filename:** `Lastname-Name-ContinuousShot-Expressive.mp4`
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 9
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">9. Submit the project</span>
+    <span class="section-description">
+      Submit all project files.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
 
 ## Create the project information PDF
 
@@ -886,7 +899,6 @@ Export the document as:
 
 </div>
 </details>
-
 
 ---
 

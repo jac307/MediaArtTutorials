@@ -1433,7 +1433,13 @@ Royalty-free sources include:
 - [Mixkit](https://mixkit.co/free-stock-music/){:target="_blank"}
 - [YouTube Audio Library](https://www.youtube.com/audiolibrary){:target="_blank"}
 
-Check the licence and attribution requirements before using any audio.
+You must: 
+
+- Check the licence and attribution requirements before using any audio.
+- Record the music title.
+- Record the creator’s name.
+- Record the source.
+- Record the licence or required attribution.
 
 ## Export settings
 
