@@ -402,377 +402,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Video Recording in DSLR Cameras</span>
-    <span class="section-description">
-      Set resolution - aspect ratio, frame rate, and display grid.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Set Resolution, Aspect Ratio & Frame Rate
-
-- **Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.  
-- An **aspect ratio** describes the proportional relationship between the width and height of the image.  
-- **Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
-
-![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/30.png)
-
-### Steps
-
-1. Set the camera to Video mode.
-2. Press **Menu**.
-3. Navigate to the second video menu tab.
-4. Select **Movie recording size**.
-5. Choose the option showing **1920 × 1080 at 30 fps**.  
-
-![Canon camera video menu showing the Movie recording size option](imgs/27.png)
-
-## Activate Display Grid
-
-The grid helps maintain consistent framing, headroom, visual balance, and alignment.
-
-1. Press **Menu**.
-2. Navigate to the first video menu tab.
-3. Select **Grid display**.
-4. Choose **Grid 1**.
-
-![Canon camera menu showing the Grid 1 display option](imgs/35.JPG)
-
-## Video settings checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete on all three cameras</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the cameras to Video mode.</strong>
-      Confirm that all cameras are prepared to record video rather than still photographs.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the resolution to 1920 × 1080.</strong>
-      Use the same resolution on Cameras A, B, and C.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the frame rate to 30 fps.</strong>
-      Do not combine footage recorded at different frame rates.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the 16:9 aspect ratio.</strong>
-      The selected 1920 × 1080 recording size uses a 16:9 frame in all cameras.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Activate Grid 1.</strong>
-      Use the grid to compare framing across the three cameras.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Exposure Camera Settings</span>
-    <span class="section-description">
-      Control aperture and ISO while maintaining consistency across all three cameras.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Why use Manual mode?
-
-Set all three cameras to **Manual mode (`M`)**.
-
-Manual mode gives you direct control over:
-
-- **Aperture:** Controls how much light enters the camera and the depth of field.
-- **Shutter speed:** Controls how movement appears and how long each frame is exposed.
-- **ISO:** Controls image brightness; higher values produce more digital noise.
-
-Automatic settings may change while the subject moves or the framing changes. Manual settings help maintain consistent exposure throughout the interview and between cameras.
-
-### Quick Aperture, Shutter Speed, and ISO reference
-
-![Camera mode dial set to Manual mode](imgs/26.jpg)
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF"
-    title="How to use Manual mode on a Canon DSLR camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Aperture
-
-Begin with a relatively wide aperture, such as:
-
-- `f/2.8`
-- `f/4`
-- `f/5.6`
-
-A wider aperture:
-
-- Allows more light into the camera
-- Creates a shallower depth of field
-- Helps separate the subject from the background
-- Supports the dramatic visual effect of chiaroscuro
-
-Each lens has a different available aperture range. Select the closest practical aperture when the same value is not available on every lens.
-
-> Keep the aperture settings the same or as similar as possible across the three cameras.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://player.vimeo.com/video/19603662?h=1270ae8baa"
-    title="Introduction to aperture"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Shutter speed
-
-Set the shutter speed to:
-
-```text
-1/60 second
-```
-
-A shutter speed of `1/60` is appropriate for recording at 30 fps and helps maintain natural-looking movement.
-
-Avoid very slow shutter speeds that produce excessive motion blur.
-
-> Keep the same shutter speed across all three cameras.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://player.vimeo.com/video/19603537?h=7533f831d5"
-    title="Introduction to shutter speed"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## ISO
-
-Begin at:
-
-```text
-ISO 400
-```
-
-When the image remains too dark:
-
-1. Adjust the lights first.
-2. Confirm that the aperture is sufficiently wide.
-3. Increase ISO to `800`.
-4. Increase ISO to `1600` only when necessary.
-
-Higher ISO settings can brighten the image, but they also introduce more visible digital noise and reduce fine detail.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://player.vimeo.com/video/19603860?h=70853fa7d3"
-    title="Introduction to ISO"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Manual exposure checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete on all three cameras</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the shooting mode to <code>M</code>.</strong>
-      Manual mode prevents automatic exposure changes during recording.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the aperture between approximately <code>f/2.8</code> and <code>f/5.6</code>.</strong>
-      Use the same or closest available aperture across the cameras.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the shutter speed to <code>1/60</code>.</strong>
-      Keep this setting consistent on Cameras A, B, and C.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Begin at <code>ISO 400</code>.</strong>
-      Increase ISO only after adjusting the lighting and aperture.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Turn Auto Exposure Bracketing off.</strong>
-      Confirm that only one exposure marker appears on the scale.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Compare exposure across all three cameras.</strong>
-      Check the subject’s skin, highlights, shadows, and background.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 6
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Custom White Balance</span>
-    <span class="section-description">
-      Use a neutral reference card to create consistent colour and skin tones across all cameras.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## What is white balance?
-
-White balance adjusts how the camera records the colour of the light illuminating the scene.
-
-Automatic White Balance may change between cameras or during recording. For this activity, use **Custom White Balance** so the three cameras record the lighting and skin tones consistently.
-
-> A **3-in-1 balance card set (2 × 3 inches)** is available through the department rentals.
-
-## Set Custom White Balance
-
-Complete the following process separately on each camera after the lighting has been finalized:
-
-1. Place the neutral grey or white reference card where the subject will sit. You can use a white piece of paper or a balance card set.  
-2. Make sure the card/paper is illuminated by the same light that will illuminate the subject.
-3. Fill most of the frame with the reference card.
-4. Take a correctly exposed photograph of the card/paper.
-5. Open the camera menu.
-6. Select **Custom White Balance**.
-7. Choose the reference photograph.
-8. Set the camera’s White Balance mode to the **Custom White Balance** symbol.
-9. Repeat the process on Cameras A, B, and C.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_"
-    title="How to set Custom White Balance on a Canon DSLR camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-> Create the Custom White Balance only after the lights and their colour temperatures are in their final positions.
-
-## White-balance checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete on all three cameras</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Finalize the lighting first.</strong>
-      Do not change the light colour temperature after setting Custom White Balance.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Place the reference card at the subject’s position.</strong>
-      The card must receive the same light as the subject.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a Custom White Balance on Camera A.</strong>
-      Select the reference photograph and activate the Custom White Balance setting.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a Custom White Balance on Camera B.</strong>
-      Use the same reference card under the same lighting.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a Custom White Balance on Camera C.</strong>
-      Compare the colour of the subject across all three camera screens.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 7
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Multi-Camera Recording</span>
+    <span class="section-title">4. Multi-Camera Recording</span>
     <span class="section-description">
       Assign a distinct angle and framing purpose to each camera, then set Manual Focus.
     </span>
@@ -889,6 +519,392 @@ Use **Manual Focus** for the interview.
     <span>
       <strong>Remove equipment from every frame.</strong>
       Check for lights, stands, cables, microphones, bags, and other cameras.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Video Recording in DSLR Cameras</span>
+    <span class="section-description">
+      Set resolution - aspect ratio, frame rate, and display grid.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Set Resolution, Aspect Ratio & Frame Rate
+
+- **Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.  
+- An **aspect ratio** describes the proportional relationship between the width and height of the image.  
+- **Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
+
+![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/30.jpg)
+
+### Steps
+
+1. Set the camera to Video mode.
+2. Press **Menu**.
+3. Navigate to the second video menu tab.
+4. Select **Movie recording size**.
+5. Choose the option showing **1920 × 1080 at 30 fps**.  
+
+![Canon camera video menu showing the Movie recording size option](imgs/27.JPG)
+
+## Activate Display Grid
+
+The grid helps maintain consistent framing, headroom, visual balance, and alignment.
+
+1. Press **Menu**.
+2. Navigate to the first video menu tab.
+3. Select **Grid display**.
+4. Choose **Grid 1**.
+
+![Canon camera menu showing the Grid 1 display option](imgs/35.JPG)
+
+## Video settings checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete on all three cameras</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the cameras to Video mode.</strong>
+      Confirm that all cameras are prepared to record video rather than still photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the resolution to 1920 × 1080.</strong>
+      Use the same resolution on Cameras A, B, and C.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the frame rate to 30 fps.</strong>
+      Do not combine footage recorded at different frame rates.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the 16:9 aspect ratio.</strong>
+      The selected 1920 × 1080 recording size uses a 16:9 frame in all cameras.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Activate Grid 1.</strong>
+      Use the grid to compare framing across the three cameras.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Exposure Camera Settings</span>
+    <span class="section-description">
+      Control aperture and ISO while maintaining consistency across all three cameras.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Why use Manual mode?
+
+Set all three cameras to **Manual mode (`M`)**.
+
+Manual mode gives you direct control over:
+
+- **Aperture:** Controls how much light enters the camera and the depth of field.
+- **Shutter speed:** Controls how movement appears and how long each frame is exposed.
+- **ISO:** Controls image brightness; higher values produce more digital noise.
+
+Automatic settings may change while the subject moves or the framing changes. Manual settings help maintain consistent exposure throughout the interview and between cameras.
+
+### Quick Aperture, Shutter Speed, and ISO reference
+
+![Camera mode dial set to Manual mode](imgs/26.jpg)
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/euA77VgM7kk?si=9673vNm8RtF2CmBF"
+    title="How to use Manual mode on a Canon DSLR camera"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Shutter speed
+
+Set the shutter speed to:
+
+```text
+1/60 second
+```
+
+A shutter speed of `1/60` is appropriate for recording at 30 fps and helps maintain natural-looking movement.
+
+Avoid very slow shutter speeds that produce excessive motion blur.
+
+> Keep the same shutter speed across all three cameras.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://player.vimeo.com/video/19603537?h=7533f831d5"
+    title="Introduction to shutter speed"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Aperture
+
+Begin with a relatively wide aperture, such as:
+
+- `f/2.8`
+- `f/4`
+- `f/5.6`
+
+A wider aperture:
+
+- Allows more light into the camera
+- Creates a shallower depth of field
+- Helps separate the subject from the background
+- Supports the dramatic visual effect of chiaroscuro
+
+Each lens has a different available aperture range. Select the closest practical aperture when the same value is not available on every lens.
+
+> Keep the aperture settings the same or as similar as possible across the three cameras.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://player.vimeo.com/video/19603662?h=1270ae8baa"
+    title="Introduction to aperture"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## ISO
+
+Begin at:
+
+```text
+ISO 400
+```
+
+When the image remains too dark:
+
+1. Adjust the lights first.
+2. Confirm that the aperture is sufficiently wide.
+3. Increase ISO to `800`.
+4. Increase ISO to `1600` only when necessary.
+
+Higher ISO settings can brighten the image, but they also introduce more visible digital noise and reduce fine detail.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://player.vimeo.com/video/19603860?h=70853fa7d3"
+    title="Introduction to ISO"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Manual exposure checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Set and compare the exposure on all three cameras</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shooting mode to <code>M</code>.</strong>
+      Manual mode prevents the camera from changing exposure automatically during recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Cameras A and B to a similar aperture.</strong>
+      Begin between approximately <code>f/2.8</code> and <code>f/5.6</code> to maintain consistent depth of field and exposure between the two static interview angles.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the aperture on Camera C for each detail shot.</strong>
+      The handheld camera may require a higher f-number for additional depth of field or a wider aperture when recording a darker area of the subject.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shutter speed to <code>1/60</code>.</strong>
+      Keep the shutter speed consistent on Cameras A, B, and C to maintain similar motion across the footage.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin at <code>ISO 400</code> on Cameras A and B.</strong>
+      Increase ISO only after adjusting the lighting and aperture.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the ISO on Camera C when its position or framing changes.</strong>
+      Different parts of the body may receive different amounts of light. Recheck the exposure and manually adjust the ISO before recording each new detail shot.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn Auto Exposure Bracketing off.</strong>
+      Confirm that only one exposure marker appears on the scale.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Compare the exposure across all three cameras.</strong>
+      Check the subject’s skin, highlights, shadows, and background. Camera C does not need identical settings, but its footage should remain visually compatible with Cameras A and B.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Custom White Balance</span>
+    <span class="section-description">
+      Use a neutral reference card to create consistent colour and skin tones across all cameras.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## What is white balance?
+
+White balance adjusts how the camera records the colour of the light illuminating the scene.
+
+Automatic White Balance may change between cameras or during recording. For this activity, use **Custom White Balance** so the three cameras record the lighting and skin tones consistently.
+
+> A **3-in-1 balance card set (2 × 3 inches)** is available through the department rentals.
+
+## Set Custom White Balance
+
+Complete the following process separately on each camera after the lighting has been finalized:
+
+1. Place the neutral grey or white reference card where the subject will sit. You can use a white piece of paper or a balance card set.  
+2. Make sure the card/paper is illuminated by the same light that will illuminate the subject.
+3. Fill most of the frame with the reference card.
+4. Take a correctly exposed photograph of the card/paper.
+5. Open the camera menu.
+6. Select **Custom White Balance**.
+7. Choose the reference photograph.
+8. Set the camera’s White Balance mode to the **Custom White Balance** symbol.
+9. Repeat the process on Cameras A, B, and C.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/QwZGrSQ2IFI?si=hfWZiGNOUDEp6Zo_"
+    title="How to set Custom White Balance on a Canon DSLR camera"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+> Create the Custom White Balance only after the lights and their colour temperatures are in their final positions.
+
+## White-balance checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete on all three cameras</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Finalize the lighting first.</strong>
+      Do not change the light colour temperature after setting Custom White Balance.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the reference card at the subject’s position.</strong>
+      The card must receive the same light as the subject.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a Custom White Balance on Camera A.</strong>
+      Select the reference photograph and activate the Custom White Balance setting.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a Custom White Balance on Camera B.</strong>
+      Use the same reference card under the same lighting.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a Custom White Balance on Camera C.</strong>
+      Compare the colour of the subject across all three camera screens.
     </span>
   </label>
 </fieldset>
