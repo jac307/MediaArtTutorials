@@ -138,7 +138,7 @@ Together, these controls affect:
 - Image noise
 - Visual continuity
 
-![Exposure Triangle](imgs/56.jpg)
+![Exposure Triangle](imgs/FullExposureDiagram.jpg)
 
 [Watch the Exposure Triangle tutorial](https://www.youtube.com/watch?v=r33iwr0nrjU){:target="_blank"}
 
@@ -159,7 +159,7 @@ For example, reducing the light by one stop with the aperture can be balanced by
 
 ## Aperture and stops
 
-![Aperture and f-stop reference](imgs/66.jpg)
+![Aperture and f-stop reference](imgs/FullApertureChart.jpg)
 
 [Download the F-Stop Chart](imgs/F-Stop-Chart.pdf){:target="_blank"}
 
@@ -196,7 +196,7 @@ During the Week 4 continuous shot:
 
 ## Shutter speed and stops
 
-![Shutter-speed reference](imgs/67.jpg)
+![Shutter-speed reference](imgs/FullShutterChart.jpg)
 
 [Download the Shutter Speed Chart](imgs/Shutter-Chart.pdf){:target="_blank"}
 
@@ -358,56 +358,18 @@ Image Stabilization can reduce some unwanted handheld movement, but it does not:
 
 Maintain a stable posture, bend your knees slightly, keep your elbows close to your body, and move carefully.
 
-</div>
-</details>
-
 ## Configure the exposure controls and white balance
 
 <fieldset class="equipment-checklist">
   <legend>Prepare the camera for changing exposure</legend>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the shutter speed to <code>1/60</code>.</strong>
-      Keep the shutter speed fixed throughout the complete shot to maintain consistent motion blur while recording at <code>30 fps</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the ISO to Auto.</strong>
-      Auto ISO allows the camera to respond to smaller changes in brightness while you manually control the aperture.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set a fixed white balance.</strong>
-      Use <strong>Daylight White Balance</strong> or establish a <strong>Custom White Balance</strong> with a white or grey balance card. Test the setting in both the indoor and outdoor areas before recording.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the white balance unchanged during the shot.</strong>
-      Do not use Auto White Balance. Automatic adjustments may create distracting colour shifts as the camera moves between indoor and outdoor lighting.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use the aperture as the main manual exposure control.</strong>
-      Adjust the aperture while moving between the darker and brighter parts of the route.
-    </span>
-  </label>
+  <!-- checklist items -->
 </fieldset>
 
 > Auto ISO supports the exposure transition, but it does not replace careful monitoring. Continue watching the image, meter, and histogram while recording. A visible change in colour temperature between the indoor and outdoor spaces is acceptable when the white balance remains fixed and the change reflects the actual lighting conditions.
+
+</div>
+</details>
 
 
 <!--
@@ -498,7 +460,7 @@ There is no single correct histogram shape.
 - High-contrast scenes may contain information across the complete histogram.
 - A histogram does not need to be centred or evenly distributed.
 
-![Example of histogram information](imgs/68.png)
+![Example of histogram information](imgs/Histogram-Examples.png)
 
 ## Highlight and shadow priority
 
