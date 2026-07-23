@@ -86,19 +86,10 @@ This film uses an embodied, subjective camera perspective. Its handheld movement
 
 > **Content warning:** This film contains explicit imagery, drug use, sexuality, flashing lights, and intense visual effects that may be disorienting.
 
-While reviewing the examples, consider:
-
-- How does the camera move through space?
-- What makes the movement feel embodied?
-- How are doors, corridors, and entrances used as transition points?
-- What happens to exposure when the camera moves between different lighting conditions?
-- How does the camera direct attention without using cuts?
-
 </div>
 </details>
 
-
-<!--
+<!-- 
 /////////////////
 SECTION 2
 /////////////////
@@ -106,7 +97,52 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Plan the route and exposure transition</span>
+    <span class="section-title">2. Required equipment</span>
+    <span class="section-description">
+      Coordinate with your partner and book the required equipment before the recording session.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Equipment booking
+
+Groups will be posted on Avenue to Learn before the recording session. Each pair is responsible for booking the equipment listed below.
+
+## Equipment checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Book and confirm the equipment</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Two camera (Canon EOS Rebel T4i, Canon EOS Rebel T5i, or Canon EOS Rebel T7i)</strong>
+      Use one camera to record and the second as a backup in case a battery runs out. <strong>Important:</strong> The Canon EOS Rebel T7i uses a different battery type. When using a T7i, book two T7i cameras so that a compatible backup is available.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One white balance card</strong>
+      For setting a consistent Custom White Balance across all three cameras. If not available, bring a white piece of paper. 
+    </span>
+  </label>
+  </fieldset>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Plan the route and exposure transition</span>
     <span class="section-description">
       Select a safe outdoor-to-indoor route and determine how framing, movement, and aperture will change throughout the shot.
     </span>
@@ -199,13 +235,13 @@ Although equipment and general locations may be shared, decide individually:
 
 <!--
 /////////////////
-SECTION 3
+SECTION 4
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Prepare and share the equipment</span>
+    <span class="section-title">4. Prepare and share the equipment</span>
     <span class="section-description">
       Confirm the camera, lens, batteries, and accessories before leaving the classroom.
     </span>
@@ -275,13 +311,13 @@ Equipment may be shared within your Week 3 group, but every student must record 
 
 <!--
 /////////////////
-SECTION 4
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Configure the camera and rehearse the transition</span>
+    <span class="section-title">5. Configure the camera and rehearse the transition</span>
     <span class="section-description">
       Set the Week 4 camera controls, determine the required aperture range, and rehearse while monitoring the histogram.
     </span>
@@ -485,13 +521,13 @@ Follow the [W4 Technical Walkthrough](../TechWalks/TW-W4.md){:target="_blank"} t
 
 <!--
 /////////////////
-SECTION 5
+SECTION 6
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Record up to two complete takes</span>
+    <span class="section-title">6. Record up to two complete takes</span>
     <span class="section-description">
       Record an uninterrupted first-person movement from outdoors to indoors while adjusting the aperture.
     </span>
@@ -560,13 +596,13 @@ Complete all changes before beginning the second take.
 
 <!--
 /////////////////
-SECTION 6
+SECTION 7
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Save the files and return the equipment</span>
+    <span class="section-title">7. Save the files and return the equipment</span>
     <span class="section-description">
       Create two verified copies of every student’s footage before packing and returning the shared equipment.
     </span>
