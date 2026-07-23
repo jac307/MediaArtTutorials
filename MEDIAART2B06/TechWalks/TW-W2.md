@@ -267,16 +267,16 @@ Keep the colour temperature consistent across all lights unless a deliberate col
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Add minimal fill light.</strong>
-      Keep the fill dim enough to preserve the shadowed areas.
+      <strong>Position the back light.</strong>
+      Create a controlled rim of light around selected areas of the subject.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Position the back light.</strong>
-      Create a controlled rim of light around selected areas of the subject.
+      <strong>Add minimal fill light.</strong>
+      Keep the fill dim enough to preserve the shadowed areas.
     </span>
   </label>
 
@@ -318,63 +318,33 @@ SECTION 3
   <summary>
     <span class="section-title">3. Video Recording in DSLR Cameras</span>
     <span class="section-description">
-      Set every camera to the required resolution, frame rate, aspect ratio, and display grid.
+      Set resolution - aspect ratio, frame rate, and display grid.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-All three cameras must use matching recording settings.
+## Set Resolution, Aspect Ratio & Frame Rate
 
-## Required video settings
+- **Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.  
+- An **aspect ratio** describes the proportional relationship between the width and height of the image.  
+- **Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
 
-- **Camera mode:** Video
-- **Aspect ratio:** 16:9
-- **Resolution:** 1920 × 1080
-- **Frame rate:** 30 fps
-- **Grid display:** Grid 1
+![Canon camera menu showing 1920 by 1080 recording at 30 frames per second](imgs/30.png)
 
-An **aspect ratio** describes the proportional relationship between the width and height of the image.
-
-**Resolution** describes the image dimensions in pixels. A resolution of 1920 × 1080 uses a 16:9 aspect ratio.
-
-**Frame rate** describes the number of individual images recorded each second. A frame rate of 30 fps records 30 frames per second.
-
-## Set the recording size
+### Steps
 
 1. Set the camera to Video mode.
 2. Press **Menu**.
 3. Navigate to the second video menu tab.
 4. Select **Movie recording size**.
-5. Choose the option showing **1920 × 1080 at 30 fps**.
+5. Choose the option showing **1920 × 1080 at 30 fps**.  
 
-<div class="media-grid media-grid--two">
+![Canon camera video menu showing the Movie recording size option](imgs/27.png)
 
-  <figure class="media-card">
-    <img
-      src="imgs/27.JPG"
-      alt="Canon camera video menu showing the Movie recording size option"
-    >
-    <figcaption>
-      Locate Movie recording size in the video menu
-    </figcaption>
-  </figure>
+## Activate Display Grid
 
-  <figure class="media-card">
-    <img
-      src="imgs/30.jpg"
-      alt="Canon camera menu showing 1920 by 1080 recording at 30 frames per second"
-    >
-    <figcaption>
-      Select 1920 × 1080 at 30 fps
-    </figcaption>
-  </figure>
-
-</div>
-
-## Activate the grid display
-
-The grid helps maintain consistent framing, headroom, visual balance, and alignment across the cameras.
+The grid helps maintain consistent framing, headroom, visual balance, and alignment.
 
 1. Press **Menu**.
 2. Navigate to the first video menu tab.
