@@ -72,17 +72,17 @@ Wide-angle lenses make changes in camera distance especially noticeable.
 <div class="media-grid media-grid--three">
 
   <figure class="media-card">
-    <img src="imgs/53.gif" alt="Outdoor scene recorded using the first distance and lens combination">
+    <img src="imgs/LensComparison-4.gif" alt="Outdoor scene recorded using the first distance and lens combination">
     <figcaption>Distance and lens comparison 1</figcaption>
   </figure>
 
   <figure class="media-card">
-    <img src="imgs/52.gif" alt="Outdoor scene recorded using the second distance and lens combination">
+    <img src="imgs/LensComparison-5.gif" alt="Outdoor scene recorded using the second distance and lens combination">
     <figcaption>Distance and lens comparison 2</figcaption>
   </figure>
 
   <figure class="media-card">
-    <img src="imgs/54.gif" alt="Outdoor scene recorded using the third distance and lens combination">
+    <img src="imgs/LensComparison-6.gif" alt="Outdoor scene recorded using the third distance and lens combination">
     <figcaption>Distance and lens comparison 3</figcaption>
   </figure>
 
@@ -489,17 +489,17 @@ Keep the shutter speed fixed unless there is a clear visual reason to change how
 <div class="media-grid media-grid--three">
 
   <figure class="media-card">
-    <img src="imgs/59.gif" alt="Motion recorded using the first shutter-speed example">
+    <img src="imgs/ShutterComparison-1.gif" alt="Motion recorded using the first shutter-speed example">
     <figcaption>Shutter-speed comparison 1</figcaption>
   </figure>
 
   <figure class="media-card">
-    <img src="imgs/61.gif" alt="Motion recorded using the second shutter-speed example">
+    <img src="imgs/ShutterComparison-2.gif" alt="Motion recorded using the second shutter-speed example">
     <figcaption>Shutter-speed comparison 2</figcaption>
   </figure>
 
   <figure class="media-card">
-    <img src="imgs/60.gif" alt="Motion recorded using the third shutter-speed example">
+    <img src="imgs/ShutterComparison-3.gif" alt="Motion recorded using the third shutter-speed example">
     <figcaption>Shutter-speed comparison 3</figcaption>
   </figure>
 
