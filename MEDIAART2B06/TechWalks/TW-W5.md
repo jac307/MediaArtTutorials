@@ -8,17 +8,6 @@ This technical walkthrough focuses on setting up and coordinating multiple audio
 
 > **Live Foley** is the creation of sound effects in real time by physically producing sounds that correspond with actions shown in a video.
 
-By the end of this session, you should be able to:
-
-- Set up multiple audio-recording devices
-- Select an appropriate microphone for each type of sound
-- Coordinate audio recording with camera placement
-- Configure three cameras for visual documentation
-- Position lighting to keep all actions visible
-- Synchronize the audio and video recordings
-- Capture a clean and clearly documented live Foley performance
-
-
 <!--
 /////////////////
 SECTION 1
@@ -36,6 +25,8 @@ SECTION 1
 <div class="section-content" markdown="1">
 
 For this project, your group will perform live Foley using different objects and materials to generate sound.
+
+![Foley Examples](imgs/Foley-Examples.jpg)
 
 Possible materials and actions include:
 
@@ -169,7 +160,9 @@ All audio devices must be:
 
 The three devices serve different purposes and should capture complementary sound perspectives.
 
-## Audio Device 1 — Sennheiser ME 80 detail microphone
+## Audio Device 1 — Condenser Microphone
+
+![Condenser Microphone Placement](imgs/CondMic-Placement.png)
 
 ### Purpose
 
@@ -186,14 +179,14 @@ Examples include:
 
 ### Setup
 
-- Mount the **Sennheiser ME 80** on a microphone stand.
-- Connect it to a **ZOOM H4n** using an **XLR-to-XLR cable**.
-- Confirm whether the microphone requires phantom power.
-- Direct the microphone toward the object producing the subtle sound.
-- Position it close to the object without allowing the microphone to touch it.
-- Keep it away from louder Foley objects whenever possible.
-- Monitor the signal using headphones.
-- Begin with a low input level and adjust it after testing the loudest expected action.
+1. Mount the **Sennheiser ME 80** on a microphone stand.
+2. Connect it to a **ZOOM H4n** using an **XLR-to-XLR cable**.
+3. Confirm whether the microphone requires phantom power.
+4. Direct the microphone toward the object producing the subtle sound.
+5. Position it close to the object without allowing the microphone to touch it.
+6. Keep it away from louder Foley objects whenever possible.
+7. Monitor the signal using headphones.
+8. Begin with a low input level and adjust it after testing the loudest expected action.
 
 > The Sennheiser ME 80 is the **detail microphone**. Its position should prioritize one specific area or group of subtle sounds rather than the entire Foley station.
 
