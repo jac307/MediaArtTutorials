@@ -249,26 +249,7 @@ Use the three lights to create strong contrast between light and shadow:
 
 > Handle all lighting equipment carefully. Keep stands stable and organize cables so they do not obstruct doors, walkways, or accessibility routes.
 
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Configure the cameras and audio</span>
-    <span class="section-description">
-      Assign a distinct role to each camera, set manual exposure, and test the external microphones.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Standard three-camera setup
+## Set up Multi-Camera Recording and Audio equipment
 
 When recording with multiple cameras, each camera should have a distinct purpose within the overall visual coverage. For this activity, you will follow a standard three-camera setup, using complementary angles and shot types rather than creating three nearly identical images.
 
@@ -285,7 +266,8 @@ When recording with multiple cameras, each camera should have a distinct purpose
 - Position the camera near eye level.
 - Use it as the primary visual anchor for the edited sequence.
 - Set the lens to **Manual Focus**.
-- Mount the **RØDE VideoMic NTG** on top of the camera using the microphone mount adapter, then connect it to the camera’s external microphone input.
+- Mount the **RØDE VideoMic NTG** on top of the camera using the microphone mount adapter, then connect it to the camera’s external microphone input. 
+- In the camera’s audio settings, select the external microphone to receive audio.
 
 ### Camera B: secondary angle
 
@@ -295,7 +277,7 @@ When recording with multiple cameras, each camera should have a distinct purpose
 - Connect the **RØDE Wireless GO II receiver** to the camera.
 - Turn on one Wireless GO II **transmitter** and attach the lapel microphone near the interviewee’s collar or upper chest.
 - The microphone may be hidden beneath clothing, but fabric must not rub against or obstruct it.
-- Open the camera’s audio settings and confirm that it is recording from the **external microphone input**, not the built-in microphone.
+- In the camera’s audio settings, select the external microphone to receive audio.
 
 ### Camera C: handheld detail camera
 
@@ -304,42 +286,64 @@ When recording with multiple cameras, each camera should have a distinct purpose
 - Set the lens to **Manual Focus**.
 - Treat the camera’s audio as reference sound rather than the primary interview recording.
 
-## Manual exposure reminders
+</div>
+</details>
 
-- **Aperture:** Controls how much light enters the camera and the depth of field.
-- **Shutter speed:** Controls how movement appears and how long each frame is exposed.
-- **ISO:** Controls image brightness; higher values produce more digital noise.
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Configure Camera settings</span>
+    <span class="section-description">
+      Assign a distinct role to each camera, set manual exposure, and test the external microphones.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## General camera settings
+
+- **Camera mode:** Video
+- **Aspect ratio:** 16:9
+- **Resolution:** 1920 × 1080
+- **Frame rate:** 30 fps
+- **Grid display:** Grid 1
+
+## Exposure Settings
+
+Set the following controls in this order:
+
+1. **White balance:** Controls how the camera interprets the colour of the light.
+2. **Shutter speed:** Controls how movement appears and how long each frame is exposed.
+3. **Aperture:** Controls how much light enters the camera and the depth of field.
+4. **ISO:** Adjusts image brightness; higher values produce more digital noise.
 
 Each lens has a different available aperture range. Select the closest practical value when the same aperture is not available on every lens.
 
-> Keep the aperture settings the same or as similar as possible on Cameras A and B. Camera C may require a different aperture when changing its framing, subject detail, or position within the lighting setup.
+> Keep the white balance and shutter speed consistent across all three cameras. Keep the aperture settings the same or as similar as possible on Cameras A and B. Camera C may require a different aperture or ISO when its framing, subject detail, or position within the lighting setup changes.
 
 ## Manual exposure checklist
 
 <fieldset class="equipment-checklist">
-  <legend>Set and compare the exposure on all three cameras</legend>
+  <legend>Set and compare the camera settings in this order</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Set the shooting mode to <code>M</code>.</strong>
-      Manual mode prevents the camera from changing exposure automatically during recording.
+      Manual mode prevents the camera from changing the exposure automatically during recording.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Set Cameras A and B to a similar aperture.</strong>
-      Begin between approximately <code>f/2.8</code> and <code>f/5.6</code> to maintain consistent depth of field and exposure between the two static interview angles.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Adjust the aperture on Camera C for each type of detail shot.</strong>
-      The handheld camera may require a higher f-number for additional depth of field or a wider aperture when recording a darker area of the interviewee.
+      <strong>Set the Custom White Balance on all three cameras.</strong>
+      Use the white balance established for the final lighting setup and keep it consistent across Cameras A, B, and C.
     </span>
   </label>
 
@@ -347,7 +351,23 @@ Each lens has a different available aperture range. Select the closest practical
     <input type="checkbox">
     <span>
       <strong>Set the shutter speed to <code>1/60</code>.</strong>
-      Keep the shutter speed consistent on Cameras A, B, and C to maintain similar motion across the footage.
+      Set this value before adjusting the aperture or ISO. Keep it consistent across all three cameras to maintain similar motion.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Cameras A and B to a similar aperture.</strong>
+      Begin between approximately <code>f/2.8</code> and <code>f/5.6</code>. Select the closest practical value when the same aperture is not available on both lenses.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the aperture on Camera C for each detail shot.</strong>
+      The handheld camera may require a higher f-number for greater depth of field or a wider aperture when recording a darker area of the interviewee.
     </span>
   </label>
 
@@ -355,7 +375,7 @@ Each lens has a different available aperture range. Select the closest practical
     <input type="checkbox">
     <span>
       <strong>Begin at <code>ISO 400</code> on Cameras A and B.</strong>
-      Increase ISO only after adjusting the lighting and aperture.
+      Adjust the ISO only after setting the shutter speed, aperture, and lighting.
     </span>
   </label>
 
@@ -363,23 +383,15 @@ Each lens has a different available aperture range. Select the closest practical
     <input type="checkbox">
     <span>
       <strong>Adjust the ISO on Camera C when its position or framing changes.</strong>
-      Different parts of the body may receive different amounts of light. Recheck the exposure and manually adjust the ISO before recording each new detail shot.
+      Different areas of the body may receive different amounts of light. Recheck the exposure before recording each new detail shot.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Turn Auto Exposure Bracketing off.</strong>
-      Confirm that only one exposure marker appears on the scale.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Compare the exposure across all three cameras.</strong>
-      Check the interviewee’s skin, highlights, shadows, and background. Camera C does not need identical settings, but its footage should remain visually compatible with Cameras A and B.
+      <strong>Compare the image across all three cameras.</strong>
+      Check the colour balance, skin, highlights, shadows, and background. Camera C may use different exposure settings, but its footage should remain visually compatible with Cameras A and B.
     </span>
   </label>
 </fieldset>
@@ -412,14 +424,6 @@ Before recording the interview:
     <span>
       <strong>Confirm the video format.</strong>
       All three cameras are set to 1920 × 1080 pixels, 16:9, and 30 fps.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the white balance.</strong>
-      All three cameras use the Custom White Balance established for the lighting setup.
     </span>
   </label>
 
@@ -510,7 +514,7 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Return the equipment</span>
+    <span class="section-title">6. Return the equipment</span>
     <span class="section-description">
       Confirm every numbered component, repack the equipment, and leave the station ready for collection.
     </span>
