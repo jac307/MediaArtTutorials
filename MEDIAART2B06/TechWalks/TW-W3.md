@@ -516,6 +516,7 @@ Each lens has a specific available aperture range. Use the closest practical val
 
 ![Lens markings showing the available aperture range at each shot](imgs/57.jpg)
 
+![Camera display showing the selected ISO settings at each shot](imgs/58.png)
 
 ## 3. ISO
 
@@ -527,20 +528,18 @@ Adjust ISO only after setting the shutter speed and aperture.
 - Do not use ISO to compensate for clipped highlights.
 - Raising ISO cannot recreate image information that was not captured.
 
-![Camera display showing the selected ISO settings at each shot](imgs/58.png)
-
 ## Exposure checklist
 
 <fieldset class="equipment-checklist">
   <legend>Set and verify the manual exposure</legend>
 
   <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the shutter speed to <code>1/60</code>.</strong>
-      Establish consistent motion rendering before adjusting brightness with the other controls.
-    </span>
-  </label>
+  <input type="checkbox">
+  <span>
+    <strong>Select the shutter speed according to the intended visual approach.</strong>
+    Begin with <code>1/60</code> as a standard setting for recording at <code>30 fps</code>. You may choose a slower shutter speed to emphasize motion blur or a faster shutter speed to render movement more sharply. Define the artistic purpose of this choice and keep the setting consistent throughout the shot.
+  </span>
+</label>
 
   <label class="checklist-item">
     <input type="checkbox">
