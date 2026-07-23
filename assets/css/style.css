@@ -1321,21 +1321,23 @@ main:focus-visible {
   min-width: 0;
 }
 
-.exposure-example-list .photo-reveal-card__image {
-  aspect-ratio: 16 / 9;
+.tutorial-content
+  .exposure-example-list
+  .photo-reveal-card__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: auto;
 }
 
-.exposure-example-list .photo-reveal-card__image img,
 .tutorial-content
   .exposure-example-list
   .photo-reveal-card__image
   img {
   display: block;
   width: 100%;
-  height: 100%;
+  height: auto;
   margin: 0;
-  object-fit: cover;
-  object-position: center;
+  object-fit: contain;
 }
 
 .exposure-example-list .photo-reveal-card__description {
