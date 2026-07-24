@@ -601,7 +601,7 @@ The lighting plan should identify:
 
   <figure class="media-card">
     <img
-      src="imgs/122.jpg"
+      src="imgs/Light-Artificial.jpg"
       alt="Example of a scene illuminated with artificial film lighting"
     >
     <figcaption>
@@ -611,7 +611,7 @@ The lighting plan should identify:
 
   <figure class="media-card">
     <img
-      src="imgs/123.jpg"
+      src="imgs/Light-Practical.jpg"
       alt="Example of a visible practical light illuminating a scene"
     >
     <figcaption>
@@ -621,7 +621,7 @@ The lighting plan should identify:
 
   <figure class="media-card">
     <img
-      src="imgs/124.jpg"
+      src="imgs/Light-Natural.jpg"
       alt="Example of a scene illuminated primarily by natural daylight"
     >
     <figcaption>
@@ -631,7 +631,7 @@ The lighting plan should identify:
 
   <figure class="media-card">
     <img
-      src="imgs/125.jpg"
+      src="imgs/Light-Natural2.jpg"
       alt="Additional example of natural or ambient light shaping a scene"
     >
     <figcaption>
