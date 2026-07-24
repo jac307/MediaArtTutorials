@@ -12,7 +12,7 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section" id="logline">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">1. Logline</span>
     <span class="section-description">
@@ -22,7 +22,7 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-## Write a one-sentence logline
+<h2 id="logline">Write a one-sentence logline</h2>
 
 A **logline** is a single-sentence summary that communicates the central dramatic action and emotional shift of a film.
 
@@ -77,7 +77,7 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section" id="script">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">2. Script</span>
     <span class="section-description">
@@ -87,7 +87,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Develop a visual script
+<h2 id="script">Develop a visual script</h2>
 
 A script is a **production document** that translates the logline into clear, shootable action.
 
@@ -230,7 +230,7 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section" id="storyboard">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">3. Annotated Storyboard</span>
     <span class="section-description">
@@ -240,7 +240,7 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## Translate the script into shots
+<h2 id="storyboard">Translate the script into shots</h2>
 
 An annotated storyboard translates the script into a **visual production plan**.
 
@@ -634,7 +634,7 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section" id="scouting">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">4. Location Scouting</span>
     <span class="section-description">
@@ -644,7 +644,7 @@ SECTION 4
 
 <div class="section-content" markdown="1">
 
-## Evaluate the production location
+<h2 id="scouting">Evaluate the production location</h2>
 
 **Location scouting** is the process of selecting and evaluating the physical space where the film will be recorded.
 

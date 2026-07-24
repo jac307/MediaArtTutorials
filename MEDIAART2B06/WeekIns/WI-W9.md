@@ -300,50 +300,6 @@ Examples:
 
 Do not correct the issues while watching. Identify them first, then return to the Premiere Pro sequence.
 
-<fieldset class="equipment-checklist">
-  <legend>Draft-assembly check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Place the complete story in sequence.</strong>
-      Follow the script and storyboard order.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the first assembly simple.</strong>
-      Do not add detailed trimming, effects, sound design, or decorative transitions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the assembly under two minutes.</strong>
-      Remove clearly unusable or unrelated material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export the temporary assembly.</strong>
-      Save <code>ProjectName_DraftAssembly.mp4</code> inside <code>03_Renders</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record at least three revision notes.</strong>
-      Identify problems before beginning rhythm refinement.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -417,50 +373,6 @@ Watch the export from beginning to end.
 Identify at least **three remaining rhythm issues**, then return to the sequence and make small timing adjustments.
 
 Do not over-edit. A change of a few frames may be enough.
-
-<fieldset class="equipment-checklist">
-  <legend>Rhythm-refinement check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Duplicate the assembly sequence.</strong>
-      Preserve the original draft assembly before making detailed changes.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Address the recorded revision notes.</strong>
-      Correct the clarity, order, repetition, and duration problems.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Refine individual cuts.</strong>
-      Adjust the sequence using purposeful frame-level timing decisions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Reduce the duration.</strong>
-      Keep the rough cut at approximately one minute and no longer than 1 minute, 10 seconds.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export the rhythm pass.</strong>
-      Save <code>ProjectName_RhythmPass.mp4</code> inside <code>03_Renders</code>.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -865,50 +777,6 @@ Save the PDF inside:
 |---|---|
 | Rough Cut Export | `Lastname_Firstname_RoughCut.mp4` |
 | Rough Cut Information Sheet | `Lastname_Firstname_RoughCut.pdf` |
-
-<fieldset class="equipment-checklist">
-  <legend>Rough-cut export check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the rough preview.</strong>
-      Check the full sequence without stopping before making final corrections.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the final duration.</strong>
-      Keep the sequence approximately one minute and no longer than 1 minute, 10 seconds.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export the final rough cut.</strong>
-      Save <code>Lastname_Firstname_RoughCut.mp4</code> inside <code>04_Exports</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create the information sheet.</strong>
-      Save <code>Lastname_Firstname_RoughCut.pdf</code> inside <code>00_ProjectFiles</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the exported MP4.</strong>
-      Confirm image, sound, duration, aspect ratio, and filename.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>

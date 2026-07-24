@@ -12,7 +12,7 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section" id="review">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">1. Review and Organize the Footage</span>
     <span class="section-description">
@@ -22,7 +22,7 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-## Review before editing
+<h2 id="review">Review before editing</h2>
 
 Watch all recorded footage before placing clips in the timeline. Editors first evaluate the available material so they understand the technical quality, performance, action, and possible connections between shots.
 
@@ -114,7 +114,7 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section" id="draft-assembly">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">2. Build the Draft Assembly</span>
     <span class="section-description">
@@ -124,7 +124,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## What is an assembly edit?
+<h2 id="draft-assembly">What is an assembly edit?</h2>
 
 The **assembly edit** is the first complete arrangement of the selected shots. Its purpose is to reveal the basic structure of the film and show how the recorded material works as a continuous sequence.
 
@@ -179,7 +179,7 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section" id="temporary-sequence">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">3. Export and Review a Temporary Sequence</span>
     <span class="section-description">
@@ -189,7 +189,7 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## Why export during editing?
+<h2 id="temporary-sequence">Why export during editing?</h2>
 
 Watching an exported file changes how you experience the sequence. Problems that are difficult to notice while repeatedly stopping and adjusting the timeline often become clearer during uninterrupted playback.
 
@@ -258,7 +258,7 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section" id="pacing-rhythm">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">4. Refine Pacing and Rhythm</span>
     <span class="section-description">
@@ -268,7 +268,7 @@ SECTION 4
 
 <div class="section-content" markdown="1">
 
-## Pacing and rhythm
+<h2 id="pacing-rhythm">Pacing and rhythm</h2>
 
 **Pacing** refers to how long individual shots and actions remain on screen.
 
@@ -402,7 +402,7 @@ SECTION 5
 /////////////////
 -->
 
-<details class="tutorial-section" id="visual-consistency">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">5. Establish Basic Visual Consistency</span>
     <span class="section-description">
@@ -412,7 +412,7 @@ SECTION 5
 
 <div class="section-content" markdown="1">
 
-## Colour correction and colour grading
+<h2 id="visual-consistency">Colour correction and colour grading</h2>
 
 Shots recorded in the same scene may differ because of changing light, camera position, exposure, or white balance.
 
@@ -489,7 +489,7 @@ SECTION 6
 /////////////////
 -->
 
-<details class="tutorial-section" id="basic-sound-integration">
+<details class="tutorial-section">
   <summary>
     <span class="section-title">6. Integrate Basic Production Sound in Premiere Pro</span>
     <span class="section-description">
@@ -499,7 +499,7 @@ SECTION 6
 
 <div class="section-content" markdown="1">
 
-## Sound requirements for the rough cut
+<h2 id="basic-sound-integration">Sound requirements for the rough cut</h2>
 
 After establishing the visual structure and rhythm, integrate the production sound needed to make the sequence understandable and continuous.
 
