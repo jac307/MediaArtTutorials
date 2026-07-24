@@ -379,7 +379,7 @@ Shot type describes the camera’s distance from the subject. It determines how 
 
   <figure class="media-card">
     <img
-      src="imgs/96.jpg"
+      src="imgs/Shot-FS.jpg"
       alt="Full shot showing the subject's entire body"
     >
     <figcaption>
@@ -389,7 +389,7 @@ Shot type describes the camera’s distance from the subject. It determines how 
 
   <figure class="media-card">
     <img
-      src="imgs/97.jpg"
+      src="imgs/Shot-MWS.jpg"
       alt="Medium wide shot framing a subject from approximately the knees upward"
     >
     <figcaption>
@@ -399,7 +399,7 @@ Shot type describes the camera’s distance from the subject. It determines how 
 
   <figure class="media-card">
     <img
-      src="imgs/98.jpg"
+      src="imgs/Shot-MS.jpg"
       alt="Medium shot framing a subject from approximately the waist upward"
     >
     <figcaption>
