@@ -702,151 +702,142 @@ After the lights are in place, set the camera exposure manually.
 </div>
 </details>
 
-
 <!--
 /////////////////
 SECTION 6
 /////////////////
 -->
 
-<!-- <details class="tutorial-section">
+<details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Synchronize and record the Foley performance</span>
+    <span class="section-title">Record and review a complete test run</span>
     <span class="section-description">
-      Start all devices, create a synchronization point, record the complete performance, and verify the files before dismantling the setup.
+      Record a full rehearsal using every camera and audio device, then review the framing, lighting, exposure, focus, and sound levels before the final take.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Because the performance is being captured by multiple independent cameras and audio recorders, you must create a clear synchronization point at the beginning of every take.
+After positioning the cameras, microphones, lights, and monitor, record a **complete test run** of the Foley performance.
 
-## Assign production roles
+The test run should include the complete sequence rather than isolated technical tests. This allows the group to identify problems that may occur only when all performers, objects, cameras, microphones, and lights are working together.
 
-Before recording, identify who will:
+## Prepare the devices
 
-- Operate each camera
-- Monitor each ZOOM recorder
-- Monitor Camera A’s audio
-- Start the reference video
-- Perform the Foley actions
-- Announce the take
-- Create the synchronization clap
-- Watch for technical problems
+Before beginning the test run:
 
-## Start the devices
+- Confirm that all three cameras are recording at `1920 × 1080`, `30 fps`.
+- Confirm that each camera is set to Manual Mode (`M`).
+- Keep the shutter speed fixed at `1/60`.
+- Set the aperture and ISO manually after positioning the lights.
+- Do not use Auto ISO.
+- Confirm that all cameras use a fixed White Balance.
+- Confirm that the three camera frames are focused.
+- Confirm that both ZOOM H4n recorders are set to `WAV 48 kHz / 24-bit`.
+- Connect headphones to both ZOOM recorders.
+- Confirm that Camera B is receiving sound from the connected shotgun microphone.
+- Confirm that Camera A is recording reference sound with its built-in microphone.
+- Check that all SD cards have enough available recording space.
+- Check that all devices have sufficient battery power.
 
-Begin recording in this order:
+## Record the test run
 
-1. Start the Sennheiser ME 80 ZOOM recorder.
-2. Start the ambient ZOOM recorder.
-3. Start Camera A.
-4. Start Camera B.
-5. Start Camera C.
-6. Confirm verbally that every device is recording.
-7. Start the reference video only after all devices are ready.
+Start every camera and audio recorder before beginning the rehearsal.
 
-## Create a synchronization point
+1. Announce the group name and indicate that this is the test run.
+2. Create one clear synchronization clap within view of all three cameras.
+3. Start the reference video.
+4. Perform the complete Foley sequence.
+5. Use all objects and materials planned for the final recording.
+6. Include both the quietest and loudest Foley actions.
+7. Keep every device recording until the complete sequence has finished.
+8. Wait several seconds before stopping the cameras and audio recorders.
 
-At the beginning of each take:
+> The test run should reproduce the conditions of the final recording as closely as possible.
 
-- Announce the project or group name.
-- Announce the take number.
-- Perform one clear hand clap within view of all three cameras.
-- Make the clap loud enough to be recorded by all three audio devices.
-- Pause briefly after the clap.
-- Begin the reference video and Foley performance.
+## Check the audio recordings
 
-The visible hand movement and sharp sound will create a shared synchronization point during editing.
+Listen to the test recordings using headphones.
 
-## Record the performance
+Check that:
 
-During the take:
+- The Sennheiser ME 80 clearly captures the subtle Foley sounds.
+- The shotgun microphone connected to Camera B captures the intended sound-producing area.
+- The overhead ZOOM H4n captures the overall Foley performance.
+- Camera A’s built-in microphone records a clear synchronization reference.
+- The quiet sounds remain audible.
+- The loudest sounds do not peak or clip.
+- There is no distortion.
+- There is no excessive handling noise.
+- Cables are not creating tapping, rubbing, or movement noise.
+- The monitor or computer sound is not audible in the recordings.
+- The synchronization clap is clearly recorded by every device.
 
-- Keep all devices recording continuously.
-- Do not adjust cameras unless a technical failure occurs.
-- Monitor the ZOOM recorders using headphones.
-- Watch for clipped audio.
-- Watch for performers or equipment leaving the camera frames.
-- Keep the monitor visible to all performers.
-- Continue until the complete Foley sequence has finished.
-- Wait several seconds before stopping the devices.
+Adjust the microphone position or input level when necessary, then record another test.
 
-## Review the files
+> Set the input levels according to the loudest moment in the performance. Clipped sound cannot be repaired during editing.
 
-Before dismantling the setup:
+## Check the camera recordings
 
-<fieldset class="equipment-checklist">
-  <legend>Verify the complete recording</legend>
+Review the complete test from all three cameras.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Camera A recorded the complete take and external microphone audio.</strong>
-    </span>
-  </label>
+Check that:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Camera B recorded the complete take.</strong>
-    </span>
-  </label>
+- Camera A shows the complete Foley station.
+- Camera B provides a clear side perspective.
+- Camera C clearly shows the objects and hand movements from behind or above.
+- All important sound-producing actions remain within the frame.
+- Performers do not block important objects.
+- Cameras, microphones, stands, lights, and the monitor do not appear unintentionally in the frame.
+- The image remains in focus throughout the performance.
+- The exposure remains consistent.
+- The aperture and ISO settings provide sufficient visibility without excessive image noise.
+- The cameras have similar exposure and White Balance settings.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Camera C recorded the complete take.</strong>
-    </span>
-  </label>
+Do not use Auto ISO to correct exposure differences. Adjust the lighting, aperture, or manual ISO setting before recording another test.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Sennheiser detail recording is present and audible.</strong>
-    </span>
-  </label>
+## Check the lighting
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The ambient ZOOM recording is present and audible.</strong>
-    </span>
-  </label>
+Review how the lighting appears from all three camera positions.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The synchronization clap is visible and audible on every recording.</strong>
-    </span>
-  </label>
+Check that:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>No audio recording is clipped or distorted.</strong>
-    </span>
-  </label>
+- The fill light illuminates most of the Foley station.
+- The soft box creates broad and controlled illumination.
+- The key light keeps the performers clearly visible.
+- The back light creates subtle separation from the dark background.
+- Hands, objects, and working surfaces remain visible.
+- Important actions are not hidden by heavy shadows.
+- Bright objects are not overexposed.
+- Reflective objects do not create distracting glare.
+- The lighting remains consistent throughout the performance.
+- Light stands and cables remain outside the camera frames and active walkways.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All required objects and Foley actions remain visible.</strong>
-    </span>
-  </label>
+Adjust the position or intensity of the lights before changing the camera exposure.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All files have been copied and backed up before formatting any card.</strong>
-    </span>
-  </label>
-</fieldset>
+After changing the lighting:
 
-> Do not dismantle the setup until the recordings from all three cameras and all three audio devices have been checked.
+1. Recheck the aperture.
+2. Recheck the manual ISO.
+3. Confirm the focus.
+4. Record another complete test run.
+
+## Check the performance and monitor
+
+Confirm that:
+
+- Every performer can see the reference monitor.
+- Performers do not need to turn away from the Foley objects.
+- The monitor remains outside all three camera frames.
+- The performers can complete each action at the required moment.
+- Objects are positioned within comfortable reach.
+- Movements do not create accidental collisions or unwanted noise.
+- The complete sequence can be performed without interruption.
+
+> Record as many complete test runs as necessary. Begin the final recording only after the framing, focus, exposure, lighting, sound levels, synchronization, and performance timing have been reviewed and corrected.
 
 </div>
-</details> -->
+</details>
 
 ---
 
