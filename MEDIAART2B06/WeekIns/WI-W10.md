@@ -13,38 +13,17 @@ This week includes two connected stages:
 1. **Rough-cut screening and critique**
 2. **Sound-design production**
 
-The critique focuses on the clarity and structure of the visual edit. The production stage focuses on creating an organized library of ambience, Foley, sound effects, music, and revised production audio.
-
 > Attendance, participation, and active engagement during the screening and critique are part of the project rubric.
 
 ## Project overview
 
 - **Project type:** Individual
 - **In-class activity:** Rough-cut screening and critique
-- **Screening format:** Small critique groups
-- **Revision goal:** Confirm picture lock before Week 12
 - **Sound-production goal:** Gather and prepare the source materials for the final sound design
-- **Primary software:** Adobe Premiere Pro
-- **Optional advanced repair:** Adobe Audition for an individual audio file
+- **Revision goal:** Confirm picture lock before Week 12
 - **Required audio format:** WAV
 - **Audio standard:** 48 kHz / 24-bit
 - **Music:** Instrumental only
-- **Submission:** Sound Design Production Package as a ZIP file
-- **Required filename:** `Lastname_Firstname_SoundDesignProduction.zip`
-
-## Sound categories
-
-The Sound Design Production Package may include:
-
-| Audio type | Function |
-|---|---|
-| **ProdAudio** | Production sound recorded during filming |
-| **Ambience** | Background sound that establishes a location or acoustic environment |
-| **Foley** | Custom-recorded sound synchronized with visible physical actions |
-| **SFX** | Sourced or designed sound effects used to reinforce specific moments |
-| **Music** | Instrumental music used as a supporting emotional layer |
-
-Music must not replace visual storytelling. A strong sound design should combine environmental and action-based sounds rather than relying only on music.
 
 ## Project stages
 
@@ -77,24 +56,6 @@ Check Avenue to Learn for:
 - The room or station
 - Any additional instructions
 
-## Prepare the rough cut
-
-Before class, confirm that:
-
-- The complete sequence is approximately one minute long.
-- The shot order is clear.
-- Basic production sound is present.
-- The film can be played without missing media.
-- The exported MP4 opens and plays correctly.
-- The filename follows the required W9 protocol.
-
-Bring:
-
-- The rough-cut MP4
-- The Premiere Pro project
-- The complete organized project folder
-- A backup copy of the rough cut
-
 ## Review your own work
 
 Watch the rough cut from beginning to end before class.
@@ -105,42 +66,6 @@ Prepare to identify:
 - One area where you need feedback
 - One technical or structural concern
 - Any shot that you may need to replace or re-record
-
-<fieldset class="equipment-checklist">
-  <legend>Screening preparation check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the screening group.</strong>
-      Check Avenue to Learn for the assigned group, time, and location.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test the rough-cut MP4.</strong>
-      Open the file and watch it from beginning to end.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Bring the Premiere Pro project.</strong>
-      Confirm that the project opens without missing media.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare one feedback question.</strong>
-      Identify a specific area where peer responses would help the revision.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -212,42 +137,6 @@ After your screening, collect:
 
 Do not assume that every suggestion must be followed. Compare the comments and identify repeated concerns.
 
-<fieldset class="equipment-checklist">
-  <legend>Critique participation check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Present the rough cut.</strong>
-      Introduce the title and the specific feedback question.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Contribute to every discussion.</strong>
-      Provide specific and constructive observations to the other students.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record the feedback received.</strong>
-      Keep the peer, instructor, and TA comments for the revision stage.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify repeated concerns.</strong>
-      Prioritize issues noticed by more than one viewer.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -282,9 +171,9 @@ Focus on:
 
 ## Prioritize the revisions
 
-Create a short revision list organized by priority.
+Create a short revision list organized by priority:
 
-### Essential revisions
+### 1. Essential revisions
 
 Problems that prevent the film from being understood or completed:
 
@@ -295,7 +184,7 @@ Problems that prevent the film from being understood or completed:
 - Missing ending
 - Excessive duration
 
-### Important revisions
+### 2. Important revisions
 
 Problems that weaken the film but do not prevent comprehension:
 
@@ -305,7 +194,7 @@ Problems that weaken the film but do not prevent comprehension:
 - Visible brightness or white-balance jumps
 - Abrupt action transitions
 
-### Optional refinements
+### 3. Optional refinements
 
 Small improvements that can be completed after the essential work:
 
@@ -340,42 +229,6 @@ Complete picture lock before beginning the detailed sound design and final colou
 
 > No additional submission is required for the visual revisions this week. Bring the updated Premiere Pro project and organized project folder to Week 12.
 
-<fieldset class="equipment-checklist">
-  <legend>Picture-lock preparation check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a prioritized revision list.</strong>
-      Separate essential, important, and optional changes.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Revise the sequence structure and pacing.</strong>
-      Resolve clarity, duration, continuity, and repetition problems.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Replace or re-record unusable material.</strong>
-      Match the existing production conditions as closely as possible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm picture lock.</strong>
-      Finalize the shot order and duration before Week 12.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -402,6 +255,18 @@ Review:
 
 Watch the most recent version of the sequence and identify every moment that requires sound.
 
+## Use multiple sound layers
+
+| Audio type | Function |
+|---|---|
+| **ProdAudio** | Production sound recorded during filming |
+| **Ambience** | Background sound that establishes a location or acoustic environment |
+| **Foley** | Custom-recorded sound synchronized with visible physical actions |
+| **SFX** | Sourced or designed sound effects used to reinforce specific moments |
+| **Music** | Instrumental music used as a supporting emotional layer |
+
+> Music must not replace visual storytelling. A strong sound design should combine environmental and action-based sounds rather than relying only on music.
+
 ## Build a sound cue list
 
 Create a planning document or table.
@@ -426,55 +291,6 @@ Identify:
 - Changes between interior and exterior spaces
 - Moments of deliberate silence
 
-## Use multiple sound layers
-
-A developed sound design may combine:
-
-- Room tone
-- Environmental ambience
-- Production sound
-- Foley
-- Sound effects
-- Music
-
-Do not plan a soundtrack that consists only of music.
-
-<fieldset class="equipment-checklist">
-  <legend>Sound-analysis check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Watch the complete revised sequence.</strong>
-      Analyze the sound needs from beginning to end.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a timecoded cue list.</strong>
-      Identify the required sound and its role in the scene.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the existing production audio.</strong>
-      Mark the files that can be reused and the files that require replacement or repair.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Plan several sound layers.</strong>
-      Include environmental and action-based sound rather than relying only on music.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -486,7 +302,7 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Record Foley and ambience</span>
+    <span class="section-title">5. Record Foley and Ambience Sounds</span>
     <span class="section-description">
       Create original WAV recordings that match the actions, materials, locations, and acoustic character of the film.
     </span>
@@ -502,11 +318,9 @@ All recordings must be:
 - 48 kHz
 - 24-bit
 
-## Foley
+## Foley Examples
 
 Foley is custom-recorded sound created to match visible physical actions.
-
-Examples:
 
 | Visual action | Possible Foley recording |
 |---|---|
@@ -516,11 +330,9 @@ Examples:
 | Opening a bag | Zipper, buckle, fabric, or object movement |
 | Door interaction | Handle, hinge, latch, opening, and closing |
 
-## Ambience
+## Ambience Examples
 
 Ambience establishes the location and acoustic environment.
-
-Examples:
 
 - Room tone
 - Wind
@@ -530,26 +342,6 @@ Examples:
 - Interior mechanical sound
 - Birds or natural background sound
 - Subtle environmental textures
-
-## Recording method
-
-1. Record in the quietest practical environment.
-2. Position the microphone close enough for a clear signal.
-3. Monitor with headphones.
-4. Set levels according to the loudest part of the sound.
-5. Record multiple takes.
-6. Leave 1–2 seconds before and after the intended sound.
-7. Announce or note the sound and take number.
-8. Review the recording before changing the setup.
-
-Record different performances when the sound must change in:
-
-- Speed
-- Weight
-- Intensity
-- Material
-- Distance
-- Rhythm
 
 ## Preserve the original recordings
 
@@ -743,72 +535,94 @@ SECTION 7
 
 <div class="section-content" markdown="1">
 
-## Prepare the files in Premiere Pro
+## Prepare the individual sound files
 
-Complete the sound preparation in **Adobe Premiere Pro**.
+Use **any audio-editing software** to review, trim, and clean each sound file individually.
 
-Do not build the final sound mix yet.
+Do **not** synchronize, layer, or mix the complete soundtrack yet. The final sound design will be completed after picture lock in Week 12.
 
-Create a sequence named:
+For each sound:
 
-```text
-ProjectName_SoundPreparation
-```
+1. Listen to the complete original recording.
+2. Select the strongest take.
+3. Trim unnecessary material from the beginning and end.
+4. Keep a short amount of sound before and after the intended action.
+5. Remove or reduce distracting noise when necessary.
+6. Adjust the volume only when the recording is clearly too quiet or too loud.
+7. Avoid creative effects, reverberation, heavy compression, or other processing that changes the character of the original sound.
+8. Export the prepared file as **WAV at 48 kHz**.
+9. Open the exported file and confirm that it plays correctly.
+10. Preserve an unchanged copy of the original recording.
 
-Use:
+<fieldset class="equipment-checklist">
+  <legend>Individual sound-preparation checklist</legend>
 
-- **Audio sample rate:** 48 kHz
-- A separate section or track for each sound category
-- Clear clip labels and markers
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Select the strongest take.</strong>
+      Listen to the complete recording and choose the clearest and most useful version.
+    </span>
+  </label>
 
-For each file:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Trim the file.</strong>
+      Remove unnecessary material while keeping short handles before and after the intended sound.
+    </span>
+  </label>
 
-1. Import the original recording.
-2. Listen to the complete file.
-3. Select the strongest take.
-4. Trim unnecessary material at the beginning and end.
-5. Preserve short handles around the intended sound.
-6. Apply Clip Gain when the level is clearly too low or high.
-7. Apply only necessary corrective processing.
-8. Avoid heavy compression, limiting, reverberation, or creative effects.
-9. Export the prepared sound as WAV, 48 kHz, 24-bit.
-10. Confirm that the exported file opens and plays correctly.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Clean the recording when necessary.</strong>
+      Reduce distracting noise, clicks, handling sounds, or other unwanted material without changing the sound excessively.
+    </span>
+  </label>
 
-Possible corrective tools include:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the level when necessary.</strong>
+      Correct files that are clearly too quiet or too loud, but do not complete the final mix.
+    </span>
+  </label>
 
-- Clip Gain
-- Essential Sound
-- DeNoise
-- Parametric Equalizer
-- High-pass filtering
-- Short fades
-- Audio meters
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Avoid creative processing.</strong>
+      Do not add reverberation, stylized effects, heavy compression, or other processing intended for the final sound design.
+    </span>
+  </label>
 
-Do not synchronize, layer, or mix the complete soundtrack yet. The final sound design will be built after picture lock in Week 12.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Export the prepared sound.</strong>
+      Save each cleaned and trimmed file as WAV at <code>48 kHz</code>.
+    </span>
+  </label>
 
-## Optional advanced repair in Adobe Audition
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Verify the exported file.</strong>
+      Open and listen to the WAV file to confirm that it plays correctly and contains the intended sound.
+    </span>
+  </label>
 
-Premiere Pro remains the primary sound-preparation workspace.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Preserve the original recording.</strong>
+      Keep an unchanged copy of every source file.
+    </span>
+  </label>
+</fieldset>
 
-Use **Edit Clip in Adobe Audition** only when one individual file requires advanced repair, such as:
-
-- Removing an isolated click
-- Repairing a short damaged section
-- Reducing consistent background noise
-- Editing the waveform with greater precision
-
-1. Select the individual audio clip in Premiere Pro.
-2. Right-click the clip.
-3. Select **Edit Clip in Adobe Audition**.
-4. Complete the repair.
-5. Save the file.
-6. Return to Premiere Pro.
-7. Confirm that the linked file updated correctly.
-8. Export the prepared WAV from the Sound Preparation sequence.
-
-Do not send the complete sequence to Audition.
-
-## Rename the files
+## Name the files
 
 Use:
 
@@ -893,7 +707,6 @@ Compress the complete main folder as:
 ```text
 Lastname_Firstname_SoundDesignProduction.zip
 ```
-
 Do not compress the subfolders separately.
 
 ## Required submission
@@ -914,69 +727,6 @@ Before submitting:
 8. Submit through Avenue to Learn.
 
 > Follow the submission protocol carefully. An incorrect filename, missing credit information, inaccessible file, unsupported audio format, or incomplete folder structure may result in a **1-point deduction**.
-
-<fieldset class="equipment-checklist">
-  <legend>Sound Design Production submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare each sound in Premiere Pro.</strong>
-      Trim, review, correct, and export each selected file as WAV 48 kHz / 24-bit.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use Audition only for advanced individual repair.</strong>
-      Do not transfer the complete sequence or begin the final mix.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Rename every audio file.</strong>
-      Follow the project, audio-type, description, and take-number protocol.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Complete the Audio Credits PDF.</strong>
-      Include the creator, source, URL, licence, and access date.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Build the complete folder structure.</strong>
-      Keep all six required subfolders inside <code>02_Audio</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Open and verify the ZIP.</strong>
-      Confirm that the PDF and WAV files remain accessible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit through Avenue to Learn.</strong>
-      Verify that the correct ZIP file was uploaded.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
 
 ---
 
