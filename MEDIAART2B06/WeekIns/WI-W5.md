@@ -451,7 +451,7 @@ For detailed camera placement and framing instructions, follow the [W5 Live Fole
 |---|---|---|---|
 | **Camera A** | Default zoom lens | Tripod | Main front wide shot |
 | **Camera B** | Short focal-length or wide-angle lens | Tripod | Side wide shot with shotgun microphone |
-| **Camera C** | Available station lens | Tripod | Back or overhead view |
+| **Camera C** | Default lens or additional ones | Tripod | Back or overhead view |
 
 ## Set up the three lights
 
@@ -752,37 +752,6 @@ Each project group will record **two or three complete takes**.
 - While another group records, remain at the station and provide technical and production support.
 
 Each project group is responsible for the quality of its own recordings.
-
-## Before each take
-
-Each group may adjust:
-
-- Object placement
-- Performer positions
-- The detail-microphone position
-- Camera framing
-- Focus
-- Light intensity
-- Aperture
-- Manual ISO
-
-Keep the following consistent:
-
-- **Shutter speed:** `1/60`
-- **Custom White Balance:** Do not change it after the lighting setup is established
-- **Light positions:** Do not move the stands after the station setup is finalized unless approved
-
-Before recording:
-
-- Confirm that every object is within reach.
-- Confirm that all performers can see the monitor.
-- Confirm that every device has sufficient battery power and storage.
-- Confirm that the ZOOM recorders are set to WAV 48 kHz / 24-bit.
-- Test the loudest planned sound.
-- Check every camera frame.
-- Check focus, aperture, and manual ISO.
-- Confirm that Camera B is receiving the shotgun-microphone signal.
-- Listen through headphones.
 
 ## Record and synchronize each take
 
