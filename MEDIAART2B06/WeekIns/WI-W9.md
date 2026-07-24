@@ -1,412 +1,1153 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# Rough Cut
 
-<h1 style="color: darkred;">W9 - Rough Cut</h1>  
+## Individual project
 
-Assemble your footage and sound materials into a complete sequence that reflects your pre-production plan while allowing room for revision.  
+## Goal
 
-⚠️ **Reminder:** During the last hour of tutorial, the Instructor/TAs will begin the **in-person grading check**.  
-   - You must have your **project folder properly organized** and be ready to show your files and temporary renders.
-   - Check: <a href="#ip-grading">W9: In-Person Grading</a>   
+Assemble the footage and production sound into a complete rough cut that follows the approved pre-production plan while allowing room for revision.
 
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.   
+During this stage, you will:
 
----
+- Review and select the strongest footage
+- Build a complete draft assembly
+- Refine pacing and rhythm
+- Apply basic technical colour correction
+- Integrate room tone and production sound in Adobe Premiere Pro
+- Export temporary review files
+- Prepare the rough cut and information sheet for submission
+- Present the organized project folder during the in-person grading check
 
-## Activities  
-**Complete the following in order. Ask the professor or TAs for support or feedback.**  
+> Attendance, participation, and active engagement during class activities are part of the project rubric.
 
-<ul>
-  <li><a href="#assembly">Activity 1: Build Rough Assembly [50m]</a></li>
-  <li><a href="#rythm">Activity 2: Rhythm Refinement [40m]</a></li>
-  <li><a href="#color">Activity 3: Basic Colour Correction [30m]</a></li>
-  <li><a href="#sound">Activity 4: Basic Sound Integration [30m]</a></li>
-  <li><a href="#export">Final Changes and Rough Cut Export</a></li>
-  <li><a href="#submission">📤 Submission</a></li>
-</ul>  
+> During the final hour of the tutorial, the instructor and TAs will begin the **in-person grading check**. Your project folder, Premiere Pro project, autosaves, and temporary renders must be organized and ready for review.
 
----
+## Project overview
 
-<h2 id="assembly" style="color: darkred;">Activity 1: Build Rough Assembly [50m]</h2> 
+- **Format:** Rough cut of a one-minute, no-dialogue short film
+- **Project type:** Individual
+- **Editing software:** Adobe Premiere Pro
+- **Frame rate:** 24 fps
+- **Maximum draft-assembly duration:** 2 minutes
+- **Target rough-cut duration:** Approximately 1 minute
+- **Maximum rough-cut duration at this stage:** 1 minute, 10 seconds
+- **Temporary renders:** Saved in `03_Renders`
+- **Final rough-cut export:** Saved in `04_Exports`
+- **Project file:** Saved in `00_ProjectFiles`
+- **Audio:** Room tone and on-scene production sound only
+- **Colour:** Basic technical correction only
+- **Submission:** Rough Cut MP4 and Rough Cut Information Sheet PDF
+- **Additional grading component:** In-person project-organization check
 
-In this activity, you will build your **first DRAFT Assembly of the film**.   
-- The goal is simply to **place your selected shots in sequence** following your storyboard and script.  
-- Your draft assembly should be **no longer than 2 minutes**.  
-- Do not worry about rhythm, trimming, or transitions yet.  
+## Sequence settings
 
----
+Create the sequence at **24 fps**.
 
-### Step 1 — Create the Project
+Select one of the following frame sizes according to the aspect ratio chosen for the final film:
 
-1. Open **Adobe Premiere Pro**.    
-2. Create a new project using the correct naming protocol: `ProjectName.prproj`. 
-3. Save the project inside: 📁 `00_ProjectFiles`.  
-4. Import all files from: 📁 `01_RawFootage`.   
+| Aspect ratio | Sequence frame size |
+|---|---|
+| **16:9** | 1920 × 1080 |
+| **4:3** | 1440 × 1080 |
+| **1.85:1** | 1920 × 1038 |
+| **2.35:1** | 1920 × 817 |
 
-‼️ Save your project regularly before starting work and throughout the editing process.    
+The original footage was recorded at 1920 × 1080. Choosing another aspect ratio will crop the recorded image.
 
-<iframe src="https://www.iorad.com/player/2692272/Premiere-Pro-1--Project-Setup---Media-Import?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 80%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+## Project stages
 
----
+Complete the following stages in order:
 
-### Step 2 — Import, Review, and Select Footage 
+<!--
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-➡️ Follow the tutorial on how to review and mark footage in **Premiere Pro** and see tips for [**Reviewing Footage**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#review-footage){:target="_blank"}   
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Set up the Premiere Pro project</span>
+    <span class="section-description">
+      Create the project, confirm the folder structure, import the media, and prepare the sequence before editing.
+    </span>
+  </summary>
 
-Review your footage in the **Source Monitor**.   
+<div class="section-content" markdown="1">
 
-As you review, identify usable takes.  
-Do **not delete any footage**, but avoid using clips with:  
-- Severe focus problems
-- Unusable exposure
-- Major camera shake
-- Recording errors  
+## Review the resources
 
-Choose the best takes that correspond to your **storyboard shots**. Focus on:  
-- Clear focus
-- Stable framing
-- Usable performance/action
-- Correct shot type
+Before editing, review:
 
-You may have multiple takes per shot — **select the strongest one**.  
+- [W9 — Rough Cut Framework](../TechWalks/TW-W9.md){:target="_blank"}
+- [W9 — Tutorials](../Tutorials/index.html?file=T-W9.json){:target="_blank"}
+- Your script
+- Your annotated storyboard
+- Your revised production plan
 
----
+## Create the Premiere Pro project
 
-### Step 3 — Build the Draft Assembly 
+1. Open **Adobe Premiere Pro**.
+2. Create a new project.
+3. Name the project:
 
-➡️ Follow the tutorial on how to create your sequence in **Premiere Pro** and review tips for [**Building the Draft Assembly**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#assembly){:target="_blank"}   
+```text
+ProjectName.prproj
+```
 
-First, **create a sequence** with the following settings:  
-- Set your sequence to **24 fps**.  
-- Use the following frame sizes depending on the **aspect ratio** you choose for your final project:  
-  **16:9** → 1920 × 1080  
-  **4:3** → 1440 × 1080  
-  **1.85:1** → 1920 × 1038  
-  **2.35:1** → 1920 × 817   
-  
-> These dimensions maintain the correct proportions while working with footage recorded at **1920 × 1080**.  
+4. Save it inside:
 
-Then, **begin placing your selected clips in order**. For this stage:  
-- Place **one shot after another**
-- Follow the **story order**
-- Do not worry about precise trimming yet
-- Do not add transitions
-- Do not add effects
+```text
+00_ProjectFiles
+```
 
-> Your goal is simply to **see the entire film in sequence**.  
-> This first assembly should be **no longer than 2 minutes**.  
+5. Confirm that Premiere Pro is creating autosaves.
+6. Save the project before importing media.
 
----
+## Import the media
 
-### Step 4 — Watch + Notes
+Import:
 
-➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
+- All footage from `01_RawFootage`
+- All production sound from `02_Audio`
+- Any revised pre-production documents needed for reference
 
-**Export a temporary version** of your sequence.  
-   - Save it as `ProjectName_DraftAssembly.mp4` inside folder: 📁 `03_Renders`.  
+Organize the Project panel using bins that match the project structure.
 
-Watch the video **from beginning to end without stopping**.  
-   - While watching, focus on **clarity, shot order, and basic pacing**.  
+Suggested bins:
 
-Write down **three issues** you notice in your edit that you will address in the next activity.  
+```text
+01_RawFootage
+02_Audio
+Sequences
+Graphics
+```
 
-Examples of issues:  
-- A shot stays on screen too long.
+Do not move, rename, or delete source files after importing them into Premiere Pro.
+
+## Create the sequence
+
+Create a sequence using:
+
+- **Frame rate:** 24 fps
+- **Frame size:** Based on the selected aspect ratio
+- **Audio sample rate:** 48 kHz
+
+Name the first sequence:
+
+```text
+ProjectName_DraftAssembly
+```
+
+<fieldset class="equipment-checklist">
+  <legend>Project setup check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Save the Premiere Pro project correctly.</strong>
+      Place <code>ProjectName.prproj</code> inside <code>00_ProjectFiles</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that autosaves are active.</strong>
+      Verify that Premiere Pro is creating backup project files.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Import the footage and production sound.</strong>
+      Keep the media organized in clearly named bins.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create the 24 fps sequence.</strong>
+      Use the frame size required for the selected aspect ratio.
+    </span>
+  </label>
+</fieldset>
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2692272/Premiere-Pro-1--Project-Setup---Media-Import?iframeHash=mobilequick-1&src=iframe&oembed=1"
+    title="Premiere Pro tutorial showing project setup and media import"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Review, mark, and select the footage</span>
+    <span class="section-description">
+      Watch every take, identify technically usable material, and select the strongest version of each planned shot.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review the guidance on [W9 — Reviewing Footage](../TechWalks/TW-W9.md#reviewing-footage){:target="_blank"}.
+
+Do not begin by dragging every file directly into the timeline.
+
+Open each clip in the **Source Monitor** and review it carefully.
+
+## Mark usable sections
+
+Use one or more of the following methods:
+
+- **In and Out points**
+- **Clip markers**
+- **Label colours**
+- Notes in the clip name or metadata
+
+Do not delete any original footage.
+
+## Evaluate each take
+
+Check:
+
+### Technical quality
+
+- Focus
+- Exposure
+- White balance
+- Framing
+- Camera stability
+- Recording errors
+- Beginning and ending handles
+
+### Performance and action
+
+- Natural movement
+- Clear beginning and ending
+- Continuity
+- Timing
+- Connection with the surrounding shots
+- Emotional clarity
+
+Select the strongest take for each storyboard shot.
+
+A technically imperfect take may still be useful when it provides the clearest action, strongest performance, or most effective rhythm. However, do not use footage with severe focus, exposure, stability, or recording problems unless no workable alternative exists.
+
+<fieldset class="equipment-checklist">
+  <legend>Footage-selection check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review every take.</strong>
+      Watch the complete recording rather than judging it from the thumbnail.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Mark usable sections.</strong>
+      Use In and Out points, markers, labels, or notes.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Compare repeated takes.</strong>
+      Select the strongest technical and narrative option for each shot.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep all original footage.</strong>
+      Do not delete files that are not selected for the rough cut.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Build and review the draft assembly</span>
+    <span class="section-description">
+      Place the selected shots in story order without detailed trimming, effects, transitions, or sound design.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review:
+
+- [W9 — Building the Draft Assembly](../TechWalks/TW-W9.md#building-the-draft-assembly){:target="_blank"}
+- [W9 — Exporting Temporary Sequences](../TechWalks/TW-W9.md#exporting-temporary-sequences){:target="_blank"}
+
+The draft assembly is the first complete version of the film.
+
+Its purpose is to reveal:
+
+- Shot order
+- Story structure
+- Missing actions
+- Repetition
+- Continuity problems
+- Overall duration
+
+## Assembly rules
+
+For this first sequence:
+
+- Follow the planned story order.
+- Place one selected shot after another.
+- Do not trim precisely yet.
+- Do not add decorative transitions.
+- Do not add effects.
+- Do not add music, stock sound, sound effects, or foley.
+- Keep the assembly no longer than **2 minutes**.
+
+## Export the draft assembly
+
+Export a temporary H.264 file as:
+
+```text
+ProjectName_DraftAssembly.mp4
+```
+
+Save it inside:
+
+```text
+03_Renders
+```
+
+## Watch and take notes
+
+Watch the complete export from beginning to end without stopping.
+
+Write down at least **three issues** that you will address during rhythm refinement.
+
+Examples:
+
+- A shot remains on screen too long.
 - A shot ends too abruptly.
-- Two shots feel repetitive or unnecessary.
-- The sequence feels slow in a specific moment.
-- The action does not flow clearly between shots.
-- A moment in the story feels unclear.
+- Two shots repeat the same information.
+- A moment is unclear.
+- The order of the shots creates confusion.
+- The action does not flow between two cuts.
+- A section feels too slow or too rushed.
 
-⚠️ **Do not begin editing yet.**  
-First **identify the problems**. In the next activity, you will **address those issues**.   
+Do not correct the issues while watching. Identify them first, then return to the Premiere Pro sequence.
 
----
+<fieldset class="equipment-checklist">
+  <legend>Draft-assembly check</legend>
 
-<h2 id="rythm" style="color: darkred;">Activity 2: Rhythm Refinement [40m]</h2> 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the complete story in sequence.</strong>
+      Follow the script and storyboard order.
+    </span>
+  </label>
 
-➡️ Review the tips and examples on [**Pacing & Rhythm**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#rhythm){:target="_blank"} to help guide how you structure and time your shots.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the first assembly simple.</strong>
+      Do not add detailed trimming, effects, sound design, or decorative transitions.
+    </span>
+  </label>
 
-In this activity, you will **refine** your Draft Assembly, **focusing on rhythm and clarity** by trimming shots, removing unnecessary moments, and adjusting the sequence order.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the assembly under two minutes.</strong>
+      Remove clearly unusable or unrelated material.
+    </span>
+  </label>
 
-At the end of this step, your sequence should be **approximately 1 minute long**.  
-> A small margin is acceptable at this stage (**no more than 1:10**).
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Export the temporary assembly.</strong>
+      Save <code>ProjectName_DraftAssembly.mp4</code> inside <code>03_Renders</code>.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record at least three revision notes.</strong>
+      Identify problems before beginning rhythm refinement.
+    </span>
+  </label>
+</fieldset>
 
-### Step 1 — Address Identified Issues
+</div>
+</details>
 
-**Correct** the problems you noted during previous the **Watch + Notes** step.  
+<!--
+/////////////////
+SECTION 4
+/////////////////
+-->
 
-This may involve:
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Refine pacing and rhythm</span>
+    <span class="section-description">
+      Trim shots, remove repetition, improve transitions between actions, and reduce the sequence to approximately one minute.
+    </span>
+  </summary>
 
-- Trimming shots that stay on screen too long
-- Extending shots that end too abruptly
+<div class="section-content" markdown="1">
+
+Review [W9 — Pacing and Rhythm](../TechWalks/TW-W9.md#pacing-rhythm){:target="_blank"}.
+
+Duplicate the draft-assembly sequence and rename the new sequence:
+
+```text
+ProjectName_RhythmPass
+```
+
+## Address the draft-assembly notes
+
+Correct the issues identified during the previous stage.
+
+This may include:
+
+- Trimming unnecessary pauses
+- Extending actions that end too abruptly
 - Removing repetitive shots
-- Reordering shots for clearer action
-- Improving the flow between shots
+- Reordering shots
+- Replacing a take
+- Improving continuity
+- Simplifying the sequence
 
-You may also begin adding **basic transitions** if necessary.  
-> Avoid overusing transitions. In most cases, **straight cuts** work best.
+## Refine shot duration
 
----
+Ask:
 
-### Step 2 — Refine Rhythm
+- Does the viewer have enough time to understand the important information?
+- Does any shot continue after its purpose is complete?
+- Does the cut occur before an action is readable?
+- Do repeated shot lengths make the sequence feel mechanical?
+- Does the pace support the emotional trajectory?
+
+Use straight cuts in most situations.
+
+Add a transition only when it communicates a specific relationship, such as:
+
+- A passage of time
+- A change of location
+- A visual match
+- A deliberate emotional shift
 
-Focus on the **temporal rhythm** of the sequence.
+Avoid adding transitions only to decorate the edit.
 
-Ask yourself:
+## Duration target
 
-- Does each shot stay on screen for the right amount of time?
-- Does the action flow clearly from one shot to the next?
-- Are any shots unnecessary?
+At the end of this stage, the sequence should be approximately **1 minute**.
 
-Your sequence should now feel **clearer and more intentional** than the draft assembly.
+The maximum acceptable duration for the rough cut is:
 
----  
+```text
+00:01:10
+```
 
-### Step 3 — Watch + Notes + Adjustments
+## Export the rhythm pass
 
-➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
+Export:
 
-**Export a temporary version** of your sequence.  
-   - Save it as `ProjectName_RhythmPass.mp4` inside folder: 📁 `03_Renders`.
+```text
+ProjectName_RhythmPass.mp4
+```
 
-Watch the video **from beginning to end without stopping**.  
-   - While watching, focus specifically on **rhythm and shot duration**.  
+Save it inside:
 
-Identify **three rhythm issues** that still need improvement. Examples may include:
+```text
+03_Renders
+```
 
-- A shot staying on screen slightly too long  
-- A cut that feels too abrupt  
-- A transition between two shots that feels awkward  
-- A moment where the sequence slows down unnecessarily  
+Watch the export from beginning to end.
 
-After identifying these issues, return to your sequence and **make quick adjustments** to improve the rhythm.  
+Identify at least **three remaining rhythm issues**, then return to the sequence and make small timing adjustments.
 
-⚠️ Do **NOT** over-edit. Focus only on **small timing corrections**.    
+Do not over-edit. A change of a few frames may be enough.
 
----
+<fieldset class="equipment-checklist">
+  <legend>Rhythm-refinement check</legend>
 
-<h2 id="color" style="color: darkred;">Activity 3: Basic Colour Correction [30m]</h2>  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Duplicate the assembly sequence.</strong>
+      Preserve the original draft assembly before making detailed changes.
+    </span>
+  </label>
 
-➡️ Review the tips and examples on [**Basic Colour Correction**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#colour){:target="_blank"} to help guide how you balance colour, exposure, and contrast across your sequence.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Address the recorded revision notes.</strong>
+      Correct the clarity, order, repetition, and duration problems.
+    </span>
+  </label>
 
-In this activity, you will correct **basic exposure and colour consistency issues** in your sequence.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Refine individual cuts.</strong>
+      Adjust the sequence using purposeful frame-level timing decisions.
+    </span>
+  </label>
 
-> Focus only on **technical corrections**, not artistic colour grading.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Reduce the duration.</strong>
+      Keep the rough cut at approximately one minute and no longer than 1 minute, 10 seconds.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Export the rhythm pass.</strong>
+      Save <code>ProjectName_RhythmPass.mp4</code> inside <code>03_Renders</code>.
+    </span>
+  </label>
+</fieldset>
 
-### Step 1 — Watch + Notes
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Apply basic colour correction</span>
+    <span class="section-description">
+      Correct technical differences in exposure, white balance, and contrast so connected shots appear visually consistent.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Review [W9 — Visual Consistency and Basic Colour Correction](../TechWalks/TW-W9.md#visual-consistency-basic-colour-correction){:target="_blank"}.
+
+At this stage, apply **technical colour correction**, not creative colour grading.
+
+## Watch and take notes
 
-Re-watch your file `ProjectName_RhythmPass.mp4`. This time, focus specifically on **colour and exposure**.  
+Review:
 
-Write down **2–3 issues** you notice that affect visual consistency.  
+```text
+ProjectName_RhythmPass.mp4
+```
 
-Examples may include:
+Identify two or three visual inconsistencies.
 
-- A shot that appears **too dark (underexposed)**
-- A shot that appears **too bright (overexposed)**
-- A shot that has a **different colour temperature** than the surrounding shots
-- A noticeable **brightness jump between two shots**
+Examples:
 
----
+- A shot is noticeably darker than the surrounding footage.
+- A shot is noticeably brighter.
+- The colour temperature changes between connected shots.
+- A shot contains a strong green or magenta tint.
+- Contrast changes abruptly.
+- Neutral areas appear incorrectly coloured.
 
-### Step 2 — Apply Basic Corrections
+## Apply basic corrections
 
-Apply **simple corrections** using the **Lumetri Color panel**.  
+Use the **Lumetri Color** panel.
 
-Focus only on:
+Focus on:
 
-- Exposure adjustments
-- Highlight and shadow balance
-- Basic white balance
-- Matching brightness between shots
+- Temperature
+- Tint
+- Exposure
+- Highlights
+- Shadows
+- Whites
+- Blacks
+- Saturation
+- Curves when necessary
+- Colour Wheels and Match when necessary
 
-Your goal is to make the sequence feel **visually consistent**.
+Use scopes and visual comparison rather than relying only on the appearance of the computer screen.
 
-⚠️ Do **NOT** apply stylized looks, heavy colour grading, LUTs, dramatic contrast or colour effects.   
-The full colour grading will be developed in a later stage.    
+## Restrictions
 
----
+Do not apply:
 
-<h2 id="sound" style="color: darkred;">Activity 4: Basic Sound Integration [30m]</h2>
+- Stylized LUTs
+- Heavy colour effects
+- Extreme contrast
+- Dramatic colour casts
+- Final creative grading
 
-➡️ Review the tips and examples on [**Basic Sound Integration**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#sound){:target="_blank"} to help guide how you balance production sound and maintain consistent audio levels across your sequence.  
+The goal is visual consistency, not a finished cinematic look.
 
-At this stage, your visual edit and colour corrections should already be stable.  
-Now you will integrate the **basic production sound** into your sequence.
+<fieldset class="equipment-checklist">
+  <legend>Basic colour-correction check</legend>
 
-The goal is **not full sound design**, but creating a clean audio foundation.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the inconsistencies first.</strong>
+      Record the exposure, white-balance, and contrast problems before making changes.
+    </span>
+  </label>
 
-### Step 1 — Send the Sequence to Adobe Audition
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Correct connected shots.</strong>
+      Compare neighbouring clips and reduce visible jumps.
+    </span>
+  </label>
 
-Follow the tutorial on [**Premiere Pro → Adobe Audition Workflow: Basic Audio Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--adobe-audition-workflow-basic-audio-editing){:target="_blank"}  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the corrections subtle.</strong>
+      Do not begin creative colour grading.
+    </span>
+  </label>
+</fieldset>
 
-This workflow allows you to edit audio using a proper **Digital Audio Workstation (DAW)** while keeping the sequence linked to Premiere.  
+</div>
+</details>
 
-### Step 2 — Add Room Tone
+<!--
+/////////////////
+SECTION 6
+/////////////////
+-->
 
-Place **room tone underneath the entire sequence** to create a consistent background sound.
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Integrate basic production sound in Premiere Pro</span>
+    <span class="section-description">
+      Organize room tone and on-scene recordings, create continuity, balance clip levels, and prepare a clean audio foundation.
+    </span>
+  </summary>
 
-Room tone helps:
-- smooth cuts between shots
-- avoid unnatural silence
-- maintain sonic continuity
+<div class="section-content" markdown="1">
 
-### Step 3 — Integrate On-Scene Sounds
+Review [W9 — Basic Sound Integration](../TechWalks/TW-W9.md#basic-sound-integration){:target="_blank"}.
 
-Add production sounds recorded during filming.
+Complete the basic sound edit in **Adobe Premiere Pro**.
 
-Examples may include:
-- footsteps
-- object interaction
-- fabric movement
-- doors or environmental sounds
+Do not send the complete sequence to Adobe Audition.
 
-Align sounds carefully with the visual action.  
+## Sound requirements
 
-⚠️ Do **NOT** add music, sound effects, or foley yet.  
-These elements will be developed in the **Sound Design stage** of the project.  
+Use:
 
-### Step 4 — Apply Match Clip Loudness to All Sound Clips
+- Room tone recorded in each location
+- On-scene production sound
+- Synchronized camera or external-recorder audio when it supports the visible action
 
-1. Select all of your audio clips  
-2. Right click to open the menu  
-3. Click **Match Clip Loudness**
+Do not add:
 
-<img src="imgs/14.png" style="width: 40%; height: auto;">    
+- Music
+- Stock sound
+- Added sound effects
+- Foley recorded after production
 
-This tool automatically **normalizes the loudness of multiple audio clips** so they play at a more consistent level. It analyzes the clips and adjusts their gain to match a target loudness value.  
+These elements will be developed during the later sound-design stage.
 
-### Step 5 — Export Back to Premiere
+## Organize the audio tracks
 
-Once you finish editing and balancing your audio, export the session back to Premiere Pro.
+Use separate tracks for different sound functions.
 
-Follow the tutorial for [**Premiere Pro → Adobe Audition Workflow: Basic Audio Editing**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--adobe-audition-workflow-basic-audio-editing){:target="_blank"}  
+For example:
 
-### Step 6 — Export
+| Track | Sound material |
+|---|---|
+| **A1** | Primary production sound |
+| **A2** | Additional on-scene recordings |
+| **A3** | Room tone |
+| **A4** | Temporary or supporting production audio |
 
-➡️ Follow the tutorial on [**Exporting Temporary Sequences**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#export-sequence){:target="_blank"}   
+Keep the track arrangement consistent throughout the sequence.
 
-**Export a temporary version** of your sequence.  
-Save it as `ProjectName_RoughPreview.mp4` inside folder: 📁 `03_Renders`.  
+## Add room tone
 
----
+Place room tone beneath the relevant scene.
 
-<h2 id="export" style="color: darkred;">Final Changes and Rough Cut Export</h2>
+Room tone should:
 
-Review your `ProjectName_RoughPreview.mp4` and make final notes before exporting.
+- Continue through cuts
+- Prevent unexplained digital silence
+- Match the location
+- Remain subtle
+- Support the acoustic continuity of the scene
 
-While watching, check for:
+Use short overlaps, clip fades, or **Constant Power** transitions where necessary.
 
-- **Rhythm issues** — shots that remain on screen too long or cuts that feel too abrupt.  
-- **Visual consistency** — noticeable changes in brightness, colour temperature, or contrast between shots.
+## Synchronize on-scene sound
 
-Make any final adjustments in your sequence.  
+Align external audio with the visible action.
 
-> Your Rough Cut should present a **clear and complete version of the film**, including the final shot order, basic rhythm, and integrated on-scene sound.   
-> The story and visual flow should be understandable, even though **fine sound design, detailed colour grading, and final polishing will be completed in a later**.    
+Use:
 
----
+- Waveforms
+- Synchronization claps
+- Visible impacts
+- Doors, footsteps, and object actions
+- Camera reference audio
 
-### Export Rough Cut
+Confirm that the sound remains synchronized throughout the clip.
 
-➡️ Follow the tutorial on [**Exporting A Submission Sequence**](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W9.html#premiere-pro--media-encoder-workflow){:target="_blank"}   
+## Adjust volume
 
-**Export** your final rough cut as: `ProjectName_RoughCut.mp4`.   
+Balance the clips using:
 
-Save the file inside: 📁 `04_Exports`   
+- Clip Gain
+- The clip volume line
+- **Effect Controls → Volume → Level**
+- Volume keyframes
+- Track volume
+- Essential Sound controls
+- Audio meters
 
-Format: **MP4 (H.264)**  
-Frame Rate: **24 fps**
+Keep important actions audible without allowing the signal to clip.
 
-Resolution must match your **sequence aspect ratio**:
+Avoid raising quiet recordings so much that background noise becomes distracting.
 
-- **16:9** → 1920 × 1080  
-- **4:3** → 1440 × 1080  
-- **1.85:1** → 1920 × 1038  
-- **2.35:1** → 1920 × 817  
+## Add short fades
 
----
+Use fades to prevent:
 
-<h2 id="submission" style="color: darkred;">📤 Submission</h2>
+- Abrupt starts
+- Abrupt stops
+- Clicks
+- Noticeable changes between room-tone clips
+- Sudden changes in background noise
 
-| Item                               | Required Filename                   |
-|------------------------------------|-------------------------------------|
-| Rough Cut Export (MP4)             | `Lastname_Firstname_RoughCut.mp4`   |
-| Rough Cut Information Sheet (PDF)  | `Lastname_Firstname_RoughCut.pdf`   |
-| Organization                       | *In-Person Grading*                 |
+Keep most fades short and subtle.
 
-> ⚠️ **Follow the submission protocols carefully.  
-> ⚠️⚠️ Incorrect submissions will result in a 2-point deduction over final grade** ❗❗
+## Optional advanced workflow: edit one clip in Audition
 
----
+Premiere Pro remains the main audio-editing workspace.
 
-### Deliverables — 📦 Rough Cut Package
+Use **Edit Clip in Adobe Audition** only when one individual file requires advanced repair, such as:
 
-### 1. Rough Cut Export (MP4)
+- Consistent background-noise reduction
+- Click removal
+- Repair of an isolated unwanted sound
+- Precise waveform editing
 
-- Full sequence assembled (approximately 1 minute)  
-- All selected shots included  
-- Basic audio integrated (clean levels, no clipping)  
-- Basic colour correction applied  
+1. Select the audio clip in the Premiere Pro timeline.
+2. Right-click the clip.
+3. Choose **Edit Clip in Adobe Audition**.
+4. Repair the individual file.
+5. Save it in Audition.
+6. Return to Premiere Pro and confirm that the linked file updated correctly.
 
-**Export settings:**  
-MP4 (H.264); 24 fps  
+<figure class="media-card">
+  <img
+    src="imgs/14.png"
+    alt="Premiere Pro audio controls used to adjust and balance selected audio clips"
+  >
+  <figcaption>
+    Use Premiere Pro audio controls to balance the production sound. Audition is optional and should be reserved for advanced repair of an individual file.
+  </figcaption>
+</figure>
 
-Resolution must match your **chosen aspect ratio**:  
-- **16:9** → 1920 × 1080  
-- **4:3** → 1440 × 1080  
-- **1.85:1** → 1920 × 1038  
-- **2.35:1** → 1920 × 817
+## Export the rough preview
 
-**File name:**  
-`Lastname_Firstname_RoughCut.mp4`
+Export:
+
+```text
+ProjectName_RoughPreview.mp4
+```
 
-### 2. Rough Cut Information Sheet (PDF)
+Save it inside:
 
-Include the following information:
+```text
+03_Renders
+```
+
+Listen to the complete export using headphones.
+
+Check:
+
+- Room-tone continuity
+- Synchronization
+- Clip levels
+- Abrupt starts or stops
+- Clipping
+- Distortion
+- Unexplained silence
+- Background-noise changes
+
+<fieldset class="equipment-checklist">
+  <legend>Basic production-sound check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Organize the audio tracks.</strong>
+      Separate primary sound, additional recordings, and room tone.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Add room tone.</strong>
+      Maintain the acoustic identity of each location across the cuts.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Synchronize the production sound.</strong>
+      Align important sounds with the visible actions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Balance clip levels.</strong>
+      Keep important actions audible and below clipping.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Add short fades.</strong>
+      Remove abrupt audio starts, stops, and transitions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use Audition only when necessary.</strong>
+      Send only an individual file that requires advanced repair.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Export and review the rough preview.</strong>
+      Save <code>ProjectName_RoughPreview.mp4</code> inside <code>03_Renders</code>.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Export the rough cut and create the information sheet</span>
+    <span class="section-description">
+      Review the rough preview, make final corrections, export the submission file, and prepare the supporting PDF.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Review the rough preview
+
+Watch:
+
+```text
+ProjectName_RoughPreview.mp4
+```
+
+Review the complete film from beginning to end.
+
+Check:
+
+### Structure and rhythm
+
+- Final shot order
+- Clarity of the action
+- Shot duration
+- Abrupt cuts
+- Repetition
+- Overall duration
+
+### Visual consistency
+
+- Exposure
+- White balance
+- Contrast
+- Cropping
+- Aspect ratio
+- Framing
+
+### Basic production sound
+
+- Room tone
+- Synchronization
+- Levels
+- Clipping
+- Distortion
+- Audio continuity
+
+Make only the corrections required for a coherent rough cut.
+
+The rough cut should communicate the complete story and final shot order. Detailed sound design, creative colour grading, and final polishing will be completed later.
+
+## Export the rough cut
+
+Export from Adobe Premiere Pro using:
+
+- **Format:** H.264
+- **File type:** MP4
+- **Frame rate:** 24 fps
+- **Resolution:** Match the sequence
+- **Effects:** Disable unnecessary export effects
+- **Audio:** Enabled
+
+Save the file inside:
+
+```text
+04_Exports
+```
+
+Use the required filename:
+
+```text
+Lastname_Firstname_RoughCut.mp4
+```
+
+## Create the Rough Cut Information Sheet
+
+Create a clear one-page PDF containing:
 
 - **Title**
-- **Aspect Ratio**
-- **Duration**. 
-- **Author / Director** 
-- **Logline** (revise or update the logline you created in the pre-production package) 
-- **Working Credits** (if other people were involved in the production process)
+- **Aspect ratio**
+- **Duration**
+- **Author / Director**
+- **Revised logline**
+- **Working credits**, when other people supported the production
 
-**File name:**  
-`Lastname_Firstname_RoughCut.pdf`
+Export it as:
+
+```text
+Lastname_Firstname_RoughCut.pdf
+```
+
+Save the PDF inside:
+
+```text
+00_ProjectFiles
+```
+
+## Required deliverables
+
+| Item | Required filename |
+|---|---|
+| Rough Cut Export | `Lastname_Firstname_RoughCut.mp4` |
+| Rough Cut Information Sheet | `Lastname_Firstname_RoughCut.pdf` |
+
+<fieldset class="equipment-checklist">
+  <legend>Rough-cut export check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the rough preview.</strong>
+      Check the full sequence without stopping before making final corrections.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the final duration.</strong>
+      Keep the sequence approximately one minute and no longer than 1 minute, 10 seconds.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Export the final rough cut.</strong>
+      Save <code>Lastname_Firstname_RoughCut.mp4</code> inside <code>04_Exports</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create the information sheet.</strong>
+      Save <code>Lastname_Firstname_RoughCut.pdf</code> inside <code>00_ProjectFiles</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the exported MP4.</strong>
+      Confirm image, sound, duration, aspect ratio, and filename.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 8
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">8. Complete the in-person grading check and submit</span>
+    <span class="section-description">
+      Present the organized project folder during class and submit the rough cut MP4 and information sheet PDF.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## In-person grading check
+
+During the final hour of the tutorial, have the complete project folder open and ready for review.
+
+The instructor or TA will check:
+
+### `00_ProjectFiles`
+
+- `ProjectName.prproj`
+- Premiere Pro autosaves
+- `Lastname_Firstname_RoughCut.pdf`
+
+### `03_Renders`
+
+- `ProjectName_DraftAssembly.mp4`
+- `ProjectName_RhythmPass.mp4`
+- `ProjectName_RoughPreview.mp4`
+
+### `04_Exports`
+
+- `Lastname_Firstname_RoughCut.mp4`
+
+Also be prepared to show:
+
+- Organized footage in `01_RawFootage`
+- Organized production sound in `02_Audio`
+- Clearly named project media
+- Working Premiere Pro links
+- A sequence that opens without missing media
+
+## Submission
+
+Submit through Avenue to Learn:
+
+| Item | Required filename |
+|---|---|
+| Rough Cut Export | `Lastname_Firstname_RoughCut.mp4` |
+| Rough Cut Information Sheet | `Lastname_Firstname_RoughCut.pdf` |
+| Project organization | Reviewed in person |
+
+> Follow the submission protocol carefully. Incorrect filenames, missing files, missing temporary renders, disorganized project folders, or unavailable media may result in a **2-point deduction**.
+
+<fieldset class="equipment-checklist">
+  <legend>Final W9 submission check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Prepare the project folder for the in-person check.</strong>
+      Open the Premiere Pro project and confirm that the media is online.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the three temporary renders.</strong>
+      Keep the Draft Assembly, Rhythm Pass, and Rough Preview inside <code>03_Renders</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the final export.</strong>
+      Keep <code>Lastname_Firstname_RoughCut.mp4</code> inside <code>04_Exports</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the information sheet.</strong>
+      Keep <code>Lastname_Firstname_RoughCut.pdf</code> inside <code>00_ProjectFiles</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Complete the in-person grading check.</strong>
+      Present the organized project before the end of the tutorial.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Submit both required files.</strong>
+      Verify the MP4 and PDF after uploading them to Avenue to Learn.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
 
 ---
 
-<h2 id="ip-grading" style="color: black;">In-Person Grading</h2> 
-
-> Thursday Production - End-Of-The-Day Check-In
-
-Students must have their project folder and be ready to show the following:  
-
-<h4>📁 <code style="color: navy;">00_ProjectFiles</code></h4>
-
-- Premiere Pro: `ProjectName.prproj`  
-- Autosaves  
-
-<h4>📁 <code style="color: navy;">03_Renders</code></h4>
-
-- `ProjectName_DraftAssembly.mp4`  
-- `ProjectName_RhythmPass.mp4`  
-- `ProjectName_RoughPreview.mp4`
-
-<h4>📁 <code style="color: navy;">04_Exports</code></h4>
-
-- Empty for now, but later to be included: `Lastname_Firstname_RoughCut.mp4`  
-
-________________________________________________________________________
-
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-AI Disclosure: ChatGPT was used for editing and clarity only. No original course content was generated using AI.

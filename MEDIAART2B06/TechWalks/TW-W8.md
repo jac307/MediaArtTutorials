@@ -1,101 +1,12 @@
 [MEDIAART 2B06](../README.md)
 
-# Production Week
+# W8 — Production Week Framework
 
-## Individual project
+## From Pre-Production Plan to On-Set Execution
 
-<div class="media-grid media-grid--three">
+This technical walkthrough supports the [W8 — Production Week](../WeekIns/WI-W8.md){:target="_blank"} activity.
 
-  <figure class="media-card">
-    <video controls playsinline width="1080" height="1920">
-      <source src="imgs/11.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption>
-      Production example by
-      <a href="https://www.instagram.com/ruka.mate" target="_blank" rel="noopener noreferrer">@ruka.mate</a>.
-    </figcaption>
-  </figure>
-
-  <figure class="media-card">
-    <video controls playsinline width="1080" height="1920">
-      <source src="imgs/12.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption>
-      Production example by
-      <a href="https://www.instagram.com/jlpctures" target="_blank" rel="noopener noreferrer">@jlpctures</a>.
-    </figcaption>
-  </figure>
-
-  <figure class="media-card">
-    <video controls playsinline width="1080" height="1920">
-      <source src="imgs/13.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption>
-      Production example by
-      <a href="https://www.instagram.com/films_akai" target="_blank" rel="noopener noreferrer">@films_akai</a>.
-    </figcaption>
-  </figure>
-
-</div>
-
-## Goal
-
-Record all planned shots and on-scene production sound for your **one-minute, no-dialogue short film**.
-
-Follow the approved pre-production plan while adapting responsibly to the conditions you encounter during filming. Your footage and sound must be technically usable, clearly organized, and securely backed up before editing begins.
-
-> Attendance, participation, and active engagement during the one-to-one feedback meeting and Production Week activities are part of the project rubric.
-
-## Project overview
-
-- **Format:** One-minute, no-dialogue short film
-- **Project type:** Individual
-- **Production window:** Thursday, March 5–Wednesday, March 11
-- **Locations:** One or two locations maximum
-- **Camera:** Department DSLR camera
-- **Image orientation:** Landscape
-- **Resolution:** 1920 × 1080 pixels
-- **Aspect ratio:** 16:9
-- **Frame rate:** 24 fps
-- **Shooting mode:** Manual
-- **Focus:** Manual Focus
-- **White balance:** Custom White Balance
-- **Sound:** On-scene production sound and room tone
-- **Editing software:** Adobe Premiere Pro
-- **Submission:** Organized Production Package as a ZIP file
-
-## Required camera settings
-
-- **Shooting mode:** Manual (`M`) mode
-- **Resolution:** 1920 × 1080 pixels
-- **Aspect ratio:** 16:9
-- **Frame rate:** 24 fps
-- **Shutter speed:** Begin with `1/48` or `1/50`
-- **White balance:** Custom White Balance (`CWB`)
-- **Focus:** Manual Focus (`MF`)
-- **Aperture:** Manual
-- **ISO:** Manual; do not use Auto ISO
-- **Image Stabilization:** On for handheld recording; off when using a tripod or monopod
-- **Grid overlay:** On
-
-Metadata may be reviewed to confirm:
-
-- Camera model
-- Manual shooting mode
-- Resolution
-- Frame rate
-- Codec
-
-> Phone footage and stock footage are not permitted.
-
-## Project stages
-
-Complete the following stages in order:
-
-<!--
+<!-- 
 /////////////////
 SECTION 1
 /////////////////
@@ -103,80 +14,92 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Review the production resources</span>
+    <span class="section-title">1. Lighting Setup</span>
     <span class="section-description">
-      Revisit the technical framework, production tutorials, and approved pre-production package before filming.
+      Shape and control the light before adjusting camera exposure settings.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Required resources
+## Set the lighting before adjusting exposure
 
-Before beginning production, review:
+Set up the lighting **before** changing aperture, shutter speed, or ISO.
 
-- [W8 — Production Week Framework](../TechWalks/TW-W8.md){:target="_blank"}
-- [W8 — Tutorials](../Tutorials/index.html?file=T-W8.json){:target="_blank"}
-- Your completed W7 Pre-Production Package
-- Feedback received during the one-to-one meeting
+Lighting may appear different through the camera lens than it does to your eyes. Begin by shaping and positioning the light. After the lighting arrangement is stable, use the camera settings to fine-tune the exposure.
 
-The framework and tutorials include guidance on:
+Do not use exposure settings to compensate for poorly positioned or uncontrolled lighting.
 
-- Lighting setup
-- Manual exposure
-- White balance
-- Manual focus
-- Camera stabilization
-- Production sound
-- Room tone
-- Framing and composition
-- Continuity
-- On-set shooting strategy
+Review:
 
-## Confirm the production plan
+- [W2 — Three-point lighting](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#three-point-lighting){:target="_blank"}
+- [W7 — Light Sources](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#light-sources){:target="_blank"}
 
-Before recording, confirm that your:
+## Create an intentional visual approach
 
-- Script, storyboard, equipment list, location plan, and schedule agree with one another
-- Planned shots can be completed within the production window
-- Camera movements are achievable with the available equipment
-- Lighting setup is safe and realistic
-- Sound plan identifies the on-scene sounds and room tone you need
-- Location permissions and access have been confirmed
-- Backup location or alternative plan is ready
+A cinematic image is not defined by one fixed lighting style. High contrast, low contrast, high-key, and low-key lighting can all be used intentionally.
 
-<fieldset class="equipment-checklist">
-  <legend>Production-plan review</legend>
+For this project, the lighting should demonstrate:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the approved pre-production package.</strong>
-      Confirm that the storyboard, equipment list, locations, and schedule remain realistic.
-    </span>
-  </label>
+- A clear direction of light rather than uncontrolled overhead illumination
+- Visible depth across the subject and environment
+- Deliberate contrast between illuminated and shadowed areas
+- Consistent colour temperature
+- Separation between the subject and background
+- A lighting approach that supports the emotional tone of the scene
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the W8 framework and tutorials.</strong>
-      Revisit the camera, lighting, sound, continuity, and shooting-strategy instructions.
-    </span>
-  </label>
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare a backup plan.</strong>
-      Identify alternatives for weather, access restrictions, lighting changes, noise, or equipment problems.
-    </span>
-  </label>
-</fieldset>
+  <figure class="media-card">
+    <img
+      src="imgs/Film-Example-1.jpg"
+      alt="Film still from Sinners showing directional lighting, controlled shadows, and clear separation between the subject and background"
+    >
+    <figcaption>
+      <strong>Directional and contrast-based lighting:</strong> <em>Sinners</em> (2025), directed by Ryan Coogler and photographed by Autumn Durald Arkapaw. Directional sources, controlled shadows, and separation between visual planes create depth.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Film-Example-2.jpg"
+      alt="Film still from Wicked showing bright, soft, high-key illumination and a pastel tonal range"
+    >
+    <figcaption>
+      <strong>High-key and low-contrast lighting:</strong> <em>Wicked</em> (2024), directed by Jon M. Chu and photographed by Alice Brooks. Soft illumination and a bright tonal range create a different visual effect with reduced shadow depth.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Film-Example-3.jpg"
+      alt="Television still from The Big Bang Theory showing evenly exposed multi-camera sitcom lighting"
+    >
+    <figcaption>
+      <strong>Flat multi-camera television lighting:</strong> <em>The Big Bang Theory</em> (2007–2019). The setup prioritizes consistent exposure and performer visibility across several camera positions rather than dramatic light and shadow.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Maintain lighting continuity
+
+Lighting must remain consistent between takes. Monitor:
+
+- Changes in daylight caused by clouds or sunset
+- Practical lights being turned on or off
+- Shadows shifting across the subject or background
+- Reflections appearing in windows, mirrors, screens, or other surfaces
+- Lights or stands being moved between takes
+
+When the lighting changes significantly, restore the planned arrangement and recheck exposure before continuing.
+
+> Lighting must be controlled during production. Do not assume that major exposure or colour inconsistencies can be repaired in post-production.
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 2
 /////////////////
@@ -184,60 +107,158 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Attend the one-to-one feedback meeting</span>
+    <span class="section-title">2. Camera Setup</span>
     <span class="section-description">
-      Present the pre-production package, receive focused feedback, and revise the recording plan before filming.
+      Confirm recording format, white balance, manual exposure, stabilization, and focus before each take.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Each student must schedule and attend one **15-minute feedback meeting** during the available meeting times.
+## Set the recording format
 
-The sign-up spreadsheet is available on Avenue to Learn under:
+Record all footage using:
 
-- **Announcements**
-- The **W7/W8 Submission Folder**
+- **Resolution:** 1920 × 1080 pixels (Full HD)
+- **Frame rate:** 24 fps
+- **Capture aspect ratio:** 16:9
+- **Grid display:** On
 
-Bring or have immediate access to your complete W7 Pre-Production Package.
+<figure class="media-card photography-examples--sixteen-nine">
+  <img
+    src="imgs/AspectRatios.png"
+    alt="Diagram comparing the proportions of 16 by 9, 4 by 3, 1.85 to 1, and 2.35 to 1 aspect ratios"
+  >
+  <figcaption>
+    Comparison of common aspect ratios. All project footage must be captured in the camera's full 16:9 frame.
+  </figcaption>
+</figure>
 
-## Purpose of the meeting
+Aspect ratios describe the proportional relationship between image width and height:
 
-The instructor or TA will review the feasibility of your project and identify one or two elements that require immediate attention before production.
+- **16:9:** 16 units wide for every 9 units tall
+- **4:3:** 4 units wide for every 3 units tall
+- **1.85:1:** 1.85 units wide for every 1 unit tall
+- **2.35:1:** 2.35 units wide for every 1 unit tall
 
-Feedback may address:
+If the final film uses a different aspect ratio, the 16:9 recording will be cropped during editing. Compose each shot with the intended crop in mind so important actions and visual information remain visible.
 
-- Shot feasibility
-- Location access
-- Camera movement
-- Lighting
-- Sound recording
-- Equipment
-- Production schedule
-- Safety
-- Continuity
-- Backup planning
+## Set Custom White Balance
 
-Because the meeting is limited to 15 minutes, feedback will focus on the most urgent production decisions.
+Set a **Custom White Balance** after the lighting arrangement is complete. A clean white sheet of paper may be used as the neutral reference.
 
-## After the meeting
+Repeat the process when:
 
-You are responsible for:
+- The location changes
+- The dominant light source changes
+- The time of day changes significantly
+- A practical light is added or removed
 
-1. Recording the feedback you received.
-2. Revising the relevant production documents.
-3. Updating the shooting plan.
-4. Resolving any feasibility or safety concerns.
-5. Confirming that the revised plan can be completed by March 11.
+## Use Manual exposure
 
-> You may not begin filming until your plan has been reviewed.
+Set the camera to **Manual mode (`M`)** and attach the lens planned for the shot before finalizing exposure.
 
-> Failure to attend the scheduled meeting will result in a **2-point deduction from the W8 grade**.
+Adjust:
+
+- **Aperture:** Controls incoming light and depth of field
+- **Shutter speed:** Controls motion blur and exposure time
+- **ISO:** Controls image brightness and digital noise
+
+Use the histogram to evaluate exposure rather than relying only on the brightness of the LCD screen.
+
+- Review [W4 — Advanced Exposure Theory](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-triangle){:target="_blank"}.  
+- Review [W3 — Histogram](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#histogram){:target="_blank"}
+
+## Select shutter speed
+
+At 24 fps, begin with a shutter speed of approximately **1/48 or 1/50 second**. This follows the standard 180-degree shutter approach and produces natural-looking motion blur.
+
+Increase shutter speed when:
+
+- The scene includes fast movement
+- Sharper motion is part of the visual approach
+- Less light is needed without changing aperture or ISO
+
+Decrease shutter speed carefully when:
+
+- Visible motion blur is intentional
+- Moving background elements should appear softer
+- The subject remains relatively still while movement occurs around them
+
+Lower shutter speeds create more motion blur or drag. Higher shutter speeds create sharper, more fragmented movement.
+
+<figure class="media-card photography-examples--sixteen-nine">
+  <img
+    src="imgs/Film-Example-6.gif"
+    alt="Film example showing strong motion blur around a comparatively clear central figure"
+  >
+  <figcaption>
+    <em>Chungking Express</em> (1994), directed by Wong Kar-wai and photographed by Christopher Doyle. Motion blur communicates emotional isolation and the sensation of time moving rapidly around the character.
+  </figcaption>
+</figure>
+
+## Select ISO
+
+Use the **lowest ISO that allows proper exposure with the planned aperture, shutter speed, and lighting**.
+
+Higher ISO:
+
+- Increases image brightness
+- Increases digital noise
+- May reduce fine detail and colour accuracy
+- Can be used deliberately when a textured image supports the visual concept
+
+When a higher ISO is selected for aesthetic reasons, keep the choice consistent across connected shots.
+
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
+
+  <figure class="media-card">
+    <img
+      src="imgs/Film-Example-4.jpg"
+      alt="Film still from Black Swan showing visible grain and texture in dark areas"
+    >
+    <figcaption>
+      <em>Black Swan</em> (2010), directed by Darren Aronofsky. The Super 16 mm format produces visible grain that supports the film's psychological tone.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Film-Example-5.jpg"
+      alt="Dark film still from The Batman showing visible texture within heavy shadow areas"
+    >
+    <figcaption>
+      <em>The Batman</em> (2022), directed by Matt Reeves. The digitally captured image retains visible texture in dark areas as part of its atmospheric visual design.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Set stabilization for the camera support
+
+Set lens or camera stabilization according to the support method:
+
+- **Tripod or monopod:** Stabilization off
+- **Handheld:** Stabilization on, when available
+
+Confirm this setting whenever the camera moves between a tripod and handheld setup.
+
+## Set Manual Focus
+
+Set the lens to **Manual Focus (`MF`)**. Do not rely on autofocus during recording because it may shift between the subject and background.
+
+Before each take:
+
+1. Place the subject at the planned position.
+2. Use the camera's zoom-in buttons or focus-assist view.
+3. Adjust focus on the intended focal point.
+4. Return to the complete frame.
+5. Recheck focus after the subject, camera, or focal length changes.
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 3
 /////////////////
@@ -245,108 +266,90 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Prepare the equipment and locations</span>
+    <span class="section-title">3. Sound Recording</span>
     <span class="section-description">
-      Book the required equipment, confirm access, inspect each location, and organize the production team before recording.
+      Capture clean environmental sound, character actions, and mandatory room tone at every location.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Book the equipment
+## Record usable on-location sound
 
-Book all required equipment in advance.
+For the non-dialogue one-minute film, capture two primary types of sound during production:
 
-Your booking must match the approved equipment list and annotated storyboard.
+### Environmental sound
 
-Review the available:
+Record ambience and subtle background activity using a **shotgun microphone connected directly to the camera**.
 
-- [DSLR Cameras and Lenses](../Cameras.md){:target="_blank"}
-- [Lighting Equipment](../Lighting.md){:target="_blank"}
-- [Audio Equipment](../Audio.md){:target="_blank"}
+Examples include:
 
-Do not reserve equipment that is not connected to a specific production need.
+- Wind or rain
+- Distant traffic
+- Room ambience
+- Appliances or machinery that belong to the location
+- Background activity that establishes the space
 
-## Confirm each location
+### Character and object sound
 
-You may use a maximum of **one or two locations**.
+Record detailed actions using a **condenser microphone connected to the Zoom recorder**.
 
-Before the recording session:
+Examples include:
 
-- Confirm permission to film.
-- Confirm the date and time of access.
-- Inspect the available light.
-- Listen for traffic, ventilation, appliances, public activity, and other noise.
-- Identify available electrical outlets.
-- Check doors, walkways, and accessibility routes.
-- Identify where equipment and personal belongings can be placed safely.
-- Confirm that your backup location remains available.
+- Footsteps
+- Fabric movement
+- Doors, drawers, or containers
+- Object handling
+- Writing, tapping, dragging, or other physical actions
 
-## Prepare production support
+Review:
 
-It is strongly recommended that students support one another during filming.
+- [W2 — Audio recording method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#audio-recording-method){:target="_blank"}
 
-Work in small groups of approximately three to five students when possible. Production support may include:
+Do not rely entirely on music or Foley added later. The final sound design will combine several layers, which may include:
 
-- Camera operation
-- Focus monitoring
-- Sound monitoring
-- Lighting assistance
-- Continuity notes
-- Performance support
-- Equipment handling
-- Safety checks
+- On-location recordings
+- Environmental sound
+- Sound effects
+- Foley
+- Music, when appropriate
 
-Each student remains responsible for the technical and artistic quality of their own project.
+The complete sound design will be developed in later weeks. During production, prioritize clean and usable source recordings.
 
-<fieldset class="equipment-checklist">
-  <legend>Pre-recording preparation</legend>
+## Record room tone at every location
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Book the approved equipment.</strong>
-      Confirm pickup and return times and verify that all accessories are included.
-    </span>
-  </label>
+Record **20–30 seconds of room tone for each filming location**.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm location access.</strong>
-      Verify permission, timing, power, noise conditions, and safety.
-    </span>
-  </label>
+Room tone is the natural ambient sound of a space when no one is speaking or intentionally moving. It can be used to:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare the shot order.</strong>
-      Group shots by location, lighting setup, camera position, or performance requirements rather than story order.
-    </span>
-  </label>
+- Smooth edits between cuts
+- Fill gaps between recorded sounds
+- Maintain sonic continuity
+- Prevent abrupt drops to digital silence
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare the production documents.</strong>
-      Bring the storyboard, shot list, schedule, equipment list, and continuity notes.
-    </span>
-  </label>
+In a dialogue-free film, room tone may function as the sound of apparent silence.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm production support.</strong>
-      Establish who will assist with camera, sound, lighting, continuity, and safety.
-    </span>
-  </label>
-</fieldset>
+## How to record room tone
+
+Use the Zoom recorder's built-in microphones.
+
+1. Place the recorder in the same position used for the main sound recording.
+2. Ask everyone to remain still and silent.
+3. Stop all intentional movement, including footsteps and fabric movement.
+4. Begin recording.
+5. Capture 20–30 seconds of uninterrupted ambient sound.
+6. Label the file clearly.
+
+```text
+ProjectName_Ambience_Location_T01.wav
+```
+
+> Do not skip room tone. It is necessary for maintaining continuity during sound editing.
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 4
 /////////////////
@@ -354,213 +357,160 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Record the video and production sound</span>
+    <span class="section-title">4. Composition and Camera Control</span>
     <span class="section-description">
-      Configure the equipment, record complete takes from multiple perspectives, and capture clean on-scene sound and room tone.
+      Control the background, focal point, focus changes, stability, and purpose of every camera movement.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Set up the lighting first
+## Control the complete frame
 
-Complete the lighting setup before adjusting the final camera exposure.
+The background is as important as the main subject. Evaluate the complete spatial arrangement:
 
-1. Position the lights or identify the natural and practical light sources.
-2. Shape the direction and intensity of the light.
-3. Check the subject and background.
-4. Control unwanted reflections and shadows.
-5. Set Custom White Balance.
-6. Adjust aperture, shutter speed, and ISO.
-7. Check exposure using the histogram.
-8. Recheck the lighting and exposure after every major setup change.
+- **Foreground:** The area closest to the camera
+- **Midground:** The area where the primary subject is often positioned
+- **Background:** The space behind the subject
 
-Do not rely on post-production to repair poorly positioned lighting or severely incorrect exposure.
-
-## Configure the camera
-
-Before recording each setup:
-
-- Set the camera to Manual (`M`) mode.
-- Confirm 1920 × 1080 resolution.
-- Confirm 24 fps.
-- Begin with a shutter speed of `1/48` or `1/50`.
-- Set Custom White Balance.
-- Set aperture and ISO manually.
-- Turn on the grid overlay.
-- Set the lens to Manual Focus.
-- Turn stabilization on for handheld shots.
-- Turn stabilization off when using a tripod or monopod.
-- Use focus assist to confirm sharpness.
-- Check the histogram and framing.
-
-> Triple-check focus before pressing Record.
-
-## Record multiple perspectives
-
-Record each scene from **two or three perspectives** whenever possible.
-
-This may include:
-
-- A wide or establishing view
-- A medium view
-- A close-up or detail
-- A second angle
-- A motivated camera movement
-- A static alternative to a moving shot
-
-The perspectives must support the storyboard and provide useful editing options. Do not record extra angles without a clear purpose.
-
-## Record complete actions
-
-Start recording approximately **3–5 seconds before** the action begins and continue **3–5 seconds after** it ends.
-
-Record actions fully:
-
-- A person sits until fully seated.
-- A person walks until fully stopped or leaves the frame.
-- An object is opened through the complete action.
-- A gesture begins and ends clearly.
-- A camera movement reaches its final position before recording stops.
-
-Incomplete actions create editing problems.
-
-## Record on-scene production sound
-
-Capture the sounds created by the performer and environment during production.
-
-Depending on the scene, record:
-
-- Footsteps
-- Clothing movement
-- Door sounds
-- Object handling
-- Surface contact
-- Mechanical sounds
-- Environmental ambience
-- Other sounds identified in the storyboard
-
-Monitor with headphones and set the recording level according to the loudest planned sound.
+All three layers should contribute intentionally to the shot.
 
 Avoid:
 
-- Clipping
-- Cable noise
-- Handling noise
-- Wind distortion
-- Unnecessary conversation
-- Noise from equipment or crew members
+- Exit signs, poles, clutter, or bright windows that distract from the action
+- Objects that appear to grow from the subject's head or body
+- Unbalanced empty space unless it is deliberate
+- Cluttered or dirty environments that do not support the story
+- Equipment, bags, cables, lights, or crew members entering the frame
 
-## Record room tone
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/YNlBHyZwcXI?si=FWU3s6HRw1uhk1S3&amp;start=82"
+    title="Video lesson on controlling the background and visual composition"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-Record **20–30 seconds of room tone in every location**.
+## Establish the framing and focal point
 
-1. Place the recorder in the same position used for the main production sound.
-2. Ask everyone to remain still and silent.
-3. Stop all intentional movement.
-4. Record 20–30 uninterrupted seconds.
-5. Review the recording with headphones.
-6. Record another take if necessary.
+Activate the camera grid and use it to evaluate alignment and balance.
 
-Room tone will be used to maintain sonic continuity during editing.
+- Position the subject or focal point intentionally
+- Use rule-of-thirds alignment when appropriate
+- Keep horizons straight
+- Maintain deliberate headroom and looking room
+- Avoid accidental tilting unless the angle is part of the visual plan
+- Anticipate any crop that will be added during editing
 
-## Maintain continuity
+Review:  
 
-Before each take, check:
+-  [W7 — Select shot types](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-shot-types){:target="_blank"}.  
+- [W7 — Select camera angles](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-camera-angles){:target="_blank"}.
 
-- Object placement
-- Body position
-- Hand position
-- Direction of movement
-- Eyelines
-- Wardrobe
-- Hair
-- Lighting
-- Doors and windows
-- Background activity
+A **focal point** is the area that draws the viewer's attention first. It is usually the main subject or the most important visual detail. The intended focal point must remain sharp.
 
-Photograph complicated setups or record continuity notes when needed.
+## Maintain focus during movement
 
-## Review every take before leaving
+When the subject changes distance from the camera:
 
-After each take, check:
+1. Identify the closest and farthest positions.
+2. Practise the action before recording.
+3. Mark the focus-ring positions when useful.
+4. Adjust the focus ring gradually during the movement.
+5. Review the take at a magnified size.
 
-- Focus
-- Exposure
-- Framing
-- Camera stability
-- Performance
-- Beginning and ending handles
-- Production sound
-- Continuity
-- File creation
+When consistent focus cannot be maintained, simplify the action, increase the depth of field, or redesign the camera position.
 
-If focus, framing, image quality, sound, or continuity is incorrect, record the shot again before leaving the location.
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/r1adyTSCLEs?si=aNb8hQPwhlZ32rAw"
+    title="Demonstration of manually adjusting focus while a subject moves"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<fieldset class="equipment-checklist">
-  <legend>On-set recording check</legend>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/PQBGonFO9ZY?si=okjAPz6fV_N3R11K"
+    title="Demonstration of focus pulling and maintaining a moving focal point"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Complete the lighting setup.</strong>
-      Shape the light before finalizing exposure.
-    </span>
-  </label>
+## Use camera movement with purpose
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm all manual camera settings.</strong>
-      Check resolution, frame rate, shutter speed, white balance, aperture, ISO, focus, grid, and stabilization.
-    </span>
-  </label>
+Avoid unnecessary movement. Every pan, tilt, tracking movement, push-in, pull-back, or handheld adjustment should support the action or emotional change.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record complete actions with handles.</strong>
-      Leave several seconds before and after the action.
-    </span>
-  </label>
+Review [W7 — Plan camera movement](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#plan-camera-movement){:target="_blank"}.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record multiple useful perspectives.</strong>
-      Capture two or three purposeful framings or angles when possible.
-    </span>
-  </label>
+### Use a tripod when control is the priority
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Monitor and review production sound.</strong>
-      Confirm that important sounds remain audible and below clipping.
-    </span>
-  </label>
+A tripod is appropriate when:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record room tone.</strong>
-      Capture 20–30 seconds in every location.
-    </span>
-  </label>
+- The shot is static
+- The scene relies on performance within a stable frame
+- Precise composition is required
+- The camera must repeat the same position across takes
+- A controlled pan or tilt is planned
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review each take.</strong>
-      Check the footage and sound before changing the setup or leaving the location.
-    </span>
-  </label>
-</fieldset>
+Controlled tripod options include:
+
+- **Locked-off or static:** The camera does not move
+- **Pan:** The camera rotates horizontally
+- **Tilt:** The camera rotates vertically
+- **Motivated reframe:** A small adjustment follows a limited subject movement
+- **Zoom:** The focal length changes without moving the camera; use sparingly
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/pAvn034VcCg?si=Ddo6c3ntyD3oeF3L"
+    title="Demonstration of controlled camera movement using a tripod"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Use handheld recording when movement is necessary
+
+Handheld recording may be appropriate when:
+
+- Following a subject
+- Creating visual intimacy
+- Adding subtle realism or instability
+- Moving through a space that cannot accommodate a tripod
+
+Controlled handheld options include:
+
+- **Tracking:** Following the subject forward or backward
+- **Side tracking:** Moving parallel to the subject
+- **Push-in:** Moving slowly toward the subject
+- **Pull-back:** Moving slowly away from the subject
+
+When recording handheld:
+
+- Turn stabilization on when available
+- Keep elbows close to the body
+- Control breathing
+- Use a stable stance
+- Move slowly and deliberately
+- Avoid quick jerks and unnecessary pans
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/r2FERO4j9WI?si=1HtjF0pNDnLcDMIH"
+    title="Demonstration of controlled handheld camera movement"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 5
 /////////////////
@@ -568,367 +518,95 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Transfer, rename, and back up the files</span>
+    <span class="section-title">5. Shooting Strategy and Continuity</span>
     <span class="section-description">
-      Organize the original footage and sound immediately after each recording session and create a verified backup.
+      Record complete and editable coverage while maintaining visual consistency between takes.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Do not wait until the end of Production Week to organize your files.
+## Keep the production achievable
 
-After every recording session:
+Production depends on efficiency, discipline, and control.
 
-1. Transfer all video and audio files.
-2. Place them in the correct project folders.
-3. Rename them using the required naming protocol.
-4. Open representative files to confirm that they are playable.
-5. Create a second copy in a separate location.
-6. Verify the backup.
-7. Keep the original SD-card files until both copies have been confirmed.
+- Keep setups simple
+- Avoid unnecessary technical complications
+- Prioritize clarity over ambition
+- Complete fewer shots carefully rather than recording many unusable shots
+- Finish the required coverage before attempting optional material
 
-Do not delete or format an SD card until:
+## Record multiple perspectives
 
-- Every file has been transferred.
-- Every file has been renamed.
-- The files have been opened and verified.
-- A backup copy exists on a different device or cloud service.
+Record each scene from **two or three distinct angles or framings** whenever possible. Additional coverage provides options for editing, rhythm, and pacing.
 
-## Video-file naming
+The perspectives should serve different functions rather than repeating the same composition. For example:
 
-Rename every DSLR video file using:
+- A wide shot establishes the environment and complete action
+- A medium shot emphasizes performance or body movement
+- A close-up isolates an important gesture, object, or reaction
 
-```text
-ProjectName_Shot#_Take#.extension
-```
+Avoid relying entirely on one master shot.
 
-Example:
+## Leave editing handles
 
-```text
-Echo_S03_T02.mov
-```
+For every take:
 
-The:
+- Begin recording **3–5 seconds before** the planned action starts
+- Continue recording **3–5 seconds after** the action ends
 
-- Project name should contain one or two words.
-- Shot number must match the annotated storyboard.
-- Take number identifies the recording attempt.
-- Original file extension must remain unchanged.
+These handles provide space for clean cuts, transitions, and sound editing.
 
-## Audio-file naming
+## Record complete actions
 
-Rename production sound using:
-
-```text
-ProjectName_AudioType_SimpleDescription_Take#.wav
-```
-
-Use `ProdAudio` as the audio type.
+Do not stop recording before the physical action is complete.
 
 Examples:
 
-```text
-Echo_ProdAudio_RoomTone_T01.wav
-Echo_ProdAudio_Footsteps_T02.wav
-Echo_ProdAudio_Door_T01.wav
-```
+- When a character sits, continue until the character is fully seated and still
+- When a character walks, continue until the character reaches the final position and stops
+- When a character opens an object, continue until the action reaches its planned conclusion
+- When a character enters or exits the frame, leave additional time before cutting
 
-## Backup requirements
+Incomplete actions create unnecessary editing problems.
 
-Maintain at least two complete copies:
+## Organize the production by location and setup
 
-- **Primary copy:** Working project drive
-- **Backup copy:** Separate external drive or cloud storage
+The film does not need to be recorded in story order.
 
-Do not keep both copies on the same physical device.
+When the project uses several spaces or time periods:
 
-<fieldset class="equipment-checklist">
-  <legend>File-transfer and backup check</legend>
+1. Complete all planned shots in one location.
+2. Complete shots that use the same lighting and camera setup together.
+3. Confirm the required coverage before changing the setup.
+4. Move to the next location only after the current scene is complete.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Transfer all camera and audio files.</strong>
-      Confirm that every recording device has been copied.
-    </span>
-  </label>
+Avoid repeatedly rebuilding the same setup or moving unnecessarily between locations.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Rename every file.</strong>
-      Follow the required shot, take, audio-type, and description formats.
-    </span>
-  </label>
+## Maintain continuity
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Verify the transferred files.</strong>
-      Open footage and audio from every recording device.
-    </span>
-  </label>
+**Continuity** is visual consistency across shots and takes.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a separate backup.</strong>
-      Copy the full project folder to another device or cloud service.
-    </span>
-  </label>
+Check:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the SD-card originals.</strong>
-      Do not delete or format the cards until both copies are verified.
-    </span>
-  </label>
-</fieldset>
+- **Object placement:** Position of objects, furniture, doors, and props
+- **Body position:** Hand placement, posture, seated position, and direction of movement
+- **Eyelines:** Where the character is looking
+- **Screen direction:** Whether movement continues consistently from one shot to another
+- **Lighting:** Direction, intensity, colour temperature, and shadow placement
+- **Wardrobe and appearance:** Hair, sleeves, accessories, and other visible details
+- **Environment:** Background activity, practical lights, windows, and reflective surfaces
 
+Use reference photographs when a setup must be recreated.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/Ff4_LqI9Oa4?si=4WHP8mmWlDD9JfOK"
+    title="Video lesson demonstrating continuity errors between film shots"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
-</details>
-
-<!--
-/////////////////
-SECTION 6
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Build the Production Package</span>
-    <span class="section-description">
-      Place the pre-production documents, raw footage, and production audio into the required folder structure.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Create the following folder structure:
-
-```text
-Lastname_Firstname_ProductionPackage
-├── 00_ProjectFiles
-├── 01_RawFootage
-├── 02_Audio
-├── 03_Renders
-└── 04_Exports
-```
-
-## `00_ProjectFiles`
-
-Include the W7 Pre-Production Package files:
-
-- Micro-Treatment PDF
-- Script PDF
-- Annotated Storyboard PDF
-- Location Scouting PDF
-- Equipment List PDF
-- Production Schedule PDF
-
-You may also include revised planning documents created after the feedback meeting.
-
-## `01_RawFootage`
-
-Include all original DSLR video files.
-
-Organize them into subfolders by recording date:
-
-```text
-01_RawFootage
-├── YYYY-MM-DD
-└── YYYY-MM-DD
-```
-
-Every file must follow the required naming protocol:
-
-```text
-ProjectName_Shot#_Take#.extension
-```
-
-## `02_Audio`
-
-Include all original production-sound recordings in WAV format.
-
-Every file must follow:
-
-```text
-ProjectName_ProdAudio_SimpleDescription_Take#.wav
-```
-
-Include:
-
-- On-scene sound
-- Room tone
-- Environmental recordings
-- Other production audio created during filming
-
-## `03_Renders`
-
-Leave this folder empty.
-
-It will be used for temporary rendered media during editing.
-
-## `04_Exports`
-
-Leave this folder empty.
-
-It will be used for exported sequences and final project files.
-
-## Verify the package
-
-Before compressing the folder:
-
-- Confirm that every required folder is present.
-- Confirm that all W7 files are included.
-- Confirm that all camera files are included.
-- Confirm that all production-audio files are included.
-- Confirm that filenames follow the required protocol.
-- Open files from each folder.
-- Confirm that `03_Renders` and `04_Exports` are present, even though they are empty.
-- Compare the Production Package with the backup copy.
-
-<fieldset class="equipment-checklist">
-  <legend>Production Package check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include all pre-production documents.</strong>
-      Place the W7 PDFs inside <code>00_ProjectFiles</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include and organize all footage.</strong>
-      Place renamed DSLR files inside date-based subfolders in <code>01_RawFootage</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include all production audio.</strong>
-      Place renamed WAV files inside <code>02_Audio</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include the empty workflow folders.</strong>
-      Keep <code>03_Renders</code> and <code>04_Exports</code> in the package.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Verify the package.</strong>
-      Open representative files and compare the package with the backup.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 7
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Compress and submit the Production Package</span>
-    <span class="section-description">
-      Create the final ZIP file, verify its contents, and submit it through Avenue to Learn or through an accessible cloud link.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Create the ZIP file
-
-Compress the complete Production Package folder as:
-
-```text
-Lastname_Firstname_ProductionPackage.zip
-```
-
-Do not compress the individual subfolders separately.
-
-After creating the ZIP file:
-
-1. Open it.
-2. Confirm that the main Production Package folder is present.
-3. Confirm that all five required subfolders are present.
-4. Open representative PDF, video, and audio files.
-5. Confirm that filenames have not changed.
-6. Confirm that the ZIP is accessible from the device you will use for submission.
-
-## Required submission
-
-| Item | Required filename |
-|---|---|
-| Production Package | `Lastname_Firstname_ProductionPackage.zip` |
-
-Submit the ZIP file through the W8 submission folder on Avenue to Learn.
-
-## Large-file alternative
-
-If Avenue to Learn does not allow the ZIP file because of its size:
-
-1. Upload the complete ZIP file to Google Drive, OneDrive, Dropbox, or another approved cloud service.
-2. Set the permissions so that the instructor and TA can open and download the file.
-3. Test the link in a private or incognito browser window.
-4. Create a short document containing the shareable link.
-5. Submit that document through Avenue to Learn.
-
-Do not submit a link that requires the instructor or TA to request permission.
-
-> Follow the submission protocol carefully. Incorrect filenames, missing folders, inaccessible links, or incomplete files may result in grade deductions.
-
-<fieldset class="equipment-checklist">
-  <legend>Final submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name the ZIP correctly.</strong>
-      Use <code>Lastname_Firstname_ProductionPackage.zip</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Open and verify the ZIP.</strong>
-      Confirm that the complete folder structure and files are accessible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test the cloud link when required.</strong>
-      Confirm that it opens without requesting permission.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit through Avenue to Learn.</strong>
-      Confirm that the correct ZIP file or link document was uploaded.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>

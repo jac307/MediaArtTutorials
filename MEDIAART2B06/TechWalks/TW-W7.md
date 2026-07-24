@@ -1,66 +1,12 @@
 [MEDIAART 2B06](../README.md)
 
-# W7 — Pre-Production Package
+# W7 — Pre-Production Framework
 
-## Individual project
+## From Concept to Production Plan
 
-![Examples from the one-minute short-film project](imgs/10.png)
+This technical walkthrough supports the [W7 — Pre-Production Package](../WeekIns/WI-W7.md){:target="_blank"} activity and submission.
 
-## Goal
-
-Plan a **one-minute, no-dialogue short film** and create a pre-production package that translates your visual concept into a realistic production plan.
-
-The package will guide your script, storyboard, location decisions, equipment booking, production schedule, and individual feedback meeting before filming.
-
-> Attendance, participation, and active engagement during class activities are part of the project rubric.
-
-## Examples
-
-| Film | Year | Filmmaker |
-|---|---:|---|
-| [*Unknown*](https://www.youtube.com/watch?v=xViEGiLxdwc){:target="_blank"} | 2024 | Akil Joefield |
-| [*PAREIDOLIA*](https://www.youtube.com/watch?v=JLmOkEEC9SQ){:target="_blank"} | 2023 | Carlos Andrés Reyes |
-| [*2 AM COFFEE*](https://www.youtube.com/watch?v=SR__amDl1c8){:target="_blank"} | 2023 | Forrain |
-| [*Anonymous Gift*](https://www.youtube.com/watch?v=eq8GccdVg9A){:target="_blank"} | 2023 | Michael Kitka |
-| [*Alone*](https://www.youtube.com/watch?v=P6qJ2326uhY){:target="_blank"} | 2020 | Shane P. Liao |
-| [*The Wait*](https://www.youtube.com/watch?v=C7OQHIpDlvA){:target="_blank"} | 2020 | Nolt Vutthisak |
-| [*For Milo*](https://www.youtube.com/watch?v=9Tq71PiDJDk){:target="_blank"} | 2020 | Matthew D Gilpin |
-| [*The Jump*](https://www.youtube.com/watch?v=CQXGMwLwGSE){:target="_blank"} | 2019 | Adrian León |
-| [*Breathe*](https://www.youtube.com/watch?v=q8yGiDGH3G4){:target="_blank"} | 2019 | Tom and Shelley Ruddock |
-| [*Kick Me*](https://www.youtube.com/watch?v=4DKSduhMls0){:target="_blank"} | 2018 | Jefferies Brothers |
-| [*Toast*](https://www.youtube.com/watch?v=xV9HnITo2C0){:target="_blank"} | 2017 | Moloney Media |
-| [*suitcase*](https://www.youtube.com/watch?v=j0HoMaaQj9I){:target="_blank"} | 2016 | Visuall Kris |
-| [*Love in Reverse*](https://www.youtube.com/watch?v=urQ2LNY9UUw){:target="_blank"} | 2016 | Jacque Rabie |
-
-## Project overview
-
-- **Format:** Individual pre-production package
-- **Final film duration:** One minute
-- **Dialogue:** No dialogue
-- **Script:** One to three scenes
-- **Locations:** One or two locations maximum
-- **Storyboard:** Six to ten annotated shots
-- **In-class work:** Micro-treatment, script, and annotated storyboard
-- **Homework:** Location scouting, equipment list, and production schedule
-- **Required feedback:** One-to-one meeting with the professor or TA before filming
-- **Submission format:** One ZIP file containing six PDFs
-
-<!-- ## Required files
-
-| Document | Required filename |
-|---|---|
-| Micro-treatment | `Lastname_Firstname_MicroTreatment.pdf` |
-| Script | `Lastname_Firstname_Script.pdf` |
-| Annotated storyboard | `Lastname_Firstname_Storyboard.pdf` |
-| Location scouting | `Lastname_Firstname_LocationScouting.pdf` |
-| Equipment list | `Lastname_Firstname_EquipmentList.pdf` |
-| Production schedule | `Lastname_Firstname_Schedule.pdf` | -->
-
-## Project stages
-
-Complete the following stages in order. Ask the professor or TAs for support and feedback during class.
-
-<!--
+<!-- 
 /////////////////
 SECTION 1
 /////////////////
@@ -68,99 +14,64 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Create the micro-treatment [30 minutes]</span>
+    <span class="section-title">1. Logline</span>
     <span class="section-description">
-      Select one idea, define its central action and emotional trajectory, and write a precise one-sentence logline.
+      Summarize the central action and emotional shift of the one-minute film in a single sentence.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Review the guidance
+## Write a one-sentence logline
 
-- [W7 Pre-Production Framework: Logline](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#logline){:target="_blank"}
-- [W7 Tutorials](../Tutorials/index.html?file=T-W7.json){:target="_blank"}
+A **logline** is a single-sentence summary that communicates the central dramatic action and emotional shift of a film.
 
-## Commit to one idea
+For a one-minute short, the logline should describe an event that can be shown through visible behaviour, objects, and environment. Avoid explaining a detailed backstory or introducing more events than can be filmed clearly within one minute.
 
-Review your brainstorm document and select one idea that can be recorded realistically within the production window.
+## Logline structures for a one-minute short
 
-In short bullet points, identify:
+### Character + simple action + emotional shift
 
-- **Story situation:** What is happening in concrete, visual terms?
-- **Central action:** What physically happens from beginning to end?
-- **Emotional trajectory:** What changes between the beginning, shift, and ending?
+**Formula:** A `[character]` performs `[a clear physical action]` in `[a specific location]`, leading to `[an emotional change]`.
 
-## Write three logline versions
+> **Feature-film example:** *Rear Window*, directed by Alfred Hitchcock  
+> A photographer recovering from a broken leg watches his neighbours and begins to suspect that one of them committed a murder.
+>
+> **Compressed to a one-minute scale:** A photographer confined to an apartment watches the neighbours through a window and slowly becomes convinced that something is wrong.
 
-Write **three different versions** of the logline.
+### Moment-based progression
 
-Each version must:
+**Formula:** As `[a character performs an ongoing action]`, `[an emotional shift occurs]`.
 
-- Be one sentence
-- Describe a one-minute visual story without dialogue
-- Identify a clear action or situation
-- Suggest an emotional shift
-- Use specific rather than abstract language
-- Describe something you can realistically film
+> **Feature-film example:** *Groundhog Day*, directed by Harold Ramis  
+> A self-centred weather reporter becomes trapped in a time loop and repeatedly experiences the same day.
+>
+> **Compressed to a one-minute scale:** As a man repeats the same morning routine, his frustration slowly turns into desperation.
 
-Avoid a vague statement such as:
+### Situation + small change
 
-> A film about loneliness.
+**Formula:** In `[a specific situation]`, a `[character]` experiences `[a shift]` while `[performing a visible action]`.
 
-Use a specific visual situation instead:
+> **Feature-film example:** *Before Sunrise*, directed by Richard Linklater  
+> Two strangers meet on a train and spend one evening together in Vienna, knowing that it may be their only night together.
+>
+> **Compressed to a one-minute scale:** In a train compartment, two strangers sit in silence and gradually become aware of one another through small gestures.
 
-> A student eats lunch alone in a crowded cafeteria, watching groups form and disperse around them.
+### Object-focused
 
-## Select and refine the strongest logline
+**Formula:** A `[character]` interacts with `[an object]` in `[a location]`, revealing `[an emotional shift]`.
 
-- Choose the strongest version.
-- Revise it for clarity and precision.
-- Remove unnecessary words.
-- Confirm that the idea is achievable with available time, locations, performers, and equipment.
+> **Feature-film example:** *WALL·E*, directed by Andrew Stanton  
+> A waste-collecting robot meets another robot and begins a journey that changes the future of humanity.
+>
+> **Compressed to a one-minute scale:** A lonely robot sorting discarded objects pauses over one item, revealing an unexpected sense of attachment.
 
-## Create the micro-treatment PDF
-
-Create a one-page document containing:
-
-1. **Working title**
-2. **Author:** Your full name
-3. **Final logline:** One sentence
-4. **Emotional trajectory:** Three bullet points labelled Beginning, Shift, and Ending
-
-Export the document as:
-
-- **Format:** PDF
-- **Filename:** `Lastname_Firstname_MicroTreatment.pdf`
-
-<fieldset class="equipment-checklist">
-  <legend>Micro-treatment check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The central action is visible and specific.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The logline is one sentence and contains no dialogue.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The beginning, shift, and ending are clearly identified.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PDF uses the required filename.</strong></span>
-  </label>
-</fieldset>
+[Review additional movie logline examples on IMDb](https://www.imdb.com/list/ls533728711/){:target="_blank"}.
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 2
 /////////////////
@@ -168,93 +79,152 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Write the script [30 minutes]</span>
+    <span class="section-title">2. Script</span>
     <span class="section-description">
-      Translate the micro-treatment into a concise visual script with scene headings, actions, and transitions.
+      Translate the logline into clear, shootable action using scene headings, visual description, and minimal transitions.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Download a template
+## Develop a visual script
 
-- [W7 Script Template — Fillable PDF](imgs/Script_Template.pdf){:target="_blank"}
-- [W7 Script Template — Word document](imgs/Script_Template.docx){:target="_blank"}
+A script is a **production document** that translates the logline into clear, shootable action.
 
-## Review the guidance
+For this project, the script must communicate a complete one-minute event through behaviour and environment. Do not use dialogue. The script should contain:
 
-- [W7 Pre-Production Framework: Script](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#script){:target="_blank"}
-- [W7 Tutorials](../Tutorials/index.html?file=T-W7.json){:target="_blank"}
+1. **Sluglines or scene headings**
+2. **Visual action**
+3. **Transitions**, when required
 
-## Script requirements
+<figure class="media-card">
+  <img
+    src="imgs/Scrip-Example.jpeg"
+    alt="Example pages from the WALL-E screenplay showing scene headings and visual action descriptions"
+  >
+  <figcaption>
+    The first three scenes from the <em>WALL·E</em> screenplay, written by Andrew Stanton and Pete Docter.
+  </figcaption>
+</figure>
 
-The script must:
+## Write sluglines or scene headings
 
-- Represent approximately one minute of screen time
-- Include one to three scenes
-- Use one or two locations maximum
-- Contain 250–400 words in total
-- Describe clear physical and visible actions
-- Contain no dialogue
-- Match the selected logline and emotional trajectory
+A **slugline** identifies where and when a scene takes place. Add a new slugline whenever the location, time, or interior/exterior status changes.
 
-Use the following scene-heading format:
+**Formula:** `INT./EXT. + SPECIFIC LOCATION + TIME OF DAY`
 
 ```text
-INT. / EXT. — LOCATION — TIME OF DAY
+INT. CLASSROOM – NIGHT
+EXT. BUS STOP – LATE AFTERNOON
+INT. DORM ROOM – EARLY MORNING
 ```
 
-Use transitions only when they support the intended edit. Options include:
+Create a new scene only when there is:
 
-- Fade In / Fade Out
-- Cut To
-- Hard Cut
-- Jump Cut
-- Dissolve or Cross-Dissolve
-- Match Cut
+- A change in location or space
+- A change in time, such as morning to night or a later moment
+- A shift from an interior to an exterior location, or the reverse
 
-The completed script will guide the storyboard, equipment list, location scouting, and production schedule.
+Continuous movement within the same space does **not** require a new scene.
 
-## Export the script
+## Describe visual action
 
-- **Format:** PDF
-- **Filename:** `Lastname_Firstname_Script.pdf`
+The visual script describes what the audience can see. Include:
 
-You may complete the template digitally or by hand. A handwritten version must be clearly scanned and compiled into one PDF.
+- Physical behaviour
+- Movement
+- Interaction with objects
+- Spatial relationships
+- Environmental details that affect the action
 
-<fieldset class="equipment-checklist">
-  <legend>Script check</legend>
+**Formula:** A `[character]` performs `[a specific physical action]` in `[a location]`, revealing emotion through behaviour.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The script matches the approved micro-treatment.</strong></span>
-  </label>
+> A student repeatedly taps a pencil and avoids looking at the unfinished page.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every scene includes a correctly formatted scene heading.</strong></span>
-  </label>
+### Example: *WALL·E*
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Only physical, visible actions are described.</strong></span>
-  </label>
+The screenplay communicates the world through short visual descriptions:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The complete script remains within 250–400 words.</strong></span>
-  </label>
+- A vast landscape of trash
+- A small robot methodically stacking cubes
+- Silence, dust, and mechanical movement
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PDF uses the required filename.</strong></span>
-  </label>
-</fieldset>
+[Read the complete *WALL·E* screenplay on IMSDb](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}.
+
+## Use transitions selectively
+
+A transition indicates a change between shots or scenes. Most edits do not need to be written as transitions. Use transition labels only when the type of change is important to the planned rhythm or meaning.
+
+> In a one-minute film, transitions should remain minimal.
+
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
+
+  <figure class="media-card">
+    <img
+      src="imgs/Transition-Fade.gif"
+      alt="Example of an image gradually fading in or fading out"
+    >
+    <figcaption>
+      <strong>Fade In / Fade Out:</strong> The image gradually appears from black or disappears to black.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Transition-CutTo.gif"
+      alt="Example of an immediate cut between two shots"
+    >
+    <figcaption>
+      <strong>Cut To:</strong> An immediate and neutral change from one shot or scene to another.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Transition-Dissolve.gif"
+      alt="Example of one image gradually dissolving into another"
+    >
+    <figcaption>
+      <strong>Dissolve:</strong> One image gradually blends into another, often suggesting elapsed time or a soft emotional change.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Transition-HardCut.gif"
+      alt="Example of an abrupt hard cut between images"
+    >
+    <figcaption>
+      <strong>Hard Cut:</strong> An abrupt change that can create tension, surprise, or emphasis.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Transition-JumpCut.gif"
+      alt="Example of a jump cut that removes part of an action within the same framing"
+    >
+    <figcaption>
+      <strong>Jump Cut:</strong> A visible jump within the same shot that compresses time or creates unease.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Transition-MatchCut.gif"
+      alt="Example of a match cut connecting two visually similar shots"
+    >
+    <figcaption>
+      <strong>Match Cut:</strong> A cut connecting two shots through similar composition, movement, shape, or action.
+    </figcaption>
+  </figure>
+
+</div>
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 3
 /////////////////
@@ -262,95 +232,403 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Create the annotated storyboard [1 hour]</span>
+    <span class="section-title">3. Annotated Storyboard</span>
     <span class="section-description">
-      Plan six to ten shots by connecting framing, movement, lighting, sound, duration, action, and equipment.
+      Divide the script into shots and plan the framing, angle, movement, lighting, sound, duration, and equipment for each one.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Download a template
+## Translate the script into shots
 
-- [W7 Annotated Storyboard Template — Fillable PDF](imgs/Annotated_Storyboard_Template.pdf){:target="_blank"}
-- [W7 Annotated Storyboard Template — Word document](imgs/Annotated_Storyboard_Template.docx){:target="_blank"}
+An annotated storyboard translates the script into a **visual production plan**.
 
-## Review the guidance
+A new shot begins when you change:
 
-- [W7 Pre-Production Framework: Annotated Storyboard](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"}
-- [W7 Tutorials](../Tutorials/index.html?file=T-W7.json){:target="_blank"}
+- The framing or shot size
+- The camera angle
+- The camera position
+- The camera movement or visual point of view
 
-## Plan six to ten shots
+## Include the required information
 
-Complete every field for each shot.
+For every storyboard panel, provide:
 
-| Storyboard field | Required information |
-|---|---|
-| **Shot number** | Sequential number following the order of the script |
-| **Estimated duration** | Duration in seconds; the complete storyboard should total approximately 60 seconds |
-| **Shot type** | WLS, FS, MWS, MS, MCU, CU, or frame within a frame |
-| **Camera angle** | Eye-level, low angle, overhead, OTS, Dutch angle, or POV |
-| **Camera movement** | Static, zoom, pan, tilt, dolly, or handheld |
-| **Action description** | One clear sentence describing the visible action |
-| **Lighting plan** | Lighting type, direction, intensity, and relevant source |
-| **Sound plan** | Diegetic or non-diegetic sound, on-screen or off-screen sound, specific cues, and ambience |
-| **Equipment needed** | Lens, tripod, microphone, recorder, light, reflector, or other required equipment |
+1. **Shot number**
+2. **Estimated duration**
+3. **Shot type**
+4. **Camera angle**
+5. **Camera movement**
+6. **One-sentence action description**
+7. **Lighting plan**
+8. **Sound plan**
+9. **Equipment needed**
 
-## Storyboard guidelines
+<figure class="media-card">
+  <img
+    src="imgs/Storyboard-Example.jpg"
+    alt="Storyboard example from the film Parasite showing drawn frames and production annotations"
+  >
+  <figcaption>
+    Storyboard example from <em>Parasite</em>, directed by Bong Joon-ho.
+  </figcaption>
+</figure>
 
-- The storyboard must follow the script.
-- Do not introduce actions that are absent from the script.
-- Use one or two locations maximum.
-- Plan realistic camera movements, lighting, and sound.
-- Use only equipment you can access and operate safely.
-- Artistic drawing skill is not graded; visual and technical clarity are graded.
+[Review storyboard examples from film, animation, and games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}.
 
-Review the available equipment:
+<h2 id="select-shot-types">Select shot types</h2>
 
-- [DSLR cameras and lenses](../Cameras.md){:target="_blank"}
-- [Lighting equipment](../Lighting.md){:target="_blank"}
-- [Audio equipment](../Audio.md){:target="_blank"}
+Shot type describes the camera’s distance from the subject. It determines how much of the environment is visible and how close the audience feels to the action.
 
-## Export the storyboard
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
-- **Format:** PDF
-- **Filename:** `Lastname_Firstname_Storyboard.pdf`
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-WLS.jpg"
+      alt="Wide long shot showing a subject from a significant distance"
+    >
+    <figcaption>
+      <strong>WLS — Wide/Long Shot:</strong> Shows the subject from a significant distance and emphasizes the environment. Example: <em>The Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
 
-You may complete the template digitally or by hand. A handwritten version must be clearly scanned and compiled into one PDF.
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-FS.jpg"
+      alt="Full shot showing the subject's entire body"
+    >
+    <figcaption>
+      <strong>FS — Full Shot:</strong> Frames the complete body of the subject. Example: <em>Alone</em> by Shane P. Liao.
+    </figcaption>
+  </figure>
 
-<fieldset class="equipment-checklist">
-  <legend>Annotated storyboard check</legend>
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-MWS.jpg"
+      alt="Medium wide shot framing a subject from approximately the knees upward"
+    >
+    <figcaption>
+      <strong>MWS — Medium Wide Shot:</strong> Frames the subject approximately from the knees upward. Example: <em>suitcase</em> by Visuall kris.
+    </figcaption>
+  </figure>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The storyboard contains six to ten shots.</strong></span>
-  </label>
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-MS.jpg"
+      alt="Medium shot framing a subject from approximately the waist upward"
+    >
+    <figcaption>
+      <strong>MS — Medium Shot:</strong> Frames the subject approximately from the waist upward. Example: <em>For Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The estimated shot durations total approximately 60 seconds.</strong></span>
-  </label>
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-MCU.jpg"
+      alt="Medium close-up framing a subject from the chest or shoulders upward"
+    >
+    <figcaption>
+      <strong>MCU — Medium Close-Up:</strong> Frames the subject from the chest or shoulders upward. Example: <em>PAREIDOLIA</em> by Carlos Andrés Reyes.
+    </figcaption>
+  </figure>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every shot includes framing, movement, lighting, sound, action, and equipment information.</strong></span>
-  </label>
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-CU.jpg"
+      alt="Close-up in which a face or object fills most of the frame"
+    >
+    <figcaption>
+      <strong>CU — Close-Up:</strong> Allows a face, gesture, or object to fill most of the frame. Example: <em>Alone</em> by Shane P. Liao.
+    </figcaption>
+  </figure>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The storyboard matches the script and uses achievable production choices.</strong></span>
-  </label>
+  <figure class="media-card">
+    <img
+      src="imgs/Shot-Subject.jpg"
+      alt="Subject framed through environmental elements within the larger camera frame"
+    >
+    <figcaption>
+      <strong>Frame within a Frame:</strong> Uses doors, windows, mirrors, or other environmental elements to enclose the subject. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PDF uses the required filename.</strong></span>
-  </label>
-</fieldset>
+</div>
+
+<h2 id="select-camera-angles">Select camera angles</h2>
+
+Camera angle describes the camera’s vertical and relational position to the subject. It can affect how the viewer perceives power, vulnerability, stability, and psychological tension.
+
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
+
+  <figure class="media-card">
+    <img
+      src="imgs/Angle-EyeLevel.jpg"
+      alt="Eye-level camera angle positioned at the subject's eye height"
+    >
+    <figcaption>
+      <strong>Eye Level:</strong> Positions the camera at the subject’s eye height and produces a familiar perspective. Example: <em>For Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Angle-Low.jpg"
+      alt="Low camera angle looking upward at a subject"
+    >
+    <figcaption>
+      <strong>Low Angle:</strong> Looks upward at the subject and can suggest dominance, authority, or psychological weight. Example: <em>Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Angle-Overhead.jpg"
+      alt="Overhead camera angle looking directly down on a subject"
+    >
+    <figcaption>
+      <strong>Overhead / Bird’s-Eye View:</strong> Looks directly downward and can create distance, abstraction, or observation. Example: <em>Alone</em> by Shane P. Liao.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Angle-OverShoulder.jpg"
+      alt="Over-the-shoulder camera angle positioned behind one character"
+    >
+    <figcaption>
+      <strong>OTS — Over-the-Shoulder:</strong> Positions the camera behind a character to create a relational perspective. Example: <em>Unknown</em> by Akil Joefield.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Angle-Dutch.jpg"
+      alt="Dutch camera angle with a visibly tilted horizon"
+    >
+    <figcaption>
+      <strong>Dutch Angle:</strong> Tilts the horizon to create instability, tension, or psychological imbalance. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Angle-POV.jpg"
+      alt="Point-of-view camera angle showing what a character sees"
+    >
+    <figcaption>
+      <strong>POV — Point of View:</strong> Shows the scene from a character’s visual perspective. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+</div>
+
+<h2 id="plan-camera-movement">Plan camera movement</h2>
+
+Camera movement describes whether and how the camera moves during a shot. Choose movements that are realistic for the available equipment and that support the action.
+
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
+
+  <figure class="media-card">
+    <img
+      src="imgs/Movement-Static.gif"
+      alt="Example of a static shot recorded without camera movement"
+    >
+    <figcaption>
+      <strong>Static:</strong> The camera remains still. This is the most controllable option. Example: <em>Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Movement-PanHor.gif"
+      alt="Example of a camera panning horizontally from one side to another"
+    >
+    <figcaption>
+      <strong>Pan:</strong> The camera rotates left or right on a fixed base. Use a tripod for control. Example: <em>Kick Me</em> by Jefferies Brothers.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Movement-PanVer.gif"
+      alt="Example of a camera tilting vertically upward or downward"
+    >
+    <figcaption>
+      <strong>Tilt:</strong> The camera rotates upward or downward on a fixed base. Use a tripod for control. Example: <em>Kick Me</em> by Jefferies Brothers.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Movement-Dolly.gif"
+      alt="Example of a dolly movement carrying the camera forward or backward"
+    >
+    <figcaption>
+      <strong>Dolly:</strong> The camera physically moves toward or away from the subject. Only three dollies are available to book. Example: <em>2 AM COFFEE</em> by Forrain.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Movement-Zoom.gif"
+      alt="Example of a zoom changing the apparent size of a subject without moving the camera"
+    >
+    <figcaption>
+      <strong>Zoom:</strong> The lens changes focal length while the camera remains stationary. Use this movement sparingly. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Movement-Handheld.gif"
+      alt="Example of controlled handheld camera movement"
+    >
+    <figcaption>
+      <strong>Handheld:</strong> The camera is held by the operator, creating natural instability. Movement must remain deliberate and controlled. Example: <em>2 AM COFFEE</em> by Forrain.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Write a one-sentence action description
+
+Describe what happens in each shot using one concise, visual sentence.
+
+**Formula:** `[Subject] + [physical action] + [relevant object or environment]`
+
+> She repeatedly taps her pencil and avoids looking at the unfinished page.
+
+## Develop a lighting plan
+
+The lighting plan should identify:
+
+- The available or planned light sources
+- The direction of each source
+- The relative intensity of each source
+- How the light affects the subject and environment
+- Any equipment required to create or control the light
+
+> Keep the lighting plan realistic for the available equipment, location, and production schedule.
+
+<h2 id="light-sources">Light sources</h2>
+
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
+
+  <figure class="media-card">
+    <img
+      src="imgs/Light-Artificial.jpg"
+      alt="Example of a scene illuminated with artificial film lighting"
+    >
+    <figcaption>
+      <strong>Artificial Lighting:</strong> Light created by equipment such as LED, tungsten, or fluorescent fixtures. Example: <em>Breathe</em> by View35 Films.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Light-Practical.jpg"
+      alt="Example of a visible practical light illuminating a scene"
+    >
+    <figcaption>
+      <strong>Practical Lighting:</strong> A visible source within the frame, such as a lamp, candle, television, or streetlight, that also illuminates the scene. Example: <em>Unknown</em> by Akil Joefield.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Light-Natural.jpg"
+      alt="Example of a scene illuminated primarily by natural daylight"
+    >
+    <figcaption>
+      <strong>Natural Lighting:</strong> Light from the sun, moon, or existing ambient conditions. Example: <em>For Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Light-Natural2.jpg"
+      alt="Additional example of natural or ambient light shaping a scene"
+    >
+    <figcaption>
+      A second natural-light example from <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+</div>
+
+### Character portrait lighting setups
+
+[Review 24 portrait and character-lighting setups](https://medium.com/@sukeshgtambi/24-portrait-character-lighting-setups-photography-cinematography-bdd7a967407c){:target="_blank"}.
+
+<figure class="media-card">
+  <img
+    src="imgs/LightPortrait-Diagram.jpg"
+    alt="Reference diagram presenting multiple portrait and character-lighting arrangements"
+  >
+  <figcaption>
+    Reference chart for planning the direction and placement of character lighting.
+  </figcaption>
+</figure>
+
+## Develop a sound plan
+
+The sound plan should identify:
+
+- The type of sound
+- Whether the source is on-screen or off-screen
+- When the sound begins, changes, or ends
+- How the sound relates to the visual action
+- Whether the sound will be recorded during production or created during editing
+
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/Sound-NonDieg.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Non-diegetic Sound:</strong> Audio outside the world of the scene, including music, voiceover, and added sound design. Example: a subtle instrumental underscore gradually increases the tension in <em>suitcase</em> by Visuall kris.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/Sound-Dieg.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Diegetic Sound:</strong> Audio that exists within the world of the scene. It may be on-screen or off-screen. Example: rain strikes the visible window while thunder sounds from outside the frame in <em>Unknown</em> by Akil Joefield.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/Sound-Amb.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Ambience:</strong> Continuous background sound establishing a location, such as wind, birds, traffic, machinery, or room tone. Example: park ambience in <em>Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/Sound-Cue.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Specific Sound Cue:</strong> A distinct sound connected to a precise visual action or moment. Example: an on-screen cellphone vibrates and rings, interrupting the established ambience in <em>Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+</div>
 
 </div>
 </details>
 
-<!--
+<!-- 
 /////////////////
 SECTION 4
 /////////////////
@@ -358,343 +636,84 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Complete the location scouting</span>
+    <span class="section-title">4. Location Scouting</span>
     <span class="section-description">
-      Evaluate one or two realistic locations for visual suitability, sound, access, safety, and production control.
+      Evaluate whether the proposed filming space is visually appropriate, accessible, controllable, and practical for production.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Complete this stage as homework.
+## Evaluate the production location
 
-## Download a template
+**Location scouting** is the process of selecting and evaluating the physical space where the film will be recorded.
 
-- [W7 Location Scouting Template — Fillable PDF](imgs/Location_Scouting_Template.pdf){:target="_blank"}
-- [W7 Location Scouting Template — Word document](imgs/Location_Scouting_Template.docx){:target="_blank"}
+It is not simply choosing a place. You must determine whether the location is:
 
-## Review the guidance
+- Visually appropriate for the story
+- Available and accessible during the production period
+- Realistic for the lighting plan
+- Suitable for recording sound
+- Large enough for the subject, camera, and equipment
+- Manageable within the production schedule
 
-- [W7 Pre-Production Framework: Location Scouting](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"}
-- [W7 Tutorials](../Tutorials/index.html?file=T-W7.json){:target="_blank"}
+Location scouting connects the **storyboard plan** to the **conditions of production**.
 
-## Location requirements
+## Complete the location-scouting document
 
-Scout **one or two locations maximum**. Choose spaces that are realistic, accessible, safe, and available during the production window.
+### 1. Location identification
 
-For each location, include:
+Identify the exact filming location. Include:
 
-| Category | Required information |
-|---|---|
-| **Location identification** | Interior or exterior, building name, and specific space |
-| **General photograph** | Wide photograph showing the complete area you intend to use |
-| **Lighting conditions** | Natural-light sources, intended time of day, practical lights, colour temperature, and limitations |
-| **Sound environment** | General sound level, foot traffic, public activity, mechanical noise, and external noise |
-| **Access and control** | Permission to film, scheduling restrictions, accessibility, and ability to control light and sound |
+- Interior or exterior
+- Building or site name
+- Room, floor, area, or precise outdoor section
+- Proposed production date and time
 
-Do not select a location unless you can reasonably access it and complete the planned shots there.
+The location must be real and accessible rather than hypothetical.
 
-## Export the location scouting
+### 2. General photographs of the location
 
-- **Format:** PDF
-- **Filename:** `Lastname_Firstname_LocationScouting.pdf`
+Include clear photographs showing:
 
-<fieldset class="equipment-checklist">
-  <legend>Location-scouting check</legend>
+- The overall layout
+- The depth and dimensions of the space
+- Possible camera positions
+- Possible subject positions
+- Windows, doors, power outlets, and existing light sources
+- Obstacles, reflective surfaces, and areas that should remain outside the frame
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Each location includes a clear wide photograph.</strong></span>
-  </label>
+### 3. Lighting conditions
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Lighting and sound conditions are documented.</strong></span>
-  </label>
+Describe the existing lighting and whether it supports the intended visual approach. Identify:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Permission, access, and production control have been considered.</strong></span>
-  </label>
+- Natural-light sources, direction, and intensity
+- Planned time of day
+- Existing practical lights
+- General colour temperature: daylight, tungsten, mixed, or unknown
+- Access to power
+- Limitations such as low light, mixed sources, or changing sunlight
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The selected locations match the script and storyboard.</strong></span>
-  </label>
+### 4. Sound environment
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PDF uses the required filename.</strong></span>
-  </label>
-</fieldset>
+Evaluate whether clean production sound is possible. Identify:
 
-</div>
-</details>
+- General noise level
+- Foot traffic and public activity
+- Heating, ventilation, air conditioning, appliances, or machinery
+- Street noise, construction, wind, or weather
+- Echo, reverberation, and other acoustic conditions
+- Times when the location is quieter or noisier
 
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
+### 5. Accessibility and control
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Create the equipment list</span>
-    <span class="section-description">
-      Identify the exact cameras, lenses, supports, lights, microphones, recorders, and accessories required for production.
-    </span>
-  </summary>
+Confirm whether the production can be completed safely and legally. Identify:
 
-<div class="section-content" markdown="1">
-
-Complete this stage as homework.
-
-## Build the equipment list
-
-List every item required to complete the storyboard and sound plan.
-
-The list must:
-
-- Match the annotated storyboard
-- Reflect the lighting and sound plans
-- Identify exact equipment rather than general categories
-- Include all necessary accessories
-- Use only realistic and available department equipment
-
-Do not write only `camera`, `microphone`, or `lights`.
-
-Use specific names such as:
-
-- `Canon EOS Rebel T4i`
-- `Canon EF-S 18–55mm lens`
-- `Fiilex P360 three-light LED kit`
-- `ZOOM H4n recorder`
-- `Camera tripod`
-- `XLR cable`
-
-Review the available equipment:
-
-- [DSLR cameras and lenses](../Cameras.md){:target="_blank"}
-- [Lighting equipment](../Lighting.md){:target="_blank"}
-- [Audio equipment](../Audio.md){:target="_blank"}
-
-Include relevant accessories such as:
-
-- Tripods and stands
-- Batteries and chargers
-- SD cards
-- Cables and adapters
-- Reflectors or modifiers
-- Headphones
-- White-balance card
-- Extension cords or power bars
-
-## Export the equipment list
-
-- **Format:** PDF
-- **Filename:** `Lastname_Firstname_EquipmentList.pdf`
-
-<fieldset class="equipment-checklist">
-  <legend>Equipment-list check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every item is identified by its specific equipment name.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The list includes the accessories needed to operate the equipment.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The equipment matches the storyboard, lighting plan, and sound plan.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>All requested equipment is available through the department or supplied personally.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PDF uses the required filename.</strong></span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 6
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Create the production schedule and attend feedback</span>
-    <span class="section-description">
-      Plan the complete shoot, include setup and buffer time, and have the production plan reviewed before recording.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Complete this stage as homework.
-
-## Production window
-
-**Thursday, March 5–Wednesday, March 11, 2026**
-
-- There are no classes on Thursday, March 5.
-- You must schedule and attend a one-to-one feedback meeting with the professor or TA before filming.
-- You may not begin filming until the plan has been reviewed.
-- All filming must be completed by Wednesday, March 11.
-- Do not wait until the final day to record.
-
-## Build the schedule
-
-Create a realistic and detailed production schedule containing:
-
-- Shoot date or dates
-- Start and end times
-- Location or locations
-- Setup time
-- Lighting and camera preparation
-- Sound preparation
-- Estimated time for each shot or sequence
-- Time for multiple takes
-- Reset time
-- Breaks when needed
-- File-transfer and backup time
-- A minimum of 20–30 minutes of buffer time
-
-The schedule should demonstrate that you understand how long setup, recording, resets, troubleshooting, and packing require.
-
-## Prepare for the feedback meeting
-
-Bring the following materials to the one-to-one meeting:
-
-- Micro-treatment
-- Script
-- Annotated storyboard
-- Location scouting
-- Equipment list
-- Production schedule
-
-Record the feedback you receive and revise the package before filming.
-
-## Export the schedule
-
-- **Format:** PDF
-- **Filename:** `Lastname_Firstname_Schedule.pdf`
-
-<fieldset class="equipment-checklist">
-  <legend>Production-schedule check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The schedule identifies exact dates, times, and locations.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Setup, recording, resets, file backup, and packing are included.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The schedule includes at least 20–30 minutes of buffer time.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The one-to-one feedback meeting occurs before the first recording session.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PDF uses the required filename.</strong></span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 7
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Assemble and submit the pre-production package</span>
-    <span class="section-description">
-      Verify the six PDFs, place them in one clearly named folder, compress the folder, and submit the final ZIP file.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Required deliverables
-
-| Item | Required filename |
-|---|---|
-| Micro-treatment | `Lastname_Firstname_MicroTreatment.pdf` |
-| Script | `Lastname_Firstname_Script.pdf` |
-| Annotated storyboard | `Lastname_Firstname_Storyboard.pdf` |
-| Location scouting | `Lastname_Firstname_LocationScouting.pdf` |
-| Equipment list | `Lastname_Firstname_EquipmentList.pdf` |
-| Production schedule | `Lastname_Firstname_Schedule.pdf` |
-
-## Assemble the package
-
-1. Create a folder named `Lastname_Firstname_PreProductionPackage`.
-2. Place the six required PDFs inside the folder.
-3. Confirm that every filename follows the required format.
-4. Open every PDF and confirm that it displays correctly.
-5. Confirm that handwritten pages are clear, correctly oriented, and combined into one file per document.
-6. Compress the complete folder into one ZIP file.
-
-## Final submission
-
-- **Submission item:** Pre-Production Package
-- **Format:** ZIP
-- **Filename:** `Lastname_Firstname_PreProductionPackage.zip`
-
-> Follow the submission protocol carefully. An incorrect filename, missing document, unreadable scan, or incorrectly packaged submission will result in a half-point deduction.
-
-<fieldset class="equipment-checklist">
-  <legend>Final submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>All six required PDFs are included.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every PDF opens and is readable.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every document uses the required filename.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The six documents are inside one correctly named folder.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The final ZIP is named <code>Lastname_Firstname_PreProductionPackage.zip</code>.</strong></span>
-  </label>
-</fieldset>
+- Whether permission is required or has been obtained
+- When the space is available
+- Whether doors, windows, lights, and sound sources can be controlled
+- Whether pathways and accessibility routes will remain clear
+- Whether the production can avoid disrupting classes, offices, or public activity
 
 </div>
 </details>
