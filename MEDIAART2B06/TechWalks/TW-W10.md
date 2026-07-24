@@ -192,9 +192,7 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## What is Foley## Sound-layer planning checklist
-
-<fieldset class="?
+## What is Foley
 
 **Foley** is custom-recorded sound that recreates or reinforces a physical action visible on screen. The sound is recorded separately and later synchronized with the image.
 
