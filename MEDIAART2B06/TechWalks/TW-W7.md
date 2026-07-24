@@ -45,7 +45,7 @@ The package will guide your script, storyboard, location decisions, equipment bo
 - **Required feedback:** One-to-one meeting with the professor or TA before filming
 - **Submission format:** One ZIP file containing six PDFs
 
-## Required files
+<!-- ## Required files
 
 | Document | Required filename |
 |---|---|
@@ -54,7 +54,7 @@ The package will guide your script, storyboard, location decisions, equipment bo
 | Annotated storyboard | `Lastname_Firstname_Storyboard.pdf` |
 | Location scouting | `Lastname_Firstname_LocationScouting.pdf` |
 | Equipment list | `Lastname_Firstname_EquipmentList.pdf` |
-| Production schedule | `Lastname_Firstname_Schedule.pdf` |
+| Production schedule | `Lastname_Firstname_Schedule.pdf` | -->
 
 ## Project stages
 
