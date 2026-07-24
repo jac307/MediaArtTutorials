@@ -137,7 +137,7 @@ For this project, the script must communicate a complete one-minute event throug
 
 <figure class="media-card">
   <img
-    src="imgs/88.jpeg"
+    src="imgs/Scrip-Example.jpeg"
     alt="Example pages from the WALL-E screenplay showing scene headings and visual action descriptions"
   >
   <figcaption>
@@ -199,7 +199,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
   <figure class="media-card">
     <img
-      src="imgs/89.gif"
+      src="imgs/Transition-Fade.gif"
       alt="Example of an image gradually fading in or fading out"
     >
     <figcaption>
@@ -209,7 +209,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
   <figure class="media-card">
     <img
-      src="imgs/90.gif"
+      src="imgs/Transition-CutTo.gif"
       alt="Example of an immediate cut between two shots"
     >
     <figcaption>
@@ -219,7 +219,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
   <figure class="media-card">
     <img
-      src="imgs/91.gif"
+      src="imgs/Transition-Dissolve.gif"
       alt="Example of one image gradually dissolving into another"
     >
     <figcaption>
@@ -229,7 +229,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
   <figure class="media-card">
     <img
-      src="imgs/92.gif"
+      src="imgs/Transition-HardCut.gif"
       alt="Example of an abrupt hard cut between images"
     >
     <figcaption>
@@ -239,7 +239,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
   <figure class="media-card">
     <img
-      src="imgs/93.gif"
+      src="imgs/Transition-JumpCut.gif"
       alt="Example of a jump cut that removes part of an action within the same framing"
     >
     <figcaption>
@@ -249,7 +249,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
   <figure class="media-card">
     <img
-      src="imgs/94.gif"
+      src="imgs/Transition-MatchCut.gif"
       alt="Example of a match cut connecting two visually similar shots"
     >
     <figcaption>
