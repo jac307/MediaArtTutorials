@@ -1,341 +1,797 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# Live Foley
 
-<h1 style="color: darkred;">Live Foley (Groups of 4)</h1>  
+## Group project · Groups of four
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/09.png" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Screenshots from live Foley performances by content creator and musician Josh Harmon
+<figure class="media-card">
+  <img
+    src="imgs/09.png"
+    alt="Examples of live Foley performances in which a performer creates sound effects using different objects"
+  >
+  <figcaption>
+    Screenshots from live Foley performances by content creator and musician Josh Harmon.
   </figcaption>
-</figure>   
+</figure>
 
----
+For this assignment, your group will create a **30-second live Foley performance** using multiple cameras, microphones, and audio recorders.
 
-For this assignment, you will create a **30-second live Foley performance** using **multiple cameras and audio recording devices**. The focus is on capturing both **subtle and louder live Foley sounds** from different perspectives.
+Your group will create all sounds live by performing with objects, materials, or instruments while watching an assigned silent-film clip.
 
-During **post-production**, the goal is to work with **Premiere Pro and Reaper** to professionally edit **multiple camera angles and microphone recordings** into a single dynamic audiovisual piece. You will use **picture-in-picture** to visualize the provided video clip corresponding to your live Foley performance.
+During post-production, you will combine:
 
-> ❗ **Attendance and engagement are part of the rubric.**  
-You are expected to work actively during class time and participate in all in-class activities.
+- Three camera perspectives
+- A directional shotgun-microphone recording
+- A detailed condenser-microphone recording
+- An ambient stereo recording
+- The original silent-film clip displayed using picture-in-picture
 
----
+You will assemble the visual edit in **Adobe Premiere Pro** and complete the final sound mix in **REAPER**.
 
-## Project Overview
+> All sounds must be produced during the live Foley performance. You may not add music, sound effects, Foley libraries, or other external audio during post-production.
 
-- **Format:** 30-second multi-camera video  
-- **Cameras:** Manual (M) Mode / Video / Three-camera setup / Cameras on tripod
-- **Lenses:** Use available lenses at your discretion  
-- **Audio:** Recorded separately using **multiple Zoom H4n handheld recorders and microphones**  
-- **Location:** Assigned workstations in **Togo Salmon Hall / McMaster U**
-- **Collaboration:**  
-  - **3 groups per station** for technical setup and support  
-  - **Submit in groups of 4 students** (each group submits their own project)
+> **Attendance and engagement are part of the rubric.** Each student is expected to participate actively in planning, setup, recording, equipment handling, performance, and post-production.
 
-## Examples  
+## Project overview
 
-Live Foleys by **Josh Harmon**  
-→ Popular content creator and musician known for his viral sound effects videos, where he uses drums and other instruments to recreate cartoon and cinematic sounds.   
-🌐 [Instagram](https://www.instagram.com/josh.harmon/){:target="_blank"}    
+- **Final duration:** Exactly 30 seconds
+- **Resolution:** 1920 × 1080 pixels
+- **Aspect ratio:** 16:9
+- **Frame rate:** 30 fps
+- **Camera mode:** Manual (`M`)
+- **Camera setup:** Three cameras mounted on tripods
+- **Audio:** Multiple microphones and ZOOM H4n recorders
+- **Location:** Assigned production stations in Togo Salmon Hall
+- **Project group:** Four students
+- **Station team:** Three project groups sharing one technical setup
+- **Submission:** One submission per group
 
-**Live Foley Example** by Paul Graves    
-→ Live Foley example for theatre: a live human performance where sound effects are created and performed in real time.  
-▶️ [Video](https://www.youtube.com/watch?v=Qpr1tY-XKMs){:target="_blank"}    
+## Distinguish your project group from your station team
 
----
+Your **project group** consists of four students who plan, perform, edit, and submit one Live Foley project.
 
-## Activities  
-**Complete the following in order. Ask the professor or TAs for support or feedback.**  
+Your **station team** consists of the three project groups assigned to the same production station.
 
-<ul>
-  <li><a href="#idea">1. Planning</a> - **Complete before class**</li>
-  <li><a href="#setup">2. Group Organization & Setup</a></li>
-  <li><a href="#recording">3. ❗ Station Check-In ❗</a></li>
-  <li><a href="#recording">4. Recording</a></li>
-  <li><a href="#wrap-up">5. Equipment Wrap-Up</a></li>
-  <li><a href="#premiere">6. Post-Production: Assemble in Premiere Pro</a></li>
-</ul>  
+The station team will:
 
----
+- Assemble the shared cameras, audio devices, lighting, monitor, and support equipment
+- Help each project group adjust the equipment
+- Remain present while the other groups record
+- Support equipment monitoring and troubleshooting
+- Complete the final equipment wrap-up together
 
-<h3 id="planning" style="color: darkred;">1. Planning [before Thursday]</h3>
+Each project group remains responsible for the artistic and technical quality of its own recording.
 
-> ❗ You must arrive prepared on Thursday, with your planning completed and the objects you will use for your live Foley.
+## Examples
 
----
+### Live Foley performances by Josh Harmon
 
-## Video You Will Foley
+Josh Harmon is a content creator and musician known for recreating animated and cinematic sounds using drums, percussion, instruments, and everyday objects.
 
-You will be given a **royalty-free clip from an old silent film**.
+[View Josh Harmon’s work on Instagram](https://www.instagram.com/josh.harmon/){:target="_blank"}
 
-- The videos are early silent films by **Georges Méliès**, sourced from the
-  [Internet Archive](https://archive.org/search?query=director%3A%22Georges+M%C3%A9li%C3%A8s%22){:target="_blank"}
-- All available clips for this assignment can be found
-  [here (Dropbox)](https://www.dropbox.com/scl/fo/nbocr6j3ko45enkiak1ns/AOGA2SXUiYmcv3wzPLdKnF4?rlkey=79rzy7d5isz5zg0ez85371yzw&dl=0){:target="_blank"}
-- **Download the file named with your group number** (as listed in the self-enrollment on Avenue to Learn)
-- Watch the full video as a group
-- **Select a 30-second time frame** from the clip that you will use for your live Foley performance
+### Live Foley for theatre
 
----
+Paul Graves demonstrates how Foley sounds can be created and performed live alongside a visual or theatrical action.
 
-## Planning
+[Watch the live Foley example](https://www.youtube.com/watch?v=Qpr1tY-XKMs){:target="_blank"}
 
-Before Thursday, your group must define your **creative and technical approach**, including **clear roles for each one**:  
+## Activities
 
-- **Three students** performing live Foley sounds on set (each producing different sounds)
-- **One student** monitoring the cameras and sound recorders
+Complete the activities in order. Ask the professor or TAs for technical support or feedback when needed.
 
-You must **practice individually and collectively** before Thursday so that your group is ready to perform the scene **2–3 times efficiently** during the production session.
+1. [Plan the Live Foley performance](#planning)
+2. [Organize the station and set up the equipment](#setup)
+3. [Record and review a complete test run](#test-run)
+4. [Complete the station check-in](#check-in)
+5. [Record the final takes](#recording)
+6. [Save the files and wrap up the equipment](#wrap-up)
+7. [Edit the video and sound](#post-production)
+8. [Prepare the documentation and submit](#submission)
 
-You may use **any objects or instruments**, but **all sound must be produced live**.  
-> **No added sound is allowed in post-production.**  
-All objects or instruments used should be **created, assembled, or adapted by your group**.
 
-For inspiration, you may watch the example below to explore different approaches and objects commonly used in Foley work.  
+<!--
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
-    src="https://www.youtube.com/embed/WFVLWo5B81w?si=7rUZplgVAk0stNCf"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div> 
+<details class="tutorial-section" id="planning">
+  <summary>
+    <span class="section-title">1. Plan the Live Foley performance</span>
+    <span class="section-description">
+      Complete the creative planning, assign group roles, select the 30-second scene, and prepare all Foley objects before Thursday.
+    </span>
+  </summary>
 
----
+<div class="section-content" markdown="1">
 
-## Brainstorming Document
+Complete this activity **before Thursday’s production class**.
 
-Create a **planning document** outlining the **objects and/or instruments** you need to bring and the **specific sounds** you will create based on the provided video clip.  
-This document **does not have a fixed format**; use whatever structure helps your group plan clearly and effectively.
+> Arrive on Thursday with your planning document completed and all required Foley objects, materials, or instruments ready to use.
 
-You can use the questions below to guide your preparation:
+## Download the assigned video
 
-**Creative & Sound Design**
-- What types of sounds does the clip require (footsteps, fabric, impacts, ambience, textures)?
-- What objects or instruments can you use to re-create each of these sounds?
-- Will you buy and/or how will you create, modify, or adapt these objects?
-- Which sounds need to be subtle, and which need to be louder and more prominent?
-- How will you vary rhythm, timing, and intensity to match the on-screen action?
-- How will you avoid overlapping or masking each other’s sounds?
+Your group will receive a royalty-free clip from an early silent film by **Georges Méliès**.
 
-**Roles & Technical Approach**
-- Who is responsible for each sound?
-- Who will get each of the objects or instruments you must bring?
-- Who is monitoring cameras and audio levels, and how will they communicate issues during recording?
-- How many times can your group realistically perform the scene without stopping?
+The clips are sourced from the [Internet Archive](https://archive.org/search?query=director%3A%22Georges+M%C3%A9li%C3%A8s%22){:target="_blank"}.
 
-### Submission
+All available clips are located in the [Live Foley Dropbox folder](https://www.dropbox.com/scl/fo/nbocr6j3ko45enkiak1ns/AOGA2SXUiYmcv3wzPLdKnF4?rlkey=79rzy7d5isz5zg0ez85371yzw&dl=0){:target="_blank"}.
 
-- ➡️ **Export as PDF**
-- 📄 **Filename:** `Group-#-Brainstorming.pdf`
+Your group must:
 
----
+1. Locate the file assigned to your group number.
+2. Download the video.
+3. Watch the complete clip together.
+4. Select one continuous **30-second section**.
+5. Record the exact beginning and ending timecodes.
+6. Use the selected section as the visual reference for the performance.
 
-<h3 id="setup" style="color: darkred;">2. Group Organization & Setup [40m]</h3>
+## Assign group roles
 
-You will be assigned to a **station (3 groups per station)**.  
+Each group has four students.
 
-All equipment required for each station will be **pre-arranged in the designated space**.  
-Each station will also include a **printed spreadsheet listing all equipment assigned to that station**.
+For the performance:
 
-Before beginning setup, your station group **must**:
-- Locate all equipment listed on the spreadsheet
-- **Double-check that every item is present**
-- Write down the **equipment number** for each item you receive
+- **Three students** perform the Foley sounds.
+- **One student** monitors the cameras and audio recorders.
 
-Each group is responsible for:
-- Setting up cameras, lights, and audio **together** following the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}
-> Checking the photos and notes you recorded during lecture time  
+The technical monitor should:
+
+- Confirm that all devices are recording
+- Watch the audio meters
+- Listen through headphones
+- Monitor the camera frames
+- Identify clipping, framing, focus, or equipment problems
+- Communicate technical concerns between takes
+
+Roles may change between rehearsals, but the final responsibilities must be clearly assigned before recording.
+
+## Plan the Foley sounds
+
+All sounds must be produced live.
+
+Possible sound categories include:
+
+- Footsteps
+- Clothing and fabric
+- Paper
+- Plastic
+- Wood
+- Metal
+- Glass
+- Impacts
+- Scraping
+- Rubbing
+- Tapping
+- Mechanical sounds
+- Environmental textures
+- Quiet details
+- Louder percussive actions
+
+You may use everyday objects, modified materials, handmade Foley devices, or musical instruments.
+
+All objects and instruments must be:
+
+- Brought by your group
+- Created, assembled, selected, or adapted for the performance
+- Safe to use in the production space
+- Quiet enough to handle between intended actions
+- Positioned within comfortable reach during the performance
+
+## Rehearse before production day
+
+Your group must practise individually and collectively before Thursday.
+
+During rehearsal:
+
+- Watch the selected scene repeatedly.
+- Identify every required sound.
+- Assign each sound to a performer.
+- Practise the timing of each action.
+- Determine which sounds must be quiet, medium, or loud.
+- Coordinate overlapping actions.
+- Avoid masking subtle sounds with louder actions.
+- Practise the complete sequence without stopping.
+- Prepare to perform the sequence two or three times during the production session.
+
+## Create the brainstorming document
+
+Create a planning document that identifies:
+
+- The selected 30-second time frame
+- Each sound required by the scene
+- The object or instrument used to produce each sound
+- The physical action used to produce it
+- The student responsible for each sound
+- The student responsible for technical monitoring
+- The objects and materials each student must bring
+- Any timing, coordination, or volume challenges
+
+The document does not have a fixed visual format. Use a table, timeline, annotated screenshot, written outline, or another structure that allows the group to plan clearly.
+
+Use these questions to guide the document.
+
+### Creative and sound-design questions
+
+- What kinds of sounds does the clip require?
+- Which sounds are subtle?
+- Which sounds are loud or prominent?
+- How will each sound correspond with the visible action?
+- How will rhythm, timing, and intensity change?
+- How will the performers avoid masking one another?
+- Which sounds should occur simultaneously?
+- Which sounds should remain isolated?
+
+### Technical and organizational questions
+
+- Who will produce each sound?
+- Who will obtain each object or instrument?
+- Who will monitor the cameras and audio recorders?
+- How will the monitor communicate a problem?
+- Where will each object be positioned?
+- How many complete rehearsals can the group perform?
+- How will the performers reset the objects between takes?
+
+### Export the brainstorming document
+
+- **Format:** PDF
+- **Filename:** `Group-#-Brainstorming.pdf`
+
+Replace `#` with your assigned group number.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section" id="setup">
+  <summary>
+    <span class="section-title">2. Organize the station and set up the equipment</span>
+    <span class="section-description">
+      Work with the other groups at the station to identify, assemble, position, and configure all cameras, microphones, recorders, lights, and support equipment.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+**Estimated time: 40 minutes**
+
+Three project groups will share each production station.
+
+All required equipment will be placed in the assigned space. Each station will also receive a printed list identifying the equipment assigned to it.
 
 Station locations and group assignments will be:
-- Posted on **Avenue to Learn**
-- Printed and posted in the space
-- Shown on slides in class
 
----
+- Posted on Avenue to Learn
+- Printed and displayed in the production space
+- Shown during class
 
-## Space Configuration  
+## Check the station inventory
 
-Follow the [W5 – Tech Walkthrough](../TechWalks/TW-W5.md){:target="_blank"} to set up your station.   
+Before assembling the equipment:
 
-- Define and set up a **main working area** to place all objects and instruments.  
-  You may be seated with a table in front of you, working on the floor, or using another configuration.  
-  Decide this **collectively**, ensuring that all groups are comfortable with the overall setup.
+1. Locate every item listed on the station inventory.
+2. Confirm that every camera, lens, recorder, microphone, stand, cable, light, and accessory is present.
+3. Record the equipment number for each item.
+4. Identify any missing or damaged components.
+5. Report problems to the professor or assigned TA before beginning the setup.
 
-- **Set up audio** using mic stands and **Zoom H4n recorders on tripods**, following the **Tech Walkthrough**.  
-  You may reposition microphones as needed for each group’s performance.
+Do not exchange equipment between stations without permission.
 
-- **Set up three cameras on tripods** and adjust positions as needed:
-  - Front / wide
-  - Side / wide
-  - Back or overhead angle
+## Follow the technical walkthrough
 
-- **Set up lighting** using one, two, or all three lights.  
-  Each group may adjust **intensity and colour temperature** as needed.
+Set up the complete station by following the [W5 Technical Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}.
 
-- Set the **video monitor** so you all can see the video while you do the live foley.
-  > This monitor must be positioned **within clear view of all performers**, as it will serve as your **live visual reference**.   
-  > Connect the video monitor to a computer.   
+Use the photographs and notes recorded during the in-class technical demonstration.
 
-⚠️ *Handle all equipment with care.  
-Divide tasks evenly and support one another during setup.*
+Divide the setup tasks between the three project groups.
 
----
+## Establish the Foley working area
 
-## Camera Settings
+Collectively select the central working area where the Foley objects and performers will be positioned.
 
-- All cameras **on tripods**
-- Set the camera to **Video Mode**
-- Set the **Aspect Ratio** to **16:9**
-- Set the **Resolution** to **1920 × 1080**
-- Set the **Frame Rate** to **30 fps**
-- Activate the **Grid**
-- Set the lens to **Manual Focus (MF)**
-- Set up **Custom White Balance**  
-  > Tip: Use a **balance card set** or a **white sheet of paper**
-- Use **Evaluative / Matrix Metering**
-- **Image Stabilization OFF**
-- Continue working in **Manual Mode (M)**  
-  > Each group may set its own **aperture, shutter speed, and ISO**
+The group may work:
 
----
+- Seated behind a table
+- Standing behind a table
+- On the floor
+- Around another safe working surface
+- Using another arrangement approved by the professor
 
-<h3 id="setup" style="color: darkred;">3. ❗ Station Check-In ❗</h3>
+The setup must:
 
-Before moving on to the next stage, call the **TA or instructor assigned to your station**.  
-They will verify that everything has been **set up correctly** before you continue to the recording step.
+- Keep all objects within reach
+- Allow three performers to work comfortably
+- Keep sound-producing gestures visible
+- Leave enough space for cameras, microphones, and lights
+- Keep doors, walkways, exits, and accessibility routes unobstructed
+- Work for all three project groups assigned to the station
 
----  
+Each project group may reorganize its objects before its own recording period.
 
-<h3 id="recording" style="color: darkred;">4. Recording [2h]</h3>
+## Set up the audio devices
 
-Each group records **two to three full takes**.
+Set up the three primary audio perspectives described in the technical walkthrough.
 
-- Organize a clear recording order within your **station**
-- Time per group: **30 minutes**
-- Each group is responsible for **self-managing time** throughout the activity
-- ❗ Each group (4 students) is **responsible** for the quality of its own recording.  
+### Detail microphone
 
-While other groups are recording, **your group must remain in the space and support the recording group**.   
+- Mount the **Sennheiser ME 80** on a microphone stand.
+- Connect it to a **ZOOM H4n** using an XLR cable.
+- Aim it toward the area containing the subtle Foley sounds.
+- Position it close to the intended objects without touching them.
+- Connect headphones to the recorder.
 
-Before pressing record, confirm that:
+### Directional camera microphone
 
-- All microphones are connected and powered  
-- Each recorder has **enough battery and storage**  
-- Audio levels are checked on **every device**  
-- Cameras are recording and framed correctly  
-- Lights are stable and not overheating  
-- Foley objects are prepared and within reach  
+- Connect the shotgun microphone to **Camera B**.
+- Position Camera B opposite the Sennheiser condenser microphone.
+- Aim the microphone toward the primary Foley action area.
+- Connect headphones when the camera supports monitoring.
 
----
+### Ambient recorder
 
-### Recording & Syncing Footage
+- Mount the second **ZOOM H4n** above or near the centre of the Foley station.
+- Use its built-in stereo microphones.
+- Angle the recorder toward the complete working area.
+- Keep it outside all camera frames.
+- Connect headphones to the recorder.
 
-- When ready:
-  - Press **record on all cameras**
-  - Perform a **single loud hand clap**
-  - Wait **2–3 seconds**, then begin speaking
+Microphone positions may be adjusted for each project group.
 
-- **Do not stop recording** on any camera until the end of the take  
-- Record the full live Foley performance as **one continuous clip** on all cameras and audio recording devices  
+## Set up the three cameras
 
-- Repeat the same process for the **second and third takes**
+Mount all cameras securely on tripods.
 
----  
+### Camera A — Front wide shot
 
-<h3 id="wrap-up" style="color: darkred;">4. Equipment Wrap-Up [20m]</h3>
+- Position the camera in front of the performers.
+- Use the default zoom lens included with the camera.
+- Frame the complete Foley working area.
+- Keep the performers, objects, hand movements, and sound-producing actions visible.
+- Record with the camera’s built-in microphone to provide reference audio for synchronization.
 
-When all groups have finished:
-- Power off all equipment
-- Use the **equipment list provided at your station** to **confirm that all items are present**
-- Store cameras, lenses, lights, and audio gear **properly in their assigned bags**
-  > For each piece of equipment, ensure that **all associated components** are returned to the **correct numbered bag**
-  > All components (e.g., batteries, SD cards, cables, mounts, adapters) are engraved or labeled with the same equipment number
-- Leave all equipment at the station for the instructor to collect  
+### Camera B — Side wide shot
 
-⚠️ *Handle all equipment with care.  
-Divide tasks evenly and support one another during wrap-up.*
+- Place the camera on one side of the Foley station, opposite the condenser microphone.
+- Connect the shotgun microphone directly to the camera.
+- Use a short focal-length or wide-angle lens.
+- Position the camera close enough for the shotgun microphone to capture useful directional sound.
+- Keep the important objects, gestures, and sound-producing actions within the frame.
 
----
+### Camera C — Back or overhead angle
 
-<h3 id="premiere" style="color: darkred;">5. Post-Production: Assemble in Premiere Pro and Work final Audio in Reaper [Begin in Class]</h3>
+- Position the camera behind the Foley station.
+- Raise it above the action when the available tripod permits.
+- Angle it downward toward the working surface.
+- Frame the objects, hands, gestures, and physical production of sound.
 
-Check: **[W5 - Tutorials](../Tutorials/index.html?file=T-W5.json){:target="_blank"} - Live Foley: Multi-Camera Video & Live Sound Workflow**   
+Camera C does not need to show every performer’s face. Its main purpose is to document how the sounds are physically produced.
 
-### Specifications for Premiere Pro
+## Position the video monitor
 
-- **Sequence Resolution:** 1920 × 1080  
-- Import footage from **all three cameras**
-- **Synchronize the audio from all three cameras** so you can begin editing your sequence  
-  > Keep **only the audio from the camera** that recorded sound with the **shotgun microphone**  
-  > *At this stage, use **shotgun camera audio only**. You will complete final audio work in Reaper.*
-- Use **cuts** to create visual rhythm
-- **Total duration:** 30 seconds
-- **Allowed transition:** Jump cuts only
-- Use **picture-in-picture** to add the video footage from the clip you are sonorizing.
-  > This inset video should be placed in **one of the corners** of the frame (top-left, top-right, bottom-left, or bottom-right).
-- Add **Title** and **Credits**
+Connect the video monitor to the computer containing the assigned film clip.
 
-### Edit your audio on Reaper
+Position it:
 
-> A small set of Reaper tutorials is provided for this assignment, focusing specifically on **importing video, syncing multiple audio sources, level balancing, normalization, and export**.  
-> These tutorials are meant as a **refresher**, not a full introduction to Reaper.
-> You are expected to **primarily rely on your previous knowledge of Reaper** developed in the Audio course with **Dr. Ogborn**.  
-> If needed, review the tutorials and notes from that course before seeking additional resources.
+- Within clear view of all performers
+- Outside all three camera frames
+- Away from microphones and stands
+- At a comfortable viewing height
+- Where performers do not need to turn away from their objects
+- With cables secured outside active walkways
 
-- Follow the tutorials to **import your edited video** into Reaper
-- Import and **synchronize the audio** from the video with the **two additional audio recordings** from the **Zoom H4n recorders**
-- Adjust audio levels so that **all sounds are clearly audible**  
-  > No sound should be **overwhelming** or **disproportionately louder or quieter** than the others
-- Follow the tutorials to **normalize audio and set an appropriate dynamic range**, ensuring the work clearly conveys its multiple sonic layers
-- Check final **export levels**, then **export your final video from Reaper**
-- 🚫 **No added music or external (non-live) sound effects**
+## Set up the lighting
 
-### Submission
+Follow the lighting arrangement demonstrated in the W5 Technical Walkthrough.
 
-- ➡️ **Export as MP4, codec 264**
-- 📄 **Filename:** `Group-#-LiveFoley.mp4`
+### Position the fill light first
 
----
+- Attach the softbox.
+- Position the fill light so it illuminates most of the Foley station.
+- Use it as the broad base illumination for the scene.
+- Check that the working surface, hands, and objects are visible.
 
-### Project Info PDF
+### Position the key light
 
-Create a **one–two page document** including:
+- Aim the key light primarily toward the performers.
+- Keep faces, bodies, and sound-producing gestures visible.
+- Adjust its intensity so it does not overpower the fill light.
 
-- **One representative still image**
-- **Title**
-- **Year**
-- **Authors**
-- **Live Foley Approach (2–3 sentences):**  
-  > Briefly describe your overall approach to live Foley for this project (e.g., performance strategy, coordination, sound priorities, or relationship between image and sound).
-- **Objects & Sound List:**  
-  > A short list of the **objects and/or instruments used**, clearly indicating **which sound each object produced** and **how it was performed** (e.g., action, gesture, pressure, rhythm).
+### Position the back light
 
-### Submission
+- Place the back light behind or beside the performers.
+- Use a lower intensity.
+- Create subtle separation between the performers and the dark background.
+- Avoid shining the light directly into a camera lens.
 
-- ➡️ **Export as PDF**  
-- 📄 **Filename:** `Group-#-LiveFoley.pdf`
+Lighting choices should prioritize the visibility of the objects and gestures producing sound.
+
+## Configure the cameras after positioning the lights
+
+Set the exposure only after the lighting arrangement is complete.
+
+Configure all three cameras as follows:
+
+- **Video Mode**
+- **Manual Mode:** `M`
+- **Aspect ratio:** `16:9`
+- **Resolution:** `1920 × 1080`
+- **Frame rate:** `30 fps`
+- **Shutter speed:** `1/60`
+- **Grid:** On
+- **Focus:** Manual Focus (`MF`)
+- **Metering:** Evaluative or Matrix
+- **Image Stabilization:** Off
+- **White Balance:** Fixed Custom White Balance
+- **Aperture:** Set manually
+- **ISO:** Set manually
+
+Do **not** use Auto ISO.
+
+After positioning the lights:
+
+1. Keep the shutter speed fixed at `1/60`.
+2. Select an aperture that provides sufficient depth of field.
+3. Adjust the manual ISO to complete the exposure.
+4. Compare the three camera images.
+5. Match their exposure and White Balance as closely as possible.
+6. Confirm the focus after changing the aperture.
+
+> Record the aperture and ISO used for each camera. You will need these settings when evaluating and troubleshooting the test recording.
+
+## Configure the ZOOM H4n recorders
+
+Set both recorders to:
+
+- **Format:** WAV
+- **Sample rate:** 48 kHz
+- **Bit depth:** 24-bit
+
+Before recording:
+
+- Confirm the correct input.
+- Activate phantom power only when required.
+- Connect headphones.
+- Test the intended sounds.
+- Set levels according to the loudest expected action.
+- Confirm that the signal does not clip.
+
+</div>
+</details>
 
 
----
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
 
-<h3 style="color: darkred;">📤 Submission (in pairs) </h3>
+<details class="tutorial-section" id="test-run">
+  <summary>
+    <span class="section-title">3. Record and review a complete test run</span>
+    <span class="section-description">
+      Perform the entire Foley sequence and evaluate the audio levels, synchronization, framing, focus, exposure, lighting, and performance timing.
+    </span>
+  </summary>
 
-| Item                               | Required Filename                      |
-|------------------------------------|----------------------------------------|
-| Brainstorming PDF                  | `Group-#-Brainstorming.pdf`            |
-| Final LiveFoley MP4                | `Group-#-LiveFoley.mp4`                |
-| Project Description PDF            | `Group-#-LiveFoley.pdf`                |
+<div class="section-content" markdown="1">
 
-> ⚠️ **Follow the submission protocols carefully. Incorrect submissions may result in lost points.**
+Before calling the professor or TA for the station check-in, each station must record and review a complete test run.
 
-________________________________________________________________________
+The test must reproduce the conditions of the final recording as closely as possible.
 
-Credits: Jessica A. Rodríguez
+Use:
 
-**AI Disclosure**:  
-AI Disclosure: AI tools (Microsoft Copilot and ChatGPT) were used for editing and clarity only. No original course content was generated using AI.
+- All three performers
+- All planned Foley objects
+- All three cameras
+- Both ZOOM H4n recorders
+- The shotgun microphone
+- The final lighting arrangement
+- The reference monitor
+- The complete 30-second scene
+
+## Record the test run
+
+Start the devices in this order:
+
+1. Start the ZOOM H4n connected to the Sennheiser ME 80.
+2. Start the ambient ZOOM H4n.
+3. Start Camera A.
+4. Start Camera B.
+5. Start Camera C.
+6. Confirm verbally that every device is recording.
+7. Announce the station or project-group number.
+8. Announce that this is a test recording.
+9. Perform one clear synchronization clap within view of all cameras.
+10. Wait approximately `2–3 seconds`.
+11. Start the reference video.
+12. Perform the complete Foley sequence.
+13. Wait several seconds after the scene ends.
+14. Stop all cameras and recorders.
+
+Include the quietest and loudest planned Foley actions.
+
+> Do not test only a short fragment. Problems with timing, framing, lighting, or audio levels may become visible only during a complete performance.
+
+## Review the audio
+
+Listen to the test recordings using headphones.
+
+Check the following:
+
+- The Sennheiser ME 80 captures the subtle Foley sounds.
+- Camera B receives sound from the connected shotgun microphone.
+- The ambient ZOOM H4n captures the complete Foley soundscape.
+- Camera A records clear reference audio for synchronization.
+- The synchronization clap is audible on every recording.
+- The quietest actions remain audible.
+- The loudest actions remain below clipping.
+- There is no distortion.
+- There is no excessive handling or cable noise.
+- The monitor or computer is not producing unwanted recorded sound.
+- No performer unintentionally covers or strikes a microphone.
+
+Adjust the microphone positions or recording levels when necessary.
+
+> Set the recording level according to the loudest action captured by each device. Clipped audio cannot be repaired during editing.
+
+## Review the camera footage
+
+Review the complete test from all three cameras.
+
+Check that:
+
+- Camera A shows the complete Foley station.
+- Camera B provides a clear side perspective.
+- Camera C shows the objects and physical sound-producing actions.
+- Important gestures remain within the frames.
+- Performers do not block important objects.
+- The focus remains consistent.
+- The synchronization clap is visible.
+- Cameras do not appear in one another’s frames.
+- Microphones, lights, stands, cables, and the monitor do not appear unintentionally.
+- The footage from all three cameras has compatible exposure and colour.
+
+## Review the lighting and exposure
+
+Check that:
+
+- The fill light illuminates most of the working area.
+- The softbox provides broad and controlled illumination.
+- The key light keeps the performers visible.
+- The back light creates subtle separation from the background.
+- Hands, objects, and working surfaces remain visible.
+- Heavy shadows do not conceal important actions.
+- Bright surfaces are not clipped.
+- Reflective objects do not create distracting glare.
+- The dark background remains distinct from the performers.
+- The manual ISO does not introduce excessive image noise.
+
+Adjust the lights before changing the camera exposure.
+
+After changing a light:
+
+1. Keep the shutter speed at `1/60`.
+2. Recheck the aperture.
+3. Recheck the manual ISO.
+4. Recheck the focus.
+5. Compare the three cameras.
+6. Record another complete test.
+
+## Review the performance
+
+Confirm that:
+
+- Every performer can see the monitor.
+- Every object is within reach.
+- Each action occurs at the intended moment.
+- Performers can complete the sequence without stopping.
+- Quiet and loud sounds remain appropriately balanced.
+- Objects can be reset quickly between takes.
+- Movements do not cause collisions or unintended noise.
+
+Repeat the test until the station is ready for inspection.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section" id="check-in">
+  <summary>
+    <span class="section-title">4. Complete the station check-in</span>
+    <span class="section-description">
+      Ask the assigned professor or TA to inspect the station and review the test recordings before final recording begins.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+After recording and reviewing the complete test run, call the professor or TA assigned to the station.
+
+Be prepared to show:
+
+- The station equipment inventory
+- The complete camera arrangement
+- The microphone positions
+- The lighting arrangement
+- The monitor placement
+- The camera settings
+- The audio-recorder settings
+- A section of the test footage from each camera
+- A section of the test audio from each recorder
+- The visible and audible synchronization clap
+
+The professor or TA will verify:
+
+- Equipment safety
+- Camera framing
+- Focus
+- Lighting coverage
+- Manual exposure settings
+- Audio levels
+- Microphone placement
+- Synchronization
+- Monitor visibility
+- Cable routing
+
+Complete any requested corrections before beginning the final takes.
+
+> Do not proceed to final recording until the station setup has been approved.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section" id="recording">
+  <summary>
+    <span class="section-title">5. Record the final takes</span>
+    <span class="section-description">
+      Record two or three complete performances while the other groups at the station provide technical and production support.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+**Total production period: approximately two hours**
+
+Each project group has approximately **30 minutes** to record its final performances.
+
+The three groups at each station must establish a clear recording order and manage the available time collectively.
+
+While another group records, remain at the station and assist with:
+
+- Monitoring cameras and recorders
+- Checking audio levels
+- Starting and stopping devices
+- Repositioning equipment
+- Resetting objects
+- Watching for framing or focus problems
+- Identifying technical failures
+
+Each group is responsible for the quality of its own recordings.
+
+## Prepare the Foley station
+
+Before each group records:
+
+- Arrange the group’s Foley objects.
+- Confirm that each object is within reach.
+- Confirm that all performers can see the monitor.
+- Adjust the detail microphone toward the subtle sounds.
+- Adjust Camera B and its shotgun microphone when necessary.
+- Confirm the ambient recorder’s position.
+- Recheck all three camera frames.
+- Recheck the lighting.
+- Recheck focus.
+- Recheck the aperture and manual ISO.
+- Confirm that all batteries and cards have sufficient capacity.
+- Confirm that both ZOOM recorders are set to WAV 48 kHz / 24-bit.
+- Listen through headphones.
+- Test the loudest planned Foley action.
+
+## Record each take
+
+Use the following process for every take:
+
+1. Start the Sennheiser ME 80 ZOOM recorder.
+2. Start the ambient ZOOM recorder.
+3. Start Camera A.
+4. Start Camera B.
+5. Start Camera C.
+6. Confirm verbally that every device is recording.
+7. Announce the group number.
+8. Announce the take number.
+9. Perform one clear hand clap within view of all three cameras.
+10. Wait approximately `2–3 seconds`.
+11. Start the reference video.
+12. Perform the complete 30-second Foley sequence.
+13. Continue recording for several seconds after the sequence finishes.
+14. Stop the cameras and recorders.
+
+Do not stop any device during the performance.
+
+The complete Foley scene must be recorded as one continuous take on every camera and audio recorder.
+
+## Record two or three takes
+
+After each take:
+
+- Confirm that every device created a file.
+- Review the beginning, synchronization clap, and ending.
+- Listen briefly to the audio.
+- Check for clipping or technical failure.
+- Identify performance problems.
+- Reset the objects.
+- Make only the necessary adjustments.
+- Record the next take.
+
+Record at least **two complete takes**. Record a third take when time allows or when the first two contain technical or performance problems.
+
+</div>
+</details>
+
+
+<!--
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section" id="wrap-up">
+  <summary>
+    <span class="section-title">6. Save the files and wrap up the equipment</span>
+    <span class="section-description">
+      Copy and organize every camera and audio file, then return all numbered equipment and accessories to their correct cases.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+**Estimated time: 20 minutes**
+
+Do not dismantle the station until every project group has confirmed that its files were recorded successfully.
+
+## Copy the files
+
+Each project group must collect:
+
+- Camera A footage
+- Camera B footage and shotgun-microphone audio
+- Camera C footage
+- Sennheiser ME 80 ZOOM recordings
+- Ambient ZOOM recordings
+- The assigned silent-film clip
+- The group’s brainstorming PDF
+
+Create a clearly labelled folder structure.
+
+Example:
+
+```text
+Group-#
+├── Camera-A
+├── Camera-B
+├── Camera-C
+├── ZOOM-Detail
+├── ZOOM-Ambient
+├── Reference-Video
+└── Documents
