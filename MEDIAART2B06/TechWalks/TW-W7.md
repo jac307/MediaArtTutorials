@@ -515,7 +515,7 @@ Camera movement describes whether and how the camera moves during a shot. Choose
 
   <figure class="media-card">
     <img
-      src="imgs/111.gif"
+      src="imgs/Movement-Static.gif"
       alt="Example of a static shot recorded without camera movement"
     >
     <figcaption>
@@ -545,7 +545,7 @@ Camera movement describes whether and how the camera moves during a shot. Choose
 
   <figure class="media-card">
     <img
-      src="imgs/113.gif"
+      src="imgs/Movement-Dolly.gif"
       alt="Example of a dolly movement carrying the camera forward or backward"
     >
     <figcaption>
@@ -565,7 +565,7 @@ Camera movement describes whether and how the camera moves during a shot. Choose
 
   <figure class="media-card">
     <img
-      src="imgs/112.gif"
+      src="imgs/Movement-Handheld.gif"
       alt="Example of controlled handheld camera movement"
     >
     <figcaption>
