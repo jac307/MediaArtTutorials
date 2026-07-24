@@ -12,7 +12,7 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="logline">
   <summary>
     <span class="section-title">1. Logline</span>
     <span class="section-description">
@@ -77,7 +77,7 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="script">
   <summary>
     <span class="section-title">2. Script</span>
     <span class="section-description">
@@ -230,7 +230,7 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="storyboard">
   <summary>
     <span class="section-title">3. Annotated Storyboard</span>
     <span class="section-description">
@@ -634,7 +634,7 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="scouting">
   <summary>
     <span class="section-title">4. Location Scouting</span>
     <span class="section-description">

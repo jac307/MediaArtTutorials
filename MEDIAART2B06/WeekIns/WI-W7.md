@@ -56,17 +56,6 @@ The package will guide your script, storyboard, location decisions, equipment bo
 - **Required feedback:** One-to-one meeting with the professor or TA before filming
 - **Submission format:** One ZIP file containing six PDFs
 
-## Required files
-
-| Document | Required filename |
-|---|---|
-| Micro-treatment | `Lastname_Firstname_MicroTreatment.pdf` |
-| Script | `Lastname_Firstname_Script.pdf` |
-| Annotated storyboard | `Lastname_Firstname_Storyboard.pdf` |
-| Location scouting | `Lastname_Firstname_LocationScouting.pdf` |
-| Equipment list | `Lastname_Firstname_EquipmentList.pdf` |
-| Production schedule | `Lastname_Firstname_Schedule.pdf` |
-
 ## Project stages
 
 Complete the following stages in order. Ask the professor or TAs for support and feedback during class.
@@ -215,14 +204,7 @@ Use the following scene-heading format:
 INT. / EXT. — LOCATION — TIME OF DAY
 ```
 
-Use transitions only when they support the intended edit. Options include:
-
-- Fade In / Fade Out
-- Cut To
-- Hard Cut
-- Jump Cut
-- Dissolve or Cross-Dissolve
-- Match Cut
+Use transitions only when they support the intended edit.  
 
 The completed script will guide the storyboard, equipment list, location scouting, and production schedule.
 
@@ -288,7 +270,7 @@ SECTION 3
 
 ## Review the guidance
 
-- [W7 Pre-Production Framework: Annotated Storyboard](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#annotated-storyboard){:target="_blank"}
+- [W7 Pre-Production Framework: Annotated Storyboard](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#storyboard){:target="_blank"}
 - [W7 Tutorials](../Tutorials/index.html?file=T-W7.json){:target="_blank"}
 
 ## Plan six to ten shots
@@ -386,7 +368,7 @@ Complete this stage as homework.
 
 ## Review the guidance
 
-- [W7 Pre-Production Framework: Location Scouting](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#location-scouting){:target="_blank"}
+- [W7 Pre-Production Framework: Location Scouting](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#scouting){:target="_blank"}
 - [W7 Tutorials](../Tutorials/index.html?file=T-W7.json){:target="_blank"}
 
 ## Location requirements
@@ -471,6 +453,7 @@ The list must:
 - Identify exact equipment rather than general categories
 - Include all necessary accessories
 - Use only realistic and available department equipment
+- Include accesories, batteries, extensions, etc.
 
 Do not write only `camera`, `microphone`, or `lights`.
 
@@ -488,17 +471,6 @@ Review the available equipment:
 - [DSLR cameras and lenses](../Cameras.md){:target="_blank"}
 - [Lighting equipment](../Lighting.md){:target="_blank"}
 - [Audio equipment](../Audio.md){:target="_blank"}
-
-Include relevant accessories such as:
-
-- Tripods and stands
-- Batteries and chargers
-- SD cards
-- Cables and adapters
-- Reflectors or modifiers
-- Headphones
-- White-balance card
-- Extension cords or power bars
 
 ## Export the equipment list
 
@@ -557,9 +529,9 @@ Complete this stage as homework.
 
 ## Production window
 
-**Thursday, March 5–Wednesday, March 11, 2026**
+**Period: 7-10 days**
 
-- There are no classes on Thursday, March 5.
+- There are no classes on next week in our 4-hour session. Use the time for production. 
 - You must schedule and attend a one-to-one feedback meeting with the professor or TA before filming.
 - You may not begin filming until the plan has been reviewed.
 - All filming must be completed by Wednesday, March 11.
@@ -588,12 +560,12 @@ The schedule should demonstrate that you understand how long setup, recording, r
 
 Bring the following materials to the one-to-one meeting:
 
-- Micro-treatment
-- Script
-- Annotated storyboard
-- Location scouting
-- Equipment list
-- Production schedule
+1. Micro-treatment
+2. Script
+3. Annotated storyboard
+4. Location scouting
+5. Equipment list
+6. Production schedule
 
 Record the feedback you receive and revise the package before filming.
 
@@ -677,35 +649,6 @@ SECTION 7
 - **Filename:** `Lastname_Firstname_PreProductionPackage.zip`
 
 > Follow the submission protocol carefully. An incorrect filename, missing document, unreadable scan, or incorrectly packaged submission will result in a half-point deduction.
-
-<fieldset class="equipment-checklist">
-  <legend>Final submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>All six required PDFs are included.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every PDF opens and is readable.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Every document uses the required filename.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The six documents are inside one correctly named folder.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The final ZIP is named <code>Lastname_Firstname_PreProductionPackage.zip</code>.</strong></span>
-  </label>
-</fieldset>
 
 </div>
 </details>
