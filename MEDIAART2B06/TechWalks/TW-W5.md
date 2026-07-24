@@ -408,9 +408,9 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Set-up and Configure the cameras</span>
+    <span class="section-title">4. Set-up cameras</span>
     <span class="section-description">
-      Match the settings across all three cameras and position them to document the complete Foley performance.
+      Position them to document the complete Foley performance.
     </span>
   </summary>
 
@@ -474,14 +474,6 @@ Configure all three cameras using matching settings whenever possible.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Set the Aperture and ISO.</strong>
-      Match the exposure across all three cameras as closely as possible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Activate the Grid.</strong>
     </span>
   </label>
@@ -491,21 +483,6 @@ Configure all three cameras using matching settings whenever possible.
     <span>
       <strong>Set the lens to Manual Focus (<code>MF</code>).</strong>
       Focus on the Foley action area and confirm that all required objects remain sharp.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set a fixed White Balance.</strong>
-      Use a balance card or white sheet of paper to establish a Custom White Balance across cameras.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select Evaluative or Matrix Metering.</strong>
     </span>
   </label>
 
@@ -570,7 +547,6 @@ Position and configure it as follows:
 </div>
 </details>
 
-
 <!--
 /////////////////
 SECTION 5
@@ -579,104 +555,149 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Configure the lighting and monitor</span>
+    <span class="section-title">Lighting setup — Three-point arrangement</span>
     <span class="section-description">
-      Illuminate the complete Foley station and position the reference monitor without obstructing performers or cameras.
+      Position the fill, key, and back lights to illuminate the Foley station clearly, then set the aperture and ISO manually.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Use the **Fiilex P360 LED three-light kit**.
+Begin by arranging the lights. After the lighting setup is complete, adjust the camera exposure manually.
 
-The lighting should make all performers, objects, surfaces, and gestures clearly visible from the three camera positions.
+## General lighting arrangement
 
-Review the [W2 Technical Walkthrough](TW-W2.html#2-lighting-setup-three-point-logic){:target="_blank"} for additional information about lighting placement.
+<div class="media-grid media-grid--two">
 
-## Lighting guidelines
+  <figure class="media-card">
+    <img
+      src="imgs/lighting-overview.png"
+      alt="General arrangement of the three-point lighting setup for the Foley station"
+    >
+    <figcaption>
+      General arrangement of the three-point lighting setup
+    </figcaption>
+  </figure>
 
-You may use one, two, or all three lights.
+  <figure class="media-card">
+    <img
+      src="imgs/fill-light.png"
+      alt="Fill light placement illuminating most of the Foley scene with a soft box"
+    >
+    <figcaption>
+      Fill light
+    </figcaption>
+  </figure>
 
-Position the lights to:
+  <figure class="media-card">
+    <img
+      src="imgs/key-light.png"
+      alt="Key light placement focused on the performers"
+    >
+    <figcaption>
+      Key light
+    </figcaption>
+  </figure>
 
-- Illuminate the complete working surface
-- Keep hands and objects visible
-- Avoid heavy shadows that conceal Foley actions
-- Reduce reflections on glossy objects
-- Maintain consistent colour temperature
-- Avoid shining directly into the performers’ eyes
-- Keep light stands outside the camera frames
-- Keep cables outside active walkways
+  <figure class="media-card">
+    <img
+      src="imgs/back-light.png"
+      alt="Back light placement creating separation from the background"
+    >
+    <figcaption>
+      Back light
+    </figcaption>
+  </figure>
 
-The lights may be positioned:
+</div>
 
-- In front of the performers
-- To either side
-- Behind the performers for separation
-- Above the working area when the stand and fixture can be positioned safely
-
-> Lighting choices should prioritize the visibility of the objects and gestures producing sound.
-
-## Position the video monitor
-
-Connect the monitor to the computer containing the reference video.
-
-Position it so that:
-
-- Every performer has a clear view
-- Performers can watch without turning away from their Foley objects
-- It remains outside all three camera frames
-- It does not obstruct a microphone or light
-- The screen does not create distracting reflections
-- Its cables do not cross active walkways
-
-## Check the complete visual setup
+## Position the lights
 
 <fieldset class="equipment-checklist">
-  <legend>Confirm the lighting and monitor placement</legend>
+  <legend>Set up the lighting</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>All Foley actions are visible from every required camera angle.</strong>
+      <strong>Position the fill light first.</strong>
+      Use the soft box on the fill light and place it so it illuminates most of the Foley station. This light should provide the general base illumination for the scene.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>No important object is hidden by a performer, microphone, stand, or cable.</strong>
+      <strong>Position the key light.</strong>
+      Aim the key light toward the performers so the people producing the Foley actions remain clearly visible.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The monitor is visible to every performer.</strong>
+      <strong>Position the back light.</strong>
+      Add a small amount of light from behind to help separate the performers and objects from the dark background.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The monitor remains outside all camera frames.</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Light stands and cables do not block walkways or accessibility routes.</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The White Balance and exposure remain consistent across all three cameras.</strong>
+      <strong>Check visibility across the whole setup.</strong>
+      Confirm that the objects, hands, and gestures remain visible on all cameras without harsh shadows blocking important actions.
     </span>
   </label>
 </fieldset>
+
+## Set the camera exposure after the lights
+
+After the lights are in place, set the camera exposure manually.
+
+<fieldset class="equipment-checklist">
+  <legend>Set the camera exposure</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shooting mode to <code>M</code>.</strong>
+      Use Manual Mode so the camera does not change the exposure automatically during recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shutter speed first.</strong>
+      Begin with <code>1/60</code> when recording at <code>30 fps</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the aperture manually.</strong>
+      Adjust the aperture according to the amount of light and the depth of field needed to keep the Foley table and actions visible.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the ISO manually.</strong>
+      Do <strong>not</strong> use Auto ISO. Raise or lower the ISO only after the lights and aperture have been set.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record a short test and review it.</strong>
+      Check the brightness, visibility of the hands and objects, and the balance between the lit table and the dark background.
+    </span>
+  </label>
+</fieldset>
+
+> Keep the exposure stable after the final lighting setup. Re-adjust it only if you significantly change the light positions or intensity.
 
 </div>
 </details>
@@ -688,7 +709,7 @@ SECTION 6
 /////////////////
 -->
 
-<details class="tutorial-section">
+<!-- <details class="tutorial-section">
   <summary>
     <span class="section-title">6. Synchronize and record the Foley performance</span>
     <span class="section-description">
@@ -825,7 +846,7 @@ Before dismantling the setup:
 > Do not dismantle the setup until the recordings from all three cameras and all three audio devices have been checked.
 
 </div>
-</details>
+</details> -->
 
 ---
 
