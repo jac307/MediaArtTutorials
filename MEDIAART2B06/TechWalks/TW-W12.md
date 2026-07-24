@@ -180,52 +180,6 @@ Use alignment, hierarchy, contrast, proximity, balance, and white space to make 
 
 > The information sheet represents the film professionally. Design decisions should support the work rather than compete with it.
 
-## Final-package checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before submitting</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export one representative still as a PNG.</strong>
-      Confirm that the image is sharp, well composed, and free from interface elements.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Verify all film information.</strong>
-      Check the title, names, year, country when included, and exact runtime.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Revise the logline and synopsis.</strong>
-      Make sure both texts describe the completed film rather than the original plan.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Credit every collaborator and sourced element.</strong>
-      Include creators, titles, sources, and licences for external sound or visual materials.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Proofread and export the information sheet.</strong>
-      Check spelling, hierarchy, spacing, image quality, and PDF readability.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -334,52 +288,6 @@ You may use an AI tool to identify recurring priorities in a posting without upl
 - Does the posting emphasize creative production, technical work, research, administration, or public engagement?
 
 Use this analysis to improve clarity and relevance. Do not copy language mechanically, invent experience, or exaggerate your level of expertise.
-
-## CV and resume checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Maintain an accurate professional record</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a complete master CV.</strong>
-      Add new projects, screenings, exhibitions, employment, awards, and service as they occur.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use consistent entry formatting.</strong>
-      Keep dates, titles, venues, locations, and roles in the same order throughout the document.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Describe skills accurately.</strong>
-      List software and production methods only when you can explain or demonstrate how you used them.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a shorter targeted version.</strong>
-      Prepare a one- or two-page resume that can be adapted for jobs, grants, screenings, or further study.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Proofread the final PDF.</strong>
-      Check names, dates, alignment, hierarchy, links, and page breaks.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -531,52 +439,6 @@ An application may also request:
   </figcaption>
 </figure>
 
-## Portfolio-materials checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Prepare work for review</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select work for the specific opportunity.</strong>
-      Prioritize relevance, quality, and range rather than including every project.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use accurate and consistent project information.</strong>
-      Confirm titles, dates, media, dimensions, durations, roles, and collaborator credits.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Choose strong documentation.</strong>
-      Use high-quality stills, installation views, interface images, or process documentation that helps explain the work.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check every link and media file.</strong>
-      Test public access, passwords, playback, audio, captions, and file permissions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Follow the submission limits.</strong>
-      Confirm page count, file size, duration, number of samples, naming format, and accepted file types.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -699,52 +561,6 @@ Add:
 
 > An artist bio introduces **you professionally**. An artist statement explains **your practice in your own voice**. Do not combine them unless an application explicitly requests one integrated text.
 
-## Artist-writing checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Review the bio and statement</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use the correct point of view.</strong>
-      Write the bio in third person and the statement in first person unless the application requests otherwise.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name specific media, themes, and methods.</strong>
-      Replace generic claims with concrete descriptions of the practice.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Match the requested word count.</strong>
-      Do not submit a longer version and expect the reviewer to edit it.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm every professional detail.</strong>
-      Check degrees, organizations, locations, titles, awards, and presentation history.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Read the text aloud.</strong>
-      Remove repetition, vague language, and sentences that do not sound natural in your voice.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -843,52 +659,6 @@ You may also paste a draft and request targeted revision support, such as:
 - Suggest minimal edits that make the letter more concise
 
 Always verify the result. AI tools may introduce incorrect details, generic language, or claims you did not make. The final letter remains your responsibility.
-
-## Application-letter checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before sending</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name the correct opportunity and organization.</strong>
-      Remove references copied from earlier applications.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Explain the specific fit.</strong>
-      Connect your experience or project to the actual responsibilities, theme, program, or context.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use concrete evidence.</strong>
-      Support major claims with a relevant project, role, skill, result, or example.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Follow all length and formatting requirements.</strong>
-      Confirm page count, file type, naming format, and requested headings or questions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Proofread the complete application.</strong>
-      Check names, titles, dates, links, attachments, spelling, and consistency with the CV and portfolio.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
