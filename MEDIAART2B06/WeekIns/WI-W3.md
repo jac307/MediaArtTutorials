@@ -120,7 +120,7 @@ Groups will be posted on Avenue to Learn before the recording session. Each pair
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Lense</strong>
+      <strong>Lens</strong>
       Choose and book one of the following lenses: `24 mm`, `35 mm`, or `50 mm`
     </span>
   </label>

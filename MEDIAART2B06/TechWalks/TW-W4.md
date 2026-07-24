@@ -314,7 +314,7 @@ Review the previous technical walkthroughs when necessary:
     <input type="checkbox">
     <span>
       <strong>Turn Image Stabilization on.</strong>
-      Activate the stabilization switch on the lens for handheld recording. Find the image stabilization switcher on the side of the lense. 
+      Activate the stabilization switch on the lens for handheld recording. Find the image stabilization switcher on the side of the lens. 
     </span>
   </label>
 

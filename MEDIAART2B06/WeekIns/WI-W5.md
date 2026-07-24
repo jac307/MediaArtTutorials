@@ -221,8 +221,8 @@ All required equipment will be pre-arranged at the assigned station. Each statio
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Three DSLR cameras</strong>
-      Cameras A, B, and C for front, side, and back or overhead perspectives.
+      <strong>Six cameras (Canon EOS Rebel T4i, Canon EOS Rebel T5i, and/or Canon EOS Rebel T7i)</strong>
+      Use three cameras as Cameras A, B, and C. Keep the remaining three as backups in case a battery runs out or an SD card becomes full or unavailable. <strong>Important:</strong> The Canon EOS Rebel T7i uses a different battery type. When using a T7i, book at least two T7i cameras so that a compatible backup is available.
     </span>
   </label>
 
@@ -254,7 +254,7 @@ All required equipment will be pre-arranged at the assigned station. Each statio
     <input type="checkbox">
     <span>
       <strong>Camera C lens</strong>
-      Used for the back or overhead perspective.
+      Used for the back or overhead perspective. You can use the default lens or book a different one.
     </span>
   </label>
 

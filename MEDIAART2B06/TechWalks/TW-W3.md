@@ -191,7 +191,7 @@ For Week 3, continue using the core recording settings introduced in the [W2 Tec
     <input type="checkbox">
     <span>
       <strong>Select and install one lens.</strong>
-      Choose an available lens that provides approximately <code>24 mm</code>, <code>35 mm</code>, or <code>50 mm</code>. This lense are perfect for landscape photography and videography. 
+      Choose an available lens that provides approximately <code>24 mm</code>, <code>35 mm</code>, or <code>50 mm</code>. This lenses are perfect for landscape photography and videography. 
     </span>
   </label>
 
