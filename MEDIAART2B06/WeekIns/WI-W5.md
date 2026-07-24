@@ -318,7 +318,7 @@ All required equipment will be pre-arranged at the assigned station. Each statio
     <input type="checkbox">
     <span>
       <strong>One video monitor and one computer</strong>
-      Used to display the assigned silent-film clip during the performance.
+      Used to display the assigned silent-film clip during the performance. For some of the stations, your will have access to a projector, for other stations, your will have access to a monitor. Bring your own computer. 
     </span>
   </label>
 
@@ -360,13 +360,7 @@ SECTION 4
 
 <div class="section-content" markdown="1">
 
-Three project groups will share each production station.
-
-Station locations and group assignments will be:
-
-- Posted on Avenue to Learn
-- Printed and displayed in the production space
-- Shown during class
+Station locations and group assignments will be posted on Avenue to Learn before the recording session. 
 
 ## Before beginning
 
@@ -401,7 +395,7 @@ Station locations and group assignments will be:
     <input type="checkbox">
     <span>
       <strong>Divide the setup responsibilities.</strong>
-      Assign students to prepare the working area, audio devices, cameras, lighting, backdrop, and monitor while continuing to support one another.
+      Assign students to prepare the working area, audio devices, cameras, lighting, and monitor while continuing to support one another.
     </span>
   </label>
 
@@ -439,32 +433,19 @@ Each project group may reorganize its objects before its recording period.
 
 ## Set up the three audio perspectives
 
-### Detail microphone
+For detailed microphone placement, connections, and recording settings, follow the [W5 Live Foley Technical Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}.
 
-- Mount the **Sennheiser ME 80** on a microphone stand.
-- Connect it to one **ZOOM H4n** using an XLR cable.
-- Aim it toward the area containing the most subtle Foley sounds.
-- Position it close to the intended objects without touching them.
-- Connect headphones to the recorder.
-
-### Directional camera microphone
-
-- Connect the shotgun microphone directly to **Camera B**.
-- Position Camera B opposite the Sennheiser condenser microphone.
-- Aim the microphone toward the primary sound-producing area.
-- Confirm that the camera is receiving the external microphone signal.
-
-### Ambient recorder
-
-- Mount the second **ZOOM H4n** above or near the centre of the Foley station.
-- Use its built-in stereo microphones.
-- Angle the recorder toward the complete working area.
-- Keep it outside all camera frames.
-- Connect headphones to the recorder.
+| Audio device | Connection or support | Primary role |
+|---|---|---|
+| **Sennheiser ME 80** | Microphone stand; connected to a ZOOM H4n with an XLR cable | Detail microphone for subtle Foley sounds |
+| **Shotgun microphone** | Connected directly to Camera B | Directional sound synchronized with the side camera |
+| **ZOOM H4n ambient recorder** | Mounted above or near the centre of the station | Overall stereo recording of the complete Foley performance |
 
 Microphone positions may be adjusted for each project group.
 
 ## Set up the three cameras
+
+For detailed camera placement and framing instructions, follow the [W5 Live Foley Technical Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}.
 
 | Camera | Lens | Support | Primary role |
 |---|---|---|---|
@@ -472,30 +453,17 @@ Microphone positions may be adjusted for each project group.
 | **Camera B** | Short focal-length or wide-angle lens | Tripod | Side wide shot with shotgun microphone |
 | **Camera C** | Available station lens | Tripod | Back or overhead view |
 
-### Camera A: front wide shot
+## Set up the three lights
 
-- Position the camera in front of the performers.
-- Use the default zoom lens included with the camera.
-- Frame the complete Foley working area.
-- Keep the performers, objects, hand movements, and sound-producing actions visible.
-- Record with the built-in microphone to provide reference audio for synchronization.
+For detailed light positioning and intensity instructions, follow the [W5 Live Foley Technical Walkthrough](../TechWalks/TW-W5.md){:target="_blank"}.
 
-### Camera B: side wide shot
+| Light | Modifier or position | Primary role |
+|---|---|---|
+| **Fill light** | Softbox; positioned first | Provides broad illumination across most of the Foley station |
+| **Key light** | Directed toward the performers | Keeps performers, gestures, and sound-producing actions visible |
+| **Back light** | Positioned behind or beside the performers at a lower intensity | Creates subtle separation from the dark background |
 
-- Position the camera on one side of the Foley station, opposite the condenser microphone.
-- Connect the shotgun microphone directly to the camera.
-- Use a short focal-length or wide-angle lens.
-- Keep the camera close enough for the microphone to capture useful directional sound.
-- Keep all important objects, gestures, and sound-producing actions within the frame.
-
-### Camera C: back or overhead angle
-
-- Position the camera behind the Foley station.
-- Raise it above the action when the available tripod permits.
-- Angle it downward toward the working surface.
-- Frame the objects, hands, gestures, and physical production of sound.
-
-> Camera C does not need to show every performer’s face. Its primary role is to document how the sounds are physically produced.
+> Lighting choices should prioritize the visibility of the objects, hands, gestures, and physical production of sound.
 
 ## Position the video monitor
 
@@ -511,34 +479,6 @@ Position it:
 - With cables secured outside active walkways
 
 The monitor should remain muted during the final recording.
-
-## Set up the lighting
-
-Use the **Fiilex P360 LED three-light kit**.
-
-### Fill light
-
-Position the fill light first.
-
-- Attach the softbox.
-- Illuminate most of the Foley station.
-- Create broad and controlled base illumination.
-- Keep the working surface, hands, and objects visible.
-
-### Key light
-
-- Aim the key light primarily toward the performers.
-- Keep faces, bodies, and sound-producing gestures visible.
-- Adjust its intensity so it does not overpower the fill light.
-
-### Back light
-
-- Place the back light behind or beside the performers.
-- Use a lower intensity.
-- Create subtle separation from the dark background.
-- Avoid shining the fixture directly into a camera lens.
-
-> Lighting choices should prioritize clear visibility of the objects and gestures producing sound.
 
 </div>
 </details>
