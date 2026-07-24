@@ -14,7 +14,15 @@ The package will guide your script, storyboard, location decisions, equipment bo
 
 > Attendance, participation, and active engagement during class activities are part of the project rubric.
 
-## Examples
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Examples</span>
+    <span class="section-description">
+      Checl 1-minute short film examples.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
 
 | Film | Year | Filmmaker |
 |---|---:|---|
@@ -31,6 +39,9 @@ The package will guide your script, storyboard, location decisions, equipment bo
 | [*Toast*](https://www.youtube.com/watch?v=xV9HnITo2C0){:target="_blank"} | 2017 | Moloney Media |
 | [*suitcase*](https://www.youtube.com/watch?v=j0HoMaaQj9I){:target="_blank"} | 2016 | Visuall Kris |
 | [*Love in Reverse*](https://www.youtube.com/watch?v=urQ2LNY9UUw){:target="_blank"} | 2016 | Jacque Rabie |
+
+</div>
+</details>
 
 ## Project overview
 
