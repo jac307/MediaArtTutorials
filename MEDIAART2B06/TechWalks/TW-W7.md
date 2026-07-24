@@ -1,506 +1,915 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# W7 — Pre-Production Framework
 
-<h1 style="color: darkred;">W7 — Pre-Production Framework</h1>
-<h2 style="color: darkred;">From Concept to Production Plan</h2>
+## From Concept to Production Plan
 
-This document guides you from concept to executable production plan supporting the [W7 - Pre-Production Package](../WeekIns/WI-W7.md){:target="_blank"} activities & submission.    
+This technical walkthrough supports the [W7 — Pre-Production Package](../WeekIns/WI-W7.md){:target="_blank"} activity and submission.
 
-## Sections
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-<ul>
-  <li><a href="#logline">Logline</a></li>
-  <li><a href="#script">Script</a></li>
-  <li><a href="#storyboard">Annotated Storyboard</a></li>
-  <li><a href="#location-scouting">Location Scouting</a></li>
-</ul>  
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Logline</span>
+    <span class="section-description">
+      Summarize the central action and emotional shift of the one-minute film in a single sentence.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Write a one-sentence logline
+
+A **logline** is a single-sentence summary that communicates the central dramatic action and emotional shift of a film.
+
+For a one-minute short, the logline should describe an event that can be shown through visible behaviour, objects, and environment. Avoid explaining a detailed backstory or introducing more events than can be filmed clearly within one minute.
+
+## Logline structures for a one-minute short
+
+### Character + simple action + emotional shift
+
+**Formula:** A `[character]` performs `[a clear physical action]` in `[a specific location]`, leading to `[an emotional change]`.
+
+> **Feature-film example:** *Rear Window*, directed by Alfred Hitchcock  
+> A photographer recovering from a broken leg watches his neighbours and begins to suspect that one of them committed a murder.
+>
+> **Compressed to a one-minute scale:** A photographer confined to an apartment watches the neighbours through a window and slowly becomes convinced that something is wrong.
+
+### Moment-based progression
+
+**Formula:** As `[a character performs an ongoing action]`, `[an emotional shift occurs]`.
+
+> **Feature-film example:** *Groundhog Day*, directed by Harold Ramis  
+> A self-centred weather reporter becomes trapped in a time loop and repeatedly experiences the same day.
+>
+> **Compressed to a one-minute scale:** As a man repeats the same morning routine, his frustration slowly turns into desperation.
+
+### Situation + small change
+
+**Formula:** In `[a specific situation]`, a `[character]` experiences `[a shift]` while `[performing a visible action]`.
+
+> **Feature-film example:** *Before Sunrise*, directed by Richard Linklater  
+> Two strangers meet on a train and spend one evening together in Vienna, knowing that it may be their only night together.
+>
+> **Compressed to a one-minute scale:** In a train compartment, two strangers sit in silence and gradually become aware of one another through small gestures.
+
+### Object-focused
+
+**Formula:** A `[character]` interacts with `[an object]` in `[a location]`, revealing `[an emotional shift]`.
+
+> **Feature-film example:** *WALL·E*, directed by Andrew Stanton  
+> A waste-collecting robot meets another robot and begins a journey that changes the future of humanity.
+>
+> **Compressed to a one-minute scale:** A lonely robot sorting discarded objects pauses over one item, revealing an unexpected sense of attachment.
+
+[Review additional movie logline examples on IMDb](https://www.imdb.com/list/ls533728711/){:target="_blank"}.
+
+## Logline checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Confirm the logline</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use one complete sentence.</strong>
+      Keep the description concise and focused on one central event.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify a character, action, and location.</strong>
+      Describe what the audience will be able to see rather than explaining an internal idea.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Include an emotional or situational shift.</strong>
+      Show how the character or situation changes during the film.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the scope realistic for one minute.</strong>
+      Remove additional locations, characters, and events that cannot be communicated clearly.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Script</span>
+    <span class="section-description">
+      Translate the logline into clear, shootable action using scene headings, visual description, and minimal transitions.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Develop a visual script
+
+A script is a **production document** that translates the logline into clear, shootable action.
+
+For this project, the script must communicate a complete one-minute event through behaviour and environment. Do not use dialogue. The script should contain:
+
+1. **Sluglines or scene headings**
+2. **Visual action**
+3. **Transitions**, when required
+
+<figure class="media-card">
+  <img
+    src="imgs/88.jpeg"
+    alt="Example pages from the WALL-E screenplay showing scene headings and visual action descriptions"
+  >
+  <figcaption>
+    The first three scenes from the <em>WALL·E</em> screenplay, written by Andrew Stanton and Pete Docter.
+  </figcaption>
+</figure>
+
+## Write sluglines or scene headings
+
+A **slugline** identifies where and when a scene takes place. Add a new slugline whenever the location, time, or interior/exterior status changes.
+
+**Formula:** `INT./EXT. + SPECIFIC LOCATION + TIME OF DAY`
+
+```text
+INT. CLASSROOM – NIGHT
+EXT. BUS STOP – LATE AFTERNOON
+INT. DORM ROOM – EARLY MORNING
+```
+
+Create a new scene only when there is:
+
+- A change in location or space
+- A change in time, such as morning to night or a later moment
+- A shift from an interior to an exterior location, or the reverse
+
+Continuous movement within the same space does **not** require a new scene.
+
+## Describe visual action
+
+The visual script describes what the audience can see. Include:
+
+- Physical behaviour
+- Movement
+- Interaction with objects
+- Spatial relationships
+- Environmental details that affect the action
+
+**Formula:** A `[character]` performs `[a specific physical action]` in `[a location]`, revealing emotion through behaviour.
+
+> A student repeatedly taps a pencil and avoids looking at the unfinished page.
+
+### Example: *WALL·E*
+
+The early screenplay communicates the world through short visual descriptions:
+
+- A vast landscape of trash
+- A small robot methodically stacking cubes
+- Silence, dust, and mechanical movement
+
+[Read the complete *WALL·E* screenplay on IMSDb](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}.
+
+## Use transitions selectively
+
+A transition indicates a change between shots or scenes. Most edits do not need to be written as transitions. Use transition labels only when the type of change is important to the planned rhythm or meaning.
+
+> In a one-minute film, transitions should remain minimal.
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/89.gif"
+      alt="Example of an image gradually fading in or fading out"
+    >
+    <figcaption>
+      <strong>Fade In / Fade Out:</strong> The image gradually appears from black or disappears to black.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/90.gif"
+      alt="Example of an immediate cut between two shots"
+    >
+    <figcaption>
+      <strong>Cut To:</strong> An immediate and neutral change from one shot or scene to another.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/91.gif"
+      alt="Example of one image gradually dissolving into another"
+    >
+    <figcaption>
+      <strong>Dissolve:</strong> One image gradually blends into another, often suggesting elapsed time or a soft emotional change.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/92.gif"
+      alt="Example of an abrupt hard cut between images"
+    >
+    <figcaption>
+      <strong>Hard Cut:</strong> An abrupt change that can create tension, surprise, or emphasis.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/93.gif"
+      alt="Example of a jump cut that removes part of an action within the same framing"
+    >
+    <figcaption>
+      <strong>Jump Cut:</strong> A visible jump within the same shot that compresses time or creates unease.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/94.gif"
+      alt="Example of a match cut connecting two visually similar shots"
+    >
+    <figcaption>
+      <strong>Match Cut:</strong> A cut connecting two shots through similar composition, movement, shape, or action.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Script checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Prepare the one-minute script</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Begin every scene with a complete slugline.</strong>
+      Identify the interior or exterior location, the specific space, and the time of day.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Describe only visible and recordable action.</strong>
+      Replace explanations of thoughts or feelings with behaviour, gesture, objects, and environment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Remove dialogue.</strong>
+      The story must be communicated through image, action, and sound.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the event achievable within one minute.</strong>
+      Read the script aloud or estimate the duration of each action.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use transitions only when they affect meaning.</strong>
+      Do not label every standard cut.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Annotated Storyboard</span>
+    <span class="section-description">
+      Divide the script into shots and plan the framing, angle, movement, lighting, sound, duration, and equipment for each one.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Translate the script into shots
+
+An annotated storyboard translates the script into a **visual production plan**.
+
+A new shot begins when you change:
+
+- The framing or shot size
+- The camera angle
+- The camera position
+- The camera movement or visual point of view
+
+## Include the required information
+
+For every storyboard panel, provide:
+
+1. **Shot number**
+2. **Estimated duration**
+3. **Shot type**
+4. **Camera angle**
+5. **Camera movement**
+6. **One-sentence action description**
+7. **Lighting plan**
+8. **Sound plan**
+9. **Equipment needed**
+
+<figure class="media-card">
+  <img
+    src="imgs/95.jpg"
+    alt="Storyboard example from the film Parasite showing drawn frames and production annotations"
+  >
+  <figcaption>
+    Storyboard example from <em>Parasite</em>, directed by Bong Joon-ho.
+  </figcaption>
+</figure>
+
+[Review storyboard examples from film, animation, and games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}.
+
+## Select shot types
+
+Shot type describes the camera’s distance from the subject. It determines how much of the environment is visible and how close the audience feels to the action.
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/103.jpg"
+      alt="Wide long shot showing a subject from a significant distance"
+    >
+    <figcaption>
+      <strong>WLS — Wide/Long Shot:</strong> Shows the subject from a significant distance and emphasizes the environment. Example: <em>The Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/96.jpg"
+      alt="Full shot showing the subject's entire body"
+    >
+    <figcaption>
+      <strong>FS — Full Shot:</strong> Frames the complete body of the subject. Example: <em>Alone</em> by Shane P. Liao.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/97.jpg"
+      alt="Medium wide shot framing a subject from approximately the knees upward"
+    >
+    <figcaption>
+      <strong>MWS — Medium Wide Shot:</strong> Frames the subject approximately from the knees upward. Example: <em>suitcase</em> by Visuall kris.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/98.jpg"
+      alt="Medium shot framing a subject from approximately the waist upward"
+    >
+    <figcaption>
+      <strong>MS — Medium Shot:</strong> Frames the subject approximately from the waist upward. Example: <em>For Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/99.jpg"
+      alt="Medium close-up framing a subject from the chest or shoulders upward"
+    >
+    <figcaption>
+      <strong>MCU — Medium Close-Up:</strong> Frames the subject from the chest or shoulders upward. Example: <em>PAREIDOLIA</em> by Carlos Andrés Reyes.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/100.jpg"
+      alt="Close-up in which a face or object fills most of the frame"
+    >
+    <figcaption>
+      <strong>CU — Close-Up:</strong> Allows a face, gesture, or object to fill most of the frame. Example: <em>Alone</em> by Shane P. Liao.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/102.jpg"
+      alt="Subject framed through environmental elements within the larger camera frame"
+    >
+    <figcaption>
+      <strong>Frame within a Frame:</strong> Uses doors, windows, mirrors, or other environmental elements to enclose the subject. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Select camera angles
+
+Camera angle describes the camera’s vertical and relational position to the subject. It can affect how the viewer perceives power, vulnerability, stability, and psychological tension.
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/104.jpg"
+      alt="Eye-level camera angle positioned at the subject's eye height"
+    >
+    <figcaption>
+      <strong>Eye Level:</strong> Positions the camera at the subject’s eye height and produces a familiar perspective. Example: <em>For Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/106.jpg"
+      alt="Low camera angle looking upward at a subject"
+    >
+    <figcaption>
+      <strong>Low Angle:</strong> Looks upward at the subject and can suggest dominance, authority, or psychological weight. Example: <em>Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/107.jpg"
+      alt="Overhead camera angle looking directly down on a subject"
+    >
+    <figcaption>
+      <strong>Overhead / Bird’s-Eye View:</strong> Looks directly downward and can create distance, abstraction, or observation. Example: <em>Alone</em> by Shane P. Liao.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/108.jpg"
+      alt="Over-the-shoulder camera angle positioned behind one character"
+    >
+    <figcaption>
+      <strong>OTS — Over-the-Shoulder:</strong> Positions the camera behind a character to create a relational perspective. Example: <em>Unknown</em> by Akil Joefield.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/109.jpg"
+      alt="Dutch camera angle with a visibly tilted horizon"
+    >
+    <figcaption>
+      <strong>Dutch Angle:</strong> Tilts the horizon to create instability, tension, or psychological imbalance. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/110.jpg"
+      alt="Point-of-view camera angle showing what a character sees"
+    >
+    <figcaption>
+      <strong>POV — Point of View:</strong> Shows the scene from a character’s visual perspective. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Plan camera movement
+
+Camera movement describes whether and how the camera moves during a shot. Choose movements that are realistic for the available equipment and that support the action.
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/111.gif"
+      alt="Example of a static shot recorded without camera movement"
+    >
+    <figcaption>
+      <strong>Static:</strong> The camera remains still. This is the most controllable option. Example: <em>Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/114.gif"
+      alt="Example of a camera panning horizontally from one side to another"
+    >
+    <figcaption>
+      <strong>Pan:</strong> The camera rotates left or right on a fixed base. Use a tripod for control. Example: <em>Kick Me</em> by Jefferies Brothers.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/115.gif"
+      alt="Example of a camera tilting vertically upward or downward"
+    >
+    <figcaption>
+      <strong>Tilt:</strong> The camera rotates upward or downward on a fixed base. Use a tripod for control. Example: <em>Kick Me</em> by Jefferies Brothers.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/113.gif"
+      alt="Example of a dolly movement carrying the camera forward or backward"
+    >
+    <figcaption>
+      <strong>Dolly:</strong> The camera physically moves toward or away from the subject. Only three dollies are available to book. Example: <em>2 AM COFFEE</em> by Forrain.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/116.gif"
+      alt="Example of a zoom changing the apparent size of a subject without moving the camera"
+    >
+    <figcaption>
+      <strong>Zoom:</strong> The lens changes focal length while the camera remains stationary. Use this movement sparingly. Example: <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/112.gif"
+      alt="Example of controlled handheld camera movement"
+    >
+    <figcaption>
+      <strong>Handheld:</strong> The camera is held by the operator, creating natural instability. Movement must remain deliberate and controlled. Example: <em>2 AM COFFEE</em> by Forrain.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Write a one-sentence action description
+
+Describe what happens in each shot using one concise, visual sentence.
+
+**Formula:** `[Subject] + [physical action] + [relevant object or environment]`
+
+> She repeatedly taps her pencil and avoids looking at the unfinished page.
+
+## Develop a lighting plan
+
+The lighting plan should identify:
+
+- The available or planned light sources
+- The direction of each source
+- The relative intensity of each source
+- How the light affects the subject and environment
+- Any equipment required to create or control the light
+
+> Keep the lighting plan realistic for the available equipment, location, and production schedule.
+
+### Light sources
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/122.jpg"
+      alt="Example of a scene illuminated with artificial film lighting"
+    >
+    <figcaption>
+      <strong>Artificial Lighting:</strong> Light created by equipment such as LED, tungsten, or fluorescent fixtures. Example: <em>Breathe</em> by View35 Films.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/123.jpg"
+      alt="Example of a visible practical light illuminating a scene"
+    >
+    <figcaption>
+      <strong>Practical Lighting:</strong> A visible source within the frame, such as a lamp, candle, television, or streetlight, that also illuminates the scene. Example: <em>Unknown</em> by Akil Joefield.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/124.jpg"
+      alt="Example of a scene illuminated primarily by natural daylight"
+    >
+    <figcaption>
+      <strong>Natural Lighting:</strong> Light from the sun, moon, or existing ambient conditions. Example: <em>For Milo</em> by Matthew D Gilpin.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/125.jpg"
+      alt="Additional example of natural or ambient light shaping a scene"
+    >
+    <figcaption>
+      A second natural-light example from <em>Anonymous Gift</em> by Michael Kitka.
+    </figcaption>
+  </figure>
+
+</div>
+
+### Character portrait lighting setups
+
+[Review 24 portrait and character-lighting setups](https://medium.com/@sukeshgtambi/24-portrait-character-lighting-setups-photography-cinematography-bdd7a967407c){:target="_blank"}.
+
+<figure class="media-card">
+  <img
+    src="imgs/117.jpg"
+    alt="Reference diagram presenting multiple portrait and character-lighting arrangements"
+  >
+  <figcaption>
+    Reference chart for planning the direction and placement of character lighting.
+  </figcaption>
+</figure>
+
+## Develop a sound plan
+
+The sound plan should identify:
+
+- The type of sound
+- Whether the source is on-screen or off-screen
+- When the sound begins, changes, or ends
+- How the sound relates to the visual action
+- Whether the sound will be recorded during production or created during editing
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/118.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Non-diegetic Sound:</strong> Audio outside the world of the scene, including music, voiceover, and added sound design. Example: a subtle instrumental underscore gradually increases the tension in <em>suitcase</em> by Visuall kris.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/119.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Diegetic Sound:</strong> Audio that exists within the world of the scene. It may be on-screen or off-screen. Example: rain strikes the visible window while thunder sounds from outside the frame in <em>Unknown</em> by Akil Joefield.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/120.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Ambience:</strong> Continuous background sound establishing a location, such as wind, birds, traffic, machinery, or room tone. Example: park ambience in <em>Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <video controls preload="metadata">
+      <source src="imgs/121.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>
+      <strong>Specific Sound Cue:</strong> A distinct sound connected to a precise visual action or moment. Example: an on-screen cellphone vibrates and rings, interrupting the established ambience in <em>Jump</em> by Adrian León.
+    </figcaption>
+  </figure>
+
+</div>
+
+## Storyboard checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete every storyboard panel</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Number every shot and estimate its duration.</strong>
+      Confirm that the combined timing remains close to one minute.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the shot type, angle, and movement.</strong>
+      Use specific production terms rather than general descriptions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Write one visible action sentence.</strong>
+      Describe what the subject does and what appears in the frame.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Provide a practical lighting plan.</strong>
+      Identify the source, direction, intensity, and required equipment.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Provide a precise sound plan.</strong>
+      Identify diegetic, non-diegetic, ambient, and specific sounds when relevant.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>List the equipment required for each shot.</strong>
+      Include the camera, lens, support, lighting, and sound equipment.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Location Scouting</span>
+    <span class="section-description">
+      Evaluate whether the proposed filming space is visually appropriate, accessible, controllable, and practical for production.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Evaluate the production location
+
+**Location scouting** is the process of selecting and evaluating the physical space where the film will be recorded.
+
+It is not simply choosing a place. You must determine whether the location is:
+
+- Visually appropriate for the story
+- Available and accessible during the production period
+- Realistic for the lighting plan
+- Suitable for recording sound
+- Large enough for the subject, camera, and equipment
+- Manageable within the production schedule
+
+Location scouting connects the **storyboard plan** to the **conditions of production**.
+
+## Complete the location-scouting document
+
+### 1. Location identification
+
+Identify the exact filming location. Include:
+
+- Interior or exterior
+- Building or site name
+- Room, floor, area, or precise outdoor section
+- Proposed production date and time
+
+The location must be real and accessible rather than hypothetical.
+
+### 2. General photographs of the location
+
+Include clear photographs showing:
+
+- The overall layout
+- The depth and dimensions of the space
+- Possible camera positions
+- Possible subject positions
+- Windows, doors, power outlets, and existing light sources
+- Obstacles, reflective surfaces, and areas that should remain outside the frame
+
+### 3. Lighting conditions
+
+Describe the existing lighting and whether it supports the intended visual approach. Identify:
+
+- Natural-light sources, direction, and intensity
+- Planned time of day
+- Existing practical lights
+- General colour temperature: daylight, tungsten, mixed, or unknown
+- Access to power
+- Limitations such as low light, mixed sources, or changing sunlight
+
+### 4. Sound environment
+
+Evaluate whether clean production sound is possible. Identify:
+
+- General noise level
+- Foot traffic and public activity
+- Heating, ventilation, air conditioning, appliances, or machinery
+- Street noise, construction, wind, or weather
+- Echo, reverberation, and other acoustic conditions
+- Times when the location is quieter or noisier
+
+### 5. Accessibility and control
+
+Confirm whether the production can be completed safely and legally. Identify:
+
+- Whether permission is required or has been obtained
+- When the space is available
+- Whether doors, windows, lights, and sound sources can be controlled
+- Whether pathways and accessibility routes will remain clear
+- Whether the production can avoid disrupting classes, offices, or public activity
+
+## Location-scouting checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Confirm the location</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the exact place and production time.</strong>
+      Avoid general descriptions such as “a classroom” or “outside.”
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Photograph the complete space.</strong>
+      Show enough information to plan the subject, camera, lights, sound equipment, and crew positions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Test the lighting conditions.</strong>
+      Visit at the planned production time whenever possible.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Listen to and document the sound environment.</strong>
+      Identify continuous noise and unpredictable interruptions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm access and permission.</strong>
+      Make sure the group can use the space for the required amount of time.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the storyboard is achievable in the location.</strong>
+      Revise planned shots that cannot be completed safely or practically.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
 
 ---
-
-<h2 id="logline" style="color: darkred;"> Logline </h2>  
-
-A **logline** is a single-sentence summary that **captures the core dramatic action and emotional shift** of the film in the most concise way possible.  
-
-### Logline Formulas for a 1-Minute Short
-
-**Character + Simple Action + Emotional Shift**   
-- A [character] [performs a clear physical action] in [specific location], leading to [emotional change].
-  
-  > e.g. [*Rear Window*, Director: Alfred Hitchcock]
-  > *A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder*.  
-  > **Compressed to 1-minute scale:** A photographer confined to his apartment watches his neighbors through a window and slowly becomes convinced something is wrong.  
-
-**Moment-Based Progression**  
-- As [character performs ongoing action], [emotional shift occurs].  
-  
-  > e.g. [*Groundhog Day*, Director:  Harold Ramis]
-  > *A narcissistic, self-centered and frustrated weatherman finds himself caught in a time warp loop on Groundhog Day, where he wakes up every morning having to face the same day again and again*.  
-  > **Compressed to 1-minute scale:** As a man relives the same morning routine again, his frustration slowly turns into desperation.  
-
-**Situation + Small Change**  
-- In [specific situation], a [character] experiences [shift] while [visible action].  
-  
-  > e.g. [*Before Sunrise*, Director:  Richard Linklater]
-  > *A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together*.  
-  > **Compressed to 1-minute scale:** In a train compartment, two strangers sit in silence, gradually becoming aware of one another through small gestures.  
-
-**Object-Focused**  
-- A [character] interacts with [object] in [location], revealing [emotional shift].  
-  
-  > e.g. [*WALL·E*, Director:  Andrew Stanton]
-  > *A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind*.  
-  > **Compressed to 1-minute scale:** A lonely robot sorting through discarded objects pauses over one item, revealing an unexpected sense of attachment.    
-
-🔗 [Movie Logline Examples for Screenwriters (IMDb)](https://www.imdb.com/list/ls533728711/){:target="_blank"}     
-
----
-
-<h2 id="script" style="color: darkred;"> Script </h2>   
-
-A script is a **production document** that translates your logline into clear, shootable action.   
-
-For this project, your script must communicate a complete one-minute visual event using only behavior and environment with the followin structure:  
-1. **Slugline** or **Scene Heading**
-2. **Visual Script**
-3. **Transitions**
-
-> <img src="imgs/88.jpeg" style="width: 80%; height: auto;">     
-> e.g. *WALL·E*, Script written by Andrew Stanton & Pete Docter (first three scenes) 
-
----
-
-### **Slugline** or Scene Heading  
-
-Each change in space is marked with a new slugline.  
-
-Slugline Formula:  
-**INT./EXT. + Specific Location + Time of Day**  
-> INT. CLASSROOM – NIGHT
-> EXT. BUS STOP – LATE AFTERNOON  
-> INT. DORM ROOM – EARLY MORNING  
-
-A new scene is required only if there is:  
-- A change in location/space    
-- A change in time (morning → night, “later”)    
-- A shift from INT. to EXT.  
-  
-Continuous movement within the same space **does not** create a new scene.  
-
----
-
-### **Transitions**  
-
-A transition indicates movement between scenes or the ending of a sequence.  
-> In a one-minute film, transitions should be minimal.
-
-#### Common Transitions:   
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Fade In / Fade Out</h4>
-    <p>The image gradually appears from black (FADE IN) or disappears to black (FADE OUT).</p>
-    <img src="imgs/89.gif" style="width: 100%; height: auto;">
-
-    <h4>Cut To</h4>
-    <p>An immediate change from one shot or scene to another. This is the most common and neutral transition.</p>
-    <img src="imgs/90.gif" style="width: 100%; height: auto;">
-
-    <h4>Dissolve (Cross-Dissolve)</h4>
-    <p>One image gradually blends into another. Often used to suggest the passage of time or a soft emotional shift.</p>
-    <img src="imgs/91.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Hard Cut</h4>
-    <p>An abrupt, sharp cut with no visual or sound smoothing. Can create tension, surprise, or emphasis</p>
-    <img src="imgs/92.gif" style="width: 100%; height: auto;">
-
-    <h4>Jump Cut</h4>
-    <p>A cut within the same shot that creates a visible “jump” in time. Often used to compress time or create unease.</p>
-    <img src="imgs/93.gif" style="width: 100%; height: auto;">
-
-    <h4>Match Cut</h4>
-    <p>A cut that connects two shots through similar composition, movement, or action.</p>
-    <img src="imgs/94.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>   
-
----
-
-### **Visual Script (Action Only)**  
-
-This is the body of your screenplay, describing:
-- Physical behavior  
-- Movement  
-- Interaction with objects  
-- Spatial relationships  
-- Environmental details that affect action  
-
-Visual Script Formula:  
-**Character + Clear Physical Action + Environmental Context**
-> A [character] performs [specific physical action] in [location], revealing emotion through behavior.  
-
-#### Example: *WALL·E* - Script written by Andrew Stanton & Pete Docter
-
-The early script describes action like this:  
-- *A vast landscape of trash.*  
-- *A small robot methodically stacking cubes.*  
-- *Silence, dust, mechanical movement.*  
-🔗 [WALL·E – Full Script (IMSDB)](https://imsdb.com/scripts/Wall-E.html){:target="_blank"}    
-
----
-
-<h2 id="storyboard" style="color: darkred;"> Annotated Storyboard </h2>   
-
-An annotated storyboard translates your script into a **visual production plan**.   
-  
-A storyboard is divided into shots. A new shot occurs when:  
-- You change framing  
-- You change camera angle  
-- You change camera position
-
-### Structure
-
-1. **Shot #**
-2. **Estimated Duration**
-3. **Shot Type**
-4. **Camera Angle**
-5. **Camera Movement**
-6. **One-Sentence Action Description**
-7. **Lighting Plan**
-8. **Sound Plan**
-9. **Equipment Needed**
-
-### Example: *Parasite* - Directed by Bong Joon-ho
-
-> <img src="imgs/95.jpg" style="width: 80%; height: auto;">    
-
-🔗 [46 Storyboard Examples from Movies, Animation, and Games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}  
-
----  
-
-#### Shot Types   
-
-Shot types indicate the **camera’s distance** from the subject, shaping how much of the environment is visible and **how emotionally close the viewer feels** to the action.
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>WLS - Wide/Long Shot</h4>
-    <p><strong>Captures a subject from a significant distance</strong>
-    <br>e.g. <em>The Jump</em> by Adrian León</p>
-    <img src="imgs/103.jpg" style="width: 100%; height: auto;">
-    
-    <h4>FS - Full Shot</h4>
-    <p><strong>Subject fully framed</strong>
-    <br>e.g. <em>Alone</em> by Shane P. Liao</p>
-    <img src="imgs/96.jpg" style="width: 100%; height: auto;">
-
-    <h4>MWS - Medium Wide Shot</h4>
-    <p><strong>Knees up</strong>
-    <br>e.g. <em>suitcase</em> by Visuall kris</p>
-    <img src="imgs/97.jpg" style="width: 100%; height: auto;">
-
-    <h4>Frame within a frame</h4>
-    <p><strong>Use environmental elements (doorways, windows, etc.) to enclose a subject within the main camera frame</strong>
-    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p>
-    <img src="imgs/102.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>MS - Medium Shot</h4>
-    <p><strong>Waist up</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p>
-    <img src="imgs/98.jpg" style="width: 100%; height: auto;">
-    
-    <h4>MCU - Medium Close-Up</h4>
-    <p><strong>Chest/shoulders up</strong>
-    <br>e.g. <em>PAREIDOLIA</em> by Carlos Andrés Reyes</p>
-    <img src="imgs/99.jpg" style="width: 100%; height: auto;">
-    
-    <h4>CU - Close Up</h4>
-    <p><strong>Face or object fills frame</strong>
-    <br>e.g. <em>Alone</em> by Shane P. Liao</p>
-    <img src="imgs/100.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>  
-
----  
-
-#### Camera Angles   
-
-Camera angles indicate the **camera’s vertical relationship** to the subject, shaping **how the viewer perceives power, vulnerability, balance, and psychological tension** within the frame.
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Eye-Level</h4>
-    <p><strong>The camera is positioned at the subject’s eye height - realistic perspective that mimics human vision.</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/104.jpg" style="width: 100%; height: auto;">
-
-    <h4>Low Angle</h4>
-    <p><strong>The camera looks up at the subject - suggest dominance, power, authority, or psychological weight.</strong>
-    <br>e.g. <em>Jump</em> by Adrian León</p> 
-    <img src="imgs/106.jpg" style="width: 100%; height: auto;">
-
-    <h4>Overhead / Bird’s-Eye View</h4>
-    <p><strong>The camera looks directly down from above - creates distance, abstraction, or a sense of observation.</strong>
-    <br>e.g. <em>Alone</em> by Shane P. Liao</p> 
-    <img src="imgs/107.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>OTS - Over-the-Shoulder</h4>
-    <p><strong>Camera is positioned behind one character - creates relational perspective and emotional alignment.</strong>
-    <br>e.g. <em>Unknown</em> by Akil Joefield</p> 
-    <img src="imgs/108.jpg" style="width: 100%; height: auto;">  
-    
-    <h4>Dutch Angle (Tilted Frame)</h4>
-    <p><strong>Camera is tilted so the horizon is slanted - creates instability, tension, or psychological imbalance.</strong>
-    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
-    <img src="imgs/109.jpg" style="width: 100%; height: auto;">
-
-    <h4>POV - Point of View</h4>
-    <p><strong>The camera shows exactly what a character sees - immerses the viewer in their visual experience.</strong>
-    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
-    <img src="imgs/110.jpg" style="width: 100%; height: auto;"> 
-
-  </div>
-
-</div>  
-
-
----  
-
-#### Camera Movements
-
-Camera movements indicate **if and how the camera moves during the shot**.    
-Movement must be realistic for your equipment. Options:      
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Static</h4>
-    <p><em>Camera remains still.
-    <br>Most realistic and most controllable.</em>
-    <br>e.g. <em>Milo</em> by Matthew D Gilpin</p>
-    <img src="imgs/111.gif" style="width: 100%; height: auto;"> 
-
-    <h4>Pan</h4>
-    <p><em>Camera rotates left or right on a fixed base.
-    <br>Realistic if on a tripod.</em>
-    <br>e.g. <em>Kick Me</em> by Jefferies Brothers</p>
-    <img src="imgs/114.gif" style="width: 100%; height: auto;">
-
-    <h4>Dolly</h4>
-    <p><em>Camera moves forward or backward toward/away from subject.
-    <br>⚠️ There are only three dollies available to book.</em>
-    <br>e.g. <em>2 AM COFFEE</em> by Forrain</p>
-    <img src="imgs/113.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-    
-    <h4>Zoom</h4>
-    <p><em>Lens changes focal length without moving the camera.
-    <br>Looks amateur if overused. Use sparingly.</em>
-    <br>e.g. <em>Anonymous Gift</em> by Michael Kitka</p>
-    <img src="imgs/116.gif" style="width: 100%; height: auto;">
-    
-    <h4>Tilt</h4>
-    <p><em>Camera moves up or down vertically on a fixed base.
-    <br>Realistic if on a tripod.</em>
-    <br>e.g. <em>Kick Me</em> by Jefferies Brothers</p>
-    <img src="imgs/115.gif" style="width: 100%; height: auto;">
-
-    <h4>Handheld</h4>
-    <p><em>Camera is held by hand, creating natural instability.
-    <br>Realistic, but must be controlled.</em>
-    <br>e.g. <em>2 AM COFFEE</em> by Forrain</p>
-    <img src="imgs/112.gif" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>  
-
-
----  
-
-#### One-Sentence Action Description
-
-One clear sentence describing what happens in the shot. It should be concise and visual.    
-
-Action Formula:   
-**Subject + Physical Action + Relevant Object/Environment**  
-> e.g. *She taps her pencil repeatedly and avoids eye contact with the paper.*   
-
----  
-
-#### Lighting Plan  
-
-The lighting plan is **clear and practical**. It **identifies the light sources** (natural, practical, or artificial), **their direction and intensity**, and **how they shape the scene** in relation to the camera and subject.  
-
-> For your Lighting Plan, be realistic with the available equipment.
-
-#### Light Sources  
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Artificial Lighting</h4>
-    <p><strong>Non-natural light source (LED, tungsten, fluorescent fixtures)</strong>
-    <br>e.g. <em>Breathe</em> by View35 Films</p> 
-    <img src="imgs/122.jpg" style="width: 100%; height: auto;">  
-
-    <h4>Practical Lighting</h4>
-    <p><strong>Any light source visible within the camera frame (lamps, candles, televisions, streetlights)that serves as part of the set design while illuminating the scene.</strong>
-    <br>ee.g. <em>Unknown</em> by Akil Joefield</p> 
-    <img src="imgs/123.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Natural Lighting</h4>
-    <p><strong>Uses non-artificial sources (sunlight, moonlight, or ambient).</strong>
-    <br>e.g. <em>For Milo</em> by Matthew D Gilpin</p> 
-    <img src="imgs/124.jpg" style="width: 100%; height: auto;">
-    <p>e.g. <em>Anonymous Gift</em> by Michael Kitka</p> 
-    <img src="imgs/125.jpg" style="width: 100%; height: auto;">
-
-  </div>
-
-</div>     
-
-#### Character Portrait Lighting Setups 
-
-🔗 [24 Portrait Character Lighting Setups](https://medium.com/@sukeshgtambi/24-portrait-character-lighting-setups-photography-cinematography-bdd7a967407c){:target="_blank"}  
-
-<img src="imgs/117.jpg" style="width: 100%; height: auto;">    
-
----  
-
-#### Sound Plan  
-
-The sound plan is **concise and functional**. It identifies the **type of sound**, **its source (on- or off-screen)**, and **its timing in relation to the visual action**.
-
-<div style="display: flex; gap: 2rem; width: 100%;">
-
-  <!-- LEFT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Non-diegetic sound</h4>
-    <p><strong>Audio that exist outside the word of the scene (music, sound design, voiceover)</strong>
-    <br>e.g. <em>suitcase</em> by Visuall kris
-    <br><em>Subtle instrumental underscore. Tension gradually increases, reinforcing the mystery as the camera follows the main character carrying a suitcase.</em></p>
-    <video controls style="width: 100%; height: auto;">
-     <source src="imgs/118.mp4" type="video/mp4">
-    </video> 
-
-    <h4>Specific Sound Cues</h4>
-    <p><strong>Continuous, underlying background noise of a location (wind, crowd chatter, traffic.)</strong>
-    <br>e.g. <em>Jump</em> by Adrian León
-    <br><em>On-screen cellphone vibrates and rings sharply, cutting through the steady night's tone.</em></p>
-    <video controls style="width: 100%; height: auto;">
-     <source src="imgs/121.mp4" type="video/mp4">
-    </video> 
-    
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="width: 50%;">
-
-    <h4>Diegetic sound</h4>
-    <p><strong>Audio that exists inside the world of the scene. It can be on-screen (visible) or off-screen (not visible).</strong>
-    <br>e.g. <em>Unknown</em> by Akil Joefield
-    <br><em>Continuous rain hitting the window (on-screen). Thunder rumbles off-screen. Occasional lightning flash briefly illuminates the window and interior.</em></p>
-    <video controls style="width: 100%; height: auto;">
-     <source src="imgs/119.mp4" type="video/mp4">
-    </video> 
-
-    <h4>Ambience</h4>
-    <p><strong>Continuous, underlying background noise of a location (wind, crowd chatter, traffic.)</strong>
-    <br>e.g. <em>Jump</em> by Adrian León
-    <br><em>Park ambience: wind through trees, distant birds. Natural ambience contrasts with the character’s energetic movement</em></p>
-    <video controls style="width: 100%; height: auto;">
-     <source src="imgs/120.mp4" type="video/mp4">
-    </video> 
-
-  </div>
-
-</div>  
-
----
-
-<h2 id="location-scouting" style="color: darkred;"> Location Scouting </h2>   
-
-**Location scouting** is the process of selecting and evaluating the physical space where your film will be shot.  
-
-It is not simply “choosing a place.” It involves assessing whether a location is:  
-- Visually appropriate for your story  
-- Practically accessible  
-- Realistic for lighting  
-- Suitable for recording sound  
-- Logistically manageable within your schedule  
-
-Location scouting bridges your **storyboard** and your **production reality**.   
-
----
-
-## Location Scouting Structure  
-
-### 1. Location Identification  
-
-This section specifies the exact filming location. It identifies whether the space is indoor or outdoor, names the building, and indicates the precise room, area, or floor to be used. Its purpose is to confirm that the location is real and accessible rather than conceptual or hypothetical.   
-
-### 2. General Photo of Location  
-
-This section includes clear photo(s) of the actual filming space. The images show the full layout, depth of the room, and available framing space. They allow viewers to understand spatial dimensions and how the camera, actors, and equipment can realistically be positioned.  
-
-### 3. Lighting Conditions  
-
-This section outlines the existing lighting conditions and evaluates whether they support the intended visual outcome. It identifies natural light sources (direction and intensity), planned time of day, existing practical lights, general colour temperature (daylight, tungsten, mixed, or unknown), and any limitations such as low light, mixed sources, or limited access to power.  
-
-### 4. Sound Environment  
-
-This section describes the acoustic conditions of the location and assesses whether clean production sound is achievable. It indicates general noise levels and identifies potential disturbances such as foot traffic, appliances, HVAC systems, street noise, wind, or public activity.  
-
-### 5. Accessibility & Control  
-
-This section confirms whether the production can realistically be executed in the space. It states whether filming permission has been obtained and whether lighting and sound can be controlled during production.
-
-________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-AI tools (ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
