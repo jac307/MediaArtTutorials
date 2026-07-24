@@ -68,44 +68,6 @@ For a one-minute short, the logline should describe an event that can be shown t
 
 [Review additional movie logline examples on IMDb](https://www.imdb.com/list/ls533728711/){:target="_blank"}.
 
-## Logline checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Confirm the logline</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use one complete sentence.</strong>
-      Keep the description concise and focused on one central event.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify a character, action, and location.</strong>
-      Describe what the audience will be able to see rather than explaining an internal idea.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include an emotional or situational shift.</strong>
-      Show how the character or situation changes during the film.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the scope realistic for one minute.</strong>
-      Remove additional locations, characters, and events that cannot be communicated clearly.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -258,52 +220,6 @@ A transition indicates a change between shots or scenes. Most edits do not need 
   </figure>
 
 </div>
-
-## Script checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Prepare the one-minute script</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Begin every scene with a complete slugline.</strong>
-      Identify the interior or exterior location, the specific space, and the time of day.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Describe only visible and recordable action.</strong>
-      Replace explanations of thoughts or feelings with behaviour, gesture, objects, and environment.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Remove dialogue.</strong>
-      The story must be communicated through image, action, and sound.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the event achievable within one minute.</strong>
-      Read the script aloud or estimate the duration of each action.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use transitions only when they affect meaning.</strong>
-      Do not label every standard cut.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -709,60 +625,6 @@ The sound plan should identify:
 
 </div>
 
-## Storyboard checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete every storyboard panel</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Number every shot and estimate its duration.</strong>
-      Confirm that the combined timing remains close to one minute.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the shot type, angle, and movement.</strong>
-      Use specific production terms rather than general descriptions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Write one visible action sentence.</strong>
-      Describe what the subject does and what appears in the frame.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Provide a practical lighting plan.</strong>
-      Identify the source, direction, intensity, and required equipment.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Provide a precise sound plan.</strong>
-      Identify diegetic, non-diegetic, ambient, and specific sounds when relevant.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>List the equipment required for each shot.</strong>
-      Include the camera, lens, support, lighting, and sound equipment.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -852,60 +714,6 @@ Confirm whether the production can be completed safely and legally. Identify:
 - Whether doors, windows, lights, and sound sources can be controlled
 - Whether pathways and accessibility routes will remain clear
 - Whether the production can avoid disrupting classes, offices, or public activity
-
-## Location-scouting checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Confirm the location</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the exact place and production time.</strong>
-      Avoid general descriptions such as “a classroom” or “outside.”
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Photograph the complete space.</strong>
-      Show enough information to plan the subject, camera, lights, sound equipment, and crew positions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test the lighting conditions.</strong>
-      Visit at the planned production time whenever possible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Listen to and document the sound environment.</strong>
-      Identify continuous noise and unpredictable interruptions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm access and permission.</strong>
-      Make sure the group can use the space for the required amount of time.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that the storyboard is achievable in the location.</strong>
-      Revise planned shots that cannot be completed safely or practically.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>

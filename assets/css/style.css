@@ -1278,8 +1278,11 @@ main:focus-visible {
 .tutorial-content
   .photography-examples--sixteen-nine
   .media-card img {
+  display: block;
   width: 100%;
+  height: auto;
   aspect-ratio: 16 / 9;
+  margin: 0;
   object-fit: cover;
   object-position: center;
 }
