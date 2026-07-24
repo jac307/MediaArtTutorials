@@ -700,82 +700,74 @@ Open:
 Lastname_Firstname_FinalCut.mp4
 ```
 
-Watch the complete export from beginning to end.
+## Review the final export
 
-Check:
-
-### Picture
-
-- No black frames
-- No missing media
-- Correct aspect ratio
-- Correct framing and crop
-- Consistent colour
-- No unexpected effects
-- Correct beginning and ending
-
-### Sound
-
-- All required layers are present
-- No clipping or distortion
-- No unexplained silence
-- No abrupt sound cuts
-- Correct synchronization
-- Balanced music, ambience, Foley, and SFX
-
-### Titles and credits
-
-- Correct spelling
-- Correct names
-- Correct roles
-- Complete sound credits
-- Readable text
-- Correct duration
-
-Re-export the file when any problem is found.
-
-<figure class="media-card">
-  <img
-    src="imgs/15.png"
-    alt="Adobe Premiere Pro export settings for an H.264 final video"
-  >
-  <figcaption>
-    Match the final export settings to the locked sequence and review the exported MP4 before submission.
-  </figcaption>
-</figure>
+Watch the complete export from beginning to end without stopping.
 
 <fieldset class="equipment-checklist">
-  <legend>Final-export check</legend>
+  <legend>Final export review checklist</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Export the final MP4.</strong>
-      Save <code>Lastname_Firstname_FinalCut.mp4</code> inside <code>04_Exports</code>.
+      <strong>Check the complete picture.</strong>
+      Confirm that there are no black frames, missing media, unexpected effects, or errors at the beginning or end.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Watch the exported file.</strong>
-      Review the actual MP4 rather than relying only on the timeline.
+      <strong>Check the aspect ratio and framing.</strong>
+      Confirm that the crop is correct and that all important visual information remains inside the frame.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Check the final sound mix.</strong>
-      Use headphones and confirm that every layer is present and controlled.
+      <strong>Check colour consistency.</strong>
+      Look for unexpected changes in exposure, white balance, contrast, or saturation.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Check titles and credits.</strong>
-      Correct spelling, roles, licences, readability, and duration.
+      <strong>Confirm that all sound layers are present.</strong>
+      Check the production sound, ambience, Foley, SFX, and music used in the final mix.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check sound quality and continuity.</strong>
+      Listen for clipping, distortion, unexplained silence, abrupt cuts, or synchronization problems.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the sound balance.</strong>
+      Confirm that music, ambience, Foley, SFX, and production sound support one another without any layer consistently overpowering the others.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review titles and credits.</strong>
+      Confirm correct spelling, names, roles, readable text, and accurate on-screen audio credits using the sound or music title and creator or author.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the final duration.</strong>
+      Check that the complete export follows the required runtime.
     </span>
   </label>
 
@@ -783,7 +775,7 @@ Re-export the file when any problem is found.
     <input type="checkbox">
     <span>
       <strong>Re-export when necessary.</strong>
-      Replace the previous file with the corrected final version.
+      Correct any picture, sound, title, credit, or duration problem and replace the previous export.
     </span>
   </label>
 </fieldset>
@@ -1066,58 +1058,6 @@ Submit the ZIP file through Avenue to Learn.
 The final project must be correctly submitted and technically usable to be included in the public screening.
 
 Incorrect filenames, missing deliverables, inaccessible files, broken media, or an incomplete package may prevent the work from being screened and may affect the grade.
-
-<fieldset class="equipment-checklist">
-  <legend>Final submission and screening check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare the complete project folder.</strong>
-      Confirm the Premiere Pro project, autosaves, renders, export, audio, stills, and documentation.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Complete the in-person grading check.</strong>
-      Present the organized project before the end of class.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Build the Final Cut Package.</strong>
-      Include the MP4, PDF, and required PNG stills.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name the ZIP correctly.</strong>
-      Use <code>Lastname_Firstname_FinalPackage.zip</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Open and verify every deliverable.</strong>
-      Confirm that the final film, Information Sheet, and stills remain accessible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit through Avenue to Learn.</strong>
-      Verify that the correct screening-ready ZIP file was uploaded.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
