@@ -74,15 +74,8 @@ Follow the approved pre-production plan while adapting responsibly to the condit
 - **Image Stabilization:** On for handheld recording; off when using a tripod or monopod
 - **Grid overlay:** On
 
-Metadata will be reviewed to confirm:
-
-- Camera model
-- Manual shooting mode
-- Resolution
-- Frame rate
-- Codec
-
 > Phone footage and stock footage are not permitted.
+> Metadata will be reviewed to confirm camera model, manual shooting mode, resolution, frame rate, and codec.
 
 ## Project stages
 
@@ -410,38 +403,6 @@ Complete the lighting setup before adjusting the final camera exposure.
       Reposition or modify the lights to reduce distracting reflections, glare, and unwanted shadows.
     </span>
   </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set Custom White Balance.</strong>
-      Establish the white balance after the lighting setup is complete.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Adjust the manual exposure settings.</strong>
-      Set the aperture, shutter speed, and ISO according to the final lighting conditions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the histogram.</strong>
-      Confirm that important highlights and shadows retain usable detail.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Recheck the setup after every major change.</strong>
-      Review the lighting, white balance, exposure, focus, and histogram whenever the camera, subject, or lights are repositioned.
-    </span>
-  </label>
 </fieldset>
 
 Do not rely on post-production to repair poorly positioned lighting or severely incorrect exposure.
@@ -540,6 +501,14 @@ Before recording each setup, complete the following checks.
       Confirm that the exposure retains usable detail and that all important actions remain inside the frame.
     </span>
   </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Recheck the setup after every major change.</strong>
+      Review the lighting, white balance, exposure, focus, and histogram whenever the camera, subject, or lights are repositioned.
+    </span>
+  </label>
 </fieldset>
 
 > Triple-check focus before pressing Record.
@@ -593,7 +562,7 @@ Before recording each setup, complete the following checks.
     <input type="checkbox">
     <span>
       <strong>Record room tone in every location.</strong>
-      Keep the recorder in the production position, ask everyone to remain still and silent, and record 20–30 uninterrupted seconds.
+      Keep the recorder in the production position, ask everyone to remain still and silent, and record 60-90 uninterrupted seconds.
     </span>
   </label>
 
@@ -671,7 +640,7 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Transfer, rename, and back up the files</span>
+    <span class="section-title">5. Transfer, rename, organize, and back up the files</span>
     <span class="section-description">
       Organize the original footage and sound immediately after each recording session and create a verified backup.
     </span>
@@ -679,24 +648,15 @@ SECTION 5
 
 <div class="section-content" markdown="1">
 
-Do not wait until the end of Production Week to organize your files.
-
 After every recording session:
 
 1. Transfer all video and audio files.
-2. Place them in the correct project folders.
-3. Rename them using the required naming protocol.
+2. Place them in the **correct project folders** (organization below).
+3. Rename them using the **required naming protocol** (below).
 4. Open representative files to confirm that they are playable.
 5. Create a second copy in a separate location.
 6. Verify the backup.
 7. Keep the original SD-card files until both copies have been confirmed.
-
-Do not delete or format an SD card until:
-
-- Every file has been transferred.
-- Every file has been renamed.
-- The files have been opened and verified.
-- A backup copy exists on a different device or cloud service.
 
 ## Video-file naming
 
@@ -714,7 +674,7 @@ Echo_S03_T02.mov
 
 The:
 
-- Project name should contain one or two words.
+- Project name should contain one or two words with no empty spaces.
 - Shot number must match the annotated storyboard.
 - Take number identifies the recording attempt.
 - Original file extension must remain unchanged.
@@ -882,17 +842,6 @@ It will be used for exported sequences and final project files.
 
 ## Verify the package
 
-Before compressing the folder:
-
-- Confirm that every required folder is present.
-- Confirm that all W7 files are included.
-- Confirm that all camera files are included.
-- Confirm that all production-audio files are included.
-- Confirm that filenames follow the required protocol.
-- Open files from each folder.
-- Confirm that `03_Renders` and `04_Exports` are present, even though they are empty.
-- Compare the Production Package with the backup copy.
-
 <fieldset class="equipment-checklist">
   <legend>Production Package check</legend>
 
@@ -996,42 +945,6 @@ If Avenue to Learn does not allow the ZIP file because of its size:
 Do not submit a link that requires the instructor or TA to request permission.
 
 > Follow the submission protocol carefully. Incorrect filenames, missing folders, inaccessible links, or incomplete files may result in grade deductions.
-
-<fieldset class="equipment-checklist">
-  <legend>Final submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name the ZIP correctly.</strong>
-      Use <code>Lastname_Firstname_ProductionPackage.zip</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Open and verify the ZIP.</strong>
-      Confirm that the complete folder structure and files are accessible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test the cloud link when required.</strong>
-      Confirm that it opens without requesting permission.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit through Avenue to Learn.</strong>
-      Confirm that the correct ZIP file or link document was uploaded.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
