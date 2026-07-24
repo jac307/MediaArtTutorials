@@ -477,7 +477,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
   <figure class="media-card">
     <img
-      src="imgs/108.jpg"
+      src="imgs/Angle-OverShoulder.jpg"
       alt="Over-the-shoulder camera angle positioned behind one character"
     >
     <figcaption>
@@ -487,7 +487,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
   <figure class="media-card">
     <img
-      src="imgs/109.jpg"
+      src="imgs/Angle-Dutch.jpg"
       alt="Dutch camera angle with a visibly tilted horizon"
     >
     <figcaption>
@@ -497,7 +497,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
   <figure class="media-card">
     <img
-      src="imgs/110.jpg"
+      src="imgs/Angle-POV.jpg"
       alt="Point-of-view camera angle showing what a character sees"
     >
     <figcaption>
