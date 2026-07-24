@@ -81,19 +81,6 @@ An influential example of low-light interior documentary filmmaking. Chiaroscuro
 
 > **Content warning:** This film depicts drug use, addiction, and precarious living conditions.
 
-<!-- ## Student Works
-
-Through carefully curated sequences of black and white images, the students of MEDIAART 2B06 (Winter 2026) developed a series of concise 30-second photo-films.
-
-[Online Gallery](https://media-studio-art.github.io/come-as-you-art/time-based/index.html){:target="_blank"} -->
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 2
-/////////////////
 -->
 
 <details class="tutorial-section">
@@ -170,7 +157,7 @@ SECTION 3
 
 You will be assigned to a station group of approximately **10 students**. Station locations and group assignments will be posted on Avenue to Learn before the recording session.
 
-Each station group is responsible for booking the equipment listed below. Because equipment is limited, submit only **one booking per station for each required item**. Coordinate with your group before booking to avoid duplicate reservations.
+Each station group is responsible for booking the equipment listed below. Because equipment is limited, submit only **one booking per station for each required item**. Coordinate with your station before booking to avoid duplicate reservations.
 
 ## Equipment checklist
 

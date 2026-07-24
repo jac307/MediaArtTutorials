@@ -19,7 +19,7 @@ During post-production, you will combine the three camera perspectives and three
 ## Project overview
 
 - **Format:** 30-second multi-camera Live Foley video
-- **Performance:** All sounds produced live during recording
+- **Performance:** Only sounds produced live during recording
 - **Cameras:** Three-camera setup on tripods
 - **Audio:** Shotgun microphone, condenser microphone, and ambient stereo recorder
 - **Lighting:** Three-point lighting adapted to the Foley station
@@ -27,7 +27,7 @@ During post-production, you will combine the three camera perspectives and three
 - **Production time:** During class
 - **Collaboration:** Work in station groups for setup and support; submit in groups of four
 - **Image orientation:** Landscape
-- **Post-production:** Adobe Premiere Pro and REAPER
+- **Post-production:** Adobe Premiere Pro
 
 ## Required camera settings
 
@@ -75,16 +75,6 @@ This example by Paul Graves demonstrates a live performance in which sound effec
 
 - [Watch the Live Foley example](https://www.youtube.com/watch?v=Qpr1tY-XKMs){:target="_blank"}
 
-## Consider while watching
-
-- How are individual sounds divided between performers?
-- Which objects produce subtle sounds?
-- Which objects produce louder impacts?
-- How do the performers follow the timing of the image?
-- How are objects arranged so they remain within reach?
-- How do performers avoid masking one another’s sounds?
-- How does the camera framing reveal the physical production of sound?
-
 </div>
 </details>
 
@@ -98,7 +88,7 @@ SECTION 2
   <summary>
     <span class="section-title">2. Plan the Live Foley performance</span>
     <span class="section-description">
-      Select the 30-second scene, assign roles, design the sound actions, and prepare the brainstorming document before class.
+      Get your 30-second scene, assign roles, design the sound actions, and prepare the brainstorming document before class.
     </span>
   </summary>
 
@@ -109,6 +99,8 @@ Complete this stage **before Thursday’s production class**.
 > Arrive with the planning document completed and all required Foley objects, materials, or instruments ready to use.
 
 ## Download the assigned video
+
+Group assignments will be posted on Avenue to Learn before the recording session.
 
 Your group will receive a royalty-free clip from an early silent film by **Georges Méliès**.
 
@@ -125,15 +117,7 @@ Each project group consists of four students:
 
 - **Three students** perform the Live Foley sounds.
 - **One student** monitors the cameras and audio recorders.
-
-The technical monitor should:
-
-- Confirm that all devices are recording
-- Watch the audio meters
-- Listen through headphones
-- Monitor the camera frames
-- Identify clipping, framing, focus, or equipment problems
-- Communicate technical concerns between takes
+- Other students in the same station can also support each group's recordings. 
 
 Roles may change during rehearsal, but the final responsibilities must be established before recording.
 
@@ -144,7 +128,7 @@ All sounds must be produced live during the recorded performance.
 Possible materials and actions include:
 
 - Fabric, paper, plastic, wood, glass, and metal
-- Footsteps
+- Footsteps / Shoes
 - Scraping
 - Tapping
 - Rubbing
@@ -156,31 +140,15 @@ Possible materials and actions include:
 
 You may use everyday objects, handmade Foley devices, adapted materials, or musical instruments.
 
-All objects and instruments must be:
+**All objects and instruments must be:**
 
-- Brought by your group
+- **Brought by your group**
 - Safe to use in the production space
 - Positioned within comfortable reach
 - Quiet to handle between intended sound actions
 - Resettable between takes
 
 > No music, stock audio, sound libraries, or sounds recorded after the production session may be added during post-production.
-
-## Rehearse before production day
-
-Your group must practise individually and collectively before Thursday.
-
-During rehearsal:
-
-- Watch the selected scene repeatedly.
-- Identify every required sound.
-- Assign each sound to a performer.
-- Practise the timing of each action.
-- Determine which sounds should be subtle, medium, or loud.
-- Coordinate overlapping actions.
-- Avoid masking quiet sounds with louder actions.
-- Practise the complete sequence without stopping.
-- Prepare to perform the scene two or three times during class.
 
 ## Create the brainstorming document
 
@@ -197,31 +165,28 @@ Create a planning document that identifies:
 
 The document does not have a fixed visual format. Use a table, timeline, annotated screenshot, written outline, or another structure that helps the group plan clearly.
 
-### Creative and sound-design questions
-
-- What sounds does the clip require?
-- Which sounds are subtle?
-- Which sounds are louder or more prominent?
-- How will each sound correspond with the visible action?
-- How will rhythm, timing, and intensity change?
-- Which sounds occur simultaneously?
-- How will the performers avoid masking one another?
-
-### Technical and organizational questions
-
-- Who will produce each sound?
-- Who will bring each object or instrument?
-- Who will monitor the cameras and audio devices?
-- How will the monitor communicate a problem?
-- Where will each object be positioned?
-- How will the objects be reset between takes?
-
 ## Submit the brainstorming document
 
 - **Format:** PDF
 - **Filename:** `Group-#-Brainstorming.pdf`
 
 Replace `#` with your assigned group number.
+
+## Rehearse before production day
+
+Your group must practise individually and collectively before Thursday.
+
+During rehearsal:
+
+- Watch the selected scene repeatedly.
+- Identify every required sound.
+- Assign specific sounds to each performer.
+- Practise the timing of each action.
+- Determine which sounds should be subtle, medium, or loud.
+- Coordinate overlapping actions.
+- Avoid masking quiet sounds with louder actions.
+- Practise the complete sequence without stopping.
+- Prepare to perform the scene two or three times during class.
 
 </div>
 </details>
@@ -241,6 +206,10 @@ SECTION 3
   </summary>
 
 <div class="section-content" markdown="1">
+
+Station locations and group assignments will be posted on Avenue to Learn before the recording session. There will be approximatelly **3 groups per station**.
+
+Each station group is responsible for booking the equipment listed below. Because equipment is limited, submit only **one booking per station for each required item**. Coordinate with your station before booking to avoid duplicate reservations.
 
 ## Station equipment
 
