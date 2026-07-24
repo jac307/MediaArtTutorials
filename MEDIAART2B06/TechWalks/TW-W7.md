@@ -669,7 +669,7 @@ The sound plan should identify:
 
   <figure class="media-card">
     <video controls preload="metadata">
-      <source src="imgs/118.mp4" type="video/mp4">
+      <source src="imgs/Sound-NonDieg.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
     <figcaption>
@@ -679,7 +679,7 @@ The sound plan should identify:
 
   <figure class="media-card">
     <video controls preload="metadata">
-      <source src="imgs/119.mp4" type="video/mp4">
+      <source src="imgs/Sound-Dieg.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
     <figcaption>
@@ -689,7 +689,7 @@ The sound plan should identify:
 
   <figure class="media-card">
     <video controls preload="metadata">
-      <source src="imgs/120.mp4" type="video/mp4">
+      <source src="imgs/Sound-Amb.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
     <figcaption>
@@ -699,7 +699,7 @@ The sound plan should identify:
 
   <figure class="media-card">
     <video controls preload="metadata">
-      <source src="imgs/121.mp4" type="video/mp4">
+      <source src="imgs/Sound-Cue.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
     <figcaption>
