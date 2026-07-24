@@ -126,7 +126,7 @@ Record all footage using:
 
 Review [W2 — Set Resolution, Aspect Ratio & Frame Rate](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-resolution-aspect-ratio--frame-rate){:target="_blank"}.
 
-<figure class="media-card">
+<figure class="media-card photography-examples--sixteen-nine">
   <img
     src="imgs/AspectRatios.png"
     alt="Diagram comparing the proportions of 16 by 9, 4 by 3, 1.85 to 1, and 2.35 to 1 aspect ratios"
@@ -218,7 +218,7 @@ Higher ISO:
 
 When a higher ISO is selected for aesthetic reasons, keep the choice consistent across connected shots.
 
-<div class="media-grid media-grid--two">
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
