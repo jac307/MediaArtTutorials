@@ -105,60 +105,6 @@ When several recordings show the same action, evaluate both technical quality an
 
 A technically imperfect shot may still be useful when its performance, timing, or emotional effect is stronger. Choose deliberately rather than selecting a take only because it appears visually clean.
 
-## Footage-review checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before building the assembly</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Watch every recorded clip.</strong>
-      Do not begin the sequence before reviewing all available visual and sound material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the original recordings.</strong>
-      Mark unusable material without deleting it from the project or storage folder.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify preferred takes.</strong>
-      Use In and Out points, markers, or label colours to indicate the strongest material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check technical quality.</strong>
-      Review focus, exposure, framing, camera stability, continuity, and production sound.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Compare performance and timing.</strong>
-      Select takes that communicate the action and emotional shift clearly.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the organization system.</strong>
-      Make sure every group member understands the markers, labels, and naming conventions.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -223,60 +169,6 @@ Use the assembly to confirm:
 - **Missing material:** Any necessary shot, insert, or sound recording is absent
 
 When an essential shot is missing, document the problem immediately. Determine whether the sequence can be restructured or whether additional recording is required.
-
-## Draft-assembly checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Build the first continuous version</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create a correctly configured sequence.</strong>
-      Confirm that its resolution and frame rate match the project footage.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Place the shots in story order.</strong>
-      Construct a complete beginning, progression, and ending.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep complete actions.</strong>
-      Leave the available handles before and after each action for later trimming.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Avoid premature polishing.</strong>
-      Do not add transitions, creative colour, music, sound effects, or foley.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the overall structure.</strong>
-      Confirm that the action and emotional progression are understandable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify missing coverage.</strong>
-      Record notes about any shot or sound that may need to be replaced or added.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -356,52 +248,6 @@ For example:
 00:41 — Room tone drops between shots.
 00:53 — Final action ends too abruptly.
 ```
-
-## Temporary-export checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Evaluate the assembly outside the timeline</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export a versioned H.264 file.</strong>
-      Include the project name, edit stage, and version number in the filename.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the technical settings.</strong>
-      Match the sequence resolution and frame rate before starting the export.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Watch the complete export without pausing.</strong>
-      Experience the sequence as a viewer before returning to individual cuts.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record timecoded revision notes.</strong>
-      Identify structural, pacing, continuity, visual, and sound problems.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the exported version.</strong>
-      Do not overwrite previous temporary sequences.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -547,60 +393,6 @@ Ask:
 - Are all shots approximately the same duration without a clear reason?
 - Does the ending have enough time to register?
 
-## Pacing-and-rhythm checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Refine the rough cut</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Trim unnecessary handles.</strong>
-      Remove unused time while preserving complete and readable actions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Remove repetitive shots.</strong>
-      Keep each shot only when it contributes new information, emotion, or perspective.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Vary shot duration deliberately.</strong>
-      Use longer and shorter shots to support the intended rhythm.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check action across cuts.</strong>
-      Make sure body movement, objects, screen direction, and eyelines remain understandable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the emotional progression.</strong>
-      Confirm that the pacing supports the film's central shift rather than working against it.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test adjustments of a few frames.</strong>
-      Compare subtle timing changes before making larger structural edits.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -688,52 +480,6 @@ Correct clips in the context of the sequence rather than evaluating each one ind
 4. Play across the cut.
 5. Confirm that the correction reduces distraction without creating a new mismatch.
 
-## Visual-consistency checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Make only the corrections needed for the rough cut</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Correct major white-balance shifts.</strong>
-      Remove distracting blue, orange, green, or magenta casts.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Balance exposure between connected shots.</strong>
-      Reduce unmotivated brightness changes across cuts.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Maintain usable highlight and shadow detail.</strong>
-      Avoid extreme corrections that damage the image.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Play through every corrected cut.</strong>
-      Evaluate changes while the shots appear in sequence.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Delay the creative grade.</strong>
-      Focus on technical consistency rather than a final cinematic look.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -745,7 +491,7 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Integrate Basic Production Sound</span>
+    <span class="section-title">6. Integrate Basic Production Sound in Premiere Pro</span>
     <span class="section-description">
       Build a clean audio foundation using room tone and the sounds recorded during production.
     </span>
@@ -755,66 +501,102 @@ SECTION 6
 
 ## Sound requirements for the rough cut
 
-After the visual structure and rhythm are established, integrate the production sound needed to make the sequence understandable and continuous.
+After establishing the visual structure and rhythm, integrate the production sound needed to make the sequence understandable and continuous.
+
+Complete this stage entirely in **Adobe Premiere Pro**.
 
 Use:
 
 - **Room tone** recorded in each location
 - **On-scene sounds** recorded during production
-- Synchronized camera or recorder audio when it supports the visible action
+- Synchronized camera or external-recorder audio when it supports the visible action
 
-Do **not** develop the complete sound design yet. Music, added sound effects, and foley will be addressed in later stages.
+Do **not** complete the full sound design yet. Additional ambience, sound effects, foley, and music will be developed during the next stage.
+
+## Organize the audio tracks
+
+Separate different kinds of sound onto distinct audio tracks.
+
+| Track | Sound material |
+|---|---|
+| **A1** | Primary production sound |
+| **A2** | Additional on-scene recordings |
+| **A3** | Room tone |
+| **A4** | Temporary or supporting audio |
+
+Consistent track organization will make the later sound-design and mixing stages easier to manage.
 
 ## Build continuity with room tone
 
-Place room tone beneath cuts where the natural ambience drops or changes abruptly. Use crossfades or short overlaps when necessary to create a continuous sonic environment.
+Place room tone beneath cuts where the natural ambience drops or changes abruptly.
 
 Room tone should not call attention to itself. Its purpose is to prevent sudden silence and maintain the acoustic identity of the location.
 
-## Why use Audition?
+### Add room tone
 
-Premiere Pro provides basic audio tools. Adobe Audition offers more detailed control when you need to:
+1. Place the room-tone recording on a separate audio track.
+2. Extend it beneath the relevant sequence of shots.
+3. Trim it to fit the scene.
+4. Add short audio transitions where separate recordings meet.
+5. Listen for noticeable changes in volume, background noise, or acoustic texture.
 
-- Clean individual recordings
-- Adjust levels precisely
-- Reduce consistent background noise
-- Edit several sound layers
-- Create fades and repair abrupt transitions
+Use the **Constant Power** audio transition to create a smooth crossfade between adjacent audio clips when needed.
 
-Keep the original files unchanged. Work with linked or copied media created through the Premiere Pro and Audition workflow.
+## Adjust clip volume
 
-## Send a sequence to Audition
+Balance the production sound so that important actions remain audible without becoming excessively loud.
 
-1. Select or open the sequence in Premiere Pro.
-2. Go to **Edit → Edit in Adobe Audition → Sequence**.
-3. In the pop-up window, select the folder where the new audio documents will be stored.
-4. Enable **Open in Adobe Audition**.
-5. Select **OK**.
+You can adjust the volume of an individual clip by:
 
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/GZdLxdtrBT8?si=4l2MlbvjiHeUA6nR"
-    title="Tutorial demonstrating a Premiere Pro to Adobe Audition sequence workflow"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+- Dragging the horizontal volume line directly on the audio clip
+- Opening **Effect Controls → Volume → Level**
+- Adding volume keyframes when the sound must gradually increase or decrease
 
-## Reopen the Audition session
+Keep the levels consistent between clips recorded in the same location.
 
-The sequence workflow creates an Audition session file with the `.sesx` extension.
+Avoid increasing a quiet recording excessively, since this may also amplify background noise.
 
-Locate the session inside:
+## Create audio fades
 
-```text
-Adobe Audition Interchange
-```
+Add short fades at the beginning and end of audio clips to prevent abrupt starts, stops, or clicks.
 
-This folder is created in the location selected during the transfer process. Open the `.sesx` file to continue working in Audition. After making additional changes, return the edited audio to Premiere Pro using the same export workflow used for the original session.
+You can create fades by:
 
-## Send an individual clip to Audition
+- Adding a **Constant Power** audio transition
+- Adding volume keyframes directly to the clip
+- Adjusting the transition duration to match the action
 
-Use the clip workflow when only one recording requires cleaning or adjustment.
+Keep most fades short and subtle unless a longer fade supports a clear transition between locations or scenes.
+
+## Review the basic sound edit
+
+Listen to the sequence from beginning to end without stopping.
+
+Check that:
+
+- Room tone continues naturally across cuts
+- Important actions remain audible
+- Audio clips do not begin or end abruptly
+- Sound levels remain reasonably consistent
+- There are no unexplained periods of digital silence
+- Production sound supports the visual sequence
+
+At this stage, prioritize continuity and clarity rather than creating the final mix.
+
+## Optional advanced workflow: edit one clip in Adobe Audition
+
+Premiere Pro should remain the main editing and mixing workspace for this project.
+
+However, an individual audio file may require more detailed repair than Premiere Pro can provide. Adobe Audition can be used for advanced editing tasks such as:
+
+- Reducing consistent background noise
+- Removing clicks or isolated unwanted sounds
+- Repairing a damaged section of a recording
+- Applying precise waveform-based edits
+
+Use this workflow only when a specific clip requires advanced repair.
+
+### Send an individual clip to Audition
 
 1. Select the audio clip in the Premiere Pro timeline.
 2. Right-click the clip.
@@ -822,13 +604,15 @@ Use the clip workflow when only one recording requires cleaning or adjustment.
 4. Make the required changes in Audition.
 5. Save the edited file.
 
+Premiere Pro creates a new linked audio file. When the file is saved in Audition, the edited version automatically updates in the Premiere Pro timeline.
+
 <figure class="media-card">
   <img
     src="imgs/134.png"
     alt="Premiere Pro contextual menu showing the Edit Clip in Adobe Audition command"
   >
   <figcaption>
-    Use <strong>Edit Clip in Adobe Audition</strong> when an individual recording requires detailed repair or adjustment.
+    Use <strong>Edit Clip in Adobe Audition</strong> only when an individual recording requires advanced repair.
   </figcaption>
 </figure>
 
@@ -840,60 +624,6 @@ Use the clip workflow when only one recording requires cleaning or adjustment.
     allowfullscreen>
   </iframe>
 </div>
-
-## Basic-sound checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Create a clean and readable audio foundation</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Place the required production sound.</strong>
-      Include the on-scene recordings needed to understand visible actions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Add room tone beneath the scene.</strong>
-      Maintain a continuous ambient foundation across cuts.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Repair abrupt audio changes.</strong>
-      Adjust clip boundaries, fades, or overlaps when sound cuts suddenly.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep levels readable and consistent.</strong>
-      Prevent individual recordings from becoming unexpectedly loud or quiet.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use Audition only where needed.</strong>
-      Clean or repair production recordings without beginning the full sound design.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Delay music, added effects, and foley.</strong>
-      These layers will be developed after the rough cut structure is approved.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -958,68 +688,6 @@ Example filename:
 ```text
 ProjectName_RoughCut_v01.mp4
 ```
-
-## Final rough-cut checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before submission</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Watch the sequence from beginning to end.</strong>
-      Complete one uninterrupted review before exporting.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the complete rough-cut structure.</strong>
-      Make sure the action, progression, and ending are understandable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check image and sound continuity.</strong>
-      Remove accidental gaps, abrupt level changes, and major visual inconsistencies.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use the required export settings.</strong>
-      Export H.264 with Match Source – Adaptive High Bitrate.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Save the file in `04_Exports`.</strong>
-      Keep exports separate from project files, source media, and temporary renders.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use a clear versioned filename.</strong>
-      Do not overwrite earlier rough-cut exports.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Open and test the exported file.</strong>
-      Confirm that the video plays correctly before submitting it.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
