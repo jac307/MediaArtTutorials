@@ -53,19 +53,12 @@ Follow the approved pre-production plan while adapting responsibly to the condit
 
 - **Format:** One-minute, no-dialogue short film
 - **Project type:** Individual
-- **Production window:** Thursday, March 5–Wednesday, March 11
+- **Production window:** Week 9
 - **Locations:** One or two locations maximum
 - **Camera:** Department DSLR camera
 - **Image orientation:** Landscape
-- **Resolution:** 1920 × 1080 pixels
-- **Aspect ratio:** 16:9
-- **Frame rate:** 24 fps
-- **Shooting mode:** Manual
-- **Focus:** Manual Focus
-- **White balance:** Custom White Balance
 - **Sound:** On-scene production sound and room tone
 - **Editing software:** Adobe Premiere Pro
-- **Submission:** Organized Production Package as a ZIP file
 
 ## Required camera settings
 
@@ -81,7 +74,7 @@ Follow the approved pre-production plan while adapting responsibly to the condit
 - **Image Stabilization:** On for handheld recording; off when using a tripod or monopod
 - **Grid overlay:** On
 
-Metadata may be reviewed to confirm:
+Metadata will be reviewed to confirm:
 
 - Camera model
 - Manual shooting mode
@@ -117,33 +110,12 @@ Before beginning production, review:
 
 - [W8 — Production Week Framework](../TechWalks/TW-W8.md){:target="_blank"}
 - [W8 — Tutorials](../Tutorials/index.html?file=T-W8.json){:target="_blank"}
-- Your completed W7 Pre-Production Package
-- Feedback received during the one-to-one meeting
-
-The framework and tutorials include guidance on:
-
-- Lighting setup
-- Manual exposure
-- White balance
-- Manual focus
-- Camera stabilization
-- Production sound
-- Room tone
-- Framing and composition
-- Continuity
-- On-set shooting strategy
+- Your completed **W7 Pre-Production Package**
+- **Feedback** received during the one-to-one meeting
 
 ## Confirm the production plan
 
-Before recording, confirm that your:
-
-- Script, storyboard, equipment list, location plan, and schedule agree with one another
-- Planned shots can be completed within the production window
-- Camera movements are achievable with the available equipment
-- Lighting setup is safe and realistic
-- Sound plan identifies the on-scene sounds and room tone you need
-- Location permissions and access have been confirmed
-- Backup location or alternative plan is ready
+Before recording, complete the following review.
 
 <fieldset class="equipment-checklist">
   <legend>Production-plan review</legend>
@@ -151,8 +123,48 @@ Before recording, confirm that your:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Review the approved pre-production package.</strong>
-      Confirm that the storyboard, equipment list, locations, and schedule remain realistic.
+      <strong>Confirm that the pre-production documents agree.</strong>
+      Check that the script, storyboard, equipment list, location plan, and production schedule describe the same project.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the production schedule is realistic.</strong>
+      Make sure all planned shots can be completed within the available production window.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the camera plan.</strong>
+      Confirm that the planned framing and camera movements are achievable with the available equipment and production support.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the lighting plan.</strong>
+      Confirm that the setup is safe, realistic, and appropriate for the selected locations.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the sound plan.</strong>
+      Identify the on-scene sounds, production audio, and room tone required for each location.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm location access.</strong>
+      Verify permission, availability, filming times, and any location restrictions.
     </span>
   </label>
 
@@ -160,7 +172,7 @@ Before recording, confirm that your:
     <input type="checkbox">
     <span>
       <strong>Review the W8 framework and tutorials.</strong>
-      Revisit the camera, lighting, sound, continuity, and shooting-strategy instructions.
+      Revisit the camera, lighting, sound, continuity, stabilization, and shooting-strategy instructions.
     </span>
   </label>
 
@@ -168,7 +180,7 @@ Before recording, confirm that your:
     <input type="checkbox">
     <span>
       <strong>Prepare a backup plan.</strong>
-      Identify alternatives for weather, access restrictions, lighting changes, noise, or equipment problems.
+      Identify alternatives for weather, access restrictions, lighting changes, noise, equipment problems, or unavailable collaborators.
     </span>
   </label>
 </fieldset>
