@@ -513,7 +513,7 @@ The lighting plan should identify:
 
 ### Light sources
 
-<div class="media-grid media-grid--three photography-examples--sixteen-nine">
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
