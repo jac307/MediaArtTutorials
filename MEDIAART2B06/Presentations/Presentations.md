@@ -26,24 +26,9 @@ Additional artists, artworks, films, readings, or examples may be included when 
 - **Group size:** Three students
 - **Format:** In-person presentation and discussion
 - **Teams per class:** Two
-- **Context Crew duration:** 20–25 minutes
-- **Conversation Crew duration:** 20–25 minutes
-- **Equipment:** Use your own computer; HDMI adapters will be available
-- **Context Crew submission:** Slides and supporting materials as PDF
-- **Conversation Crew submission:** Completed Discussion Plan and supporting materials as PDF
-- **Submission deadline:** One day before the presentation
+- **Duration per crew/group:** 20–25 minutes
+- **Equipment:** Use your own computer; HDMI adapters will be available 
 - **Enrolment:** Select one available week and one crew role in advance
-
-## Learning objectives
-
-By completing this activity, students will:
-
-- Collaborate effectively as a team
-- Summarize and interpret theoretical and artistic materials
-- Connect critical concepts with specific formal and creative decisions
-- Analyze how theory operates within film and media artworks
-- Facilitate inclusive and focused class discussion
-- Translate critical analysis into questions, activities, and creative-practice takeaways
 
 ## Activity stages
 
@@ -60,7 +45,7 @@ By completing this activity, students will:
 ## Enrolment process
 
 1. Form a team of three students.
-2. Review the [List of Readings and Artists/Artworks per Week](#materials).
+2. Review the **List of Readings and Artists/Artworks per Week** (below).
 3. Select an available week.
 4. Select one available role:
    - Context Crew
@@ -69,50 +54,6 @@ By completing this activity, students will:
 6. Confirm that all three team members are listed correctly.
 7. Download and review the assigned reading.
 8. View and research the assigned artist or artwork.
-
-<fieldset class="equipment-checklist">
-  <legend>Enrolment and preparation check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Form a team of three.</strong>
-      Confirm that each student understands the shared responsibilities.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select an available week and role.</strong>
-      Register as either the Context Crew or Conversation Crew.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the registration.</strong>
-      Check that the week, crew role, and names are correct in the enrolment spreadsheet.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the assigned materials.</strong>
-      Read the complete assigned text and view the assigned artist or artwork before planning the presentation.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the assigned examples central.</strong>
-      Use additional examples only as secondary support for the assigned reading and artwork.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -512,50 +453,6 @@ The discussion plan and activity must use the assigned reading and assigned arti
 
 > In both roles, using unrelated examples as the main focus instead of the assigned reading and assigned artist or artwork will weaken the depth, relevance, and theory–practice connection of the work.
 
-<fieldset class="equipment-checklist">
-  <legend>Final submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Complete the role-specific materials.</strong>
-      Include all slides, plans, questions, activities, handouts, and supporting materials.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the primary-material requirement.</strong>
-      Ensure that the assigned reading and artwork remain central throughout the submission.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export the documents as PDFs.</strong>
-      Open every exported file and confirm that the text, images, and links remain readable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Proofread the materials.</strong>
-      Check names, titles, citations, spelling, timing, and instructions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit one day before presenting.</strong>
-      Verify that the correct files were uploaded successfully.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -722,133 +619,118 @@ Chion, M. (1994). [*The audiovisual scene*](W5-Reading.pdf){:target="_blank"}. I
 
 <div class="section-content" markdown="1">
 
-## Keywords
+## Week 4
 
-- Film as social practice
-- Language and power
-- Collective authorship
-- Long take as ethics
-- Cinema and community
-- Situated production
-- Responsibility of representation
-- Filmmaking in context
+**Keywords:** Long take · Cinematic duration · Camera as witness · Framing as narrative
 
-## Reading
+### Reading
+
+Bazin, A. (2005). [*The ontology of the photographic image*](W4-Reading.pdf){:target="_blank"}. In *What Is Cinema?* (Vol. 1, pp. 9–16). University of California Press. Original work published 1945.
+
+### Assigned artist/artwork
+
+*Russian Ark* (2002), directed by Alexander Sokurov, Russia.
+
+- [Watch through Dailymotion](https://www.dailymotion.com/video/x9tovpy){:target="_blank"}
+
+---
+
+## Week 5
+
+**Keywords:** Sound–image relationship · Synchronization · Audiovisual rhythm · Diegetic and non-diegetic sound
+
+### Reading
+
+Chion, M. (1994). [*The audiovisual scene*](W5-Reading.pdf){:target="_blank"}. In *Audio-Vision: Sound on Screen* (C. Gorbman, Trans., pp. 66–94). Columbia University Press. Original work published 1990.
+
+### Assigned artist/artwork
+
+*Koyaanisqatsi* (1982), directed by Godfrey Reggio, United States; music by Philip Glass.
+
+- [Watch through YouTube](https://youtu.be/eWp8D5s6Sc0?si=Igje9YAgQM_QbVMf){:target="_blank"}
+
+---
+
+## Week 7
+
+**Keywords:** Embodied filmmaking · Memory and place · Relational authorship · Non-linear storytelling
+
+### Readings
+
+- Hopinka, S. (2019). [*Film is the body*](W7a-Reading.pdf){:target="_blank"}. In J. Yue, M. Gallagher, and P. Y. Huang (Eds.), *Temporal Territories: An Anthology of Indigenous Experimental Cinema* (pp. 89–94). Archive Books.
+- Kite, S. (2019). [*Winyan Yamni: Three Dreams*](https://www.dropbox.com/scl/fi/igyqaynnsj84q2o6hcppr/W7b-Reading.pdf?rlkey=0rs79w3zxbhojzbmmfeevdjiz&st=t6bt982r&dl=0){:target="_blank"}. In J. Yue, M. Gallagher, and P. Y. Huang (Eds.), *Temporal Territories: An Anthology of Indigenous Experimental Cinema* (pp. 169–191). Archive Books.
+
+### Assigned artists/artworks
+
+- [Sky Hopinka](https://www.skyhopinka.com/){:target="_blank"} — Ho-Chunk Nation; American
+- [Suzanne Kite](https://www.kitekitekitekite.com/portfolio){:target="_blank"} — Oglála Lakȟóta
+
+---
+
+## Week 8
+
+**Keywords:** Film as social practice · Language and power · Collective authorship · Long take as ethics
+
+### Reading
 
 Hilari, M. (2019). [*Reflections on language based on the all-encompassing sequence shot: Formal processes in Bolivian cinema*](https://www.dropbox.com/scl/fi/ygu2cugxtjc5d57tp2ihr/W8-Reading.pdf?rlkey=v919xhcmlrtxg5pudinv31cmp&dl=0){:target="_blank"}. In J. Yue, M. Gallagher, and P. Y. Huang (Eds.), *Temporal Territories: An Anthology of Indigenous Experimental Cinema* (pp. 239–268). Archive Books.
 
-## Assigned artists/artworks
+### Assigned artists/artworks
 
-Use the film examples discussed in the reading, including works from Bolivian cinema that use the sequence shot as a social and linguistic strategy.
+Use the Bolivian films and filmmakers discussed in the reading, particularly examples that use the sequence shot as a social, ethical, and linguistic strategy.
 
 The examples discussed in the reading must remain the primary basis of the presentation or activity.
 
-</div>
-</details>
-
 ---
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Week 9</span>
-    <span class="section-description">Editing, montage, rhythm, repetition, variation, affective structure, and temporal tension.</span>
-  </summary>
+## Week 9
 
-<div class="section-content" markdown="1">
+**Keywords:** Montage · Pacing and rhythm · Repetition and variation · Temporal tension
 
-## Keywords
-
-- Pacing and rhythm
-- Editing as storytelling
-- Repetition and variation
-- Non-linear time
-- Affective structure
-- Montage as meaning
-- Temporal tension
-
-## Reading
+### Reading
 
 Eisenstein, S. (1949). [*The structure of the film*](https://www.dropbox.com/scl/fi/co9owv6x0bkn8rm0xwbec/W9-Reading.pdf?rlkey=5mwds7y7gewaucx99owvjymya&dl=0){:target="_blank"}. In *Film Form: Essays in Film Theory* (J. Leyda, Trans., pp. 160–180). Harcourt, Brace & World. Original work published 1929.
 
-## Assigned artist/artwork
+### Assigned artist/artwork
 
-*Meshes of the Afternoon*, directed by Maya Deren.
+*Meshes of the Afternoon* (1943), directed by Maya Deren and Alexander Hammid.
 
 - [Watch through YouTube](https://youtu.be/JoETYvwI7I0?si=rB1Dr9q5AAmf-gCJ){:target="_blank"}
 
-</div>
-</details>
-
 ---
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Week 10</span>
-    <span class="section-description">Embodied spectatorship, affect, audience experience, rhythm, sound–image coherence, and reflective viewing.</span>
-  </summary>
+## Week 10
 
-<div class="section-content" markdown="1">
+**Keywords:** Embodied spectatorship · Cinesthetic perception · Affect and emotion · Reflective viewing
 
-## Keywords
-
-- Embodied spectatorship
-- Cinesthetic perception
-- Critical film analysis
-- Audience experience
-- Affect and emotion
-- Pacing and rhythm
-- Sound–image coherence
-- Reflective viewing
-
-## Reading
+### Reading
 
 Sobchack, V. (2004). [*What my fingers knew: The cinesthetic subject, or vision in the flesh*](W10-Reading.pdf){:target="_blank"}. In *Carnal Thoughts: Embodiment and Moving Image Culture* (pp. 53–84). University of California Press.
 
-## Assigned artist/artwork
+### Assigned artist/artwork
 
 *Beau Travail* (1999), directed by Claire Denis, France.
 
 - [Watch through YouTube](https://youtu.be/JCeLgngfp9o?si=69E5HkVX8wBf9ZpY){:target="_blank"}
 
-</div>
-</details>
-
 ---
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Week 12</span>
-    <span class="section-description">Listening, sonic authorship, silence, atmosphere, affect, sound–image hierarchy, and ethical sound practice.</span>
-  </summary>
+## Week 12
 
-<div class="section-content" markdown="1">
+**Keywords:** Listening as authorship · Sonic atmosphere · Silence and absence · Sound–image hierarchy
 
-## Keywords
-
-- Sound film
-- Listening as authorship
-- Sound as narrative structure
-- Silence and absence
-- Sonic atmosphere
-- Affect and dread
-- Sound–image hierarchy
-- Ethical use of sound
-
-## Reading
+### Reading
 
 Chion, M. (1994). [*Sound film—worthy of the name*](W12-Reading.pdf){:target="_blank"}. In *Audio-Vision: Sound on Screen* (C. Gorbman, Trans., pp. 141–156). Columbia University Press. Original work published 1990.
 
-## Assigned artist/artwork
+### Assigned artist/artwork
 
-*Chernobyl* (HBO series, 2019), with music and sound by Hildur Guðnadóttir.
+*Chernobyl* (HBO, 2019), with music and sound by Hildur Guðnadóttir.
 
 Use the assigned excerpts and interviews as the primary examples:
 
 - [Hildur Guðnadóttir on sound, silence, and emotional storytelling](https://www.popdisciple.com/interviews/hildur-gudnadottir){:target="_blank"}
 - [How the *Chernobyl* score used sounds recorded at a power plant](https://www.youtube.com/watch?v=bTw1-nw5S4A){:target="_blank"}
-
-</div>
-</details>
 
 </div>
 </details>
