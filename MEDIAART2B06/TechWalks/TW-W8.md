@@ -6,8 +6,6 @@
 
 This technical walkthrough supports the [W8 — Production Week](../WeekIns/WI-W8.md){:target="_blank"} activity.
 
-Use your approved pre-production documents to complete the production systematically. Before recording, confirm the lighting, camera, and sound setup. During production, maintain deliberate composition, controlled camera movement, complete actions, and visual continuity.
-
 <!-- 
 /////////////////
 SECTION 1

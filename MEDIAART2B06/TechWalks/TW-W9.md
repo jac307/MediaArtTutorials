@@ -1,481 +1,1029 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# W9 — Rough Cut Framework
 
-<h1 style="color: darkred;">W9 — Rough Cut Framework</h1>
-<h2 style="color: darkred;">From Raw Footage to a Coherent Sequence</h2>
+## From Raw Footage to a Coherent Sequence
 
-This document supports the [W9 - Rough Cut](../WeekIns/WI-W9.md){:target="_blank"} by outlining editorial principles and best practices when assembling your first edit.  
+This technical walkthrough supports the [W9 — Rough Cut](../WeekIns/WI-W9.md){:target="_blank"} activity.
 
-## Sections
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-<ul>
-  <li><a href="#review-footage">Reviewing Footage</a></li>
-  <li><a href="#assembly">Building the Rough Assembly</a></li>
-  <li><a href="#export-sequence">Exporting Temporary Sequences</a></li>
-  <li><a href="#rhythm">Pacing & Rhythm</a></li>
-  <li><a href="#color">Visual Consistency (Basic Colour Correction)</a></li>
-  <li><a href="#sound">Basic Sound Integration</a></li>
-  <li><a href="#export">Final Rough Cut Export</a></li>
-</ul>  
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Review and Organize the Footage</span>
+    <span class="section-description">
+      Watch every recording, identify usable material, and organize possible takes before building the sequence.
+    </span>
+  </summary>
 
----
+<div class="section-content" markdown="1">
 
-<h2 id="review-footage" style="color: darkred;">Reviewing Footage</h2>  
+## Review before editing
 
-Before assembling your sequence, take time to **review all your footage carefully**.  
-Professional editors rarely begin editing immediately — they first **watch, evaluate, and select usable material**.  
-  
-Do **not delete any footage**. Simply identify what you will use and what you will avoid.
+Watch all recorded footage before placing clips in the timeline. Editors first evaluate the available material so they understand the technical quality, performance, action, and possible connections between shots.
 
----
+Do **not delete the original footage**. Identify the clips and sections you are most likely to use while keeping all recordings available as alternatives.
 
-### How to Select Footage in Premiere Pro
+## Mark usable material in Premiere Pro
 
-There are several ways to mark usable sections of your footage in Premiere Pro.  
+The following interactive tutorial demonstrates how to review, mark, and organize media in Premiere Pro.
 
-**Watch the following tutorial.**   
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2692283/Premiere-Pro-2--Reviewing--Marking---Organizing-Media?iframeHash=mobilequick-1&amp;src=iframe&amp;oembed=1"
+    title="Interactive Premiere Pro tutorial on reviewing, marking, and organizing media"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
 
-You will also find a written summary of the key steps below.
+### Method 1: In and Out points
 
-<iframe src="https://www.iorad.com/player/2692283/Premiere-Pro-2--Reviewing--Marking---Organizing-Media?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 80%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+Use In and Out points to select only the usable portion of a clip.
 
----
+1. Open the clip in the **Source Monitor**.
+2. Play or scrub through the recording.
+3. Press **`I`** to mark the **In point** where the usable section begins.
+4. Press **`O`** to mark the **Out point** where the usable section ends.
+5. Insert or overwrite the selected section into the timeline.
 
-#### Method 1 — In/Out Points (Recommended)
+This method is recommended because it allows you to add a specific part of the clip without first placing the complete recording in the sequence.
 
-Open the clip in the **Source Monitor**.
+### Method 2: Clip markers
 
-1. Play the clip.
-2. Press **I** to mark the **In point** (where the usable part begins).
-3. Press **O** to mark the **Out point** (where it ends).
-4. Insert this section into your timeline.
+Use markers to identify important moments within longer recordings.
 
-This allows you to use **only the usable portion of the clip**.
-
----
-
-#### Method 2 — Clip Markers
-
-You can place **markers** on good moments in the footage.
-
-1. Play the clip.
-2. Press **M** to place a marker.
-3. Use markers to indicate:
-   - Good takes
-   - Strong performances
+1. Open or select the clip.
+2. Move the playhead to a useful moment.
+3. Press **`M`** to add a marker.
+4. Use markers to identify:
+   - Strong takes or performances
    - Clean technical moments
+   - Complete actions
+   - Possible cut points
+   - Sound or continuity problems
 
-Markers help you **navigate quickly between good sections** of a clip.
+Markers make it easier to return to useful sections without repeatedly reviewing the entire recording.
 
----
+### Method 3: Label colours
 
-#### Method 3 — Label Colors
-
-Editors often use **color labels** to organize material.
+Use label colours to create a visual organization system in the Project panel.
 
 For example:
 
-- Green → good takes  
-- Yellow → possible alternatives  
-- Red → unusable footage
+- **Green:** Preferred takes
+- **Yellow:** Possible alternatives
+- **Red:** Technically unusable or incomplete material
 
-This makes it easier to visually identify material in the project panel.
+Choose a system that is clear to every group member and apply it consistently.
 
----
+## Compare similar takes
 
-### How Editors Choose Between Similar Shots
+When several recordings show the same action, evaluate both technical quality and storytelling value.
 
-Often you will have **multiple takes of the same shot**.
+### Technical quality
 
-Choosing between them involves both **technical and storytelling decisions**.
+- Is the subject or focal point in focus?
+- Is the exposure usable?
+- Is the camera movement controlled?
+- Is the framing intentional?
+- Is the sound clean enough to use?
+- Does the shot maintain continuity with surrounding material?
 
-Editors usually evaluate:
+### Performance and timing
 
-**Technical quality**
+- Does the action feel natural and readable?
+- Does the movement begin and end clearly?
+- Does the take communicate the intended emotion?
+- Does it connect effectively with the preceding and following shots?
 
-- Is the shot in focus?
-- Is the exposure correct?
-- Is the camera stable?
-- Is the framing clean?
+A technically imperfect shot may still be useful when its performance, timing, or emotional effect is stronger. Choose deliberately rather than selecting a take only because it appears visually clean.
 
-**Performance and timing**
+## Footage-review checklist
 
-- Does the action feel natural?
-- Does the movement start and end clearly?
-- Does the shot connect well with the next shot?
+<fieldset class="equipment-checklist">
+  <legend>Complete before building the assembly</legend>
 
-Sometimes a technically imperfect shot is chosen if it **supports the rhythm or emotion of the sequence better**.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Watch every recorded clip.</strong>
+      Do not begin the sequence before reviewing all available visual and sound material.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the original recordings.</strong>
+      Mark unusable material without deleting it from the project or storage folder.
+    </span>
+  </label>
 
-<h2 id="assembly" style="color: darkred;">Building the Draft Assembly</h2>    
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify preferred takes.</strong>
+      Use In and Out points, markers, or label colours to indicate the strongest material.
+    </span>
+  </label>
 
-The **assembly edit** is the first stage of editing where selected shots are placed in sequence to create the **basic structure of the film**.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check technical quality.</strong>
+      Review focus, exposure, framing, camera stability, continuity, and production sound.
+    </span>
+  </label>
 
-The goal is simply to **see the material together as a continuous sequence** for the first time.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Compare performance and timing.</strong>
+      Select takes that communicate the action and emotional shift clearly.
+    </span>
+  </label>
 
-The assembly edit is often **longer than the final film**.  
-Extra seconds before and after actions are normal at this stage.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the organization system.</strong>
+      Make sure every group member understands the markers, labels, and naming conventions.
+    </span>
+  </label>
+</fieldset>
 
----
+</div>
+</details>
 
-### Creating the Sequence in Premiere Pro
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
 
-<iframe src="https://www.iorad.com/player/2692292/Premiere-Pro-3--Creating-a-Sequence---Starting-the-Draft-Assembly?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 80%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>   
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Build the Draft Assembly</span>
+    <span class="section-description">
+      Place the selected shots in story order to test the basic structure before refining timing or style.
+    </span>
+  </summary>
 
----
+<div class="section-content" markdown="1">
 
-### Assembly Rules
+## What is an assembly edit?
 
-For this first sequence, follow these rules:
+The **assembly edit** is the first complete arrangement of the selected shots. Its purpose is to reveal the basic structure of the film and show how the recorded material works as a continuous sequence.
 
-- **Do not trim shots yet.**
-- Place **one shot after the other** in the timeline.
-- Do **not add transitions**.
-- Do **not adjust timing for rhythm yet**.
-- Do **not add music or sound effects**.
+The assembly is usually longer and less refined than the final film. Extra time before and after actions is expected at this stage.
 
-Your goal is simply to **construct the first continuous version of the film**.
+## Create the sequence in Premiere Pro
 
-Think of this step as **building the skeleton of the sequence**.  
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2692292/Premiere-Pro-3--Creating-a-Sequence---Starting-the-Draft-Assembly?iframeHash=mobilequick-1&amp;src=iframe&amp;oembed=1"
+    title="Interactive Premiere Pro tutorial on creating a sequence and starting a draft assembly"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
 
-The assembly should help you verify:  
+## Assembly rules
 
-- The **order of the shots**
-- The **clarity of the action**
-- The **overall structure of the scene**
+For the first assembly:
 
-In the next stage, you will begin refining **rhythm, pacing, and shot duration**.  
+- Place the selected shots in the intended story order
+- Keep the complete usable action within each clip
+- Do not refine shot duration yet
+- Do not add visual transitions
+- Do not begin colour grading
+- Do not add music, sound effects, or foley
+- Use only enough production sound to understand the recorded action when necessary
 
----
+The purpose is to construct the film's **basic visual skeleton**, not to create a polished edit.
 
-<h2 id="export-sequence" style="color: darkred;">Exporting Temporary Sequences</h2>
+## Evaluate the basic structure
 
-Exporting allows you to watch the film **outside the editing timeline**, which makes pacing issues, sound problems, and visual inconsistencies easier to notice.  
+Use the assembly to confirm:
 
-### Premiere Pro → Media Encoder Workflow
+- **Shot order:** The visual information appears in a logical sequence
+- **Action clarity:** The viewer can understand what is happening
+- **Narrative progression:** The emotional or situational shift is visible
+- **Coverage:** The required action can be constructed from the recorded material
+- **Continuity:** Screen direction, body position, objects, and movement connect across cuts
+- **Missing material:** Any necessary shot, insert, or sound recording is absent
 
-This workflow allows you to **continue editing in Premiere while your file exports in the background**, which is especially useful when working with multiple revisions or temporary renders.  
+When an essential shot is missing, document the problem immediately. Determine whether the sequence can be restructured or whether additional recording is required.
 
-Media Encoder also manages export jobs in a queue, making it easier to **export several versions of a sequence without interrupting your editing workflow**.  
+## Draft-assembly checklist
 
-<iframe src="https://www.iorad.com/player/2692296/Premiere-Pro-4--Exporting-a-Temporary-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
+<fieldset class="equipment-checklist">
+  <legend>Build the first continuous version</legend>
 
-1. Select your **sequence** in Premiere Pro
-2. Go to **File → Export → Media**
-3. Format: **H.264**
-4. Confirm that your **resolution and frame rate match your sequence settings**
-5. Click **Queue** instead of Export
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Create a correctly configured sequence.</strong>
+      Confirm that its resolution and frame rate match the project footage.
+    </span>
+  </label>
 
-Premiere will send the sequence to **Media Encoder**, where the export will process.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the shots in story order.</strong>
+      Construct a complete beginning, progression, and ending.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep complete actions.</strong>
+      Leave the available handles before and after each action for later trimming.
+    </span>
+  </label>
 
-<h2 id="rhythm" style="color: darkred;">Pacing & Rhythm</h2>     
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Avoid premature polishing.</strong>
+      Do not add transitions, creative colour, music, sound effects, or foley.
+    </span>
+  </label>
 
-Once your assembly sequence is built, the next step is refining **pacing and rhythm**.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the overall structure.</strong>
+      Confirm that the action and emotional progression are understandable.
+    </span>
+  </label>
 
-Pacing refers to **how long shots remain on screen**.  
-Rhythm refers to **how the duration of shots changes across the sequence**.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify missing coverage.</strong>
+      Record notes about any shot or sound that may need to be replaced or added.
+    </span>
+  </label>
+</fieldset>
 
-Together, they determine how the viewer **experiences time and movement** in the film.
+</div>
+</details>
 
-At this stage you will begin:
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
-- **Trimming shots**
-- **Removing unnecessary moments**
-- **Refining shot order**
-- **Adjusting transitions between shots**
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Export and Review a Temporary Sequence</span>
+    <span class="section-description">
+      Watch the assembly outside Premiere Pro to identify structural, visual, and sound problems more clearly.
+    </span>
+  </summary>
 
-The goal is to create a sequence that feels **clear, intentional, and readable**.
+<div class="section-content" markdown="1">
 
----
+## Why export during editing?
 
-### Trimming Shots
+Watching an exported file changes how you experience the sequence. Problems that are difficult to notice while repeatedly stopping and adjusting the timeline often become clearer during uninterrupted playback.
 
-Trimming is the primary tool editors use to control pacing.
+A temporary export can reveal:
 
-When trimming shots:
+- Shots that remain on screen too long
+- Cuts that happen before an action is complete
+- Repetitive visual information
+- Missing or confusing story information
+- Abrupt sound changes
+- Exposure or colour inconsistencies
+- Technical errors near the beginning or ending
 
-- Cut **after the important information is understood**.
-- Remove unnecessary pauses before or after actions.
-- Avoid leaving shots longer than needed.
+## Premiere Pro to Media Encoder workflow
 
-<iframe src="https://www.iorad.com/player/2693409/Premiere-Pro-5--Timeline-Editing---Trim--Cut--and-Adjust-Clips?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>  
+Adobe Media Encoder processes exports in a queue. This allows you to continue working in Premiere Pro while temporary versions are being rendered.
 
----
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2692296/Premiere-Pro-4--Exporting-a-Temporary-Sequence?iframeHash=mobilequick-1&amp;src=iframe&amp;oembed=1"
+    title="Interactive Premiere Pro tutorial on exporting a temporary sequence through Adobe Media Encoder"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
 
-### Types of Pacing
+### Export steps
 
-Different stories require different pacing styles.
+1. Open or select the sequence in Premiere Pro.
+2. Go to **File → Export → Media**.
+3. Set the format to **H.264**.
+4. Confirm that the resolution and frame rate match the sequence.
+5. Choose a clear temporary filename that includes the version number.
+6. Select **Queue** instead of **Export**.
+7. Start the queue in Adobe Media Encoder.
 
-#### Slow Pacing
+Example filename:
 
-Shots remain on screen for a longer duration before the next cut.  
-This gives the viewer more time to observe the scene and absorb the atmosphere.
+```text
+ProjectName_RoughAssembly_v01.mp4
+```
 
-Slow pacing is often used to create:
+Do not overwrite earlier versions. Versioned exports allow you to compare changes and return to a previous edit when necessary.
 
-- tension  
-- contemplation  
-- emotional weight  
-- atmospheric immersion  
+## Review without stopping
 
-In editing, slow pacing usually means:
+Watch the complete temporary export at least once without pausing. During a second viewing, record specific notes with approximate timecodes.
 
-- fewer cuts  
-- longer shot durations  
-- subtle character movement or minimal action  
-- ambient sound or slow music that supports the mood    
+For example:
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+```text
+00:12 — Shot remains too long after the character sits.
+00:26 — Screen direction changes unexpectedly.
+00:41 — Room tone drops between shots.
+00:53 — Final action ends too abruptly.
+```
+
+## Temporary-export checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Evaluate the assembly outside the timeline</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Export a versioned H.264 file.</strong>
+      Include the project name, edit stage, and version number in the filename.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the technical settings.</strong>
+      Match the sequence resolution and frame rate before starting the export.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Watch the complete export without pausing.</strong>
+      Experience the sequence as a viewer before returning to individual cuts.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record timecoded revision notes.</strong>
+      Identify structural, pacing, continuity, visual, and sound problems.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the exported version.</strong>
+      Do not overwrite previous temporary sequences.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Refine Pacing and Rhythm</span>
+    <span class="section-description">
+      Trim shots and vary their duration so the sequence communicates time, movement, and emotional intensity deliberately.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Pacing and rhythm
+
+**Pacing** refers to how long individual shots and actions remain on screen.
+
+**Rhythm** refers to how shot duration, movement, sound, and cutting patterns change across the sequence.
+
+Together, pacing and rhythm shape how the viewer experiences time and emotional progression.
+
+At this stage:
+
+- Trim unnecessary time before and after actions
+- Refine the order of shots when needed
+- Remove repetitive visual information
+- Adjust cut points between connected actions
+- Use shot duration to support the intended mood
+- Keep visual transitions minimal unless they serve a clear purpose
+
+## Trim the sequence
+
+Trimming is the main tool for controlling pacing.
+
+When adjusting a cut:
+
+- Keep enough time for the viewer to understand the important information
+- Remove pauses that do not contribute to atmosphere, performance, or meaning
+- Preserve complete actions when continuity requires them
+- Avoid cutting so quickly that the action becomes confusing
+- Compare small adjustments of only a few frames
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2693409/Premiere-Pro-5--Timeline-Editing---Trim--Cut--and-Adjust-Clips?iframeHash=mobilequick-1&amp;src=iframe&amp;oembed=1"
+    title="Interactive Premiere Pro tutorial on trimming, cutting, and adjusting clips in the timeline"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Slow pacing
+
+Slow pacing gives the viewer more time to observe the environment, performance, and atmosphere.
+
+It often uses:
+
+- Fewer cuts
+- Longer shot durations
+- Minimal or gradual movement
+- Extended reactions or pauses
+- Ambient sound or restrained music
+
+Slow pacing may support tension, contemplation, emotional weight, isolation, or immersion. A long shot should still contain meaningful visual, sonic, or emotional information.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/SR__amDl1c8?si=_9z4od4Q9dEOXY45"
-    title="YouTube video player"
-    frameborder="0"
+    title="Short film 2 AM Coffee by Forrain, used as an example of slow pacing"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div>  
+</div>
 
-> **Example:** In the short film *2 AM Coffee* by Forrain, the pacing remains slow throughout the sequence. The film follows a person going out for coffee late at night. Many shots are held longer than usual, allowing the viewer to sit with the quiet atmosphere of the empty streets and the city mart. Even when the character discovers that their bike has been stolen, the reaction unfolds slowly rather than through rapid cuts. This pacing reinforces the feeling of isolation and late-night stillness.  
+> In the short film *2 AM Coffee* by Forrain, many shots are held long enough for the viewer to experience the quiet atmosphere of the streets and convenience store. Even the discovery that the bicycle is missing unfolds gradually. The pacing reinforces isolation and late-night stillness.
 
----
+## Fast pacing
 
-#### Fast Pacing
-Shots change quickly.
+Fast pacing moves rapidly between shots, actions, or perspectives.
 
-Often used to create:
-- urgency  
-- action  
-- intensity  
-- energetic movement  
+It often uses:
 
-In editing, fast pacing often includes:
+- Short shot durations
+- Frequent cuts
+- Dynamic camera movement
+- Rapid changes in perspective or location
+- Sound or music with a strong rhythmic pulse
 
-- short shot durations  
-- frequent cuts  
-- strong camera movement  
-- rapid shifts in perspective or location  
-- music or sound with a strong rhythm   
+Fast pacing may support urgency, action, intensity, confusion, comedy, or energetic movement. Rapid cutting should remain visually readable.
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/4DKSduhMls0?si=O-vGSM0_oJshR0it"
-    title="YouTube video player"
-    frameborder="0"
+    title="Short film Kick Me by the Jefferies Brothers, used as an example of fast pacing"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div>   
+</div>
 
-> **Example:** In the short film *Kick Me* by the Jefferies Brothers, the pacing is noticeably fast. The film follows a character being bullied through a series of escalating situations. Within one minute, the sequence moves through multiple locations in an office environment using quick cuts, dynamic camera movements, and changing perspectives. These visual shifts are reinforced by fast-paced circus-style music, which intensifies the chaotic and comedic tone of the sequence. 
+> In *Kick Me* by the Jefferies Brothers, quick cuts, changing locations, dynamic camera movement, and rapid shifts in perspective compress several escalating situations into one minute. The circus-style music reinforces the chaotic and comedic rhythm.
 
----
+## Variable rhythm
 
-#### Variable Rhythm
-
-Most films combine **longer and shorter shots** to create rhythm.
+Most sequences combine longer and shorter shots. Variation prevents the edit from feeling mechanically timed and allows the pace to shift with the action.
 
 For example:
-Long shot → medium shot → quick cut → longer pause. 
 
-This variation creates **visual rhythm**, similar to rhythm in music.
+```text
+Long establishing shot → medium action shot → quick detail → longer reaction
+```
 
-Avoid sequences where **all shots have the same duration**, as this often feels mechanical.  
+A variable rhythm can establish one emotional state and then interrupt or transform it.
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/C7OQHIpDlvA?si=8Ixarx_68x1Kk8lq"
-    title="YouTube video player"
-    frameborder="0"
+    title="Short film The Wait by Morphine, used as an example of variable rhythm"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div>   
+</div>
 
-> **Example:** In the short film *The Wait* by Morphine starts with a low pace matching the storytelling following the life of a person during the covid-19 pandemic and not being able to leave their apartment. It also matches the mundane and boring activity of waiting for the microwave to sound and not having anything to do. This is pair with long shots, long zoom ins, static shots that they shift into a more dynamic environment when the main character starts drumming to be transported into a drumming set, pair with multiple shots, fast cuts, a lot of energy coming from the drum sound to later soon we hear the microwave and the ending comes sharp into the slow environment of his reality.  
+> In *The Wait* by Morphine, the opening uses long, static shots and gradual zooms to communicate boredom and confinement during the COVID-19 pandemic. The rhythm accelerates when the character begins drumming and imagines a performance environment. Rapid cuts and energetic sound interrupt the earlier stillness before the microwave returns the character abruptly to the slower reality of the apartment.
 
----
+## Evaluate the rhythm
 
-### Evaluating Your Rhythm
+Ask:
 
-When reviewing your sequence, ask yourself:
+- Does any shot remain on screen after its important information has been understood?
+- Does any cut occur before the action or reaction is readable?
+- Does the sequence repeat the same information unnecessarily?
+- Do connected actions flow clearly across cuts?
+- Does the pace support the emotional shift?
+- Are all shots approximately the same duration without a clear reason?
+- Does the ending have enough time to register?
 
-- Does any shot stay on screen **too long**?
-- Do any cuts feel **too abrupt**?
-- Does the action **flow clearly** from one shot to the next?
-- Are there **repetitive or unnecessary shots**?
+## Pacing-and-rhythm checklist
 
-Small timing adjustments — even **a few frames** — can significantly improve rhythm.
+<fieldset class="equipment-checklist">
+  <legend>Refine the rough cut</legend>
 
-Editing is often about **subtle timing decisions** rather than large structural changes.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Trim unnecessary handles.</strong>
+      Remove unused time while preserving complete and readable actions.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Remove repetitive shots.</strong>
+      Keep each shot only when it contributes new information, emotion, or perspective.
+    </span>
+  </label>
 
-<h2 id="colour" style="color: darkred;">Visual Consistency (Basic Colour Correction)</h2>
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Vary shot duration deliberately.</strong>
+      Use longer and shorter shots to support the intended rhythm.
+    </span>
+  </label>
 
-During production, shots are often recorded under slightly different lighting conditions, camera angles, or exposure settings. As a result, two shots that occur in the same scene may appear visually different.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check action across cuts.</strong>
+      Make sure body movement, objects, screen direction, and eyelines remain understandable.
+    </span>
+  </label>
 
-Basic colour correction helps reduce these differences so the sequence feels visually coherent.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the emotional progression.</strong>
+      Confirm that the pacing supports the film's central shift rather than working against it.
+    </span>
+  </label>
 
-It is important to distinguish between two different processes:  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Test adjustments of a few frames.</strong>
+      Compare subtle timing changes before making larger structural edits.
+    </span>
+  </label>
+</fieldset>
 
-**Colour Correction**
-- technical adjustments  
-- fixes white balance and exposure  
-- creates consistency between shots  
+</div>
+</details>
 
-**Colour Grading**
-- creative styling  
-- adds a cinematic look or visual mood  
-- usually done near the final stage of editing  
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
 
-At the Rough Cut stage, the goal is **not creative colour grading**, but **visual consistency between shots**.  
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Establish Basic Visual Consistency</span>
+    <span class="section-description">
+      Correct major exposure and white-balance differences so connected shots appear visually coherent.
+    </span>
+  </summary>
 
----
+<div class="section-content" markdown="1">
 
-### Key Colour Correction Principles
+## Colour correction and colour grading
 
-When colour correcting your sequence, focus on these basic ideas:
+Shots recorded in the same scene may differ because of changing light, camera position, exposure, or white balance.
 
-**Neutral whites**  
-White or neutral areas in the image should appear natural rather than tinted toward blue, orange, green, or magenta.
+At the rough-cut stage, make only the corrections required to evaluate the sequence clearly.
 
-**Balanced exposure**  
-Shots should not appear dramatically brighter or darker than neighboring shots unless intentionally motivated by the scene.
+### Colour correction
 
-**Consistent contrast**  
-The balance between shadows, midtones, and highlights should feel similar across clips.
+Colour correction uses technical adjustments to:
 
-**Creating Depth**. 
-A common approach in basic correction is to slightly deepen shadows and brighten highlights. This increases contrast and can help create a sense of visual depth.
+- Repair visible white-balance problems
+- Balance exposure
+- Reduce distracting differences between connected shots
+- Maintain readable detail in shadows and highlights
 
-Avoid extreme adjustments. Subtle corrections usually produce the most natural results.
+### Colour grading
 
----
+Colour grading uses creative adjustments to establish a visual style, atmosphere, or palette.
 
-### Recommended Tools
+Creative grading belongs later in the editing process. Do not spend substantial time developing a final look while the shot order and timing may still change.
 
-For this stage of editing, focus on the following tools in the **Lumetri Color panel** from Premiere Pro:
+## Basic correction priorities
 
-- **Basic Correction** (Temperature, Exposure, Saturation)  
-- **Curves** (for contrast and tonal balance)  
-- **Color Wheels & Match** (for balancing shadows, midtones, and highlights)
+### Neutral colour
 
-These tools provide enough control to correct most visual inconsistencies in your sequence.  
+White, grey, or neutral areas should appear natural rather than unintentionally blue, orange, green, or magenta.
 
-<iframe src="https://www.iorad.com/player/2694257/Premiere-Pro-6--Basic-Colour-Correction-with-Lumetri-Color?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+### Balanced exposure
 
----
+Connected shots should not change dramatically in brightness unless the difference is motivated by the location, action, or lighting design.
 
-<h2 id="sound" style="color: darkred;">Basic Sound Integration</h2>    
+### Consistent contrast
 
-Once the visual rhythm of your sequence is established, you should integrate **basic production sound**.
+The relationship between shadows, midtones, and highlights should remain coherent across shots from the same scene.
 
-At this stage, the goal is **not full sound design**, but creating a **clean and readable audio foundation**.
+### Preserved image information
 
-You will work with:
+Avoid adjustments that crush shadow detail, clip highlights, or create unnatural skin tones. Subtle corrections usually provide the most useful rough-cut result.
 
-- **Room tone**
-- **On-scene sounds you recorded during production**
+## Lumetri Color tools
 
-Do **not add music, sound effects, or foley yet**.  
-Those elements will be developed later.
+Use the **Lumetri Color** panel in Premiere Pro. At this stage, focus on:
 
----
+- **Basic Correction:** White Balance, Exposure, Contrast, Highlights, Shadows, Whites, Blacks, and Saturation
+- **Curves:** Tonal balance and controlled contrast
+- **Color Wheels & Match:** Adjusting shadows, midtones, highlights, and comparing related shots
 
-### Why Use Premiere → Audition Workflow?
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2694257/Premiere-Pro-6--Basic-Colour-Correction-with-Lumetri-Color?iframeHash=mobilequick-1&amp;src=iframe&amp;oembed=1"
+    title="Interactive Premiere Pro tutorial on basic colour correction with Lumetri Color"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
 
-While Premiere Pro allows basic audio editing, **Audition provides more precise tools** for:
+## Compare connected shots
 
-- cleaning audio
-- adjusting levels
-- reducing noise
-- balancing multiple sound layers
+Correct clips in the context of the sequence rather than evaluating each one independently.
 
-Editors often send audio to Audition when they need **greater control over sound editing**.
+1. Select two shots that appear next to one another.
+2. Compare the subject, neutral areas, background, highlights, and shadows.
+3. Adjust the more inconsistent shot.
+4. Play across the cut.
+5. Confirm that the correction reduces distraction without creating a new mismatch.
 
-The workflow allows you to edit audio **without damaging the original files** and automatically updates your sequence in Premiere.
+## Visual-consistency checklist
 
----
+<fieldset class="equipment-checklist">
+  <legend>Make only the corrections needed for the rough cut</legend>
 
-### Sending Audio (Sequence) to Audition
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Correct major white-balance shifts.</strong>
+      Remove distracting blue, orange, green, or magenta casts.
+    </span>
+  </label>
 
-1. Select the sequence
-2. Main Menu → **Edit** → **Edit in Adobe Audition**
-3. In the Pop-Op Window, Select the correct folder to save new documents and enable **Open in Adobe Audition**.
-4. Click **OK**
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Balance exposure between connected shots.</strong>
+      Reduce unmotivated brightness changes across cuts.
+    </span>
+  </label>
 
-#### Premiere Pro → Adobe Audition Workflow: Basic Audio Editing
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Maintain usable highlight and shadow detail.</strong>
+      Avoid extreme corrections that damage the image.
+    </span>
+  </label>
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Play through every corrected cut.</strong>
+      Evaluate changes while the shots appear in sequence.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Delay the creative grade.</strong>
+      Focus on technical consistency rather than a final cinematic look.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Integrate Basic Production Sound</span>
+    <span class="section-description">
+      Build a clean audio foundation using room tone and the sounds recorded during production.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Sound requirements for the rough cut
+
+After the visual structure and rhythm are established, integrate the production sound needed to make the sequence understandable and continuous.
+
+Use:
+
+- **Room tone** recorded in each location
+- **On-scene sounds** recorded during production
+- Synchronized camera or recorder audio when it supports the visible action
+
+Do **not** develop the complete sound design yet. Music, added sound effects, and foley will be addressed in later stages.
+
+## Build continuity with room tone
+
+Place room tone beneath cuts where the natural ambience drops or changes abruptly. Use crossfades or short overlaps when necessary to create a continuous sonic environment.
+
+Room tone should not call attention to itself. Its purpose is to prevent sudden silence and maintain the acoustic identity of the location.
+
+## Why use Audition?
+
+Premiere Pro provides basic audio tools. Adobe Audition offers more detailed control when you need to:
+
+- Clean individual recordings
+- Adjust levels precisely
+- Reduce consistent background noise
+- Edit several sound layers
+- Create fades and repair abrupt transitions
+
+Keep the original files unchanged. Work with linked or copied media created through the Premiere Pro and Audition workflow.
+
+## Send a sequence to Audition
+
+1. Select or open the sequence in Premiere Pro.
+2. Go to **Edit → Edit in Adobe Audition → Sequence**.
+3. In the pop-up window, select the folder where the new audio documents will be stored.
+4. Enable **Open in Adobe Audition**.
+5. Select **OK**.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/GZdLxdtrBT8?si=4l2MlbvjiHeUA6nR"
-    title="YouTube video player"
-    frameborder="0"
+    title="Tutorial demonstrating a Premiere Pro to Adobe Audition sequence workflow"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
-### Reopening the Audition Session for Further Editing
+## Reopen the Audition session
 
-If you need to continue editing your audio later, you can reopen the **Audition session file** that was created during the Premiere → Audition workflow.
+The sequence workflow creates an Audition session file with the `.sesx` extension.
 
-Locate the **session file (.sesx)** inside the folder: 📁 `Adobe Audition Interchange`
+Locate the session inside:
 
-This folder is automatically created inside the same directory where your **Premiere project** is saved.
+```text
+Adobe Audition Interchange
+```
 
-Open the `.sesx` file in **Adobe Audition**, make any additional changes, and then **export again to Premiere Pro** following the same **Export to Adobe Premiere Pro** workflow.  
+This folder is created in the location selected during the transfer process. Open the `.sesx` file to continue working in Audition. After making additional changes, return the edited audio to Premiere Pro using the same export workflow used for the original session.
 
----
+## Send an individual clip to Audition
 
-### Sending Audio (Clip) to Audition
+Use the clip workflow when only one recording requires cleaning or adjustment.
 
-1. Select the audio clip(s) in your Premiere timeline.
+1. Select the audio clip in the Premiere Pro timeline.
 2. Right-click the clip.
-3. Choose **Edit Clip in Adobe Audition**.  
+3. Choose **Edit Clip in Adobe Audition**.
+4. Make the required changes in Audition.
+5. Save the edited file.
 
-<img src="imgs/134.png" style="width: 60%; height: auto;">  
+<figure class="media-card">
+  <img
+    src="imgs/134.png"
+    alt="Premiere Pro contextual menu showing the Edit Clip in Adobe Audition command"
+  >
+  <figcaption>
+    Use <strong>Edit Clip in Adobe Audition</strong> when an individual recording requires detailed repair or adjustment.
+  </figcaption>
+</figure>
 
-Premiere will create a linked audio file and open it in **Audition**.
-
-Any changes saved in Audition will automatically update inside **Premiere**.  
-
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/Q_Cg21CiHhE?si=9-ZPgJyBcvVxxMxo"
-    title="YouTube video player"
-    frameborder="0"
+    title="Tutorial demonstrating how to edit an individual Premiere Pro audio clip in Adobe Audition"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div>   
+</div>
+
+## Basic-sound checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Create a clean and readable audio foundation</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the required production sound.</strong>
+      Include the on-scene recordings needed to understand visible actions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Add room tone beneath the scene.</strong>
+      Maintain a continuous ambient foundation across cuts.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Repair abrupt audio changes.</strong>
+      Adjust clip boundaries, fades, or overlaps when sound cuts suddenly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep levels readable and consistent.</strong>
+      Prevent individual recordings from becoming unexpectedly loud or quiet.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use Audition only where needed.</strong>
+      Clean or repair production recordings without beginning the full sound design.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Delay music, added effects, and foley.</strong>
+      These layers will be developed after the rough cut structure is approved.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Export the Final Rough Cut</span>
+    <span class="section-description">
+      Export a clearly named H.264 review file after checking the complete image and sound sequence.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Review before exporting
+
+Watch the complete sequence from beginning to end before creating the submission file.
+
+Confirm:
+
+- The film begins and ends intentionally
+- No unwanted black frames or empty gaps appear
+- Every shot is framed and scaled correctly
+- The rough cut communicates the complete action
+- Pacing supports the intended emotional shift
+- Major exposure and white-balance differences have been corrected
+- Room tone and production sound remain continuous
+- No clip is accidentally offline, disabled, or muted
+
+## Export the submission sequence
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.iorad.com/player/2694333/Premiere-Pro-7--Exporting-a-Submission-Sequence?iframeHash=mobilequick-1&amp;src=iframe&amp;oembed=1"
+    title="Interactive Premiere Pro tutorial on exporting a rough-cut submission sequence"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="camera; microphone; clipboard-write"
+    sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"
+    allowfullscreen>
+  </iframe>
+</div>
+
+With the sequence open in the timeline:
+
+1. Go to the **Export** workspace.
+2. Save the file in the `04_Exports` folder inside the project folder.
+3. Set the filename using the required project naming convention.
+4. Set **Format** to **H.264**.
+5. Set **Preset** to **Match Source – Adaptive High Bitrate**.
+6. Confirm that the resolution and frame rate match the sequence.
+7. Disable additional export effects that are not required.
+8. Select **Export**.
+
+Example filename:
+
+```text
+ProjectName_RoughCut_v01.mp4
+```
+
+## Final rough-cut checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete before submission</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Watch the sequence from beginning to end.</strong>
+      Complete one uninterrupted review before exporting.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the complete rough-cut structure.</strong>
+      Make sure the action, progression, and ending are understandable.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check image and sound continuity.</strong>
+      Remove accidental gaps, abrupt level changes, and major visual inconsistencies.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use the required export settings.</strong>
+      Export H.264 with Match Source – Adaptive High Bitrate.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Save the file in `04_Exports`.</strong>
+      Keep exports separate from project files, source media, and temporary renders.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use a clear versioned filename.</strong>
+      Do not overwrite earlier rough-cut exports.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Open and test the exported file.</strong>
+      Confirm that the video plays correctly before submitting it.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
 
 ---
-
-<h2 id="export" style="color: darkred;">Final Rough Cut Export</h2>
-
-<iframe src="https://www.iorad.com/player/2694333/Premiere-Pro-7--Exporting-a-Submission-Sequence?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-
-With your **sequence** open in the timeline:   
-1. Go to **Export**
-2. Save on: **04_Exports** inside project's folder.
-3. Preset: **Match Source – Adaptive High Bitrate**
-4. Format: **H.264**
-5. Dissable Effects
-5. Click **Export**  
-
-________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-AI tools (ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
