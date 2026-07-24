@@ -1274,6 +1274,16 @@ main:focus-visible {
   object-position: center;
 }
 
+/* 16:9 media-card images */
+.tutorial-content
+  .photography-examples--sixteen-nine
+  .media-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
+}
+
 .media-grid {
   display: grid;
   gap: 16px;
@@ -1349,3 +1359,4 @@ main:focus-visible {
     grid-template-columns: 1fr;
   }
 }
+

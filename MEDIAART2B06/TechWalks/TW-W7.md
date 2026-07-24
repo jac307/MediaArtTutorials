@@ -195,7 +195,7 @@ A transition indicates a change between shots or scenes. Most edits do not need 
 
 > In a one-minute film, transitions should remain minimal.
 
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -365,7 +365,7 @@ For every storyboard panel, provide:
 
 Shot type describes the camera’s distance from the subject. It determines how much of the environment is visible and how close the audience feels to the action.
 
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -443,7 +443,7 @@ Shot type describes the camera’s distance from the subject. It determines how 
 
 Camera angle describes the camera’s vertical and relational position to the subject. It can affect how the viewer perceives power, vulnerability, stability, and psychological tension.
 
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -511,7 +511,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
 Camera movement describes whether and how the camera moves during a shot. Choose movements that are realistic for the available equipment and that support the action.
 
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -597,7 +597,7 @@ The lighting plan should identify:
 
 ### Light sources
 
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -665,7 +665,7 @@ The sound plan should identify:
 - How the sound relates to the visual action
 - Whether the sound will be recorded during production or created during editing
 
-<div class="media-grid media-grid--two">
+<div class="media-grid media-grid--two photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <video controls preload="metadata">
