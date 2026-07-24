@@ -447,7 +447,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
   <figure class="media-card">
     <img
-      src="imgs/104.jpg"
+      src="imgs/Angle-EyeLevel.jpg"
       alt="Eye-level camera angle positioned at the subject's eye height"
     >
     <figcaption>
@@ -457,7 +457,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
   <figure class="media-card">
     <img
-      src="imgs/106.jpg"
+      src="imgs/Angle-Low.jpg"
       alt="Low camera angle looking upward at a subject"
     >
     <figcaption>
@@ -467,7 +467,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
   <figure class="media-card">
     <img
-      src="imgs/107.jpg"
+      src="imgs/Angle-Overhead.jpg"
       alt="Overhead camera angle looking directly down on a subject"
     >
     <figcaption>
