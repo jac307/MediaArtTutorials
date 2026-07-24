@@ -160,6 +160,18 @@ All audio devices must be:
 
 The three devices serve different purposes and should capture complementary sound perspectives.
 
+## Audio-device placement
+
+The three recording perspectives should complement one another:
+
+| Device | Main purpose | Recommended position |
+|---|---|---|
+| Sennheiser ME 80 + ZOOM H4n | Subtle and detailed sounds | Close to one specific Foley area |
+| RØDE VideoMic NTG + Camera B | Directional sound synchronized with video | In front of or opposite the detail microphone |
+| ZOOM H4n built-in microphones | Overall ambient soundscape | Above and centred (or on the side) over the Foley station |
+
+> Avoid placing all three microphones in the same position. Each device should contribute a different and useful sound perspective.
+
 ## Audio Device 1 — Condenser Microphone
 
 ![Condenser Microphone Placement](imgs/CondMic-Placement.png)
@@ -236,18 +248,6 @@ This recorder should document how the individual sounds blend within the complet
 - Confirm that the loudest combined Foley actions do not clip.
 
 > The second ZOOM H4n functions as the **room or ambient recorder**. It should capture the complete Foley performance rather than one isolated object.
-
-## Audio-device placement
-
-The three recording perspectives should complement one another:
-
-| Device | Main purpose | Recommended position |
-|---|---|---|
-| Sennheiser ME 80 + ZOOM H4n | Subtle and detailed sounds | Close to one specific Foley area |
-| RØDE VideoMic NTG + Camera A | Directional sound synchronized with video | In front of or opposite the detail microphone |
-| ZOOM H4n built-in microphones | Overall ambient soundscape | Above and centred over the Foley station |
-
-> Avoid placing all three microphones in the same position. Each device should contribute a different and useful sound perspective.
 
 </div>
 </details>
