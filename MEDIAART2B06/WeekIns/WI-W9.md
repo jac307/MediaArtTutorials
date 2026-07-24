@@ -695,68 +695,6 @@ Save it inside:
 03_Renders
 ```
 
-Listen to the complete export using headphones.
-
-<fieldset class="equipment-checklist">
-  <legend>Basic production-sound check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Organize the audio tracks.</strong>
-      Separate primary sound, additional recordings, and room tone.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Add room tone.</strong>
-      Maintain the acoustic identity of each location across the cuts.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Synchronize the production sound.</strong>
-      Align important sounds with the visible actions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Balance clip levels.</strong>
-      Keep important actions audible and below clipping.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Add short fades.</strong>
-      Remove abrupt audio starts, stops, and transitions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use Audition only when necessary.</strong>
-      Send only an individual file that requires advanced repair.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Export and review the rough preview.</strong>
-      Save <code>ProjectName_RoughPreview.mp4</code> inside <code>03_Renders</code>.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -783,37 +721,93 @@ Watch:
 ```text
 ProjectName_RoughPreview.mp4
 ```
+## Review the complete film
 
-Review the complete film from beginning to end.
+Watch the film from beginning to end without stopping.
 
-Check:
+<fieldset class="equipment-checklist">
+  <legend>Rough-cut review checklist</legend>
 
-### Structure and rhythm
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the final shot order.</strong>
+      Check that the sequence is complete and that every shot appears in the intended order.
+    </span>
+  </label>
 
-- Final shot order
-- Clarity of the action
-- Shot duration
-- Abrupt cuts
-- Repetition
-- Overall duration
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the clarity of the action.</strong>
+      Confirm that the visual progression and important actions are easy to understand.
+    </span>
+  </label>
 
-### Visual consistency
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the rhythm and shot duration.</strong>
+      Identify shots that remain too long, end too quickly, repeat information, or create abrupt cuts.
+    </span>
+  </label>
 
-- Exposure
-- White balance
-- Contrast
-- Cropping
-- Aspect ratio
-- Framing
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the overall duration.</strong>
+      Check that the sequence meets the required runtime.
+    </span>
+  </label>
 
-### Basic production sound
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check exposure and white balance.</strong>
+      Look for noticeable changes in brightness, colour temperature, or tint between connected shots.
+    </span>
+  </label>
 
-- Room tone
-- Synchronization
-- Levels
-- Clipping
-- Distortion
-- Audio continuity
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check contrast and visual consistency.</strong>
+      Confirm that highlights, shadows, and contrast remain coherent throughout the film.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check cropping, framing, and aspect ratio.</strong>
+      Confirm that every shot fits the sequence correctly and that important visual information remains inside the frame.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check room tone and audio continuity.</strong>
+      Confirm that background sound continues naturally across cuts and that there are no unexplained silent gaps.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check sound synchronization.</strong>
+      Confirm that production sounds align with the visible actions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check audio levels and quality.</strong>
+      Listen for sounds that are too loud or quiet, clipping, distortion, abrupt changes, or distracting background noise.
+    </span>
+  </label>
+</fieldset>
 
 Make only the corrections required for a coherent rough cut.
 
@@ -976,58 +970,6 @@ Submit through Avenue to Learn:
 | Project organization | Reviewed in person |
 
 > Follow the submission protocol carefully. Incorrect filenames, missing files, missing temporary renders, disorganized project folders, or unavailable media may result in a **2-point deduction**.
-
-<fieldset class="equipment-checklist">
-  <legend>Final W9 submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare the project folder for the in-person check.</strong>
-      Open the Premiere Pro project and confirm that the media is online.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the three temporary renders.</strong>
-      Keep the Draft Assembly, Rhythm Pass, and Rough Preview inside <code>03_Renders</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the final export.</strong>
-      Keep <code>Lastname_Firstname_RoughCut.mp4</code> inside <code>04_Exports</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the information sheet.</strong>
-      Keep <code>Lastname_Firstname_RoughCut.pdf</code> inside <code>00_ProjectFiles</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Complete the in-person grading check.</strong>
-      Present the organized project before the end of the tutorial.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit both required files.</strong>
-      Verify the MP4 and PDF after uploading them to Avenue to Learn.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
