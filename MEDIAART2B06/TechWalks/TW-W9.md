@@ -12,7 +12,7 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review">
   <summary>
     <span class="section-title">1. Review and Organize the Footage</span>
     <span class="section-description">
@@ -114,7 +114,7 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="draft-assembly">
   <summary>
     <span class="section-title">2. Build the Draft Assembly</span>
     <span class="section-description">
@@ -179,7 +179,7 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="temporary-sequence">
   <summary>
     <span class="section-title">3. Export and Review a Temporary Sequence</span>
     <span class="section-description">
@@ -258,7 +258,7 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="pacing-rhythm">
   <summary>
     <span class="section-title">4. Refine Pacing and Rhythm</span>
     <span class="section-description">
@@ -402,7 +402,7 @@ SECTION 5
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="visual-consistency">
   <summary>
     <span class="section-title">5. Establish Basic Visual Consistency</span>
     <span class="section-description">
@@ -489,7 +489,7 @@ SECTION 6
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="basic-sound-integration">
   <summary>
     <span class="section-title">6. Integrate Basic Production Sound in Premiere Pro</span>
     <span class="section-description">

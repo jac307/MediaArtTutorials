@@ -6,18 +6,7 @@
 
 ## Goal
 
-Assemble the footage and production sound into a complete rough cut that follows the approved pre-production plan while allowing room for revision.
-
-During this stage, you will:
-
-- Review and select the strongest footage
-- Build a complete draft assembly
-- Refine pacing and rhythm
-- Apply basic technical colour correction
-- Integrate room tone and production sound in Adobe Premiere Pro
-- Export temporary review files
-- Prepare the rough cut and information sheet for submission
-- Present the organized project folder during the in-person grading check
+Assemble the footage and production sound into a **complete rough cut** that follows the approved pre-production plan while allowing room for revision.
 
 > Attendance, participation, and active engagement during class activities are part of the project rubric.
 
@@ -28,17 +17,11 @@ During this stage, you will:
 - **Format:** Rough cut of a one-minute, no-dialogue short film
 - **Project type:** Individual
 - **Editing software:** Adobe Premiere Pro
-- **Frame rate:** 24 fps
-- **Maximum draft-assembly duration:** 2 minutes
 - **Target rough-cut duration:** Approximately 1 minute
 - **Maximum rough-cut duration at this stage:** 1 minute, 10 seconds
-- **Temporary renders:** Saved in `03_Renders`
-- **Final rough-cut export:** Saved in `04_Exports`
-- **Project file:** Saved in `00_ProjectFiles`
+- **Maximum draft-assembly duration:** 2 minutes
 - **Audio:** Room tone and on-scene production sound only
 - **Colour:** Basic technical correction only
-- **Submission:** Rough Cut MP4 and Rough Cut Information Sheet PDF
-- **Additional grading component:** In-person project-organization check
 
 ## Sequence settings
 
@@ -53,7 +36,7 @@ Select one of the following frame sizes according to the aspect ratio chosen for
 | **1.85:1** | 1920 × 1038 |
 | **2.35:1** | 1920 × 817 |
 
-The original footage was recorded at 1920 × 1080. Choosing another aspect ratio will crop the recorded image.
+> The original footage was recorded at 1920 × 1080. Choosing another aspect ratio will crop the recorded image.
 
 ## Project stages
 
@@ -112,7 +95,7 @@ Import:
 - All production sound from `02_Audio`
 - Any revised pre-production documents needed for reference
 
-Organize the Project panel using bins that match the project structure.
+**In Premire Pro:** Organize the Project panel using bins that match the project structure.
 
 Suggested bins:
 
@@ -138,42 +121,6 @@ Name the first sequence:
 ```text
 ProjectName_DraftAssembly
 ```
-
-<fieldset class="equipment-checklist">
-  <legend>Project setup check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Save the Premiere Pro project correctly.</strong>
-      Place <code>ProjectName.prproj</code> inside <code>00_ProjectFiles</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that autosaves are active.</strong>
-      Verify that Premiere Pro is creating backup project files.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Import the footage and production sound.</strong>
-      Keep the media organized in clearly named bins.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create the 24 fps sequence.</strong>
-      Use the frame size required for the selected aspect ratio.
-    </span>
-  </label>
-</fieldset>
 
 <div class="video-wrapper">
   <iframe
@@ -205,7 +152,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-Review the guidance on [W9 — Reviewing Footage](../TechWalks/TW-W9.md#reviewing-footage){:target="_blank"}.
+Review the guidance on [W9 — Reviewing Footage](../TechWalks/TW-W9.md#review){:target="_blank"}.
 
 Do not begin by dragging every file directly into the timeline.
 
@@ -224,9 +171,7 @@ Do not delete any original footage.
 
 ## Evaluate each take
 
-Check:
-
-### Technical quality
+### Check Technical quality
 
 - Focus
 - Exposure
@@ -236,7 +181,7 @@ Check:
 - Recording errors
 - Beginning and ending handles
 
-### Performance and action
+### Check Performance and action
 
 - Natural movement
 - Clear beginning and ending
@@ -306,19 +251,10 @@ SECTION 3
 
 Review:
 
-- [W9 — Building the Draft Assembly](../TechWalks/TW-W9.md#building-the-draft-assembly){:target="_blank"}
-- [W9 — Exporting Temporary Sequences](../TechWalks/TW-W9.md#exporting-temporary-sequences){:target="_blank"}
+- [W9 — Building the Draft Assembly](../TechWalks/TW-W9.md#draft-assembly){:target="_blank"}
+- [W9 — Exporting Temporary Sequences](../TechWalks/TW-W9.md#temporary-sequence){:target="_blank"}
 
-The draft assembly is the first complete version of the film.
-
-Its purpose is to reveal:
-
-- Shot order
-- Story structure
-- Missing actions
-- Repetition
-- Continuity problems
-- Overall duration
+The draft assembly is the first complete version of the film that serves to reveal improvements with pacing, rythm, and continuity.
 
 ## Assembly rules
 
@@ -326,7 +262,7 @@ For this first sequence:
 
 - Follow the planned story order.
 - Place one selected shot after another.
-- Do not trim precisely yet.
+- Do not trim yet. Leave shot as they are. 
 - Do not add decorative transitions.
 - Do not add effects.
 - Do not add music, stock sound, sound effects, or foley.
@@ -429,29 +365,11 @@ SECTION 4
 
 Review [W9 — Pacing and Rhythm](../TechWalks/TW-W9.md#pacing-rhythm){:target="_blank"}.
 
-Duplicate the draft-assembly sequence and rename the new sequence:
-
-```text
-ProjectName_RhythmPass
-```
-
 ## Address the draft-assembly notes
 
 Correct the issues identified during the previous stage.
 
-This may include:
-
-- Trimming unnecessary pauses
-- Extending actions that end too abruptly
-- Removing repetitive shots
-- Reordering shots
-- Replacing a take
-- Improving continuity
-- Simplifying the sequence
-
 ## Refine shot duration
-
-Ask:
 
 - Does the viewer have enough time to understand the important information?
 - Does any shot continue after its purpose is complete?
@@ -563,7 +481,7 @@ SECTION 5
 
 <div class="section-content" markdown="1">
 
-Review [W9 — Visual Consistency and Basic Colour Correction](../TechWalks/TW-W9.md#visual-consistency-basic-colour-correction){:target="_blank"}.
+Review [W9 — Visual Consistency and Basic Colour Correction](../TechWalks/TW-W9.md#visual-consistency){:target="_blank"}.
 
 At this stage, apply **technical colour correction**, not creative colour grading.
 
@@ -668,8 +586,6 @@ Review [W9 — Basic Sound Integration](../TechWalks/TW-W9.md#basic-sound-integr
 
 Complete the basic sound edit in **Adobe Premiere Pro**.
 
-Do not send the complete sequence to Adobe Audition.
-
 ## Sound requirements
 
 Use:
@@ -678,14 +594,7 @@ Use:
 - On-scene production sound
 - Synchronized camera or external-recorder audio when it supports the visible action
 
-Do not add:
-
-- Music
-- Stock sound
-- Added sound effects
-- Foley recorded after production
-
-These elements will be developed during the later sound-design stage.
+> Do not add music, stock sound, added sound effects, and foley recorded after production. These elements will be developed during the later sound-design stage.
 
 ## Organize the audio tracks
 
@@ -698,93 +607,79 @@ For example:
 | **A1** | Primary production sound |
 | **A2** | Additional on-scene recordings |
 | **A3** | Room tone |
-| **A4** | Temporary or supporting production audio |
+| **A4** | Temporary or supporting production audio (TBA) |
 
 Keep the track arrangement consistent throughout the sequence.
 
-## Add room tone
+## Integrate room tone and on-scene sound
 
-Place room tone beneath the relevant scene.
+<fieldset class="equipment-checklist">
+  <legend>Basic sound-integration checklist</legend>
 
-Room tone should:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Add room tone beneath each scene.</strong>
+      Use the recording from the same location and extend it across cuts to prevent unexplained silence.
+    </span>
+  </label>
 
-- Continue through cuts
-- Prevent unexplained digital silence
-- Match the location
-- Remain subtle
-- Support the acoustic continuity of the scene
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Place the on-scene recordings.</strong>
+      Add footsteps, doors, objects, clothing, and other production sounds where they support the visible action.
+    </span>
+  </label>
 
-Use short overlaps, clip fades, or **Constant Power** transitions where necessary.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Synchronize sounds when necessary.</strong>
+      Use waveforms, the synchronization clap, visible impacts, or camera reference audio to align external recordings with the image.
+    </span>
+  </label>
 
-## Synchronize on-scene sound
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the volume.</strong>
+      Use Clip Gain, the clip volume line, or <strong>Effect Controls → Volume → Level</strong> to keep important sounds audible and below clipping.
+    </span>
+  </label>
 
-Align external audio with the visible action.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Add short fades.</strong>
+      Apply subtle fade-ins, fade-outs, or <strong>Constant Power</strong> transitions to prevent abrupt starts, stops, clicks, and changes in background sound.
+    </span>
+  </label>
 
-Use:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Optional: repair an individual clip in Adobe Audition.</strong>
+      Right-click the clip and select <strong>Edit Clip in Adobe Audition</strong> only when it requires advanced noise reduction, click removal, or precise waveform repair. Save the file and confirm that it updates in Premiere Pro.
+    </span>
+  </label>
 
-- Waveforms
-- Synchronization claps
-- Visible impacts
-- Doors, footsteps, and object actions
-- Camera reference audio
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the sound edit simple.</strong>
+      Do not apply detailed sound design or heavy processing. At this stage, focus on placement, synchronization, volume, and fades.
+    </span>
+  </label>
 
-Confirm that the sound remains synchronized throughout the clip.
-
-## Adjust volume
-
-Balance the clips using:
-
-- Clip Gain
-- The clip volume line
-- **Effect Controls → Volume → Level**
-- Volume keyframes
-- Track volume
-- Essential Sound controls
-- Audio meters
-
-Keep important actions audible without allowing the signal to clip.
-
-Avoid raising quiet recordings so much that background noise becomes distracting.
-
-## Add short fades
-
-Use fades to prevent:
-
-- Abrupt starts
-- Abrupt stops
-- Clicks
-- Noticeable changes between room-tone clips
-- Sudden changes in background noise
-
-Keep most fades short and subtle.
-
-## Optional advanced workflow: edit one clip in Audition
-
-Premiere Pro remains the main audio-editing workspace.
-
-Use **Edit Clip in Adobe Audition** only when one individual file requires advanced repair, such as:
-
-- Consistent background-noise reduction
-- Click removal
-- Repair of an isolated unwanted sound
-- Precise waveform editing
-
-1. Select the audio clip in the Premiere Pro timeline.
-2. Right-click the clip.
-3. Choose **Edit Clip in Adobe Audition**.
-4. Repair the individual file.
-5. Save it in Audition.
-6. Return to Premiere Pro and confirm that the linked file updated correctly.
-
-<figure class="media-card">
-  <img
-    src="imgs/14.png"
-    alt="Premiere Pro audio controls used to adjust and balance selected audio clips"
-  >
-  <figcaption>
-    Use Premiere Pro audio controls to balance the production sound. Audition is optional and should be reserved for advanced repair of an individual file.
-  </figcaption>
-</figure>
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the sequence using headphones.</strong>
+      Check that room tone remains subtle, on-scene sounds match the image, and no audio clips or becomes distracting.
+    </span>
+  </label>
+</fieldset>
 
 ## Export the rough preview
 
@@ -801,17 +696,6 @@ Save it inside:
 ```
 
 Listen to the complete export using headphones.
-
-Check:
-
-- Room-tone continuity
-- Synchronization
-- Clip levels
-- Abrupt starts or stops
-- Clipping
-- Distortion
-- Unexplained silence
-- Background-noise changes
 
 <fieldset class="equipment-checklist">
   <legend>Basic production-sound check</legend>
