@@ -52,7 +52,7 @@ For this project, the lighting should demonstrate:
 
   <figure class="media-card">
     <img
-      src="imgs/131.jpg"
+      src="imgs/Film-Example-1.jpg"
       alt="Film still from Sinners showing directional lighting, controlled shadows, and clear separation between the subject and background"
     >
     <figcaption>
@@ -62,7 +62,7 @@ For this project, the lighting should demonstrate:
 
   <figure class="media-card">
     <img
-      src="imgs/132.jpg"
+      src="imgs/Film-Example-2.jpg"
       alt="Film still from Wicked showing bright, soft, high-key illumination and a pastel tonal range"
     >
     <figcaption>
@@ -72,7 +72,7 @@ For this project, the lighting should demonstrate:
 
   <figure class="media-card">
     <img
-      src="imgs/133.jpg"
+      src="imgs/Film-Example-3.jpg"
       alt="Television still from The Big Bang Theory showing evenly exposed multi-camera sitcom lighting"
     >
     <figcaption>
@@ -182,7 +182,7 @@ Review [W2 — Set Resolution, Aspect Ratio & Frame Rate](https://jac307.github.
 
 <figure class="media-card">
   <img
-    src="imgs/126.png"
+    src="imgs/AspectRatios.png"
     alt="Diagram comparing the proportions of 16 by 9, 4 by 3, 1.85 to 1, and 2.35 to 1 aspect ratios"
   >
   <figcaption>
@@ -316,16 +316,6 @@ Before each take:
 3. Adjust focus on the intended focal point.
 4. Return to the complete frame.
 5. Recheck focus after the subject, camera, or focal length changes.
-
-<figure class="media-card">
-  <img
-    src="imgs/130.jpg"
-    alt="Close view of a camera's zoom-in controls used to magnify the image and confirm focus"
-  >
-  <figcaption>
-    Use the zoom-in controls to magnify the preview and confirm sharpness before recording.
-  </figcaption>
-</figure>
 
 ## Camera setup checklist
 
