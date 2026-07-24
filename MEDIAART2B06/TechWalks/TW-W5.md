@@ -216,6 +216,8 @@ This recording will also provide an important synchronized reference during edit
 
 ## Audio Device 3 — Ambient recorder
 
+![Condenser Microphone Placement](imgs/ZOOM-Placement.png)
+
 ### Purpose
 
 Use a second **ZOOM H4n** to capture the overall soundscape of the Foley performance.
