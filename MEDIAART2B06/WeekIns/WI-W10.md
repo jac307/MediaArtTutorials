@@ -541,19 +541,6 @@ Use **any audio-editing software** to review, trim, and clean each sound file in
 
 Do **not** synchronize, layer, or mix the complete soundtrack yet. The final sound design will be completed after picture lock in Week 12.
 
-For each sound:
-
-1. Listen to the complete original recording.
-2. Select the strongest take.
-3. Trim unnecessary material from the beginning and end.
-4. Keep a short amount of sound before and after the intended action.
-5. Remove or reduce distracting noise when necessary.
-6. Adjust the volume only when the recording is clearly too quiet or too loud.
-7. Avoid creative effects, reverberation, heavy compression, or other processing that changes the character of the original sound.
-8. Export the prepared file as **WAV at 48 kHz**.
-9. Open the exported file and confirm that it plays correctly.
-10. Preserve an unchanged copy of the original recording.
-
 <fieldset class="equipment-checklist">
   <legend>Individual sound-preparation checklist</legend>
 
@@ -660,10 +647,14 @@ ProjectName_AudioCredits.pdf
 
 Include a table with:
 
-| Filename | Audio type | Title or description | Creator | Source | Licence |
-|---|---|---|---|---|---|
+1. Filename
+2. Audio type
+3. Title or description
+4. Creator
+5. Source
+6. Licence
 
-For original recordings, identify the student who recorded the sound.
+> For original recordings, identify the student who recorded the sound.
 
 Example:
 
@@ -692,11 +683,11 @@ Lastname_Firstname_SoundDesignProduction
 Place:
 
 - `ProjectName_AudioCredits.pdf` inside `00_Credits`
-- Prepared production audio inside `01_ProdAudio`
-- Prepared ambience inside `02_Ambience`
-- Prepared Foley inside `03_Foley`
-- Prepared sound effects inside `04_SFX`
-- Prepared instrumental music inside `05_Music`
+- Place production audio inside `01_ProdAudio`
+- Place ambience inside `02_Ambience`
+- Place Foley inside `03_Foley`
+- Place sound effects inside `04_SFX`
+- Place instrumental music inside `05_Music`
 
 Keep the required folder even when one category is not used.
 
