@@ -195,9 +195,9 @@ Review:
 - [W2 — Shutter speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}
 - [W3 — Shutter Speed as a Motion and Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#1.-Shutter-speed){:target="_blank"}
 
-<figure class="media-card">
+<figure class="media-card photography-examples--sixteen-nine">
   <img
-    src="imgs/129.gif"
+    src="imgs/Film-Example-6.gif"
     alt="Film example showing strong motion blur around a comparatively clear central figure"
   >
   <figcaption>
@@ -222,7 +222,7 @@ When a higher ISO is selected for aesthetic reasons, keep the choice consistent 
 
   <figure class="media-card">
     <img
-      src="imgs/127.jpg"
+      src="imgs/Film-Example-4.jpg"
       alt="Film still from Black Swan showing visible grain and texture in dark areas"
     >
     <figcaption>
@@ -232,7 +232,7 @@ When a higher ISO is selected for aesthetic reasons, keep the choice consistent 
 
   <figure class="media-card">
     <img
-      src="imgs/128.jpg"
+      src="imgs/Film-Example-5.jpg"
       alt="Dark film still from The Batman showing visible texture within heavy shadow areas"
     >
     <figcaption>
