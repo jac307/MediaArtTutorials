@@ -166,8 +166,8 @@ Adjust:
 
 Use the histogram to evaluate exposure rather than relying only on the brightness of the LCD screen.
 
-Review [W4 — Advanced Exposure Theory](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-triangle){:target="_blank"}.
-Review [W3 — Histogram](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#histogram){:target="_blank"}
+- Review [W4 — Advanced Exposure Theory](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-triangle){:target="_blank"}.  
+- Review [W3 — Histogram](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#histogram){:target="_blank"}
 
 ## Select shutter speed
 
@@ -403,7 +403,10 @@ Activate the camera grid and use it to evaluate alignment and balance.
 - Avoid accidental tilting unless the angle is part of the visual plan
 - Anticipate any crop that will be added during editing
 
-Review [W7 — Select shot types](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-shot-types){:target="_blank"} and [W7 — Select camera angles](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-camera-angles){:target="_blank"}.
+Review:  
+
+-  [W7 — Select shot types](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-shot-types){:target="_blank"}.  
+- [W7 — Select camera angles](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-camera-angles){:target="_blank"}.
 
 A **focal point** is the area that draws the viewer's attention first. It is usually the main subject or the most important visual detail. The intended focal point must remain sharp.
 
