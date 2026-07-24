@@ -116,7 +116,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Exposure Triangle
+<h2 id="exposure-triangle">Exposure Triangle</h2>
 
 ![Exposure Triangle](imgs/FullExposureDiagram.jpg)
 

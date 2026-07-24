@@ -165,7 +165,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Three-point Lighting
+<h2 id="three-point-lighting">Three-point Lighting</h2>
 
 ![Diagram showing a three-point lighting arrangement](imgs/LightsDiagram.png)
 
@@ -921,7 +921,7 @@ SECTION 8
 
 <div class="section-content" markdown="1">
 
-## Audio recording method
+<h2 id="audio-recording-method">Audio recording method</h2>
 
 Record audio directly into two cameras:
 

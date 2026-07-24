@@ -427,7 +427,7 @@ Bright skies, pale concrete, reflective surfaces, and large areas of shadow can 
   </iframe>
 </div>
 
-## Histogram
+<h2 id="histogram">Histogram</h2>
 
 The histogram shows how brightness values are distributed across the image:
 

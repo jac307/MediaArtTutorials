@@ -277,7 +277,7 @@ For every storyboard panel, provide:
 
 [Review storyboard examples from film, animation, and games](https://www.studiobinder.com/blog/storyboard-examples-film/){:target="_blank"}.
 
-## Select shot types
+<h2 id="select-shot-types">Select shot types</h2>
 
 Shot type describes the camera’s distance from the subject. It determines how much of the environment is visible and how close the audience feels to the action.
 
@@ -355,7 +355,7 @@ Shot type describes the camera’s distance from the subject. It determines how 
 
 </div>
 
-## Select camera angles
+<h2 id="select-camera-angles">Select camera angles</h2>
 
 Camera angle describes the camera’s vertical and relational position to the subject. It can affect how the viewer perceives power, vulnerability, stability, and psychological tension.
 
@@ -423,7 +423,7 @@ Camera angle describes the camera’s vertical and relational position to the su
 
 </div>
 
-## Plan camera movement
+<h2 id="plan-camera-movement">Plan camera movement</h2>
 
 Camera movement describes whether and how the camera moves during a shot. Choose movements that are realistic for the available equipment and that support the action.
 
@@ -511,7 +511,7 @@ The lighting plan should identify:
 
 > Keep the lighting plan realistic for the available equipment, location, and production schedule.
 
-### Light sources
+<h2 id="light-sources">Light sources</h2>
 
 <div class="media-grid media-grid--two photography-examples--sixteen-nine">
 

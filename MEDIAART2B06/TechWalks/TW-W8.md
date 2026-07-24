@@ -33,7 +33,7 @@ Do not use exposure settings to compensate for poorly positioned or uncontrolled
 Review:
 
 - [W2 — Three-point lighting](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#three-point-lighting){:target="_blank"}
-- [W7 — Character portrait lighting setups](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#character-portrait-lighting-setups){:target="_blank"}
+- [W7 — Light Sources](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#light-sources){:target="_blank"}
 
 ## Create an intentional visual approach
 
@@ -124,8 +124,6 @@ Record all footage using:
 - **Capture aspect ratio:** 16:9
 - **Grid display:** On
 
-Review [W2 — Set Resolution, Aspect Ratio & Frame Rate](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-resolution-aspect-ratio--frame-rate){:target="_blank"}
-
 <figure class="media-card photography-examples--sixteen-nine">
   <img
     src="imgs/AspectRatios.png"
@@ -155,8 +153,6 @@ Repeat the process when:
 - The dominant light source changes
 - The time of day changes significantly
 - A practical light is added or removed
-
-Review [W2 — Set Custom White Balance](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-custom-white-balance){:target="_blank"}
 
 ## Use Manual exposure
 
@@ -190,10 +186,6 @@ Decrease shutter speed carefully when:
 - The subject remains relatively still while movement occurs around them
 
 Lower shutter speeds create more motion blur or drag. Higher shutter speeds create sharper, more fragmented movement.
-
-Review:
-
-- [W2 — Shutter speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}
 
 <figure class="media-card photography-examples--sixteen-nine">
   <img
@@ -313,7 +305,6 @@ Examples include:
 Review:
 
 - [W2 — Audio recording method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#audio-recording-method){:target="_blank"}
-- [W5 — Configure the audio-recording devices](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-device-placement){:target="_blank"}
 
 Do not rely entirely on music or Foley added later. The final sound design will combine several layers, which may include:
 
