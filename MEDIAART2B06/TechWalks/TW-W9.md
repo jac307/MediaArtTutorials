@@ -616,6 +616,8 @@ Premiere Pro creates a new linked audio file. When the file is saved in Audition
   </figcaption>
 </figure>
 
+> For detailed steps, check this video. Watch only until minute 2:29. 
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/Q_Cg21CiHhE?si=9-ZPgJyBcvVxxMxo"
