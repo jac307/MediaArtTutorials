@@ -1,537 +1,904 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# W8 — Production Week Framework
 
-<h1 style="color: darkred;">W8 — Production Week Framework</h1>
-<h2 style="color: darkred;">From Pre-Production Plan to On-Set Execution</h2>
+## From Pre-Production Plan to On-Set Execution
 
-This document supports the [W8 - Production Week](../WeekIns/WI-W8.md){:target="_blank"} by outlining technical requirements, on-set best practices, and shot execution tips.    
+This technical walkthrough supports the [W8 — Production Week](../WeekIns/WI-W8.md){:target="_blank"} activity.
 
-## Sections
+Use your approved pre-production documents to complete the production systematically. Before recording, confirm the lighting, camera, and sound setup. During production, maintain deliberate composition, controlled camera movement, complete actions, and visual continuity.
 
-<ul>
-  <li><a href="#setup-lighting">Before Shooting: Lighting</a></li>
-  <li><a href="#setup-camera">Before Shooting: Camera</a></li>
-  <li><a href="#setup-sound">Before Shooting: Sound</a></li>
-  <li><a href="#composition">While Shooting: Composition & Camera Control</a></li>
-  <li><a href="#shooting">Space & Shooting Strategy</a></li>
-</ul>  
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
----
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Lighting Setup</span>
+    <span class="section-description">
+      Shape and control the light before adjusting camera exposure settings.
+    </span>
+  </summary>
 
-<h2 id="setup-lighting" style="color: darkred;">Before Shooting: Lighting</h2>    
+<div class="section-content" markdown="1">
 
-Set up your lighting **before adjusting camera exposure settings**.  
+## Set the lighting before adjusting exposure
 
-**Remember:** lighting will look different through the lens of the camera than it does to your eyes.  
-You must balance the **intensity of your lighting equipment** with your **camera exposure settings** (aperture, shutter speed, ISO).  
+Set up the lighting **before** changing aperture, shutter speed, or ISO.
 
-Do not adjust camera settings to compensate for poorly positioned lighting.  
-First shape and position the light, then fine-tune exposure.   
+Lighting may appear different through the camera lens than it does to your eyes. Begin by shaping and positioning the light. After the lighting arrangement is stable, use the camera settings to fine-tune the exposure.
 
-For guidance, review:  
-[W2 — Tech Walkthrough: Lighting Setup (Three-Point Logic)](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#2-lighting-setup-three-point-logic){:target="_blank"}   
-[W7 — Pre-Production Framework: Character Portrait Lighting Setups](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#character-portrait-lighting-setups){:target="_blank"}   
+Do not use exposure settings to compensate for poorly positioned or uncontrolled lighting.
 
----
+Review:
 
-### Aim for a Cinematic Look
+- [W2 — Three-point lighting](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#three-point-lighting){:target="_blank"}
+- [W7 — Character portrait lighting setups](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#character-portrait-lighting-setups){:target="_blank"}
 
-Your lighting approach should aim for a **cinematic look**:
+## Create an intentional visual approach
 
-- Intentional direction of light (not flat overhead lighting)
-- Visible depth through light and shadow
-- Controlled contrast
-- Consistent color temperature
-- Separation between subject and background    
+A cinematic image is not defined by one fixed lighting style. High contrast, low contrast, high-key, and low-key lighting can all be used intentionally.
 
-<img src="imgs/131.jpg" style="width: 80%; height: auto;">  
+For this project, the lighting should demonstrate:
 
-**Cinematic Lool Example**
+- A clear direction of light rather than uncontrolled overhead illumination
+- Visible depth across the subject and environment
+- Deliberate contrast between illuminated and shadowed areas
+- Consistent colour temperature
+- Separation between the subject and background
+- A lighting approach that supports the emotional tone of the scene
 
-> **Sinners (2025)** – Dir. Ryan Coogler  
-> Cinematographer: **Autumn Durald Arkapaw**  
-> Strong shadow control; clear subject separation through contrast; motivated directional light sources (windows, practical lamps); defined depth between foreground and background.  
+<div class="media-grid media-grid--three">
 
-<img src="imgs/132.jpg" style="width: 80%; height: auto;">  
+  <figure class="media-card">
+    <img
+      src="imgs/131.jpg"
+      alt="Film still from Sinners showing directional lighting, controlled shadows, and clear separation between the subject and background"
+    >
+    <figcaption>
+      <strong>Directional and contrast-based lighting:</strong> <em>Sinners</em> (2025), directed by Ryan Coogler and photographed by Autumn Durald Arkapaw. Directional sources, controlled shadows, and separation between visual planes create depth.
+    </figcaption>
+  </figure>
 
-**High-Key / Low-Contrast (Not Great Cinematic Look) Example**
+  <figure class="media-card">
+    <img
+      src="imgs/132.jpg"
+      alt="Film still from Wicked showing bright, soft, high-key illumination and a pastel tonal range"
+    >
+    <figcaption>
+      <strong>High-key and low-contrast lighting:</strong> <em>Wicked</em> (2024), directed by Jon M. Chu and photographed by Alice Brooks. Soft illumination and a bright tonal range create a different visual effect with reduced shadow depth.
+    </figcaption>
+  </figure>
 
-> **Wicked (2024)** – Dir. Jon M. Chu  
-> Cinematographer: **Alice Brooks**  
-> Even facial illumination; minimal shadow depth; soft, diffused lighting; pastel tonal range; reduced contrast between subject and background.   
+  <figure class="media-card">
+    <img
+      src="imgs/133.jpg"
+      alt="Television still from The Big Bang Theory showing evenly exposed multi-camera sitcom lighting"
+    >
+    <figcaption>
+      <strong>Flat multi-camera television lighting:</strong> <em>The Big Bang Theory</em> (2007–2019). The setup prioritizes consistent exposure and performer visibility across several camera positions rather than dramatic light and shadow.
+    </figcaption>
+  </figure>
 
-<img src="imgs/133.jpg" style="width: 80%; height: auto;">  
+</div>
 
-**Flat (Sitcom/TV Lighting) Example**
+## Maintain lighting continuity
 
-> **The Big Bang Theory (2007–2019)** Network: CBS  
-> Sitcom lighting prioritizes consistent exposure across multiple actors and camera angles.  
-The goal is clarity and performance visibility, not dramatic shadow or depth.
+Lighting must remain consistent between takes. Monitor:
 
----
+- Changes in daylight caused by clouds or sunset
+- Practical lights being turned on or off
+- Shadows shifting across the subject or background
+- Reflections appearing in windows, mirrors, screens, or other surfaces
+- Lights or stands being moved between takes
 
-### Consistency
+When the lighting changes significantly, restore the planned arrangement and recheck exposure before continuing.
 
-**Lighting must remain consistent between takes.**
+> Lighting must be controlled during production. Do not assume that major exposure or colour inconsistencies can be repaired in post-production.
 
-Be aware of:
-- Changing daylight (cloud movement, sunset)
-- Practical lights being turned on/off
-- Shadows shifting across faces
-- Reflections in the background
+## Lighting checklist
 
-If lighting changes significantly, adjust your setup and re-check exposure.  
+<fieldset class="equipment-checklist">
+  <legend>Complete before setting camera exposure</legend>
 
-❗ **Lighting must be controlled on set. Do not rely on fixing exposure or color in post-production.**
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position the light sources.</strong>
+      Confirm the direction, height, distance, and intensity of each light.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Control unwanted overhead light and spill.</strong>
+      Remove or reduce light that weakens the intended contrast or reaches unintended areas.
+    </span>
+  </label>
 
-<h2 id="setup-camera" style="color: darkred;">Before Shooting: Camera</h2>  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Separate the subject from the background.</strong>
+      Use brightness, direction, colour, or distance to keep the subject visually distinct.
+    </span>
+  </label>
 
-### Resolution & Aspect Ratio
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Match colour temperature.</strong>
+      Keep sources consistent unless mixed colour temperatures are part of the planned design.
+    </span>
+  </label>
 
-- You must record in **1920 × 1080 (Full HD)** at **24 fps**.  
-- You must activate the **grid overlay** to support composition and framing.  
-- All footage must be recorded in **16:9 aspect ratio**, regardless of your intended final crop.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the lighting through the camera.</strong>
+      Evaluate highlights, shadows, reflections, and background details from the recording position.
+    </span>
+  </label>
 
-📌 How to set this up:  
-Follow the instructions in the [W2 — Tech Walkthrough: Camera on Video](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#1-camera-on-video){:target="_blank"}  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Document the lighting arrangement.</strong>
+      Take a reference photograph so the setup can be restored between takes.
+    </span>
+  </label>
+</fieldset>
 
-<img src="imgs/126.png" style="width: 80%; height: auto;">   
+</div>
+</details>
 
-> 16:9 = **16 units wide for every 9 units tall.**   
-> 4:3 = **4 units wide for every 3 units tall.**   
-> 1.85:1 = **1.85 units wide for every 1 unit tall.**   
-> 2.35:1 = **2.35 units wide for every 1 unit tall.**   
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
 
-**You will always capture the full 16:9 frame in-camera.**  
-If you change the aspect ratio in editing, you will be **cropping** the image.
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Camera Setup</span>
+    <span class="section-description">
+      Confirm recording format, white balance, manual exposure, stabilization, and focus before each take.
+    </span>
+  </summary>
 
-This means you must compose your shots carefully during recording, anticipating how your final aspect ratio will affect what remains visible in the frame.  
+<div class="section-content" markdown="1">
 
----  
+## Set the recording format
 
-### White Balance
+Record all footage using:
 
-Set **Custom White Balance**.  
-You may use a white sheet of paper to calibrate it.
+- **Resolution:** 1920 × 1080 pixels (Full HD)
+- **Frame rate:** 24 fps
+- **Capture aspect ratio:** 16:9
+- **Grid display:** On
 
-📌 How to set this up:  
-Follow the instructions in the  
-[W2 — Tech Walkthrough: White Balance](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#4-white-balance){:target="_blank"}   
+Review [W2 — Set Resolution, Aspect Ratio & Frame Rate](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-resolution-aspect-ratio--frame-rate){:target="_blank"}.
 
----
+<figure class="media-card">
+  <img
+    src="imgs/126.png"
+    alt="Diagram comparing the proportions of 16 by 9, 4 by 3, 1.85 to 1, and 2.35 to 1 aspect ratios"
+  >
+  <figcaption>
+    Comparison of common aspect ratios. All project footage must be captured in the camera's full 16:9 frame.
+  </figcaption>
+</figure>
 
-### Manual Mode (Aperture / Shutter / ISO). 
+Aspect ratios describe the proportional relationship between image width and height:
 
-Set your camera to **Manual Mode**, add the **lenses** you will use, and **setup exposure**.      
+- **16:9:** 16 units wide for every 9 units tall
+- **4:3:** 4 units wide for every 3 units tall
+- **1.85:1:** 1.85 units wide for every 1 unit tall
+- **2.35:1:** 2.35 units wide for every 1 unit tall
 
-#### Exposure Setup
+If the final film uses a different aspect ratio, the 16:9 recording will be cropped during editing. Compose each shot with the intended crop in mind so important actions and visual information remain visible.
 
-Once white balance is set, adjust:
+## Set Custom White Balance
 
-- **Aperture**
-- **Shutter Speed**
-- **ISO**
+Set a **Custom White Balance** after the lighting arrangement is complete. A clean white sheet of paper may be used as the neutral reference.
 
-Your settings should respond to your **lighting conditions**.  
-Use the **histogram** to monitor exposure rather than relying only on what you see on the screen.
+Repeat the process when:
 
-For guidance, review:  
-[W4 — Tech Walkthrough: Exposure Compensation & Exposure Control & Monitoring (Advanced)](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-compensation){:target="_blank"}  
+- The location changes
+- The dominant light source changes
+- The time of day changes significantly
+- A practical light is added or removed
 
----
+Review [W2 — Set Custom White Balance](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-custom-white-balance){:target="_blank"}.
 
-#### Shutter Speed
+## Use Manual exposure
 
-First, use your **Stabilization ON (handheld)** or **OFF (on tripod/monopod)** depending on your setup.   
+Set the camera to **Manual mode (`M`)** and attach the lens planned for the shot before finalizing exposure.
 
-Start with a shutter speed that is approximately **double your frame rate**.
+Adjust:
 
-If you are recording at **24 fps**, begin with **1/48 or 1/50**.  
-This follows the standard 180-degree shutter rule and produces natural-looking motion blur.  
+- **Aperture:** Controls incoming light and depth of field
+- **Shutter speed:** Controls motion blur and exposure time
+- **ISO:** Controls image brightness and digital noise
 
-You may increase the shutter speed if:  
+Use the histogram to evaluate exposure rather than relying only on the brightness of the LCD screen.
+
+Review [W4 — Exposure Compensation and Exposure Control and Monitoring](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-compensation){:target="_blank"}.
+
+## Select shutter speed
+
+At 24 fps, begin with a shutter speed of approximately **1/48 or 1/50 second**. This follows the standard 180-degree shutter approach and produces natural-looking motion blur.
+
+Increase shutter speed when:
+
 - The scene includes fast movement
-- You want sharper motion
-- You need to reduce light without changing ISO or aperture
+- Sharper motion is part of the visual approach
+- Less light is needed without changing aperture or ISO
 
-You may decrease the shutter speed slightly if:
-- You want visible motion blur
-- Moving elements in the background (e.g., cars) should appear softer
-- The subject remains relatively still while movement happens around them
+Decrease shutter speed carefully when:
 
-Lower shutter speeds will create motion blur or “drag.”  
-Higher shutter speeds will create sharper movement.
+- Visible motion blur is intentional
+- Moving background elements should appear softer
+- The subject remains relatively still while movement occurs around them
 
-For examples, review:  
-[W2 — Tech Walkthrough: Shutter Speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}  
-[W3 — Tech Walkthrough: Shutter Speed as a Motion & Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#shutter-speed-as-a-motion--exposure-tool){:target="_blank"}    
+Lower shutter speeds create more motion blur or drag. Higher shutter speeds create sharper, more fragmented movement.
 
-<img src="imgs/129.gif" style="width: 60%; height: auto;">   
+Review:
 
-> **Chungking Express (1994)** – Dir. Wong Kar-wai 
-> Cinematographer: Christopher Doyle 
-> Motion blur conveys emotional isolation and the feeling of time moving too fast around the character.   
+- [W2 — Shutter speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}
+- [W3 — Shutter Speed as a Motion and Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#shutter-speed-as-a-motion--exposure-tool){:target="_blank"}
 
----
+<figure class="media-card">
+  <img
+    src="imgs/129.gif"
+    alt="Film example showing strong motion blur around a comparatively clear central figure"
+  >
+  <figcaption>
+    <em>Chungking Express</em> (1994), directed by Wong Kar-wai and photographed by Christopher Doyle. Motion blur communicates emotional isolation and the sensation of time moving rapidly around the character.
+  </figcaption>
+</figure>
 
-#### ISO Considerations
+## Select ISO
 
-The general recommendation is to use the **lowest ISO possible** while maintaining proper exposure.
+Use the **lowest ISO that allows proper exposure with the planned aperture, shutter speed, and lighting**.
 
-**However**, ISO decisions are not always straightforward.
+Higher ISO:
 
-- Higher ISO increases brightness.
-- Higher ISO also increases **digital grain (noise)**.
-- Grain is not inherently bad — it can be an artistic choice.
-- If you choose a higher ISO for aesthetic reasons, keep it **consistent** across your shots.
+- Increases image brightness
+- Increases digital noise
+- May reduce fine detail and colour accuracy
+- Can be used deliberately when a textured image supports the visual concept
 
-In some cases, visible grain can simulate the look of **35mm, Super 8, 65mm, and other film formats**.  
+When a higher ISO is selected for aesthetic reasons, keep the choice consistent across connected shots.
 
-<img src="imgs/127.jpg" style="width: 80%; height: auto;">   
+<div class="media-grid media-grid--two">
 
-> **Black Swan (2010)** – Dir. Darren Aronofsky  
-> Shot on Super 16mm film.  
-> The visible grain in darker areas creates an organic texture that supports the psychological tone of the film.  
+  <figure class="media-card">
+    <img
+      src="imgs/127.jpg"
+      alt="Film still from Black Swan showing visible grain and texture in dark areas"
+    >
+    <figcaption>
+      <em>Black Swan</em> (2010), directed by Darren Aronofsky. The Super 16 mm format produces visible grain that supports the film's psychological tone.
+    </figcaption>
+  </figure>
 
-<img src="imgs/128.jpg" style="width: 80%; height: auto;">   
+  <figure class="media-card">
+    <img
+      src="imgs/128.jpg"
+      alt="Dark film still from The Batman showing visible texture within heavy shadow areas"
+    >
+    <figcaption>
+      <em>The Batman</em> (2022), directed by Matt Reeves. The digitally captured image retains visible texture in dark areas as part of its atmospheric visual design.
+    </figcaption>
+  </figure>
 
-> **The Batman (2022)** – Dir. Matt Reeves  
-> Shot digitally (ARRI Alexa LF).  
-> Heavy shadow areas contain visible texture and noise, contributing to the film’s dark, atmospheric aesthetic.  
+</div>
 
----
+## Set stabilization for the camera support
 
-### Manual Focus
+Set lens or camera stabilization according to the support method:
 
-Set your camera to **Manual Focus**.
+- **Tripod or monopod:** Stabilization off
+- **Handheld:** Stabilization on, when available
 
-Your subject and focal point must always remain sharp. **Do not rely on autofocus, as it will shift during recording**.
+Confirm this setting whenever the camera moves between a tripod and handheld setup.
+
+## Set Manual Focus
+
+Set the lens to **Manual Focus (`MF`)**. Do not rely on autofocus during recording because it may shift between the subject and background.
 
 Before each take:
-- Confirm that your subject is in focus.
-- Re-check focus if the subject moves or changes distance.  
 
-Always double-check focus — especially in shallow depth-of-field shots.   
+1. Place the subject at the planned position.
+2. Use the camera's zoom-in buttons or focus-assist view.
+3. Adjust focus on the intended focal point.
+4. Return to the complete frame.
+5. Recheck focus after the subject, camera, or focal length changes.
 
-Use your camera’s **zoom-in keys** (focus assist) to verify sharpness before pressing record.  
+<figure class="media-card">
+  <img
+    src="imgs/130.jpg"
+    alt="Close view of a camera's zoom-in controls used to magnify the image and confirm focus"
+  >
+  <figcaption>
+    Use the zoom-in controls to magnify the preview and confirm sharpness before recording.
+  </figcaption>
+</figure>
 
-<img src="imgs/130.jpg" style="width: 40%; height: auto;">     
+## Camera setup checklist
 
----
+<fieldset class="equipment-checklist">
+  <legend>Complete before each setup</legend>
 
-<h2 id="setup-sound" style="color: darkred;">Before Shooting: Sound</h2>
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set 1920 × 1080 at 24 fps.</strong>
+      Confirm that the camera is recording video in the required format.
+    </span>
+  </label>
 
-For a non-dialogue one-minute film, the **primary on-scene sounds** you should record are:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Activate the grid display.</strong>
+      Use it to check alignment, headroom, horizons, and the planned crop.
+    </span>
+  </label>
 
-- Environmental sounds (ambient tone, subtle background activity).  
-  → Use a **shotgun microphone connected directly to your camera**.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Custom White Balance.</strong>
+      Calibrate after the lighting arrangement is complete.
+    </span>
+  </label>
 
-- Sounds created by your main character interacting with the environment (object handling, footsteps, fabric movement, door sounds, etc.).  
-  → Use a **condenser microphone connected to your Zoom recorder**.   
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Manual exposure.</strong>
+      Confirm aperture, shutter speed, and ISO using the histogram.
+    </span>
+  </label>
 
-For guidance, review:  
-[W2 — Tech Walkthrough: Audio Recording Method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#6-audio-recording-method){:target="_blank"}    
-[W5 — Tech Walkthrough: Audio Setup — Microphones & Recorders](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-setup-%E2%80%94-microphones-recorders){:target="_blank"}    
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Match stabilization to the camera support.</strong>
+      Turn it off on a tripod or monopod and on for handheld recording when available.
+    </span>
+  </label>
 
-Do not rely entirely on foley or music added later. Your final film must demonstrate a **complex, multi-layered sound design** using:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set and verify Manual Focus.</strong>
+      Magnify the focal point and recheck whenever distance or framing changes.
+    </span>
+  </label>
+</fieldset>
 
-- On-scene recordings  
-- Sound effects  
-- Foley  
-- Environmental sounds  
-- Music (optional)
+</div>
+</details>
 
-You will develop the full sound design in later weeks.  
-For now, focus on capturing **clean, usable on-scene sound**.  
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
----
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Sound Recording</span>
+    <span class="section-description">
+      Capture clean environmental sound, character actions, and mandatory room tone at every location.
+    </span>
+  </summary>
 
-### Room Tone (Mandatory)
+<div class="section-content" markdown="1">
 
-You must record **20–30 seconds of room tone per location**.  
+## Record usable on-location sound
 
-Room tone is the **natural ambient sound of a space** when no one is speaking or moving. Room tone allows you to:  
+For the non-dialogue one-minute film, capture two primary types of sound during production:
 
-- Smooth edits between cuts  
-- Fill gaps in dialogue-free moments  
-- Maintain sonic continuity  
-- Avoid abrupt audio drop-offs  
+### Environmental sound
 
-In some cases, room tone will function as your “silence.”  
+Record ambience and subtle background activity using a **shotgun microphone connected directly to the camera**.
 
-### How to Record Room Tone
+Examples include:
 
-Record room tone using your **Zoom recorder (built-in microphones)**.
+- Wind or rain
+- Distant traffic
+- Room ambience
+- Appliances or machinery that belong to the location
+- Background activity that establishes the space
 
-1. Place the Zoom recorder in the same position where your main sound was captured.
-2. Ask everyone to remain completely still and silent.
-3. Stop all intentional movement (no footsteps, no fabric movement).
+### Character and object sound
+
+Record detailed actions using a **condenser microphone connected to the Zoom recorder**.
+
+Examples include:
+
+- Footsteps
+- Fabric movement
+- Doors, drawers, or containers
+- Object handling
+- Writing, tapping, dragging, or other physical actions
+
+Review:
+
+- [W2 — Audio recording method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#audio-recording-method){:target="_blank"}
+- [W5 — Audio Setup: Microphones and Recorders](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-setup-%E2%80%94-microphones-recorders){:target="_blank"}
+
+Do not rely entirely on music or Foley added later. The final sound design will combine several layers, which may include:
+
+- On-location recordings
+- Environmental sound
+- Sound effects
+- Foley
+- Music, when appropriate
+
+The complete sound design will be developed in later weeks. During production, prioritize clean and usable source recordings.
+
+## Record room tone at every location
+
+Record **20–30 seconds of room tone for each filming location**.
+
+Room tone is the natural ambient sound of a space when no one is speaking or intentionally moving. It can be used to:
+
+- Smooth edits between cuts
+- Fill gaps between recorded sounds
+- Maintain sonic continuity
+- Prevent abrupt drops to digital silence
+
+In a dialogue-free film, room tone may function as the sound of apparent silence.
+
+## How to record room tone
+
+Use the Zoom recorder's built-in microphones.
+
+1. Place the recorder in the same position used for the main sound recording.
+2. Ask everyone to remain still and silent.
+3. Stop all intentional movement, including footsteps and fabric movement.
 4. Begin recording.
-5. Capture **20–30 seconds** of uninterrupted ambient sound.
-6. Label the file clearly (e.g., `ProjectName_Ambience_Location_T01.wav`).
+5. Capture 20–30 seconds of uninterrupted ambient sound.
+6. Label the file clearly.
 
-❗ **Do not skip this step.** Room tone is essential for professional sound editing and for maintaining continuity between cuts.  
+```text
+ProjectName_Ambience_Location_T01.wav
+```
 
----
+> Do not skip room tone. It is necessary for maintaining continuity during sound editing.
 
-<h2 id="composition" style="color: darkred;">Composition & Camera Control</h2>   
+## Sound recording checklist
 
-This section combines **composition, focus, and stability**: the elements that visually make or break a one-minute film.  
+<fieldset class="equipment-checklist">
+  <legend>Complete at every location</legend>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connect and test each microphone.</strong>
+      Confirm that the camera and Zoom recorder are receiving a clean signal.
+    </span>
+  </label>
 
-### Watch Your Background
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record environmental sound.</strong>
+      Capture enough ambience to establish and maintain the location.
+    </span>
+  </label>
 
-Your background is as important as your subject.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record important character and object actions.</strong>
+      Position the microphone close enough to capture clear detail without entering the frame.
+    </span>
+  </label>
 
-Every frame contains:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Monitor for unwanted noise.</strong>
+      Listen for handling noise, wind, clipping, clothing contact, appliances, and interruptions.
+    </span>
+  </label>
 
-- **Foreground** – The area closest to the camera.
-- **Midground** – Where your main subject usually sits.
-- **Background** – The space behind the subject.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record 20–30 seconds of room tone.</strong>
+      Complete a separate room-tone recording for every location.
+    </span>
+  </label>
 
-All three layers should be intentional.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Label the files clearly.</strong>
+      Include the project, sound type, location, and take number.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Composition and Camera Control</span>
+    <span class="section-description">
+      Control the background, focal point, focus changes, stability, and purpose of every camera movement.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Control the complete frame
+
+The background is as important as the main subject. Evaluate the complete spatial arrangement:
+
+- **Foreground:** The area closest to the camera
+- **Midground:** The area where the primary subject is often positioned
+- **Background:** The space behind the subject
+
+All three layers should contribute intentionally to the shot.
 
 Avoid:
 
-- Distracting objects behind your subject (exit signs, poles, clutter, bright windows).
-- Background elements that appear to “grow” from the subject’s head.
-- Unbalanced empty space unless it is intentional.
-- Cluttered or dirty backgrounds unless they serve the story — and even then, the messiness must be intentional and controlled.   
+- Exit signs, poles, clutter, or bright windows that distract from the action
+- Objects that appear to grow from the subject's head or body
+- Unbalanced empty space unless it is deliberate
+- Cluttered or dirty environments that do not support the story
+- Equipment, bags, cables, lights, or crew members entering the frame
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/YNlBHyZwcXI?si=FWU3s6HRw1uhk1S3&amp;start=82"
-    title="YouTube video player"
-    frameborder="0"
+    title="Video lesson on controlling the background and visual composition"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
----
+## Establish the framing and focal point
 
-### Framing, Focal Point & Focus
+Activate the camera grid and use it to evaluate alignment and balance.
 
-Activate the **camera grid** to help with alignment and balance.
+- Position the subject or focal point intentionally
+- Use rule-of-thirds alignment when appropriate
+- Keep horizons straight
+- Maintain deliberate headroom and looking room
+- Avoid accidental tilting unless the angle is part of the visual plan
+- Anticipate any crop that will be added during editing
 
-- Position your subject or focal point intentionally.
-- Use rule-of-thirds alignment when appropriate.
-- Keep horizons straight.
-- Avoid accidental tilting unless stylistically motivated.
+Review [W7 — Select shot types](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-shot-types){:target="_blank"} and [W7 — Select camera angles](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#select-camera-angles){:target="_blank"}.
 
-On a large screen, poor framing becomes immediately obvious.  
+A **focal point** is the area that draws the viewer's attention first. It is usually the main subject or the most important visual detail. The intended focal point must remain sharp.
 
-For guidance, review:     
-[W7 — Pre-Production Framework: Shot Types & Camera Angles](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#shot-types){:target="_blank"}      
+## Maintain focus during movement
 
-A **focal point** is the area of the frame that draws the viewer’s attention first.  
-It is usually your main subject or the most important visual element.
+When the subject changes distance from the camera:
 
-Your focal point must be sharp.
+1. Identify the closest and farthest positions.
+2. Practise the action before recording.
+3. Mark the focus-ring positions when useful.
+4. Adjust the focus ring gradually during the movement.
+5. Review the take at a magnified size.
 
-- Always double-check focus before recording.
-- Use camera zoom-in preview to confirm sharpness.
-- If unsure, re-focus and check again.
+When consistent focus cannot be maintained, simplify the action, increase the depth of field, or redesign the camera position.
 
----  
-
-### Focus in Motion
-
-When the subject moves:
-
-- Anticipate subject distance changes.
-- Adjust the focus ring gradually as they move.
-- Practice the movement before recording.
-- Rehearse once without recording if needed.
-
-If you cannot maintain focus during movement, simplify the shot.  
-
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/r1adyTSCLEs?si=aNb8hQPwhlZ32rAw"
-    title="YouTube video player"
-    frameborder="0"
+    title="Demonstration of manually adjusting focus while a subject moves"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div>    
-    
-     
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+</div>
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/PQBGonFO9ZY?si=okjAPz6fV_N3R11K"
-    title="YouTube video player"
-    frameborder="0"
+    title="Demonstration of focus pulling and maintaining a moving focal point"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
----
+## Use camera movement with purpose
 
-### Stabilization & Camera Movement
+Avoid unnecessary movement. Every pan, tilt, tracking movement, push-in, pull-back, or handheld adjustment should support the action or emotional change.
 
-Avoid unnecessary camera movement.  
-Movement must have purpose.   
+Review [W7 — Plan camera movement](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#plan-camera-movement){:target="_blank"}.
 
-For guidance, review:     
-[W7 — Pre-Production Framework: Camera Movements](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W7.html#camera-movements){:target="_blank"}      
+### Use a tripod when control is the priority
 
----
+A tripod is appropriate when:
 
-#### When to Use a Tripod. 
+- The shot is static
+- The scene relies on performance within a stable frame
+- Precise composition is required
+- The camera must repeat the same position across takes
+- A controlled pan or tilt is planned
 
-Use a tripod when:
-- The shot is static.
-- The scene relies on performance.
-- You need precise framing.
-- You want a controlled, cinematic feel.
+Controlled tripod options include:
 
-**Controlled Tripod Movements:**  
-- **Tilt** – Vertical movement (up / down).
-- **Pan** – Horizontal movement (left / right).
-- **Locked-off (Static)** – No movement at all.
-- **Motivated Reframe** – Slight repositioning to follow a small subject shift.
-- **Zoom (Use Sparingly)** – Changing focal length during recording.  
+- **Locked-off or static:** The camera does not move
+- **Pan:** The camera rotates horizontally
+- **Tilt:** The camera rotates vertically
+- **Motivated reframe:** A small adjustment follows a limited subject movement
+- **Zoom:** The focal length changes without moving the camera; use sparingly
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/pAvn034VcCg?si=Ddo6c3ntyD3oeF3L"
-    title="YouTube video player"
-    frameborder="0"
+    title="Demonstration of controlled camera movement using a tripod"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
----
+### Use handheld recording when movement is necessary
 
-### When to Use Handheld 
+Handheld recording may be appropriate when:
 
-Handheld is appropriate when:
-- Following a subject.
-- Creating intimacy.
-- Adding subtle realism.
-- Capturing controlled movement.  
+- Following a subject
+- Creating visual intimacy
+- Adding subtle realism or instability
+- Moving through a space that cannot accommodate a tripod
 
-**Controlled Handheld Movements:**
-- **Tracking** – Following the subject forward or backward.
-- **Side Tracking** – Moving parallel to the subject.
-- **Push-in / Pull-back** – Slow movement toward or away from subject.
+Controlled handheld options include:
 
-If shooting handheld:
-- Turn stabilization ON.
-- Keep elbows close to your body.
-- Control your breathing.
-- Move slowly and deliberately.
-- Avoid quick jerks or unnecessary pans.  
+- **Tracking:** Following the subject forward or backward
+- **Side tracking:** Moving parallel to the subject
+- **Push-in:** Moving slowly toward the subject
+- **Pull-back:** Moving slowly away from the subject
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+When recording handheld:
+
+- Turn stabilization on when available
+- Keep elbows close to the body
+- Control breathing
+- Use a stable stance
+- Move slowly and deliberately
+- Avoid quick jerks and unnecessary pans
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/r2FERO4j9WI?si=1HtjF0pNDnLcDMIH"
-    title="YouTube video player"
-    frameborder="0"
+    title="Demonstration of controlled handheld camera movement"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
----
+## Composition and camera-control checklist
 
-<h2 id="shooting" style="color: darkred;">Shooting Strategy</h2>  
+<fieldset class="equipment-checklist">
+  <legend>Confirm before recording each shot</legend>
 
-This section focuses on **efficiency, discipline, and control** during production.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Inspect the complete frame.</strong>
+      Check the foreground, midground, background, frame edges, and reflections.
+    </span>
+  </label>
 
-- Keep setups simple.  
-- Avoid overcomplicated settings.
-- Prioritize clarity over ambition.
-- Focus on executing fewer shots well rather than many shots poorly. 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the intended focal point.</strong>
+      Make sure the most important subject or detail is visually clear and sharp.
+    </span>
+  </label>
 
----  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check alignment and visual balance.</strong>
+      Use the grid to evaluate horizons, headroom, looking room, and the planned crop.
+    </span>
+  </label>
 
-### Shoot 2–3 Perspectives Per Scene
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Rehearse focus changes.</strong>
+      Practise moving-subject shots before recording the take.
+    </span>
+  </label>
 
-Record each scene from **2 angles or framings** whenever possible.  
-This gives you flexibility during editing and strengthens rhythm and pacing.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Select the appropriate camera support.</strong>
+      Use a tripod for precision and handheld recording only when movement supports the shot.
+    </span>
+  </label>
 
-Avoid relying on a single master shot.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Remove unnecessary camera movement.</strong>
+      Simplify movements that cannot be completed smoothly and repeatedly.
+    </span>
+  </label>
+</fieldset>
 
----
+</div>
+</details>
 
-### Let the Camera Roll
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
 
-- Start recording **3–5 seconds before** the action begins.
-- Continue recording **3–5 seconds after** the action ends.
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Shooting Strategy and Continuity</span>
+    <span class="section-description">
+      Record complete and editable coverage while maintaining visual consistency between takes.
+    </span>
+  </summary>
 
-This buffer allows clean cuts and smoother transitions during editing.
+<div class="section-content" markdown="1">
 
----
+## Keep the production achievable
 
-### Record Full Actions
+Production depends on efficiency, discipline, and control.
 
-Do not stop recording too early.
+- Keep setups simple
+- Avoid unnecessary technical complications
+- Prioritize clarity over ambition
+- Complete fewer shots carefully rather than recording many unusable shots
+- Finish the required coverage before attempting optional material
 
-If a character:
-- Sits → record until fully seated.
-- Walks → record until fully stopped.
-- Opens something → record until fully closed (if relevant).
+## Record multiple perspectives
 
-**Incomplete actions create editing problems.**
+Record each scene from **two or three distinct angles or framings** whenever possible. Additional coverage provides options for editing, rhythm, and pacing.
 
----
+The perspectives should serve different functions rather than repeating the same composition. For example:
 
-### Do Not Rely on Chronological Shooting
+- A wide shot establishes the environment and complete action
+- A medium shot emphasizes performance or body movement
+- A close-up isolates an important gesture, object, or reaction
 
-You do not need to shoot in story order.
+Avoid relying entirely on one master shot.
 
-If your project alternates between two spaces or time periods:
-- Complete all shots in one space first.
-- Then move to the next.
+## Leave editing handles
 
-**Avoid switching back and forth between locations unnecessarily.**   
-**Complete each scene before moving on.**  
+For every take:
 
----
+- Begin recording **3–5 seconds before** the planned action starts
+- Continue recording **3–5 seconds after** the action ends
 
-## Continuity
+These handles provide space for clean cuts, transitions, and sound editing.
 
-Continuity is **visual consistency across cuts**.
+## Record complete actions
 
-Always check:
+Do not stop recording before the physical action is complete.
 
-- **Object placement** (position on table, doors open/closed, etc.)
-- **Body position** (hand placement, posture, direction of movement)
-- **Eyelines** (where the character is looking)
-- **Lighting consistency** (match intensity and direction)
-- **Wardrobe details** (hair position, sleeves rolled up/down)
+Examples:
 
-Small inconsistencies become very obvious on a large screen.  
+- When a character sits, continue until the character is fully seated and still
+- When a character walks, continue until the character reaches the final position and stops
+- When a character opens an object, continue until the action reaches its planned conclusion
+- When a character enters or exits the frame, leave additional time before cutting
 
-<div style="position: relative; width: 80%; padding-bottom: 56.25%;">
-  <iframe 
+Incomplete actions create unnecessary editing problems.
+
+## Organize the production by location and setup
+
+The film does not need to be recorded in story order.
+
+When the project uses several spaces or time periods:
+
+1. Complete all planned shots in one location.
+2. Complete shots that use the same lighting and camera setup together.
+3. Confirm the required coverage before changing the setup.
+4. Move to the next location only after the current scene is complete.
+
+Avoid repeatedly rebuilding the same setup or moving unnecessarily between locations.
+
+## Maintain continuity
+
+**Continuity** is visual consistency across shots and takes.
+
+Check:
+
+- **Object placement:** Position of objects, furniture, doors, and props
+- **Body position:** Hand placement, posture, seated position, and direction of movement
+- **Eyelines:** Where the character is looking
+- **Screen direction:** Whether movement continues consistently from one shot to another
+- **Lighting:** Direction, intensity, colour temperature, and shadow placement
+- **Wardrobe and appearance:** Hair, sleeves, accessories, and other visible details
+- **Environment:** Background activity, practical lights, windows, and reflective surfaces
+
+Use reference photographs when a setup must be recreated.
+
+<div class="video-wrapper">
+  <iframe
     src="https://www.youtube.com/embed/Ff4_LqI9Oa4?si=4WHP8mmWlDD9JfOK"
-    title="YouTube video player"
-    frameborder="0"
+    title="Video lesson demonstrating continuity errors between film shots"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    allowfullscreen>
   </iframe>
-</div> 
+</div>
 
+## Production checklist
 
-________________________________________________________________________
+<fieldset class="equipment-checklist">
+  <legend>Complete for every scene</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the required shots.</strong>
+      Compare the setup with the annotated storyboard before recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record two or three useful perspectives.</strong>
+      Capture complementary wide, medium, and detail coverage when appropriate.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Leave 3–5-second handles.</strong>
+      Begin early and continue recording after the complete action.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record the full action.</strong>
+      Do not stop the camera during the middle of a movement.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check continuity before every take.</strong>
+      Compare body position, objects, eyelines, wardrobe, lighting, and screen direction.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Complete the scene before changing locations.</strong>
+      Confirm that all required visual and sound material has been captured.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+---
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-AI tools (ChatGPT) was used for **editing and clarity only**. AI is not used to generate original course content.
-
