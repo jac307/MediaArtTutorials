@@ -1,425 +1,773 @@
 [MEDIAART 2B06](../README.md)
 
--------------------------------------------------------------------------------
+# W10 — Sound Design Production Framework
 
-<h1 style="color: darkred;">W10 — Sound Design Production Framework</h1>
-<h2 style="color: darkred;">Gathering and Preparing Sound Materials</h2>
+## Gathering and Preparing Sound Materials
 
-This document supports the [W10 - Rough Cut Screening & Sound Design Production](../WeekIns/WI-W10.md){:target="_blank"} by outlining principles and best practices for **gathering and preparing sound materials**.
+This technical walkthrough supports the [W10 — Rough Cut Screening and Sound Design Production](../WeekIns/WI-W10.md){:target="_blank"} activities.
 
-This framework focuses on **how sound elements function together within a scene**, rather than how to technically edit or mix them.
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-During this stage you are **NOT designing the final sound mix yet**. Instead, you are preparing the **audio building blocks** and understanding how different sound layers interact to support **space, action, and narrative**.  
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Understand the Sound Layers</span>
+    <span class="section-description">
+      Identify how ambience, room tone, Foley, sound effects, and music perform different functions within a scene.
+    </span>
+  </summary>
 
-Think of this stage as building a **sound library for your film**, not the final soundtrack.  
+<div class="section-content" markdown="1">
 
----
+## Build sound through layers
 
-## Sections
+Most films combine several sound layers. Each layer contributes different information to the scene rather than repeating the same function.
 
-<ul>
-  <li><a href="#sound-layers">Understanding Sound Layers</a></li>
-  <li><a href="#ambience">Ambient Sound</a></li>
-  <li><a href="#foley">Foley Recording</a></li>
-  <li><a href="#sfx">Sound Effects (SFX)</a></li>
-  <li><a href="#music">Music as a Supporting Layer</a></li>
-  <li><a href="#analysis">Sound Design Analysis — Full Sequence (*2 AM COFFEE* by Forrain)</a></li>
-</ul>
+<div class="media-grid media-grid--two">
 
----
+  <figure class="media-card">
+    <audio controls preload="metadata">
+      <source src="imgs/ambience.mp3" type="audio/mpeg">
+      Your browser does not support embedded audio.
+    </audio>
+    <figcaption>
+      <strong>Ambience — Environment:</strong> Establishes the location and its broader acoustic atmosphere.
+    </figcaption>
+  </figure>
 
-<h2 id="sound-layers" style="color: darkred;">Understanding Sound Layers</h2>
+  <figure class="media-card">
+    <audio controls preload="metadata">
+      <source src="imgs/room.mp3" type="audio/mpeg">
+      Your browser does not support embedded audio.
+    </audio>
+    <figcaption>
+      <strong>Room Tone — Continuity:</strong> Captures the quiet background sound of a specific recording space and helps smooth edits.
+    </figcaption>
+  </figure>
 
-Most films use **multiple sound layers working together**. Editors build the soundtrack by combining **different types of audio that support the visual sequence**.
+  <figure class="media-card">
+    <audio controls preload="metadata">
+      <source src="imgs/foley.mp3" type="audio/mpeg">
+      Your browser does not support embedded audio.
+    </audio>
+    <figcaption>
+      <strong>Foley — Physical Action:</strong> Custom-recorded sound synchronized with visible actions, including footsteps, fabric, and object handling.
+    </figcaption>
+  </figure>
 
-A simple way to understand sound design is to think of it as **stacked layers**, where each layer contributes a different function to the scene.
+  <figure class="media-card">
+    <audio controls preload="metadata">
+      <source src="imgs/sfx.mp3" type="audio/mpeg">
+      Your browser does not support embedded audio.
+    </audio>
+    <figcaption>
+      <strong>Sound Effects — Accents:</strong> Recorded, sourced, or designed sounds that reinforce specific moments or actions.
+    </figcaption>
+  </figure>
 
-- **Ambience — Foundation**: establishes the environment and spatial atmosphere of the scene.  
-  *(includes room tone)*  
-<div style="display: flex; gap: 10px; align-items: center;">
-<audio controls style="width: 220px;">
-  <source src="imgs/ambience.mp3" type="audio/mpeg">
-</audio>
-<audio controls style="width: 220px;">
-  <source src="imgs/room.mp3" type="audio/mpeg">
-</audio>
+  <figure class="media-card">
+    <audio controls preload="metadata">
+      <source src="imgs/music.mp3" type="audio/mpeg">
+      Your browser does not support embedded audio.
+    </audio>
+    <figcaption>
+      <strong>Music — Emotional Support:</strong> Shapes tone and progression when used as an additional layer rather than the complete soundtrack.
+    </figcaption>
+  </figure>
+
 </div>
 
-- **Foley — Action**: reinforces physical actions performed on screen, such as footsteps or object movement.  
-  *(Custom-recorded and closely matched to visible actions.)*  
-<audio controls>
-  <source src="imgs/foley.mp3" type="audio/mpeg">
-</audio>
+A strong sound design usually combines:
 
-- **Sound Effects (SFX) — Accents**: emphasize specific moments or enhance certain actions.  
-  *(Pre-recorded or designed sounds used to support or enhance the scene.)*  
-<audio controls>
-  <source src="imgs/sfx.mp3" type="audio/mpeg">
-</audio>
+- Room tone and ambience to establish space
+- Foley to reinforce visible physical actions
+- Sound effects to emphasize selected moments
+- Music only when it contributes a necessary emotional layer
 
-- **Music — Emotion**: supports the emotional tone of the sequence.  
-  *(⚠️ Music should **NOT be the only sound layer**.)*  
-<audio controls>
-  <source src="imgs/music.mp3" type="audio/mpeg">
-</audio>
-  
-A strong sound design usually combines **room tone, ambience, Foley, and sound effects**, with music used only as an additional layer when appropriate.
+> Music should **not be the only sound layer**. A music-only sequence often removes the environmental and material details that make the film feel grounded.
 
-Scenes that rely only on music often feel **flat or unrealistic**, because the viewer cannot hear the environment or physical actions happening in the scene.
+## Plan the required materials
 
-By combining multiple layers, filmmakers create a **richer and more immersive sound experience** for the viewer.
+Before recording or downloading anything, review the rough cut and create a list of the sounds needed for each shot or scene.
 
----
-
-<h2 id="ambience" style="color: darkred;">Ambient Sound</h2>
-
-Ambient sound is the **background sound of a location or environment**.  
-
-It helps create a sense of **space and continuity** between shots.
-
-Examples include:
-
-- room tone
-- wind
-- distant traffic
-- environmental background noise
-- subtle interior sounds
-
-Ambient sound prevents scenes from feeling **unnaturally silent** and helps transitions between shots feel smoother.
-
-When working with ambience:
-
-- choose sounds that **match the environment of the scene**
-- avoid overly dramatic or distracting background sounds
-- keep ambience **subtle and consistent**
-
-Even very quiet ambience can make a scene feel **more realistic and grounded**.  
-
-<video controls style="width: 60%; height: auto;">
-  <source src="imgs/ambience.mp4" type="video/mp4">
-</video> 
-
-> **Example:** At the end of the short film *The Jump* by Adrian León, an **ambient sound layer** reinforces the park setting through subtle environmental sounds such as wind, birds chirping, and leaves crunching underfoot.  
-> The character’s footsteps and landing from the jump are likely **Foley sounds**, added in post-production to match the action, especially since the camera is positioned far from the subject.  
-
----
-
-<h2 id="foley" style="color: darkred;">Foley Recording</h2>
-
-**Foley** refers to **custom-recorded sounds that recreate physical actions seen on screen**.
-
-These sounds help reinforce the connection between **visual movement and sound**.
-
-Examples include:
-
-| Visual Action | Possible Foley Sound |
+| Layer | Planning question |
 |---|---|
-| Walking | footsteps on wood, gravel, or concrete |
-| Picking up objects | object contact or movement |
-| Clothing movement | fabric rustling |
-| Bag interaction | zipper or cloth movement |
+| **Room tone** | Do you have clean room tone for every location? |
+| **Ambience** | What background sound establishes each environment? |
+| **Foley** | Which visible actions need synchronized sound? |
+| **SFX** | Which sounds are difficult to record or require emphasis? |
+| **Music** | Does music add something that the image and other sound layers cannot provide? |
 
-Recording tips:
+## Sound-layer planning checklist
 
-- record **multiple takes** of each sound
-- record in a **quiet environment**
-- keep the microphone **close to the sound source**
-- leave **1–2 seconds of silence before and after each recording**
+<fieldset class="equipment-checklist">
+  <legend>Complete before gathering sound</legend>
 
-Recording multiple takes helps you select the **most natural and convincing sound** later.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Watch the complete rough cut without music.</strong>
+      Identify where environmental and physical sounds are missing or unclear.
+    </span>
+  </label>
 
-<video controls style="width: 60%; height: auto;">
-  <source src="imgs/foley.mp4" type="video/mp4">
-</video> 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>List every location in the film.</strong>
+      Confirm that each space has appropriate room tone or ambience.
+    </span>
+  </label>
 
-> **Example:** In *Anonymous Gift* by Michael Kitka, **Foley sound** reinforces the character’s physical actions, such as interactions with the box. These sounds are closely synchronized with what we see on screen, making the movements feel more present and grounded.  
-> **Ambient sound** is also present and gradually intensifies to build tension, providing a subtle background layer that establishes the environment and supports continuity between shots.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>List the important visible actions.</strong>
+      Mark footsteps, doors, clothing, object handling, impacts, and other actions that may require Foley.
+    </span>
+  </label>
 
----
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify possible sound effects.</strong>
+      Separate sounds you can record from those that may need to come from a sound library.
+    </span>
+  </label>
 
-<h2 id="sfx" style="color: darkred;">Sound Effects (SFX)</h2>
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Decide whether music is necessary.</strong>
+      Music should support the film's emotional progression without replacing visual storytelling or environmental sound.
+    </span>
+  </label>
+</fieldset>
 
-Some sounds are difficult or impossible to record directly. In these cases, editors often use **Sound Effects (SFX)** from sound libraries.
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Gather Ambience and Room Tone</span>
+    <span class="section-description">
+      Establish each location through consistent background sound and preserve continuity between shots.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## What is ambient sound?
+
+**Ambient sound** is the continuous background sound of a location or environment. It establishes space and prevents the film from feeling unnaturally silent.
 
 Examples include:
 
-- mechanical sounds
-- environmental textures
-- subtle movement sounds
-- enhanced object impacts
+- Wind and distant traffic
+- Birds, insects, or water
+- Building ventilation or electrical hum
+- Distant voices or public activity
+- Interior appliances or subtle machinery
 
-When selecting SFX:
+**Room tone** is the quieter baseline sound recorded in a specific location when no intentional action is occurring. It helps fill gaps, smooth cuts, and maintain continuity.
 
-- choose **high-quality WAV recordings**
-- avoid sounds that feel exaggerated or artificial
-- make sure the sound **fits the visual action**
+## Select or record matching ambience
 
-⚠️ Only **free, non-copyrighted sounds** may be used. Use <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound.org</a>.  
+Ambient sound should match:
 
-You must **record the source information** (website, sound title, creator, and license) so it can be credited later in your final project.
+- The location shown on screen
+- Interior or exterior conditions
+- Time of day
+- Weather and visible activity
+- The apparent distance between the camera and sound source
+- The acoustic perspective of the shot
 
-<table>
-  <tr>
-    <th style="text-align: left;">Basic credit format</th>
-    <th style="text-align: left;">Example</th>
-  </tr>
-  <tr>
-    <td>
+Keep the ambience subtle enough that it supports the scene without distracting from important actions.
 
-*"Sound Title" by Username — Freesound.org*  
-*License: Creative Commons (CC BY / CC0 / etc.)*  
-*Link: URL*
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/ambience.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
 
-  </td>
-  <td>
+> **Example:** At the end of *The Jump* by Adrian León, an ambient layer establishes the park through wind, birds, and leaves underfoot. The footsteps and landing are likely Foley because they remain clear even though the camera is positioned far from the subject.
 
-"Footsteps on gravel" by user123 — Freesound.org  
-License: CC BY 4.0  
-https://freesound.org/
+## Prepare ambience files
 
-  </td>
-  </tr>
-</table>  
+When recording new ambience or room tone:
 
-<video controls style="width: 60%; height: auto;">
-  <source src="imgs/sfx.mp4" type="video/mp4">
-</video> 
+1. Use the same location and general microphone position as the production recording when possible.
+2. Ask everyone to remain still and silent.
+3. Record at least **20–30 seconds** without intentional movement.
+4. Listen for handling noise, clipped peaks, interruptions, and sudden changes.
+5. Record an additional take when the first recording contains a disturbance.
+6. Name the file clearly.
 
-> **Example:** In *PAREIDOLIA* by Carlos Andrés Reyes, there is a **mix of on-screen recorded sound, Foley, and sound effects (SFX)**. In this excerpt, the alarm is an SFX, while the sound of the hand pumping or forcefully tapping the clock is likely Foley or on-set recording.  
-> The sound of the sleeves moving is most likely SFX, since the fabric appears soft and the sound is exaggerated beyond what would naturally be recorded on set.  
-> The sound of water rushing is likely Foley or on-set recording, as it closely matches the physical interaction and has a natural texture.
+Example filename:
 
----
+```text
+ProjectName_Ambience_ExteriorPark_T01.wav
+```
 
-<h2 id="music" style="color: darkred;">Music as a Supporting Layer</h2>
+## Ambience checklist
 
-Music can be used to reinforce the **emotional tone** of a scene. However, it should **not drive the narrative** or replace visual storytelling.
+<fieldset class="equipment-checklist">
+  <legend>Prepare sound for every location</legend>
 
-Important guidelines:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm room tone for each location.</strong>
+      Use production recordings or capture new material when the available recording is incomplete or noisy.
+    </span>
+  </label>
 
-- **No lyrics are allowed**
-  > (Examples shown may include lyrics for analysis purposes only.)
-- music should remain **instrumental**
-- music should **support the scene without dominating it**. 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Match ambience to the visible environment.</strong>
+      Check location, time of day, weather, activity, and acoustic perspective.
+    </span>
+  </label>
 
-Music should only **enhance the atmosphere**, not explain the story.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record uninterrupted material.</strong>
+      Capture at least 20–30 seconds and avoid handling noise or intentional movement.
+    </span>
+  </label>
 
-⚠️ Only **your own music** or **free, non-copyrighted music** may be used. Use <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer">Freesound.org</a>.  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Keep the background sound consistent.</strong>
+      Avoid ambience with sudden events that cannot continue naturally across several shots.
+    </span>
+  </label>
 
-You must **record the source information** (website, sound title, creator, and license) so it can be credited later in your final project.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Label every recording.</strong>
+      Include the project, sound type, location, and take number in the filename.
+    </span>
+  </label>
+</fieldset>
 
-<table>
-  <tr>
-    <th style="text-align: left;">Basic credit format</th>
-    <th style="text-align: left;">Example</th>
-  </tr>
-  <tr>
-    <td>
+</div>
+</details>
 
-*"Sound Title" by Username — Freesound.org*  
-*License: Creative Commons (CC BY / CC0 / etc.)*  
-*Link: URL*
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
-  </td>
-  <td>
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Record Foley</span>
+    <span class="section-description">
+      Recreate important physical actions and record several synchronized alternatives for the edit.
+    </span>
+  </summary>
 
-"Piano Melody" by user123 — Freesound.org  
-License: CC BY 4.0  
-https://freesound.org/
+<div class="section-content" markdown="1">
 
-  </td>
-  </tr>
-</table>   
+## What is Foley?
 
-<video controls style="width: 60%; height: auto;">
-  <source src="imgs/music.mp4" type="video/mp4">
-</video> 
+**Foley** is custom-recorded sound that recreates or reinforces a physical action visible on screen. The sound is recorded separately and later synchronized with the image.
 
-> **Example:** In *2 AM COFFEE* by Forrain, the excerpt begins with a subtle ambient layer (room tone) from the outdoor environment, including wind. This is followed by the sound of the doorbell and the door opening, which function as Foley or SFX depending on how they were produced.  
-> As the sequence progresses, music gradually enters and increases in volume, supporting the emotional build-up of the scene. The music reaches its peak at the punchline, when the character realizes the bike is missing, reinforcing the shift in tone.  
+| Visual action | Possible Foley recording |
+|---|---|
+| Walking | Footsteps on wood, gravel, tile, carpet, or concrete |
+| Picking up an object | Contact, scrape, lift, or surface movement |
+| Clothing movement | Fabric rustle, sleeve movement, or jacket handling |
+| Bag interaction | Zipper, clasp, strap, paper, or fabric movement |
+| Door interaction | Handle, latch, hinge, opening, closing, or impact |
+| Sitting or standing | Chair movement, clothing, body contact, or floor pressure |
 
----
+## Record to the image
 
-<h2 id="analysis" style="color: darkred;">Sound Design Analysis — Full Sequence (*2 AM COFFEE* by Forrain)</h2>
+Use the rough cut as a timing reference.
 
-### Sound Analysis — Part 1 
+1. Watch the action several times before recording.
+2. Identify the exact beginning, rhythm, intensity, and ending of the movement.
+3. Position the microphone close enough to capture detail without creating distortion.
+4. Perform the sound while watching the image.
+5. Record several variations in timing and intensity.
+6. Leave **1–2 seconds of silence** before and after each take.
+7. Listen to the recording before moving to the next sound.
 
-This opening sequence combines:
+A close recording may sound exaggerated when paired with a distant shot. Adjust performance and microphone distance to match the visual perspective.
 
-- **Ambience** to establish environment  
-- **Music** to guide emotional tone  
-- **Foley / SFX** to reinforce actions and transitions  
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/foley.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
 
-These layers are introduced gradually, creating a smooth progression from **environment → presence → action → tension**.  
+> **Example:** In *Anonymous Gift* by Michael Kitka, Foley reinforces interactions with the box and makes the character's movements feel more present. An ambient layer remains underneath and gradually intensifies, establishing the environment while supporting the tension.
 
-<video controls style="width: 70%; height: auto;">
-  <source src="imgs/Analysis-Part1.mp4" type="video/mp4">
-</video> 
+## Foley checklist
 
-The film begins with a black screen, but the viewer is immediately placed in the scene through sound. An **ambient layer** establishes the outdoor environment (street at 2 AM), where we hear wind and a distant car passing by.
+<fieldset class="equipment-checklist">
+  <legend>Record each required action</legend>
 
-**Function:**  
-- Introduces the **setting before the image appears**  
-- Creates a sense of **time and atmosphere**  
-- Avoids silence, making the transition into the film more immersive  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use the rough cut as a timing reference.</strong>
+      Match the beginning, duration, rhythm, and intensity of the visible action.
+    </span>
+  </label>
 
-A subtle **music layer** begins to build in the background, gradually increasing and introducing a light suspense tone.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record in a quiet environment.</strong>
+      Reduce ventilation, conversation, traffic, and other background noise when possible.
+    </span>
+  </label>
 
-**Function:**  
-- Prepares the viewer emotionally  
-- Suggests that something may happen, even before any action is visible  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Control microphone distance.</strong>
+      Capture enough detail while maintaining a perspective that fits the shot.
+    </span>
+  </label>
 
-As the image appears, a **sound effect (low-impact hit / drum-like tone)** aligns precisely with the visual transition.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record multiple takes.</strong>
+      Create alternatives with small differences in timing, force, rhythm, and material.
+    </span>
+  </label>
 
-**Function:**  
-- Accentuates the **cut from black to image**  
-- Creates a clear **audio-visual synchronization moment**  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Leave silence around each take.</strong>
+      Record 1–2 seconds before and after the action to support clean editing.
+    </span>
+  </label>
 
-As the scene continues, the ambient layer remains present while a soft **piano element** enters the music, maintaining a calm nighttime tone.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Name the files clearly.</strong>
+      Use a format such as <code>ProjectName_Foley_FootstepsConcrete_T01.wav</code>.
+    </span>
+  </label>
+</fieldset>
 
-At the same time, **Foley / on-screen sound** of the bike is introduced.
+</div>
+</details>
 
-- The sound of the bike becomes louder as the camera gets closer.
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
 
-**Function:**  
-- Reinforces **spatial proximity** (distance between camera and object)  
-- Grounds the object within the environment  
-- Adds realism to the scene  
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Collect Sound Effects and Document Sources</span>
+    <span class="section-description">
+      Select appropriate library sounds, verify their licences, and record the information required for credits.
+    </span>
+  </summary>
 
-As the character approaches the store and leaves the bike behind, additional **low-impact sounds integrated into the music** (bumps or hits) are introduced.
+<div class="section-content" markdown="1">
 
-**Function:**  
-- Subtly builds **tension**  
-- Marks small narrative beats without interrupting the flow  
-- Connects sound design with the unfolding action  
+## What are sound effects?
 
----
+**Sound effects (SFX)** are recorded, sourced, or designed sounds used to reinforce an event, object, transition, or environment. They are especially useful when a sound is difficult, unsafe, or impossible to record directly.
 
-### Sound Analysis — Part 2  
+Examples include:
+
+- Mechanical sounds
+- Alarms, beeps, and electronic interfaces
+- Environmental textures
+- Enhanced impacts
+- Distant activity
+- Stylized transitions or low-frequency accents
+
+## Select sounds carefully
+
+When choosing an SFX:
+
+- Prefer high-quality **WAV** files when available
+- Match the object, action, material, and environment
+- Consider whether the sound should feel close, distant, interior, or exterior
+- Avoid exaggerated sounds unless exaggeration is intentional
+- Preview the sound against the image before downloading several alternatives
+
+Only use sounds that you have permission to include in the project. [Freesound.org](https://freesound.org/){:target="_blank"} provides free audio under different licences. Check the licence attached to each file rather than assuming every sound has the same conditions.
+
+## Record source and licence information
+
+Save the following information when downloading each sound:
+
+- Website or library
+- Sound title
+- Creator or username
+- Licence
+- Direct link to the sound page
+
+| Basic credit format | Example |
+|---|---|
+| *“Sound Title” by Creator — Website*<br>*Licence: Licence name*<br>*Link: direct sound-page URL* | “Footsteps on gravel” by user123 — Freesound.org<br>Licence: CC BY 4.0<br>Link: direct sound-page URL |
+
+> A homepage link is not enough. Save the direct page for the specific recording so the creator and licence can be verified later.
+
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/sfx.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
+
+> **Example:** In *PAREIDOLIA* by Carlos Andrés Reyes, the alarm functions as an SFX, while the forceful interaction with the clock may be Foley or production sound. The sleeve movement appears deliberately exaggerated, suggesting a sourced or designed effect. The rushing water remains closely connected to the visible action and may be Foley or production sound.
+
+## Sound-effects checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Complete for every sourced sound</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the effect is necessary.</strong>
+      Do not add an SFX when production sound or Foley already communicates the action effectively.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Match the sound to the image.</strong>
+      Check material, scale, location, distance, timing, and intensity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Verify the licence.</strong>
+      Confirm that the licence permits your use and note any attribution requirements.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Save the direct source link.</strong>
+      Record the creator, title, website, licence, and specific sound-page URL immediately.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Download a high-quality version.</strong>
+      Use WAV when available and keep the original downloaded file unchanged.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Organize the project library.</strong>
+      Store sourced effects separately from production sound, Foley, ambience, and music.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Select Music as a Supporting Layer</span>
+    <span class="section-description">
+      Choose instrumental music only when it strengthens the emotional progression without replacing the film's other sounds.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Use music with purpose
+
+Music can reinforce the emotional tone of a sequence, but it should not explain the story or replace visual storytelling, ambience, and physical sound.
+
+For this project:
+
+- Music must be **instrumental**
+- Lyrics are not permitted
+- Music should remain an additional layer rather than the complete soundtrack
+- The emotional progression of the music should correspond to the scene
+- The music should not overpower important environmental or action sounds
+
+> Examples shown for analysis may contain lyrics even though lyrics are not permitted in the student project.
+
+Use only your own music or music you have permission to include. Free music may still be protected by copyright and distributed under a licence. Check the terms and record the source information.
+
+You may search [Freesound.org](https://freesound.org/){:target="_blank"} and must document the title, creator, licence, and direct link using the credit format from Section 4.
+
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/music.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
+
+> **Example:** In *2 AM COFFEE* by Forrain, the sequence begins with outdoor ambience, followed by the doorbell and door movement. Music gradually enters and increases in intensity, reaching its peak when the character discovers that the bike is missing. The music reinforces the tonal shift while ambience and action sounds keep the scene grounded.
+
+## Music-selection checklist
+
+<fieldset class="equipment-checklist">
+  <legend>Evaluate before adding music</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the sequence without music.</strong>
+      Confirm that the visual action and environmental sound already communicate the basic story.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Use instrumental music only.</strong>
+      Do not include songs or recordings containing lyrics.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the music's function.</strong>
+      State what emotional shift, rhythm, or transition the music supports.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Avoid continuous music by default.</strong>
+      Consider where the music should enter, develop, pause, or end.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Protect the other sound layers.</strong>
+      The music should not conceal ambience, Foley, sound effects, or important production sound.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Verify and document usage rights.</strong>
+      Save the title, creator, source, licence, and direct link before importing the music.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Analyze a Full Sound-Design Sequence</span>
+    <span class="section-description">
+      Examine how ambience, Foley, sound effects, and music develop across <em>2 AM COFFEE</em> by Forrain.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Sound Design Analysis: *2 AM COFFEE* by Forrain
+
+The following three excerpts demonstrate how different sound layers can enter, change, and disappear as the film moves through locations and narrative beats.
+
+### Part 1: Environment, presence, action, and tension
+
+This opening combines:
+
+- Ambience to establish the exterior environment
+- Music to introduce emotional tone
+- Foley and SFX to reinforce actions and transitions
+
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/Analysis-Part1.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
+
+| Sound decision | Function |
+|---|---|
+| Outdoor ambience begins over the black screen | Establishes the street at 2 a.m. before the image appears and prevents an empty transition into the scene |
+| Subtle music gradually enters | Prepares the viewer emotionally and introduces light suspense |
+| A low-impact sound aligns with the appearance of the image | Accentuates the transition from black and creates a precise audio-visual synchronization point |
+| Bike sound becomes louder as the camera gets closer | Reinforces spatial proximity and grounds the object within the environment |
+| Additional low-impact musical accents appear near the store | Mark small narrative beats and gradually increase tension |
+
+The layers develop through the progression:
+
+```text
+Environment → Presence → Action → Tension
+```
+
+### Part 2: Space, interaction, transaction, and transition
 
 This middle sequence combines:
 
-- **Ambience** to establish interior vs exterior space  
-- **Diegetic Music** to support atmosphere within the scene  
-- **Foley / SFX** to reinforce actions and interactions  
+- Changing ambience to distinguish interior and exterior space
+- Diegetic music within the mart
+- Foley and SFX synchronized with objects and transactions
 
-These layers shift dynamically, creating a progression from **space → interaction → transaction → transition**.  
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/Analysis-Part2.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
 
-<video controls style="width: 70%; height: auto;">
-  <source src="imgs/Analysis-Part2.mp4" type="video/mp4">
-</video> 
+| Sound decision | Function |
+|---|---|
+| Outdoor ambience changes to interior room tone | Signals the change of location and establishes the mart's acoustic space |
+| Doorbell, opening, and closing sounds align with the entrance | Reinforce cause and effect and anchor the action within the physical space |
+| Distant opera appears to come from a speaker | Functions as diegetic music and supports atmosphere without becoming the main focus |
+| Fridge, bottle, and glass sounds follow the character's actions | Add material detail, realism, and synchronized interaction |
+| Ambience shifts when the camera moves outside and inside | Clarifies spatial perspective and camera position |
+| Counter placement, scanning, payment, and handling sounds mark the transaction | Create rhythm and identify key narrative actions |
+| The music stops as the drink reaches the counter | Creates contrast, emphasizes the action, and signals a shift in the sequence |
 
-The scene takes place inside the mart, where the **ambient layer changes** from outdoor sound to an interior **room tone (subtle hiss)**.
+> **Diegetic sound** comes from a source within the world of the scene, such as a radio, speaker, machine, or visible object. **Non-diegetic sound** is added for the audience and does not originate from the scene's world.
 
-**Function:**  
-- Signals a clear **change of location**  
-- Establishes the **interior acoustic space**  
-- Maintains continuity without silence  
+The layers develop through the progression:
 
-The entrance is reinforced by synchronized **Foley / SFX sounds**, including the doorbell ringing as the door opens, followed by the door closing.
+```text
+Space → Interaction → Transaction → Transition
+```
 
-**Function:**  
-- Anchors the viewer in the **physical space**  
-- Reinforces **cause-and-effect between action and sound**  
-
-A **music layer (opera with vocals)** is present, but it is distant and not fully clear, as if coming from a speaker within the space.
-
-**Function:**  
-- Acts as **diegetic sound** (originating from within the scene)  
-- Supports atmosphere without dominating attention  
-
-> **Note:**  
-> Diegetic sound comes from a source within the scene (e.g., radio, speaker), while non-diegetic sound is added for the audience and does not exist in the scene’s world.  
-
-As the character interacts with the fridge, we hear **Foley / SFX sounds**:
-
-- fridge door opening and closing  
-- bottles/glass touching while selecting the drink  
-
-The music subtly increases during this action.
-
-**Function:**  
-- Enhances **material detail and realism**  
-- Connects sound with physical interaction  
-- Builds subtle tension through layering  
-
-When the camera cuts to an exterior view, the **ambient layer shifts back to outdoor sound**.
-
-**Function:**  
-- Reinforces **spatial perspective**  
-- Clarifies inside vs outside positioning  
-
-When the camera returns inside, the **music becomes more present**, though it still feels like it is coming from a speaker within the space.
-
-At the counter, a series of **SFX sounds** structure the interaction:
-
-- glass placed on the counter  
-- scanning “beep”  
-- second “beep” during tap payment  
-- glass handling when picking up the drink  
-
-**Function:**  
-- Marks **key narrative actions**  
-- Provides **clear audio cues for interaction**  
-- Creates rhythm within the scene  
-
-Notably, the moment when the drink is placed on the counter is paired with the **music stopping**.
-
-**Function:**  
-- Creates contrast and emphasis  
-- Draws attention to the action  
-- Signals a subtle shift in the sequence  
-
----
-
-### Sound Analysis — Part 3  
+### Part 3: Return, anticipation, realization, and payoff
 
 This final sequence combines:
 
-- **Ambience** to re-establish the outdoor environment  
-- **Foley / SFX** to mark transitions and actions  
-- **Music** to drive the emotional peak  
+- Ambience to re-establish the exterior setting
+- Foley and SFX to mark actions and transitions
+- Music to shape the emotional peak
 
-These layers create a progression from **return → anticipation → realization → payoff**.  
+<div class="video-wrapper">
+  <video controls preload="metadata">
+    <source src="imgs/Analysis-Part3.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
 
-<video controls style="width: 70%; height: auto;">
-  <source src="imgs/Analysis-Part3.mp4" type="video/mp4">
-</video> 
+| Sound decision | Function |
+|---|---|
+| Street ambience returns | Re-establishes the original location and creates continuity with the opening |
+| Door opening and doorbell sounds align with the character's exit | Mark the transition from interior to exterior and reinforce cause and effect |
+| Jazzy music begins to fade in as the character walks away | Signals a tonal change and prepares the viewer for a narrative shift |
+| Drums and saxophone increase when the missing bike is discovered | Mark the moment of realization and amplify the emotional response |
+| Music remains intense through the ending | Sustains the impact of the reveal and reinforces the final tone |
 
-The scene returns to the outdoor environment, where the **ambient layer** reintroduces the street sound (wind, distant activity).
+The layers develop through the progression:
 
-**Function:**  
-- Re-establishes the **original setting**  
-- Provides continuity with the opening scene  
+```text
+Return → Anticipation → Realization → Payoff
+```
 
-We hear the **door opening**, followed by the **doorbell sound**, synchronized with the character exiting the store.
+## Analysis checklist
 
-**Function:**  
-- Marks the **transition from interior to exterior**  
-- Reinforces cause-and-effect between action and sound  
+<fieldset class="equipment-checklist">
+  <legend>Apply the analysis to your own rough cut</legend>
 
-As the character walks away, a **music layer begins to fade in**, now with a jazzy tone (piano with subtle guitar).
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the baseline ambience in every scene.</strong>
+      Note where the environment changes and how the sound should communicate that transition.
+    </span>
+  </label>
 
-**Function:**  
-- Signals a shift in tone  
-- Prepares the viewer for a narrative change  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Mark the important synchronized actions.</strong>
+      Identify where Foley, production sound, or SFX should reinforce cause and effect.
+    </span>
+  </label>
 
-As the character turns the corner and realizes the bike is missing, the **music increases in volume and complexity**, introducing drums and saxophone.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Consider acoustic perspective.</strong>
+      Decide how distance, interior or exterior space, and camera position should affect each sound.
+    </span>
+  </label>
 
-**Function:**  
-- Marks the **moment of realization (narrative peak)**  
-- Amplifies emotional response  
-- Draws attention to the key event  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Plan entrances and exits.</strong>
+      Sound layers should begin, change, pause, and end in response to the sequence rather than remain static.
+    </span>
+  </label>
 
-The music maintains this intensity through the end of the sequence.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Identify the narrative peak.</strong>
+      Decide which sound decisions will support the film's central emotional or situational shift.
+    </span>
+  </label>
 
-**Function:**  
-- Sustains the **emotional impact of the reveal**  
-- Reinforces the final tone of the scene  
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Build the sound library before mixing.</strong>
+      Gather and organize the required ambience, Foley, SFX, and optional music before beginning detailed audio editing.
+    </span>
+  </label>
+</fieldset>
 
-________________________________________________________________________
+</div>
+</details>
+
+---
 
 Credits: Jessica A. Rodríguez
-
-**AI Disclosure**:  
-AI tools (ChatGPT) were used for **editing and clarity only**. AI is not used to generate original course content.
