@@ -277,8 +277,6 @@ Review the available:
 - [Lighting Equipment](../Lighting.md){:target="_blank"}
 - [Audio Equipment](../Audio.md){:target="_blank"}
 
-Do not reserve equipment that is not connected to a specific production need.
-
 ## Confirm each location
 
 You may use a maximum of **one or two locations**.
@@ -378,193 +376,286 @@ SECTION 4
 
 Complete the lighting setup before adjusting the final camera exposure.
 
-1. Position the lights or identify the natural and practical light sources.
-2. Shape the direction and intensity of the light.
-3. Check the subject and background.
-4. Control unwanted reflections and shadows.
-5. Set Custom White Balance.
-6. Adjust aperture, shutter speed, and ISO.
-7. Check exposure using the histogram.
-8. Recheck the lighting and exposure after every major setup change.
+<fieldset class="equipment-checklist">
+  <legend>Lighting and exposure setup</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Position the lights.</strong>
+      Set up the required lights or identify the available natural and practical light sources.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Shape the light.</strong>
+      Adjust the direction, distance, angle, and intensity of each light source.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the subject and background.</strong>
+      Confirm that the important actions remain visible and that the background supports the composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Control reflections and shadows.</strong>
+      Reposition or modify the lights to reduce distracting reflections, glare, and unwanted shadows.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Custom White Balance.</strong>
+      Establish the white balance after the lighting setup is complete.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Adjust the manual exposure settings.</strong>
+      Set the aperture, shutter speed, and ISO according to the final lighting conditions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the histogram.</strong>
+      Confirm that important highlights and shadows retain usable detail.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Recheck the setup after every major change.</strong>
+      Review the lighting, white balance, exposure, focus, and histogram whenever the camera, subject, or lights are repositioned.
+    </span>
+  </label>
+</fieldset>
 
 Do not rely on post-production to repair poorly positioned lighting or severely incorrect exposure.
 
 ## Configure the camera
 
-Before recording each setup:
+Before recording each setup, complete the following checks.
 
-- Set the camera to Manual (`M`) mode.
-- Confirm 1920 × 1080 resolution.
-- Confirm 24 fps.
-- Begin with a shutter speed of `1/48` or `1/50`.
-- Set Custom White Balance.
-- Set aperture and ISO manually.
-- Turn on the grid overlay.
-- Set the lens to Manual Focus.
-- Turn stabilization on for handheld shots.
-- Turn stabilization off when using a tripod or monopod.
-- Use focus assist to confirm sharpness.
-- Check the histogram and framing.
+<fieldset class="equipment-checklist">
+  <legend>Camera configuration</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the camera to Manual mode.</strong>
+      Select Manual (<code>M</code>) mode so that exposure settings remain consistent during recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the resolution.</strong>
+      Set the recording resolution to <code>1920 × 1080</code> pixels.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm the frame rate.</strong>
+      Set the camera to <code>24 fps</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the shutter speed.</strong>
+      Begin with a shutter speed of <code>1/48</code> or <code>1/50</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set Custom White Balance.</strong>
+      Establish the white balance after the lighting setup is complete.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the aperture and ISO manually.</strong>
+      Adjust both settings according to the final lighting conditions. Do not use Auto ISO.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Turn on the grid overlay.</strong>
+      Use the grid to support framing, alignment, and composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set the lens to Manual Focus.</strong>
+      Select Manual Focus (<code>MF</code>) to prevent the focus from shifting during recording.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Set image stabilization for the camera support.</strong>
+      Turn stabilization on for handheld shots and off when using a tripod or monopod.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm sharp focus.</strong>
+      Use focus assist or image magnification to check the most important subject or action.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the histogram and framing.</strong>
+      Confirm that the exposure retains usable detail and that all important actions remain inside the frame.
+    </span>
+  </label>
+</fieldset>
 
 > Triple-check focus before pressing Record.
 
-## Record multiple perspectives
-
-Record each scene from **two or three perspectives** whenever possible.
-
-This may include:
-
-- A wide or establishing view
-- A medium view
-- A close-up or detail
-- A second angle
-- A motivated camera movement
-- A static alternative to a moving shot
-
-The perspectives must support the storyboard and provide useful editing options. Do not record extra angles without a clear purpose.
-
-## Record complete actions
-
-Start recording approximately **3–5 seconds before** the action begins and continue **3–5 seconds after** it ends.
-
-Record actions fully:
-
-- A person sits until fully seated.
-- A person walks until fully stopped or leaves the frame.
-- An object is opened through the complete action.
-- A gesture begins and ends clearly.
-- A camera movement reaches its final position before recording stops.
-
-Incomplete actions create editing problems.
-
-## Record on-scene production sound
-
-Capture the sounds created by the performer and environment during production.
-
-Depending on the scene, record:
-
-- Footsteps
-- Clothing movement
-- Door sounds
-- Object handling
-- Surface contact
-- Mechanical sounds
-- Environmental ambience
-- Other sounds identified in the storyboard
-
-Monitor with headphones and set the recording level according to the loudest planned sound.
-
-Avoid:
-
-- Clipping
-- Cable noise
-- Handling noise
-- Wind distortion
-- Unnecessary conversation
-- Noise from equipment or crew members
-
-## Record room tone
-
-Record **20–30 seconds of room tone in every location**.
-
-1. Place the recorder in the same position used for the main production sound.
-2. Ask everyone to remain still and silent.
-3. Stop all intentional movement.
-4. Record 20–30 uninterrupted seconds.
-5. Review the recording with headphones.
-6. Record another take if necessary.
-
-Room tone will be used to maintain sonic continuity during editing.
-
-## Maintain continuity
-
-Before each take, check:
-
-- Object placement
-- Body position
-- Hand position
-- Direction of movement
-- Eyelines
-- Wardrobe
-- Hair
-- Lighting
-- Doors and windows
-- Background activity
-
-Photograph complicated setups or record continuity notes when needed.
-
-## Review every take before leaving
-
-After each take, check:
-
-- Focus
-- Exposure
-- Framing
-- Camera stability
-- Performance
-- Beginning and ending handles
-- Production sound
-- Continuity
-- File creation
-
-If focus, framing, image quality, sound, or continuity is incorrect, record the shot again before leaving the location.
+## Record the scene and production sound
 
 <fieldset class="equipment-checklist">
-  <legend>On-set recording check</legend>
+  <legend>Recording checklist</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Complete the lighting setup.</strong>
-      Shape the light before finalizing exposure.
+      <strong>Record two or three purposeful perspectives.</strong>
+      Capture angles that support the storyboard and provide useful editing options. Do not record additional views without a clear purpose.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Confirm all manual camera settings.</strong>
-      Check resolution, frame rate, shutter speed, white balance, aperture, ISO, focus, grid, and stabilization.
+      <strong>Record each action completely.</strong>
+      Begin recording 3–5 seconds before the action and continue 3–5 seconds after it ends.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Record complete actions with handles.</strong>
-      Leave several seconds before and after the action.
+      <strong>Capture the required on-scene sounds.</strong>
+      Record the footsteps, clothing, doors, objects, surfaces, mechanical sounds, and environmental ambience identified in the storyboard.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Record multiple useful perspectives.</strong>
-      Capture two or three purposeful framings or angles when possible.
+      <strong>Monitor the production sound.</strong>
+      Use headphones and set the recording level according to the loudest planned sound.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Monitor and review production sound.</strong>
-      Confirm that important sounds remain audible and below clipping.
+      <strong>Prevent unwanted audio problems.</strong>
+      Listen for clipping, cable noise, handling noise, wind, conversation, and equipment or crew noise.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Record room tone.</strong>
-      Capture 20–30 seconds in every location.
+      <strong>Record room tone in every location.</strong>
+      Keep the recorder in the production position, ask everyone to remain still and silent, and record 20–30 uninterrupted seconds.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Review each take.</strong>
-      Check the footage and sound before changing the setup or leaving the location.
+      <strong>Review the recordings before leaving.</strong>
+      Check the image, production sound, and room tone using headphones, and record another take when necessary.
+    </span>
+  </label>
+</fieldset>
+
+## Maintain continuity and review each take
+
+<fieldset class="equipment-checklist">
+  <legend>Continuity and take-review checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check continuity before recording.</strong>
+      Confirm object placement, body and hand positions, movement direction, eyelines, wardrobe, hair, lighting, doors, windows, and background activity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Document complicated setups.</strong>
+      Take reference photographs or record continuity notes when positions, props, lighting, or actions may be difficult to reproduce.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Review the image quality after each take.</strong>
+      Check focus, exposure, framing, camera stability, and performance.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the complete recording.</strong>
+      Confirm that the take includes usable beginning and ending handles, clear production sound, and consistent action.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Confirm that the file was created.</strong>
+      Verify that the camera and audio recorder saved the take correctly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Record another take when necessary.</strong>
+      Repeat the shot before leaving the location if the focus, framing, image quality, sound, performance, or continuity is incorrect.
     </span>
   </label>
 </fieldset>
