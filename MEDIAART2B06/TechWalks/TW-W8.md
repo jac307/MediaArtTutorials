@@ -124,7 +124,7 @@ Record all footage using:
 - **Capture aspect ratio:** 16:9
 - **Grid display:** On
 
-Review [W2 — Set Resolution, Aspect Ratio & Frame Rate](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-resolution-aspect-ratio--frame-rate){:target="_blank"}.
+Review [W2 — Set Resolution, Aspect Ratio & Frame Rate](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-resolution-aspect-ratio--frame-rate){:target="_blank"}
 
 <figure class="media-card photography-examples--sixteen-nine">
   <img
@@ -156,7 +156,7 @@ Repeat the process when:
 - The time of day changes significantly
 - A practical light is added or removed
 
-Review [W2 — Set Custom White Balance](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-custom-white-balance){:target="_blank"}.
+Review [W2 — Set Custom White Balance](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#set-custom-white-balance){:target="_blank"}
 
 ## Use Manual exposure
 
@@ -170,7 +170,8 @@ Adjust:
 
 Use the histogram to evaluate exposure rather than relying only on the brightness of the LCD screen.
 
-Review [W4 — Advanced Exposure Theory & Monitor Exposure](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-compensation){:target="_blank"}.
+Review [W4 — Advanced Exposure Theory](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-triangle){:target="_blank"}.
+Review [W3 — Histogram](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#histogram){:target="_blank"}
 
 ## Select shutter speed
 
@@ -193,7 +194,6 @@ Lower shutter speeds create more motion blur or drag. Higher shutter speeds crea
 Review:
 
 - [W2 — Shutter speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}
-- [W3 — Shutter Speed as a Motion and Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#1.-Shutter-speed){:target="_blank"}
 
 <figure class="media-card photography-examples--sixteen-nine">
   <img
@@ -263,60 +263,6 @@ Before each take:
 4. Return to the complete frame.
 5. Recheck focus after the subject, camera, or focal length changes.
 
-## Camera setup checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before each setup</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set 1920 × 1080 at 24 fps.</strong>
-      Confirm that the camera is recording video in the required format.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Activate the grid display.</strong>
-      Use it to check alignment, headroom, horizons, and the planned crop.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set Custom White Balance.</strong>
-      Calibrate after the lighting arrangement is complete.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set Manual exposure.</strong>
-      Confirm aperture, shutter speed, and ISO using the histogram.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Match stabilization to the camera support.</strong>
-      Turn it off on a tripod or monopod and on for handheld recording when available.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set and verify Manual Focus.</strong>
-      Magnify the focal point and recheck whenever distance or framing changes.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -367,7 +313,7 @@ Examples include:
 Review:
 
 - [W2 — Audio recording method](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#audio-recording-method){:target="_blank"}
-- [W5 — Audio Setup: Microphones and Recorders](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-setup-%E2%80%94-microphones-recorders){:target="_blank"}
+- [W5 — Configure the audio-recording devices](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W5.html#audio-device-placement){:target="_blank"}
 
 Do not rely entirely on music or Foley added later. The final sound design will combine several layers, which may include:
 
@@ -408,60 +354,6 @@ ProjectName_Ambience_Location_T01.wav
 ```
 
 > Do not skip room tone. It is necessary for maintaining continuity during sound editing.
-
-## Sound recording checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete at every location</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Connect and test each microphone.</strong>
-      Confirm that the camera and Zoom recorder are receiving a clean signal.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record environmental sound.</strong>
-      Capture enough ambience to establish and maintain the location.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record important character and object actions.</strong>
-      Position the microphone close enough to capture clear detail without entering the frame.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Monitor for unwanted noise.</strong>
-      Listen for handling noise, wind, clipping, clothing contact, appliances, and interruptions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record 20–30 seconds of room tone.</strong>
-      Complete a separate room-tone recording for every location.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Label the files clearly.</strong>
-      Include the project, sound type, location, and take number.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -621,60 +513,6 @@ When recording handheld:
   </iframe>
 </div>
 
-## Composition and camera-control checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Confirm before recording each shot</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Inspect the complete frame.</strong>
-      Check the foreground, midground, background, frame edges, and reflections.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the intended focal point.</strong>
-      Make sure the most important subject or detail is visually clear and sharp.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check alignment and visual balance.</strong>
-      Use the grid to evaluate horizons, headroom, looking room, and the planned crop.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Rehearse focus changes.</strong>
-      Practise moving-subject shots before recording the take.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select the appropriate camera support.</strong>
-      Use a tripod for precision and handheld recording only when movement supports the shot.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Remove unnecessary camera movement.</strong>
-      Simplify movements that cannot be completed smoothly and repeatedly.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -775,60 +613,6 @@ Use reference photographs when a setup must be recreated.
     allowfullscreen>
   </iframe>
 </div>
-
-## Production checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete for every scene</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm the required shots.</strong>
-      Compare the setup with the annotated storyboard before recording.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record two or three useful perspectives.</strong>
-      Capture complementary wide, medium, and detail coverage when appropriate.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Leave 3–5-second handles.</strong>
-      Begin early and continue recording after the complete action.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record the full action.</strong>
-      Do not stop the camera during the middle of a movement.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check continuity before every take.</strong>
-      Compare body position, objects, eyelines, wardrobe, lighting, and screen direction.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Complete the scene before changing locations.</strong>
-      Confirm that all required visual and sound material has been captured.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
