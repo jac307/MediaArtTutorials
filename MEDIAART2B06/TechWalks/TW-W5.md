@@ -150,27 +150,15 @@ SECTION 2
 
 Review the [Audio Equipment Reference](../Audio.md){:target="_blank"} before assembling the audio system.
 
-All audio devices must be:
-
-- Powered on
-- Correctly connected
-- Set to the required recording format
-- Monitored using headphones
-- Tested before the final performance
-
-The three devices serve different purposes and should capture complementary sound perspectives.
-
 ## Audio-device placement
 
-The three recording perspectives should complement one another:
+The three devices serve different purposes and should capture complementary sound perspectives.
 
 | Device | Main purpose | Recommended position |
 |---|---|---|
 | Sennheiser ME 80 + ZOOM H4n | Subtle and detailed sounds | Close to one specific Foley area |
 | RØDE VideoMic NTG + Camera B | Directional sound synchronized with video | In front of or opposite the detail microphone |
 | ZOOM H4n built-in microphones | Overall ambient soundscape | Above and centred (or on the side) over the Foley station |
-
-> Avoid placing all three microphones in the same position. Each device should contribute a different and useful sound perspective.
 
 ## Audio Device 1 — Condenser Microphone
 
@@ -180,20 +168,11 @@ The three recording perspectives should complement one another:
 
 Use the **Sennheiser ME 80 condenser shotgun microphone** to capture subtle, low-volume, and detailed Foley sounds.
 
-Examples include:
-
-- Fabric movement
-- Paper textures
-- Quiet rubbing
-- Small object movement
-- Delicate scraping
-- Subtle mechanical sounds
-
 ### Setup
 
 1. Mount the **Sennheiser ME 80** on a microphone stand.
 2. Connect it to a **ZOOM H4n** using an **XLR-to-XLR cable**.
-3. Confirm whether the microphone requires phantom power.
+3. Turn on phantom power on the ZOOM recorder.
 4. Direct the microphone toward the object producing the subtle sound.
 5. Position it close to the object without allowing the microphone to touch it.
 6. Keep it away from louder Foley objects whenever possible.
@@ -224,7 +203,7 @@ This recording will also provide an important synchronized reference during edit
 8. Monitor the camera audio using headphones.
 9. Confirm that the camera is receiving the external microphone signal.
 
-> This microphone captures directional sound with an immediate visual reference. It will support synchronization and help identify individual Foley actions during editing.
+> This microphone captures **directional sound** with an immediate visual reference. It will support synchronization and help identify individual Foley actions during editing.
 
 ## Audio Device 3 — Ambient recorder
 
@@ -290,27 +269,33 @@ When setting the ZOOM H4n input levels:
 
 > Set the levels according to the loudest moment of the performance. Quiet sounds may be amplified during editing, but clipped audio cannot be repaired.
 
-## Test each device separately
+## ZOOM H4n tutorial
 
-Before testing the complete performance:
+### Set up the ZOOM H4n for film recording
 
-1. Test the Sennheiser ME 80 with the subtle Foley sounds.
-2. Test the RØDE VideoMic NTG with the medium and louder actions.
-3. Test the ambient ZOOM H4n with all performers working together.
-4. Listen to each test recording using headphones.
-5. Reposition microphones or adjust levels when necessary.
+<div style="position: relative; width: 80%; padding-bottom: 56.25%; margin: 1.5rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/xAFsAAVBoC0?si=Jjn7q2NYAAL8_9DA"
+    title="How to set up the ZOOM H4n to record audio for film"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-## Test all sounds together
+### Connect a line-level signal to the ZOOM H4n microphone input
 
-After testing each device separately:
-
-- Perform the loudest Foley actions at the same time.
-- Watch the level meters on both ZOOM recorders.
-- Check the audio meters on Camera B.
-- Confirm that none of the recordings clip.
-- Record a short complete rehearsal.
-- Play back the rehearsal from each device.
-- Confirm that all intended actions are audible.
+<div style="position: relative; width: 80%; padding-bottom: 56.25%; margin: 1.5rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/6xbPfBcv-Ew?si=CqAW3IY1fbJJMNXH"
+    title="How to connect a line input to the ZOOM H4n microphone input"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 <fieldset class="equipment-checklist">
   <legend>Complete the audio test</legend>
@@ -341,7 +326,7 @@ After testing each device separately:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Headphones are connected to both ZOOM recorders.</strong>
+      <strong>Headphones are connected to both ZOOM recorders and Camera B.</strong>
     </span>
   </label>
 
@@ -367,34 +352,6 @@ After testing each device separately:
     </span>
   </label>
 </fieldset>
-
-## ZOOM H4n tutorial
-
-### Set up the ZOOM H4n for film recording
-
-<div style="position: relative; width: 80%; padding-bottom: 56.25%; margin: 1.5rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/xAFsAAVBoC0?si=Jjn7q2NYAAL8_9DA"
-    title="How to set up the ZOOM H4n to record audio for film"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
-
-### Connect a line-level signal to the ZOOM H4n microphone input
-
-<div style="position: relative; width: 80%; padding-bottom: 56.25%; margin: 1.5rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/6xbPfBcv-Ew?si=CqAW3IY1fbJJMNXH"
-    title="How to connect a line input to the ZOOM H4n microphone input"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
 
 </div>
 </details>
@@ -461,13 +418,6 @@ Configure all three cameras using matching settings whenever possible.
     <input type="checkbox">
     <span>
       <strong>Set the Frame Rate to <code>30 fps</code>.</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the Shutter Speed to <code>1/60</code>.</strong>
     </span>
   </label>
 
@@ -555,7 +505,7 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">Lighting setup — Three-point arrangement</span>
+    <span class="section-title">5. Lighting setup — Three-point arrangement</span>
     <span class="section-description">
       Position the fill, key, and back lights to illuminate the Foley station clearly, then set the aperture and ISO manually.
     </span>
@@ -710,7 +660,7 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">Record and review a complete test run</span>
+    <span class="section-title">6. Record and review a complete test run</span>
     <span class="section-description">
       Record a full rehearsal using every camera and audio device, then review the framing, lighting, exposure, focus, and sound levels before the final take.
     </span>
