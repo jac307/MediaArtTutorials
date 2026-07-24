@@ -19,11 +19,8 @@ You will:
 
 - **Project type:** Individual
 - **Software:** Adobe After Effects
-- **Part 1 duration:** 30 seconds
 - **Part 1 media:** Three to five video clips and/or images
 - **Part 2 duration:** Depends on the selected pathway
-- **Submission:** Organized After Effects project package as a ZIP file
-- **Required ZIP filename:** `Lastname_Firstname_AE.zip`
 
 ## Required folder structure
 
@@ -696,50 +693,6 @@ Before submitting:
 6. Submit through Avenue to Learn.
 
 > Follow the submission protocol carefully. An incorrect filename, missing project file, missing linked media, incomplete export, or disorganized package may result in a **1-point deduction**.
-
-<fieldset class="equipment-checklist">
-  <legend>Final W11 submission check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include both After Effects projects.</strong>
-      Confirm that the Intro and Pathway project files are present.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include all linked source media.</strong>
-      Prevent missing-file errors when the projects are opened.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Include both final MP4 exports.</strong>
-      Review each export before submission.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name the ZIP correctly.</strong>
-      Use <code>Lastname_Firstname_AE.zip</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Open and verify the ZIP.</strong>
-      Confirm that all folders and files remain accessible.
-    </span>
-  </label>
-</fieldset>
 
 ---
 
