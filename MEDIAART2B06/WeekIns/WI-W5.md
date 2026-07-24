@@ -480,6 +480,20 @@ Position it:
 
 The monitor should remain muted during the final recording.
 
+## Station check-in
+
+After setting up, call the professor or TA assigned to the station.
+
+Be prepared to show:
+
+- The station inventory
+- Camera and microphone positions
+- Lighting and monitor placement
+- Camera settings
+- Recorder settings
+
+Complete all requested corrections before going into Section 5.
+
 </div>
 </details>
 
@@ -499,69 +513,74 @@ SECTION 5
 
 <div class="section-content" markdown="1">
 
-## General camera settings
-
-Configure all three cameras as follows:
-
-- **Camera mode:** Video
-- **Shooting mode:** Manual (`M`)
-- **Aspect ratio:** 16:9
-- **Resolution:** 1920 × 1080 pixels
-- **Frame rate:** 30 fps
-- **Grid display:** Grid 1
-- **Focus:** Manual Focus (`MF`)
-- **Metering:** Evaluative or Matrix
-- **Image Stabilization:** Off
-
-## Set the exposure after the lights
-
-Set the exposure only after the complete lighting arrangement is established.
-
-Set the controls in this order:
-
-1. **Custom White Balance:** Establish and keep one fixed setting across all three cameras.
-2. **Shutter speed:** Set all cameras to `1/60`.
-3. **Aperture:** Select an aperture that provides sufficient depth of field for the required working area.
-4. **ISO:** Adjust manually to complete the exposure.
-
-Do **not** use Auto ISO.
-
-Each lens may provide a different aperture range. Select the closest practical values while keeping the three recordings visually compatible.
-
-## Manual exposure checklist
+## Configure the cameras and audio recorders
 
 <fieldset class="equipment-checklist">
-  <legend>Set and compare the camera settings</legend>
+  <legend>Camera settings</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span>
-      <strong>Set all three cameras to Manual Mode (<code>M</code>).</strong>
-      Manual Mode prevents the camera from changing the exposure automatically during recording.
-    </span>
+    <span><strong>Set all three cameras to Video Mode.</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Set the shooting mode to Manual (<code>M</code>).</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Set the Aspect Ratio to <code>16:9</code>.</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Set the Resolution to <code>1920 × 1080</code>.</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Set the Frame Rate to <code>30 fps</code>.</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Activate <code>Grid 1</code>.</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Set the lens to Manual Focus (<code>MF</code>).</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Select Evaluative or Matrix Metering.</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Turn Image Stabilization off.</strong></span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Set a Custom White Balance.</strong>
-      Use the balance card after the final lighting arrangement is established. Keep the setting consistent across Cameras A, B, and C.
+      Use the balance card after the lighting setup is complete.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span>
-      <strong>Set the shutter speed to <code>1/60</code>.</strong>
-      Keep this setting consistent across all three cameras.
-    </span>
+    <span><strong>Set the shutter speed to <code>1/60</code>.</strong></span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Set the aperture manually.</strong>
-      Select a value that keeps the important Foley actions within an appropriate depth of field.
+      Keep the important Foley actions within focus.
     </span>
   </label>
 
@@ -569,15 +588,15 @@ Each lens may provide a different aperture range. Select the closest practical v
     <input type="checkbox">
     <span>
       <strong>Set the ISO manually.</strong>
-      Adjust the ISO only after the lighting, shutter speed, and aperture are set. Do not use Auto ISO.
+      Do not use Auto ISO.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Compare all three camera images.</strong>
-      Check colour, highlights, shadows, skin, working surfaces, and the dark background. The settings may differ, but the footage should remain visually compatible.
+      <strong>Compare Cameras A, B, and C.</strong>
+      Check colour, exposure, focus, highlights, shadows, and background.
     </span>
   </label>
 
@@ -585,35 +604,62 @@ Each lens may provide a different aperture range. Select the closest practical v
     <input type="checkbox">
     <span>
       <strong>Record the settings.</strong>
-      Take notes of the aperture and ISO used for Cameras A, B, and C.
+      Note the aperture and ISO used for each camera.
     </span>
   </label>
 </fieldset>
 
-## Configure the ZOOM H4n recorders
+<fieldset class="equipment-checklist">
+  <legend>ZOOM H4n settings</legend>
 
-Set both recorders to:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Set both recorders to <code>WAV 48 kHz / 24-bit</code>.</strong></span>
+  </label>
 
-- **Format:** WAV
-- **Sample rate:** 48 kHz
-- **Bit depth:** 24-bit
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Configure the detail recorder.</strong>
+      Select the XLR input connected to the Sennheiser ME 80.
+    </span>
+  </label>
 
-For the recorder connected to the Sennheiser ME 80:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Activate phantom power only when required.</strong>
+    </span>
+  </label>
 
-- Confirm that the correct XLR input is active.
-- Activate phantom power only when required.
-- Aim the microphone toward the subtle Foley area.
-- Monitor the signal using headphones.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Configure the ambient recorder.</strong>
+      Activate the built-in stereo microphones.
+    </span>
+  </label>
 
-For the ambient recorder:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Connect headphones to both recorders.</strong></span>
+  </label>
 
-- Activate the built-in stereo microphones.
-- Aim the recorder toward the complete Foley station.
-- Monitor the signal using headphones.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Test the loudest Foley action.</strong>
+      Adjust the recording levels so the signal remains below clipping.
+    </span>
+  </label>
 
-Test the loudest expected action before setting the final recording levels.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Record and review a short audio test.</strong></span>
+  </label>
+</fieldset>
 
-> Set each recording level according to the loudest sound captured by that device. Quiet sounds may be raised during editing, but clipped sound cannot be repaired.
+> Set the recording levels according to the loudest sound. Clipped audio cannot be repaired.
 
 ## Record a complete test run
 
@@ -647,6 +693,7 @@ Check that:
 - Quiet actions remain audible.
 - Loud actions remain below clipping.
 - There is no distortion, excessive handling noise, cable noise, or monitor sound.
+- Make needed changes, if any.
 
 ## Review the camera footage
 
@@ -659,8 +706,8 @@ Check that:
 - Performers do not block important objects.
 - The focus remains consistent.
 - The synchronization clap is visible.
-- Cameras, lights, microphones, stands, cables, and the monitor do not appear unintentionally.
 - The footage from the three cameras has compatible exposure and colour.
+- Make needed changes, if any.
 
 ## Review the lighting
 
@@ -674,36 +721,7 @@ Check that:
 - Heavy shadows do not conceal important actions.
 - Bright or reflective objects are not clipped.
 - The manual ISO does not introduce excessive image noise.
-
-Adjust the lights before changing the camera exposure.
-
-After changing a light:
-
-1. Keep the shutter speed at `1/60`.
-2. Recheck the aperture.
-3. Recheck the manual ISO.
-4. Recheck the focus.
-5. Compare the three cameras.
-6. Record another complete test.
-
-## Station check-in
-
-After reviewing the test run, call the professor or TA assigned to the station.
-
-Be prepared to show:
-
-- The station inventory
-- Camera and microphone positions
-- Lighting and monitor placement
-- Camera settings
-- Recorder settings
-- Test footage from all three cameras
-- Test audio from both ZOOM recorders and Camera B
-- The visible and audible synchronization clap
-
-Complete all requested corrections before beginning the final takes.
-
-> Do not proceed to final recording until the station setup has been approved.
+- Make needed changes, if any. Don't forget to re-adjust camera setting if you change the lighting.
 
 </div>
 </details>
