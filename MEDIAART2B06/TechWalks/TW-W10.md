@@ -101,52 +101,6 @@ Before recording or downloading anything, review the rough cut and create a list
 | **SFX** | Which sounds are difficult to record or require emphasis? |
 | **Music** | Does music add something that the image and other sound layers cannot provide? |
 
-## Sound-layer planning checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before gathering sound</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Watch the complete rough cut without music.</strong>
-      Identify where environmental and physical sounds are missing or unclear.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>List every location in the film.</strong>
-      Confirm that each space has appropriate room tone or ambience.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>List the important visible actions.</strong>
-      Mark footsteps, doors, clothing, object handling, impacts, and other actions that may require Foley.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify possible sound effects.</strong>
-      Separate sounds you can record from those that may need to come from a sound library.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Decide whether music is necessary.</strong>
-      Music should support the film's emotional progression without replacing visual storytelling or environmental sound.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -219,52 +173,6 @@ Example filename:
 ProjectName_Ambience_ExteriorPark_T01.wav
 ```
 
-## Ambience checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Prepare sound for every location</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm room tone for each location.</strong>
-      Use production recordings or capture new material when the available recording is incomplete or noisy.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Match ambience to the visible environment.</strong>
-      Check location, time of day, weather, activity, and acoustic perspective.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record uninterrupted material.</strong>
-      Capture at least 20–30 seconds and avoid handling noise or intentional movement.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Keep the background sound consistent.</strong>
-      Avoid ambience with sudden events that cannot continue naturally across several shots.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Label every recording.</strong>
-      Include the project, sound type, location, and take number in the filename.
-    </span>
-  </label>
-</fieldset>
-
 </div>
 </details>
 
@@ -284,7 +192,9 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## What is Foley?
+## What is Foley## Sound-layer planning checklist
+
+<fieldset class="?
 
 **Foley** is custom-recorded sound that recreates or reinforces a physical action visible on screen. The sound is recorded separately and later synchronized with the image.
 
@@ -319,60 +229,6 @@ A close recording may sound exaggerated when paired with a distant shot. Adjust 
 </div>
 
 > **Example:** In *Anonymous Gift* by Michael Kitka, Foley reinforces interactions with the box and makes the character's movements feel more present. An ambient layer remains underneath and gradually intensifies, establishing the environment while supporting the tension.
-
-## Foley checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Record each required action</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use the rough cut as a timing reference.</strong>
-      Match the beginning, duration, rhythm, and intensity of the visible action.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record in a quiet environment.</strong>
-      Reduce ventilation, conversation, traffic, and other background noise when possible.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Control microphone distance.</strong>
-      Capture enough detail while maintaining a perspective that fits the shot.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Record multiple takes.</strong>
-      Create alternatives with small differences in timing, force, rhythm, and material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Leave silence around each take.</strong>
-      Record 1–2 seconds before and after the action to support clean editing.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Name the files clearly.</strong>
-      Use a format such as <code>ProjectName_Foley_FootstepsConcrete_T01.wav</code>.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -416,7 +272,7 @@ When choosing an SFX:
 - Avoid exaggerated sounds unless exaggeration is intentional
 - Preview the sound against the image before downloading several alternatives
 
-Only use sounds that you have permission to include in the project. [Freesound.org](https://freesound.org/){:target="_blank"} provides free audio under different licences. Check the licence attached to each file rather than assuming every sound has the same conditions.
+> Only use sounds that you have permission to include in the project. [Freesound.org](https://freesound.org/){:target="_blank"} provides free audio under different licences. Check the licence attached to each file rather than assuming every sound has the same conditions.
 
 ## Record source and licence information
 
@@ -442,60 +298,6 @@ Save the following information when downloading each sound:
 </div>
 
 > **Example:** In *PAREIDOLIA* by Carlos Andrés Reyes, the alarm functions as an SFX, while the forceful interaction with the clock may be Foley or production sound. The sleeve movement appears deliberately exaggerated, suggesting a sourced or designed effect. The rushing water remains closely connected to the visible action and may be Foley or production sound.
-
-## Sound-effects checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete for every sourced sound</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that the effect is necessary.</strong>
-      Do not add an SFX when production sound or Foley already communicates the action effectively.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Match the sound to the image.</strong>
-      Check material, scale, location, distance, timing, and intensity.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Verify the licence.</strong>
-      Confirm that the licence permits your use and note any attribution requirements.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Save the direct source link.</strong>
-      Record the creator, title, website, licence, and specific sound-page URL immediately.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Download a high-quality version.</strong>
-      Use WAV when available and keep the original downloaded file unchanged.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Organize the project library.</strong>
-      Store sourced effects separately from production sound, Foley, ambience, and music.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -532,7 +334,7 @@ For this project:
 
 Use only your own music or music you have permission to include. Free music may still be protected by copyright and distributed under a licence. Check the terms and record the source information.
 
-You may search [Freesound.org](https://freesound.org/){:target="_blank"} and must document the title, creator, licence, and direct link using the credit format from Section 4.
+> You may search [Freesound.org](https://freesound.org/){:target="_blank"} and must document the title, creator, licence, and direct link using the credit format from Section 4.
 
 <div class="video-wrapper">
   <video controls preload="metadata">
@@ -542,60 +344,6 @@ You may search [Freesound.org](https://freesound.org/){:target="_blank"} and mus
 </div>
 
 > **Example:** In *2 AM COFFEE* by Forrain, the sequence begins with outdoor ambience, followed by the doorbell and door movement. Music gradually enters and increases in intensity, reaching its peak when the character discovers that the bike is missing. The music reinforces the tonal shift while ambience and action sounds keep the scene grounded.
-
-## Music-selection checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Evaluate before adding music</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Review the sequence without music.</strong>
-      Confirm that the visual action and environmental sound already communicate the basic story.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use instrumental music only.</strong>
-      Do not include songs or recordings containing lyrics.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the music's function.</strong>
-      State what emotional shift, rhythm, or transition the music supports.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Avoid continuous music by default.</strong>
-      Consider where the music should enter, develop, pause, or end.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Protect the other sound layers.</strong>
-      The music should not conceal ambience, Foley, sound effects, or important production sound.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Verify and document usage rights.</strong>
-      Save the title, creator, source, licence, and direct link before importing the music.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -710,63 +458,6 @@ The layers develop through the progression:
 ```text
 Return → Anticipation → Realization → Payoff
 ```
-
-## Analysis checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Apply the analysis to your own rough cut</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the baseline ambience in every scene.</strong>
-      Note where the environment changes and how the sound should communicate that transition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Mark the important synchronized actions.</strong>
-      Identify where Foley, production sound, or SFX should reinforce cause and effect.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Consider acoustic perspective.</strong>
-      Decide how distance, interior or exterior space, and camera position should affect each sound.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Plan entrances and exits.</strong>
-      Sound layers should begin, change, pause, and end in response to the sequence rather than remain static.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the narrative peak.</strong>
-      Decide which sound decisions will support the film's central emotional or situational shift.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Build the sound library before mixing.</strong>
-      Gather and organize the required ambience, Foley, SFX, and optional music before beginning detailed audio editing.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
 
 ---
 
