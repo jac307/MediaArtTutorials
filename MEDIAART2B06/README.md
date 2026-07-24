@@ -223,3 +223,5 @@ This one-week module introduces basic motion graphics, animation, and compositin
 ---
 
 Credits: Jessica A. Rodríguez
+
+**AI Disclosure:** AI tools (ChatGPT) were used for editing and clarity only. AI was not used to generate the original course content.
