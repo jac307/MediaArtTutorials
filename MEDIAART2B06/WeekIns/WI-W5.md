@@ -293,16 +293,16 @@ All required equipment will be pre-arranged at the assigned station. Each statio
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Microphone stands and recorder supports</strong>
-      Used to position the detail microphone and ambient recorder.
+      <strong>Three Microphone stands</strong>
+      Use one for the conderser microphone and two for the handheld recorders
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Two pairs of headphones</strong>
-      One pair for monitoring each ZOOM H4n recorder.
+      <strong>Three pairs of headphones</strong>
+      One pair for monitoring each ZOOM H4n recorder + one to monitor the camera with the shutgun microphone.
     </span>
   </label>
 
@@ -311,14 +311,6 @@ All required equipment will be pre-arranged at the assigned station. Each statio
     <span>
       <strong>One Fiilex P360 three-light LED kit</strong>
       Fill, key, and back lights with stands, cables, softbox, and accessories.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>One black backdrop and support system</strong>
-      Backdrop, stands, crossbar, and sandbags when available.
     </span>
   </label>
 
@@ -347,7 +339,7 @@ All required equipment will be pre-arranged at the assigned station. Each statio
   </label>
 </fieldset>
 
-> Do not move equipment between stations without permission from the professor or assigned TA.
+> Confirm with your group that no other member has submitted a duplicate equipment booking.
 
 </div>
 </details>
