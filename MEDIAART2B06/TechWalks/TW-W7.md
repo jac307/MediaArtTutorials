@@ -525,7 +525,7 @@ Camera movement describes whether and how the camera moves during a shot. Choose
 
   <figure class="media-card">
     <img
-      src="imgs/114.gif"
+      src="imgs/Movement-PanHor.gif"
       alt="Example of a camera panning horizontally from one side to another"
     >
     <figcaption>
@@ -535,7 +535,7 @@ Camera movement describes whether and how the camera moves during a shot. Choose
 
   <figure class="media-card">
     <img
-      src="imgs/115.gif"
+      src="imgs/Movement-PanVer.gif"
       alt="Example of a camera tilting vertically upward or downward"
     >
     <figcaption>
@@ -555,7 +555,7 @@ Camera movement describes whether and how the camera moves during a shot. Choose
 
   <figure class="media-card">
     <img
-      src="imgs/116.gif"
+      src="imgs/Movement-Zoom.gif"
       alt="Example of a zoom changing the apparent size of a subject without moving the camera"
     >
     <figcaption>
@@ -647,7 +647,7 @@ The lighting plan should identify:
 
 <figure class="media-card">
   <img
-    src="imgs/117.jpg"
+    src="imgs/LightPortrait-Diagram.jpg"
     alt="Reference diagram presenting multiple portrait and character-lighting arrangements"
   >
   <figcaption>
