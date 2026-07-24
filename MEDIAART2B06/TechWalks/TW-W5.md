@@ -306,7 +306,7 @@ After testing each device separately:
 
 - Perform the loudest Foley actions at the same time.
 - Watch the level meters on both ZOOM recorders.
-- Check the audio meters on Camera A.
+- Check the audio meters on Camera B.
 - Confirm that none of the recordings clip.
 - Record a short complete rehearsal.
 - Play back the rehearsal from each device.
@@ -348,7 +348,7 @@ After testing each device separately:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The RØDE microphone is connected to Camera A.</strong>
+      <strong>The RØDE microphone is connected to Camera B.</strong>
       Confirm that the camera is receiving the external microphone signal.
     </span>
   </label>
@@ -408,7 +408,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Configure the cameras</span>
+    <span class="section-title">4. Set-up and Configure the cameras</span>
     <span class="section-description">
       Match the settings across all three cameras and position them to document the complete Foley performance.
     </span>
@@ -420,9 +420,7 @@ You will use three cameras to document the live Foley performance.
 
 The goal is to make every important object, gesture, and interaction visible.
 
-Use the lenses assigned to your production station.
-
-Review the [Camera and Lens Equipment Reference](../Cameras.md){:target="_blank"} and previous [MEDIAART 2B06 technical walkthroughs](../README.md) when needed.
+Review the [Camera and Lens Equipment Reference](../Cameras.html){:target="_blank"} and previous [MEDIAART 2B06 technical walkthroughs](../README.html) when needed.
 
 ## General camera settings
 
@@ -430,13 +428,6 @@ Configure all three cameras using matching settings whenever possible.
 
 <fieldset class="equipment-checklist">
   <legend>Configure each camera</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Mount the camera on a tripod.</strong>
-    </span>
-  </label>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -483,7 +474,7 @@ Configure all three cameras using matching settings whenever possible.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Set the Aperture and ISO manually.</strong>
+      <strong>Set the Aperture and ISO.</strong>
       Match the exposure across all three cameras as closely as possible.
     </span>
   </label>
@@ -507,7 +498,7 @@ Configure all three cameras using matching settings whenever possible.
     <input type="checkbox">
     <span>
       <strong>Set a fixed White Balance.</strong>
-      Use a balance card or white sheet of paper to establish a Custom White Balance.
+      Use a balance card or white sheet of paper to establish a Custom White Balance across cameras.
     </span>
   </label>
 
@@ -529,73 +520,52 @@ Configure all three cameras using matching settings whenever possible.
 
 ## Camera positions
 
-![Diagram showing the three camera positions around the Foley station](imgs/72.png)
-
 ### Camera A — Front wide shot
+
+![Camera A front wide-shot placement](imgs/CameraA-Placement.png)
 
 Camera A provides the primary documentation of the complete Foley setup.
 
-Position it:
+Position and configure it as follows:
 
-- In front of the performers
-- On a tripod
-- At an angle that shows the complete working area
-- On the opposite side of the Sennheiser detail microphone
-- Close enough for the RØDE VideoMic NTG to capture useful directional sound
-
-The frame should show:
-
-- Performers
-- Objects
-- Hands
-- Gestures
-- Sound-producing actions
-- The spatial relationship between participants
+- Place the camera in front of the performers.
+- Mount it securely on a tripod.
+- Use the default zoom lens included with the camera.
+- Select a wide framing that shows the complete working area.
+- Keep all performers, objects, hand movements, and sound-producing actions visible.
+- Record with the camera’s built-in microphone to provide reference audio for synchronization.
 
 ### Camera B — Side wide shot
 
+![Camera B with side perspective](imgs/CameraB-Placement.png)
+
 Camera B provides a secondary perspective that reveals lateral movement and spatial relationships.
 
-Position it:
+Position and configure it as follows:
 
-- On one side of the Foley station
-- On a tripod
-- At an angle that differs clearly from Camera A
-- Outside the frame of the other cameras
-
-The framing may explore perspective, but all important sound-producing actions must remain visible.
+- Connect the shotgun microphone directly to the camera.
+- Place the camera on one side of the Foley station, opposite the condenser microphone.
+- Mount it securely on a tripod.
+- Use a shorter focal-length lens so the camera can remain closer to the Foley action while maintaining a wide field of view.
+- Aim the camera and microphone toward the main sound-producing area.
+- Keep all important objects, gestures, and sound-producing actions within the frame.
 
 ### Camera C — Back or overhead angle
 
-Camera C documents how the objects are arranged and physically manipulated.
+![Camera C with a top-view perspective](imgs/CameraC-Placement.png)
 
-Position it:
+Camera C documents how the Foley objects are arranged and physically manipulated.
 
-- Behind the Foley station
-- Above the action when the available tripod permits
-- Angled downward
-- Outside the frames of Cameras A and B
+Position and configure it as follows:
 
-The frame should show:
-
-- Object placement
-- Hand movement
-- Surface interaction
-- The spatial organization of the Foley station
-- How each sound is physically produced
+- Place the camera behind the Foley station.
+- Mount it securely on a tripod.
+- Raise it above the action when the available tripod permits.
+- Angle the camera downward toward the working surface.
+- Frame the objects, hand movements, gestures, and sound-producing actions clearly.
+- Keep all important Foley actions within the frame.
 
 > Camera C does not need to show every performer’s face. Its main purpose is to document the objects, gestures, and physical production of sound.
-
-## Compare the three frames
-
-Before recording:
-
-- View each camera frame.
-- Confirm that the cameras do not appear in one another’s compositions.
-- Confirm that microphones, stands, cables, lights, and the monitor remain outside the frames.
-- Check that no important Foley action is hidden.
-- Confirm that the focus and exposure remain consistent.
-- Record and review a short test from all three cameras.
 
 </div>
 </details>
