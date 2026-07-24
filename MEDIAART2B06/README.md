@@ -193,8 +193,8 @@ Present the rough cut for feedback and begin producing the final sound design.
 Complete the final edit, sound mix, colour correction, and delivery package.
 
 - [Week 12 activity](WeekIns/WI-W12.md)
-- [Tutorials: Final sound and colour refinement](Tutorials/index.html?file=T-W12.json)
 - [Framework: Final package and portfolio preparation](TechWalks/TW-W12.md)
+- [Tutorials: Final sound and colour refinement](Tutorials/index.html?file=T-W12.json)
 
 </div>
 </details>
