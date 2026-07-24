@@ -211,6 +211,8 @@ Station locations and group assignments will be posted on Avenue to Learn before
 
 Each station group is responsible for booking the equipment listed below. Because equipment is limited, submit only **one booking per station for each required item**. Coordinate with your station before booking to avoid duplicate reservations.
 
+> Take photos of the behind-the-scenes. These are required for the final submission. 
+
 ## Station equipment
 
 All required equipment will be pre-arranged at the assigned station. Each station will include a printed inventory listing the equipment and identifying numbers.
@@ -1045,7 +1047,7 @@ Adjust the mix so:
 - The different sonic layers remain distinguishable.
 - The sound corresponds accurately with the visible actions.
 - The final mix remains below clipping.
-- The master audio level does not reach `0 dB`.
+- The master audio level does not reach `-0.3 dB`.
 - The dynamic range remains appropriate.
 
 You may use:
@@ -1083,7 +1085,7 @@ Export the completed video and sound mix directly from **Adobe Premiere Pro**.
 - **Codec:** H.264
 - **Resolution:** 1920 × 1080 pixels
 - **Frame rate:** 30 fps
-- **Duration:** Exactly 30 seconds
+- **Duration:** 30 seconds + titles & credits
 - **Filename:** `Group-#-LiveFoley.mp4`
 
 Review the exported file using headphones before submitting it. Confirm that the image, picture-in-picture clip, titles, synchronization, and final audio mix are correct.
@@ -1100,6 +1102,7 @@ Create a one- or two-page document containing:
 - Source-film title
 - Selected 30-second time frame
 - A two- or three-sentence description of the group’s Live Foley approach
+- Two-Three images of the behind the scenes. 
 - A brief explanation of how the performers coordinated their actions
 - A brief explanation of how the three microphone perspectives contributed to the final mix
 
