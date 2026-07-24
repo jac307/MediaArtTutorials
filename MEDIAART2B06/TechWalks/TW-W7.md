@@ -181,7 +181,7 @@ The visual script describes what the audience can see. Include:
 
 ### Example: *WALL·E*
 
-The early screenplay communicates the world through short visual descriptions:
+The screenplay communicates the world through short visual descriptions:
 
 - A vast landscape of trash
 - A small robot methodically stacking cubes
@@ -351,7 +351,7 @@ For every storyboard panel, provide:
 
 <figure class="media-card">
   <img
-    src="imgs/95.jpg"
+    src="imgs/Storyboard-Example.jpg"
     alt="Storyboard example from the film Parasite showing drawn frames and production annotations"
   >
   <figcaption>
@@ -369,7 +369,7 @@ Shot type describes the camera’s distance from the subject. It determines how 
 
   <figure class="media-card">
     <img
-      src="imgs/103.jpg"
+      src="imgs/Shot-WLS.jpg"
       alt="Wide long shot showing a subject from a significant distance"
     >
     <figcaption>
