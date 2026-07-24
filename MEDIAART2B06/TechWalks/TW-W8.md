@@ -48,7 +48,7 @@ For this project, the lighting should demonstrate:
 - Separation between the subject and background
 - A lighting approach that supports the emotional tone of the scene
 
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--three photography-examples--sixteen-nine">
 
   <figure class="media-card">
     <img
@@ -95,60 +95,6 @@ Lighting must remain consistent between takes. Monitor:
 When the lighting changes significantly, restore the planned arrangement and recheck exposure before continuing.
 
 > Lighting must be controlled during production. Do not assume that major exposure or colour inconsistencies can be repaired in post-production.
-
-## Lighting checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Complete before setting camera exposure</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Position the light sources.</strong>
-      Confirm the direction, height, distance, and intensity of each light.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Control unwanted overhead light and spill.</strong>
-      Remove or reduce light that weakens the intended contrast or reaches unintended areas.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Separate the subject from the background.</strong>
-      Use brightness, direction, colour, or distance to keep the subject visually distinct.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Match colour temperature.</strong>
-      Keep sources consistent unless mixed colour temperatures are part of the planned design.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the lighting through the camera.</strong>
-      Evaluate highlights, shadows, reflections, and background details from the recording position.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Document the lighting arrangement.</strong>
-      Take a reference photograph so the setup can be restored between takes.
-    </span>
-  </label>
-</fieldset>
 
 </div>
 </details>
@@ -224,7 +170,7 @@ Adjust:
 
 Use the histogram to evaluate exposure rather than relying only on the brightness of the LCD screen.
 
-Review [W4 — Exposure Compensation and Exposure Control and Monitoring](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-compensation){:target="_blank"}.
+Review [W4 — Advanced Exposure Theory & Monitor Exposure](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W4.html#exposure-compensation){:target="_blank"}.
 
 ## Select shutter speed
 
@@ -247,7 +193,7 @@ Lower shutter speeds create more motion blur or drag. Higher shutter speeds crea
 Review:
 
 - [W2 — Shutter speed](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W2.html#shutter-speed){:target="_blank"}
-- [W3 — Shutter Speed as a Motion and Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#shutter-speed-as-a-motion--exposure-tool){:target="_blank"}
+- [W3 — Shutter Speed as a Motion and Exposure Tool](https://jac307.github.io/MediaArtTutorials/MEDIAART2B06/TechWalks/TW-W3.html#1.-Shutter-speed){:target="_blank"}
 
 <figure class="media-card">
   <img
