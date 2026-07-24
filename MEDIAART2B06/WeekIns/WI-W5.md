@@ -922,7 +922,7 @@ SECTION 8
 
 - [W5 Tutorials: Live Foley Multi-Camera Video and Live Sound Workflow](../Tutorials/index.html?file=T-W5.json){:target="_blank"}
 
-## Assemble the video in Premiere Pro
+## Create the Premiere Pro sequence
 
 Create a sequence using:
 
@@ -936,26 +936,30 @@ Import:
 - Camera A footage
 - Camera B footage
 - Camera C footage
+- The Sennheiser ME 80 recording
+- The ambient ZOOM H4n recording
 - The assigned silent-film clip
 
 ## Synchronize the cameras
 
-Use the synchronization clap and reference audio to align the three camera recordings.
+Synchronize Cameras A, B, and C before beginning the visual edit.
+
+Use the synchronization clap and camera reference audio to align the three recordings.
 
 Confirm that:
 
 - The visible clap occurs on the same frame in all three camera angles.
 - The clap waveform aligns across the camera-audio tracks.
 - The complete performances remain synchronized.
-- The selected take is the same across all three cameras.
+- All three camera files come from the same take.
 
-During the Premiere Pro edit, use only the audio recorded by the **shotgun microphone connected to Camera B**.
+Keep the camera footage aligned throughout the editing process.
 
-Mute Camera A and Camera C audio after synchronization.
-
-> The shotgun recording is the temporary audio reference for the visual edit. The final sound mix will be completed in REAPER using the two ZOOM H4n recordings.
+> Use the audio recorded by the shotgun microphone connected to Camera B as the temporary reference audio while editing the camera perspectives.
 
 ## Edit the camera perspectives
+
+Complete the visual edit before mixing the final sound.
 
 Use straight cuts or jump cuts between the synchronized camera angles.
 
@@ -963,11 +967,14 @@ The edit should:
 
 - Show how the sounds are physically produced
 - Use Camera A to establish the complete performance
-- Use Camera B to reveal the side perspective and primary directional sound area
-- Use Camera C to emphasize objects, hands, and gestures
+- Use Camera B to reveal the side perspective and primary sound-producing area
+- Use Camera C to emphasize objects, hands, gestures, and physical actions
 - Maintain synchronization with the Foley performance
 - Keep important actions visible
 - Create a clear visual rhythm
+- Reach a final duration of exactly 30 seconds
+
+Do not begin the final sound mix until the camera edit is complete.
 
 ## Add the source clip using picture-in-picture
 
@@ -1001,32 +1008,34 @@ Include:
 
 Titles and credits must be readable and must not obscure important actions.
 
-## Export the picture edit for REAPER
+## Synchronize the external audio recordings
 
-Export the completed picture edit with the synchronized shotgun-microphone reference audio.
+After completing the visual edit, synchronize the two ZOOM H4n recordings with the shotgun-microphone reference audio.
 
-- **Format:** MP4
-- **Codec:** H.264
-- **Resolution:** 1920 × 1080 pixels
-- **Frame rate:** 30 fps
+Use the synchronization clap to align:
 
-This is an intermediate file used for the final sound mix.
-
-## Complete the sound mix in REAPER
-
-Import:
-
-- The edited Premiere Pro video
+- The shotgun microphone connected to Camera B
 - The Sennheiser ME 80 detail recording
 - The ambient ZOOM H4n recording
 
-Synchronize both ZOOM recordings with the shotgun-microphone reference track using the synchronization clap.
+Confirm that:
+
+- The clap waveforms align across all three audio sources.
+- The Foley actions remain synchronized with the edited camera sequence.
+- All audio recordings come from the same selected take.
+- The external audio remains aligned from the beginning to the end of the sequence.
+
+After synchronization, mute the built-in audio from Cameras A and C.
+
+## Mix the sound in Premiere Pro
+
+Complete the entire sound mix in **Adobe Premiere Pro**.
 
 Use the three live audio perspectives:
 
-- Shotgun microphone connected to Camera B
-- Sennheiser ME 80 detail microphone
-- Ambient ZOOM H4n recording
+- **Shotgun microphone:** Directional sound synchronized with Camera B
+- **Sennheiser ME 80:** Subtle and detailed Foley sounds
+- **Ambient ZOOM H4n:** Overall stereo sound of the performance
 
 Adjust the mix so:
 
@@ -1034,19 +1043,25 @@ Adjust the mix so:
 - Louder sounds do not overwhelm the mix.
 - No source is disproportionately loud or quiet.
 - The different sonic layers remain distinguishable.
-- The audio supports the visual performance.
+- The sound corresponds accurately with the visible actions.
 - The final mix remains below clipping.
+- The master audio level does not reach `0 dB`.
 - The dynamic range remains appropriate.
 
-You may:
+You may use:
 
-- Adjust levels
-- Apply fades
-- Use volume automation
-- Pan recordings
-- Apply corrective equalization
-- Reduce unwanted low-frequency noise
-- Normalize or limit the final output appropriately
+- Clip Gain
+- Volume keyframes
+- Track volume
+- Audio fades
+- Panning
+- Essential Sound controls
+- Corrective equalization
+- Noise reduction
+- Compression or limiting
+- Loudness and audio meters
+
+Listen to the complete sequence using headphones and check the audio meters before exporting.
 
 ## Restrictions
 
@@ -1062,15 +1077,16 @@ You may:
 
 ## Export the final video
 
-Export the completed video and sound mix from REAPER.
+Export the completed video and sound mix directly from **Adobe Premiere Pro**.
 
 - **Format:** MP4
 - **Codec:** H.264
 - **Resolution:** 1920 × 1080 pixels
+- **Frame rate:** 30 fps
 - **Duration:** Exactly 30 seconds
 - **Filename:** `Group-#-LiveFoley.mp4`
 
-Review the exported file using headphones before submitting it.
+Review the exported file using headphones before submitting it. Confirm that the image, picture-in-picture clip, titles, synchronization, and final audio mix are correct.
 
 ## Create the project information PDF
 
