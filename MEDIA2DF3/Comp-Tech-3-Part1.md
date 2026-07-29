@@ -730,7 +730,7 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Logo by American designer <a href="https://andwalsh.com/" target="_blank" rel="noopener noreferrer">Jessica Walsh</a>
+      Example: Logo by American designer <a href="https://andwalsh.com/" target="_blank" rel="noopener noreferrer">Jessica Walsh</a>
     </figcaption>
   </figure>
 
@@ -749,7 +749,7 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Website homepage by English artist <a href="https://shantellmartin.art/homepage" target="_blank" rel="noopener noreferrer">Shantell Martin</a>
+      Example: Website homepage by English artist <a href="https://shantellmartin.art/homepage" target="_blank" rel="noopener noreferrer">Shantell Martin</a>
     </figcaption>
   </figure>
 
@@ -768,7 +768,7 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a>
+      Example: Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a>
     </figcaption>
   </figure>
 
@@ -919,7 +919,7 @@ SUB-SECTION A
 
 Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare raster images.
 
-Embed all linked images before exporting.
+> **Embed all linked images before exporting**. You will loose point if images are not embed it.
 
 ![Logo document setup reference](imgs/logo.png)
 
@@ -939,11 +939,23 @@ Embed all linked images before exporting.
 
 ### Graphic design tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6" title="Graphic design tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6"
+    title="Adobe Illustrator Tutorial: Create a Vector Logo from a Sketch in 2024!"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AUxtDCyaPFg?si=u9MD48P1sKyNpx8K" title="Graphic design tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/svd4WQE_92Y?si=O0_aL82zce8HYo40" title="Graphic design tutorial 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/AUxtDCyaPFg?si=u9MD48P1sKyNpx8K"
+    title="How to use Image Trace in Adobe Illustrator"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 </div>
 </details>
@@ -983,6 +995,17 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
 | Guides | Inner rectangular border 50 px from the edges |
 | Layers | Guides, Composition, Background |
 
+### Website design tutorials
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/XeQo6fT0n_o?si=0UiNLZHDC1gbWn6f"
+    title="All 20+ Effects in Adobe Illustrator Explained"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 </div>
 </details>
 
@@ -1008,11 +1031,8 @@ The final composition must include **at least one original photograph taken spec
 
 The following files are required for submission:
 
-- The completed photomontage
-- The layered Photoshop document
-- The original, unedited camera file
-
-![Photomontage document setup reference](imgs/photomontage.png)
+- The completed photomontage saved as a layered TIFF, with all layers preserved and editable
+- The original, unedited camera file used in the photomontage
 
 ### Original photography requirement
 
@@ -1030,6 +1050,8 @@ The original photograph must remain identifiable within the final composition, e
 
 ### Photoshop document setup
 
+![Photomontage document setup reference](imgs/photomontage.png)
+
 | Setting | Requirement |
 |---|---|
 | Filename | `Lastname-Firstname-CompTech3-Photomontage` |
@@ -1041,9 +1063,23 @@ The original photograph must remain identifiable within the final composition, e
 
 ### Photomontage tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/icNXrgD08qE?si=m7zAQ1JK1wQHwAP4" title="Photomontage tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/5j9_ywshuDw?si=Rq7xh98wm4SoDXY4"
+    title="Beginner's Guide to Photoshop Collages!"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOYz669WNpU?si=24OeqEx7oEo1Qe7n" title="Photomontage tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9""
+    title="Master the Pen Tool in Under 8 Minutes (Photoshop)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 </div>
 </details>
@@ -1059,15 +1095,23 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create and review the compositions</span>
+    <span class="section-title">6. Create and review the three compositions</span>
     <span class="section-description">
-      Build each composition from the approved sketch and verify that every formal requirement is visible.
+      Develop the logo, website mockup, and photomontage from the approved sketches, then review the conceptual, visual, and technical requirements.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Use the sketches as the starting point, but make adjustments when spacing, scale, colour, or hierarchy does not work in the digital file.
+Use the approved sketches as the starting point for each composition:
+
+- One logo
+- One one-page website mockup
+- One photomontage
+
+The final compositions do not need to reproduce the sketches exactly. Adjust the spacing, scale, colour, typography, imagery, and hierarchy when these elements do not work effectively in the digital file.
+
+Each decision should support the concept, selected style, assigned Gestalt principles, Samara rules, and purpose of the design format.
 
 <fieldset class="equipment-checklist">
   <legend>Review each composition before exporting</legend>
@@ -1076,39 +1120,55 @@ Use the sketches as the starting point, but make adjustments when spacing, scale
     <input type="checkbox">
     <span>
       <strong>The concept is clear.</strong>
-      The composition communicates a specific subject, purpose, or message.
+      The composition communicates a specific subject, purpose, message, or function.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The style is recognizable.</strong>
-      At least three characteristics of the selected style are visible and adapted to the concept.
+      <strong>The format is used appropriately.</strong>
+      The design works as a logo, website mockup, or photomontage and responds to the purpose of that format.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Both Gestalt principles are visible.</strong>
-      The principles organize the composition rather than appearing as isolated effects.
+      <strong>The selected style is recognizable.</strong>
+      At least three characteristics of the style are visible and adapted to the composition rather than copied directly from an example.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Both Samara rules affect the design.</strong>
-      The rules are evident in the hierarchy, spacing, image-making, reduction, or communication strategy.
+      <strong>Both Gestalt principles organize the composition.</strong>
+      The assigned principles are clearly visible in the grouping, relationships, hierarchy, or movement of the visual elements.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The viewer’s path is controlled.</strong>
-      The composition establishes grouping, hierarchy, movement, and negative space.
+      <strong>Both Samara rules guide the design.</strong>
+      The assigned rules influence the composition, hierarchy, spacing, image-making, reduction, or communication strategy.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The visual hierarchy is clear.</strong>
+      The viewer can identify the focal area, reading order, grouped elements, directional movement, and negative space.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The visual elements are consistent.</strong>
+      Colour, typography, imagery, shapes, textures, and spacing work together as one coherent composition.
     </span>
   </label>
 
@@ -1116,10 +1176,20 @@ Use the sketches as the starting point, but make adjustments when spacing, scale
     <input type="checkbox">
     <span>
       <strong>The file is technically complete.</strong>
-      Dimensions, colour mode, resolution, layers, margins, embedded images, and filename are correct.
+      The dimensions, colour mode, resolution, margins, guides, layers, embedded images, and filename follow the instructions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The photomontage requirements are complete.</strong>
+      The original DSLR photograph is used in the composition, the TIFF preserves active layers, and the original unedited camera file is ready for submission.
     </span>
   </label>
 </fieldset>
+
+Make final corrections before exporting the logo and website as PDF files and saving the photomontage as a layered TIFF.
 
 </div>
 </details>
@@ -1152,16 +1222,16 @@ SECTION 7
 
 ## Written descriptions
 
-Post a **two-sentence description for each composition** directly in Avenue to Learn.
+Post a **250-word description for each composition** directly in Avenue to Learn.
 
-Each description must:
+Each description must clearly explain the design rather than only listing the required principles.
 
-1. State the concept and selected style.
-2. Identify the two Gestalt principles and explain how the two Samara rules shaped the design.
+For each composition:
 
-### Example
-
-> This poster presents a fictional public garden through an Art Nouveau visual language based on flowing botanical forms and decorative borders. Continuity and closure guide the reading path, while Rules 3 and 14 establish one consistent visual voice and keep each formal decision deliberate.
+1. State the concept and selected visual style.
+2. Identify the two Gestalt principles and two Samara rules used.
+3. Select **one specific aspect or element of the design**.
+4. Explain concretely how that design decision supports the concept and helps communicate the intended message, purpose, or function.
 
 Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup may affect the grade.
 
