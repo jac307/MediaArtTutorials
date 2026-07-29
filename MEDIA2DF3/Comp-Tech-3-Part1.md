@@ -21,9 +21,17 @@ Each composition must combine:
 - **Style options:** Art Nouveau, DORFic, Utopian Scholastic, Memphis Design, and Olderbrothercore
 - **Gestalt principles:** Emergence, Closure, Continuity, Proximity, Similarity, and Figure/Ground
 - **Software:** Adobe Illustrator and Adobe Photoshop
-- **Colour:** Full colour is permitted
 - **Work period:** During class, with additional work completed before the deadline
-- **Submission:** Sketch PDF, three composition PDFs, and written descriptions on Avenue to Learn
+
+## Submission Files
+
+| Item | Required filename |
+|---|---|
+| Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
+| Logo PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` |
+| Website PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` |
+| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
+| Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
 ## Activity stages
 
@@ -1136,9 +1144,10 @@ SECTION 7
 | Item | Required filename |
 |---|---|
 | Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
-| Graphic design PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` or `Lastname-Firstname-CompTech3-Part1-Poster.pdf` |
-| UI design PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` or `Lastname-Firstname-CompTech3-Part1-App.pdf` |
-| Photomontage PDF | `Lastname-Firstname-CompTech3-Part1-Photomontage.pdf` |
+| Logo PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` |
+| Website PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` |
+| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
+| Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
 ## Written descriptions
 
