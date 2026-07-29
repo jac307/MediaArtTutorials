@@ -711,66 +711,69 @@ Create one composition in each category:
 | **Photomontage** | Photographic collage using image layers and texture | Adobe Photoshop |
 
 Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
-
 ## Review the required formats
 
 <div class="format-options-grid">
 
   <!-- Logo -->
   <figure class="format-option-card">
+    <h3>Logo</h3>
+    <p>
+      A logo identifies an organization, project, event, product, or service through a clear and recognizable visual mark.
+    </p>
+    <p>
+      It should remain legible at different sizes and communicate through simplified shapes, typography, colour, or symbols.
+    </p>
     <img
       src="imgs/format-logo-example.webp"
       alt="Example of a logo designed by Jessica Walsh"
       loading="lazy"
     >
     <figcaption>
-      <h3>Logo by American designer <a href="https://andwalsh.com/" target="_blank" rel="noopener noreferrer">Jessica Walsh</a></h3>
-      <p>
-        A logo identifies an organization, project, event, product, or service through a clear and recognizable visual mark.
-      </p>
-      <p>
-        It should remain legible at different sizes and communicate through simplified shapes, typography, colour, or symbols.
-      </p>
+      Logo by American designer <a href="https://andwalsh.com/" target="_blank" rel="noopener noreferrer">Jessica Walsh</a>
     </figcaption>
   </figure>
 
   <!-- Website -->
   <figure class="format-option-card">
+    <h3>Website: Homepage</h3>
+    <p>
+      A one-page website organizes information within a continuous vertical layout.
+    </p>
+    <p>
+      It should guide the viewer through clearly defined sections while establishing hierarchy, readability, navigation, and a consistent visual system.
+    </p>
     <img
       src="imgs/format-website-example.png"
-      alt="Example of a one-page website design"
+      alt="Example of a website homepage designed by Shantell Martin"
       loading="lazy"
     >
     <figcaption>
-      <h3>Website (Home-page) by English artist <a href="https://shantellmartin.art/%20homepage" target="_blank" rel="noopener noreferrer">Shantell Martin</a></h3>
-      <p>
-        A one-page website organizes information within a continuous vertical layout.
-      </p>
-      <p>
-        It should guide the viewer through clearly defined sections while establishing hierarchy, readability, navigation, and a consistent visual system.
-      </p>
+      Website homepage by English artist <a href="https://shantellmartin.art/homepage" target="_blank" rel="noopener noreferrer">Shantell Martin</a>
     </figcaption>
   </figure>
 
   <!-- Photomontage -->
   <figure class="format-option-card">
+    <h3>Photomontage</h3>
+    <p>
+      A photomontage combines photographs, textures, fragments, and graphic elements to construct a new image or visual argument.
+    </p>
+    <p>
+      It may communicate through contrast, juxtaposition, scale, layering, transformation, or unexpected relationships between images.
+    </p>
     <img
       src="imgs/format-photomontage-example.jpg"
-      alt="Example of a photographic montage"
+      alt="Example of a photomontage by Martha Rosler"
       loading="lazy"
     >
     <figcaption>
-      <h3>Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a></h3>
-      <p>
-        A photomontage combines photographs, textures, fragments, and graphic elements to construct a new image or visual argument.
-      </p>
-      <p>
-        It may communicate through contrast, juxtaposition, scale, layering, transformation, or unexpected relationships between images.
-      </p>
+      Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a>
     </figcaption>
   </figure>
 
 </div>
+
 
 ## Assign the style pairings
 
