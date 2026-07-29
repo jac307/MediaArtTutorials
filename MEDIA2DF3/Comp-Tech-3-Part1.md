@@ -21,16 +21,6 @@ Each composition must combine:
 - **Gestalt principles:** Emergence, Closure, Continuity, Proximity, Similarity, and Figure/Ground
 - **Software:** Adobe Illustrator and Adobe Photoshop
 
-## Submission Files
-
-| Item | Required filename |
-|---|---|
-| Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
-| Logo PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` |
-| Website PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` |
-| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
-| Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
-
 ## Activity stages
 
 Complete the following stages in order.
