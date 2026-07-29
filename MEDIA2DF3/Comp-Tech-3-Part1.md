@@ -688,9 +688,9 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Assign one format to each pairing</span>
+    <span class="section-title">3. Assign one pairing to each required format</span>
     <span class="section-description">
-      Complete one graphic design, one UI design, and one photomontage.
+      Create one logo, one one-page website mockup, and one photomontage.
     </span>
   </summary>
 
@@ -698,19 +698,147 @@ SECTION 3
 
 Create one composition in each category:
 
-| Category | Choose one format | Main software |
+| Category | Required format | Main software |
 |---|---|---|
-| **Graphic design** | Logo or poster | Adobe Illustrator |
-| **UI design** | One-page website mockup or two app screens | Adobe Illustrator |
+| **Graphic design** | Logo | Adobe Illustrator |
+| **UI design** | One-page website mockup | Adobe Illustrator |
 | **Photomontage** | Photographic collage using image layers and texture | Adobe Photoshop |
 
-Assign one selected style pairing to each category. Consider which pairing best supports the purpose and structure of the format.
+Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
+
+## Review the required formats
+
+<div class="format-options-grid">
+
+  <!-- Logo -->
+  <figure class="format-option-card">
+    <img
+      src="imgs/format-logo-example.webp"
+      alt="Example of a logo designed by Jessica Walsh"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>Logo by American designer <a href="https://andwalsh.com/" target="_blank" rel="noopener noreferrer">Jessica Walsh</a></h3>
+      <p>
+        A logo identifies an organization, project, event, product, or service through a clear and recognizable visual mark.
+      </p>
+      <p>
+        It should remain legible at different sizes and communicate through simplified shapes, typography, colour, or symbols.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Website -->
+  <figure class="format-option-card">
+    <img
+      src="imgs/format-website-example.png"
+      alt="Example of a one-page website design"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>Website (Home-page) by English artist <a href="https://shantellmartin.art/%20homepage" target="_blank" rel="noopener noreferrer">Shantell Martin</a></h3>
+      <p>
+        A one-page website organizes information within a continuous vertical layout.
+      </p>
+      <p>
+        It should guide the viewer through clearly defined sections while establishing hierarchy, readability, navigation, and a consistent visual system.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Photomontage -->
+  <figure class="format-option-card">
+    <img
+      src="imgs/format-photomontage-example.jpg"
+      alt="Example of a photographic montage"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a></h3>
+      <p>
+        A photomontage combines photographs, textures, fragments, and graphic elements to construct a new image or visual argument.
+      </p>
+      <p>
+        It may communicate through contrast, juxtaposition, scale, layering, transformation, or unexpected relationships between images.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+## Assign the style pairings
+
+Use each selected pairing once:
+
+- Assign one pairing to the logo.
+- Assign one pairing to the one-page website.
+- Assign one pairing to the photomontage.
+- Do not repeat the same style pairing across two formats.
+
+Consider how the characteristics of each style support the format. A style that depends on simplified forms may work well for a logo, while a style based on layered images and textures may be more appropriate for a photomontage.
 
 ## Define the concept
 
-Before sketching, write one sentence that states what each composition communicates. The concept may describe an event, organization, service, place, product, interface, or visual message.
+Before sketching, write one sentence stating what each composition communicates.
 
-The style and Gestalt principles must support the concept. Do not begin by selecting decorative elements without deciding what the composition communicates.
+The concept may describe:
+
+- An event
+- An organization
+- A service
+- A place
+- A product
+- An interface
+- A campaign
+- A public message
+
+For each composition, identify:
+
+<fieldset class="equipment-checklist">
+  <legend>Concept and format planning</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Purpose</strong>
+      State what the logo, website, or photomontage is intended to communicate or accomplish.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Audience</strong>
+      Identify who is expected to view or use the design.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Style pairing</strong>
+      Name the selected style, Gestalt principles, and Samara rules.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connection between concept and style</strong>
+      Explain how the selected visual style supports the subject, purpose, or message.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Connection between concept and format</strong>
+      Explain why the idea is appropriate for a logo, website, or photomontage.
+    </span>
+  </label>
+</fieldset>
+
+The style, format, Gestalt principles, and Samara rules must support the concept. Do not begin by selecting decorative elements without first deciding what the composition communicates.
 
 </div>
 </details>
