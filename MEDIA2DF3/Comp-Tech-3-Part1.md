@@ -643,7 +643,7 @@ SUB-SECTION A
         <blockquote>
           <p>
             <strong>Source:</strong>
-            Timothy Samara, <em>Design Elements: A Graphic Style Manual</em>. Images are included for educational review.
+            Samara, T. (2007) <em>Design Elements: A Graphic Style Manual</em>. Rockport publishers. Images (pp.10-29) are included for educational review.
           </p>
         </blockquote>
 
