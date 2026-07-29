@@ -263,7 +263,7 @@ Select each video to review the style before choosing an option for your composi
   <article class="media-card">
 
     <video controls preload="metadata">
-      <source src="imgs/styles/art-nouveau.mp4" type="video/mp4">
+      <source src="imgs/art-nouveau.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
 
@@ -287,7 +287,7 @@ Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative bord
   <article class="media-card">
 
     <video controls preload="metadata">
-      <source src="imgs/styles/dorfic.mp4" type="video/mp4">
+      <source src="imgs/dorfic.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
 
@@ -311,7 +311,7 @@ DORFic combines restrained geometry, fine lines, technological imagery, transluc
   <article class="media-card">
 
     <video controls preload="metadata">
-      <source src="imgs/styles/utopian-scholastic.mp4" type="video/mp4">
+      <source src="imgs/utopian-scholastic.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
 
@@ -335,7 +335,7 @@ Utopian Scholastic uses diagrams, archival photographs, educational imagery, cla
   <article class="media-card">
 
     <video controls preload="metadata">
-      <source src="imgs/styles/memphis-design.mp4" type="video/mp4">
+      <source src="imgs/memphis-design.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
 
@@ -359,7 +359,7 @@ Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots,
   <article class="media-card">
 
     <video controls preload="metadata">
-      <source src="imgs/styles/olderbrothercore.mp4" type="video/mp4">
+      <source src="imgs/olderbrothercore.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
 
