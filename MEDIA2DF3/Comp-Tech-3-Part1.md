@@ -957,6 +957,8 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
   </iframe>
 </div>
 
+> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/){:target="_blank"} for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator.
+
 </div>
 </details>
 
@@ -1005,6 +1007,8 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
     allowfullscreen>
   </iframe>
 </div>
+
+> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/){:target="_blank"} for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator.
 
 </div>
 </details>
