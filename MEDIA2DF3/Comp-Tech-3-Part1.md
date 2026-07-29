@@ -898,8 +898,6 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare raster images. Emb
 
 ### Logo
 
-![Logo document setup reference](imgs/logo.png)
-
 | Setting | Requirement |
 |---|---|
 | Filename | `Lastname-Firstname-CompTech3-Part1-Logo` |
@@ -910,21 +908,6 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare raster images. Emb
 | Colour mode | RGB |
 | Raster effects | High, 300 PPI |
 | Guides | Inner rectangular border 20 px from the edges |
-| Layers | Guides, Composition, Background |
-
-### Poster
-
-![Poster document setup reference](imgs/poster.png)
-
-| Setting | Requirement |
-|---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part1-Poster` |
-| Units | Inches |
-| Size | 11 × 17 in vertical or 17 × 11 in horizontal |
-| Bleed | 0.3 in on all sides |
-| Colour mode | RGB |
-| Raster effects | High, 300 PPI |
-| Guides | Inner rectangular border 0.5 in from the edges |
 | Layers | Guides, Composition, Background |
 
 ### Graphic design tutorials
@@ -941,8 +924,6 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare images and texture
 
 ### Website
 
-![Website document setup reference](imgs/website.png)
-
 | Setting | Requirement |
 |---|---|
 | Filename | `Lastname-Firstname-CompTech3-Part1-Website` |
@@ -954,27 +935,17 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare images and texture
 | Guides | Inner rectangular border 50 px from the edges |
 | Layers | Guides, Composition, Background |
 
-### App
-
-![App document setup reference](imgs/app.png)
-
-| Setting | Requirement |
-|---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part1-App` |
-| Units | Pixels |
-| Size | 1125 × 2436 px |
-| Artboards | Two |
-| Bleed | 10 px on all sides |
-| Colour mode | RGB |
-| Raster effects | High, 300 PPI |
-| Guides | Inner rectangular border 50 px from the edges |
-| Layers | Guides, Composition, Background |
-
 ## Photomontage
 
-Use Adobe Photoshop. Adobe Illustrator may be used to prepare vector elements.
+Create a photomontage in Adobe Photoshop using photographs, textures, image fragments, and graphic elements.
 
-![Photomontage document setup reference](imgs/photomontage.png)
+The final composition must include **at least one original photograph taken specifically for this activity**.
+
+### Original photography requirement
+
+Book and use a **Canon EOS Rebel T4i DSLR camera** to create the original photograph.
+
+### Photoshop document setup
 
 | Setting | Requirement |
 |---|---|
