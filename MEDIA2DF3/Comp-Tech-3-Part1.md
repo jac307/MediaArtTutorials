@@ -41,9 +41,9 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Review ?</span>
+    <span class="section-title">1. Review the Concepts</span>
     <span class="section-description">
-      R?
+      Review the Gestalt principles and art styles before planning your compositions.
     </span>
   </summary>
 
@@ -57,7 +57,7 @@ SUB-SECTION A
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Review the Gestalt principles</span>
+    <span class="section-title">Review the Gestalt Principles</span>
     <span class="section-description">
       Review how recognizable forms and groups emerge through visual organization.
     </span>
@@ -254,9 +254,9 @@ SUB-SECTION B
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-    Select each video to review the style before choosing an option for your compositions.
+Select each video to review the style before choosing an option for your compositions.
 
 <div class="style-review-list">
 
@@ -287,7 +287,6 @@ Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative bord
     </div>
   </article>
 
-
   <!-- DORFic -->
   <article class="style-review-row">
 
@@ -314,7 +313,6 @@ DORFic combines restrained geometry, fine lines, technological imagery, transluc
 
     </div>
   </article>
-
 
   <!-- Utopian Scholastic -->
   <article class="style-review-row">
@@ -343,7 +341,6 @@ Utopian Scholastic uses diagrams, archival photographs, educational imagery, cla
     </div>
   </article>
 
-
   <!-- Memphis Design -->
   <article class="style-review-row">
 
@@ -370,7 +367,6 @@ Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots,
 
     </div>
   </article>
-
 
   <!-- Olderbrothercore -->
   <article class="style-review-row">
@@ -403,14 +399,8 @@ Olderbrothercore draws from early-2000s youth culture through lo-fi photographs,
 
 > Video source: *The Supergraphics: Fine Art* by Harald Austad. Videos are included for educational review.
 
-  </div>
+</div>
 </details>
-
-<!-- 
-/////////////////
-SUB-SECTION C
-/////////////////
--->
 
 </div>
 </details>
