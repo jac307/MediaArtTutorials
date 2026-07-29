@@ -16,12 +16,10 @@ Each composition must combine:
 
 ## Activity overview
 
-- **Outputs:** Three sketches and three digital compositions
 - **Formats:** One logo, one one-page website mockup, and one photomontage
 - **Style options:** Art Nouveau, DORFic, Utopian Scholastic, Memphis Design, and Olderbrothercore
 - **Gestalt principles:** Emergence, Closure, Continuity, Proximity, Similarity, and Figure/Ground
 - **Software:** Adobe Illustrator and Adobe Photoshop
-- **Work period:** During class, with additional work completed before the deadline
 
 ## Submission Files
 
