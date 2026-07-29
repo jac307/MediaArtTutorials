@@ -2,13 +2,9 @@
 
 # Composition Techniques III – Part 1
 
-## Individual activity
-
 ![Examples from previous Composition Techniques III activities](imgs/19.jpg)
 
-## Goal
-
-Create **three digital compositions** that apply Gestalt principles through three different design formats.
+**Goal:** Create **three digital compositions** that apply Gestalt principles through three different design formats.
 
 Each composition must combine:
 
@@ -33,6 +29,7 @@ Each composition must combine:
 
 Complete the following stages in order.
 
+
 <!-- 
 /////////////////
 SECTION 1
@@ -43,543 +40,680 @@ SECTION 1
   <summary>
     <span class="section-title">1. Review the Concepts</span>
     <span class="section-description">
-      Review the Gestalt principles and art styles before planning your compositions.
+      Review the Gestalt principles, art styles, and design rules before planning your compositions.
     </span>
   </summary>
 
-<div class="section-content" markdown="1">
+  <div class="section-content">
 
-<!-- 
-/////////////////
-SUB-SECTION A
-/////////////////
--->
+    <!-- 
+    /////////////////
+    SUB-SECTION A
+    /////////////////
+    -->
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Review the Gestalt Principles</span>
-    <span class="section-description">
-      Review how recognizable forms and groups emerge through visual organization.
-    </span>
-  </summary>
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Review the Gestalt Principles</span>
+        <span class="section-description">
+          Review how recognizable forms and groups emerge through visual organization.
+        </span>
+      </summary>
 
-<div class="section-content" markdown="1">
+      <div class="section-content">
 
-Select an example to review its definition.
+        <p>Select an example to review its definition.</p>
 
-<div class="interactive-image" data-interactive-image>
-  <div
-    class="interactive-image__choices"
-    role="group"
-    aria-label="Week 7 Gestalt principles"
-  >
-    <button
-      class="image-choice is-active"
-      type="button"
-      data-target="gestalt-w7-emergence"
-      aria-controls="gestalt-w7-emergence"
-      aria-pressed="true"
-    >
-      <img
-        src="imgs/gestalt-w7-emergence.jpg"
-        alt="Black shapes forming the image of a Dalmatian to demonstrate emergence"
-      >
-      <span class="image-choice__label">Emergence</span>
-    </button>
+        <div class="interactive-image" data-interactive-image>
+          <div
+            class="interactive-image__choices"
+            role="group"
+            aria-label="Week 7 Gestalt principles"
+          >
+            <button
+              class="image-choice is-active"
+              type="button"
+              data-target="gestalt-w7-emergence"
+              aria-controls="gestalt-w7-emergence"
+              aria-pressed="true"
+            >
+              <img
+                src="imgs/gestalt-w7-emergence.jpg"
+                alt="Black shapes forming the image of a Dalmatian to demonstrate emergence"
+              >
+              <span class="image-choice__label">Emergence</span>
+            </button>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w7-closure"
-      aria-controls="gestalt-w7-closure"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w7-closure.jpg"
-        alt="Incomplete outlines of a square, circle, and triangle demonstrating closure"
-      >
-      <span class="image-choice__label">Closure</span>
-    </button>
+            <button
+              class="image-choice"
+              type="button"
+              data-target="gestalt-w7-closure"
+              aria-controls="gestalt-w7-closure"
+              aria-pressed="false"
+            >
+              <img
+                src="imgs/gestalt-w7-closure.jpg"
+                alt="Incomplete outlines of a square, circle, and triangle demonstrating closure"
+              >
+              <span class="image-choice__label">Closure</span>
+            </button>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w7-continuity"
-      aria-controls="gestalt-w7-continuity"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w7-continuity.jpg"
-        alt="Crossing curves and a directional path demonstrating continuity"
-      >
-      <span class="image-choice__label">Continuity</span>
-    </button>
+            <button
+              class="image-choice"
+              type="button"
+              data-target="gestalt-w7-continuity"
+              aria-controls="gestalt-w7-continuity"
+              aria-pressed="false"
+            >
+              <img
+                src="imgs/gestalt-w7-continuity.jpg"
+                alt="Crossing curves and a directional path demonstrating continuity"
+              >
+              <span class="image-choice__label">Continuity</span>
+            </button>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w7-proximity"
-      aria-controls="gestalt-w7-proximity"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w7-proximity.jpg"
-        alt="Grey squares arranged at different distances to demonstrate proximity"
-      >
-      <span class="image-choice__label">Proximity</span>
-    </button>
+            <button
+              class="image-choice"
+              type="button"
+              data-target="gestalt-w7-proximity"
+              aria-controls="gestalt-w7-proximity"
+              aria-pressed="false"
+            >
+              <img
+                src="imgs/gestalt-w7-proximity.jpg"
+                alt="Grey squares arranged at different distances to demonstrate proximity"
+              >
+              <span class="image-choice__label">Proximity</span>
+            </button>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w7-similarity"
-      aria-controls="gestalt-w7-similarity"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w7-similarity.jpg"
-        alt="Rows of grey and blue squares demonstrating similarity through colour"
-      >
-      <span class="image-choice__label">Similarity</span>
-    </button>
+            <button
+              class="image-choice"
+              type="button"
+              data-target="gestalt-w7-similarity"
+              aria-controls="gestalt-w7-similarity"
+              aria-pressed="false"
+            >
+              <img
+                src="imgs/gestalt-w7-similarity.jpg"
+                alt="Rows of grey and blue squares demonstrating similarity through colour"
+              >
+              <span class="image-choice__label">Similarity</span>
+            </button>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w7-figure-ground"
-      aria-controls="gestalt-w7-figure-ground"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w7-figure-ground.jpg"
-        alt="Rubin vase image showing a vase or two facing profiles"
-      >
-      <span class="image-choice__label">Figure/Ground</span>
-    </button>
+            <button
+              class="image-choice"
+              type="button"
+              data-target="gestalt-w7-figure-ground"
+              aria-controls="gestalt-w7-figure-ground"
+              aria-pressed="false"
+            >
+              <img
+                src="imgs/gestalt-w7-figure-ground.jpg"
+                alt="Rubin vase image showing a vase or two facing profiles"
+              >
+              <span class="image-choice__label">Figure/Ground</span>
+            </button>
+          </div>
+
+          <div
+            class="interactive-image__information"
+            aria-live="polite"
+          >
+            <section
+              id="gestalt-w7-emergence"
+              class="image-information-panel"
+            >
+              <p class="image-information-panel__number">Gestalt principle</p>
+              <h3>Emergence</h3>
+              <p>
+                The viewer perceives a recognizable whole before identifying its individual parts. A larger image or form emerges from separate visual elements.
+              </p>
+            </section>
+
+            <section
+              id="gestalt-w7-closure"
+              class="image-information-panel"
+              hidden
+            >
+              <p class="image-information-panel__number">Gestalt principle</p>
+              <h3>Closure</h3>
+              <p>
+                The viewer fills gaps and completes incomplete forms when enough information suggests a recognizable whole.
+              </p>
+            </section>
+
+            <section
+              id="gestalt-w7-continuity"
+              class="image-information-panel"
+              hidden
+            >
+              <p class="image-information-panel__number">Gestalt principle</p>
+              <h3>Continuity</h3>
+              <p>
+                Elements that follow the same line, curve, or direction are perceived as connected. The eye continues along the path even when it is interrupted.
+              </p>
+            </section>
+
+            <section
+              id="gestalt-w7-proximity"
+              class="image-information-panel"
+              hidden
+            >
+              <p class="image-information-panel__number">Gestalt principle</p>
+              <h3>Proximity</h3>
+              <p>
+                Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
+              </p>
+            </section>
+
+            <section
+              id="gestalt-w7-similarity"
+              class="image-information-panel"
+              hidden
+            >
+              <p class="image-information-panel__number">Gestalt principle</p>
+              <h3>Similarity</h3>
+              <p>
+                Elements that share colour, shape, size, texture, or direction are perceived as related.
+              </p>
+            </section>
+
+            <section
+              id="gestalt-w7-figure-ground"
+              class="image-information-panel"
+              hidden
+            >
+              <p class="image-information-panel__number">Gestalt principle</p>
+              <h3>Figure/Ground</h3>
+              <p>
+                The viewer separates a subject from its surrounding field. The relationship may remain stable or shift between two interpretations.
+              </p>
+            </section>
+          </div>
+        </div>
+
+        <p>
+          Reference images:
+          <a
+            href="https://ixdf.org/literature/topics/gestalt-principles"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Interaction Design Foundation, CC BY-SA 4.0
+          </a>.
+        </p>
+
+      </div>
+    </details>
+
+    <!-- 
+    /////////////////
+    SUB-SECTION B
+    /////////////////
+    -->
+
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Review the Art Styles</span>
+        <span class="section-description">
+          Review the visual characteristics, historical context, and design approaches associated with the five styles used in this activity.
+        </span>
+      </summary>
+
+      <div class="section-content">
+
+        <p>Select each video to review the style before choosing an option for your compositions.</p>
+
+        <div class="style-review-list">
+
+          <!-- Art Nouveau -->
+          <article class="style-review-row">
+
+            <div class="style-review-video">
+              <video controls preload="metadata">
+                <source src="imgs/art-nouveau.mp4" type="video/mp4">
+                Your browser does not support embedded video.
+              </video>
+            </div>
+
+            <div class="style-review-content">
+              <h3>Art Nouveau</h3>
+
+              <p>
+                Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative borders, and integrated relationships between image and typography.
+              </p>
+
+              <h4>Relevant links</h4>
+
+              <ul>
+                <li>
+                  <a
+                    href="https://aesthetics.fandom.com/wiki/Art_Nouveau"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Art Nouveau overview
+                  </a>
+                  <p>
+                    A brief introduction to the movement, its historical context, and its main visual characteristics.
+                  </p>
+                </li>
+
+                <li>
+                  <a
+                    href="https://www.google.com/search?tbm=isch&amp;q=Art+Nouveau"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Art Nouveau examples
+                  </a>
+                  <p>
+                    A collection of posters, illustrations, architecture, and decorative design associated with the style.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+          </article>
+
+          <!-- DORFic -->
+          <article class="style-review-row">
+
+            <div class="style-review-video">
+              <video controls preload="metadata">
+                <source src="imgs/dorfic.mp4" type="video/mp4">
+                Your browser does not support embedded video.
+              </video>
+            </div>
+
+            <div class="style-review-content">
+              <h3>DORFic</h3>
+
+              <p>
+                DORFic combines restrained geometry, fine lines, technological imagery, translucent layers, neutral space, and interface-like visual systems.
+              </p>
+
+              <h4>Relevant links</h4>
+
+              <ul>
+                <li>
+                  <a
+                    href="https://aesthetics.fandom.com/wiki/DORFic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    DORFic overview
+                  </a>
+                  <p>
+                    An introduction to the visual language and digital design context associated with DORFic.
+                  </p>
+                </li>
+
+                <li>
+                  <a
+                    href="https://www.google.com/search?tbm=isch&amp;q=DORFic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    DORFic examples
+                  </a>
+                  <p>
+                    Examples of layouts, interfaces, graphics, and technological imagery connected to the style.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+          </article>
+
+          <!-- Utopian Scholastic -->
+          <article class="style-review-row">
+
+            <div class="style-review-video">
+              <video controls preload="metadata">
+                <source src="imgs/utopian-scholastic.mp4" type="video/mp4">
+                Your browser does not support embedded video.
+              </video>
+            </div>
+
+            <div class="style-review-content">
+              <h3>Utopian Scholastic</h3>
+
+              <p>
+                Utopian Scholastic uses diagrams, archival photographs, educational imagery, classical typography, labels, and carefully organized information.
+              </p>
+
+              <h4>Relevant links</h4>
+
+              <ul>
+                <li>
+                  <a
+                    href="https://aesthetics.fandom.com/wiki/Utopian_Scholastic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Utopian Scholastic overview
+                  </a>
+                  <p>
+                    A description of the style’s use of educational, archival, scientific, and institutional visual references.
+                  </p>
+                </li>
+
+                <li>
+                  <a
+                    href="https://www.google.com/search?tbm=isch&amp;q=Utopian+Scholastic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Utopian Scholastic examples
+                  </a>
+                  <p>
+                    Examples of editorial layouts, diagrams, informational graphics, and research-based compositions.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+          </article>
+
+          <!-- Memphis Design -->
+          <article class="style-review-row">
+
+            <div class="style-review-video">
+              <video controls preload="metadata">
+                <source src="imgs/memphis-design.mp4" type="video/mp4">
+                Your browser does not support embedded video.
+              </video>
+            </div>
+
+            <div class="style-review-content">
+              <h3>Memphis Design</h3>
+
+              <p>
+                Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots, stripes, squiggles, and deliberately playful arrangements.
+              </p>
+
+              <h4>Relevant links</h4>
+
+              <ul>
+                <li>
+                  <a
+                    href="https://aesthetics.fandom.com/wiki/Memphis_Design"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Memphis Design overview
+                  </a>
+                  <p>
+                    An introduction to the Memphis Group and its response to restrained modernist design.
+                  </p>
+                </li>
+
+                <li>
+                  <a
+                    href="https://www.google.com/search?tbm=isch&amp;q=Memphis+Design"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Memphis Design examples
+                  </a>
+                  <p>
+                    Examples of furniture, graphic design, patterns, interiors, and visual compositions associated with the movement.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+          </article>
+
+          <!-- Olderbrothercore -->
+          <article class="style-review-row">
+
+            <div class="style-review-video">
+              <video controls preload="metadata">
+                <source src="imgs/olderbrothercore.mp4" type="video/mp4">
+                Your browser does not support embedded video.
+              </video>
+            </div>
+
+            <div class="style-review-content">
+              <h3>Olderbrothercore</h3>
+
+              <p>
+                Olderbrothercore draws from early-2000s youth culture through lo-fi photographs, posters, stickers, screenshots, distressed textures, and layered media fragments.
+              </p>
+
+              <h4>Relevant links</h4>
+
+              <ul>
+                <li>
+                  <a
+                    href="https://aesthetics.fandom.com/wiki/Olderbrothercore"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Olderbrothercore overview
+                  </a>
+                  <p>
+                    A description of the style’s references to early digital culture, music, gaming, bedrooms, and personal media collections.
+                  </p>
+                </li>
+
+                <li>
+                  <a
+                    href="https://www.google.com/search?tbm=isch&amp;q=Olderbrothercore"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Olderbrothercore examples
+                  </a>
+                  <p>
+                    Examples of visual materials, layouts, objects, and media associated with the style.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+          </article>
+
+        </div>
+
+        <blockquote>
+          <p>
+            <strong>Video source:</strong>
+            <em>The Supergraphics: Fine Art</em> by Harald Austad. Videos are included for educational review.
+          </p>
+        </blockquote>
+
+      </div>
+    </details>
+
+    <!-- 
+    /////////////////
+    SUB-SECTION C
+    /////////////////
+    -->
+
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Review Samara’s Rules for Making Good Design</span>
+        <span class="section-description">
+          Review the ten rules assigned to this activity and consider how each one can guide your design decisions.
+        </span>
+      </summary>
+
+      <div class="section-content">
+
+        <p>
+          The rules below are selected from Timothy Samara’s
+          <em>20 Rules for Making Good Design</em>. Apply them as practical guidelines rather than as fixed formulas.
+        </p>
+
+        <div class="samara-rules-grid">
+
+          <!-- Rule 1 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-01.jpg"
+              alt="Timothy Samara rule 1: Have a concept"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>1. Have a concept</h3>
+              <p>
+                Begin with a clear idea. The composition, style, imagery, colour, and typography should support the same central concept.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 2 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-02.jpg"
+              alt="Timothy Samara rule 2: Communicate, do not decorate"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>2. Communicate—don’t decorate</h3>
+              <p>
+                Every visual element should contribute to the message. Avoid adding shapes, patterns, images, or effects without a clear purpose.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 3 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-03.jpg"
+              alt="Timothy Samara rule 3: Speak with one visual voice"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>3. Speak with one visual voice</h3>
+              <p>
+                Create consistency across the composition. Image, type, colour, texture, and spacing should feel connected to the same visual system.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 7 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-07.jpg"
+              alt="Timothy Samara rule 7: If you can do it with less, then do it"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>7. If you can do it with less, then do it</h3>
+              <p>
+                Remove unnecessary elements. A reduced composition can make the main idea, hierarchy, and relationships easier to understand.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 8 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-08.jpg"
+              alt="Timothy Samara rule 8: Negative space is magical"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>8. Negative space is magical—create it, don’t just fill it up</h3>
+              <p>
+                Treat empty space as an active part of the design. Use it to separate groups, establish emphasis, and clarify figure-and-ground relationships.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 11 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-11.jpg"
+              alt="Timothy Samara rule 11: Be universal, remember that it is not about you"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>11. Be universal; remember that it’s not about you</h3>
+              <p>
+                Consider the intended audience. Test whether the visual organization and message can be understood by someone who did not create the work.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 12 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-12.jpg"
+              alt="Timothy Samara rule 12: Squish and separate"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>12. Squish and separate</h3>
+              <p>
+                Use spacing to establish relationships. Place connected elements close together and create greater distance between unrelated groups.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 14 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-14.jpg"
+              alt="Timothy Samara rule 14: Be decisive"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>14. Be decisive. Do it on purpose—or don’t do it at all</h3>
+              <p>
+                Make visual decisions clearly. Scale, alignment, contrast, cropping, spacing, and repetition should appear intentional rather than accidental.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 15 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-15.jpg"
+              alt="Timothy Samara rule 15: Measure with your eyes"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>15. Measure with your eyes: design is visual</h3>
+              <p>
+                Mathematical alignment does not always appear visually balanced. Adjust scale, spacing, and placement according to how the composition is perceived.
+              </p>
+            </figcaption>
+          </figure>
+
+          <!-- Rule 16 -->
+          <figure class="samara-rule-card">
+            <img
+              src="imgs/samara-rule-16.jpg"
+              alt="Timothy Samara rule 16: Create images, do not scavenge"
+              loading="lazy"
+            >
+            <figcaption>
+              <h3>16. Create images—don’t scavenge</h3>
+              <p>
+                Create original visual material or substantially transform your sources. Avoid relying on unedited images collected from the internet.
+              </p>
+            </figcaption>
+          </figure>
+
+        </div>
+
+        <blockquote>
+          <p>
+            <strong>Source:</strong>
+            Timothy Samara, <em>Design Elements: A Graphic Style Manual</em>. Images are included for educational review.
+          </p>
+        </blockquote>
+
+      </div>
+    </details>
+
   </div>
-
-  <div
-    class="interactive-image__information"
-    aria-live="polite"
-  >
-    <section
-      id="gestalt-w7-emergence"
-      class="image-information-panel"
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Emergence</h3>
-      <p>
-        The viewer perceives a recognizable whole before identifying its individual parts. A larger image or form emerges from separate visual elements.
-      </p>
-    </section>
-
-    <section
-      id="gestalt-w7-closure"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Closure</h3>
-      <p>
-        The viewer fills gaps and completes incomplete forms when enough information suggests a recognizable whole.
-      </p>
-    </section>
-
-    <section
-      id="gestalt-w7-continuity"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Continuity</h3>
-      <p>
-        Elements that follow the same line, curve, or direction are perceived as connected. The eye continues along the path even when it is interrupted.
-      </p>
-    </section>
-
-    <section
-      id="gestalt-w7-proximity"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Proximity</h3>
-      <p>
-        Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
-      </p>
-    </section>
-
-    <section
-      id="gestalt-w7-similarity"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Similarity</h3>
-      <p>
-        Elements that share colour, shape, size, texture, or direction are perceived as related.
-      </p>
-    </section>
-
-    <section
-      id="gestalt-w7-figure-ground"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Figure/Ground</h3>
-      <p>
-        The viewer separates a subject from its surrounding field. The relationship may remain stable or shift between two interpretations.
-      </p>
-    </section>
-  </div>
-</div>
-
-Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org/literature/topics/gestalt-principles){:target="_blank"}.
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SUB-SECTION B
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Review the Art Styles</span>
-    <span class="section-description">
-      Review the visual characteristics, historical context, and design approaches associated with the five styles used in this activity.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Select each video to review the style before choosing an option for your compositions.
-
-<div class="style-review-list">
-
-  <!-- Art Nouveau -->
-  <article class="style-review-row">
-
-    <div class="style-review-video">
-      <video controls preload="metadata">
-        <source src="imgs/art-nouveau.mp4" type="video/mp4">
-        Your browser does not support embedded video.
-      </video>
-    </div>
-
-    <div class="style-review-content" markdown="1">
-
-### Art Nouveau
-
-Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative borders, and integrated relationships between image and typography.
-
-#### Relevant links
-
-- [Art Nouveau overview](https://aesthetics.fandom.com/wiki/Art_Nouveau){:target="_blank"}  
-  A brief introduction to the movement, its historical context, and its main visual characteristics.
-
-- [Art Nouveau examples](https://www.google.com/search?tbm=isch&q=Art+Nouveau){:target="_blank"}  
-  A collection of posters, illustrations, architecture, and decorative design associated with the style.
-
-    </div>
-  </article>
-
-  <!-- DORFic -->
-  <article class="style-review-row">
-
-    <div class="style-review-video">
-      <video controls preload="metadata">
-        <source src="imgs/dorfic.mp4" type="video/mp4">
-        Your browser does not support embedded video.
-      </video>
-    </div>
-
-    <div class="style-review-content" markdown="1">
-
-### DORFic
-
-DORFic combines restrained geometry, fine lines, technological imagery, translucent layers, neutral space, and interface-like visual systems.
-
-#### Relevant links
-
-- [DORFic overview](https://aesthetics.fandom.com/wiki/DORFic){:target="_blank"}  
-  An introduction to the visual language and digital design context associated with DORFic.
-
-- [DORFic examples](https://www.google.com/search?tbm=isch&q=DORFic){:target="_blank"}  
-  Examples of layouts, interfaces, graphics, and technological imagery connected to the style.
-
-    </div>
-  </article>
-
-  <!-- Utopian Scholastic -->
-  <article class="style-review-row">
-
-    <div class="style-review-video">
-      <video controls preload="metadata">
-        <source src="imgs/utopian-scholastic.mp4" type="video/mp4">
-        Your browser does not support embedded video.
-      </video>
-    </div>
-
-    <div class="style-review-content" markdown="1">
-
-### Utopian Scholastic
-
-Utopian Scholastic uses diagrams, archival photographs, educational imagery, classical typography, labels, and carefully organized information.
-
-#### Relevant links
-
-- [Utopian Scholastic overview](https://aesthetics.fandom.com/wiki/Utopian_Scholastic){:target="_blank"}  
-  A description of the style’s use of educational, archival, scientific, and institutional visual references.
-
-- [Utopian Scholastic examples](https://www.google.com/search?tbm=isch&q=Utopian+Scholastic){:target="_blank"}  
-  Examples of editorial layouts, diagrams, informational graphics, and research-based compositions.
-
-    </div>
-  </article>
-
-  <!-- Memphis Design -->
-  <article class="style-review-row">
-
-    <div class="style-review-video">
-      <video controls preload="metadata">
-        <source src="imgs/memphis-design.mp4" type="video/mp4">
-        Your browser does not support embedded video.
-      </video>
-    </div>
-
-    <div class="style-review-content" markdown="1">
-
-### Memphis Design
-
-Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots, stripes, squiggles, and deliberately playful arrangements.
-
-#### Relevant links
-
-- [Memphis Design overview](https://aesthetics.fandom.com/wiki/Memphis_Design){:target="_blank"}  
-  An introduction to the Memphis Group and its response to restrained modernist design.
-
-- [Memphis Design examples](https://www.google.com/search?tbm=isch&q=Memphis+Design){:target="_blank"}  
-  Examples of furniture, graphic design, patterns, interiors, and visual compositions associated with the movement.
-
-    </div>
-  </article>
-
-  <!-- Olderbrothercore -->
-  <article class="style-review-row">
-
-    <div class="style-review-video">
-      <video controls preload="metadata">
-        <source src="imgs/olderbrothercore.mp4" type="video/mp4">
-        Your browser does not support embedded video.
-      </video>
-    </div>
-
-    <div class="style-review-content" markdown="1">
-
-### Olderbrothercore
-
-Olderbrothercore draws from early-2000s youth culture through lo-fi photographs, posters, stickers, screenshots, distressed textures, and layered media fragments.
-
-#### Relevant links
-
-- [Olderbrothercore overview](https://aesthetics.fandom.com/wiki/Olderbrothercore){:target="_blank"}  
-  A description of the style’s references to early digital culture, music, gaming, bedrooms, and personal media collections.
-
-- [Olderbrothercore examples](https://www.google.com/search?tbm=isch&q=Olderbrothercore){:target="_blank"}  
-  Examples of visual materials, layouts, objects, and media associated with the style.
-
-    </div>
-  </article>
-
-</div>
-
-> Video source: *The Supergraphics: Fine Art* by Harald Austad. Videos are included for educational review.
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SUB-SECTION C
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Review Samara’s Rules for Making Good Design</span>
-    <span class="section-description">
-      Review the ten rules assigned to this activity and consider how each one can guide your design decisions.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-The rules below are selected from Timothy Samara’s *20 Rules for Making Good Design*. Apply the assigned rules as practical guidelines rather than as fixed formulas.
-
-<div class="samara-rules-grid">
-
-  <!-- Rule 1 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-01.jpg"
-      alt="Timothy Samara rule 1: Have a concept"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>1. Have a concept</h3>
-      <p>
-        Begin with a clear idea. The composition, style, imagery, colour, and typography should support the same central concept.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 2 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-02.jpg"
-      alt="Timothy Samara rule 2: Communicate, do not decorate"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>2. Communicate—don’t decorate</h3>
-      <p>
-        Every visual element should contribute to the message. Avoid adding shapes, patterns, images, or effects without a clear purpose.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 3 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-03.jpg"
-      alt="Timothy Samara rule 3: Speak with one visual voice"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>3. Speak with one visual voice</h3>
-      <p>
-        Create consistency across the composition. Image, type, colour, texture, and spacing should feel connected to the same visual system.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 7 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-07.jpg"
-      alt="Timothy Samara rule 7: If you can do it with less, then do it"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>7. If you can do it with less, then do it</h3>
-      <p>
-        Remove unnecessary elements. A reduced composition can make the main idea, hierarchy, and relationships easier to understand.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 8 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-08.jpg"
-      alt="Timothy Samara rule 8: Negative space is magical"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>8. Negative space is magical—create it, don’t just fill it up</h3>
-      <p>
-        Treat empty space as an active part of the design. Use it to separate groups, establish emphasis, and clarify figure-and-ground relationships.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 11 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-11.jpg"
-      alt="Timothy Samara rule 11: Be universal, remember that it is not about you"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>11. Be universal; remember that it’s not about you</h3>
-      <p>
-        Consider the intended audience. Test whether the visual organization and message can be understood by someone who did not create the work.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 12 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-12.jpg"
-      alt="Timothy Samara rule 12: Squish and separate"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>12. Squish and separate</h3>
-      <p>
-        Use spacing to establish relationships. Place connected elements close together and create greater distance between unrelated groups.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 14 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-14.jpg"
-      alt="Timothy Samara rule 14: Be decisive"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>14. Be decisive. Do it on purpose—or don’t do it at all</h3>
-      <p>
-        Make visual decisions clearly. Scale, alignment, contrast, cropping, spacing, and repetition should appear intentional rather than accidental.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 15 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-15.jpg"
-      alt="Timothy Samara rule 15: Measure with your eyes"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>15. Measure with your eyes: design is visual</h3>
-      <p>
-        Mathematical alignment does not always appear visually balanced. Adjust scale, spacing, and placement according to how the composition is perceived.
-      </p>
-    </figcaption>
-  </figure>
-
-  <!-- Rule 16 -->
-  <figure class="samara-rule-card">
-    <img
-      src="imgs/samara-rule-16.jpg"
-      alt="Timothy Samara rule 16: Create images, do not scavenge"
-      loading="lazy"
-    >
-    <figcaption>
-      <h3>16. Create images—don’t scavenge</h3>
-      <p>
-        Create original visual material or substantially transform your sources. Avoid relying on unedited images collected from the internet.
-      </p>
-    </figcaption>
-  </figure>
-
-</div>
-
-> Source: Timothy Samara, *Design Elements: A Graphic Style Manual*. Images are included for educational review.
-
-</div>
-</details>
-
-</div>
 </details>
 
 
