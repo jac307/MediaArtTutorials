@@ -62,10 +62,6 @@ SUB-SECTION A
 
   <div class="section-content">
 
-    <p>
-      Review the six Gestalt principles used in this activity.
-    </p>
-
     <div class="gestalt-principles-grid">
 
       <!-- Emergence -->
@@ -455,7 +451,14 @@ SUB-SECTION A
         <blockquote>
           <p>
             <strong>Video source:</strong>
-            <em>The Supergraphics: Fine Art</em> by Harald Austad. Videos are included for educational review.
+            <a
+              href="https://www.instagram.com/thesupergraphics/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <em>The Supergraphics: Fine Art</em> by Harald Austad
+            </a>.
+            Videos are included for educational review.
           </p>
         </blockquote>
 
@@ -488,7 +491,7 @@ SUB-SECTION A
           <!-- Rule 1 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-01.jpg"
+              src="imgs/samara-rule-01.png"
               alt="Timothy Samara rule 1: Have a concept"
               loading="lazy"
             >
@@ -503,7 +506,7 @@ SUB-SECTION A
           <!-- Rule 2 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-02.jpg"
+              src="imgs/samara-rule-02.png"
               alt="Timothy Samara rule 2: Communicate, do not decorate"
               loading="lazy"
             >
@@ -518,7 +521,7 @@ SUB-SECTION A
           <!-- Rule 3 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-03.jpg"
+              src="imgs/samara-rule-03.png"
               alt="Timothy Samara rule 3: Speak with one visual voice"
               loading="lazy"
             >
@@ -533,7 +536,7 @@ SUB-SECTION A
           <!-- Rule 7 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-07.jpg"
+              src="imgs/samara-rule-07.png"
               alt="Timothy Samara rule 7: If you can do it with less, then do it"
               loading="lazy"
             >
@@ -548,7 +551,7 @@ SUB-SECTION A
           <!-- Rule 8 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-08.jpg"
+              src="imgs/samara-rule-08.png"
               alt="Timothy Samara rule 8: Negative space is magical"
               loading="lazy"
             >
@@ -563,7 +566,7 @@ SUB-SECTION A
           <!-- Rule 11 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-11.jpg"
+              src="imgs/samara-rule-11.png"
               alt="Timothy Samara rule 11: Be universal, remember that it is not about you"
               loading="lazy"
             >
@@ -578,7 +581,7 @@ SUB-SECTION A
           <!-- Rule 12 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-12.jpg"
+              src="imgs/samara-rule-12.png"
               alt="Timothy Samara rule 12: Squish and separate"
               loading="lazy"
             >
@@ -593,7 +596,7 @@ SUB-SECTION A
           <!-- Rule 14 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-14.jpg"
+              src="imgs/samara-rule-14.png"
               alt="Timothy Samara rule 14: Be decisive"
               loading="lazy"
             >
@@ -608,7 +611,7 @@ SUB-SECTION A
           <!-- Rule 15 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-15.jpg"
+              src="imgs/samara-rule-15.png"
               alt="Timothy Samara rule 15: Measure with your eyes"
               loading="lazy"
             >
@@ -623,7 +626,7 @@ SUB-SECTION A
           <!-- Rule 16 -->
           <figure class="samara-rule-card">
             <img
-              src="imgs/samara-rule-16.jpg"
+              src="imgs/samara-rule-16.png"
               alt="Timothy Samara rule 16: Create images, do not scavenge"
               loading="lazy"
             >
