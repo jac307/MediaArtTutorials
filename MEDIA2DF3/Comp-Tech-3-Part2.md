@@ -49,6 +49,22 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
+<!-- 
+/////////////////
+SUB-SECTION A
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">A. Review the Gestalt principles</span>
+    <span class="section-description">
+      Review how visual information is grouped, transformed, simplified, ordered, and directed.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
 Select an example to review its definition.
 
 <div class="interactive-image" data-interactive-image>
@@ -223,6 +239,163 @@ Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org
 
 </div>
 </details>
+
+<!-- 
+/////////////////
+SUB-SECTION B
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Review the Art Styles</span>
+    <span class="section-description">
+      Review the visual characteristics, historical context, and design approaches associated with the five styles used in this activity.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Select each video to review the style before choosing an option for your compositions.
+
+<div class="media-grid media-grid--two">
+
+  <article class="media-card">
+
+    <video controls preload="metadata">
+      <source src="imgs/styles/art-nouveau.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <div class="media-card-content" markdown="1">
+
+### Art Nouveau
+
+Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative borders, and integrated relationships between image and typography.
+
+#### Relevant links
+
+- [Art Nouveau overview](REPLACE-WITH-LINK){:target="_blank"}  
+  A brief introduction to the movement, its historical context, and its main visual characteristics.
+
+- [Art Nouveau examples](REPLACE-WITH-LINK){:target="_blank"}  
+  A collection of posters, illustrations, architecture, and decorative design associated with the style.
+
+    </div>
+  </article>
+
+  <article class="media-card">
+
+    <video controls preload="metadata">
+      <source src="imgs/styles/dorfic.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <div class="media-card-content" markdown="1">
+
+### DORFic
+
+DORFic combines restrained geometry, fine lines, technological imagery, translucent layers, neutral space, and interface-like visual systems.
+
+#### Relevant links
+
+- [DORFic overview](REPLACE-WITH-LINK){:target="_blank"}  
+  An introduction to the visual language and digital design context associated with DORFic.
+
+- [DORFic examples](REPLACE-WITH-LINK){:target="_blank"}  
+  Examples of layouts, interfaces, graphics, and technological imagery connected to the style.
+
+    </div>
+  </article>
+
+  <article class="media-card">
+
+    <video controls preload="metadata">
+      <source src="imgs/styles/utopian-scholastic.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <div class="media-card-content" markdown="1">
+
+### Utopian Scholastic
+
+Utopian Scholastic uses diagrams, archival photographs, educational imagery, classical typography, labels, and carefully organized information.
+
+#### Relevant links
+
+- [Utopian Scholastic overview](REPLACE-WITH-LINK){:target="_blank"}  
+  A description of the style’s use of educational, archival, scientific, and institutional visual references.
+
+- [Utopian Scholastic examples](REPLACE-WITH-LINK){:target="_blank"}  
+  Examples of editorial layouts, diagrams, informational graphics, and research-based compositions.
+
+    </div>
+  </article>
+
+  <article class="media-card">
+
+    <video controls preload="metadata">
+      <source src="imgs/styles/memphis-design.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <div class="media-card-content" markdown="1">
+
+### Memphis Design
+
+Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots, stripes, squiggles, and deliberately playful arrangements.
+
+#### Relevant links
+
+- [Memphis Design overview](REPLACE-WITH-LINK){:target="_blank"}  
+  An introduction to the Memphis Group and its response to restrained modernist design.
+
+- [Memphis Design examples](REPLACE-WITH-LINK){:target="_blank"}  
+  Examples of furniture, graphic design, patterns, interiors, and visual compositions associated with the movement.
+
+    </div>
+  </article>
+
+  <article class="media-card">
+
+    <video controls preload="metadata">
+      <source src="imgs/styles/olderbrothercore.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <div class="media-card-content" markdown="1">
+
+### Olderbrothercore
+
+Olderbrothercore draws from early-2000s youth culture through lo-fi photographs, posters, stickers, screenshots, distressed textures, and layered media fragments.
+
+#### Relevant links
+
+- [Olderbrothercore overview](REPLACE-WITH-LINK){:target="_blank"}  
+  A description of the style’s references to early digital culture, music, gaming, bedrooms, and personal media collections.
+
+- [Olderbrothercore examples](REPLACE-WITH-LINK){:target="_blank"}  
+  Examples of visual materials, layouts, objects, and media associated with the style.
+
+    </div>
+  </article>
+
+</div>
+
+> Video source: *The Supergraphics: Fine Art* by Harald Austad. Videos are included for educational review.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SUB-SECTION C
+/////////////////
+-->
+
+</div>
+</details>
+
 
 <!-- 
 /////////////////
