@@ -402,6 +402,183 @@ Olderbrothercore draws from early-2000s youth culture through lo-fi photographs,
 </div>
 </details>
 
+<!-- 
+/////////////////
+SUB-SECTION C
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Review Samara’s Rules for Making Good Design</span>
+    <span class="section-description">
+      Review the ten rules assigned to this activity and consider how each one can guide your design decisions.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+The rules below are selected from Timothy Samara’s *20 Rules for Making Good Design*. Apply the assigned rules as practical guidelines rather than as fixed formulas.
+
+<div class="samara-rules-grid">
+
+  <!-- Rule 1 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-01.jpg"
+      alt="Timothy Samara rule 1: Have a concept"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>1. Have a concept</h3>
+      <p>
+        Begin with a clear idea. The composition, style, imagery, colour, and typography should support the same central concept.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 2 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-02.jpg"
+      alt="Timothy Samara rule 2: Communicate, do not decorate"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>2. Communicate—don’t decorate</h3>
+      <p>
+        Every visual element should contribute to the message. Avoid adding shapes, patterns, images, or effects without a clear purpose.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 3 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-03.jpg"
+      alt="Timothy Samara rule 3: Speak with one visual voice"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>3. Speak with one visual voice</h3>
+      <p>
+        Create consistency across the composition. Image, type, colour, texture, and spacing should feel connected to the same visual system.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 7 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-07.jpg"
+      alt="Timothy Samara rule 7: If you can do it with less, then do it"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>7. If you can do it with less, then do it</h3>
+      <p>
+        Remove unnecessary elements. A reduced composition can make the main idea, hierarchy, and relationships easier to understand.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 8 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-08.jpg"
+      alt="Timothy Samara rule 8: Negative space is magical"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>8. Negative space is magical—create it, don’t just fill it up</h3>
+      <p>
+        Treat empty space as an active part of the design. Use it to separate groups, establish emphasis, and clarify figure-and-ground relationships.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 11 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-11.jpg"
+      alt="Timothy Samara rule 11: Be universal, remember that it is not about you"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>11. Be universal; remember that it’s not about you</h3>
+      <p>
+        Consider the intended audience. Test whether the visual organization and message can be understood by someone who did not create the work.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 12 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-12.jpg"
+      alt="Timothy Samara rule 12: Squish and separate"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>12. Squish and separate</h3>
+      <p>
+        Use spacing to establish relationships. Place connected elements close together and create greater distance between unrelated groups.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 14 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-14.jpg"
+      alt="Timothy Samara rule 14: Be decisive"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>14. Be decisive. Do it on purpose—or don’t do it at all</h3>
+      <p>
+        Make visual decisions clearly. Scale, alignment, contrast, cropping, spacing, and repetition should appear intentional rather than accidental.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 15 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-15.jpg"
+      alt="Timothy Samara rule 15: Measure with your eyes"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>15. Measure with your eyes: design is visual</h3>
+      <p>
+        Mathematical alignment does not always appear visually balanced. Adjust scale, spacing, and placement according to how the composition is perceived.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Rule 16 -->
+  <figure class="samara-rule-card">
+    <img
+      src="imgs/samara-rule-16.jpg"
+      alt="Timothy Samara rule 16: Create images, do not scavenge"
+      loading="lazy"
+    >
+    <figcaption>
+      <h3>16. Create images—don’t scavenge</h3>
+      <p>
+        Create original visual material or substantially transform your sources. Avoid relying on unedited images collected from the internet.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+> Source: Timothy Samara, *Design Elements: A Graphic Style Manual*. Images are included for educational review.
+
+</div>
+</details>
+
 </div>
 </details>
 

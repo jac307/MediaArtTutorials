@@ -1419,3 +1419,56 @@ main:focus-visible {
   }
 }
 
+/* Timothy Samara rules */
+
+.samara-rules-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.samara-rule-card {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--border-color, #d8d8d8);
+  border-radius: 0.75rem;
+  background: var(--card-background, #fff);
+}
+
+.samara-rule-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #f2f2f2;
+}
+
+.samara-rule-card figcaption {
+  flex: 1;
+  padding: 1rem;
+}
+
+.samara-rule-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.samara-rule-card p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .samara-rules-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .samara-rules-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
