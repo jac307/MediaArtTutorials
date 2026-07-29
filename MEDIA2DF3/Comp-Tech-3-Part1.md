@@ -4,7 +4,7 @@
 
 ![Examples from previous Composition Techniques III activities](imgs/19.jpg)
 
-**Goal:** Create **three digital compositions** that apply Gestalt principles through three different design formats.
+**Goal:** Design and create **three digital compositions** that integrate visual styles, Gestalt principles, and practical design rules across three different formats.
 
 Each composition must combine:
 
@@ -12,12 +12,12 @@ Each composition must combine:
 - **One style pairing** from the five options provided
 - **Two Gestalt principles** assigned to that style
 - **Two rules** from Timothy Samara’s *20 Rules for Making Good Design*
-- **One clear concept**
+- **One clear concept** that guides the visual and formal decisions
 
 ## Activity overview
 
 - **Outputs:** Three sketches and three digital compositions
-- **Formats:** One graphic design, one UI design, and one photomontage
+- **Formats:** One logo, one one-page website mockup, and one photomontage
 - **Style options:** Art Nouveau, DORFic, Utopian Scholastic, Memphis Design, and Olderbrothercore
 - **Gestalt principles:** Emergence, Closure, Continuity, Proximity, Similarity, and Figure/Ground
 - **Software:** Adobe Illustrator and Adobe Photoshop
@@ -918,7 +918,7 @@ Embed all linked images before exporting.
 
 | Setting | Requirement |
 |---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part1-Logo` |
+| Filename | `Lastname-Firstname-CompTech3-Logo` |
 | Units | Pixels |
 | Size | 1000 × 1000 px |
 | Aspect ratio | 1:1 |
@@ -957,7 +957,7 @@ SUB-SECTION B
 
 Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may be used to prepare images and textures.
 
-Embed all linked images before exporting.
+> **Embed all linked images before exporting**. You will loose point if images are not embed it.
 
 ![Website document setup reference](imgs/website.png)
 
@@ -965,7 +965,7 @@ Embed all linked images before exporting.
 
 | Setting | Requirement |
 |---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part1-Website` |
+| Filename | `Lastname-Firstname-CompTech3-Website` |
 | Units | Pixels |
 | Size | 1920 × 1080 px |
 | Bleed | 10 px on all sides |
@@ -1023,7 +1023,7 @@ The original photograph must remain identifiable within the final composition, e
 
 | Setting | Requirement |
 |---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part1-Photomontage` |
+| Filename | `Lastname-Firstname-CompTech3-Photomontage` |
 | Units | Inches |
 | Size | 11 × 17 in vertical or 17 × 11 in horizontal |
 | Resolution | 300 PPI |
