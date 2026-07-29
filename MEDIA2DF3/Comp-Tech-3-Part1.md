@@ -777,69 +777,6 @@ Use each selected pairing once:
 
 Consider how the characteristics of each style support the format. A style that depends on simplified forms may work well for a logo, while a style based on layered images and textures may be more appropriate for a photomontage.
 
-## Define the concept
-
-Before sketching, write one sentence stating what each composition communicates.
-
-The concept may describe:
-
-- An event
-- An organization
-- A service
-- A place
-- A product
-- An interface
-- A campaign
-- A public message
-
-For each composition, identify:
-
-<fieldset class="equipment-checklist">
-  <legend>Concept and format planning</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Purpose</strong>
-      State what the logo, website, or photomontage is intended to communicate or accomplish.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Audience</strong>
-      Identify who is expected to view or use the design.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Style pairing</strong>
-      Name the selected style, Gestalt principles, and Samara rules.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Connection between concept and style</strong>
-      Explain how the selected visual style supports the subject, purpose, or message.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Connection between concept and format</strong>
-      Explain why the idea is appropriate for a logo, website, or photomontage.
-    </span>
-  </label>
-</fieldset>
-
-The style, format, Gestalt principles, and Samara rules must support the concept. Do not begin by selecting decorative elements without first deciding what the composition communicates.
-
 </div>
 </details>
 
@@ -851,127 +788,88 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Sketch the three compositions</span>
+    <span class="section-title">4. Plan and sketch the three compositions</span>
     <span class="section-description">
-      Create one annotated sketch for each composition before beginning the final digital files.
+      Define the concept and create one annotated sketch for each required format.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Create **one simple sketch for each of the three compositions**:
+Create one planning sketch for each composition:
 
 - One logo
 - One one-page website
 - One photomontage
 
-The sketches are planning documents. They do not need to be highly detailed or polished, but they must clearly show the intended structure and include written notes.
+The sketches may be drawn by hand, photographed or scanned, or created digitally. They do not need to be polished, but the structure and written notes must be clear.
 
-## Create the sketches
-
-Sketch in a physical or digital notebook. Each sketch may be:
-
-- Drawn by hand and photographed
-- Drawn by hand and scanned
-- Created digitally
-
-Use simple shapes, lines, labels, and arrows to plan the main areas of the composition.
-
-Each sketch should show:
-
-- Placement of images and text
-- Main visual hierarchy
-- Grouping of elements
-- Direction and movement
-- Use of negative space
-- Approximate colour areas
-- Important shapes, textures, or visual details
+Use simple shapes, lines, labels, and arrows to show where the main elements will appear.
 
 <fieldset class="equipment-checklist">
-  <legend>Required notes for each sketch</legend>
+  <legend>Planning requirements for each composition</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Format</strong>
-      Identify whether the sketch is for the logo, one-page website, or photomontage.
+      <strong>Identify the format.</strong>
+      State whether the sketch is for the logo, one-page website, or photomontage.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Concept</strong>
-      Write one sentence stating what the composition communicates.
+      <strong>Define the concept and audience.</strong>
+      Write one sentence explaining what the composition communicates and who it is intended for.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Audience</strong>
-      Identify who is expected to view or use the design.
+      <strong>Identify the style pairing.</strong>
+      Name the selected style, two Gestalt principles, and two Samara rules.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Style pairing</strong>
-      Name the selected style and list at least three visual characteristics you plan to use.
+      <strong>Draw the main structure.</strong>
+      Show the placement of images, text, shapes, sections, and other important elements.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Gestalt principles</strong>
-      Identify the two assigned principles and label where they appear in the sketch.
+      <strong>Mark the visual organization.</strong>
+      Identify the focal area, reading order, grouping, movement, and negative space.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Samara rules</strong>
-      Identify the two assigned rules and briefly note how each one will guide the design.
+      <strong>Add visual notes.</strong>
+      Include brief notes about the planned colours, imagery, textures, typography, and recognizable characteristics of the selected style.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Hierarchy and movement</strong>
-      Mark the main focal area, reading order, grouping, negative space, and directional path.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Colour, imagery, and typography</strong>
-      Add brief notes about the planned colours, images, textures, shapes, and type choices.
+      <strong>Prepare the sketches for submission.</strong>
+      Photograph, scan, or export the sketches clearly, then combine them into one three-page PDF in the following order: logo, one-page website, and photomontage.
     </span>
   </label>
 </fieldset>
 
-## Prepare the sketches for submission
+Save the completed planning document as:
 
-When using physical sketches:
-
-1. Photograph or scan each page in clear, even light.
-2. Crop the image to remove the table, notebook edges, and surrounding objects.
-3. Correct the orientation and perspective.
-4. Confirm that the drawing and notes are readable.
-
-Combine the three sketches into one PDF.
-
-| Setting | Requirement |
-|---|---|
-| Format | PDF |
-| Pages | Three |
-| Page order | Logo, one-page website, photomontage |
-| Filename | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
+- **Format:** PDF
+- **Filename:** `Lastname-Firstname-CompTech3-Part1-Sketches.pdf`
 
 Ask the instructor for feedback before beginning the final digital compositions.
 
