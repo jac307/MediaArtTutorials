@@ -890,13 +890,31 @@ SECTION 5
     </span>
   </summary>
 
+<div class="section-content">
+
+<!-- 
+/////////////////
+SUB-SECTION A
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Graphic Design: Logo</span>
+    <span class="section-description">
+      Set up the Illustrator document and review the tutorials required to create the logo.
+    </span>
+  </summary>
+
 <div class="section-content" markdown="1">
 
-## Graphic design
+Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare raster images.
 
-Use Adobe Illustrator. Adobe Photoshop may be used to prepare raster images. Embed all linked images before exporting.
+Embed all linked images before exporting.
 
-### Logo
+![Logo document setup reference](imgs/logo.png)
+
+### Document setup
 
 | Setting | Requirement |
 |---|---|
@@ -912,17 +930,38 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare raster images. Emb
 
 ### Graphic design tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6" title="Graphic design tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AUxtDCyaPFg?si=u9MD48P1sKyNpx8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AUxtDCyaPFg?si=u9MD48P1sKyNpx8K" title="Graphic design tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/svd4WQE_92Y?si=O0_aL82zce8HYo40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/svd4WQE_92Y?si=O0_aL82zce8HYo40" title="Graphic design tutorial 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## UI design
+</div>
+</details>
 
-Use Adobe Illustrator. Adobe Photoshop may be used to prepare images and textures. Embed all linked images before exporting.
+<!-- 
+/////////////////
+SUB-SECTION B
+/////////////////
+-->
 
-### Website
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">UI Design: One-Page Website</span>
+    <span class="section-description">
+      Set up the Illustrator document for the one-page website mockup.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may be used to prepare images and textures.
+
+Embed all linked images before exporting.
+
+![Website document setup reference](imgs/website.png)
+
+### Document setup
 
 | Setting | Requirement |
 |---|---|
@@ -935,15 +974,50 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare images and texture
 | Guides | Inner rectangular border 50 px from the edges |
 | Layers | Guides, Composition, Background |
 
-## Photomontage
+</div>
+</details>
 
-Create a photomontage in Adobe Photoshop using photographs, textures, image fragments, and graphic elements.
+<!-- 
+/////////////////
+SUB-SECTION C
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Photomontage</span>
+    <span class="section-description">
+      Take an original DSLR photograph and set up the layered Photoshop document.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Create the photomontage in Adobe Photoshop using photographs, textures, image fragments, and graphic elements.
 
 The final composition must include **at least one original photograph taken specifically for this activity**.
 
+The following files are required for submission:
+
+- The completed photomontage
+- The layered Photoshop document
+- The original, unedited camera file
+
+![Photomontage document setup reference](imgs/photomontage.png)
+
 ### Original photography requirement
 
-Book and use a **Canon EOS Rebel T4i DSLR camera** to create the original photograph.
+Book and use a **Canon EOS Rebel T4i DSLR camera**.
+
+Set the camera to **Aperture Priority (`Av`) mode** and photograph a subject, object, texture, place, or environment that supports the concept of the photomontage.
+
+The original photograph must remain identifiable within the final composition, even when it is cropped, layered, adjusted, or transformed.
+
+### Camera tutorials
+
+- [Canon Rebel T4i Quick Reference Guide](https://jac307.github.io/summer-camp/tutorials/Photography/00_Canon_T4i_Quick_Reference.html){:target="_blank"}
+- [Canon Rebel T4i Camera and Lens Anatomy](https://jac307.github.io/summer-camp/tutorials/Photography/01_Camera_and_Lens_Anatomy.html){:target="_blank"}
+- [Camera Setup and Aperture Priority Mode](https://jac307.github.io/summer-camp/tutorials/Photography/02_Camera_Setup_and_Av_Mode.html){:target="_blank"}
 
 ### Photoshop document setup
 
@@ -958,9 +1032,12 @@ Book and use a **Canon EOS Rebel T4i DSLR camera** to create the original photog
 
 ### Photomontage tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/icNXrgD08qE?si=m7zAQ1JK1wQHwAP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/icNXrgD08qE?si=m7zAQ1JK1wQHwAP4" title="Photomontage tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOYz669WNpU?si=24OeqEx7oEo1Qe7n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOYz669WNpU?si=24OeqEx7oEo1Qe7n" title="Photomontage tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+</details>
 
 </div>
 </details>
