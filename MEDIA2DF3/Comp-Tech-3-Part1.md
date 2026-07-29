@@ -23,9 +23,11 @@ Each composition must combine:
 - **Outputs:** Three sketches and three digital compositions
 - **Formats:** One graphic design, one UI design, and one photomontage
 - **Style options:** Art Nouveau, DORFic, Utopian Scholastic, Memphis Design, and Olderbrothercore
-- **Gestalt principles:** Proximity, Similarity, Continuity, Closure, Figure/Ground, and Prägnanz
+- **Gestalt principles:** Emergence, Closure, Continuity, Proximity, Similarity, and Figure/Ground
 - **Software:** Adobe Illustrator and Adobe Photoshop
 - **Colour:** Full colour is permitted
+- **Work period:** During class, with additional work completed before the deadline
+- **Submission:** Sketch PDF, three composition PDFs, and written descriptions on Avenue to Learn
 
 ## Activity stages
 
@@ -41,13 +43,183 @@ SECTION 1
   <summary>
     <span class="section-title">1. Review the Gestalt principles</span>
     <span class="section-description">
-      Review how visual elements are grouped, completed, and separated through perception.
+      Review how recognizable forms and groups emerge through visual organization.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
+Select an example to review its definition.
 
+<div class="interactive-image" data-interactive-image>
+  <div
+    class="interactive-image__choices"
+    role="group"
+    aria-label="Week 7 Gestalt principles"
+  >
+    <button
+      class="image-choice is-active"
+      type="button"
+      data-target="gestalt-w7-emergence"
+      aria-controls="gestalt-w7-emergence"
+      aria-pressed="true"
+    >
+      <img
+        src="imgs/gestalt-w7-emergence.jpg"
+        alt="Black shapes forming the image of a Dalmatian to demonstrate emergence"
+      >
+      <span class="image-choice__label">Emergence</span>
+    </button>
+
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w7-closure"
+      aria-controls="gestalt-w7-closure"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w7-closure.jpg"
+        alt="Incomplete outlines of a square, circle, and triangle demonstrating closure"
+      >
+      <span class="image-choice__label">Closure</span>
+    </button>
+
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w7-continuity"
+      aria-controls="gestalt-w7-continuity"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w7-continuity.jpg"
+        alt="Crossing curves and a directional path demonstrating continuity"
+      >
+      <span class="image-choice__label">Continuity</span>
+    </button>
+
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w7-proximity"
+      aria-controls="gestalt-w7-proximity"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w7-proximity.jpg"
+        alt="Grey squares arranged at different distances to demonstrate proximity"
+      >
+      <span class="image-choice__label">Proximity</span>
+    </button>
+
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w7-similarity"
+      aria-controls="gestalt-w7-similarity"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w7-similarity.jpg"
+        alt="Rows of grey and blue squares demonstrating similarity through colour"
+      >
+      <span class="image-choice__label">Similarity</span>
+    </button>
+
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w7-figure-ground"
+      aria-controls="gestalt-w7-figure-ground"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w7-figure-ground.jpg"
+        alt="Rubin vase image showing a vase or two facing profiles"
+      >
+      <span class="image-choice__label">Figure/Ground</span>
+    </button>
+  </div>
+
+  <div
+    class="interactive-image__information"
+    aria-live="polite"
+  >
+    <section
+      id="gestalt-w7-emergence"
+      class="image-information-panel"
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Emergence</h3>
+      <p>
+        The viewer perceives a recognizable whole before identifying its individual parts. A larger image or form emerges from separate visual elements.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w7-closure"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Closure</h3>
+      <p>
+        The viewer fills gaps and completes incomplete forms when enough information suggests a recognizable whole.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w7-continuity"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Continuity</h3>
+      <p>
+        Elements that follow the same line, curve, or direction are perceived as connected. The eye continues along the path even when it is interrupted.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w7-proximity"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Proximity</h3>
+      <p>
+        Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w7-similarity"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Similarity</h3>
+      <p>
+        Elements that share colour, shape, size, texture, or direction are perceived as related.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w7-figure-ground"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Figure/Ground</h3>
+      <p>
+        The viewer separates a subject from its surrounding field. The relationship may remain stable or shift between two interpretations.
+      </p>
+    </section>
+  </div>
+</div>
+
+Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org/literature/topics/gestalt-principles){:target="_blank"}.
 
 </div>
 </details>
@@ -73,7 +245,7 @@ Choose **three of the five options** below. You may apply the selected pairings 
 | Option | Leading style | Gestalt principles | Samara rules | Required visual direction |
 |---|---|---|---|---|
 | **1** | **Art Nouveau** | Continuity + Closure | **3. Speak with one visual voice.**<br>**14. Be decisive. Do it on purpose—or don’t do it at all.** | Use flowing lines, organic shapes, decorative borders, repeated botanical forms, and partial contours. Lines should connect elements and guide the eye. |
-| **2** | **DORFic** | Figure/Ground + Prägnanz | **7. If you can do it with less, then do it.**<br>**8. Negative space is magical—create it, don’t just fill it up.** | Use restrained geometry, fine lines, technical imagery, translucent layers, and substantial negative space. Keep the structure clear and minimal. |
+| **2** | **DORFic** | Figure/Ground + Emergence | **7. If you can do it with less, then do it.**<br>**8. Negative space is magical—create it, don’t just fill it up.** | Use restrained geometry, fine lines, technical imagery, translucent layers, and substantial negative space. Build a larger readable form or system from simplified parts. |
 | **3** | **Utopian Scholastic** | Proximity + Similarity | **1. Have a concept.**<br>**11. Be universal; remember that it’s not about you.** | Organize photographs, diagrams, labels, symbols, and educational imagery into clear groups. Use spacing and repetition to support quick understanding. |
 | **4** | **Memphis Design** | Similarity + Figure/Ground | **2. Communicate—don’t decorate.**<br>**15. Measure with your eyes: design is visual.** | Use repeated geometric forms, dots, stripes, squiggles, and strong contrast. Decorative elements must support the concept and hierarchy. |
 | **5** | **Olderbrothercore** | Proximity + Closure | **12. Squish and separate.**<br>**16. Create images—don’t scavenge.** | Use lo-fi photographs, labels, interface fragments, distressed textures, cropped imagery, and layered media. Create or substantially transform the visual material. |

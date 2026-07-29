@@ -23,26 +23,11 @@ Each composition must combine:
 - **Outputs:** Three sketches and three digital compositions
 - **Formats:** One graphic design, one UI design, and one photomontage
 - **Style options:** Atomic Age, Wacky PoMo, Whimsigoth, Synthwave, and Solarpunk
-- **Gestalt principles:** Symmetry, Connectedness, Common Region, Focal Point, and Common Fate
+- **Gestalt principles:** Common Region, Multistability, Invariance, Prägnanz, Symmetry and Order, and Common Fate
 - **Software:** Adobe Illustrator and Adobe Photoshop
 - **Colour:** Full colour is permitted
 - **Work period:** During class, with additional work completed before the deadline
 - **Submission:** Sketch PDF, three composition PDFs, and written descriptions on Avenue to Learn
-
-## Required composition formula
-
-Use the following formula for each composition:
-
-> **One format + one style pairing + two Gestalt principles + two Samara rules + one concept**
-
-Across the three compositions:
-
-- Select **three different style pairings** from the five options.
-- Use each selected pairing only once.
-- Complete one work in each required format.
-- Apply at least **three recognizable characteristics** of the selected style.
-- Make both Gestalt principles visible in the composition.
-- Apply both Samara rules as design decisions, not only as written explanations.
 
 ## Activity stages
 
@@ -58,33 +43,183 @@ SECTION 1
   <summary>
     <span class="section-title">1. Review the Gestalt principles</span>
     <span class="section-description">
-      Review how visual elements are balanced, linked, contained, emphasized, and directed.
+      Review how visual information is grouped, transformed, simplified, ordered, and directed.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-![Reference diagram for the Week 8 Gestalt principles](imgs/22.png)
+Select an example to review its definition.
 
-## Symmetry
+<div class="interactive-image" data-interactive-image>
+  <div
+    class="interactive-image__choices"
+    role="group"
+    aria-label="Week 8 Gestalt principles"
+  >
+    <button
+      class="image-choice is-active"
+      type="button"
+      data-target="gestalt-w8-common-region"
+      aria-controls="gestalt-w8-common-region"
+      aria-pressed="true"
+    >
+      <img
+        src="imgs/gestalt-w8-common-region.jpg"
+        alt="A group of squares enclosed by a shared boundary to demonstrate common region"
+      >
+      <span class="image-choice__label">Common Region</span>
+    </button>
 
-Elements are arranged around an axis or centre. Symmetry may be exact, approximate, radial, or deliberately interrupted.
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w8-multistability"
+      aria-controls="gestalt-w8-multistability"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w8-multistability.jpg"
+        alt="A Necker cube that can be interpreted from different viewpoints"
+      >
+      <span class="image-choice__label">Multistability</span>
+    </button>
 
-## Connectedness
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w8-invariance"
+      aria-controls="gestalt-w8-invariance"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w8-invariance.jpg"
+        alt="Variations of the same object shown at different sizes, angles, and distortions"
+      >
+      <span class="image-choice__label">Invariance</span>
+    </button>
 
-Elements joined by lines, shapes, paths, or shared surfaces are perceived as belonging together.
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w8-pragnanz"
+      aria-controls="gestalt-w8-pragnanz"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w8-pragnanz.jpg"
+        alt="Overlapping circles reorganized into the simpler structure of the Olympic rings"
+      >
+      <span class="image-choice__label">Prägnanz</span>
+    </button>
 
-## Common Region
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w8-symmetry-order"
+      aria-controls="gestalt-w8-symmetry-order"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w8-symmetry-order.jpg"
+        alt="Bracket forms arranged symmetrically around a central axis"
+      >
+      <span class="image-choice__label">Symmetry and Order</span>
+    </button>
 
-Elements placed inside the same boundary or field are perceived as a group.
+    <button
+      class="image-choice"
+      type="button"
+      data-target="gestalt-w8-common-fate"
+      aria-controls="gestalt-w8-common-fate"
+      aria-pressed="false"
+    >
+      <img
+        src="imgs/gestalt-w8-common-fate.jpg"
+        alt="Rows of arrows pointing in shared and opposing directions to demonstrate common fate"
+      >
+      <span class="image-choice__label">Common Fate</span>
+    </button>
+  </div>
 
-## Focal Point
+  <div
+    class="interactive-image__information"
+    aria-live="polite"
+  >
+    <section
+      id="gestalt-w8-common-region"
+      class="image-information-panel"
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Common Region</h3>
+      <p>
+        Elements within the same enclosed area are perceived as one group, even when they differ in appearance.
+      </p>
+    </section>
 
-A dominant element attracts attention through contrast, position, scale, colour, detail, or isolation.
+    <section
+      id="gestalt-w8-multistability"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Multistability</h3>
+      <p>
+        An ambiguous image supports two or more meaningful interpretations. Perception shifts between them rather than holding them at the same time.
+      </p>
+    </section>
 
-## Common Fate
+    <section
+      id="gestalt-w8-invariance"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Invariance</h3>
+      <p>
+        A form remains recognizable despite changes in scale, rotation, position, distortion, lighting, or detail.
+      </p>
+    </section>
 
-Elements moving or pointing in the same direction are perceived as related. In static compositions, direction and repeated orientation can imply shared movement.
+    <section
+      id="gestalt-w8-pragnanz"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Prägnanz</h3>
+      <p>
+        The viewer organizes complex information into the clearest, simplest, and most regular structure available.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w8-symmetry-order"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Symmetry and Order</h3>
+      <p>
+        Elements arranged symmetrically are perceived as related and orderly. A shared axis or balanced structure strengthens the grouping.
+      </p>
+    </section>
+
+    <section
+      id="gestalt-w8-common-fate"
+      class="image-information-panel"
+      hidden
+    >
+      <p class="image-information-panel__number">Gestalt principle</p>
+      <h3>Common Fate</h3>
+      <p>
+        Elements moving or pointing in the same direction are perceived as related. Static forms can imply shared movement through orientation and directional cues.
+      </p>
+    </section>
+  </div>
+</div>
+
+Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org/literature/topics/gestalt-principles){:target="_blank"}.
 
 </div>
 </details>
@@ -109,15 +244,15 @@ Choose **three of the five options** below. You may apply the selected pairings 
 
 | Option | Leading style | Gestalt principles | Samara rules | Required visual direction |
 |---|---|---|---|---|
-| **1** | **Atomic Age** | Symmetry + Focal Point | **19. Look to history, but don’t repeat it.**<br>**20. Symmetry is the ultimate evil.** | Use starbursts, orbital forms, boomerangs, atomic symbols, central motifs, and radiating lines. Begin with symmetry, then interrupt or offset it to avoid a static result. |
-| **2** | **Wacky PoMo** | Focal Point + Common Fate | **5. Use the one-two punch.**<br>**18. Move it! Static equals dull.** | Use exaggerated scale, tilted forms, splats, spirals, arrows, cartoon imagery, and energetic paths. Establish one dominant element and a clear secondary element. |
-| **3** | **Whimsigoth** | Symmetry + Common Region | **6. Pick colours on purpose.**<br>**13. Distribute light and dark like firecrackers and the rising sun.** | Use celestial symbols, mirrored arrangements, decorative frames, dark backgrounds, layered textures, and luminous details. Use tonal fields and boundaries to organize the composition. |
-| **4** | **Synthwave** | Connectedness + Common Fate | **4. Use two typeface families maximum. OK, maybe three.**<br>**9. Treat type as image, as though it’s just as important.** | Use perspective grids, horizon lines, central suns, dimensional type, and elements directed toward a shared vanishing point. Integrate typography into the visual structure. |
-| **5** | **Solarpunk** | Connectedness + Common Region | **10. Type is only type when it’s friendly.**<br>**17. Ignore fashion. Seriously.** | Use ecological networks, renewable technologies, architecture, vegetation, shared spaces, and connected systems. Build a specific social or ecological concept rather than a generic green aesthetic. |
+| **1** | **Atomic Age** | Symmetry and Order + Prägnanz | **19. Look to history, but don’t repeat it.**<br>**20. Symmetry is the ultimate evil.** | Use starbursts, orbital forms, boomerangs, atomic symbols, central motifs, and radiating lines. Establish order through symmetry, then simplify or interrupt the structure to avoid a static result. |
+| **2** | **Wacky PoMo** | Multistability + Common Fate | **5. Use the one-two punch.**<br>**18. Move it! Static equals dull.** | Use exaggerated scale, tilted forms, splats, spirals, arrows, and layered cartoon imagery. Create more than one possible reading while directional cues move the eye through the composition. |
+| **3** | **Whimsigoth** | Symmetry and Order + Common Region | **6. Pick colours on purpose.**<br>**13. Distribute light and dark like firecrackers and the rising sun.** | Use celestial symbols, mirrored arrangements, decorative frames, dark backgrounds, layered textures, and luminous details. Use tonal fields and boundaries to organize the composition. |
+| **4** | **Synthwave** | Invariance + Common Fate | **4. Use two typeface families maximum. OK, maybe three.**<br>**9. Treat type as image, as though it’s just as important.** | Use perspective grids, horizon lines, central suns, dimensional type, and repeated motifs that change in scale or position while remaining recognizable. Direct the elements toward a shared vanishing point. |
+| **5** | **Solarpunk** | Common Region + Prägnanz | **10. Type is only type when it’s friendly.**<br>**17. Ignore fashion. Seriously.** | Use ecological networks, renewable technologies, architecture, vegetation, and shared spaces. Organize the system into clear regions and simplify complex relationships without reducing the social or ecological concept. |
 
 ### Note on Rule 20
 
-Treat “Symmetry is the ultimate evil” as a provocation rather than a prohibition. Test whether symmetry supports the concept, then interrupt, offset, or vary it when the composition becomes static.
+Treat “Symmetry is the ultimate evil” as a provocation rather than a prohibition. Begin with symmetry and order, then test whether variation, interruption, or imbalance makes the composition more effective.
 
 </div>
 </details>
@@ -476,7 +611,7 @@ Each description must:
 
 ### Example
 
-> This interface presents a fictional overnight transit service through a Synthwave visual language based on a perspective grid, a central horizon, and dimensional type. Connectedness and common fate direct the elements toward one vanishing point, while Rules 4 and 9 limit the type system and integrate typography into the image.
+> This interface presents a fictional overnight transit service through a Synthwave visual language based on a perspective grid, a central horizon, and dimensional type. Invariance and common fate keep repeated forms recognizable as their scale and position change toward one vanishing point, while Rules 4 and 9 limit the type system and integrate typography into the image.
 
 Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup may affect the grade.
 
