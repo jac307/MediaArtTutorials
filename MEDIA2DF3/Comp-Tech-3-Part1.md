@@ -192,8 +192,6 @@ SUB-SECTION A
 
       <div class="section-content">
 
-        <p>Select each video to review the style before choosing an option for your compositions.</p>
-
         <div class="style-review-list">
 
           <!-- Art Nouveau -->
@@ -481,11 +479,6 @@ SUB-SECTION A
 
       <div class="section-content">
 
-        <p>
-          The rules below are selected from Timothy Samara’s
-          <em>20 Rules for Making Good Design</em>. Apply them as practical guidelines rather than as fixed formulas.
-        </p>
-
         <div class="samara-rules-grid">
 
           <!-- Rule 1 -->
@@ -730,17 +723,27 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Sketch the three compositions</span>
+    <span class="section-title">4. Sketch the compositions and create the moodboards</span>
     <span class="section-description">
-      Plan the concept, hierarchy, style, Gestalt principles, and main visual elements before opening the software.
+      Develop one sketch and one moodboard for each composition before beginning the final digital files.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Sketch in a physical or digital notebook. Create **one sketch for each composition**.
+Create **one sketch and one moodboard for each of the three compositions**.
 
-Each sketch must identify:
+The moodboard must place the sketch at the centre and surround it with visual references that establish the intended style, colour, material, texture, typography, and overall direction.
+
+## Create the sketches
+
+Sketch in a physical or digital notebook. The sketch may be:
+
+- Drawn by hand and photographed
+- Drawn by hand and scanned
+- Created digitally
+
+Each sketch must show the main structure of the composition, including hierarchy, grouping, movement, image placement, typography, and negative space.
 
 <fieldset class="equipment-checklist">
   <legend>Required information for each sketch</legend>
@@ -765,7 +768,7 @@ Each sketch must identify:
     <input type="checkbox">
     <span>
       <strong>Style pairing</strong>
-      Name the selected style and list at least three visual characteristics you will use.
+      Name the selected style and identify at least three visual characteristics you will use.
     </span>
   </label>
 
@@ -781,7 +784,7 @@ Each sketch must identify:
     <input type="checkbox">
     <span>
       <strong>Samara rules</strong>
-      Write both assigned rules and note how each one affects the design.
+      Identify both assigned rules and note how each one affects the design.
     </span>
   </label>
 
@@ -792,17 +795,137 @@ Each sketch must identify:
       Mark the focal area, reading order, grouping, negative space, and main directional path.
     </span>
   </label>
+</fieldset>
+
+## Prepare the sketches for the moodboards
+
+When using a physical sketch:
+
+1. Photograph or scan it in clear, even light.
+2. Crop the image to remove the table, notebook edges, or surrounding objects.
+3. Correct the orientation and perspective.
+4. Confirm that the lines and written notes are readable.
+5. Save the image as a JPEG or PNG.
+
+## Set up the Illustrator document
+
+Create one Adobe Illustrator document with **three artboards**, one for each moodboard.
+
+| Setting | Requirement |
+|---|---|
+| Units | Inches |
+| Artboard size | Letter, 8.5 × 11 in |
+| Orientation | Portrait or landscape |
+| Number of artboards | Three |
+| Colour mode | RGB |
+| Raster effects | High, 300 PPI |
+| Filename | `Lastname-Firstname-CompTech3-Part1-Moodboards` |
+
+Use the same orientation for all three artboards.
+
+## Create the moodboards
+
+Place one sketch at the centre of each artboard. The sketch should remain the main reference and must be large enough to read clearly.
+
+Arrange supporting visual material around the sketch.
+
+<fieldset class="equipment-checklist">
+  <legend>Required content for each moodboard</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Colour and image plan</strong>
-      Indicate the main colours, image sources, textures, and type choices.
+      <strong>Central sketch</strong>
+      Place the photographed, scanned, or digital sketch at the centre of the artboard.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Colour palette</strong>
+      Include the main colours planned for the composition. Present them as labelled colour samples.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Materials and textures</strong>
+      Include examples of surfaces, patterns, finishes, papers, fabrics, digital textures, or other materials relevant to the selected style.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Typography</strong>
+      Include examples of typefaces, lettering, scale relationships, or typographic treatments that support the concept and style.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Images and forms</strong>
+      Include examples of imagery, shapes, lines, symbols, framing devices, or compositional structures that may inform the final work.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Style characteristics</strong>
+      Show at least three recognizable characteristics of the selected visual style.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Labels</strong>
+      Label the concept, format, style, Gestalt principles, and Samara rules.
     </span>
   </label>
 </fieldset>
 
-Ask the instructor for feedback before beginning the digital files.
+The moodboard should establish a clear visual direction. Do not fill the page with unrelated reference images.
+
+## Image sources
+
+You may use:
+
+- Original photographs
+- Scanned materials
+- Screenshots
+- Historical design references
+- Material and texture samples
+- Type specimens
+- Images found through online research
+
+Record the source of any image that is not your own. A short source name or URL may be placed in small text at the bottom of the artboard.
+
+## Export the moodboards
+
+Export all three artboards as one PDF.
+
+| Setting | Requirement |
+|---|---|
+| Format | Adobe PDF |
+| Artboards | All |
+| Pages | Three |
+| Filename | `Lastname-Firstname-CompTech3-Part1-Moodboards.pdf` |
+
+Open the exported PDF and confirm that:
+
+- All three moodboards are included
+- The sketches are clear and readable
+- Images are not pixelated
+- Labels are legible
+- Nothing extends beyond the page
+- The PDF opens correctly
+
+Ask the instructor for feedback before beginning the final digital compositions.
 
 </div>
 </details>
