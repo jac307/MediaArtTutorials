@@ -26,8 +26,6 @@ Each composition must combine:
 - **Gestalt principles:** Proximity, Similarity, Continuity, Closure, Figure/Ground, and Prägnanz
 - **Software:** Adobe Illustrator and Adobe Photoshop
 - **Colour:** Full colour is permitted
-- **Work period:** During class, with additional work completed before the deadline
-- **Submission:** Sketch PDF, three composition PDFs, and written descriptions on Avenue to Learn
 
 ## Required composition formula
 
@@ -64,31 +62,7 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-![Reference diagram for the Week 7 Gestalt principles](imgs/20.png)
 
-## Proximity
-
-Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
-
-## Similarity
-
-Elements with shared characteristics, such as colour, shape, size, texture, or direction, are perceived as related.
-
-## Continuity
-
-The eye follows lines, curves, edges, and directional paths. Elements arranged along the same path appear connected.
-
-## Closure
-
-The viewer completes incomplete forms when enough visual information is present to suggest a recognizable whole.
-
-## Figure/Ground
-
-The viewer separates a main figure from its surrounding field. The relationship may be stable, ambiguous, or reversible.
-
-## Prägnanz
-
-The viewer tends to organize complex information into the clearest and simplest structure available.
 
 </div>
 </details>
