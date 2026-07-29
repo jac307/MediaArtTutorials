@@ -47,204 +47,138 @@ SECTION 1
   <div class="section-content">
 
     <!-- 
-    /////////////////
-    SUB-SECTION A
-    /////////////////
-    -->
+/////////////////
+SUB-SECTION A
+/////////////////
+-->
 
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Review the Gestalt Principles</span>
-        <span class="section-description">
-          Review how recognizable forms and groups emerge through visual organization.
-        </span>
-      </summary>
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Review the Gestalt Principles</span>
+    <span class="section-description">
+      Review how recognizable forms and groups emerge through visual organization.
+    </span>
+  </summary>
 
-      <div class="section-content">
+  <div class="section-content">
 
-        <p>Select an example to review its definition.</p>
+    <p>
+      Review the six Gestalt principles used in this activity.
+    </p>
 
-        <div class="interactive-image" data-interactive-image>
-          <div
-            class="interactive-image__choices"
-            role="group"
-            aria-label="Week 7 Gestalt principles"
-          >
-            <button
-              class="image-choice is-active"
-              type="button"
-              data-target="gestalt-w7-emergence"
-              aria-controls="gestalt-w7-emergence"
-              aria-pressed="true"
-            >
-              <img
-                src="imgs/gestalt-w7-emergence.jpg"
-                alt="Black shapes forming the image of a Dalmatian to demonstrate emergence"
-              >
-              <span class="image-choice__label">Emergence</span>
-            </button>
+    <div class="gestalt-principles-grid">
 
-            <button
-              class="image-choice"
-              type="button"
-              data-target="gestalt-w7-closure"
-              aria-controls="gestalt-w7-closure"
-              aria-pressed="false"
-            >
-              <img
-                src="imgs/gestalt-w7-closure.jpg"
-                alt="Incomplete outlines of a square, circle, and triangle demonstrating closure"
-              >
-              <span class="image-choice__label">Closure</span>
-            </button>
+      <!-- Emergence -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-emergence.jpg"
+          alt="Black shapes forming the image of a Dalmatian to demonstrate emergence"
+          loading="lazy"
+        >
 
-            <button
-              class="image-choice"
-              type="button"
-              data-target="gestalt-w7-continuity"
-              aria-controls="gestalt-w7-continuity"
-              aria-pressed="false"
-            >
-              <img
-                src="imgs/gestalt-w7-continuity.jpg"
-                alt="Crossing curves and a directional path demonstrating continuity"
-              >
-              <span class="image-choice__label">Continuity</span>
-            </button>
+        <figcaption>
+          <h3>Emergence</h3>
+          <p>
+            The viewer perceives a recognizable whole before identifying its individual parts. A larger image or form emerges from separate visual elements.
+          </p>
+        </figcaption>
+      </figure>
 
-            <button
-              class="image-choice"
-              type="button"
-              data-target="gestalt-w7-proximity"
-              aria-controls="gestalt-w7-proximity"
-              aria-pressed="false"
-            >
-              <img
-                src="imgs/gestalt-w7-proximity.jpg"
-                alt="Grey squares arranged at different distances to demonstrate proximity"
-              >
-              <span class="image-choice__label">Proximity</span>
-            </button>
+      <!-- Closure -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-closure.jpg"
+          alt="Incomplete outlines of a square, circle, and triangle demonstrating closure"
+          loading="lazy"
+        >
 
-            <button
-              class="image-choice"
-              type="button"
-              data-target="gestalt-w7-similarity"
-              aria-controls="gestalt-w7-similarity"
-              aria-pressed="false"
-            >
-              <img
-                src="imgs/gestalt-w7-similarity.jpg"
-                alt="Rows of grey and blue squares demonstrating similarity through colour"
-              >
-              <span class="image-choice__label">Similarity</span>
-            </button>
+        <figcaption>
+          <h3>Closure</h3>
+          <p>
+            The viewer fills gaps and completes incomplete forms when enough information suggests a recognizable whole.
+          </p>
+        </figcaption>
+      </figure>
 
-            <button
-              class="image-choice"
-              type="button"
-              data-target="gestalt-w7-figure-ground"
-              aria-controls="gestalt-w7-figure-ground"
-              aria-pressed="false"
-            >
-              <img
-                src="imgs/gestalt-w7-figure-ground.jpg"
-                alt="Rubin vase image showing a vase or two facing profiles"
-              >
-              <span class="image-choice__label">Figure/Ground</span>
-            </button>
-          </div>
+      <!-- Continuity -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-continuity.jpg"
+          alt="Crossing curves and a directional path demonstrating continuity"
+          loading="lazy"
+        >
 
-          <div
-            class="interactive-image__information"
-            aria-live="polite"
-          >
-            <section
-              id="gestalt-w7-emergence"
-              class="image-information-panel"
-            >
-              <p class="image-information-panel__number">Gestalt principle</p>
-              <h3>Emergence</h3>
-              <p>
-                The viewer perceives a recognizable whole before identifying its individual parts. A larger image or form emerges from separate visual elements.
-              </p>
-            </section>
+        <figcaption>
+          <h3>Continuity</h3>
+          <p>
+            Elements that follow the same line, curve, or direction are perceived as connected. The eye continues along the path even when it is interrupted.
+          </p>
+        </figcaption>
+      </figure>
 
-            <section
-              id="gestalt-w7-closure"
-              class="image-information-panel"
-              hidden
-            >
-              <p class="image-information-panel__number">Gestalt principle</p>
-              <h3>Closure</h3>
-              <p>
-                The viewer fills gaps and completes incomplete forms when enough information suggests a recognizable whole.
-              </p>
-            </section>
+      <!-- Proximity -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-proximity.jpg"
+          alt="Grey squares arranged at different distances to demonstrate proximity"
+          loading="lazy"
+        >
 
-            <section
-              id="gestalt-w7-continuity"
-              class="image-information-panel"
-              hidden
-            >
-              <p class="image-information-panel__number">Gestalt principle</p>
-              <h3>Continuity</h3>
-              <p>
-                Elements that follow the same line, curve, or direction are perceived as connected. The eye continues along the path even when it is interrupted.
-              </p>
-            </section>
+        <figcaption>
+          <h3>Proximity</h3>
+          <p>
+            Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
+          </p>
+        </figcaption>
+      </figure>
 
-            <section
-              id="gestalt-w7-proximity"
-              class="image-information-panel"
-              hidden
-            >
-              <p class="image-information-panel__number">Gestalt principle</p>
-              <h3>Proximity</h3>
-              <p>
-                Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
-              </p>
-            </section>
+      <!-- Similarity -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-similarity.jpg"
+          alt="Rows of grey and blue squares demonstrating similarity through colour"
+          loading="lazy"
+        >
 
-            <section
-              id="gestalt-w7-similarity"
-              class="image-information-panel"
-              hidden
-            >
-              <p class="image-information-panel__number">Gestalt principle</p>
-              <h3>Similarity</h3>
-              <p>
-                Elements that share colour, shape, size, texture, or direction are perceived as related.
-              </p>
-            </section>
+        <figcaption>
+          <h3>Similarity</h3>
+          <p>
+            Elements that share colour, shape, size, texture, or direction are perceived as related.
+          </p>
+        </figcaption>
+      </figure>
 
-            <section
-              id="gestalt-w7-figure-ground"
-              class="image-information-panel"
-              hidden
-            >
-              <p class="image-information-panel__number">Gestalt principle</p>
-              <h3>Figure/Ground</h3>
-              <p>
-                The viewer separates a subject from its surrounding field. The relationship may remain stable or shift between two interpretations.
-              </p>
-            </section>
-          </div>
-        </div>
+      <!-- Figure/Ground -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-figure-ground.jpg"
+          alt="Rubin vase image showing a vase or two facing profiles"
+          loading="lazy"
+        >
 
-        <p>
-          Reference images:
-          <a
-            href="https://ixdf.org/literature/topics/gestalt-principles"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Interaction Design Foundation, CC BY-SA 4.0
-          </a>.
-        </p>
+        <figcaption>
+          <h3>Figure/Ground</h3>
+          <p>
+            The viewer separates a subject from its surrounding field. The relationship may remain stable or shift between two interpretations.
+          </p>
+        </figcaption>
+      </figure>
 
-      </div>
-    </details>
+    </div>
+
+    <p>
+      Reference images:
+      <a
+        href="https://ixdf.org/literature/topics/gestalt-principles"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Interaction Design Foundation, CC BY-SA 4.0
+      </a>.
+    </p>
+
+  </div>
+</details>
 
     <!-- 
     /////////////////
@@ -715,7 +649,6 @@ SECTION 1
 
   </div>
 </details>
-
 
 
 <!-- 
