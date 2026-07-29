@@ -27,21 +27,6 @@ Each composition must combine:
 - **Software:** Adobe Illustrator and Adobe Photoshop
 - **Colour:** Full colour is permitted
 
-## Required composition formula
-
-Use the following formula for each composition:
-
-> **One format + one style pairing + two Gestalt principles + two Samara rules + one concept**
-
-Across the three compositions:
-
-- Select **three different style pairings** from the five options.
-- Use each selected pairing only once.
-- Complete one work in each required format.
-- Apply at least **three recognizable characteristics** of the selected style.
-- Make both Gestalt principles visible in the composition.
-- Apply both Samara rules as design decisions, not only as written explanations.
-
 ## Activity stages
 
 Complete the following stages in order.
