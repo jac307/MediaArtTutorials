@@ -41,6 +41,22 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
+    <span class="section-title">1. Review ?</span>
+    <span class="section-description">
+      R?
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<!-- 
+/////////////////
+SUB-SECTION A
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
     <span class="section-title">1. Review the Gestalt principles</span>
     <span class="section-description">
       Review how recognizable forms and groups emerge through visual organization.
@@ -223,6 +239,182 @@ Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org
 
 </div>
 </details>
+
+<!-- 
+/////////////////
+SUB-SECTION B
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Review the Art Styles</span>
+    <span class="section-description">
+      Review the visual characteristics, historical context, and design approaches associated with the five styles used in this activity.
+    </span>
+  </summary>
+
+  <div class="section-content" markdown="1">
+
+    Select each video to review the style before choosing an option for your compositions.
+
+<div class="style-review-list">
+
+  <!-- Art Nouveau -->
+  <article class="style-review-row">
+
+    <div class="style-review-video">
+      <video controls preload="metadata">
+        <source src="imgs/art-nouveau.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+    </div>
+
+    <div class="style-review-content" markdown="1">
+
+### Art Nouveau
+
+Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative borders, and integrated relationships between image and typography.
+
+#### Relevant links
+
+- [Art Nouveau overview](https://aesthetics.fandom.com/wiki/Art_Nouveau){:target="_blank"}  
+  A brief introduction to the movement, its historical context, and its main visual characteristics.
+
+- [Art Nouveau examples](https://www.google.com/search?tbm=isch&q=Art+Nouveau){:target="_blank"}  
+  A collection of posters, illustrations, architecture, and decorative design associated with the style.
+
+    </div>
+  </article>
+
+
+  <!-- DORFic -->
+  <article class="style-review-row">
+
+    <div class="style-review-video">
+      <video controls preload="metadata">
+        <source src="imgs/dorfic.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+    </div>
+
+    <div class="style-review-content" markdown="1">
+
+### DORFic
+
+DORFic combines restrained geometry, fine lines, technological imagery, translucent layers, neutral space, and interface-like visual systems.
+
+#### Relevant links
+
+- [DORFic overview](https://aesthetics.fandom.com/wiki/DORFic){:target="_blank"}  
+  An introduction to the visual language and digital design context associated with DORFic.
+
+- [DORFic examples](https://www.google.com/search?tbm=isch&q=DORFic){:target="_blank"}  
+  Examples of layouts, interfaces, graphics, and technological imagery connected to the style.
+
+    </div>
+  </article>
+
+
+  <!-- Utopian Scholastic -->
+  <article class="style-review-row">
+
+    <div class="style-review-video">
+      <video controls preload="metadata">
+        <source src="imgs/utopian-scholastic.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+    </div>
+
+    <div class="style-review-content" markdown="1">
+
+### Utopian Scholastic
+
+Utopian Scholastic uses diagrams, archival photographs, educational imagery, classical typography, labels, and carefully organized information.
+
+#### Relevant links
+
+- [Utopian Scholastic overview](https://aesthetics.fandom.com/wiki/Utopian_Scholastic){:target="_blank"}  
+  A description of the style’s use of educational, archival, scientific, and institutional visual references.
+
+- [Utopian Scholastic examples](https://www.google.com/search?tbm=isch&q=Utopian+Scholastic){:target="_blank"}  
+  Examples of editorial layouts, diagrams, informational graphics, and research-based compositions.
+
+    </div>
+  </article>
+
+
+  <!-- Memphis Design -->
+  <article class="style-review-row">
+
+    <div class="style-review-video">
+      <video controls preload="metadata">
+        <source src="imgs/memphis-design.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+    </div>
+
+    <div class="style-review-content" markdown="1">
+
+### Memphis Design
+
+Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots, stripes, squiggles, and deliberately playful arrangements.
+
+#### Relevant links
+
+- [Memphis Design overview](https://aesthetics.fandom.com/wiki/Memphis_Design){:target="_blank"}  
+  An introduction to the Memphis Group and its response to restrained modernist design.
+
+- [Memphis Design examples](https://www.google.com/search?tbm=isch&q=Memphis+Design){:target="_blank"}  
+  Examples of furniture, graphic design, patterns, interiors, and visual compositions associated with the movement.
+
+    </div>
+  </article>
+
+
+  <!-- Olderbrothercore -->
+  <article class="style-review-row">
+
+    <div class="style-review-video">
+      <video controls preload="metadata">
+        <source src="imgs/olderbrothercore.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+    </div>
+
+    <div class="style-review-content" markdown="1">
+
+### Olderbrothercore
+
+Olderbrothercore draws from early-2000s youth culture through lo-fi photographs, posters, stickers, screenshots, distressed textures, and layered media fragments.
+
+#### Relevant links
+
+- [Olderbrothercore overview](https://aesthetics.fandom.com/wiki/Olderbrothercore){:target="_blank"}  
+  A description of the style’s references to early digital culture, music, gaming, bedrooms, and personal media collections.
+
+- [Olderbrothercore examples](https://www.google.com/search?tbm=isch&q=Olderbrothercore){:target="_blank"}  
+  Examples of visual materials, layouts, objects, and media associated with the style.
+
+    </div>
+  </article>
+
+</div>
+
+> Video source: *The Supergraphics: Fine Art* by Harald Austad. Videos are included for educational review.
+
+  </div>
+</details>
+
+<!-- 
+/////////////////
+SUB-SECTION C
+/////////////////
+-->
+
+</div>
+</details>
+
 
 <!-- 
 /////////////////

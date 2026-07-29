@@ -41,9 +41,9 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Review the Gestalt principles</span>
+    <span class="section-title">1. Review ?</span>
     <span class="section-description">
-      Review how visual information is grouped, transformed, simplified, ordered, and directed.
+      R?
     </span>
   </summary>
 
@@ -245,147 +245,6 @@ Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org
 SUB-SECTION B
 /////////////////
 -->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">Review the Art Styles</span>
-    <span class="section-description">
-      Review the visual characteristics, historical context, and design approaches associated with the five styles used in this activity.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Select each video to review the style before choosing an option for your compositions.
-
-<div class="media-grid media-grid--two">
-
-  <article class="media-card">
-
-    <video controls preload="metadata">
-      <source src="imgs/art-nouveau.mp4" type="video/mp4">
-      Your browser does not support embedded video.
-    </video>
-
-    <div class="media-card-content" markdown="1">
-
-### Art Nouveau
-
-Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative borders, and integrated relationships between image and typography.
-
-#### Relevant links
-
-- [Art Nouveau overview](https://aesthetics.fandom.com/wiki/Art_Nouveau){:target="_blank"}  
-  A brief introduction to the movement, its historical context, and its main visual characteristics.
-
-- [Art Nouveau examples](https://www.google.com/search?q=Art+Nouveau&sca_esv=9e50308bc33459d1&rlz=1C5CHFA_enCA1002CA1002&udm=2&biw=1105&bih=871&sxsrf=APpeQnvbeMG16GSB1RWKhiJbsT3LG0L5ww%3A1785351012693&ei=ZEtqas31KbKKruEPpsKxmA4&ved=0ahUKEwjNt6TnxviVAxUyhSsGHSZhDOMQ4dUDCBE&uact=5&oq=Art+Nouveau&gs_lp=Egtnd3Mtd2l6LWltZyILQXJ0IE5vdXZlYXUyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyBRAAGIAEMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIKEAAYgAQYigUYQ0j2BVCvA1ivA3ABeACQAQCYAU6gAU6qAQExuAEDyAEA-AEC-AEBmAICoAJawgIGEAAYBxgemAMAiAYBkgcBMqAH7QSyBwExuAdUwgcDMi0yyAcIgAgB&sclient=gws-wiz-img){:target="_blank"}  
-  A collection of posters, illustrations, architecture, and decorative design associated with the style.
-
-    </div>
-  </article>
-
-  <article class="media-card">
-
-    <video controls preload="metadata">
-      <source src="imgs/dorfic.mp4" type="video/mp4">
-      Your browser does not support embedded video.
-    </video>
-
-    <div class="media-card-content" markdown="1">
-
-### DORFic
-
-DORFic combines restrained geometry, fine lines, technological imagery, translucent layers, neutral space, and interface-like visual systems.
-
-#### Relevant links
-
-- [DORFic overview](https://aesthetics.fandom.com/wiki/DORFic){:target="_blank"}  
-  An introduction to the visual language and digital design context associated with DORFic.
-
-- [DORFic examples](https://www.google.com/search?q=DORFic&sca_esv=9e50308bc33459d1&rlz=1C5CHFA_enCA1002CA1002&udm=2&biw=1105&bih=871&sxsrf=APpeQnuGGUp49M_lfT9McfN9V4sBCySgYw%3A1785351167988&ei=_0tqauzyO_vomLQP0L_NyA0&ved=0ahUKEwis7qqxx_iVAxV7NIYAHdBfE9kQ4dUDCBE&uact=5&oq=DORFic&gs_lp=Egtnd3Mtd2l6LWltZyIGRE9SRmljMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEirB1CsA1isA3ABeACQAQCYAUegAUeqAQExuAEDyAEA-AEC-AEBmAICoAJNwgIKEAAYgAQYigUYQ8ICBhAAGAcYHsICCBAAGAcYHhgKmAMAiAYBkgcBMqAHjgSyBwExuAdKwgcDMC4yyAcEgAgB&sclient=gws-wiz-img){:target="_blank"}  
-  Examples of layouts, interfaces, graphics, and technological imagery connected to the style.
-
-    </div>
-  </article>
-
-  <article class="media-card">
-
-    <video controls preload="metadata">
-      <source src="imgs/utopian-scholastic.mp4" type="video/mp4">
-      Your browser does not support embedded video.
-    </video>
-
-    <div class="media-card-content" markdown="1">
-
-### Utopian Scholastic
-
-Utopian Scholastic uses diagrams, archival photographs, educational imagery, classical typography, labels, and carefully organized information.
-
-#### Relevant links
-
-- [Utopian Scholastic overview](https://aesthetics.fandom.com/wiki/Utopian_Scholastic){:target="_blank"}  
-  A description of the style’s use of educational, archival, scientific, and institutional visual references.
-
-- [Utopian Scholastic examples](https://www.google.com/search?q=Utopian+Scholastic&sca_esv=9e50308bc33459d1&rlz=1C5CHFA_enCA1002CA1002&udm=2&biw=1105&bih=871&sxsrf=APpeQnufxTD4CB6VJ-Qh5v_4Ht5OP1ZlSg%3A1785351179440&ei=C0xqat28GsK9mLQPp-2H6AQ&ved=0ahUKEwid7uW2x_iVAxXCHoYAHaf2AU0Q4dUDCBE&uact=5&oq=Utopian+Scholastic&gs_lp=Egtnd3Mtd2l6LWltZyISVXRvcGlhbiBTY2hvbGFzdGljMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5I6gVQlwNYlwNwAXgAkAEAmAFEoAFEqgEBMbgBA8gBAPgBAvgBAZgCAqACTMICBhAAGAcYHsICChAAGIAEGIoFGEOYAwCIBgGSBwEyoAfwBLIHATG4B0rCBwUwLjEuMcgHBYAIAQ&sclient=gws-wiz-img){:target="_blank"}  
-  Examples of editorial layouts, diagrams, informational graphics, and research-based compositions.
-
-    </div>
-  </article>
-
-  <article class="media-card">
-
-    <video controls preload="metadata">
-      <source src="imgs/memphis-design.mp4" type="video/mp4">
-      Your browser does not support embedded video.
-    </video>
-
-    <div class="media-card-content" markdown="1">
-
-### Memphis Design
-
-Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots, stripes, squiggles, and deliberately playful arrangements.
-
-#### Relevant links
-
-- [Memphis Design overview](https://aesthetics.fandom.com/wiki/Memphis_Design){:target="_blank"}  
-  An introduction to the Memphis Group and its response to restrained modernist design.
-
-- [Memphis Design examples](https://www.google.com/search?sca_esv=9e50308bc33459d1&rlz=1C5CHFA_enCA1002CA1002&sxsrf=APpeQnsOEWp2syKY7-uk05jtlaP_KsBhqA:1785351011438&udm=2&fbs=ABfTbFUDadgeu2mn4mYJ8iEZ1GUDd8ABuXxNzQEi57SWOuuPdScLx3ol9c1cFkljSkR7a93EMURFD3x5suvSToTK20T_NCA08r-0t6-nAYX4-KQ2VoaOo-gT4ziGfwQufk4THkl58Pa7vgADx1D5CwNmU3N1ewJf0oK7m5p9-brPMFoqs-M5S9K0CR_QHQs008uQ5Hs6-5epdEMVaqU9MAWRr1q8eEHjlg44olcQfPqiJ_XZDrg6qu0&q=Memphis+Design&sa=X&ved=2ahUKEwi069fmxviVAxWDG4YAHczRHAYQtKgLegQIIRAB&biw=1212&bih=871&dpr=1.1){:target="_blank"}  
-  Examples of furniture, graphic design, patterns, interiors, and visual compositions associated with the movement.
-
-    </div>
-  </article>
-
-  <article class="media-card">
-
-    <video controls preload="metadata">
-      <source src="imgs/olderbrothercore.mp4" type="video/mp4">
-      Your browser does not support embedded video.
-    </video>
-
-    <div class="media-card-content" markdown="1">
-
-### Olderbrothercore
-
-Olderbrothercore draws from early-2000s youth culture through lo-fi photographs, posters, stickers, screenshots, distressed textures, and layered media fragments.
-
-#### Relevant links
-
-- [Olderbrothercore overview](https://aesthetics.fandom.com/wiki/Olderbrothercore){:target="_blank"}  
-  A description of the style’s references to early digital culture, music, gaming, bedrooms, and personal media collections.
-
-- [Olderbrothercore examples](https://www.google.com/search?q=Olderbrothercore&sca_esv=9e50308bc33459d1&rlz=1C5CHFA_enCA1002CA1002&udm=2&biw=1105&bih=871&sxsrf=APpeQnvJ-3gPvQ8b-QTKVs7nirrPYxkqYw%3A1785351192463&ei=GExqasL6G_fqmLQPjei_uAg&ved=0ahUKEwjC5oC9x_iVAxV3NYYAHQ30D4cQ4dUDCBE&uact=5&oq=Olderbrothercore&gs_lp=Egtnd3Mtd2l6LWltZyIQT2xkZXJicm90aGVyY29yZUihCVDUA1jUA3ABeACQAQCYAUagAUaqAQExuAEDyAEA-AEC-AEBmAIBoAIDwgIGEAAYBxgewgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIEEAAYHpgDAIgGAZIHATGgBwyyBwC4BwDCBwMwLjHIBwKACAE&sclient=gws-wiz-img){:target="_blank"}  
-  Examples of visual materials, layouts, objects, and media associated with the style.
-
-    </div>
-  </article>
-
-</div>
-
-> Video source: *The Supergraphics: Fine Art* by Harald Austad. Videos are included for educational review.
-
-</div>
-</details>
 
 <!-- 
 /////////////////
