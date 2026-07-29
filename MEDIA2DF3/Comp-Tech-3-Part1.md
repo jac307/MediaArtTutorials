@@ -851,36 +851,50 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Sketch the compositions and create the moodboards</span>
+    <span class="section-title">4. Sketch the three compositions</span>
     <span class="section-description">
-      Develop one sketch and one moodboard for each composition before beginning the final digital files.
+      Create one annotated sketch for each composition before beginning the final digital files.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Create **one sketch and one moodboard for each of the three compositions**.
+Create **one simple sketch for each of the three compositions**:
 
-The moodboard must place the sketch at the centre and surround it with visual references that establish the intended style, colour, material, texture, typography, and overall direction.
+- One logo
+- One one-page website
+- One photomontage
+
+The sketches are planning documents. They do not need to be highly detailed or polished, but they must clearly show the intended structure and include written notes.
 
 ## Create the sketches
 
-Sketch in a physical or digital notebook. The sketch may be:
+Sketch in a physical or digital notebook. Each sketch may be:
 
 - Drawn by hand and photographed
 - Drawn by hand and scanned
 - Created digitally
 
-Each sketch must show the main structure of the composition, including hierarchy, grouping, movement, image placement, typography, and negative space.
+Use simple shapes, lines, labels, and arrows to plan the main areas of the composition.
+
+Each sketch should show:
+
+- Placement of images and text
+- Main visual hierarchy
+- Grouping of elements
+- Direction and movement
+- Use of negative space
+- Approximate colour areas
+- Important shapes, textures, or visual details
 
 <fieldset class="equipment-checklist">
-  <legend>Required information for each sketch</legend>
+  <legend>Required notes for each sketch</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Format</strong>
-      Identify the logo, poster, website, app, or photomontage format.
+      Identify whether the sketch is for the logo, one-page website, or photomontage.
     </span>
   </label>
 
@@ -895,8 +909,16 @@ Each sketch must show the main structure of the composition, including hierarchy
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>Audience</strong>
+      Identify who is expected to view or use the design.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>Style pairing</strong>
-      Name the selected style and identify at least three visual characteristics you will use.
+      Name the selected style and list at least three visual characteristics you plan to use.
     </span>
   </label>
 
@@ -904,7 +926,7 @@ Each sketch must show the main structure of the composition, including hierarchy
     <input type="checkbox">
     <span>
       <strong>Gestalt principles</strong>
-      Label where each assigned principle appears in the sketch.
+      Identify the two assigned principles and label where they appear in the sketch.
     </span>
   </label>
 
@@ -912,7 +934,7 @@ Each sketch must show the main structure of the composition, including hierarchy
     <input type="checkbox">
     <span>
       <strong>Samara rules</strong>
-      Identify both assigned rules and note how each one affects the design.
+      Identify the two assigned rules and briefly note how each one will guide the design.
     </span>
   </label>
 
@@ -920,138 +942,36 @@ Each sketch must show the main structure of the composition, including hierarchy
     <input type="checkbox">
     <span>
       <strong>Hierarchy and movement</strong>
-      Mark the focal area, reading order, grouping, negative space, and main directional path.
+      Mark the main focal area, reading order, grouping, negative space, and directional path.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Colour, imagery, and typography</strong>
+      Add brief notes about the planned colours, images, textures, shapes, and type choices.
     </span>
   </label>
 </fieldset>
 
-## Prepare the sketches for the moodboards
+## Prepare the sketches for submission
 
-When using a physical sketch:
+When using physical sketches:
 
-1. Photograph or scan it in clear, even light.
-2. Crop the image to remove the table, notebook edges, or surrounding objects.
+1. Photograph or scan each page in clear, even light.
+2. Crop the image to remove the table, notebook edges, and surrounding objects.
 3. Correct the orientation and perspective.
-4. Confirm that the lines and written notes are readable.
-5. Save the image as a JPEG or PNG.
+4. Confirm that the drawing and notes are readable.
 
-## Set up the Illustrator document
-
-Create one Adobe Illustrator document with **three artboards**, one for each moodboard.
+Combine the three sketches into one PDF.
 
 | Setting | Requirement |
 |---|---|
-| Units | Inches |
-| Artboard size | Letter, 8.5 × 11 in |
-| Orientation | Portrait or landscape |
-| Number of artboards | Three |
-| Colour mode | RGB |
-| Raster effects | High, 300 PPI |
-| Filename | `Lastname-Firstname-CompTech3-Part1-Moodboards` |
-
-Use the same orientation for all three artboards.
-
-## Create the moodboards
-
-Place one sketch at the centre of each artboard. The sketch should remain the main reference and must be large enough to read clearly.
-
-Arrange supporting visual material around the sketch.
-
-<fieldset class="equipment-checklist">
-  <legend>Required content for each moodboard</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Central sketch</strong>
-      Place the photographed, scanned, or digital sketch at the centre of the artboard.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Colour palette</strong>
-      Include the main colours planned for the composition. Present them as labelled colour samples.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Materials and textures</strong>
-      Include examples of surfaces, patterns, finishes, papers, fabrics, digital textures, or other materials relevant to the selected style.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Typography</strong>
-      Include examples of typefaces, lettering, scale relationships, or typographic treatments that support the concept and style.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Images and forms</strong>
-      Include examples of imagery, shapes, lines, symbols, framing devices, or compositional structures that may inform the final work.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Style characteristics</strong>
-      Show at least three recognizable characteristics of the selected visual style.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Labels</strong>
-      Label the concept, format, style, Gestalt principles, and Samara rules.
-    </span>
-  </label>
-</fieldset>
-
-The moodboard should establish a clear visual direction. Do not fill the page with unrelated reference images.
-
-## Image sources
-
-You may use:
-
-- Original photographs
-- Scanned materials
-- Screenshots
-- Historical design references
-- Material and texture samples
-- Type specimens
-- Images found through online research
-
-Record the source of any image that is not your own. A short source name or URL may be placed in small text at the bottom of the artboard.
-
-## Export the moodboards
-
-Export all three artboards as one PDF.
-
-| Setting | Requirement |
-|---|---|
-| Format | Adobe PDF |
-| Artboards | All |
+| Format | PDF |
 | Pages | Three |
-| Filename | `Lastname-Firstname-CompTech3-Part1-Moodboards.pdf` |
-
-Open the exported PDF and confirm that:
-
-- All three moodboards are included
-- The sketches are clear and readable
-- Images are not pixelated
-- Labels are legible
-- Nothing extends beyond the page
-- The PDF opens correctly
+| Page order | Logo, one-page website, photomontage |
+| Filename | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
 
 Ask the instructor for feedback before beginning the final digital compositions.
 
