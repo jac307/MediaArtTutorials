@@ -4,7 +4,6 @@ title: Media Art Tutorials
 description: Step-by-step tutorials for digital media tools and course activities.
 ---
 
-<<<<<<< HEAD
 # Media Art Tutorials
 
 This site provides step-by-step tutorials for media art tools and course activities. The tutorials cover video editing, sound, creative coding, digital illustration, animation, 3D modelling, motion capture, and interactive media.

@@ -2,27 +2,9 @@
 
 # Student-Led Critical Discussion
 
-## Team activity · Teams of three
+## Team activity · 3 students
 
-## Goal
-
-Lead a focused **25-minute presentation and discussion activity** that connects the assigned weekly reading with the assigned artist and artwork.
-
-The team must:
-
-- Introduce the assigned reading and its author.
-- Introduce the assigned artist and artwork.
-- Select **three ideas from the reading** that capture the team’s attention.
-- Explain each idea through specific visual evidence from the assigned artist or artwork.
-- Lead one structured class discussion activity based only on the assigned reading and artistic examples.
-
-> You are not expected to summarize the entire reading. Select three ideas that help the class examine the assigned artwork more closely.
-
-## Primary-material requirement
-
-The **assigned reading and assigned artist or artwork must be the only primary examples** used in the presentation, questions, and discussion activity.
-
-Do not replace the assigned material with other artists, artworks, readings, advertisements, films, or design examples. Brief contextual information may be included when necessary, but the analysis and activity must remain focused on the assigned materials.
+**Goal:** Lead a focused **25-minute presentation and discussion activity** that connects the assigned weekly reading with the assigned artist and artwork.
 
 ## Activity overview
 
@@ -37,47 +19,24 @@ Do not replace the assigned material with other artists, artworks, readings, adv
 
 > **Hard time limit:** The full session ends at **25:00**. At that point, the instructor will stop the presentation. The team will not be able to continue or complete an unfinished activity. Rehearse the complete session and plan the timing carefully.
 
-## Recommended timing
-
-| Stage | Time |
-|---|---:|
-| Introduce the reading, author, artist, and artwork | 2 minutes |
-| Present three idea–artwork connections | 12 minutes |
-| Lead the discussion activity | 9 minutes |
-| Summarize the main takeaways | 2 minutes |
-| **Total** | **25 minutes** |
-
-## Activity stages
-
-<details class="tutorial-section" id="enrolment">
-  <summary>
-    <span class="section-title">1. Enrol in a presentation week</span>
-    <span class="section-description">
-      Form a team of three, select an available week, and review the assigned reading and artist.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
 ## Enrolment process
 
 1. Form a team of three students.
 2. Review the **Readings and Artists/Artworks by Week** section below.
 3. Select one available week.
-4. Register through the enrolment spreadsheet provided on Avenue to Learn.
-5. Confirm that all three team members are listed correctly.
+4. Register through the enrolment link provided on Avenue to Learn.
+5. Confirm that all three team members are enroll in the correct week/group.
 6. Download and read the assigned text.
 7. Research the assigned artist and carefully examine the listed artwork or series.
 8. Divide the preparation and presentation responsibilities across the team.
 
 All team members must contribute meaningfully to the research, presentation, and activity.
 
-</div>
-</details>
+## Activity stages
 
 <details class="tutorial-section" id="prepare-presentation">
   <summary>
-    <span class="section-title">2. Prepare the presentation</span>
+    <span class="section-title">1. Prepare the presentation</span>
     <span class="section-description">
       Introduce the assigned materials and develop three focused connections between the reading and artwork.
     </span>
@@ -108,9 +67,9 @@ Briefly identify:
 
 Use clear, high-quality images. Include the title, year, and source for every image when that information is available.
 
-## Select three ideas
+## Select two ideas
 
-Select **exactly three ideas** from the assigned reading that capture the team’s attention and help interpret the assigned artwork.
+Select **exactly two ideas** from the assigned reading that capture the team’s attention and help interpret the assigned artwork.
 
 For each idea:
 
@@ -121,7 +80,9 @@ For each idea:
 5. Explain how that visual example demonstrates, applies, complicates, or challenges the idea.
 6. Describe why the connection matters for design practice.
 
-The three ideas do not need to represent the entire reading. Prioritize ideas that create meaningful connections with the assigned artistic examples.
+The two ideas do not need to represent the entire reading. Prioritize ideas that create meaningful connections with the assigned artistic examples.
+
+> Do not include any other artistic examples outside the assigned artist. 
 
 ## Organize the presentation around connections
 
@@ -129,7 +90,6 @@ Do not present a long reading summary followed by a separate artist biography. O
 
 - **Connection 1:** Reading idea + specific artistic evidence
 - **Connection 2:** Reading idea + specific artistic evidence
-- **Connection 3:** Reading idea + specific artistic evidence
 
 Use visible evidence such as:
 
@@ -147,14 +107,24 @@ Use visible evidence such as:
 
 Avoid general statements such as “the artist uses contrast” without identifying where the contrast appears, how it is constructed, and what it communicates.
 
+## Recommended timing
+
+| Stage | Time |
+|---|---:|
+| Introduce the reading, author, artist, and artwork | 2 minutes |
+| Present two idea–artwork connections | 10 minutes (5 minutes each) |
+| Lead the discussion activity | 11-12 minutes |
+| Summarize the main takeaways | 2 minutes |
+| **Total** | **25 minutes** |
+
 </div>
 </details>
 
 <details class="tutorial-section" id="discussion-activity">
   <summary>
-    <span class="section-title">3. Create the discussion activity</span>
+    <span class="section-title">2. Create the discussion activity</span>
     <span class="section-description">
-      Lead a structured activity that asks the class to apply the reading to examples by the assigned artist.
+      Lead a structured, hands-on activity that asks the class to apply the reading to examples by the assigned artist.
     </span>
   </summary>
 
@@ -162,42 +132,62 @@ Avoid general statements such as “the artist uses contrast” without identify
 
 ## Activity purpose
 
-Create one structured activity that helps the class examine the relationship between the assigned reading and artwork.
+Create one structured, hands-on activity that helps the class examine the relationship between the assigned reading and artwork.
 
 The activity must use only:
 
 - Ideas or passages from the assigned reading
 - Images or details from the assigned artist or artwork
+- Physical materials prepared by the presenting team
 
-Do not introduce an unrelated artist or design example as the basis of the activity.
+> Do not introduce an unrelated artist or design example as the basis of the activity.
+
+## Hands-on activity requirement
+
+The activity must be completed using physical materials and in-person participation.
+
+**Digital activities are not permitted.** Students may not be asked to use:
+
+- Cellphones
+- Laptops
+- Tablets
+- Online polls
+- Shared digital documents
+- Websites or apps
+- Digital drawing or design software
+
+Projected images may be used only as visual references during the presentation. The activity itself must involve physical materials such as printed images, paper, cards, sticky notes, drawing tools, or movable design elements.
+
+**The presenting team is responsible for preparing and bringing all required materials.**
 
 ## Activity requirements
 
 The activity must:
 
+- Be hands-on and non-digital
 - Have one clear purpose
-- Apply at least one of the three selected ideas
+- Apply at least one of the two selected ideas
 - Use specific visual examples from the assigned artist
 - Include concise instructions
-- Invite interpretation, comparison, analysis, or debate
+- Invite interpretation, comparison, analysis, making, or debate
 - Allow multiple supported responses
 - Include time for the team to hear and respond to class contributions
-- Fit within the assigned **9 minutes**
+- Fit within the assigned **11-12 minutes**
 
 The activity should not be a factual quiz or a series of questions answered only by the presenting team.
 
 ## Possible activity formats
 
-- Compare two works or visual details by the assigned artist.
-- Match reading concepts with specific visual evidence.
-- Annotate a printed or projected artwork.
-- Rank several artistic decisions according to a concept from the reading.
-- Identify where a visual principle appears and explain its effect.
-- Reorganize visual elements and discuss how the meaning changes.
-- Discuss whether an artwork supports or complicates a statement from the reading.
-- Complete a short written response before sharing with a partner or the class.
-- Sort image details, quotations, or design decisions into categories.
-- Develop a brief alternative design decision using the reading as a guide.
+- Compare printed reproductions of two works or visual details by the assigned artist.
+- Match printed reading concepts with specific visual evidence.
+- Annotate a printed reproduction of an artwork.
+- Rank printed examples of artistic decisions according to a concept from the reading.
+- Identify and mark where a visual principle appears in an artwork.
+- Reorganize printed visual elements and discuss how the meaning changes.
+- Respond to a printed statement from the reading and support the response with artistic evidence.
+- Complete a short written or drawn response before sharing with a partner or the class.
+- Sort image details, quotations, or design decisions into physical categories.
+- Create a brief alternative composition using paper shapes, image fragments, or movable design elements.
 
 ## Prepare facilitation prompts
 
@@ -221,135 +211,20 @@ Use a structure that allows several students to contribute, such as:
 - Individual reflection followed by paired discussion
 - Small-group analysis before whole-class sharing
 - Assigned roles within groups
-- Written annotation followed by verbal responses
-- A show of positions followed by explanation
+- Written or drawn annotation followed by verbal responses
+- Physical sorting or arrangement followed by explanation
+- A show of positions followed by discussion
 - Turn-taking with a clear time limit
 
-The presenting team must explain the instructions, track the time, invite responses, ask follow-up questions, and summarize what the class discovered.
+The presenting team must explain the instructions, distribute the materials, track the time, invite responses, ask follow-up questions, and summarize what the class discovered.
 
 </div>
 </details>
 
-<details class="tutorial-section" id="delivery">
-  <summary>
-    <span class="section-title">4. Rehearse and deliver the session</span>
-    <span class="section-description">
-      Test the complete presentation, activity, transitions, materials, and timing before class.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Rehearse the full 25 minutes
-
-Practice the presentation and activity together before the scheduled class.
-
-During the rehearsal:
-
-- Time every section.
-- Include the time needed to distribute materials or organize groups.
-- Test all images, links, slides, and media.
-- Shorten content that repeats information.
-- Confirm that the activity can be completed within nine minutes.
-- Decide who will give instructions, track time, invite responses, and conclude.
-- Prepare a shortened backup version of the activity in case transitions take longer than expected.
-
-## Delivery requirements
-
-- Present in person.
-- Bring the presentation on your own computer.
-- Bring printed materials when required.
-- Use readable slides with high-quality artwork images.
-- Cite the reading, artworks, and image sources.
-- Ensure that all three team members speak and facilitate.
-- Remain focused on the assigned reading and artist.
-- Complete the presentation and activity within 25 minutes.
-- Submit all materials one day before presenting.
-
-> Presentations will be stopped at the 25-minute mark. An unfinished activity cannot continue after the time limit.
-
-<fieldset class="equipment-checklist">
-  <legend>Presentation checklist</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Introduce the assigned materials concisely.</strong>
-      Identify the reading, author, artist, and artwork without using excessive biographical detail.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Select exactly three ideas.</strong>
-      Focus on ideas that create meaningful connections with the assigned artwork.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use specific visual evidence.</strong>
-      Identify where each idea appears in a work and explain how the design produces its effect.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Use only the assigned primary examples.</strong>
-      Base the presentation and activity on the assigned reading and artist or artwork.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Create one structured discussion activity.</strong>
-      Give clear instructions and ask the class to apply the reading to the assigned artwork.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Plan inclusive participation.</strong>
-      Give multiple students a clear opportunity to examine, discuss, write, or respond.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Rehearse the complete session.</strong>
-      Confirm that the presentation and activity end within 25 minutes.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Share responsibilities.</strong>
-      Ensure that all three team members contribute to the presentation and facilitation.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Submit materials in advance.</strong>
-      Upload the slides and activity materials as PDFs one day before presenting.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
 
 <details class="tutorial-section" id="submission-assessment">
   <summary>
-    <span class="section-title">5. Submit the materials and review the assessment criteria</span>
+    <span class="section-title">3. Submit the materials and review the assessment criteria</span>
     <span class="section-description">
       Submit the presentation and activity materials, then confirm that the session meets all assessment criteria.
     </span>
@@ -359,23 +234,15 @@ During the rehearsal:
 
 ## Submission deadline
 
-Each team must submit its materials **one day before the scheduled presentation**.
+Each team must submit its materials **at least one day before the scheduled presentation**.
 
 ## Submit
 
-- Presentation slides as a PDF
-- Discussion activity instructions as a PDF
+- Presentation slides as a PDF: `Week#-Presentation.pdf`
+- Discussion activity instructions as a PDF: `Week#-Discussion-Activity.pdf`
 - Printable activity materials or handouts as PDFs
-- Links required to access examples or media
-- A short timing plan identifying the presenter or facilitator responsible for each stage
 
-Use this filename structure:
-
-```text
-Lastname-Lastname-Lastname-CriticalDiscussion-W#.pdf
-```
-
-Replace `W#` with the assigned week number.
+> Replace `W#` with the assigned week number.
 
 ## Assessment criteria
 
