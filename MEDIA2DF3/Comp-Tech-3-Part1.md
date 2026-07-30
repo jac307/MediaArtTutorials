@@ -18,7 +18,7 @@ Each composition must combine:
 
 - **Formats:** One logo, one one-page website mockup, and one photomontage
 - **Style options:** Art Nouveau, DORFic, Utopian Scholastic, Memphis Design, and Olderbrothercore
-- **Gestalt principles:** Emergence, Closure, Continuity, Proximity, Similarity, and Figure/Ground
+- **Gestalt principles:** Emergence, Closure, Common Region, Continuity, Proximity, and Multistability
 - **Software:** Adobe Illustrator and Adobe Photoshop
 
 ## Activity stages
@@ -663,11 +663,11 @@ Choose **three of the five options** below. You may apply the selected pairings 
 
 | Option | Leading style | Gestalt principles | Samara rules | Required visual direction |
 |---|---|---|---|---|
-| **1** | **Art Nouveau** | Continuity + Closure | **3. Speak with one visual voice.**<br>**14. Be decisive. Do it on purpose—or don’t do it at all.** | Use flowing lines, organic shapes, decorative borders, repeated botanical forms, and partial contours. Lines should connect elements and guide the eye. |
-| **2** | **DORFic** | Figure/Ground + Emergence | **7. If you can do it with less, then do it.**<br>**8. Negative space is magical—create it, don’t just fill it up.** | Use restrained geometry, fine lines, technical imagery, translucent layers, and substantial negative space. Build a larger readable form or system from simplified parts. |
-| **3** | **Utopian Scholastic** | Proximity + Similarity | **1. Have a concept.**<br>**11. Be universal; remember that it’s not about you.** | Organize photographs, diagrams, labels, symbols, and educational imagery into clear groups. Use spacing and repetition to support quick understanding. |
-| **4** | **Memphis Design** | Similarity + Figure/Ground | **2. Communicate—don’t decorate.**<br>**15. Measure with your eyes: design is visual.** | Use repeated geometric forms, dots, stripes, squiggles, and strong contrast. Decorative elements must support the concept and hierarchy. |
-| **5** | **Olderbrothercore** | Proximity + Closure | **12. Squish and separate.**<br>**16. Create images—don’t scavenge.** | Use lo-fi photographs, labels, interface fragments, distressed textures, cropped imagery, and layered media. Create or substantially transform the visual material. |
+| **1** | **Art Nouveau** | Continuity + Closure | **3. Speak with one visual voice.**<br>**14. Be decisive. Do it on purpose—or don’t do it at all.** | Use flowing lines, organic shapes, decorative borders, repeated botanical forms, and partial contours. Lines should connect elements, guide the eye, and allow incomplete forms to be visually completed. |
+| **2** | **DORFic** | Emergence + Multistability | **7. If you can do it with less, then do it.**<br>**8. Negative space is magical—create it, don’t just fill it up.** | Use restrained geometry, fine lines, technical imagery, translucent layers, and substantial negative space. Build a larger recognizable form from simplified parts and create more than one possible visual interpretation. |
+| **3** | **Utopian Scholastic** | Proximity + Common Region | **1. Have a concept.**<br>**11. Be universal; remember that it’s not about you.** | Organize photographs, diagrams, labels, symbols, and educational imagery into clear groups. Use spacing, borders, panels, or enclosed areas to communicate relationships and support quick understanding. |
+| **4** | **Memphis Design** | Common Region + Emergence | **2. Communicate—don’t decorate.**<br>**15. Measure with your eyes: design is visual.** | Use repeated geometric forms, dots, stripes, squiggles, and strong contrast. Arrange elements within distinct visual areas and allow a larger image, symbol, or pattern to emerge from the smaller forms. |
+| **5** | **Olderbrothercore** | Proximity + Closure | **12. Squish and separate.**<br>**16. Create images—don’t scavenge.** | Use original or substantially transformed lo-fi photographs, labels, interface fragments, distressed textures, cropped imagery, and layered media. Group related fragments closely and use incomplete or cropped forms that the viewer can visually complete. |
 
 ### Note on Rule 11
 

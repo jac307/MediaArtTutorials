@@ -18,7 +18,7 @@ Each composition must combine:
 
 - **Formats:** One poster, two connected app screens, and one photomontage
 - **Style options:** Atomic Age, Wacky PoMo, Whimsigothic, Synthwave, and Solarpunk
-- **Gestalt principles:** Symmetry, Connectedness, Common Region, Focal Point, and Common Fate
+- **Gestalt principles:** Figure/Ground, Invariance, Prägnanz, Similarity, Symmetry and Order, and Common Fate
 - **Software:** Adobe Illustrator and Adobe Photoshop
 
 Part 2 uses new formats, styles, Gestalt principles, and Samara rules. Do not repeat a composition, concept, or style pairing from Part 1.
@@ -665,11 +665,11 @@ Choose **three of the five options** below. Apply each selected pairing to one r
 
 | Option | Leading style | Gestalt principles | Samara rules | Required visual direction |
 |---|---|---|---|---|
-| **1** | **Atomic Age** | Symmetry + Focal Point | **5. Show one thing first.**<br>**20. Symmetry is the ultimate evil.** | Use starbursts, orbiting forms, rockets, atoms, boomerangs, and mid-century geometry. Establish one clear focal element, then disrupt perfect symmetry through an offset shape, text block, or directional form. |
-| **2** | **Wacky PoMo** | Connectedness + Common Region | **9. Treat type like image.**<br>**19. Look to history—do not repeat it.** | Use expressive typography, irregular frames, arrows, lines, cartoon-like forms, and grouped graphic fragments. Reference postmodern design without copying an existing composition. |
-| **3** | **Whimsigothic** | Symmetry + Common Region | **4. Use two typefaces—maximum.**<br>**13. Distribute light and dark.** | Use mirrored celestial or botanical motifs, ornamental frames, dark colour fields, and concentrated highlights. Keep typography controlled and organize related symbols within visible regions. |
-| **4** | **Synthwave** | Common Fate + Focal Point | **6. Pick colours for a purpose.**<br>**18. Move it! Static equals dull.** | Use perspective grids, repeated directional forms, neon gradients, glowing horizons, and one dominant focal element. Colour and direction should create movement toward or away from the focal point. |
-| **5** | **Solarpunk** | Connectedness + Common Fate | **10. Keep type friendly.**<br>**17. Try to ignore fashion. Really!** | Connect ecological, technological, architectural, and community elements through visible networks, paths, or shared directions. Keep information readable and develop the style from the concept rather than copying a current trend. |
+| **1** | **Atomic Age** | Symmetry and Order + Invariance | **5. Show one thing first.**<br>**20. Symmetry is the ultimate evil.** | Use starbursts, orbiting forms, rockets, atoms, boomerangs, and mid-century geometry. Repeat recognizable forms at different scales, rotations, or positions. Begin with an ordered structure, then disrupt perfect symmetry through an offset shape, text block, or directional element. |
+| **2** | **Wacky PoMo** | Figure/Ground + Similarity | **9. Treat type like image.**<br>**19. Look to history—do not repeat it.** | Use expressive typography, irregular frames, arrows, lines, cartoon-like forms, and repeated graphic fragments. Create shifting relationships between foreground and background while using repeated colours, shapes, or typographic treatments to connect the composition. Reference postmodern design without copying an existing work. |
+| **3** | **Whimsigothic** | Symmetry and Order + Figure/Ground | **4. Use two typefaces—maximum.**<br>**13. Distribute light and dark.** | Use mirrored celestial or botanical motifs, ornamental structures, dark colour fields, and concentrated highlights. Establish visual balance through symmetry while using contrast between light and dark areas to separate or shift the figure and background. |
+| **4** | **Synthwave** | Common Fate + Invariance | **6. Pick colours for a purpose.**<br>**18. Move it! Static equals dull.** | Use perspective grids, repeated directional forms, neon gradients, glowing horizons, and recognizable shapes repeated at different scales. Lines and forms should appear to move in a shared direction, while changes in size, rotation, or perspective create depth without making the repeated forms unrecognizable. |
+| **5** | **Solarpunk** | Similarity + Prägnanz | **10. Keep type friendly.**<br>**17. Try to ignore fashion. Really!** | Combine ecological, technological, architectural, and community elements through repeated colours, shapes, materials, or symbols. Organize complex information into a clear and stable visual structure that can be understood quickly. Develop the style from the concept rather than copying a current trend. |kjakls
 
 ### Note on Rule 20
 
