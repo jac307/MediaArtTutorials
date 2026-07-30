@@ -44,7 +44,7 @@ SECTION 1
 
   <div class="section-content">
 
-    <!-- 
+<!-- 
 /////////////////
 SUB-SECTION A
 /////////////////
@@ -54,7 +54,7 @@ SUB-SECTION A
   <summary>
     <span class="section-title">Review the Gestalt Principles</span>
     <span class="section-description">
-      Review how balance, boundaries, links, emphasis, and direction organize visual information.
+      Review how viewers separate subjects from backgrounds, recognize transformed forms, simplify visual information, and group elements through appearance, order, and direction.
     </span>
   </summary>
 
@@ -62,85 +62,101 @@ SUB-SECTION A
 
     <div class="gestalt-principles-grid">
 
-<!-- Symmetry -->
-<figure class="gestalt-principle-card">
-  <img
-    src="imgs/gestalt-w8-symmetry.jpg"
-    alt="A balanced arrangement mirrored across a central axis to demonstrate symmetry"
-    loading="lazy"
-  >
+      <!-- Figure/Ground -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w8-figure-ground.jpg"
+          alt="Rubin vase that can be perceived as either a vase or two facing profiles to demonstrate figure and ground"
+          loading="lazy"
+        >
 
-  <figcaption>
-    <h3>Symmetry</h3>
-    <p>
-      Elements are perceived as belonging together when they are balanced or mirrored around an axis. Symmetry can create order, stability, and emphasis.
-    </p>
-  </figcaption>
-</figure>
+        <figcaption>
+          <h3>Figure/Ground</h3>
+          <p>
+            The viewer separates a primary subject, or figure, from its surrounding background. In an ambiguous composition, the figure and ground may exchange roles and create different interpretations.
+          </p>
+        </figcaption>
+      </figure>
 
-<!-- Connectedness -->
-<figure class="gestalt-principle-card">
-  <img
-    src="imgs/gestalt-w8-connectedness.jpg"
-    alt="Shapes joined by lines to demonstrate connectedness"
-    loading="lazy"
-  >
+      <!-- Invariance -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w8-invariance.jpg"
+          alt="The same object shown from different angles, sizes, and visual treatments to demonstrate invariance"
+          loading="lazy"
+        >
 
-  <figcaption>
-    <h3>Connectedness</h3>
-    <p>
-      Elements joined by lines, edges, paths, or other visible links are perceived as part of the same group.
-    </p>
-  </figcaption>
-</figure>
+        <figcaption>
+          <h3>Invariance</h3>
+          <p>
+            A form remains recognizable when its scale, rotation, position, perspective, or visual treatment changes. The viewer identifies the same object despite these variations.
+          </p>
+        </figcaption>
+      </figure>
 
-<!-- Common Region -->
-<figure class="gestalt-principle-card">
-  <img
-    src="imgs/gestalt-w8-common-region.jpg"
-    alt="Groups of shapes enclosed within separate boundaries to demonstrate common region"
-    loading="lazy"
-  >
+      <!-- Prägnanz -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w8-pragnanz.jpg"
+          alt="Overlapping circles perceived as a simple and organized arrangement to demonstrate Prägnanz"
+          loading="lazy"
+        >
 
-  <figcaption>
-    <h3>Common Region</h3>
-    <p>
-      Elements placed inside the same boundary, frame, colour field, or enclosed area are perceived as a group.
-    </p>
-  </figcaption>
-</figure>
+        <figcaption>
+          <h3>Prägnanz</h3>
+          <p>
+            The viewer tends to interpret complex visual information as the simplest, clearest, and most stable arrangement possible.
+          </p>
+        </figcaption>
+      </figure>
 
-<!-- Focal Point -->
-<figure class="gestalt-principle-card">
-  <img
-    src="imgs/gestalt-w8-focal-point.jpg"
-    alt="One contrasting element among repeated shapes to demonstrate focal point"
-    loading="lazy"
-  >
+      <!-- Similarity -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w8-similarity.jpg"
+          alt="Rows of grey and blue squares demonstrating grouping through colour similarity"
+          loading="lazy"
+        >
 
-  <figcaption>
-    <h3>Focal Point</h3>
-    <p>
-      An element that differs through scale, colour, contrast, shape, or placement attracts attention and becomes the main point of focus.
-    </p>
-  </figcaption>
-</figure>
+        <figcaption>
+          <h3>Similarity</h3>
+          <p>
+            Elements that share characteristics such as colour, shape, size, texture, or direction are perceived as belonging to the same group.
+          </p>
+        </figcaption>
+      </figure>
 
-<!-- Common Fate -->
-<figure class="gestalt-principle-card">
-  <img
-    src="imgs/gestalt-w8-common-fate.jpg"
-    alt="Repeated elements pointing in the same direction to demonstrate common fate"
-    loading="lazy"
-  >
+      <!-- Symmetry and Order -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w8-symmetry-order.jpg"
+          alt="Mirrored brackets and braces demonstrating symmetry and visual order"
+          loading="lazy"
+        >
 
-  <figcaption>
-    <h3>Common Fate</h3>
-    <p>
-      Elements that move, point, or appear to travel in the same direction are perceived as related and part of the same action.
-    </p>
-  </figcaption>
-</figure>
+        <figcaption>
+          <h3>Symmetry and Order</h3>
+          <p>
+            Mirrored or visually balanced elements are perceived as related and organized. Symmetry can create stability, structure, and a clear relationship between parts.
+          </p>
+        </figcaption>
+      </figure>
+
+      <!-- Common Fate -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w8-common-fate.jpg"
+          alt="Groups of arrows pointing in the same and different directions to demonstrate common fate"
+          loading="lazy"
+        >
+
+        <figcaption>
+          <h3>Common Fate</h3>
+          <p>
+            Elements moving, pointing, or appearing to travel in the same direction are perceived as a group. In static designs, repeated direction can suggest shared movement or purpose.
+          </p>
+        </figcaption>
+      </figure>
 
     </div>
 
