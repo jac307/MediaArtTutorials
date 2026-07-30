@@ -32,6 +32,16 @@
 
 All team members must contribute meaningfully to the research, presentation, and activity.
 
+## Recommended timing
+
+| Stage | Time |
+|---|---:|
+| Introduce the reading, author, artist, and artwork | 2 minutes |
+| Present two idea–artwork connections | 10 minutes (5 minutes each) |
+| Lead the discussion activity | 11-12 minutes |
+| Summarize the main takeaways | 2 minutes |
+| **Total** | **25 minutes** |
+
 ## Activity stages
 
 <details class="tutorial-section" id="prepare-presentation">
@@ -106,16 +116,6 @@ Use visible evidence such as:
 - Production or display methods
 
 Avoid general statements such as “the artist uses contrast” without identifying where the contrast appears, how it is constructed, and what it communicates.
-
-## Recommended timing
-
-| Stage | Time |
-|---|---:|
-| Introduce the reading, author, artist, and artwork | 2 minutes |
-| Present two idea–artwork connections | 10 minutes (5 minutes each) |
-| Lead the discussion activity | 11-12 minutes |
-| Summarize the main takeaways | 2 minutes |
-| **Total** | **25 minutes** |
 
 </div>
 </details>
@@ -248,11 +248,11 @@ Each team must submit its materials **at least one day before the scheduled pres
 
 | Criterion | Points | Expectations |
 |---|---:|---|
-| **Three core ideas from the reading** | 1.5 | Selects and accurately explains three focused ideas without attempting to summarize the entire reading |
-| **Artist and artwork analysis** | 1.5 | Introduces the assigned artist and uses specific, clearly identified visual evidence from the assigned artwork |
-| **Reading–artwork connections** | 1.5 | Develops meaningful connections between each selected idea and the artist’s formal, material, conceptual, or communicative decisions |
-| **Discussion activity and facilitation** | 1.5 | Leads a clear, relevant, participatory activity based only on the assigned reading and artistic examples |
-| **Delivery, preparation, and timing** | 1.0 | Uses clear slides, shared speaking roles, prepared materials, effective pacing, and completes the full session within 25 minutes |
+| **Submission requirements and deadline** | 1.0 | Submits all required presentation and activity materials by the deadline, using the required file formats and filename structure. |
+| **Required content and depth** | 1.5 | Includes all required components: a concise introduction to the reading and author, an introduction to the artist and artwork, and two clearly explained ideas from the reading. Demonstrates accurate understanding and examines the selected ideas in sufficient depth. |
+| **Analysis and reading–artwork connections** | 1.5 | Develops clear and meaningful connections between the two selected ideas and specific examples from the artist’s work. Uses visible evidence to explain how formal, material, conceptual, or communicative decisions relate to the reading. |
+| **Discussion activity and class participation** | 1.5 | Leads a purposeful, well-prepared, hands-on activity based only on the assigned reading and artistic examples. Provides clear instructions and successfully encourages active participation, interpretation, and discussion from the class. |
+| **Engagement, delivery, and projection** | 1.5 | Maintains class engagement throughout the presentation and activity through clear delivery, strong voice projection, effective pacing, confident facilitation, appropriate eye contact, and active interaction with participants. |
 | **Total** | **7.0** | |
 
 > General summaries, unrelated examples, unsupported claims, unclear activity instructions, or exceeding the time limit will weaken the assessment.
