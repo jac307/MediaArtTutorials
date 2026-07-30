@@ -917,7 +917,7 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
 
 | Setting | Requirement |
 |---|---|
-| Filename | `Lastname-Firstname-CompTech3-Logo` |
+| Filename | `Lastname-Firstname-CompTech3-Part1-Logo` |
 | Units | Pixels |
 | Size | 1000 × 1000 px |
 | Aspect ratio | 1:1 |
@@ -978,7 +978,7 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
 
 | Setting | Requirement |
 |---|---|
-| Filename | `Lastname-Firstname-CompTech3-Website` |
+| Filename | `Lastname-Firstname-CompTech3-Part1-Website` |
 | Units | Pixels |
 | Size | 1920 × 1080 px |
 | Bleed | 10 px on all sides |
@@ -1048,7 +1048,7 @@ The original photograph must remain identifiable within the final composition, e
 
 | Setting | Requirement |
 |---|---|
-| Filename | `Lastname-Firstname-CompTech3-Photomontage` |
+| Filename | `Lastname-Firstname-CompTech3-Part1-Photomontage` |
 | Units | Inches |
 | Size | 11 × 17 in vertical or 17 × 11 in horizontal |
 | Resolution | 300 PPI |
