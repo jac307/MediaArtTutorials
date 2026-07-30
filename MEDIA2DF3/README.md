@@ -9,6 +9,12 @@ The course concludes with a public exhibition of student work.
 
 ---
 
+## Student-Led Critical Discussion
+
++ [Student-Led Critical Discussion (Groups of 3)](Presentations.md)
+
+---
+
 ## Composition Techniques
 
 + [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
