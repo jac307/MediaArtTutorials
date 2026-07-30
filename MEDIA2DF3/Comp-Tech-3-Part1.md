@@ -1227,7 +1227,7 @@ For each composition:
 3. Select **one specific aspect or element of the design**.
 4. Explain concretely how that design decision supports the concept and helps communicate the intended message, purpose, or function.
 
-Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup may affect the grade.
+> Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup will affect the grade.
 
 </div>
 </details>

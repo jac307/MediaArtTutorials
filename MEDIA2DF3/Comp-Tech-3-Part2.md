@@ -2,13 +2,9 @@
 
 # Composition Techniques III – Part 2
 
-## Individual activity
-
 ![Examples from previous Composition Techniques III activities](imgs/21.jpg)
 
-## Goal
-
-Create **three new digital compositions** that apply Gestalt principles through three different design formats.
+**Goal:** Design and create **three new digital compositions** that integrate visual styles, Gestalt principles, and practical design rules across three different formats.
 
 Each composition must combine:
 
@@ -16,22 +12,21 @@ Each composition must combine:
 - **One style pairing** from the five options provided
 - **Two Gestalt principles** assigned to that style
 - **Two rules** from Timothy Samara’s *20 Rules for Making Good Design*
-- **One clear concept**
+- **One clear concept** that guides the visual and formal decisions
 
 ## Activity overview
 
-- **Outputs:** Three sketches and three digital compositions
-- **Formats:** One graphic design, one UI design, and one photomontage
-- **Style options:** Atomic Age, Wacky PoMo, Whimsigoth, Synthwave, and Solarpunk
-- **Gestalt principles:** Common Region, Multistability, Invariance, Prägnanz, Symmetry and Order, and Common Fate
+- **Formats:** One poster, two connected app screens, and one photomontage
+- **Style options:** Atomic Age, Wacky PoMo, Whimsigothic, Synthwave, and Solarpunk
+- **Gestalt principles:** Symmetry, Connectedness, Common Region, Focal Point, and Common Fate
 - **Software:** Adobe Illustrator and Adobe Photoshop
-- **Colour:** Full colour is permitted
-- **Work period:** During class, with additional work completed before the deadline
-- **Submission:** Sketch PDF, three composition PDFs, and written descriptions on Avenue to Learn
+
+Part 2 uses new formats, styles, Gestalt principles, and Samara rules. Do not repeat a composition, concept, or style pairing from Part 1.
 
 ## Activity stages
 
 Complete the following stages in order.
+
 
 <!-- 
 /////////////////
@@ -41,15 +36,15 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Review ?</span>
+    <span class="section-title">1. Review the Concepts</span>
     <span class="section-description">
-      R?
+      Review the new Gestalt principles, art styles, and design rules before planning your compositions.
     </span>
   </summary>
 
-<div class="section-content" markdown="1">
+  <div class="section-content">
 
-<!-- 
+    <!-- 
 /////////////////
 SUB-SECTION A
 /////////////////
@@ -57,194 +52,398 @@ SUB-SECTION A
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">A. Review the Gestalt principles</span>
+    <span class="section-title">Review the Gestalt Principles</span>
     <span class="section-description">
-      Review how visual information is grouped, transformed, simplified, ordered, and directed.
+      Review how balance, boundaries, links, emphasis, and direction organize visual information.
     </span>
   </summary>
 
-<div class="section-content" markdown="1">
+  <div class="section-content">
 
-Select an example to review its definition.
+    <div class="gestalt-principles-grid">
 
-<div class="interactive-image" data-interactive-image>
-  <div
-    class="interactive-image__choices"
-    role="group"
-    aria-label="Week 8 Gestalt principles"
+<!-- Symmetry -->
+<figure class="gestalt-principle-card">
+  <img
+    src="imgs/gestalt-w8-symmetry.jpg"
+    alt="A balanced arrangement mirrored across a central axis to demonstrate symmetry"
+    loading="lazy"
   >
-    <button
-      class="image-choice is-active"
-      type="button"
-      data-target="gestalt-w8-common-region"
-      aria-controls="gestalt-w8-common-region"
-      aria-pressed="true"
-    >
-      <img
-        src="imgs/gestalt-w8-common-region.jpg"
-        alt="A group of squares enclosed by a shared boundary to demonstrate common region"
-      >
-      <span class="image-choice__label">Common Region</span>
-    </button>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w8-multistability"
-      aria-controls="gestalt-w8-multistability"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w8-multistability.jpg"
-        alt="A Necker cube that can be interpreted from different viewpoints"
-      >
-      <span class="image-choice__label">Multistability</span>
-    </button>
+  <figcaption>
+    <h3>Symmetry</h3>
+    <p>
+      Elements are perceived as belonging together when they are balanced or mirrored around an axis. Symmetry can create order, stability, and emphasis.
+    </p>
+  </figcaption>
+</figure>
 
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w8-invariance"
-      aria-controls="gestalt-w8-invariance"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w8-invariance.jpg"
-        alt="Variations of the same object shown at different sizes, angles, and distortions"
-      >
-      <span class="image-choice__label">Invariance</span>
-    </button>
-
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w8-pragnanz"
-      aria-controls="gestalt-w8-pragnanz"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w8-pragnanz.jpg"
-        alt="Overlapping circles reorganized into the simpler structure of the Olympic rings"
-      >
-      <span class="image-choice__label">Prägnanz</span>
-    </button>
-
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w8-symmetry-order"
-      aria-controls="gestalt-w8-symmetry-order"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w8-symmetry-order.jpg"
-        alt="Bracket forms arranged symmetrically around a central axis"
-      >
-      <span class="image-choice__label">Symmetry and Order</span>
-    </button>
-
-    <button
-      class="image-choice"
-      type="button"
-      data-target="gestalt-w8-common-fate"
-      aria-controls="gestalt-w8-common-fate"
-      aria-pressed="false"
-    >
-      <img
-        src="imgs/gestalt-w8-common-fate.jpg"
-        alt="Rows of arrows pointing in shared and opposing directions to demonstrate common fate"
-      >
-      <span class="image-choice__label">Common Fate</span>
-    </button>
-  </div>
-
-  <div
-    class="interactive-image__information"
-    aria-live="polite"
+<!-- Connectedness -->
+<figure class="gestalt-principle-card">
+  <img
+    src="imgs/gestalt-w8-connectedness.jpg"
+    alt="Shapes joined by lines to demonstrate connectedness"
+    loading="lazy"
   >
-    <section
-      id="gestalt-w8-common-region"
-      class="image-information-panel"
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Common Region</h3>
-      <p>
-        Elements within the same enclosed area are perceived as one group, even when they differ in appearance.
-      </p>
-    </section>
 
-    <section
-      id="gestalt-w8-multistability"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Multistability</h3>
-      <p>
-        An ambiguous image supports two or more meaningful interpretations. Perception shifts between them rather than holding them at the same time.
-      </p>
-    </section>
+  <figcaption>
+    <h3>Connectedness</h3>
+    <p>
+      Elements joined by lines, edges, paths, or other visible links are perceived as part of the same group.
+    </p>
+  </figcaption>
+</figure>
 
-    <section
-      id="gestalt-w8-invariance"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Invariance</h3>
-      <p>
-        A form remains recognizable despite changes in scale, rotation, position, distortion, lighting, or detail.
-      </p>
-    </section>
+<!-- Common Region -->
+<figure class="gestalt-principle-card">
+  <img
+    src="imgs/gestalt-w8-common-region.jpg"
+    alt="Groups of shapes enclosed within separate boundaries to demonstrate common region"
+    loading="lazy"
+  >
 
-    <section
-      id="gestalt-w8-pragnanz"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Prägnanz</h3>
-      <p>
-        The viewer organizes complex information into the clearest, simplest, and most regular structure available.
-      </p>
-    </section>
+  <figcaption>
+    <h3>Common Region</h3>
+    <p>
+      Elements placed inside the same boundary, frame, colour field, or enclosed area are perceived as a group.
+    </p>
+  </figcaption>
+</figure>
 
-    <section
-      id="gestalt-w8-symmetry-order"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Symmetry and Order</h3>
-      <p>
-        Elements arranged symmetrically are perceived as related and orderly. A shared axis or balanced structure strengthens the grouping.
-      </p>
-    </section>
+<!-- Focal Point -->
+<figure class="gestalt-principle-card">
+  <img
+    src="imgs/gestalt-w8-focal-point.jpg"
+    alt="One contrasting element among repeated shapes to demonstrate focal point"
+    loading="lazy"
+  >
 
-    <section
-      id="gestalt-w8-common-fate"
-      class="image-information-panel"
-      hidden
-    >
-      <p class="image-information-panel__number">Gestalt principle</p>
-      <h3>Common Fate</h3>
-      <p>
-        Elements moving or pointing in the same direction are perceived as related. Static forms can imply shared movement through orientation and directional cues.
-      </p>
-    </section>
+  <figcaption>
+    <h3>Focal Point</h3>
+    <p>
+      An element that differs through scale, colour, contrast, shape, or placement attracts attention and becomes the main point of focus.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Common Fate -->
+<figure class="gestalt-principle-card">
+  <img
+    src="imgs/gestalt-w8-common-fate.jpg"
+    alt="Repeated elements pointing in the same direction to demonstrate common fate"
+    loading="lazy"
+  >
+
+  <figcaption>
+    <h3>Common Fate</h3>
+    <p>
+      Elements that move, point, or appear to travel in the same direction are perceived as related and part of the same action.
+    </p>
+  </figcaption>
+</figure>
+
+    </div>
+
+    <p>
+      Reference images:
+      <a
+        href="https://ixdf.org/literature/topics/gestalt-principles"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Interaction Design Foundation, CC BY-SA 4.0
+      </a>.
+    </p>
+
   </div>
-</div>
-
-Reference images: [Interaction Design Foundation, CC BY-SA 4.0](https://ixdf.org/literature/topics/gestalt-principles){:target="_blank"}.
-
-</div>
 </details>
 
-<!-- 
-/////////////////
-SUB-SECTION B
-/////////////////
--->
+    <!-- 
+    /////////////////
+    SUB-SECTION B
+    /////////////////
+    -->
+
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Review the Art Styles</span>
+        <span class="section-description">
+          Review the visual characteristics, historical references, and design approaches associated with the five styles used in Part 2.
+        </span>
+      </summary>
+
+      <div class="section-content">
+
+        <div class="style-review-list">
+
+<!-- Atomic Age -->
+<article class="style-review-row">
+
+  <div class="style-review-video">
+    <video controls preload="metadata">
+      <source src="imgs/atomic-age.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+  </div>
+
+  <div class="style-review-content">
+    <h3>Atomic Age</h3>
+
+    <p>
+      Atomic Age design draws from mid-century scientific optimism through starbursts, boomerangs, atoms, rockets, satellites, simplified geometry, and bold contrasting palettes.
+    </p>
+
+    <h4>Relevant links</h4>
+
+    <ul>
+      <li>
+        <a
+          href="https://aesthetics.fandom.com/wiki/Atomic_Age"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Atomic Age overview
+        </a>
+        <p>
+          An introduction to the post-war visual language of atomic science, the Space Race, and mid-century futurism.
+        </p>
+      </li>
+
+      <li>
+        <a
+          href="https://www.google.com/search?tbm=isch&amp;q=Atomic+Age+graphic+design"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Atomic Age examples
+        </a>
+        <p>
+          Examples of advertising, illustration, architecture, posters, and product design associated with the Atomic Age.
+        </p>
+      </li>
+    </ul>
+  </div>
+
+</article>
+
+<!-- Wacky PoMo -->
+<article class="style-review-row">
+
+  <div class="style-review-video">
+    <video controls preload="metadata">
+      <source src="imgs/wacky-pomo.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+  </div>
+
+  <div class="style-review-content">
+    <h3>Wacky PoMo</h3>
+
+    <p>
+      Wacky PoMo uses cartoon-like forms, exaggerated typography, irregular grids, clashing colours, playful patterns, and intentionally disruptive postmodern arrangements.
+    </p>
+
+    <h4>Relevant links</h4>
+
+    <ul>
+      <li>
+        <a
+          href="https://aesthetics.fandom.com/wiki/Wacky_Pomo"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Wacky PoMo overview
+        </a>
+        <p>
+          A description of Wacky PoMo and its use in 1990s and early-2000s marketing, publishing, packaging, and youth-oriented design.
+        </p>
+      </li>
+
+      <li>
+        <a
+          href="https://www.google.com/search?tbm=isch&amp;q=Wacky+PoMo+graphic+design"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Wacky PoMo examples
+        </a>
+        <p>
+          Examples of expressive typography, irregular layouts, characters, patterns, and colourful postmodern graphics.
+        </p>
+      </li>
+    </ul>
+  </div>
+
+</article>
+
+<!-- Whimsigothic -->
+<article class="style-review-row">
+
+  <div class="style-review-video">
+    <video controls preload="metadata">
+      <source src="imgs/whimsigothic.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+  </div>
+
+  <div class="style-review-content">
+    <h3>Whimsigothic</h3>
+
+    <p>
+      Whimsigothic combines dark romantic colour palettes with celestial symbols, botanical forms, ornate frames, candles, moons, stars, crystals, and layered mystical textures.
+    </p>
+
+    <h4>Relevant links</h4>
+
+    <ul>
+      <li>
+        <a
+          href="https://aesthetics.fandom.com/wiki/Whimsigothic"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Whimsigothic overview
+        </a>
+        <p>
+          An overview of the style also known as Whimsigoth, including its celestial, gothic, botanical, and decorative references.
+        </p>
+      </li>
+
+      <li>
+        <a
+          href="https://www.google.com/search?tbm=isch&amp;q=Whimsigothic+Whimsigoth+graphic+design"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Whimsigothic examples
+        </a>
+        <p>
+          Examples of dark romantic layouts, celestial motifs, ornamental borders, typography, and layered textures.
+        </p>
+      </li>
+    </ul>
+  </div>
+
+</article>
+
+<!-- Synthwave -->
+<article class="style-review-row">
+
+  <div class="style-review-video">
+    <video controls preload="metadata">
+      <source src="imgs/synthwave.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+  </div>
+
+  <div class="style-review-content">
+    <h3>Synthwave</h3>
+
+    <p>
+      Synthwave draws from retro-futurist interpretations of the 1980s through neon gradients, perspective grids, chrome typography, glowing horizons, geometric landscapes, and high contrast.
+    </p>
+
+    <h4>Relevant links</h4>
+
+    <ul>
+      <li>
+        <a
+          href="https://aesthetics.fandom.com/wiki/Synthwave"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Synthwave overview
+        </a>
+        <p>
+          An introduction to the visual language of neon grids, striped sunsets, chrome type, retro technology, and cinematic 1980s futurism.
+        </p>
+      </li>
+
+      <li>
+        <a
+          href="https://www.google.com/search?tbm=isch&amp;q=Synthwave+graphic+design"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Synthwave examples
+        </a>
+        <p>
+          Examples of album covers, posters, interface graphics, landscapes, gradients, and retro-futurist typography.
+        </p>
+      </li>
+    </ul>
+  </div>
+
+</article>
+
+<!-- Solarpunk -->
+<article class="style-review-row">
+
+  <div class="style-review-video">
+    <video controls preload="metadata">
+      <source src="imgs/solarpunk.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+  </div>
+
+  <div class="style-review-content">
+    <h3>Solarpunk</h3>
+
+    <p>
+      Solarpunk imagines sustainable futures through vegetation, renewable technology, warm daylight, community spaces, organic architecture, local systems, and relationships between ecological and technological forms.
+    </p>
+
+    <h4>Relevant links</h4>
+
+    <ul>
+      <li>
+        <a
+          href="https://aesthetics.fandom.com/wiki/Solarpunk"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Solarpunk overview
+        </a>
+        <p>
+          An introduction to Solarpunk as an ecological, community-oriented, and speculative approach to future design.
+        </p>
+      </li>
+
+      <li>
+        <a
+          href="https://www.google.com/search?tbm=isch&amp;q=Solarpunk+graphic+design"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Solarpunk examples
+        </a>
+        <p>
+          Examples of green cities, renewable systems, community spaces, botanical graphics, and optimistic future-oriented design.
+        </p>
+      </li>
+    </ul>
+  </div>
+
+</article>
+
+    </div>
+
+    <blockquote>
+      <p>
+        <strong>Video source:</strong>
+        <a
+          href="https://www.instagram.com/thesupergraphics/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>The Supergraphics: Fine Art</em> by Harald Austad
+        </a>.
+        Videos are included for educational review.
+      </p>
+    </blockquote>
+
+  </div>
+</details>
 
 <!-- 
 /////////////////
@@ -252,7 +451,181 @@ SUB-SECTION C
 /////////////////
 -->
 
-</div>
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Review Samara’s Rules for Making Good Design</span>
+    <span class="section-description">
+      Review the ten rules assigned to Part 2 and consider how each one can guide your design decisions.
+    </span>
+  </summary>
+
+  <div class="section-content">
+
+    <div class="samara-rules-grid">
+
+<!-- Rule 4 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-04.png"
+    alt="Timothy Samara rule 4: Use two typefaces maximum"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>4. Use two typefaces—maximum</h3>
+    <p>
+      Limit the composition to one or two type families. Create hierarchy through size, weight, spacing, and placement rather than adding unnecessary fonts.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 5 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-05.png"
+    alt="Timothy Samara rule 5: Show one thing first"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>5. Show one thing first</h3>
+    <p>
+      Establish a clear focal point. Use scale, colour, contrast, placement, or isolation to show the viewer where to begin.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 6 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-06.png"
+    alt="Timothy Samara rule 6: Pick colours for a purpose"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>6. Pick colours for a purpose</h3>
+    <p>
+      Choose colours that support the concept, audience, hierarchy, and intended emotional effect. Do not select colours only because they look appealing.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 9 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-09.png"
+    alt="Timothy Samara rule 9: Treat type like image"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>9. Treat type like image</h3>
+    <p>
+      Consider letters and words as visual forms. Integrate typography with the shapes, rhythms, textures, and spatial structure of the composition.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 10 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-10.png"
+    alt="Timothy Samara rule 10: Keep type friendly"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>10. Keep type friendly</h3>
+    <p>
+      Typography may be expressive, but it must remain readable or clearly meaningful for the intended audience and design function.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 13 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-13.png"
+    alt="Timothy Samara rule 13: Distribute light and dark"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>13. Distribute light and dark</h3>
+    <p>
+      Use concentrated areas of light, middle values, and darkness to establish contrast, depth, emphasis, and visual rhythm.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 17 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-17.png"
+    alt="Timothy Samara rule 17: Try to ignore fashion. Really"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>17. Try to ignore fashion. Really!</h3>
+    <p>
+      Make decisions from the concept, audience, and function rather than reproducing a current trend without a clear reason.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 18 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-18.png"
+    alt="Timothy Samara rule 18: Move it Static equals dull"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>18. Move it! Static equals dull</h3>
+    <p>
+      Create energy through direction, scale changes, diagonals, perspective, repetition, and unequal spacing. The composition should guide the eye through space.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 19 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-19.png"
+    alt="Timothy Samara rule 19: Look to history do not repeat it"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>19. Look to history—do not repeat it</h3>
+    <p>
+      Study historical styles to understand how they communicate, then transform those references into an original response rather than copying an existing design.
+    </p>
+  </figcaption>
+</figure>
+
+<!-- Rule 20 -->
+<figure class="samara-rule-card">
+  <img
+    src="imgs/samara-rule-20.png"
+    alt="Timothy Samara rule 20: Symmetry is the ultimate evil"
+    loading="lazy"
+  >
+  <figcaption>
+    <h3>20. Symmetry is the ultimate evil</h3>
+    <p>
+      Use perfect symmetry cautiously. When a symmetrical structure becomes static, introduce contrast, directional tension, or an intentional disruption.
+    </p>
+  </figcaption>
+</figure>
+
+        </div>
+
+        <blockquote>
+          <p>
+            <strong>Source:</strong>
+            Samara, T. (2007) <em>Design Elements: A Graphic Style Manual</em>. Rockport Publishers. Images (pp. 10–29) are included for educational review.
+          </p>
+        </blockquote>
+
+      </div>
+    </details>
+
+  </div>
 </details>
 
 
@@ -272,19 +645,19 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-Choose **three of the five options** below. You may apply the selected pairings to the three formats in any order.
+Choose **three of the five options** below. Apply each selected pairing to one required format.
 
 | Option | Leading style | Gestalt principles | Samara rules | Required visual direction |
 |---|---|---|---|---|
-| **1** | **Atomic Age** | Symmetry and Order + Prägnanz | **19. Look to history, but don’t repeat it.**<br>**20. Symmetry is the ultimate evil.** | Use starbursts, orbital forms, boomerangs, atomic symbols, central motifs, and radiating lines. Establish order through symmetry, then simplify or interrupt the structure to avoid a static result. |
-| **2** | **Wacky PoMo** | Multistability + Common Fate | **5. Use the one-two punch.**<br>**18. Move it! Static equals dull.** | Use exaggerated scale, tilted forms, splats, spirals, arrows, and layered cartoon imagery. Create more than one possible reading while directional cues move the eye through the composition. |
-| **3** | **Whimsigoth** | Symmetry and Order + Common Region | **6. Pick colours on purpose.**<br>**13. Distribute light and dark like firecrackers and the rising sun.** | Use celestial symbols, mirrored arrangements, decorative frames, dark backgrounds, layered textures, and luminous details. Use tonal fields and boundaries to organize the composition. |
-| **4** | **Synthwave** | Invariance + Common Fate | **4. Use two typeface families maximum. OK, maybe three.**<br>**9. Treat type as image, as though it’s just as important.** | Use perspective grids, horizon lines, central suns, dimensional type, and repeated motifs that change in scale or position while remaining recognizable. Direct the elements toward a shared vanishing point. |
-| **5** | **Solarpunk** | Common Region + Prägnanz | **10. Type is only type when it’s friendly.**<br>**17. Ignore fashion. Seriously.** | Use ecological networks, renewable technologies, architecture, vegetation, and shared spaces. Organize the system into clear regions and simplify complex relationships without reducing the social or ecological concept. |
+| **1** | **Atomic Age** | Symmetry + Focal Point | **5. Show one thing first.**<br>**20. Symmetry is the ultimate evil.** | Use starbursts, orbiting forms, rockets, atoms, boomerangs, and mid-century geometry. Establish one clear focal element, then disrupt perfect symmetry through an offset shape, text block, or directional form. |
+| **2** | **Wacky PoMo** | Connectedness + Common Region | **9. Treat type like image.**<br>**19. Look to history—do not repeat it.** | Use expressive typography, irregular frames, arrows, lines, cartoon-like forms, and grouped graphic fragments. Reference postmodern design without copying an existing composition. |
+| **3** | **Whimsigothic** | Symmetry + Common Region | **4. Use two typefaces—maximum.**<br>**13. Distribute light and dark.** | Use mirrored celestial or botanical motifs, ornamental frames, dark colour fields, and concentrated highlights. Keep typography controlled and organize related symbols within visible regions. |
+| **4** | **Synthwave** | Common Fate + Focal Point | **6. Pick colours for a purpose.**<br>**18. Move it! Static equals dull.** | Use perspective grids, repeated directional forms, neon gradients, glowing horizons, and one dominant focal element. Colour and direction should create movement toward or away from the focal point. |
+| **5** | **Solarpunk** | Connectedness + Common Fate | **10. Keep type friendly.**<br>**17. Try to ignore fashion. Really!** | Connect ecological, technological, architectural, and community elements through visible networks, paths, or shared directions. Keep information readable and develop the style from the concept rather than copying a current trend. |
 
 ### Note on Rule 20
 
-Treat “Symmetry is the ultimate evil” as a provocation rather than a prohibition. Begin with symmetry and order, then test whether variation, interruption, or imbalance makes the composition more effective.
+Rule 20 does not mean that symmetry is prohibited in this activity. Use symmetry to establish order, then examine whether the composition becomes too static. Introduce an intentional disruption when contrast, movement, or hierarchy is needed.
 
 </div>
 </details>
@@ -297,9 +670,9 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Assign one format to each pairing</span>
+    <span class="section-title">3. Assign one pairing to each required format</span>
     <span class="section-description">
-      Use the alternate graphic and UI formats from Part 1, then create a new photomontage.
+      Create one poster, two connected app screens, and one new photomontage.
     </span>
   </summary>
 
@@ -307,26 +680,87 @@ SECTION 3
 
 Create one composition in each category:
 
-| Category | Part 2 requirement | Main software |
+| Category | Required format | Main software |
 |---|---|---|
-| **Graphic design** | Use the option not selected in Part 1: logo or poster | Adobe Illustrator |
-| **UI design** | Use the option not selected in Part 1: website or app | Adobe Illustrator |
-| **Photomontage** | Create a new photographic collage using different source material and a new concept | Adobe Photoshop |
+| **Graphic design** | Poster | Adobe Illustrator |
+| **UI design** | Two connected app screens | Adobe Illustrator |
+| **Photomontage** | Photographic collage using image layers and texture | Adobe Photoshop |
 
-Examples:
+Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
 
-- If you created a **logo** in Part 1, create a **poster** in Part 2.
-- If you created a **poster** in Part 1, create a **logo** in Part 2.
-- If you created a **website** in Part 1, create an **app** in Part 2.
-- If you created an **app** in Part 1, create a **website** in Part 2.
+## Review the required formats
 
-Assign one selected style pairing to each category. Consider which pairing best supports the purpose and structure of the format.
+<div class="format-options-grid">
 
-## Define the concept
+  <!-- Poster -->
+  <figure class="format-option-card">
+    <h3>Poster</h3>
+    <p>
+      A poster communicates information about an event, campaign, organization, product, or public message within one vertical or horizontal composition.
+    </p>
+    <p>
+      It should establish a clear focal point and guide the viewer through the title, imagery, supporting information, and practical details.
+    </p>
+    <img
+      src="imgs/format-poster-example.jpg"
+      alt="Example of a poster design"
+      loading="lazy"
+    >
+    <figcaption>
+      Example of a poster using image, typography, hierarchy, and colour to communicate one message.
+    </figcaption>
+  </figure>
 
-Before sketching, write one sentence that states what each composition communicates. The concept may describe an event, organization, service, place, product, interface, or visual message.
+  <!-- App screens -->
+  <figure class="format-option-card">
+    <h3>Two App Screens</h3>
+    <p>
+      App screens organize information and controls so that a user can understand the interface and complete a specific action.
+    </p>
+    <p>
+      Create one introductory or home screen and one connected secondary screen. The two screens must share consistent navigation, typography, colour, buttons, icons, spacing, and visual hierarchy.
+    </p>
+    <img
+      src="imgs/format-app-example.jpg"
+      alt="Example of two connected mobile app screens"
+      loading="lazy"
+    >
+    <figcaption>
+      Example of two related app screens that use a consistent interface system and show a simple user path.
+    </figcaption>
+  </figure>
 
-The style and Gestalt principles must support the concept. Do not begin by selecting decorative elements without deciding what the composition communicates.
+  <!-- Photomontage -->
+  <figure class="format-option-card">
+    <h3>Photomontage</h3>
+    <p>
+      A photomontage combines photographs, textures, fragments, and graphic elements to construct a new image or visual argument.
+    </p>
+    <p>
+      The Part 2 photomontage must use at least one new original DSLR photograph and develop a concept that is different from the Part 1 composition.
+    </p>
+    <img
+      src="imgs/format-photomontage-example.jpg"
+      alt="Example of a photographic montage"
+      loading="lazy"
+    >
+    <figcaption>
+      Example: Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a>
+    </figcaption>
+  </figure>
+
+</div>
+
+## Assign the style pairings
+
+Use each selected pairing once:
+
+- Assign one pairing to the poster.
+- Assign one pairing to the two app screens.
+- Assign one pairing to the photomontage.
+- Do not repeat the same style pairing across two formats.
+
+The poster and app screens must use the format options that were not completed in Part 1. The photomontage must be a new composition with a new concept and a new original photograph.
 
 </div>
 </details>
@@ -339,79 +773,92 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Sketch the three compositions</span>
+    <span class="section-title">4. Plan and sketch the three compositions</span>
     <span class="section-description">
-      Plan the concept, hierarchy, style, Gestalt principles, and main visual elements before opening the software.
+      Define the concept and create one annotated sketch for each required format.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Sketch in a physical or digital notebook. Create **one sketch for each composition**.
+Create one planning sketch for each composition:
 
-Each sketch must identify:
+- One poster
+- Two connected app screens
+- One photomontage
+
+The sketches may be drawn by hand, photographed or scanned, or created digitally. They do not need to be polished, but the structure and written notes must be clear.
+
+For the app design, place both screens on the same planning page and use arrows or notes to show how the user moves from the first screen to the second.
+
+Use simple shapes, lines, labels, and arrows to show where the main elements will appear.
 
 <fieldset class="equipment-checklist">
-  <legend>Required information for each sketch</legend>
+  <legend>Planning requirements for each composition</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Format</strong>
-      Identify the logo, poster, website, app, or photomontage format.
+      <strong>Identify the format.</strong>
+      State whether the sketch is for the poster, app screens, or photomontage.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Concept</strong>
-      Write one sentence stating what the composition communicates.
+      <strong>Define the concept and audience.</strong>
+      Write one sentence explaining what the composition communicates and who it is intended for.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Style pairing</strong>
-      Name the selected style and list at least three visual characteristics you will use.
+      <strong>Identify the style pairing.</strong>
+      Name the selected style, two Gestalt principles, and two Samara rules.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Gestalt principles</strong>
-      Label where each assigned principle appears in the sketch.
+      <strong>Draw the main structure.</strong>
+      Show the placement of images, text, shapes, interface controls, sections, and other important elements.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Samara rules</strong>
-      Write both assigned rules and note how each one affects the design.
+      <strong>Mark the visual organization.</strong>
+      Identify the focal area, reading order, grouping, connections, boundaries, movement, and negative space.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Hierarchy and movement</strong>
-      Mark the focal area, reading order, grouping, direction, boundaries, and use of symmetry.
+      <strong>Add visual notes.</strong>
+      Include brief notes about the planned colours, imagery, textures, typography, and recognizable characteristics of the selected style.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Colour and image plan</strong>
-      Indicate the main colours, image sources, textures, and type choices.
+      <strong>Prepare the sketches for submission.</strong>
+      Photograph, scan, or export the sketches clearly, then combine them into one three-page PDF in the following order: poster, app screens, and photomontage.
     </span>
   </label>
 </fieldset>
 
-Ask the instructor for feedback before beginning the digital files.
+Save the completed planning document as:
+
+- **Format:** PDF
+- **Filename:** `Lastname-Firstname-CompTech3-Part2-Sketches.pdf`
+
+Ask the instructor for feedback before beginning the final digital compositions.
 
 </div>
 </details>
@@ -430,31 +877,31 @@ SECTION 5
     </span>
   </summary>
 
+<div class="section-content">
+
+<!-- 
+/////////////////
+SUB-SECTION A
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Graphic Design: Poster</span>
+    <span class="section-description">
+      Set up the Illustrator document and review the references required to create the poster.
+    </span>
+  </summary>
+
 <div class="section-content" markdown="1">
 
-## Graphic design
+Use Adobe Illustrator to create the poster. Adobe Photoshop may be used to prepare raster images.
 
-Use Adobe Illustrator. Adobe Photoshop may be used to prepare raster images. Embed all linked images before exporting.
-
-### Logo
-
-![Logo document setup reference](imgs/logo.png)
-
-| Setting | Requirement |
-|---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part2-Logo` |
-| Units | Pixels |
-| Size | 1000 × 1000 px |
-| Aspect ratio | 1:1 |
-| Bleed | 10 px on all sides |
-| Colour mode | RGB |
-| Raster effects | High, 300 PPI |
-| Guides | Inner rectangular border 20 px from the edges |
-| Layers | Guides, Composition, Background |
-
-### Poster
+> **Embed all linked images before exporting.** Points will be deducted when linked images are missing or not embedded.
 
 ![Poster document setup reference](imgs/poster.png)
+
+### Document setup
 
 | Setting | Requirement |
 |---|---|
@@ -467,52 +914,123 @@ Use Adobe Illustrator. Adobe Photoshop may be used to prepare raster images. Emb
 | Guides | Inner rectangular border 0.5 in from the edges |
 | Layers | Guides, Composition, Background |
 
-### Graphic design tutorials
+### Poster design tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/XeQo6fT0n_o?si=0UiNLZHDC1gbWn6f"
+    title="All 20+ Effects in Adobe Illustrator Explained"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AUxtDCyaPFg?si=u9MD48P1sKyNpx8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/){:target="_blank"} for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator. Adapt individual techniques to your own concept rather than copying a complete design.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/svd4WQE_92Y?si=O0_aL82zce8HYo40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</details>
 
-## UI design
+<!-- 
+/////////////////
+SUB-SECTION B
+/////////////////
+-->
 
-Use Adobe Illustrator. Adobe Photoshop may be used to prepare images and textures. Embed all linked images before exporting.
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">UI Design: Two App Screens</span>
+    <span class="section-description">
+      Set up two Illustrator artboards and design a clear relationship between the screens.
+    </span>
+  </summary>
 
-### Website
+<div class="section-content" markdown="1">
 
-![Website document setup reference](imgs/website.png)
+Use Adobe Illustrator to create two connected app screens. Adobe Photoshop may be used to prepare images and textures.
 
-| Setting | Requirement |
-|---|---|
-| Filename | `Lastname-Firstname-CompTech3-Part2-Website` |
-| Units | Pixels |
-| Size | 1920 × 1080 px |
-| Bleed | 10 px on all sides |
-| Colour mode | RGB |
-| Raster effects | High, 300 PPI |
-| Guides | Inner rectangular border 50 px from the edges |
-| Layers | Guides, Composition, Background |
+The screens are static interface mockups. No programming or functional prototype is required.
 
-### App
+> **Embed all linked images before exporting.** Points will be deducted when linked images are missing or not embedded.
 
 ![App document setup reference](imgs/app.png)
+
+### Document setup
 
 | Setting | Requirement |
 |---|---|
 | Filename | `Lastname-Firstname-CompTech3-Part2-App` |
 | Units | Pixels |
-| Size | 1125 × 2436 px |
-| Artboards | Two |
+| Artboard size | 1125 × 2436 px |
+| Number of artboards | Two |
 | Bleed | 10 px on all sides |
 | Colour mode | RGB |
 | Raster effects | High, 300 PPI |
-| Guides | Inner rectangular border 50 px from the edges |
+| Guides | Inner rectangular border 50 px from the edges of each artboard |
 | Layers | Guides, Composition, Background |
 
-## Photomontage
+### Screen requirements
 
-Use Adobe Photoshop. Adobe Illustrator may be used to prepare vector elements.
+- **Screen 1:** Create an introductory, home, or landing screen that establishes the app’s purpose.
+- **Screen 2:** Create a connected screen that allows the user to access information or complete one clear action.
+- Use consistent navigation, buttons, icons, typography, colour, spacing, and visual hierarchy across both screens.
+- Use arrows or notes in the sketch to explain how the user moves from Screen 1 to Screen 2.
+
+### App design tutorials
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/XeQo6fT0n_o?si=0UiNLZHDC1gbWn6f"
+    title="All 20+ Effects in Adobe Illustrator Explained"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/){:target="_blank"} for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator. Use effects only when they support the interface concept and remain readable.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SUB-SECTION C
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Photomontage</span>
+    <span class="section-description">
+      Take a new original DSLR photograph and set up the layered Photoshop document.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Create a new photomontage in Adobe Photoshop using photographs, textures, image fragments, and graphic elements.
+
+The final composition must include **at least one new original photograph taken specifically for Part 2**. Do not reuse the original photograph submitted for Part 1.
+
+The following files are required for submission:
+
+- The completed photomontage saved as a layered TIFF, with all layers preserved and editable
+- The original, unedited camera file used to satisfy the Part 2 photography requirement
+
+### Original photography requirement
+
+Book and use a **Canon EOS Rebel T4i DSLR camera**.
+
+Set the camera to **Aperture Priority (`Av`) mode** and photograph a subject, object, texture, place, or environment that supports the new concept.
+
+The original photograph must remain identifiable within the final composition, even when it is cropped, layered, adjusted, or transformed.
+
+### Camera tutorials
+
+- [Canon Rebel T4i Quick Reference Guide](https://jac307.github.io/summer-camp/tutorials/Photography/00_Canon_T4i_Quick_Reference.html){:target="_blank"}
+- [Canon Rebel T4i Camera and Lens Anatomy](https://jac307.github.io/summer-camp/tutorials/Photography/01_Camera_and_Lens_Anatomy.html){:target="_blank"}
+- [Camera Setup and Aperture Priority Mode](https://jac307.github.io/summer-camp/tutorials/Photography/02_Camera_Setup_and_Av_Mode.html){:target="_blank"}
+
+### Photoshop document setup
 
 ![Photomontage document setup reference](imgs/photomontage.png)
 
@@ -527,9 +1045,26 @@ Use Adobe Photoshop. Adobe Illustrator may be used to prepare vector elements.
 
 ### Photomontage tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/icNXrgD08qE?si=m7zAQ1JK1wQHwAP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/5j9_ywshuDw?si=Rq7xh98wm4SoDXY4"
+    title="Beginner's Guide to Photoshop Collages"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOYz669WNpU?si=24OeqEx7oEo1Qe7n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9"
+    title="Master the Pen Tool in Under 8 Minutes in Photoshop"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+</details>
 
 </div>
 </details>
@@ -542,15 +1077,23 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create and review the compositions</span>
+    <span class="section-title">6. Create and review the three compositions</span>
     <span class="section-description">
-      Build each composition from the approved sketch and verify that every formal requirement is visible.
+      Develop the poster, app screens, and photomontage from the approved sketches, then review the conceptual, visual, and technical requirements.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Use the sketches as the starting point, but make adjustments when spacing, scale, colour, direction, or hierarchy does not work in the digital file.
+Use the approved sketches as the starting point for each composition:
+
+- One poster
+- Two connected app screens
+- One photomontage
+
+The final compositions do not need to reproduce the sketches exactly. Adjust the spacing, scale, colour, typography, imagery, interface elements, and hierarchy when these elements do not work effectively in the digital file.
+
+Each decision should support the concept, selected style, assigned Gestalt principles, Samara rules, and purpose of the design format.
 
 <fieldset class="equipment-checklist">
   <legend>Review each composition before exporting</legend>
@@ -559,39 +1102,63 @@ Use the sketches as the starting point, but make adjustments when spacing, scale
     <input type="checkbox">
     <span>
       <strong>The concept is clear.</strong>
-      The composition communicates a specific subject, purpose, or message.
+      The composition communicates a specific subject, purpose, message, or function.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The style is recognizable.</strong>
-      At least three characteristics of the selected style are visible and adapted to the concept.
+      <strong>The format is used appropriately.</strong>
+      The design works as a poster, two connected app screens, or a photomontage and responds to the purpose of that format.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Both Gestalt principles are visible.</strong>
-      The principles organize the composition rather than appearing as isolated effects.
+      <strong>The selected style is recognizable.</strong>
+      At least three characteristics of the style are visible and adapted to the composition rather than copied directly from an example.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Both Samara rules affect the design.</strong>
-      The rules are evident in the hierarchy, colour, typography, movement, historical reference, or communication strategy.
+      <strong>Both Gestalt principles organize the composition.</strong>
+      The assigned principles are clearly visible through balance, links, boundaries, emphasis, or directional movement.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The viewer’s path is controlled.</strong>
-      The composition establishes hierarchy, direction, connection, boundaries, and movement.
+      <strong>Both Samara rules guide the design.</strong>
+      The assigned rules influence the typography, hierarchy, colour, movement, contrast, originality, or communication strategy.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The visual hierarchy is clear.</strong>
+      The viewer can identify the focal area, reading order, grouped elements, directional movement, and negative space.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The visual elements are consistent.</strong>
+      Colour, typography, imagery, shapes, textures, and spacing work together as one coherent composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The app screens form one interface system.</strong>
+      Both screens use consistent controls and show a clear relationship or user path.
     </span>
   </label>
 
@@ -599,10 +1166,20 @@ Use the sketches as the starting point, but make adjustments when spacing, scale
     <input type="checkbox">
     <span>
       <strong>The file is technically complete.</strong>
-      Dimensions, colour mode, resolution, layers, margins, embedded images, and filename are correct.
+      The dimensions, colour mode, resolution, margins, guides, layers, embedded images, and filename follow the instructions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The photomontage requirements are complete.</strong>
+      A new Part 2 DSLR photograph is used, the TIFF preserves active layers, and the original unedited camera file is ready for submission.
     </span>
   </label>
 </fieldset>
+
+Make final corrections before exporting the poster and app screens as PDF files and saving the photomontage as a layered TIFF.
 
 </div>
 </details>
@@ -628,24 +1205,29 @@ SECTION 7
 | Item | Required filename |
 |---|---|
 | Sketches PDF | `Lastname-Firstname-CompTech3-Part2-Sketches.pdf` |
-| Graphic design PDF | `Lastname-Firstname-CompTech3-Part2-Logo.pdf` or `Lastname-Firstname-CompTech3-Part2-Poster.pdf` |
-| UI design PDF | `Lastname-Firstname-CompTech3-Part2-Website.pdf` or `Lastname-Firstname-CompTech3-Part2-App.pdf` |
-| Photomontage PDF | `Lastname-Firstname-CompTech3-Part2-Photomontage.pdf` |
+| Poster PDF | `Lastname-Firstname-CompTech3-Part2-Poster.pdf` |
+| App screens PDF | `Lastname-Firstname-CompTech3-Part2-App.pdf` |
+| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part2-Photomontage.tiff` |
+| Original photograph | `Lastname-Firstname-CompTech3-Part2-Photography.JPG` |
+
+The app PDF must contain both artboards as two pages in the correct order.
 
 ## Written descriptions
 
-Post a **two-sentence description for each composition** directly in Avenue to Learn.
+Post a **250-word description for each composition** directly in Avenue to Learn.
 
-Each description must:
+Each description must clearly explain the design rather than only listing the required principles.
 
-1. State the concept and selected style.
-2. Identify the two Gestalt principles and explain how the two Samara rules shaped the design.
+For each composition:
 
-### Example
+1. State the concept and selected visual style.
+2. Identify the two Gestalt principles and two Samara rules used.
+3. Select **one specific and visible element of the design**, such as a title, button, frame, colour area, image, line, symbol, or group of shapes.
+4. Write a short analysis of that element. Describe exactly where it appears, how it is designed, which principle or rule it demonstrates, and how it supports the concept or intended function.
 
-> This interface presents a fictional overnight transit service through a Synthwave visual language based on a perspective grid, a central horizon, and dimensional type. Invariance and common fate keep repeated forms recognizable as their scale and position change toward one vanishing point, while Rules 4 and 9 limit the type system and integrate typography into the image.
+Do not make general statements about the composition as a whole. Focus on one concrete example that can be clearly identified in the submitted design.
 
-Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup may affect the grade.
+> Confirm that all files open correctly before submitting. Incorrect filenames, missing files, incomplete document setup, missing embedded images, or flattened photomontage layers will affect the grade.
 
 </div>
 </details>
