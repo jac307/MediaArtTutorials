@@ -262,7 +262,7 @@ Each team must submit its materials **at least one day before the scheduled pres
 
 <details class="tutorial-section" id="materials">
   <summary>
-    <span class="section-title">6. Readings and artists/artworks by week</span>
+    <span class="section-title">4. Readings and artists/artworks by week</span>
     <span class="section-description">
       Review the assigned reading and artistic examples for each presentation week.
     </span>
