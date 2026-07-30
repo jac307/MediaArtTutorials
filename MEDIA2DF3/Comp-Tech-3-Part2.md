@@ -723,7 +723,7 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Example of a poster using image, typography, hierarchy, and colour to communicate one message.
+      Example: Poster by Chinesse designer <a href="https://typomania.net/2019/speakers-2019/xu-li/" target="_blank" rel="noopener noreferrer">Xu Li</a>
     </figcaption>
   </figure>
 
@@ -737,12 +737,12 @@ Assign one of your three selected style pairings to each required format. Consid
       Create one introductory or home screen and one connected secondary screen. The two screens must share consistent navigation, typography, colour, buttons, icons, spacing, and visual hierarchy.
     </p>
     <img
-      src="imgs/format-app-example.jpg"
+      src="imgs/format-app-example.PNG"
       alt="Example of two connected mobile app screens"
       loading="lazy"
     >
     <figcaption>
-      Example of two related app screens that use a consistent interface system and show a simple user path.
+      Example: <a href="https://howwefeel.org/" target="_blank" rel="noopener noreferrer">How We Feel</a> App developed by Strand & Form. 
     </figcaption>
   </figure>
 
@@ -756,12 +756,12 @@ Assign one of your three selected style pairings to each required format. Consid
       The Part 2 photomontage must use at least one new original DSLR photograph and develop a concept that is different from the Part 1 composition.
     </p>
     <img
-      src="imgs/format-photomontage-example.jpg"
+      src="imgs/format-photomontage-example-2.jpg"
       alt="Example of a photographic montage"
       loading="lazy"
     >
     <figcaption>
-      Example: Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a>
+      Example: Photomontage by Italian artist <a href="https://andreacostantini.com/" target="_blank" rel="noopener noreferrer">Andrea Costantini</a>
     </figcaption>
   </figure>
 
@@ -1074,6 +1074,15 @@ The original photograph must remain identifiable within the final composition, e
   <iframe
     src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9"
     title="Master the Pen Tool in Under 8 Minutes in Photoshop"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/fts5PKVXzIg?si=5djqN06fKTR4TZE3"
+    title="How to Make Double Exposure Effect in Adobe Photoshop"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
