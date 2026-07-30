@@ -95,7 +95,7 @@ SUB-SECTION A
       <!-- Common Region -->
       <figure class="gestalt-principle-card">
         <img
-          src="imgs/gestalt-w7-common-region.jpg"
+          src="imgs/gestalt-w8-common-region.jpg"
           alt="A group of grey squares enclosed within a light rectangular area to demonstrate common region"
           loading="lazy"
         >
@@ -143,7 +143,7 @@ SUB-SECTION A
       <!-- Multistability -->
       <figure class="gestalt-principle-card">
         <img
-          src="imgs/gestalt-w7-multistability.jpg"
+          src="imgs/gestalt-w8-multistability.jpg"
           alt="Necker cube that can be perceived from more than one spatial orientation to demonstrate multistability"
           loading="lazy"
         >

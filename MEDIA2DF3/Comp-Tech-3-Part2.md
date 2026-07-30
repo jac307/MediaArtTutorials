@@ -65,7 +65,7 @@ SUB-SECTION A
       <!-- Figure/Ground -->
       <figure class="gestalt-principle-card">
         <img
-          src="imgs/gestalt-w8-figure-ground.jpg"
+          src="imgs/gestalt-w7-figure-ground.jpg"
           alt="Rubin vase that can be perceived as either a vase or two facing profiles to demonstrate figure and ground"
           loading="lazy"
         >
@@ -113,7 +113,7 @@ SUB-SECTION A
       <!-- Similarity -->
       <figure class="gestalt-principle-card">
         <img
-          src="imgs/gestalt-w8-similarity.jpg"
+          src="imgs/gestalt-w7-similarity.jpg"
           alt="Rows of grey and blue squares demonstrating grouping through colour similarity"
           loading="lazy"
         >
