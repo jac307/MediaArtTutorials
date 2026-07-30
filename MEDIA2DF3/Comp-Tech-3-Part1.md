@@ -56,7 +56,7 @@ SUB-SECTION A
     </span>
   </summary>
 
-  <div class="section-content">
+  <div class="section-content" markdown="1">
 
     <div class="gestalt-principles-grid">
 
