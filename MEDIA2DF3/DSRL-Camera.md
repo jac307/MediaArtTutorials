@@ -1172,7 +1172,7 @@ Aperture is measured in **f-stops**.
 
 ## What is ISO?
 
-![ISO Reference](imgs/iso-graph.png)
+![ISO Reference](imgs/iso-graph.jpg)
 
 ISO affects image brightness and visible digital noise. A higher ISO can produce a brighter image in low-light conditions, but it may also increase noise and reduce fine detail. A lower ISO produces a cleaner image, but it requires more available light, a wider aperture, or a slower shutter speed.
 
