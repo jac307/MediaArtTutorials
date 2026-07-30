@@ -186,7 +186,7 @@ SECTION 1
   <div class="interactive-image__visual">
 
     <img
-      src="imgs/camera-side.jpg"
+      src="../MEDIAART2B06/TechWalks/imgs/camera-side.jpg"
       alt="Canon DSLR camera with a zoom lens showing the focus ring, zoom ring, autofocus switch, and image stabilization switch"
     >
 
@@ -331,7 +331,7 @@ SECTION 1
   <div class="interactive-image__visual">
 
     <img
-      src="imgs/camera-back.webp"
+      src="../MEDIAART2B06/TechWalks/imgs/camera-back.webp"
       alt="Back view of a Canon DSLR camera showing the viewfinder, LCD screen, menu and info buttons, playback button, and main control buttons"
     >
 
@@ -559,7 +559,7 @@ SECTION 1
   <div class="interactive-image__visual">
 
     <img
-      src="imgs/camera-bottom.jpg"
+      src="../MEDIAART2B06/TechWalks/imgs/camera-bottom.jpg"
       alt="Bottom view of a Canon DSLR camera showing the battery compartment, tripod mount, and lens release button"
     >
 
@@ -640,7 +640,7 @@ SECTION 1
   <div class="interactive-image__visual">
 
     <img
-      src="imgs/camera-sides.jpg"
+      src="../MEDIAART2B06/TechWalks/imgs/camera-sides.jpg"
       alt="Side views of a Canon DSLR camera showing the SD card slot, A/V and HDMI ports, and microphone port"
     >
 
@@ -868,7 +868,7 @@ Before using the back controls, turn on the camera and set the shooting mode to 
   </label>
 </fieldset>
 
-![Camera set to Aperture Priority mode](imgs/aperture-mode.jpg)
+![Camera set to Aperture Priority mode](../MEDIAART2B06/TechWalks/imgs/aperture-mode.jpg)
 
 In **Aperture Priority mode**, you choose the aperture and the camera automatically selects the shutter speed.
 
@@ -887,7 +887,7 @@ Use the interactive image below to review the buttons you will use most often.
   <div class="interactive-image__visual">
 
     <img
-      src="imgs/back-controls-detail.jpg"
+      src="../MEDIAART2B06/TechWalks/imgs/back-controls-detail.jpg"
       alt="Close-up of the back control buttons of a Canon DSLR camera, including the zoom buttons, playback button, erase button, Quick Control button, SET button, white balance, autofocus, and exposure controls"
     >
 
@@ -1182,7 +1182,7 @@ Use the interactive image below to review the buttons you will use most often.
 
 The <code>Q</code> button provides access to the settings used most often.
 
-![Canon Quick Control screen](imgs/QuickControlScreen.png)
+![Canon Quick Control screen](../MEDIAART2B06/TechWalks/imgs/QuickControlScreen.png)
 
 ### Initial setup
 
@@ -1257,7 +1257,7 @@ The image below shows the same scene photographed at three different exposure le
   <div class="visual-reveal__image">
 
     <img
-      src="imgs/exposure-comparison.webp"
+      src="../MEDIAART2B06/TechWalks/imgs/exposure-comparison.webp"
       alt="Three versions of the same mountain and lake scene photographed at different exposure levels"
     >
 
@@ -1386,7 +1386,7 @@ SECTION 5
 
   <figure class="media-card">
     <img
-      src="imgs/aperture-graph.png"
+      src="../MEDIAART2B06/TechWalks/imgs/aperture-graph.png"
       alt="Aperture scale showing wide and narrow lens openings at different f-stop values"
     >
     <figcaption>
@@ -1396,7 +1396,7 @@ SECTION 5
 
   <figure class="media-card">
     <img
-      src="imgs/aperture-example.gif"
+      src="../MEDIAART2B06/TechWalks/imgs/aperture-example.gif"
       alt="Animated example showing how aperture changes depth of field"
     >
     <figcaption>
@@ -1461,7 +1461,7 @@ ISO affects image brightness and visible digital noise. A higher ISO can produce
 
   <figure class="media-card">
     <img
-      src="imgs/ISO-and-effective-exposure.gif"
+      src="../MEDIAART2B06/TechWalks/imgs/ISO-and-effective-exposure.gif"
       alt="Animated example showing how increasing ISO makes the image appear brighter"
     >
     <figcaption>
@@ -1471,7 +1471,7 @@ ISO affects image brightness and visible digital noise. A higher ISO can produce
 
   <figure class="media-card">
     <img
-      src="imgs/ISO-digital-noise.gif"
+      src="../MEDIAART2B06/TechWalks/imgs/ISO-digital-noise.gif"
       alt="Animated example showing how increasing ISO introduces more visible digital noise"
     >
     <figcaption>
