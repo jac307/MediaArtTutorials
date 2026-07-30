@@ -42,7 +42,7 @@ SECTION 1
 
   <div class="section-content">
 
-    <!-- 
+  <!-- 
 /////////////////
 SUB-SECTION A
 /////////////////
@@ -52,11 +52,11 @@ SUB-SECTION A
   <summary>
     <span class="section-title">Review the Gestalt Principles</span>
     <span class="section-description">
-      Review how recognizable forms and groups emerge through visual organization.
+      Review how viewers recognize forms, follow visual paths, group elements, and interpret ambiguous images.
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+  <div class="section-content">
 
     <div class="gestalt-principles-grid">
 
@@ -64,7 +64,7 @@ SUB-SECTION A
       <figure class="gestalt-principle-card">
         <img
           src="imgs/gestalt-w7-emergence.jpg"
-          alt="Black shapes forming the image of a Dalmatian to demonstrate emergence"
+          alt="Separate black shapes forming the recognizable image of a Dalmatian to demonstrate emergence"
           loading="lazy"
         >
 
@@ -87,7 +87,23 @@ SUB-SECTION A
         <figcaption>
           <h3>Closure</h3>
           <p>
-            The viewer fills gaps and completes incomplete forms when enough information suggests a recognizable whole.
+            The viewer fills gaps and completes incomplete forms when enough visual information suggests a recognizable shape or whole.
+          </p>
+        </figcaption>
+      </figure>
+
+      <!-- Common Region -->
+      <figure class="gestalt-principle-card">
+        <img
+          src="imgs/gestalt-w7-common-region.jpg"
+          alt="A group of grey squares enclosed within a light rectangular area to demonstrate common region"
+          loading="lazy"
+        >
+
+        <figcaption>
+          <h3>Common Region</h3>
+          <p>
+            Elements placed inside the same enclosed area are perceived as belonging together, even when they are similar to elements outside that area.
           </p>
         </figcaption>
       </figure>
@@ -96,14 +112,14 @@ SUB-SECTION A
       <figure class="gestalt-principle-card">
         <img
           src="imgs/gestalt-w7-continuity.jpg"
-          alt="Crossing curves and a directional path demonstrating continuity"
+          alt="Crossing curved lines and a directional path demonstrating continuity"
           loading="lazy"
         >
 
         <figcaption>
           <h3>Continuity</h3>
           <p>
-            Elements that follow the same line, curve, or direction are perceived as connected. The eye continues along the path even when it is interrupted.
+            Elements that follow the same line, curve, or direction are perceived as connected. The viewer’s eye continues along the visual path even when it crosses another element.
           </p>
         </figcaption>
       </figure>
@@ -119,39 +135,23 @@ SUB-SECTION A
         <figcaption>
           <h3>Proximity</h3>
           <p>
-            Elements placed close together are perceived as a group. Greater distance separates elements into different groups.
+            Elements placed close together are perceived as a group. Greater distance separates elements and suggests different relationships.
           </p>
         </figcaption>
       </figure>
 
-      <!-- Similarity -->
+      <!-- Multistability -->
       <figure class="gestalt-principle-card">
         <img
-          src="imgs/gestalt-w7-similarity.jpg"
-          alt="Rows of grey and blue squares demonstrating similarity through colour"
+          src="imgs/gestalt-w7-multistability.jpg"
+          alt="Necker cube that can be perceived from more than one spatial orientation to demonstrate multistability"
           loading="lazy"
         >
 
         <figcaption>
-          <h3>Similarity</h3>
+          <h3>Multistability</h3>
           <p>
-            Elements that share colour, shape, size, texture, or direction are perceived as related.
-          </p>
-        </figcaption>
-      </figure>
-
-      <!-- Figure/Ground -->
-      <figure class="gestalt-principle-card">
-        <img
-          src="imgs/gestalt-w7-figure-ground.jpg"
-          alt="Rubin vase image showing a vase or two facing profiles"
-          loading="lazy"
-        >
-
-        <figcaption>
-          <h3>Figure/Ground</h3>
-          <p>
-            The viewer separates a subject from its surrounding field. The relationship may remain stable or shift between two interpretations.
+            An ambiguous image can support more than one interpretation. The viewer’s perception shifts between possible readings, but the interpretations are not usually perceived at the same time.
           </p>
         </figcaption>
       </figure>
