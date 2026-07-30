@@ -32,7 +32,7 @@ To access the booking system:
 ### Additional equipment guides
 
 - [Available Equipment](Equipment.md)
-- [DSRL Camera Introduction to Camera Parts and Settings)](DSRL-Camera.md)
+- [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
 
 ---
 

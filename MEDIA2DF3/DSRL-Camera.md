@@ -752,91 +752,7 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Prepare the camera</span>
-    <span class="section-description">
-      Check the battery, SD card, lens, and lens cap before turning on the camera.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Before turning on the camera
-
-Check each item as you prepare the equipment.
-
-<fieldset class="equipment-checklist">
-  <legend>Camera preparation checklist</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The camera is turned off.</strong>
-      Keep the power switch set to <code>OFF</code> while preparing the equipment.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The battery is charged and inserted.</strong>
-      A low battery may prevent the camera from turning on or saving files.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>An SD card is inserted.</strong>
-      Confirm that the card is facing the correct direction and clicks into place.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The lens is securely attached.</strong>
-      The lens should be locked into the camera body.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The lens cap is removed.</strong>
-      Store the cap somewhere safe while photographing.
-    </span>
-  </label>
-</fieldset>
-
-> After completing the checklist, turn on the camera and proceed to format the SD card. 
-
-### Format the SD card
-
-Format the SD card in the camera before beginning a new shoot.
-
-> **Warning:** Formatting deletes every file on the card. Confirm that you have copied any files you need before continuing.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/lrHP-7HTn3o?si=Hkpjs8w1LbQtn7zG"
-    title="How to format an SD card in a Canon DSLR camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 3
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Use the camera menu and control buttons</span>
+    <span class="section-title">2. Use the camera menu and control buttons</span>
     <span class="section-description">
       Set the camera to Aperture Priority mode and learn the buttons used to change settings and review photographs.
     </span>
@@ -1207,206 +1123,23 @@ The <code>Q</code> button provides access to the settings used most often.
 
 <!-- 
 /////////////////
-SECTION 4
+SECTION 3
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Understand exposure</span>
+    <span class="section-title">3. Set the aperture and ISO</span>
     <span class="section-description">
-      Compare three exposure levels and learn how brightness affects image detail.
+      Lean what is aperture and ISO and how to change their values. 
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
-
-## What is exposure?
-
-**Exposure** describes how light or dark a photograph appears.
-
-### Explore the examples
-
-The image below shows the same scene photographed at three different exposure levels.
-
-**Click each photograph to find out which type of exposure it shows.**
-
-<div class="visual-reveal visual-reveal--three">
-
-  <input
-    class="screen-reader-only visual-reveal__input"
-    type="radio"
-    name="exposure-example"
-    id="exposure-example-1"
-  >
-
-  <input
-    class="screen-reader-only visual-reveal__input"
-    type="radio"
-    name="exposure-example"
-    id="exposure-example-2"
-  >
-
-  <input
-    class="screen-reader-only visual-reveal__input"
-    type="radio"
-    name="exposure-example"
-    id="exposure-example-3"
-  >
-
-  <div class="visual-reveal__image">
-
-    <img
-      src="../MEDIAART2B06/TechWalks/imgs/exposure-comparison.webp"
-      alt="Three versions of the same mountain and lake scene photographed at different exposure levels"
-    >
-
-    <label
-      class="visual-reveal__choice visual-reveal__choice--1"
-      for="exposure-example-1"
-    >
-      <span class="visual-reveal__number" aria-hidden="true">1</span>
-      <span class="screen-reader-only">
-        Select the first exposure example
-      </span>
-    </label>
-
-    <label
-      class="visual-reveal__choice visual-reveal__choice--2"
-      for="exposure-example-2"
-    >
-      <span class="visual-reveal__number" aria-hidden="true">2</span>
-      <span class="screen-reader-only">
-        Select the second exposure example
-      </span>
-    </label>
-
-    <label
-      class="visual-reveal__choice visual-reveal__choice--3"
-      for="exposure-example-3"
-    >
-      <span class="visual-reveal__number" aria-hidden="true">3</span>
-      <span class="screen-reader-only">
-        Select the third exposure example
-      </span>
-    </label>
-
-  </div>
-
-  <div class="visual-reveal__feedback">
-
-    <p class="visual-reveal__prompt">
-      Select photograph 1, 2, or 3 to learn more.
-    </p>
-
-    <section class="visual-reveal__answer visual-reveal__answer--1">
-      <p class="visual-reveal__label">Photograph 1</p>
-
-      <h3>Underexposed</h3>
-
-      <p>
-        This photograph is too dark. Details are difficult to see in the
-        mountains, trees, water, and foreground.
-      </p>
-
-      <p>
-        An underexposed photograph does not receive enough light.
-      </p>
-    </section>
-
-    <section class="visual-reveal__answer visual-reveal__answer--2">
-      <p class="visual-reveal__label">Photograph 2</p>
-
-      <h3>Balanced exposure</h3>
-
-      <p>
-        This photograph keeps useful detail in the sky, mountains, water,
-        and foreground.
-      </p>
-
-      <p>
-        A balanced exposure avoids losing too much information in the
-        brightest and darkest areas.
-      </p>
-    </section>
-
-    <section class="visual-reveal__answer visual-reveal__answer--3">
-      <p class="visual-reveal__label">Photograph 3</p>
-
-      <h3>Overexposed</h3>
-
-      <p>
-        This photograph is too bright. Large parts of the sky, mountains,
-        and foreground appear white and have lost detail.
-      </p>
-
-      <p>
-        An overexposed photograph receives too much light.
-      </p>
-    </section>
-
-  </div>
-
-</div>
-
-> A darker or brighter exposure can also be an intentional creative choice. For this activity, begin by creating an exposure that preserves useful detail.
-
-## What controls exposure?
-
-Exposure is affected by three camera settings:
-
-- **Aperture:** The size of the lens opening.
-- **Shutter speed:** How long the camera sensor receives light.
-- **ISO:** How strongly the camera responds to light.
-
-In **Aperture Priority (`Av`)**, you select the aperture and ISO. The camera selects the shutter speed.
-
-You will learn more about these settings in the following sections.
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Set the aperture</span>
-    <span class="section-description">
-      Use the f-stop to control depth of field and how much of the scene appears sharp.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-<div class="media-grid media-grid--two">
-
-  <figure class="media-card">
-    <img
-      src="../MEDIAART2B06/TechWalks/imgs/aperture-graph.png"
-      alt="Aperture scale showing wide and narrow lens openings at different f-stop values"
-    >
-    <figcaption>
-      Aperture scale and f-stop values
-    </figcaption>
-  </figure>
-
-  <figure class="media-card">
-    <img
-      src="../MEDIAART2B06/TechWalks/imgs/aperture-example.gif"
-      alt="Animated example showing how aperture changes depth of field"
-    >
-    <figcaption>
-      Aperture and depth of field
-    </figcaption>
-  </figure>
-
-</div>
 
 ## What is aperture?
+
+![Aperture Reference](imgs/aperture-graph.jpg)
 
 Aperture is the opening inside the lens. It affects how much light enters the camera and how much of the scene appears sharp.
 
@@ -1436,49 +1169,12 @@ Aperture is measured in **f-stops**.
   </iframe>
 </div>
 
-</div>
-</details>
 
-<!-- 
-/////////////////
-SECTION 6
-/////////////////
--->
+## What is ISO?
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Set the ISO</span>
-    <span class="section-description">
-      Begin with a low ISO and raise it only when the photograph is too dark or the shutter speed is too slow.
-    </span>
-  </summary>
-
-  <div class="section-content" markdown="1">
+![ISO Reference](imgs/iso-graph.png)
 
 ISO affects image brightness and visible digital noise. A higher ISO can produce a brighter image in low-light conditions, but it may also increase noise and reduce fine detail. A lower ISO produces a cleaner image, but it requires more available light, a wider aperture, or a slower shutter speed.
-
-<div class="media-grid media-grid--two">
-
-  <figure class="media-card">
-    <img
-      src="../MEDIAART2B06/TechWalks/imgs/ISO-and-effective-exposure.gif"
-      alt="Animated example showing how increasing ISO makes the image appear brighter"
-    >
-    <figcaption>
-      Higher ISO increases image brightness
-    </figcaption>
-  </figure>
-
-  <figure class="media-card">
-    <img
-      src="../MEDIAART2B06/TechWalks/imgs/ISO-digital-noise.gif"
-      alt="Animated example showing how increasing ISO introduces more visible digital noise"
-    >
-    <figcaption>
-      Higher ISO can also increase digital noise
-    </figcaption>
-  </figure>
-</div>
 
 > The goal is to find a balance: use an ISO high enough to achieve a usable exposure, but low enough to preserve detail and reduce visible noise.
 
@@ -1501,18 +1197,18 @@ ISO affects image brightness and visible digital noise. A higher ISO can produce
   </iframe>
 </div>
 
-  </div>
+</div>
 </details>
 
 <!-- 
 /////////////////
-SECTION 8
+SECTION 4
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">8. Recharge and return the camera</span>
+    <span class="section-title">4. Recharge and return the camera</span>
     <span class="section-description">
       Charge the battery and return all borrowed equipment in good condition.
     </span>

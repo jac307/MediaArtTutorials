@@ -1038,9 +1038,8 @@ The original photograph must remain identifiable within the final composition, e
 
 ### Camera tutorials
 
-- [Canon Rebel T4i Quick Reference Guide](https://jac307.github.io/summer-camp/tutorials/Photography/00_Canon_T4i_Quick_Reference.html){:target="_blank"}
-- [Canon Rebel T4i Camera and Lens Anatomy](https://jac307.github.io/summer-camp/tutorials/Photography/01_Camera_and_Lens_Anatomy.html){:target="_blank"}
-- [Camera Setup and Aperture Priority Mode](https://jac307.github.io/summer-camp/tutorials/Photography/02_Camera_Setup_and_Av_Mode.html){:target="_blank"}
+- [Available Equipment](Equipment.md)
+- [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
 
 ### Photoshop document setup
 
