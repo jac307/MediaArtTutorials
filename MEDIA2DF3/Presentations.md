@@ -272,16 +272,16 @@ Each team must submit its materials **at least one day before the scheduled pres
 
 | Week | Reading | Assigned artist/artwork |
 |---|---|---|
-| **W2** | Dondis, D. A. (1974). “Composition: The Syntactical Guidelines for Visual Literacy.” In *A Primer of Visual Literacy* (pp. 20–38). MIT Press. | Ding Yi [China], *Appearance of Crosses* series |
-| **W3** | Dondis, D. A. (1974). “The Dynamics of Contrast.” In *A Primer of Visual Literacy* (pp. 85–103). MIT Press. | Carmen Herrera [Cuba], *Blanco y Verde* series and selected hard-edge geometric paintings |
-| **W4** | Pater, R. (2016). “Colour and Contrast.” In *The Politics of Design* (pp. 63–94). BIS Publishers. | Pacita Abad [Philippines], *European Mask* |
-| **W5** | Munari, B. (2008). “Concave-Convex Forms,” “Continuous Structures,” “The Tetracone,” “Yang-Yin,” and “Moiré.” In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Monir Shahroudy Farmanfarmaian [Iran], *Convertible* series and selected mirror sculptures |
-| **W6** | Munari, B. (2008). “The Square,” “The Circle,” “Theoretical Reconstructions of Imaginary Objects,” “Exercises in Topology, or Rubber-Sheet Geometry,” and “Two Fountains, Nine Spheres.” In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Gyula Kosice [Czechoslovakia; active in Argentina], *Hydrospatial City* |
-| **W7** | Dondis, D. A. (1974). “Visual Techniques: The Communication Strategies.” In *A Primer of Visual Literacy* (pp. 104–127). MIT Press. | Ryoji Ikeda [Japan], *datamatics* series |
-| **W8** | Munari, B. (2008). “Graphic Design.” In *Design as Art* (P. Creagh, Trans., pp. 84–99). Penguin Books. Original work published 1966. | Ikko Tanaka [Japan], *Nihon Buyo*, *Kanze Noh Play*, and selected cultural-event posters |
-| **W9** | Pater, R. (2016). “Language and Typography.” In *The Politics of Design* (pp. 18–23, 26–45). BIS Publishers. | Sonny Assu [Ligwilda’xw Kwakwaka’wakw, Canada], *1UP* and selected works from *Comic Sans* |
-| **W10** | Dondis, D. A. (1974). “The Anatomy of a Visual Message.” In *A Primer of Visual Literacy* (pp. 67–84). MIT Press. | Norval Morrisseau [Anishinaabe, Canada], *The Storyteller: The Artist and His Grandfather* and selected paintings of animals, humans, and spirit beings |
-| **W11** | Dondis, D. A. (1974). “The Synthesis of Visual Style.” In *A Primer of Visual Literacy* (pp. 128–145). MIT Press. | Wangechi Mutu [Kenya], selected collage works and hybrid figures |
+| **W2** | Dondis, D. A. (1974). [“Composition: The Syntactical Guidelines for Visual Literacy.”](Reading-W2.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 20–38). MIT Press. | Ding Yi [China], *Appearance of Crosses* series |
+| **W3** | Dondis, D. A. (1974). [“The Dynamics of Contrast.”](Reading-W3.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 85–103). MIT Press. | Carmen Herrera [Cuba], *Blanco y Verde* series and selected hard-edge geometric paintings |
+| **W4** | Pater, R. (2016). [“Colour and Contrast.”](Reading-W4.pdf){:target="_blank"} In *The Politics of Design* (pp. 63–94). BIS Publishers. | Pacita Abad [Philippines], *European Mask* |
+| **W5** | Munari, B. (2008). [“Concave-Convex Forms,” “Continuous Structures,” “The Tetracone,” “Yang-Yin,” “Moiré,” and “Direct Projections.”](Reading-W5.pdf){:target="_blank"} In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Monir Shahroudy Farmanfarmaian [Iran], *Convertible* series and selected mirror sculptures |
+| **W6** | Munari, B. (2008). [“The Square,” “The Circle,” “Theoretical Reconstructions of Imaginary Objects,” “Exercises in Topology, or Rubber-Sheet Geometry,” and “Two Fountains, Nine Spheres.”](Reading-W6.pdf){:target="_blank"} In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Gyula Kosice [Czechoslovakia; active in Argentina], *Hydrospatial City* |
+| **W7** | Dondis, D. A. (1974). [“Visual Techniques: The Communication Strategies.”](Reading-W7.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 104–127). MIT Press. | Ryoji Ikeda [Japan], *datamatics* series |
+| **W8** | Munari, B. (2008). [“Graphic Design.”](Reading-W8.pdf){:target="_blank"} In *Design as Art* (P. Creagh, Trans., pp. 84–99). Penguin Books. Original work published 1966. | Ikko Tanaka [Japan], *Nihon Buyo*, *Kanze Noh Play*, and selected cultural-event posters |
+| **W9** | Pater, R. (2016). [“Language and Typography.”](Reading-W9.pdf){:target="_blank"} In *The Politics of Design* (pp. 18–23, 26–45). BIS Publishers. | Sonny Assu [Ligwilda’xw Kwakwaka’wakw, Canada], *1UP* and selected works from *Comic Sans* |
+| **W10** | Dondis, D. A. (1974). [“The Anatomy of a Visual Message.”](Reading-W10.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 67–84). MIT Press. | Norval Morrisseau [Anishinaabe, Canada], *The Storyteller: The Artist and His Grandfather* and selected paintings of animals, humans, and spirit beings |
+| **W11** | Dondis, D. A. (1974). [“The Synthesis of Visual Style.”](Reading-W11.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 128–145). MIT Press. | Wangechi Mutu [Kenya], selected collage works and hybrid figures |
 
 </div>
 </details>
