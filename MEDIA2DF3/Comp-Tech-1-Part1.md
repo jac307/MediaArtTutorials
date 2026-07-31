@@ -88,6 +88,22 @@ The relationship inside the original super-unit must remain identifiable after t
     </figcaption>
   </figure>
 
+  <!-- Structure -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-structure.jpg"
+      alt="Example showing geometric forms organized through a consistent underlying grid"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Structure</h3>
+      <p>
+        Structure is the underlying system that organizes forms within a composition. It controls their placement, alignment, spacing, and relationships through a grid or other consistent framework.
+      </p>
+    </figcaption>
+  </figure>
+
   <!-- Similarity -->
   <figure class="gestalt-principle-card">
     <img
