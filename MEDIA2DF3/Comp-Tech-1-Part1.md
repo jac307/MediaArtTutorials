@@ -17,7 +17,7 @@ Each composition must combine:
 ## Activity overview
 
 - **Outputs:** Three planning sketches and three digital compositions
-- **Interrelationships:** Touching, Overlapped, and Interpenetration
+- **Interrelationships:** Detachment, Touching, Overlapped, and Interpenetration
 - **Wong principles:** Repetition, Structure, Similarity, and Gradation
 - **Samara focuses:** Interval and tension, Figure/Ground, Depth and hierarchy, and Movement and direction
 - **Grid structures:** Inactive, Active, Visible, and Repetition-based
