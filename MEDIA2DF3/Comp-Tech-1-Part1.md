@@ -41,7 +41,9 @@ Complete the following stages in order.
 
 <div class="section-content" markdown="1">
 
-## Interrelationships of Form
+## Principles of Two-Dimensional Design
+
+### Interrelationships of Form
 
 ![Detached, Touching, Overlapped, and Interpenetration](imgs/Interrrelations-Part1.png)
 
@@ -52,7 +54,7 @@ Each composition begins with a super-unit that clearly demonstrates one assigned
 - **Overlapped:** One form appears in front of another.
 - **Interpenetration:** Overlapping forms remain visible through each other, producing shared internal areas.
 
-## Super-unit versus composition
+### Super-unit versus composition
 
 ![Examples of super-units](imgs/03.png)
 
@@ -68,7 +70,7 @@ The final composition must develop that starting structure into a larger visual 
 
 The relationship inside the original super-unit must remain identifiable after the instances are altered.
 
-## Principles of Two-Dimensional Design
+### Other Principles
 
 <div class="gestalt-principles-grid">
 
