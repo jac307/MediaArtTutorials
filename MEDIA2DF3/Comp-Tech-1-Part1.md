@@ -160,7 +160,7 @@ The activity also applies concepts adapted from Timothy Samara’s chapter “Fo
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Apply the four required combinations</span>
+    <span class="section-title">2. Apply the three required combinations</span>
     <span class="section-description">
       Use the assigned relationship, Wong principle, and spatial focus for each composition.
     </span>
@@ -188,8 +188,7 @@ Assign one different grid structure to each composition:
 
 ![Additional grid examples](imgs/05.png)
 
-Say something about selecting the ones thatn syupports the best. 
-
+> Select a grid structure that supports the assigned principle and organizes the repeated and altered super-units.
 
 ## Variation requirement
 
