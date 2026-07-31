@@ -91,7 +91,7 @@ The relationship inside the original super-unit must remain identifiable after t
   <!-- Structure -->
   <figure class="gestalt-principle-card">
     <img
-      src="imgs/principle-structure.jpg"
+      src="imgs/principle-structure.png"
       alt="Example showing geometric forms organized through a consistent underlying grid"
       loading="lazy"
     >
