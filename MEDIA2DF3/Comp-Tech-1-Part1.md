@@ -4,7 +4,7 @@
 
 ![Examples from previous Composition Techniques I activities](imgs/01.jpg)
 
-**Goal:** Design and create **four black-and-white vector compositions** by building, repeating, and systematically altering a super-unit.
+**Goal:** Design and create **three black-and-white vector compositions** by building, repeating, and systematically altering a super-unit.
 
 Each composition must combine:
 
@@ -16,7 +16,7 @@ Each composition must combine:
 
 ## Activity overview
 
-- **Outputs:** Four planning sketches and four digital compositions
+- **Outputs:** Three planning sketches and three digital compositions
 - **Interrelationships:** Detached, Touching, Overlapped, and Interpenetration
 - **Wong principles:** Repetition, Structure, Similarity, and Gradation
 - **Samara focuses:** Interval and tension, Figure/Ground, Depth and hierarchy, and Movement and direction
@@ -68,6 +68,62 @@ The final composition must develop that starting structure into a larger visual 
 
 The relationship inside the original super-unit must remain identifiable after the instances are altered.
 
+## Principles of Two-Dimensional Design
+
+<div class="gestalt-principles-grid">
+
+  <!-- Repetition -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-repetition.png"
+      alt="Example showing repeated geometric forms arranged in a regular pattern"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Repetition</h3>
+      <p>
+        Repetition occurs when the same visual element is used more than once. Repeated shapes, lines, or forms create consistency, rhythm, and structure across the composition.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Similarity -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-similarity.png"
+      alt="Example showing similar forms repeated with minor variations"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Similarity</h3>
+      <p>
+        Similarity occurs when forms share common characteristics, such as shape, size, direction, or texture. These shared features make the elements appear related, even when they are not identical.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Gradation -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-gradation.png"
+      alt="Example showing forms changing gradually in size and direction"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Gradation</h3>
+      <p>
+        Gradation occurs when visual elements change gradually. These changes may involve size, direction, position, shape, or spacing, creating progression, movement, and visual transition.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+> **Source:** Wong, W. (1972). “Principles of Two Deimensional Design”. Van Nostrand Reinhold Company.
+
 ## Form and space
 
 The activity also applies concepts adapted from Timothy Samara’s chapter “Form and Space”:
@@ -94,14 +150,13 @@ The activity also applies concepts adapted from Timothy Samara’s chapter “Fo
 
 <div class="section-content" markdown="1">
 
-Create all four compositions:
+Create all three compositions:
 
 | Composition | Interrelationship of Form | Wong principle | Samara spatial focus | Required visual direction |
 |---|---|---|---|---|
-| **1** | **Detached** | **Repetition** | **Interval and tension** | Repeat the detached super-unit at least eight times. Control the distances between instances so some relationships feel stable while others create tension. |
-| **2** | **Touching** | **Structure** | **Figure/Ground** | Repeat the touching super-unit at least eight times within a clear structure. Use shared edges, placement, and negative space to make both the positive forms and the surrounding spaces active. |
-| **3** | **Overlapped** | **Similarity** | **Depth and hierarchy** | Repeat the overlapped super-unit at least eight times. Maintain visual similarity while altering scale, placement, or orientation to create foreground, middle ground, and background. |
-| **4** | **Interpenetration** | **Gradation** | **Movement and direction** | Repeat the interpenetrating super-unit at least eight times. Use gradual changes in scale, proportion, orientation, spacing, or position to guide the eye through the composition. |
+| **1** | **Touching** | **Repetition** | **Figure/Ground** | Repeat the touching super-unit at least eight times. Use repeated shared edges, placement, and negative space to make both the positive forms and surrounding spaces active. |
+| **2** | **Overlapped** | **Similarity** | **Depth and hierarchy** | Repeat the overlapped super-unit at least eight times. Maintain visual similarity while altering scale, placement, orientation, or overlap to establish foreground, middle ground, and background. |
+| **3** | **Interpenetration** | **Gradation** | **Movement and direction** | Repeat the interpenetrating super-unit at least eight times. Use gradual changes in scale, proportion, orientation, spacing, or position to guide the eye through the composition. |
 
 ## Grid requirement
 
