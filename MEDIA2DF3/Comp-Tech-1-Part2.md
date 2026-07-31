@@ -1,169 +1,566 @@
-[MEDIA 2DF3](README.md)
+[MEDIAART 2DF3](README.md)
 
--------------------------------------------------------------------------------
+# Composition Techniques I – Part 2
 
-<h1 style="color: darkred;">Composition Techniques I – Part 2</h1>
+![Examples from previous Composition Techniques I activities](imgs/08.jpg)
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/08.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students.
-  </figcaption>
-</figure>
+**Goal:** Design and create **four black-and-white compositions** by repeating and altering super-units through more complex form relationships, scanned textures, contrast, concentration, anomaly, and spatial line systems.
 
-## Objective
-Create **three digital compositions** that explore the **Interrelationships of Form**:  
-1. Union
-2. Subtraction
-3. Intersection
+Each composition must combine:
 
-<img src="imgs/09.png" style="width: 80%; height: auto;">
+- **One assigned Interrelationship of Form or principle of Space**
+- **One assigned principle from Wucius Wong**
+- **One spatial focus adapted from Timothy Samara’s “Form and Space”**
+- **One super-unit or line-based unit repeated and altered across the complete composition**
+- **Original scanned textures for Compositions 2 and 3**
 
-In each composition should incorporate **Wucius Wong’s Principles of Two-Dimensional Design**—**Radiation, Anomaly, Contrast, Concentration, Texture**—to explore and highlight the visual characteristics of each interrelationship.  
+> **A super-unit is the starting module, not the final composition.**  
+> Compositions 1–3 must each contain **at least eight repeated instances** of their assigned super-unit. Composition 4 must use a line-based unit repeated across the format. The instances must be altered systematically rather than copied without change.
 
-Create **one digital composition** that incorporate Wucius Wong’s Principles of Two-Dimensional Design: **Space**
+## Activity overview
 
-Each composition must demonstrate a **thoughtful and cohesive integration** of form relationships and design principles.
+- **Outputs:** Four planning sketches and four digital compositions
+- **Interrelationships:** Union, Subtraction, and Intersection
+- **Space:** Flat, Illusory, or Fluctuating and Conflicting Space
+- **Wong principles:** Anomaly, Concentration, Texture, Contrast, and Space
+- **Samara focuses:** Hierarchy, Figure/Ground, Depth and ambiguity, and Movement and rhythm
+- **Shapes:** Geometric, organic, or accidental shapes
+- **Colour:** Black and white only
+- **Software:** Adobe Illustrator and Adobe Photoshop
+- **Original media:** Two different physical textures scanned with a proper scanner
+- **Submission:** One sketch PDF, four composition PDFs, and two original unedited scan files
 
-<img src="imgs/10.jpeg" style="width: 80%; height: auto;">
+## Activity stages
 
-## Design Restrictions
-- Use **geometric, organic, or accidental shapes**
-- Designs must be in **black and white**
-- You must incorporate a **grid structure** only for **Composition 1** and **Composition 2** (choose one per composition from the following):
+Complete the following stages in order.
 
-<img src="imgs/11.png" style="width: 80%; height: auto;">
+<!-- SECTION 1 -->
 
-**Software**:  
-- **Adobe Illustrator** (vector-based composition)  
-- **Adobe Photoshop** (texture/image-based processing only)
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Review the concepts</span>
+    <span class="section-description">
+      Review the new form relationships, Wong principles, spatial strategies, and original-image requirement.
+    </span>
+  </summary>
 
-## Activities  
-**Complete the following activities in order. Ask your professor for help if needed.**
+<div class="section-content" markdown="1">
 
----
+## Interrelationships of Form
 
-<h3 style="color: darkred;">[15–20 min] Sketching</h3>
+![Union, Subtraction, and Intersection](imgs/09.png)
 
-Sketch using either a **digital or physical notebook**.  
-A sketch is “a rapidly executed freehand drawing that is not usually intended as a finished work.”
+- **Union:** Two or more forms combine and become one larger form.
+- **Subtraction:** A visible area is removed from one form by another.
+- **Intersection:** Only the shared area between overlapping forms remains.
 
-### Composition No. 1 – Union + Anomaly  
-- Sketch a **Super-Unit** based on the **Union** interrelationship of form.  
-- Choose one **grid structure** from the list under **Design Restrictions**.  
-- Repeat your Super-Unit within the grid to create a composition that emphasizes **Anomaly** using variation or disruption in form, scale, or placement.
+## Repeated and altered super-units
 
-### Composition No. 2 – Subtraction + Concentration & Texture  
-- Sketch a **Super-Unit** using the **Subtraction** interrelationship of form.  
-- Choose one **grid structure** from the list under **Design Restrictions**. 
-- Create a composition that emphasizes **Concentration** and **Texture**.  
-- Describe the type of texture you will use: **photography, pattern, letterforms, etc.**  
-  - Texture must be in **black and white** and will be applied **inside the Super-Unit**.
+For Compositions 1–3:
 
-### Composition No. 3 – Intersection + Contrast & Texture  
-- Sketch a **Super-Unit** using the **Intersection** interrelationship of form.  
-- Create a **free-grid composition** using the Super-Unit.  
-- Emphasize both **Contrast** and **Texture** in your design
+1. Create one super-unit based on the assigned Interrelationship of Form.
+2. Repeat the super-unit at least eight times.
+3. Alter the repeated instances through controlled changes.
+4. Organize the instances into a complete visual system.
 
-### Composition No. 4 – Spatial Line Drawing  
-Using **only lines**, sketch a composition inspired by one of the following Wong’s Principles of Space:
+The final composition cannot consist of one large super-unit. The relationship must operate across a repeated field, sequence, cluster, or spatial structure.
 
-- Flat Space,  
-<img src="imgs/12.png" style="width: 80%; height: auto;">
+## Space through repeated lines
 
-- Illusory Space, or  
-<img src="imgs/13.png" style="width: 80%; height: auto;">
-  
-- or Fluctuating and Conflicting Space  
-<img src="imgs/14.png" style="width: 80%; height: auto;">
+Composition 4 replaces the shape-based super-unit with a **line-based unit**.
 
----
+A line-based unit may be:
 
-<h3 style="color: darkred;">[1h–1h30m] Executing in Adobe Illustrator & Photoshop</h3>
+- One line
+- A pair of lines
+- A small group of related lines
+- A repeated angular or curved structure
 
-#### Document Setup (Required)  
-> ⚠️ **You must follow the tutorial and file setup instructions exactly to avoid losing points.**  
-> Skipping or incorrectly completing this step will affect your grade.
+Repeat and alter this unit through changes in length, weight, direction, spacing, curvature, interruption, or overlap.
 
-Before you begin, **watch the provided tutorial** on Illustrator document setup. Follow it step-by-step to create **one separate file per composition**.
+## Form and space
+
+The activity applies four spatial focuses adapted from Timothy Samara:
+
+- **Hierarchy:** One element or variation is perceived first.
+- **Figure/Ground:** Positive forms and negative spaces create an active relationship.
+- **Depth and ambiguity:** Overlap, texture, scale, and value can advance, recede, or complicate spatial reading.
+- **Movement and rhythm:** Repeated intervals, directions, and changes guide the viewer’s eye.
+
+> **Source:** Samara, T. (2007). “Form and Space.” In *Design Elements: A Graphic Style Manual*. Rockport Publishers.
+
+</div>
+</details>
+
+<!-- SECTION 2 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Apply the four required combinations</span>
+    <span class="section-description">
+      Follow the assigned relationship, principle, source material, and spatial direction for each composition.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+| Composition | Required combination | Samara spatial focus | Required visual direction |
+|---|---|---|---|
+| **1** | **Union + Anomaly** | **Hierarchy** | Repeat the Union super-unit at least eight times within a grid. Establish a consistent system, then alter one instance or group so the anomaly is the first element noticed. |
+| **2** | **Subtraction + Concentration + Scanned Texture** | **Figure/Ground** | Repeat the Subtraction super-unit at least eight times within a grid. Increase and decrease density to create concentration. Apply one original scanned texture inside the super-units while preserving clear positive and negative space. |
+| **3** | **Intersection + Contrast + Scanned Texture** | **Depth and ambiguity** | Repeat the Intersection super-unit at least eight times in a free structure. Use a second original scanned texture and contrasts in scale, value, direction, density, or texture to create spatial depth or ambiguity. |
+| **4** | **Space through repeated lines** | **Movement and rhythm** | Repeat one line-based unit across the format. Alter line weight, length, direction, interval, curvature, interruption, or overlap to create Flat, Illusory, or Fluctuating and Conflicting Space. |
+
+## Grid requirement
+
+- **Composition 1:** Use one grid structure.
+- **Composition 2:** Use a different grid structure.
+- **Composition 3:** Use a free structure rather than a visible regular grid.
+- **Composition 4:** Build the spatial system through repeated lines and intervals.
+
+Choose the grids for Compositions 1 and 2 from the structures reviewed in class.
+
+![Examples of additional grid structures](imgs/11.png)
+
+## Variation requirement
+
+Compositions 1–3 must alter the repeated super-unit through at least **three** of the following:
+
+- Scale
+- Rotation
+- Orientation
+- Position
+- Spacing
+- Proportion
+- Density
+- Cropping
+- Positive–negative reversal
+- Texture placement
+
+Composition 4 must alter at least **four** properties of its repeated line-based unit.
+
+</div>
+</details>
+
+<!-- SECTION 3 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Plan and sketch the four compositions</span>
+    <span class="section-description">
+      Plan the original units, repeated systems, scanned textures, and spatial effects before working digitally.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Create one planning page for each composition.
+
+## Compositions 1–3
+
+Each planning page must include:
+
+1. The assigned combination.
+2. The original super-unit.
+3. At least eight planned instances.
+4. The grid or free spatial structure.
+5. Notes identifying at least three systematic alterations.
+6. Notes explaining the hierarchy, figure/ground, depth, or ambiguity.
+7. The complete square format and its boundaries.
+
+For Compositions 2 and 3, identify the physical material you will scan and show where the texture will appear.
+
+## Composition 4
+
+Plan one composition using only repeated lines.
+
+Select one type of space:
+
+- **Flat Space**
+
+![Example of Flat Space](imgs/12.png)
+
+- **Illusory Space**
+
+![Example of Illusory Space](imgs/13.png)
+
+- **Fluctuating and Conflicting Space**
+
+![Example of Fluctuating and Conflicting Space](imgs/14.png)
+
+Show:
+
+- The original line-based unit
+- How it will repeat
+- At least four planned alterations
+- The direction and rhythm of the complete system
+- How the lines create the selected spatial effect
+
+<fieldset class="equipment-checklist">
+  <legend>Planning checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The complete composition is shown.</strong>
+      The page includes a repeated system rather than only one super-unit.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The alterations are labelled.</strong>
+      Scale, spacing, position, density, direction, texture, or other planned changes are identified.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The scanned materials are planned.</strong>
+      Compositions 2 and 3 identify two different physical textures and explain how each will be used.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The spatial strategy is clear.</strong>
+      Hierarchy, figure/ground, depth, ambiguity, movement, or rhythm is visible in the plan.
+    </span>
+  </label>
+</fieldset>
+
+Combine the four pages into one PDF:
+
+- **Filename:** `Lastname-Firstname-CompTech1-Part2-Sketches.pdf`
+
+Ask the instructor for feedback before creating the final digital compositions.
+
+</div>
+</details>
+
+<!-- SECTION 4 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Create two original scanned textures</span>
+    <span class="section-description">
+      Use a proper scanner to create one original texture for Composition 2 and a different texture for Composition 3.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Original-image requirement
+
+The textures used in Compositions 2 and 3 must be created by you with a **flatbed or document scanner**.
+
+The following sources are not permitted:
+
+- Downloaded textures
+- Stock images
+- Screenshots
+- Cellphone photographs
+- DSLR or other camera photographs
+- Textures created entirely with software
+- Scans created by another person
+
+Create:
+
+- **Texture 1:** One original scan for Composition 2
+- **Texture 2:** One different original scan for Composition 3
+
+## Select physical materials
+
+Possible materials include:
+
+- Paper
+- Cardboard
+- Fabric
+- Thread or string
+- Leaves or dry plant material
+- Packaging
+- Printed marks or fragments created by you
+- Crumpled, folded, cut, layered, or torn materials
+- Other safe objects with visible surface detail
+
+Do not place wet, dirty, sharp, abrasive, sticky, or damaging materials on the scanner.
+
+## Scanner settings
+
+Use:
+
+- **Resolution:** Minimum 300 PPI
+- **Recommended resolution:** 600 PPI for small or highly detailed materials
+- **Colour mode:** Colour or grayscale
+- **File format:** TIFF or PNG
+- **Cropping:** Do not crop the original source scan
+- **Editing:** Do not edit the original source scan
+
+Save the original files immediately after scanning.
+
+## Required original filenames
+
+- `Lastname-Firstname-CompTech1-Part2-Texture-1.tif`
+- `Lastname-Firstname-CompTech1-Part2-Texture-2.tif`
+
+Use `.png` only when the scanner does not provide TIFF.
+
+## Reference
+
+<!-- Add the scanner-texture reference image here when available.
+<img
+  src="imgs/scanned-texture-reference.jpg"
+  alt="Reference example of a texture created with a flatbed scanner"
+  loading="lazy"
+>
+-->
+
+</div>
+</details>
+
+<!-- SECTION 5 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Set up the Illustrator and Photoshop files</span>
+    <span class="section-description">
+      Create four Illustrator documents and preserve the original texture scans before processing copies.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Illustrator document settings
+
+Create one separate Illustrator file for each composition.
+
+- **Units:** Pixels
+- **Size:** 1000 × 1000 px
+- **Aspect ratio:** 1:1
+- **Bleed:** 10 px on all sides
+- **Colour mode:** RGB
+- **Raster effects:** High, 300 PPI
+
+## Required Illustrator layers
+
+1. **Guides** — grids, margins, and construction lines
+2. **Composition** — repeated super-units or line-based units
+3. **Texture** — embedded processed scan for Compositions 2 and 3
+4. **Background** — black or white background field
+
+## Working filenames
+
+- `Lastname-Firstname-CompTech1-Part2-1.ai`
+- `Lastname-Firstname-CompTech1-Part2-2.ai`
+- `Lastname-Firstname-CompTech1-Part2-3.ai`
+- `Lastname-Firstname-CompTech1-Part2-4.ai`
 
 <iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator-1--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-  
-**Your Illustrator document must include the following settings:**
-- **Units:** Pixels  
-- **Size:** 1000 × 1000 px (1:1 aspect ratio)
-- **Bleed:** 10 px (on all sides) 
-- **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI)  
-- **Naming Protocol:** `Lastname-Firstname-CompTech1-#.ai` -- starting with number 5.
+## Preserve the original scans
 
-These settings ensure your file is compatible with export and review processes. Files that do not follow the setup guidelines may be marked down.
+Do not edit the original texture files.
 
----
+Open a duplicate of each scan in Adobe Photoshop and save the working copy separately before processing it.
 
-### Build Your Compositions
+</div>
+</details>
 
-#### More tools and behaviours in Adobe Illustrator
+<!-- SECTION 6 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Build the repeated systems and process the textures</span>
+    <span class="section-description">
+      Repeat and alter every unit, process the scanned textures, and construct each complete composition.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Illustrator tools and behaviours
 
 <iframe src="https://www.iorad.com/player/2498938/More-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
----
+## Create the grids for Compositions 1 and 2
 
-#### Create Your Grids *(Compositions 1 & 2 only)*  
-
-- Use your **sketched grids** as a reference when recreating them in Adobe Illustrator.
-- Place all grid elements in the **"Grid"** or **"Guides"** layer to keep your file organized and editable.
-- ⚠️ Grids must be properly structured to support your final composition. **Watch this tutorial** to learn how to properly set up your grids in Illustrator:  
+Place the grids in the **Guides** layer.
 
 <iframe src="https://www.iorad.com/player/2498981/Creating-more-complex-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-> Make sure to match the grid style (Inactive, Active, Visible, or Repetition-based) that you selected during your sketching phase.
+## Create and repeat the super-units
 
----
+Construct the original Union, Subtraction, and Intersection super-units in Illustrator.
 
-#### Create Your Super-Units *(Compositions 1, 2 & 3)*  
-
-- Use your sketches as guides.
-- Follow the tutorial on visualizing **Interrelationships of Form** in Illustrator.
-- Place the main shapes in the **"Composition" layer**.
-- Don’t forget to **embed all linked images** on Adobe Illustrator.
+Repeat each super-unit at least eight times. Alter the instances according to the assigned principle and spatial focus.
 
 <iframe src="https://www.iorad.com/player/2498921/Interrelationships-of-Form-in-Adobe-Illustrator-2?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
----
+## Process copies of the scanned textures
 
-#### Download & Prepare Textures *(Compositions 2 & 3)*  
-Textures must be in **black and white**, minimum **800px** on their shortest side.
+In Adobe Photoshop, you may:
+
+- Crop or rotate the working copy
+- Convert it to grayscale or black and white
+- Adjust Levels or Curves
+- Increase or reduce contrast
+- Use Threshold
+- Clean minor scanner dust
+- Combine or repeat sections from your own scan
+
+The processed texture must remain recognizably derived from the submitted original scan.
 
 <iframe src="https://www.iorad.com/player/2499003/Working-on-Image-Textures-in-Adobe-Photoshop?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
+## Import and mask the textures
+
+Import each processed scan into the corresponding Illustrator file.
+
+- Texture 1 must be used in Composition 2.
+- Texture 2 must be used in Composition 3.
+- Apply the texture within the repeated super-units or their negative spaces.
+- Embed every linked image before exporting.
+
 <iframe src="https://www.iorad.com/player/2499031/Importing-and-Masking-an-Image-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
----
+## Build Composition 4 with repeated lines
 
-#### Build Your Final Compositions  
-- Follow your sketches closely.  
-- Integrate the appropriate Interrelationship of Form and Design Principles into each layout.  
-- *(For Composition 4 only)* – Use the **Curvature Tool** and **Pen Tool** in Illustrator.
-- Don’t forget to **embed all linked images** on Adobe Illustrator.
+Use the Pen Tool and Curvature Tool to create the original line-based unit.
+
+Repeat and alter it across the format. The final work must contain a developed system of lines rather than one isolated line drawing.
 
 <iframe src="https://www.iorad.com/player/2499038/Curvature-and-Pen-Tool-in-Adobe-Illustrator-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
+> A single Union, Subtraction, or Intersection super-unit is not a complete composition. A single line or small line drawing is also not a complete Composition 4. Every final work must develop repeated and altered units into a complete spatial system.
+
+</div>
+</details>
+
+<!-- SECTION 7 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Review the four compositions</span>
+    <span class="section-description">
+      Confirm that the repeated units, original scans, and spatial strategies are clear and technically complete.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>Final review checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Compositions 1–3 contain at least eight instances.</strong>
+      Each super-unit is repeated and developed into a complete system.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The repeated units are altered systematically.</strong>
+      The changes support anomaly, concentration, contrast, hierarchy, figure/ground, depth, or ambiguity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The Interrelationships of Form remain clear.</strong>
+      Union, Subtraction, and Intersection remain visible within the repeated systems.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The textures are original.</strong>
+      Compositions 2 and 3 use different textures created with a proper scanner.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The scans remain identifiable.</strong>
+      The processed textures can be clearly connected to the submitted original files.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Composition 4 uses a repeated line system.</strong>
+      Changes in weight, length, direction, interval, curvature, interruption, or overlap create the selected type of space.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The format is active.</strong>
+      Edges, cropping, intervals, negative space, and placement contribute to the composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The technical requirements are complete.</strong>
+      Files use black and white, correct dimensions, named layers, embedded images, and required filenames.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- SECTION 8 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">8. Export and submit Part 2</span>
+    <span class="section-description">
+      Submit the planning document, four compositions, and two original unedited scanner files.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Required files
+
+| Item | Required filename |
+|---|---|
+| Sketches PDF | `Lastname-Firstname-CompTech1-Part2-Sketches.pdf` |
+| Composition 1 PDF | `Lastname-Firstname-CompTech1-Part2-1.pdf` |
+| Composition 2 PDF | `Lastname-Firstname-CompTech1-Part2-2.pdf` |
+| Composition 3 PDF | `Lastname-Firstname-CompTech1-Part2-3.pdf` |
+| Composition 4 PDF | `Lastname-Firstname-CompTech1-Part2-4.pdf` |
+| Original scan for Composition 2 | `Lastname-Firstname-CompTech1-Part2-Texture-1.tif` |
+| Original scan for Composition 3 | `Lastname-Firstname-CompTech1-Part2-Texture-2.tif` |
+
+Use `.png` for an original scan only when TIFF is unavailable from the scanner.
+
+Before submitting:
+
+- Open every PDF and confirm that it displays correctly.
+- Confirm that all raster textures are embedded.
+- Confirm that each original scan is unedited and uncropped.
+- Confirm that the two compositions use two different scanned materials.
+- Confirm that all filenames follow the required structure exactly.
+
+Downloaded textures, photographed textures, missing source scans, unembedded images, incomplete repetition, or a final work based on only one isolated super-unit may affect the grade.
+
+</div>
+</details>
+
 ---
 
-<h3 style="color: darkred;">📥 Final Submission</h3>
-
-1. A **single PDF file** containing your **sketches** for all four compositions  
-   - **Naming:** `Lastname-Firstname-CompTech1-Sketches2.pdf`
-
-2. **Four separate PDF files**, one for each **final composition**  
-   - **Naming:**  
-     - `Lastname-Firstname-CompTech1-5.pdf`  
-     - `Lastname-Firstname-CompTech1-6.pdf`  
-     - `Lastname-Firstname-CompTech1-7.pdf`  
-     - `Lastname-Firstname-CompTech1-8.pdf`
-
-> 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
-
----
+Credits: Jessica A. Rodríguez
