@@ -14,9 +14,6 @@ Each composition must combine:
 - **One grid structure**
 - **One super-unit repeated and altered across the complete composition**
 
-> **A super-unit is the starting module, not the final composition.**  
-> Creating one super-unit and placing it once in the centre of the page does not complete the activity. Each final composition must contain **at least eight repeated instances** of its super-unit. Those instances must be altered through controlled changes in scale, rotation, orientation, spacing, position, proportion, or positive–negative relationships.
-
 ## Activity overview
 
 - **Outputs:** Four planning sketches and four digital compositions
@@ -27,8 +24,6 @@ Each composition must combine:
 - **Shapes:** Geometric shapes only
 - **Colour:** Black and white only
 - **Software:** Adobe Illustrator
-- **Format:** 1000 × 1000 px
-- **Submission:** One sketch PDF and four composition PDFs
 
 ## Activity stages
 
@@ -48,7 +43,7 @@ Complete the following stages in order.
 
 ## Interrelationships of Form
 
-![Detached, Touching, Overlapped, and Interpenetration](imgs/02.png)
+![Detached, Touching, Overlapped, and Interpenetration](imgs/Interrrelations-Part1.png)
 
 Each composition begins with a super-unit that clearly demonstrates one assigned relationship:
 
@@ -58,6 +53,8 @@ Each composition begins with a super-unit that clearly demonstrates one assigned
 - **Interpenetration:** Overlapping forms remain visible through each other, producing shared internal areas.
 
 ## Super-unit versus composition
+
+![Examples of super-units](imgs/03.png)
 
 A **super-unit** is a small structure created by combining two or more shapes through an Interrelationship of Form.
 
@@ -70,21 +67,6 @@ The final composition must develop that starting structure into a larger visual 
 5. Use the complete square format, including its edges and negative spaces.
 
 The relationship inside the original super-unit must remain identifiable after the instances are altered.
-
-![Examples of super-units](imgs/03.png)
-
-## Grid structures
-
-Use each of the following grid structures once across the four compositions:
-
-- Inactive grid
-- Active grid
-- Visible grid
-- Repetition-based grid
-
-![Examples of grid structures](imgs/04.png)
-
-![Additional grid examples](imgs/05.png)
 
 ## Form and space
 
@@ -123,14 +105,18 @@ Create all four compositions:
 
 ## Grid requirement
 
+Choose **one different grid** for each composition from the examples below.
+
+![Examples of grid structures](imgs/04.png)
+
+> Select a grid that supports the assigned principle and organizes the repeated and altered super-units.
+
 Assign one different grid structure to each composition:
 
-- Inactive
-- Active
-- Visible
-- Repetition-based
+![Additional grid examples](imgs/05.png)
 
-Use every grid structure once. Select the grid that best supports each required combination.
+Say something about selecting the ones thatn syupports the best. 
+
 
 ## Variation requirement
 
