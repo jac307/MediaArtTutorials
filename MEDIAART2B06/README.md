@@ -157,7 +157,7 @@ Create a one-minute film without dialogue. The final work should demonstrate int
 
 This project brings together the camera, lighting, sound, and editing skills introduced in Module I.
 
-<!-- ### Week 7 — Pre-production package
+### Week 7 — Pre-production package
 
 Develop the film concept and prepare the documents needed for production.
 
@@ -194,7 +194,7 @@ Complete the final edit, sound mix, colour correction, and delivery package.
 
 - [Week 12 activity](WeekIns/WI-W12.md)
 - [Framework: Final package and portfolio preparation](TechWalks/TW-W12.md)
-- [Tutorials: Final sound and colour refinement](Tutorials/index.html?file=T-W12.json) -->
+- [Tutorials: Final sound and colour refinement](Tutorials/index.html?file=T-W12.json)
 
 </div>
 </details>
@@ -215,7 +215,7 @@ Complete the final edit, sound mix, colour correction, and delivery package.
 
 This one-week module introduces basic motion graphics, animation, and compositing techniques in Adobe After Effects.
 
-<!-- - [Week 11 activity: Motion Graphics and Compositing](WeekIns/WI-W11.md) -->
+- [Week 11 activity: Motion Graphics and Compositing](WeekIns/WI-W11.md)
 
 </div>
 </details>
