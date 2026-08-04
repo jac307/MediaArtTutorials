@@ -142,16 +142,63 @@ The relationship inside the original super-unit must remain identifiable after t
 
 > **Source:** Wong, W. (1972). “Principles of Two Deimensional Design”. Van Nostrand Reinhold Company.
 
-## Form and space
+## Form and Space
 
-The activity also applies concepts adapted from Timothy Samara’s chapter “Form and Space”:
+The activity also applies three categories of form from Timothy Samara’s chapter **“Seeing Form and Space.”**
 
-- **Interval and tension:** Distance affects whether forms appear connected, separated, stable, or active.
-- **Figure/Ground:** Positive forms and negative spaces must be designed together.
-- **Depth and hierarchy:** Overlap, scale, placement, and value affect which forms advance or recede.
-- **Movement and direction:** Repeated changes in scale, position, spacing, and orientation can guide the viewer’s eye.
+<div class="gestalt-principles-grid">
 
-> **Source:** Samara, T. (2007). “Form and Space.” In *Design Elements: A Graphic Style Manual*. Rockport Publishers.
+  <!-- Dot -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/samara-dot.png"
+      alt="Examples showing how the size, position, spacing, and grouping of dots affect visual attention and spatial relationships"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Dot</h3>
+      <p>
+        A dot creates a concentrated point of attention within a space. Its size, position, and proximity to other forms affect its visual dominance, grouping, tension, and relationship to the surrounding format.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Line -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/samara-line.png"
+      alt="Examples showing lines changing in length, weight, spacing, direction, and sequence"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Line</h3>
+      <p>
+        A line creates connection, direction, and movement. It can link points, divide or contain space, and establish rhythm through changes in length, weight, direction, spacing, and repetition.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Plane and Mass -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/samara-plane-mass.png"
+      alt="Examples showing planes changing in scale, contour, texture, overlap, and visual mass"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Plane and Mass</h3>
+      <p>
+        A plane is a larger form defined by its outer contour. Its scale, shape, texture, value, and relationship to the surrounding space determine whether it appears flat, becomes a dominant visual mass, or creates the impression of depth and volume.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+> **Source:** Samara, T. (2007). “Seeing Form and Space: Categories of Form.” In *Design Elements: A Graphic Style Manual* (pp. 45–53). Rockport Publishers.
 
 </div>
 </details>
@@ -170,11 +217,11 @@ The activity also applies concepts adapted from Timothy Samara’s chapter “Fo
 
 Create all three compositions:
 
-| Composition | Interrelationship of Form | Wong principle | Samara spatial focus | Required visual direction |
+| Composition | Interrelationship of Form | Wong principle | Samara form category | Required visual direction |
 |---|---|---|---|---|
-| **1** | **Touching** | **Repetition** | **Figure/Ground** | Repeat the touching super-unit at least eight times. Use repeated shared edges, placement, and negative space to make both the positive forms and surrounding spaces active. |
-| **2** | **Overlapped** | **Similarity** | **Depth and hierarchy** | Repeat the overlapped super-unit at least eight times. Maintain visual similarity while altering scale, placement, orientation, or overlap to establish foreground, middle ground, and background. |
-| **3** | **Interpenetration** | **Gradation** | **Movement and direction** | Repeat the interpenetrating super-unit at least eight times. Use gradual changes in scale, proportion, orientation, spacing, or position to guide the eye through the composition. |
+| **1** | **Touching** | **Repetition** | **Dot** | Create a super-unit from touching point-like forms, then repeat it at least eight times. Use changes in size, position, and spacing to create concentrated points of attention and relationships between the repeated units and the surrounding space. |
+| **2** | **Overlapped** | **Similarity** | **Plane and Mass** | Create an overlapped super-unit using planar forms, then repeat it at least eight times. Maintain similarity while altering scale, contour, placement, texture, or overlap to create visual mass and establish relationships between foreground and background. |
+| **3** | **Interpenetration** | **Gradation** | **Line** | Create an interpenetrating super-unit that emphasizes linear direction, then repeat it at least eight times. Use gradual changes in length, weight, direction, spacing, orientation, or position to create rhythm and guide the eye through the composition. |
 
 ## Grid requirement
 
