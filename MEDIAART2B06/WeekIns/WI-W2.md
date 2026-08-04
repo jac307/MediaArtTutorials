@@ -81,6 +81,13 @@ An influential example of low-light interior documentary filmmaking. Chiaroscuro
 
 > **Content warning:** This film depicts drug use, addiction, and precarious living conditions.
 
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
 -->
 
 <details class="tutorial-section">
