@@ -86,7 +86,7 @@ Each group will lead one class discussion based on the assigned readings and wee
 
 These exercises introduce the equipment and production methods used throughout the course. Each week includes an activity, a technical walkthrough, and software tutorials.
 
-<!-- ### Week 1 — Photo Film
+### Week 1 — Photo Film
 
 **Format:** Individual
 
@@ -134,7 +134,7 @@ Create and record sound effects while coordinating live sound and multicamera vi
 
 - [Week 5 activity](WeekIns/WI-W5.md)
 - [Technical walkthrough: Multidevice Foley recording setup](TechWalks/TW-W5.md)
-- [Tutorials: Multicamera video and live sound workflow](Tutorials/index.html?file=T-W5.json) -->
+- [Tutorials: Multicamera video and live sound workflow](Tutorials/index.html?file=T-W5.json)
 
 </div>
 </details>
