@@ -444,7 +444,6 @@ Use geometric, organic, or accidental shapes to create:
 
 - **Composition 1:** Union + Arranging Form
 - **Composition 2:** Subtraction + Surface Activity
-- **Composition 3:** Intersection + Breaking Space
 
 Place the original super-unit in the **Composition** layer.
 
@@ -460,17 +459,7 @@ Before repeating it, confirm that:
 
 The texture used in Composition 2 must be created by you with a **flatbed or document scanner**.
 
-The following sources are not permitted:
-
-- Downloaded textures
-- Stock images
-- Screenshots
-- Cellphone photographs
-- DSLR or other camera photographs
-- Textures created entirely with software
-- Scans created by another person
-
-Possible materials include:
+Possible materials to scan:
 
 - Paper
 - Cardboard
