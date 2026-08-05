@@ -299,7 +299,7 @@ On the planning page:
 2. Label how the super-unit applies Samara’s concept of **Surface Activity**.
 3. Identify the physical material you will scan.
 4. Show where the scanned texture will appear within the super-unit.
-5. Sketch at least eight repeated instances organized through the selected **repetition grid**.
+5. Sketch at least eight repeated instances organized through the selected **repetition grid** different from Composition 1.
 6. Identify how **Texture** and **Contrast** will remain visible across the complete composition.
 7. Introduce one or two controlled variations, such as scale, contour, placement, subtraction, texture density, cropping, or positive–negative reversal.
 
@@ -346,7 +346,7 @@ On the planning page:
 5. Introduce at least three controlled variations, such as direction, rotation, length, thickness, spacing, curvature, interruption, or cropping.
 6. Label how the lines apply **Breaking Space**.
 7. Show how selected lines interact with or move beyond the grid, margins, or artboard edges.
-8. Apply a repetition arrangement and grid structure that are different from those used in Compositions 1 and 2.
+8. Apply a repetition grid different from those used in Compositions 1 and 2.
 
 > The final work must be a developed composition of repeated and altered lines. A single line drawing, isolated group of lines, or regular pattern without controlled variation does not meet the requirements.
 
@@ -356,18 +356,15 @@ On the planning page:
 
 Each planning page must show:
 
-- The original super-unit
-- The assigned Interrelationship of Form
+- The original super-unit (only for Composition 1 & 2)
+- The assigned Interrelationship of Form (only for composition 1 & 2)
 - The assigned Wong principle or principles
 - The assigned Samara approach
 - One unique repetition grid
-- One unique grid structure
-- At least eight repeated instances
+- At least eight repeated instances (only for Composition 1 & 2)
 - Controlled alterations
 - The complete square format
 - Notes or arrows explaining the planned changes
-
-> The sketch must show the complete composition, not only the original super-unit. A single super-unit or a row of identical copies does not meet the planning requirements.
 
 Combine the three planning pages into one PDF:
 
