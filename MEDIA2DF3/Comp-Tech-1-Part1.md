@@ -19,7 +19,7 @@ Each composition must combine:
 - **Outputs:** Three planning sketches and three digital compositions
 - **Interrelationships:** Detachment, Touching, Overlapped, and Interpenetration
 - **Wong principles:** Repetition, Structure, Similarity, and Gradation
-- **Samara focuses:** Point, Line, and Plane & Mass
+- **Samara focuses:** Dot, Line, and Plane & Mass
 - **Grid structures:** Inactive, Active, Visible, and Repetition-based
 - **Shapes:** Geometric shapes only
 - **Colour:** Black and white only
@@ -189,7 +189,7 @@ The activity also applies three categories of form from Timothy Samara’s chapt
     >
 
     <figcaption>
-      <h3>Plane and Mass</h3>
+      <h3>Plane & Mass</h3>
       <p>
         A plane is a larger form defined by its outer contour. Its scale, shape, texture, value, and relationship to the surrounding space determine whether it appears flat, becomes a dominant visual mass, or creates the impression of depth and volume.
       </p>
@@ -207,104 +207,103 @@ The activity also applies three categories of form from Timothy Samara’s chapt
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Apply the three required combinations</span>
+    <span class="section-title">2. Plan and sketch the three compositions</span>
     <span class="section-description">
-      Use the assigned relationship, Wong principle, and spatial focus for each composition.
+      Design each super-unit, select a different grid, and plan how the unit will be repeated and altered across the complete format.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Create all three compositions:
+Create **one planning page for each composition**.
 
-| Composition | Interrelationship of Form | Wong principle | Samara form category | Required visual direction |
-|---|---|---|---|---|
-| **1** | **Touching** | **Repetition** | **Dot** | Create a super-unit from touching point-like forms, then repeat it at least eight times. Use changes in size, position, and spacing to create concentrated points of attention and relationships between the repeated units and the surrounding space. |
-| **2** | **Overlapped** | **Similarity** | **Plane and Mass** | Create an overlapped super-unit using planar forms, then repeat it at least eight times. Maintain similarity while altering scale, contour, placement, texture, or overlap to create visual mass and establish relationships between foreground and background. |
-| **3** | **Interpenetration** | **Gradation** | **Line** | Create an interpenetrating super-unit that emphasizes linear direction, then repeat it at least eight times. Use gradual changes in length, weight, direction, spacing, orientation, or position to create rhythm and guide the eye through the composition. |
+The assigned Samara category must shape the construction of the original super-unit. It cannot be added afterward as decoration.
 
-## Structure / Grid requirement
+## Select the grid structures
 
-Choose **one different grid** for each composition from the examples below.
+Choose **one different grid structure for each composition** from the examples below. Do not repeat the same grid.
 
 ![Examples of grid structures](imgs/04.png)
 
-> Select a grid that supports the assigned principle and organizes the repeated and altered super-units.
-
-Assign one different grid structure to each composition:
-
 ![Additional grid examples](imgs/05.png)
 
-> Select a grid structure that supports the assigned principle and organizes the repeated and altered super-units.
+Select the grid that best supports:
 
-## Variation requirement
+- The assigned Interrelationship of Form
+- The assigned Wong principle
+- The assigned Samara form category
+- The organization of the repeated and altered super-units
 
-Within each composition, alter the repeated super-unit through at least **three** of the following variables:
+---
 
-- Scale
-- Rotation
-- Orientation
-- Position
-- Spacing
-- Proportion
-- Cropping at the format edge
-- Positive–negative reversal
+## Composition 1: Touching, Repetition, and Dot
 
-The alterations must create an intentional visual system. Do not scatter copies randomly.
+| Interrelationship of Form | Wong principle | Samara form category |
+|---|---|---|
+| **Touching** | **Repetition** | **Dot** |
 
-</div>
-</details>
+Create a super-unit from point-like geometric forms that touch at an edge or point.
 
-<!-- SECTION 3 -->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Plan and sketch the three compositions</span>
-    <span class="section-description">
-      Design each original super-unit using the assigned Samara form category, then plan how it will be repeated and altered across the complete format.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Create one planning page for each composition.
-
-## Design the original super-unit
-
-The assigned Samara category must shape the construction of the **original super-unit**, not only the final arrangement.
-
-### Composition 1: Dot
-
-Create a **Touching** super-unit based on Samara’s concept of the dot.
-
-The forms should function as concentrated points within space. Consider:
+Consider:
 
 - Size
 - Position
 - Spacing
 - Visual weight
 - Proximity
-- The relationship between the points and the surrounding space
+- Positive and negative space
 
-### Composition 2: Plane and Mass
+On the planning page:
 
-Create an **Overlapped** super-unit based on Samara’s concept of plane and mass.
+1. Draw the original Touching super-unit.
+2. Label how the forms apply Samara’s concept of **Dot**.
+3. Identify the selected grid.
+4. Sketch at least eight repeated instances.
+5. Show how Repetition organizes the complete composition.
+6. Identify at least three controlled alterations, such as size, spacing, position, rotation, or visual weight.
+7. Show the boundaries and negative space of the square format.
 
-The forms should read as clearly defined planes with visual weight. Consider:
+---
+
+## Composition 2: Overlapped, Similarity, and Plane and Mass
+
+| Interrelationship of Form | Wong principle | Samara form category |
+|---|---|---|
+| **Overlapped** | **Similarity** | **Plane and Mass** |
+
+Create a super-unit from planar geometric forms that overlap and establish visible spatial relationships.
+
+Consider:
 
 - Contour
 - Scale
 - Proportion
 - Overlap
+- Visual mass
 - Positive and negative space
-- Which forms appear in front or behind
-- How the combined planes create visual mass
+- Foreground and background
 
-### Composition 3: Line
+On the planning page:
 
-Create an **Interpenetrating** super-unit based on Samara’s concept of line.
+1. Draw the original Overlapped super-unit.
+2. Label how the forms apply Samara’s concept of **Plane and Mass**.
+3. Identify a grid that is different from Composition 1.
+4. Sketch at least eight repeated instances.
+5. Maintain Similarity while introducing controlled variations.
+6. Identify at least three alterations, such as scale, contour, proportion, placement, overlap, or cropping.
+7. Show how the repeated planes establish visual mass and spatial depth within the square format.
 
-The forms should emphasize linear relationships and direction. Consider:
+---
+
+## Composition 3: Interpenetration, Gradation, and Line
+
+| Interrelationship of Form | Wong principle | Samara form category |
+|---|---|---|
+| **Interpenetration** | **Gradation** | **Line** |
+
+Create an interpenetrating super-unit that emphasizes linear direction and connection.
+
+Consider:
 
 - Length
 - Weight
@@ -313,105 +312,35 @@ The forms should emphasize linear relationships and direction. Consider:
 - Curvature
 - Spacing
 - Connection
-- Movement through the super-unit
+- Movement
 
-> The Samara form category must be visible in the original super-unit before it is repeated. Adding dots, lines, or planes afterward as decoration does not meet the requirement.
+On the planning page:
 
-## Plan the complete compositions
+1. Draw the original Interpenetrating super-unit.
+2. Label how the forms apply Samara’s concept of **Line**.
+3. Identify a grid that is different from Compositions 1 and 2.
+4. Sketch at least eight repeated instances.
+5. Use Gradation to create a clear visual progression.
+6. Identify at least three alterations, such as length, weight, direction, angle, spacing, scale, or position.
+7. Show how the repeated system creates rhythm and guides the eye through the square format.
 
-Each planning page must include:
+---
 
-1. The composition number and assigned combination.
-2. A clear drawing of the original super-unit.
-3. Labels identifying how the super-unit applies **Dot**, **Line**, or **Plane and Mass**.
-4. The selected grid structure.
-5. A sketch of the **complete composition**, not only the original super-unit.
-6. At least eight planned instances of the super-unit.
-7. Arrows or notes identifying how the repeated instances will change.
-8. Notes identifying how the assigned Wong principle organizes the larger system.
-9. The boundaries of the square format.
-10. Notes showing how the composition interacts with the edges and surrounding negative space.
+## General sketch requirements
 
-## Plan the alterations
+Each planning page must show:
 
-The repeated super-units must be altered through at least three controlled variables.
+- The original super-unit
+- The assigned Interrelationship of Form
+- The assigned Wong principle
+- The assigned Samara form category
+- One unique grid structure
+- At least eight repeated instances
+- At least three controlled alterations
+- The complete square format
+- Notes or arrows explaining the planned changes
 
-Possible variables include:
-
-- Scale
-- Rotation
-- Orientation
-- Position
-- Spacing
-- Proportion
-- Cropping
-- Positive–negative reversal
-
-For the assigned Samara category, you may also alter:
-
-- **Dot:** size, concentration, visual weight, or distance
-- **Plane and Mass:** contour, overlap, proportion, scale, or apparent depth
-- **Line:** length, weight, direction, angle, curvature, or interval
-
-<fieldset class="equipment-checklist">
-  <legend>Planning checklist</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Samara category shapes the original super-unit.</strong>
-      Dot, Line, or Plane and Mass is visible in the construction of the super-unit itself.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Interrelationship of Form is clear.</strong>
-      The super-unit visibly demonstrates Touching, Overlapped, or Interpenetration.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The complete composition is planned.</strong>
-      The sketch shows at least eight repeated instances rather than one isolated super-unit.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The alterations are identified.</strong>
-      Notes show planned changes in scale, direction, spacing, position, proportion, contour, line quality, or other assigned variables.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Wong principle organizes the larger system.</strong>
-      Repetition, Similarity, or Gradation is visible across the complete composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The grid supports the composition.</strong>
-      The selected structure organizes the repeated and altered super-units.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The square format is active.</strong>
-      The plan considers edges, cropping, margins, placement, and negative space.
-    </span>
-  </label>
-</fieldset>
+> The sketch must show the complete composition, not only the original super-unit. A single super-unit or a row of identical copies does not meet the planning requirements.
 
 Combine the three planning pages into one PDF:
 
@@ -422,13 +351,13 @@ Ask the instructor for feedback before creating the final digital compositions.
 </div>
 </details>
 
-<!-- SECTION 4 -->
+<!-- SECTION 3 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Set up the Illustrator files</span>
+    <span class="section-title">3. Set up and build the three compositions</span>
     <span class="section-description">
-      Create four separate documents with the required dimensions, layers, and filenames.
+      Create the Illustrator files, build each grid and super-unit, then repeat and alter the units across the complete format.
     </span>
   </summary>
 
@@ -436,7 +365,9 @@ Ask the instructor for feedback before creating the final digital compositions.
 
 Create one separate Adobe Illustrator file for each composition.
 
-## Document settings
+## Set up the Illustrator files
+
+Use the following settings:
 
 - **Units:** Pixels
 - **Size:** 1000 × 1000 px
@@ -445,54 +376,51 @@ Create one separate Adobe Illustrator file for each composition.
 - **Colour mode:** RGB
 - **Raster effects:** High, 300 PPI
 
-## Required layers
-
-Create and name the following layers:
+Create and name these layers:
 
 1. **Guides** — grid, margins, and construction lines
-2. **Composition** — super-unit instances and final vector forms
+2. **Composition** — super-units and final vector forms
 3. **Background** — black or white background field
 
-## Working filenames
+Use these working filenames:
 
 - `Lastname-Firstname-CompTech1-Part1-1.ai`
 - `Lastname-Firstname-CompTech1-Part1-2.ai`
 - `Lastname-Firstname-CompTech1-Part1-3.ai`
 
+### Illustrator document setup
+
 <iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Basic Illustrator tools
+### Basic Illustrator tools
 
 <iframe src="https://www.iorad.com/player/2496027/Basic-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-
-</div>
-</details>
-
-<!-- SECTION 5 -->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Build, repeat, and alter the super-units</span>
-    <span class="section-description">
-      Construct each super-unit, repeat it at least eight times, and develop the instances into a complete composition.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
 
 ## Create the grids
 
 Recreate the selected grid for each composition in the **Guides** layer.
 
-The grid should control the placement, alignment, intervals, and movement of the repeated instances. It may remain visible only when a **Visible grid** is assigned.
+Use a different grid structure for each file. The grid should organize the placement, alignment, spacing, and movement of the repeated super-units.
+
+A grid may remain visible only when its visible structure is an intentional part of the final composition.
 
 <iframe src="https://www.iorad.com/player/2496032/Creating-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Create the original super-unit
+## Create the original super-units
 
-Use geometric shapes to construct the assigned Interrelationship of Form.
+Use geometric shapes to create the assigned Interrelationship of Form and Samara form category:
 
-Place the original super-unit in the **Composition** layer. Confirm that the relationship remains clear before repeating it.
+- **Composition 1:** Touching + Dot
+- **Composition 2:** Overlapped + Plane and Mass
+- **Composition 3:** Interpenetration + Line
+
+Place the original super-unit in the **Composition** layer.
+
+Before repeating it, confirm that:
+
+- The assigned Interrelationship of Form is clearly visible.
+- The assigned Samara category shapes the construction of the super-unit itself.
+- The super-unit is visually resolved and can support controlled variation.
 
 <iframe src="https://www.iorad.com/player/2496022/Interrelationships-of-Form-in-Adobe-Illustrator-1?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
@@ -500,125 +428,45 @@ Place the original super-unit in the **Composition** layer. Confirm that the rel
 
 For each file:
 
-1. Create the original super-unit using the assigned Samara form category:
-   - **Composition 1:** Dot
-   - **Composition 2:** Plane and Mass
-   - **Composition 3:** Line
-2. Confirm that the assigned Interrelationship of Form is visible within the original super-unit.
+1. Create the original super-unit using the assigned Samara form category.
+2. Confirm that the assigned Interrelationship of Form is visible within the super-unit.
 3. Repeat the super-unit at least eight times.
 4. Alter the repeated instances through at least three controlled variables.
-5. Use one selected grid structure to organize the repeated system.
-6. Use the assigned Wong principle to organize the complete composition:
+5. Use the selected grid to organize the repeated system.
+6. Use the assigned Wong principle across the complete composition:
    - **Composition 1:** Repetition
    - **Composition 2:** Similarity
    - **Composition 3:** Gradation
 7. Maintain the defining qualities of Dot, Plane and Mass, or Line as the super-unit is repeated and altered.
-8. Consider how the instances interact with the square format, including its edges, margins, cropping, and negative space.
-9. Refine visual balance with your eyes rather than relying only on mathematical alignment.
+8. Consider the relationship between the composition and the square format, including edges, cropping, margins, placement, and negative space.
+9. Refine the visual balance with your eyes rather than relying only on mathematical alignment.
 
-> The repeated instances must interact as a complete composition. A single completed super-unit, a row of identical copies, or copies placed without a clear visual system will not meet the activity requirements. The assigned Samara category must be evident in the construction of the original super-unit and remain visible throughout the repeated system.  
+Possible alterations include:
+
+- Scale
+- Rotation
+- Orientation
+- Position
+- Spacing
+- Proportion
+- Cropping
+- Positive–negative reversal
+- Dot size or concentration
+- Plane contour, overlap, or mass
+- Line length, weight, angle, direction, or curvature
+
+> The repeated instances must operate as a complete composition. A single super-unit, a row of identical copies, or copies placed without a clear visual system will not meet the activity requirements.
 
 ![Example of a developed composition built from repeated units](imgs/06.png)
 
 </div>
 </details>
 
-<!-- SECTION 6 -->
+<!-- SECTION 4 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Review the three compositions</span>
-    <span class="section-description">
-      Confirm that each composition develops a repeated and altered super-unit into an intentional visual system.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-<fieldset class="equipment-checklist">
-  <legend>Final review checklist</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Each composition contains at least eight instances.</strong>
-      No final design consists of one isolated super-unit or a small group of unaltered copies.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The original super-unit applies the assigned Samara form category.</strong>
-      Composition 1 is based on Dot, Composition 2 on Plane and Mass, and Composition 3 on Line.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The assigned Interrelationship of Form remains readable.</strong>
-      Touching, Overlapped, or Interpenetration is clearly visible within the original super-unit and the repeated system.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The super-unit is systematically altered.</strong>
-      At least three variables change in a controlled and visible way, such as scale, orientation, position, spacing, proportion, contour, line quality, or cropping.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The assigned Wong principle organizes the complete composition.</strong>
-      Repetition, Similarity, or Gradation affects the larger arrangement rather than only the construction of one super-unit.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Each composition uses a different grid structure.</strong>
-      The selected grid supports the assigned Interrelationship of Form, Wong principle, Samara form category, and organization of the repeated super-units. No grid structure is repeated.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The repeated instances form an intentional visual system.</strong>
-      The arrangement demonstrates clear relationships in placement, spacing, rhythm, hierarchy, direction, or visual weight rather than random distribution.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The square format is fully considered.</strong>
-      Edges, cropping, margins, placement, and negative space contribute to the composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The technical requirements are followed.</strong>
-      All work uses black-and-white geometric vector forms with the correct dimensions, layers, and filenames.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!-- SECTION 7 -->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Export and submit Part 1</span>
+    <span class="section-title">4. Export and submit Part 1</span>
     <span class="section-description">
       Export the planning document and four final compositions using the required filenames.
     </span>
