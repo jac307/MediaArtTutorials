@@ -416,9 +416,9 @@ For each file:
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Review & Submit Part 1</span>
+    <span class="section-title">4. Review & Export Part 1</span>
     <span class="section-description">
-      Review requirements and submit the required documents for Part 1.
+      Check the compositions, layers, guides, margins, and editable PDF settings before exporting and submitting Part 1.
     </span>
   </summary>
 
