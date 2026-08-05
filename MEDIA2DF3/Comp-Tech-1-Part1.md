@@ -217,13 +217,15 @@ The activity also applies three categories of form from Timothy Samara’s chapt
 
 Create **one planning page for each composition**.
 
-The assigned Samara category must shape the construction of the original super-unit. It cannot be added afterward as decoration.
-
 ## Select the grid structures
 
-Choose **one different grid structure for each composition** from the examples below. Do not repeat the same grid.
+Choose **one different repetition arragement and grid structure for each composition** from the examples below. Do not repeat the same grid.
+
+### Repetition Arragements
 
 ![Examples of grid structures](imgs/04.png)
+
+### Grid Structures
 
 ![Additional grid examples](imgs/05.png)
 
@@ -236,93 +238,56 @@ Select the grid that best supports:
 
 ---
 
-## Composition 1: Touching, Repetition, and Dot
+## Composition 1
 
 | Interrelationship of Form | Wong principle | Samara form category |
 |---|---|---|
 | **Touching** | **Repetition** | **Dot** |
 
-Create a super-unit from point-like geometric forms that touch at an edge or point.
-
-Consider:
-
-- Size
-- Position
-- Spacing
-- Visual weight
-- Proximity
-- Positive and negative space
+Create a super-unit from point-like geometric forms that touch at an edge or point. A point does not need to be a circle; other geometric shapes can also function as points when used as small, concentrated visual elements.
 
 On the planning page:
 
-1. Draw the original Touching super-unit.
+1. Draw the super-unit applying the **Touching** relationship of form.
 2. Label how the forms apply Samara’s concept of **Dot**.
-3. Identify the selected grid.
-4. Sketch at least eight repeated instances.
-5. Show how Repetition organizes the complete composition.
-6. Identify at least three controlled alterations, such as size, spacing, position, rotation, or visual weight.
-7. Show the boundaries and negative space of the square format.
+3. Sketch at least eight repeated instances organized into the selected **repetition arragement**.
+4. Show the boundaries and negative space by applying the selected **grid structure**. 
 
 ---
 
-## Composition 2: Overlapped, Similarity, and Plane and Mass
+## Composition 2
 
 | Interrelationship of Form | Wong principle | Samara form category |
 |---|---|---|
 | **Overlapped** | **Similarity** | **Plane and Mass** |
 
-Create a super-unit from planar geometric forms that overlap and establish visible spatial relationships.
-
-Consider:
-
-- Contour
-- Scale
-- Proportion
-- Overlap
-- Visual mass
-- Positive and negative space
-- Foreground and background
+Create a super-unit from planar geometric forms that overlap and establish visible spatial relationships. Consider the visual mass of the planes, and use variations in scale, proportion, contour, or overlap to create different visual weights.
 
 On the planning page:
 
-1. Draw the original Overlapped super-unit.
+1. Draw the super-unit applying the **Overlaping** relationship of form.
 2. Label how the forms apply Samara’s concept of **Plane and Mass**.
-3. Identify a grid that is different from Composition 1.
-4. Sketch at least eight repeated instances.
-5. Maintain Similarity while introducing controlled variations.
-6. Identify at least three alterations, such as scale, contour, proportion, placement, overlap, or cropping.
-7. Show how the repeated planes establish visual mass and spatial depth within the square format.
+3. Sketch at least eight repeated instances organized into the selected **repetition arragement** (different from Composition 1).
+4. Maintain Similarity while introducing controlled variations or alterations, such as scale, contour, proportion, placement, overlap, or cropping.
+5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1). 
 
 ---
 
-## Composition 3: Interpenetration, Gradation, and Line
+## Composition 3
 
 | Interrelationship of Form | Wong principle | Samara form category |
 |---|---|---|
 | **Interpenetration** | **Gradation** | **Line** |
 
-Create an interpenetrating super-unit that emphasizes linear direction and connection.
-
-Consider:
-
-- Length
-- Weight
-- Direction
-- Angle
-- Curvature
-- Spacing
-- Connection
-- Movement
+Create an interpenetrating super-unit that emphasizes linear direction and connection. A line does not need to be straight, vertical, or horizontal; you may vary its direction, break or interrupt it, and change its thickness to create movement and visual variation.  
 
 On the planning page:
 
-1. Draw the original Interpenetrating super-unit.
+1. Draw the super-unit applying the **Interpenetration** relationship of form.
 2. Label how the forms apply Samara’s concept of **Line**.
-3. Identify a grid that is different from Compositions 1 and 2.
-4. Sketch at least eight repeated instances.
-5. Use Gradation to create a clear visual progression.
-6. Identify at least three alterations, such as length, weight, direction, angle, spacing, scale, or position.
-7. Show how the repeated system creates rhythm and guides the eye through the square format.
+3. Sketch at least eight repeated instances organized into the selected **repetition arragement** (different from Composition 1 and 2).
+4. Maintain Similarity while introducing controlled variations or alterations, such as scale, contour, proportion, placement, overlap, or cropping.
+5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1 and 2). 
 
 ---
 
@@ -334,13 +299,10 @@ Each planning page must show:
 - The assigned Interrelationship of Form
 - The assigned Wong principle
 - The assigned Samara form category
+- One unique grid arragement
 - One unique grid structure
 - At least eight repeated instances
-- At least three controlled alterations
-- The complete square format
 - Notes or arrows explaining the planned changes
-
-> The sketch must show the complete composition, not only the original super-unit. A single super-unit or a row of identical copies does not meet the planning requirements.
 
 Combine the three planning pages into one PDF:
 
@@ -462,17 +424,9 @@ Possible alterations include:
 </div>
 </details>
 
-<!-- SECTION 4 -->
+---
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Export and submit Part 1</span>
-    <span class="section-description">
-      Export the planning document and four final compositions using the required filenames.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Export and submit Part 1
 
 ## Required files
 
@@ -482,9 +436,8 @@ Possible alterations include:
 | Composition 1 PDF | `Lastname-Firstname-CompTech1-Part1-1.pdf` |
 | Composition 2 PDF | `Lastname-Firstname-CompTech1-Part1-2.pdf` |
 | Composition 3 PDF | `Lastname-Firstname-CompTech1-Part1-3.pdf` |
-| Composition 4 PDF | `Lastname-Firstname-CompTech1-Part1-4.pdf` |
 
-Before submitting:
+## Before submitting:
 
 - Open every PDF and confirm that it displays correctly.
 - Confirm that the artwork reaches the intended edges or margins.
@@ -492,9 +445,6 @@ Before submitting:
 - Confirm that the filenames match the required structure exactly.
 
 Incorrect filenames, missing files, incomplete repetition, or a final composition based on only one isolated super-unit may affect the grade.
-
-</div>
-</details>
 
 ---
 
