@@ -17,7 +17,7 @@ Each composition must combine:
 ## Activity overview
 
 - **Outputs:** Three planning sketches and three digital compositions
-- **Interrelationships:** Union, Subtraction, and Intersection
+- **Interrelationships:** Union and Subtraction
 - **Wong principles:** Radiation, Anomaly, Concentration, Texture, Contrast, and Space
 - **Samara focuses:** Surface Activity, Breaking Space, and Arranging Form
 - **Original media:** One physical texture created with a proper scanner
@@ -307,29 +307,48 @@ On the planning page:
 
 ## Composition 3
 
-| Interrelationship of Form | Wong principle | Samara approach |
+| Wong principles | Samara approach | Required visual element |
 |---|---|---|
-| **Intersection** | **Space** | **Breaking Space** |
+| **Radiation + Space** | **Breaking Space** | **Repeated lines** |
 
-Create a super-unit from the shared area produced when two or more geometric, organic, or accidental forms intersect. Only the intersecting area should remain visible.
+Create a composition using **repeated lines only**. This composition does not use an Interrelationship of Form or a super-unit.
 
-Use the repeated super-unit to develop one spatial approach:
+The lines may be:
+
+- Straight, curved, angled, or broken
+- Continuous or interrupted
+- Thin, thick, or gradually changing in weight
+- Closely grouped or widely separated
+- Directed inward, outward, or around one or more centres
+
+Use **Radiation** to organize the lines around a common centre or multiple related centres. Changes in direction, spacing, length, thickness, and rotation should create movement and emphasis.
+
+Use the repeated lines to explore one type of **Space**:
 
 - **Flat Space**
 - **Illusory Space**
 - **Fluctuating and Conflicting Space**
 
-Apply Samara’s concept of **Breaking Space** by allowing selected forms to touch, divide, cross, interrupt, or move beyond the grid, margins, or artboard edges.
+Apply Samara’s concept of **Breaking Space** by allowing lines to:
+
+- Divide or interrupt areas of the composition
+- Cross or move beyond the grid
+- Touch or extend beyond the margins
+- Enter or leave the artboard
+- Create tension between the interior and exterior of the format
 
 On the planning page:
 
-1. Draw the super-unit applying the **Intersection** relationship of form.
-2. Label the selected type of **Space**.
-3. Identify how the composition applies Samara’s concept of **Breaking Space**.
-4. Sketch at least eight repeated instances organized through the selected **repetition grid**.
-5. Introduce two or three controlled variations, such as scale, orientation, position, interval, direction, cropping, overlap, or positive–negative reversal.
-6. Show how selected forms interact with or move beyond the grid, margins, or artboard edges.
-7. Apply a repetition grid and grid structure that are different from Compositions 1 and 2.
+1. Identify the selected type of **Space**.
+2. Identify the centre or centres of **Radiation**.
+3. Sketch the complete composition using repeated lines.
+4. Show how the lines radiate inward, outward, or around the selected centre or centres.
+5. Introduce at least three controlled variations, such as direction, rotation, length, thickness, spacing, curvature, interruption, or cropping.
+6. Label how the lines apply **Breaking Space**.
+7. Show how selected lines interact with or move beyond the grid, margins, or artboard edges.
+8. Apply a repetition arrangement and grid structure that are different from those used in Compositions 1 and 2.
+
+> The final work must be a developed composition of repeated and altered lines. A single line drawing, isolated group of lines, or regular pattern without controlled variation does not meet the requirements.
 
 ---
 
