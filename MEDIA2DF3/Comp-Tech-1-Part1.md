@@ -251,7 +251,8 @@ On the planning page:
 1. Draw the super-unit applying the **Touching** relationship of form.
 2. Label how the forms apply Samara’s concept of **Dot**.
 3. Sketch at least eight repeated instances organized into the selected **repetition arragement**.
-4. Show the boundaries and negative space by applying the selected **grid structure**. 
+4. Maintain Repetition while introducing **one controlled variation or alteration**, such as scale, contour, proportion, placement, overlap, cropping, or positive–negative reversal.
+5. Show the boundaries and negative space by applying the selected **grid structure**. 
 
 ---
 
@@ -268,7 +269,7 @@ On the planning page:
 1. Draw the super-unit applying the **Overlaping** relationship of form.
 2. Label how the forms apply Samara’s concept of **Plane and Mass**.
 3. Sketch at least eight repeated instances organized into the selected **repetition arragement** (different from Composition 1).
-4. Maintain Similarity while introducing controlled variations or alterations, such as scale, contour, proportion, placement, overlap, or cropping.
+4. Maintain Similarity while introducing **one-two controlled variations or alterations**, such as scale, contour, proportion, placement, overlap, cropping, or positive–negative reversal.
 5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1). 
 
 ---
@@ -286,7 +287,7 @@ On the planning page:
 1. Draw the super-unit applying the **Interpenetration** relationship of form.
 2. Label how the forms apply Samara’s concept of **Line**.
 3. Sketch at least eight repeated instances organized into the selected **repetition arragement** (different from Composition 1 and 2).
-4. Maintain Similarity while introducing controlled variations or alterations, such as scale, contour, proportion, placement, overlap, or cropping.
+4. Introduce **two-three controlled variations or alterations**, such as scale, contour, proportion, placement, overlap, cropping, concentration, or positive–negative reversal.
 5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1 and 2). 
 
 ---
@@ -302,6 +303,7 @@ Each planning page must show:
 - One unique grid arragement
 - One unique grid structure
 - At least eight repeated instances
+- Controlled alterations
 - Notes or arrows explaining the planned changes
 
 Combine the three planning pages into one PDF:
@@ -403,20 +405,6 @@ For each file:
 8. Consider the relationship between the composition and the square format, including edges, cropping, margins, placement, and negative space.
 9. Refine the visual balance with your eyes rather than relying only on mathematical alignment.
 
-Possible alterations include:
-
-- Scale
-- Rotation
-- Orientation
-- Position
-- Spacing
-- Proportion
-- Cropping
-- Positive–negative reversal
-- Dot size or concentration
-- Plane contour, overlap, or mass
-- Line length, weight, angle, direction, or curvature
-
 > The repeated instances must operate as a complete composition. A single super-unit, a row of identical copies, or copies placed without a clear visual system will not meet the activity requirements.
 
 ![Example of a developed composition built from repeated units](imgs/06.png)
@@ -424,27 +412,113 @@ Possible alterations include:
 </div>
 </details>
 
----
+<!-- SECTION 4 -->
 
-## Export and submit Part 1
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Review & Submit Part 1</span>
+    <span class="section-description">
+      Review requirements and submit the required documents for Part 1.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Before submitting
+
+Your PDF files will be opened in Adobe Illustrator to review the document setup, layers, guides, margins, and construction of the compositions.
+
+### Check the Illustrator document structure
+
+For each composition, confirm that the file contains the required layers:
+
+1. **Guides**
+   - Contains the selected grid structure
+   - Contains the margin guides created during the document setup
+   - Contains only guides and construction elements
+
+2. **Composition**
+   - Contains the original super-unit
+   - Contains all repeated and altered instances
+   - Contains the final black-and-white vector composition
+
+3. **Background**
+   - Contains only the black or white background field
+
+Do not leave artwork on the wrong layer or create unnecessary unnamed layers.
+
+### Check the guides and margins
+
+Before saving the PDF:
+
+- Convert the grid structure into Illustrator guides.
+- Keep the grid and margin guides inside the **Guides** layer.
+- Confirm that **View → Guides → Show Guides** is active.
+- Keep the **Guides** layer visible when saving the file.
+- Confirm that the original margin guides from the document setup remain present.
+- Confirm that the grid and margins align correctly with the artboard.
+- Do not expand, delete, rasterize, or merge the guides with the composition.
+
+Guides should be visible when the PDF is opened in Illustrator, but they will not appear as part of the printed or exported artwork.
+
+### Check the document settings
+
+Confirm that each file uses:
+
+- **Artboard:** 1000 × 1000 px
+- **Aspect ratio:** 1:1
+- **Bleed:** 10 px on all sides
+- **Colour mode:** RGB
+- **Raster effects:** High, 300 PPI
+- **Colour restriction:** Black and white only
+
+Also confirm that:
+
+- All composition elements are editable vector objects.
+- No unintended raster images or linked files are included.
+- There are no stray points, hidden copies, or unnecessary objects outside the artboard.
+- The composition interacts intentionally with the edges, margins, and negative space.
+- The super-unit is repeated at least eight times and altered through at least three controlled variables.
+
+### Save the editable PDF
+
+Use **File → Save As → Adobe PDF**.
+
+In the Adobe PDF settings, select:
+
+- **Preserve Illustrator Editing Capabilities**
+
+This setting is required so that the layers, guides, editable vector objects, artboard, and document structure remain available when the PDF is reopened in Illustrator.
+
+### Final file check
+
+Open each submitted PDF twice:
+
+1. Open it in a PDF viewer and confirm that the final composition displays correctly.
+2. Open it in Adobe Illustrator and confirm that:
+   - The required layers remain separate and correctly named.
+   - Each layer contains the correct material.
+   - The grid has been converted into guides.
+   - The grid and margin guides remain visible.
+   - The vector objects remain editable.
+   - The artboard and bleed settings remain correct.
+   - The filename follows the required structure exactly.
+
+</div>
+</details>
+
+---
 
 ## Required files
 
 | Item | Required filename |
 |---|---|
-| Sketches PDF | `Lastname-Firstname-CompTech1-Part1-Sketches.pdf` |
+| Sketches PDF | `Lastname-Firstname-CompTech1-Part2-Sketches.pdf` |
 | Composition 1 PDF | `Lastname-Firstname-CompTech1-Part1-1.pdf` |
 | Composition 2 PDF | `Lastname-Firstname-CompTech1-Part1-2.pdf` |
 | Composition 3 PDF | `Lastname-Firstname-CompTech1-Part1-3.pdf` |
 
-## Before submitting:
-
-- Open every PDF and confirm that it displays correctly.
-- Confirm that the artwork reaches the intended edges or margins.
-- Confirm that no guides appear unless the Visible grid is part of the final design.
-- Confirm that the filenames match the required structure exactly.
-
-Incorrect filenames, missing files, incomplete repetition, or a final composition based on only one isolated super-unit may affect the grade.
+Incorrect filenames, missing layers, deleted margins, grids that have not been converted into guides, flattened or non-editable PDFs, incomplete repetition, or compositions based on only one isolated super-unit may affect the grade.
 
 ---
 
