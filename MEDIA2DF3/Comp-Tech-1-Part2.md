@@ -556,7 +556,6 @@ Before submitting:
 - Confirm that the two compositions use two different scanned materials.
 - Confirm that all filenames follow the required structure exactly.
 
-Downloaded textures, photographed textures, missing source scans, unembedded images, incomplete repetition, or a final work based on only one isolated super-unit may affect the grade.
 
 </div>
 </details>
