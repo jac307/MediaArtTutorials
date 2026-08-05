@@ -11,7 +11,7 @@ Each composition must combine:
 - **One assigned Interrelationship of Form**
 - **One assigned combination of principles from Wucius Wong**
 - **One assigned approach from Timothy Samara’s “Form and Space”**
-- **One repetition grid and one grid structure**
+- **One repetition grid**
 - **One super-unit repeated and altered across the complete composition**
 
 ## Activity overview
@@ -248,19 +248,13 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
 
 Create **one planning page for each composition**.
 
-## Select the repetition grids and grid structures
+## Select the repetition grids
 
-Choose **one different grid arrangement and one different grid structure for each composition**. Do not repeat the same arrangement or grid.
-
-### Repetition Grids
+Choose **one different repetition grid for each composition**. Do not repeat the same grid.
 
 ![Examples of repetition arrangements](imgs/04.png)
 
-### Grid Structures
-
-![Additional grid examples](imgs/05.png)
-
-Select the arrangement and grid that best support:
+Select the grid that best supports:
 
 - The assigned Interrelationship of Form
 - The assigned Wong principles
@@ -275,7 +269,7 @@ Select the arrangement and grid that best support:
 |---|---|---|
 | **Union** | **Anomaly + Concentration** | **Arranging Form** |
 
-Create a super-unit by merging geometric, organic, or accidental shapes through **Union**. The combined forms must read as one larger form without visible internal boundaries.
+Create a super-unit by merging **organic shapes** through **Union**. The combined forms must read as one larger form without visible internal boundaries.
 
 Repeat the super-unit to create areas of increasing and decreasing concentration. Introduce one clear anomaly that interrupts the larger visual system and becomes an intentional point of emphasis.
 
@@ -286,7 +280,6 @@ On the planning page:
 3. Sketch at least eight repeated instances organized through the selected **repetition grid**.
 4. Show how changes in spacing, grouping, or density create **Concentration**.
 5. Identify one intentional **Anomaly** created through shape, size, position, direction, value, or positive–negative reversal.
-6. Show the boundaries and negative space by applying the selected **grid structure**.
 
 ---
 
@@ -296,9 +289,9 @@ On the planning page:
 |---|---|---|
 | **Subtraction** | **Texture + Contrast** | **Surface Activity** |
 
-Create a super-unit by using one form to subtract an area from another. The subtraction must create a clearly visible contour and negative space.
+Create a super-unit by using one form to subtract an area from another using **accidental shapes**. The subtraction must create a clearly visible contour and negative space.
 
-Use one original physical texture created with a proper scanner. Apply the scanned material to produce surface activity and create a clear contrast between textured and untextured areas, dense and sparse marks, smooth and rough surfaces, or black and white values.
+Use at least **one original physical texture** created with a proper scanner. Apply the scanned material to produce surface activity and create a clear contrast between textured and untextured areas, dense and sparse marks, smooth and rough surfaces, or black and white values.
 
 On the planning page:
 
@@ -309,7 +302,6 @@ On the planning page:
 5. Sketch at least eight repeated instances organized through the selected **repetition grid**.
 6. Identify how **Texture** and **Contrast** will remain visible across the complete composition.
 7. Introduce one or two controlled variations, such as scale, contour, placement, subtraction, texture density, cropping, or positive–negative reversal.
-8. Apply a repetition grid and grid structure that are different from Composition 1.
 
 ---
 

@@ -209,7 +209,7 @@ The activity also applies three categories of form from Timothy Samara’s chapt
   <summary>
     <span class="section-title">2. Plan and sketch the three compositions</span>
     <span class="section-description">
-      Design each super-unit, select a different grid, and plan how the unit will be repeated and altered across the complete format.
+      Design each super-unit, select a different repetition grid and grid structure, and plan how the unit will be repeated and altered.
     </span>
   </summary>
 
@@ -219,7 +219,7 @@ Create **one planning page for each composition**.
 
 ## Select the repetition grids and grid structures
 
-Choose **one different repetition grid and grid structure for each composition** from the examples below. Do not repeat the same grid.
+Choose **one different repetition grid and grid structure for each composition**. Do not repeat the selections.
 
 ### Repetition Arragements
 
@@ -229,7 +229,7 @@ Choose **one different repetition grid and grid structure for each composition**
 
 ![Additional grid examples](imgs/05.png)
 
-Select the grid that best supports:
+Select the grid and structure that best supports:
 
 - The assigned Interrelationship of Form
 - The assigned Wong principle
@@ -250,7 +250,7 @@ On the planning page:
 
 1. Draw the super-unit applying the **Touching** relationship of form.
 2. Label how the forms apply Samara’s concept of **Dot**.
-3. Sketch at least eight repeated instances organized into the selected **repetition arragement**.
+3. Sketch at least eight repeated instances organized into the selected **repetition grid**.
 4. Maintain Repetition while introducing **one controlled variation or alteration**, such as scale, contour, proportion, placement, overlap, cropping, or positive–negative reversal.
 5. Show the boundaries and negative space by applying the selected **grid structure**. 
 
@@ -268,7 +268,7 @@ On the planning page:
 
 1. Draw the super-unit applying the **Overlaping** relationship of form.
 2. Label how the forms apply Samara’s concept of **Plane and Mass**.
-3. Sketch at least eight repeated instances organized into the selected **repetition arragement** (different from Composition 1).
+3. Sketch at least eight repeated instances organized into the selected **repetition grid** (different from Composition 1).
 4. Maintain Similarity while introducing **one-two controlled variations or alterations**, such as scale, contour, proportion, placement, overlap, cropping, or positive–negative reversal.
 5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1). 
 
@@ -286,7 +286,7 @@ On the planning page:
 
 1. Draw the super-unit applying the **Interpenetration** relationship of form.
 2. Label how the forms apply Samara’s concept of **Line**.
-3. Sketch at least eight repeated instances organized into the selected **repetition arragement** (different from Composition 1 and 2).
+3. Sketch at least eight repeated instances organized into the selected **repetition grid** (different from Composition 1 and 2).
 4. Introduce **two-three controlled variations or alterations**, such as scale, contour, proportion, placement, overlap, cropping, concentration, or positive–negative reversal.
 5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1 and 2). 
 
