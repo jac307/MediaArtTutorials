@@ -527,7 +527,98 @@ For each file:
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Export and submit Part 1</span>
+    <span class="section-title">6. Review the three compositions</span>
+    <span class="section-description">
+      Confirm that each composition develops a repeated and altered super-unit into an intentional visual system.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>Final review checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Each composition contains at least eight instances.</strong>
+      No final design consists of one isolated super-unit or a small group of unaltered copies.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The original super-unit applies the assigned Samara form category.</strong>
+      Composition 1 is based on Dot, Composition 2 on Plane and Mass, and Composition 3 on Line.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The assigned Interrelationship of Form remains readable.</strong>
+      Touching, Overlapped, or Interpenetration is clearly visible within the original super-unit and the repeated system.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The super-unit is systematically altered.</strong>
+      At least three variables change in a controlled and visible way, such as scale, orientation, position, spacing, proportion, contour, line quality, or cropping.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The assigned Wong principle organizes the complete composition.</strong>
+      Repetition, Similarity, or Gradation affects the larger arrangement rather than only the construction of one super-unit.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Each composition uses a different grid structure.</strong>
+      The selected grid supports the assigned Interrelationship of Form, Wong principle, Samara form category, and organization of the repeated super-units. No grid structure is repeated.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The repeated instances form an intentional visual system.</strong>
+      The arrangement demonstrates clear relationships in placement, spacing, rhythm, hierarchy, direction, or visual weight rather than random distribution.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The square format is fully considered.</strong>
+      Edges, cropping, margins, placement, and negative space contribute to the composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The technical requirements are followed.</strong>
+      All work uses black-and-white geometric vector forms with the correct dimensions, layers, and filenames.
+    </span>
+  </label>
+</fieldset>
+
+</div>
+</details>
+
+<!-- SECTION 7 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Export and submit Part 1</span>
     <span class="section-description">
       Export the planning document and four final compositions using the required filenames.
     </span>
