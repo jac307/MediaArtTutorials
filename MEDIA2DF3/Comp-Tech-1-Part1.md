@@ -354,6 +354,8 @@ Use these working filenames:
 
 ### Illustrator document setup
 
+> **Required tutorial:** Follow this tutorial step by step. It includes the required document settings, **margin guides**, bleed, colour mode, raster-effects resolution, and layer setup. Skipping steps or using different settings may result in lost marks.
+
 <iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 ### Basic Illustrator tools
@@ -367,6 +369,8 @@ Recreate the selected grid for each composition in the **Guides** layer.
 Use a different grid structure for each file. The grid should organize the placement, alignment, spacing, and movement of the repeated super-units.
 
 A grid may remain visible only when its visible structure is an intentional part of the final composition.
+
+> Although grids begin as drawn lines, **all grids**—unless they are intentionally visible—**must be converted into guides**. This ensures that the grid remains available in Illustrator but does not appear when the document is printed or viewed outside Illustrator.
 
 <iframe src="https://www.iorad.com/player/2496032/Creating-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
@@ -392,12 +396,13 @@ Before repeating it, confirm that:
 
 For each file:
 
-1. Create the original super-unit using the assigned Samara form category.
-2. Confirm that the assigned Interrelationship of Form is visible within the super-unit.
-3. Repeat the super-unit at least eight times.
-4. Alter the repeated instances through at least three controlled variables.
-5. Use the selected grid to organize the repeated system.
-6. Use the assigned Wong principle across the complete composition:
+1. Repeat the super-unit at least eight times.
+2. Alter the repeated instances through controlled variables.
+   - **Composition 1:** one controlled variable
+   - **Composition 2:** one-two controlled variables
+   - **Composition 3:** two-three controlled variables
+3. Use the selected repetition arragement to organize your composition.
+4. Use the assigned Wong principle across the complete composition:
    - **Composition 1:** Repetition
    - **Composition 2:** Similarity
    - **Composition 3:** Gradation
@@ -509,7 +514,7 @@ Open each submitted PDF twice:
 
 ---
 
-## Required files
+## Submission files
 
 | Item | Required filename |
 |---|---|
@@ -518,7 +523,7 @@ Open each submitted PDF twice:
 | Composition 2 PDF | `Lastname-Firstname-CompTech1-Part1-2.pdf` |
 | Composition 3 PDF | `Lastname-Firstname-CompTech1-Part1-3.pdf` |
 
-Incorrect filenames, missing layers, deleted margins, grids that have not been converted into guides, flattened or non-editable PDFs, incomplete repetition, or compositions based on only one isolated super-unit may affect the grade.
+Incorrect filenames and file extensions, missing layers, deleted margins, grids that have not been converted into guides, flattened or non-editable PDFs, incomplete repetition, or compositions based on only one isolated super-unit will affect the grade.
 
 ---
 
