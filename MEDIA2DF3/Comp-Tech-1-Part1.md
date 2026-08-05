@@ -11,7 +11,7 @@ Each composition must combine:
 - **One assigned Interrelationship of Form**
 - **One assigned principle from Wucius Wong**
 - **One spatial focus adapted from Timothy Samara’s “Form and Space”**
-- **One repetition arrangement and one grid structure**
+- **One repetition grid and one grid structure**
 - **One super-unit repeated and altered across the complete composition**
 
 ## Activity overview
@@ -217,9 +217,9 @@ The activity also applies three categories of form from Timothy Samara’s chapt
 
 Create **one planning page for each composition**.
 
-## Select the grid structures
+## Select the repetition grids and grid structures
 
-Choose **one different repetition arragement and grid structure for each composition** from the examples below. Do not repeat the same grid.
+Choose **one different repetition grid and grid structure for each composition** from the examples below. Do not repeat the same grid.
 
 ### Repetition Arragements
 
@@ -401,7 +401,7 @@ For each file:
    - **Composition 1:** one controlled variable
    - **Composition 2:** one-two controlled variables
    - **Composition 3:** two-three controlled variables
-3. Use the selected repetition arragement to organize your composition.
+3. Use the selected repetition grid to organize your composition.
 4. Use the assigned Wong principle across the complete composition:
    - **Composition 1:** Repetition
    - **Composition 2:** Similarity

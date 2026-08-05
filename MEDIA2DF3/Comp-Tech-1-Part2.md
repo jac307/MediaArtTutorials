@@ -11,7 +11,7 @@ Each composition must combine:
 - **One assigned Interrelationship of Form**
 - **One assigned combination of principles from Wucius Wong**
 - **One assigned approach from Timothy Samara’s “Form and Space”**
-- **One repetition arrangement and one grid structure**
+- **One repetition grid and one grid structure**
 - **One super-unit repeated and altered across the complete composition**
 
 ## Activity overview
@@ -64,7 +64,7 @@ The final composition must develop that starting structure into a larger visual 
 1. Create one clearly resolved super-unit.
 2. Repeat the super-unit at least eight times.
 3. Alter the repeated instances in a controlled way.
-4. Organize the instances through the assigned repetition arrangement, grid, and principles.
+4. Organize the instances through the assigned repetition grid, grid structures, and principles.
 5. Use the complete square format, including its edges, margins, and negative spaces.
 
 The assigned relationship inside the original super-unit must remain identifiable after the instances are repeated and altered.
@@ -240,7 +240,7 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
   <summary>
     <span class="section-title">2. Plan and sketch the three compositions</span>
     <span class="section-description">
-      Design each super-unit, select a different repetition arrangement and grid, and plan how the unit will be repeated and altered.
+      Design each super-unit, select a different repetition grid and grid structure, and plan how the unit will be repeated and altered.
     </span>
   </summary>
 
@@ -248,11 +248,11 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
 
 Create **one planning page for each composition**.
 
-## Select the repetition arrangements and grid structures
+## Select the repetition grids and grid structures
 
-Choose **one different repetition arrangement and one different grid structure for each composition**. Do not repeat the same arrangement or grid.
+Choose **one different grid arrangement and one different grid structure for each composition**. Do not repeat the same arrangement or grid.
 
-### Repetition Arrangements
+### Repetition Grids
 
 ![Examples of repetition arrangements](imgs/04.png)
 
@@ -283,7 +283,7 @@ On the planning page:
 
 1. Draw the super-unit applying the **Union** relationship of form.
 2. Label how the forms apply Samara’s concept of **Arranging Form**.
-3. Sketch at least eight repeated instances organized through the selected **repetition arrangement**.
+3. Sketch at least eight repeated instances organized through the selected **repetition grid**.
 4. Show how changes in spacing, grouping, or density create **Concentration**.
 5. Identify one intentional **Anomaly** created through shape, size, position, direction, value, or positive–negative reversal.
 6. Show the boundaries and negative space by applying the selected **grid structure**.
@@ -306,10 +306,10 @@ On the planning page:
 2. Label how the super-unit applies Samara’s concept of **Surface Activity**.
 3. Identify the physical material you will scan.
 4. Show where the scanned texture will appear within the super-unit.
-5. Sketch at least eight repeated instances organized through the selected **repetition arrangement**.
+5. Sketch at least eight repeated instances organized through the selected **repetition grid**.
 6. Identify how **Texture** and **Contrast** will remain visible across the complete composition.
 7. Introduce one or two controlled variations, such as scale, contour, placement, subtraction, texture density, cropping, or positive–negative reversal.
-8. Apply a repetition arrangement and grid structure that are different from Composition 1.
+8. Apply a repetition grid and grid structure that are different from Composition 1.
 
 ---
 
@@ -334,10 +334,10 @@ On the planning page:
 1. Draw the super-unit applying the **Intersection** relationship of form.
 2. Label the selected type of **Space**.
 3. Identify how the composition applies Samara’s concept of **Breaking Space**.
-4. Sketch at least eight repeated instances organized through the selected **repetition arrangement**.
+4. Sketch at least eight repeated instances organized through the selected **repetition grid**.
 5. Introduce two or three controlled variations, such as scale, orientation, position, interval, direction, cropping, overlap, or positive–negative reversal.
 6. Show how selected forms interact with or move beyond the grid, margins, or artboard edges.
-7. Apply a repetition arrangement and grid structure that are different from Compositions 1 and 2.
+7. Apply a repetition grid and grid structure that are different from Compositions 1 and 2.
 
 ---
 
@@ -349,7 +349,7 @@ Each planning page must show:
 - The assigned Interrelationship of Form
 - The assigned Wong principle or principles
 - The assigned Samara approach
-- One unique repetition arrangement
+- One unique repetition grid
 - One unique grid structure
 - At least eight repeated instances
 - Controlled alterations
@@ -533,7 +533,7 @@ For each file:
 
 1. Repeat the super-unit at least eight times.
 2. Maintain the assigned Interrelationship of Form throughout the repeated system.
-3. Use the selected repetition arrangement to organize the complete composition.
+3. Use the selected repetition grid to organize the complete composition.
 4. Use the assigned Wong principles:
    - **Composition 1:** Anomaly and Concentration
    - **Composition 2:** Texture and Contrast
