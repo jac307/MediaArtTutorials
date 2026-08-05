@@ -72,6 +72,22 @@ The assigned relationship inside the original super-unit must remain identifiabl
 ### Other Principles
 
 <div class="gestalt-principles-grid">
+  
+  <!-- Radiation -->
+  <figure class="gestalt-principle-card">
+     <img
+      src="imgs/principle-radiation.png"
+      alt="Example showing repeated forms arranged around a common centre and extending outward"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Radiation</h3>
+      <p>
+        Radiation organizes repeated forms around a common centre. Changes in direction, scale, spacing, or rotation can create movement, emphasis, and a strong focal point.
+      </p>
+    </figcaption>
+  </figure>
 
   <!-- Anomaly -->
   <figure class="gestalt-principle-card">
