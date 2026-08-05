@@ -18,7 +18,7 @@ Each composition must combine:
 
 - **Outputs:** Three planning sketches and three digital compositions
 - **Interrelationships:** Union, Subtraction, and Intersection
-- **Wong principles:** Anomaly, Concentration, Texture, Contrast, and Space
+- **Wong principles:** Radiation, Anomaly, Concentration, Texture, Contrast, and Space
 - **Samara focuses:** Surface Activity, Breaking Space, and Arranging Form
 - **Original media:** One physical texture created with a proper scanner
 - **Shapes:** Geometric, organic, and accidental shapes
@@ -55,7 +55,7 @@ Each composition begins with a super-unit that clearly demonstrates one assigned
 
 ### Super-unit versus composition
 
-![Examples of super-units](imgs/10.png)
+![Examples of super-units](imgs/03.png)
 
 A **super-unit** is a small structure created by combining two or more shapes through an Interrelationship of Form.
 

@@ -11,13 +11,13 @@ Each composition must combine:
 - **One assigned Interrelationship of Form**
 - **One assigned principle from Wucius Wong**
 - **One spatial focus adapted from Timothy Samara’s “Form and Space”**
-- **One grid structure**
+- **One repetition arrangement and one grid structure**
 - **One super-unit repeated and altered across the complete composition**
 
 ## Activity overview
 
 - **Outputs:** Three planning sketches and three digital compositions
-- **Interrelationships:** Detachment, Touching, Overlapped, and Interpenetration
+- **Interrelationships:** Touching, Overlapped, and Interpenetration
 - **Wong principles:** Repetition, Structure, Similarity, and Gradation
 - **Samara focuses:** Dot, Line, and Plane & Mass
 - **Grid structures:** Inactive, Active, Visible, and Repetition-based
