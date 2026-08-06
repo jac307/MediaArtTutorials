@@ -510,7 +510,7 @@ Open each submitted PDF twice:
 
 | Item | Required filename |
 |---|---|
-| Sketches PDF | `Lastname-Firstname-CompTech1-Part2-Sketches.pdf` |
+| Sketches PDF | `Lastname-Firstname-CompTech1-Part1-Sketches.pdf` |
 | Composition 1 PDF | `Lastname-Firstname-CompTech1-Part1-1.pdf` |
 | Composition 2 PDF | `Lastname-Firstname-CompTech1-Part1-2.pdf` |
 | Composition 3 PDF | `Lastname-Firstname-CompTech1-Part1-3.pdf` |
