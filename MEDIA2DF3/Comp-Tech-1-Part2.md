@@ -325,9 +325,57 @@ Use **Radiation** to organize the lines around a common centre or multiple relat
 
 Use the repeated lines to explore one type of **Space**:
 
-- **Flat Space**
-- **Illusory Space**
-- **Fluctuating and Conflicting Space**
+<div class="gestalt-principles-grid">
+
+  <!-- Flat Space -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-flat-space.png"
+      alt="Example showing repeated lines arranged without a clear illusion of depth"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Flat Space</h3>
+      <p>
+        Flat space keeps forms on the same visual plane. Repeated lines may vary in direction, length, weight, or spacing, but they do not create a clear impression of foreground, background, or depth.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Illusory Space -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-illusory-space.png"
+      alt="Example showing repeated lines creating the illusion of depth and distance"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Illusory Space</h3>
+      <p>
+        Illusory space creates the impression of depth within a flat format. Changes in scale, spacing, direction, overlap, density, or perspective can make lines appear to advance, recede, or extend into space.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Fluctuating and Conflicting Space -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-fluctuating-conflicting-space.png"
+      alt="Example showing repeated lines producing unstable and contradictory spatial relationships"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Fluctuating and Conflicting Space</h3>
+      <p>
+        Fluctuating and conflicting space creates an unstable spatial reading. Lines may appear to shift between foreground and background, while contradictory directions, overlaps, scales, or perspectives prevent one fixed interpretation.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
 
 Apply Samara’s concept of **Breaking Space** by allowing lines to:
 
@@ -358,12 +406,11 @@ Each planning page must show:
 
 - The original super-unit (only for Composition 1 & 2)
 - The assigned Interrelationship of Form (only for composition 1 & 2)
-- The assigned Wong principle or principles
+- The assigned Wong principles
 - The assigned Samara approach
 - One unique repetition grid
 - At least eight repeated instances (only for Composition 1 & 2)
 - Controlled alterations
-- The complete square format
 - Notes or arrows explaining the planned changes
 
 Combine the three planning pages into one PDF:
@@ -404,11 +451,7 @@ Create and name these layers:
 
 1. **Guides** — grid, margins, and construction lines
 2. **Composition** — super-units and final vector forms
-3. **Background** — black or white background field
-
-Composition 2 must also include:
-
-4. **Texture** — the embedded and processed original scan
+3. **Background** — black or white background field and/or **texture**
 
 Use these working filenames:
 
@@ -488,28 +531,20 @@ Save the original file immediately after scanning:
 
 Use `.png` only when the scanner does not provide TIFF.
 
-<!-- Add scanner reference image here when available. -->
-<img
-  src="imgs/scanned-texture-reference.png"
-  alt="Reference example of an original texture created with a proper scanner"
-  loading="lazy"
->
-
 ## Process a copy of the scanned texture
 
 Do not edit the original source scan.
 
-Open a duplicate in Adobe Photoshop. You may:
+Open a duplicate in Adobe Photoshop and convert it to grayscale or black and white You may also:
 
-- Crop or rotate the working copy
-- Convert it to grayscale or black and white
+- Crop or rotate
 - Adjust Levels or Curves
 - Increase or reduce contrast
 - Use Threshold
 - Clean minor scanner dust
 - Repeat or combine sections from your own scan
 
-The processed texture must remain recognizably derived from the submitted original scan.
+> Save your image as a TIFF preserving the Photoshop layers. This is useful is you want to keep editing your file. 
 
 <iframe src="https://www.iorad.com/player/2499003/Working-on-Image-Textures-in-Adobe-Photoshop?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
@@ -517,10 +552,12 @@ The processed texture must remain recognizably derived from the submitted origin
 
 Import the processed texture into Composition 2.
 
-- Place it inside the **Texture** layer.
+- Place it inside the **Background** layer.
 - Apply it within the super-units or their negative spaces.
 - Use it to create Surface Activity, Texture, and Contrast.
-- Embed the image before saving and exporting the file.
+- Embed the image before saving and exporting the PDF file.
+
+> **Embed image before exporting.** Points will be deducted when linked images are missing or not embedded.
 
 <iframe src="https://www.iorad.com/player/2499031/Importing-and-Masking-an-Image-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
@@ -528,25 +565,23 @@ Import the processed texture into Composition 2.
 
 For each file:
 
-1. Repeat the super-unit at least eight times.
-2. Maintain the assigned Interrelationship of Form throughout the repeated system.
+1. Repeat the super-unit at least eight times (Composition 1 & 2).
+2. Maintain the assigned Interrelationship of Form throughout the repeated system (Composition 1 & 2).
 3. Use the selected repetition grid to organize the complete composition.
 4. Use the assigned Wong principles:
    - **Composition 1:** Anomaly and Concentration
    - **Composition 2:** Texture and Contrast
-   - **Composition 3:** Space
+   - **Composition 3:** Radiation and Space
 5. Apply the assigned Samara approach:
    - **Composition 1:** Arranging Form
    - **Composition 2:** Surface Activity
    - **Composition 3:** Breaking Space
-6. Introduce the controlled alterations planned in the sketches.
-7. Maintain the defining structure of the original super-unit as the instances change.
-8. Consider the relationship between the composition and the square format, including its grid, margins, edges, cropping, placement, and negative space.
-9. Refine visual balance with your eyes rather than relying only on mathematical alignment.
+6. Consider the relationship between the composition and the square format, including its grid, margins, edges, cropping, placement, and negative space.
+7. Refine visual balance with your eyes rather than relying only on mathematical alignment.
 
 > The repeated instances must operate as a complete composition. A single super-unit, a row of identical copies, or copies placed without a clear visual system will not meet the activity requirements.
 
-![Example of a developed composition built from repeated units](imgs/15.png)
+![Example of a developed composition built from repeated units](imgs/06.png)
 
 </div>
 </details>
@@ -583,13 +618,7 @@ For each composition, confirm that the file contains:
 
 3. **Background**
    - Contains only the black or white background field
-
-Composition 2 must also contain:
-
-4. **Texture**
-   - Contains the processed original scan
-   - Contains no downloaded or unrelated images
-   - Keeps the texture separate from the vector composition
+   - Contains the processed scan
    - Contains an embedded image rather than a missing linked file
 
 Do not leave artwork on the wrong layer or create unnecessary unnamed layers.
@@ -619,16 +648,6 @@ Confirm that each file uses:
 - **Raster effects:** High, 300 PPI
 - **Colour restriction:** Black and white only
 
-Also confirm that:
-
-- All vector forms remain editable.
-- The texture in Composition 2 is embedded.
-- Compositions 1 and 3 contain no unintended raster images or linked files.
-- There are no stray points, hidden copies, or unnecessary objects outside the artboard.
-- The composition interacts intentionally with the edges, margins, and negative space.
-- Each super-unit is repeated at least eight times.
-- The assigned Wong principles and Samara approach remain visible across the complete composition.
-
 ### Check the original scan
 
 Confirm that:
@@ -636,7 +655,6 @@ Confirm that:
 - The original scan is unedited and uncropped.
 - The filename follows the required structure.
 - The scan was created with a proper scanner.
-- The processed texture remains recognizably connected to the original scan.
 - The original scan is included as a separate submission file.
 
 ### Save the editable PDF
@@ -657,8 +675,8 @@ Open each submitted PDF twice:
 2. Open it in Adobe Illustrator and confirm that:
    - The required layers remain separate and correctly named.
    - Each layer contains the correct material.
-   - The grids have been converted into guides unless intentionally visible.
-   - The grid and margin guides remain available.
+   - The grid has been converted into guides.
+   - The grid and margin guides remain visible.
    - The vector objects remain editable.
    - The Composition 2 texture is embedded.
    - The artboard and bleed settings remain correct.

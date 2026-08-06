@@ -477,14 +477,6 @@ Confirm that each file uses:
 - **Raster effects:** High, 300 PPI
 - **Colour restriction:** Black and white only
 
-Also confirm that:
-
-- All composition elements are editable vector objects.
-- No unintended raster images or linked files are included.
-- There are no stray points, hidden copies, or unnecessary objects outside the artboard.
-- The composition interacts intentionally with the edges, margins, and negative space.
-- The super-unit is repeated at least eight times and altered through at least three controlled variables.
-
 ### Save the editable PDF
 
 Use **File → Save As → Adobe PDF**.
