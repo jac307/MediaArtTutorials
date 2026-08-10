@@ -52,6 +52,7 @@ Each composition begins with a super-unit that clearly demonstrates one assigned
 - **Union:** Two or more forms merge and become one larger form. The internal boundaries between the original forms disappear.
 - **Subtraction:** One form removes a visible area from another, creating a new contour and an active negative space.
 - **Intersection:** Only the area shared by the overlapping forms remains visible.
+- **Coinciding:** Two forms occupy exactly the same position and overlap completely, appearing as a single form.
 
 ### Super-unit versus composition
 
@@ -252,7 +253,7 @@ Create **one planning page for each composition**.
 
 Choose **one different repetition grid for each composition**. Do not repeat the same grid.
 
-![Examples of repetition arrangements](imgs/04.png)
+![Examples of repetition arrangements](imgs/11.png)
 
 Select the grid that best supports:
 
@@ -285,23 +286,25 @@ On the planning page:
 
 ## Composition 2
 
-| Interrelationship of Form | Wong principles | Samara approach |
-|---|---|---|
-| **Subtraction** | **Texture + Contrast** | **Surface Activity** |
+| Interrelationship of Form | Wong principles        | Samara approach      |
+| ------------------------- | ---------------------- | -------------------- |
+| **Subtraction**           | **Texture + Contrast** | **Surface Activity** |
 
-Create a super-unit by using one form to subtract an area from another using **accidental shapes**. The subtraction must create a clearly visible contour and negative space.
+Using **accidental shapes**, create a super-unit by using one form to subtract an area from another. The subtraction must create a clearly visible contour and negative space.
 
-Use at least **one original physical texture** created with a proper scanner. Apply the scanned material to produce surface activity and create a clear contrast between textured and untextured areas, dense and sparse marks, smooth and rough surfaces, or black and white values.
+Use at least **one original physical texture** created with a proper scanner to address Wong’s principle of **Texture**. The scanned material should contribute visible surface qualities such as grain, irregularity, roughness, density, or pattern.
+
+Then use **graphic elements**, such as shapes, points, lines, marks, or repeated forms, to address Samara’s concept of **Surface Activity**. These graphic elements should activate the surface of the composition through variation, repetition, density, direction, or visual rhythm.
+
+Use **Contrast** to create a clear distinction between textured and untextured areas, dense and sparse marks, smooth and rough surfaces, or black and white values.
 
 On the planning page:
 
 1. Draw the super-unit applying the **Subtraction** relationship of form.
-2. Label how the super-unit applies Samara’s concept of **Surface Activity**.
-3. Identify the physical material you will scan.
-4. Show where the scanned texture will appear within the super-unit.
-5. Sketch at least eight repeated instances organized through the selected **repetition grid** different from Composition 1.
-6. Identify how **Texture** and **Contrast** will remain visible across the complete composition.
-7. Introduce one or two controlled variations, such as scale, contour, placement, subtraction, texture density, cropping, or positive–negative reversal.
+2. Label where Wong’s concept of **Texture** will appear through the scanned material.
+3. Label how Samara’s concept of **Surface Activity** will be developed through graphic elements such as shapes, points, lines, or marks.
+4. Sketch at least eight repeated instances organized through the selected **repetition grid** different from Composition 1.
+5. Introduce one intentional **Contrast** created through shape, size, texture, direction, or positive–negative reversal.
 
 ---
 
@@ -311,15 +314,7 @@ On the planning page:
 |---|---|---|
 | **Radiation + Space** | **Breaking Space** | **Repeated lines** |
 
-Create a composition using **repeated lines only**. This composition does not use an Interrelationship of Form or a super-unit.
-
-The lines may be:
-
-- Straight, curved, angled, or broken
-- Continuous or interrupted
-- Thin, thick, or gradually changing in weight
-- Closely grouped or widely separated
-- Directed inward, outward, or around one or more centres
+Create a composition using **repeated lines only** varying their thinkness, curvature, direction, etc. This composition does not use an Interrelationship of Form or a super-unit.
 
 Use **Radiation** to organize the lines around a common centre or multiple related centres. Changes in direction, spacing, length, thickness, and rotation should create movement and emphasis.
 
@@ -389,29 +384,15 @@ On the planning page:
 
 1. Identify the selected type of **Space**.
 2. Identify the centre or centres of **Radiation**.
-3. Sketch the complete composition using repeated lines.
-4. Show how the lines radiate inward, outward, or around the selected centre or centres.
-5. Introduce at least three controlled variations, such as direction, rotation, length, thickness, spacing, curvature, interruption, or cropping.
-6. Label how the lines apply **Breaking Space**.
-7. Show how selected lines interact with or move beyond the grid, margins, or artboard edges.
-8. Apply a repetition grid different from those used in Compositions 1 and 2.
+3. Show how the lines radiate inward, outward, or around the selected centre or centres.
+4. Introduce at least three controlled variations, such as direction, rotation, length, thickness, spacing, curvature, interruption, or cropping.
+5. Label how the lines apply **Breaking Space**.
 
 > The final work must be a developed composition of repeated and altered lines. A single line drawing, isolated group of lines, or regular pattern without controlled variation does not meet the requirements.
 
 ---
 
-## General sketch requirements
-
-Each planning page must show:
-
-- The original super-unit (only for Composition 1 & 2)
-- The assigned Interrelationship of Form (only for composition 1 & 2)
-- The assigned Wong principles
-- The assigned Samara approach
-- One unique repetition grid
-- At least eight repeated instances (only for Composition 1 & 2)
-- Controlled alterations
-- Notes or arrows explaining the planned changes
+## Export Sketches
 
 Combine the three planning pages into one PDF:
 
@@ -550,11 +531,10 @@ Open a duplicate in Adobe Photoshop and convert it to grayscale or black and whi
 
 ## Import and embed the texture
 
-Import the processed texture into Composition 2.
-
-- Place it inside the **Background** layer.
+- Import the processed texture into Composition 2.
+- If the texture appears only in the background, place it in the **Background layer**. Otherwise, place the texture in the **Composition layer**.
 - Apply it within the super-units or their negative spaces.
-- Use it to create Surface Activity, Texture, and Contrast.
+- Use it to create Texture and Contrast.
 - Embed the image before saving and exporting the PDF file.
 
 > **Embed image before exporting.** Points will be deducted when linked images are missing or not embedded.
@@ -565,19 +545,20 @@ Import the processed texture into Composition 2.
 
 For each file:
 
-1. Repeat the super-unit at least eight times (Composition 1 & 2).
-2. Maintain the assigned Interrelationship of Form throughout the repeated system (Composition 1 & 2).
-3. Use the selected repetition grid to organize the complete composition.
-4. Use the assigned Wong principles:
+1. **Composition 1 & 2:**
+    - Repeat the super-unit at least eight times.
+    - Maintain the assigned Interrelationship of Form throughout the repeated system
+    - Use the selected repetition grid to organize the complete composition.
+2. Use the assigned Wong principles:
    - **Composition 1:** Anomaly and Concentration
    - **Composition 2:** Texture and Contrast
    - **Composition 3:** Radiation and Space
-5. Apply the assigned Samara approach:
+3. Apply the assigned Samara approach:
    - **Composition 1:** Arranging Form
    - **Composition 2:** Surface Activity
    - **Composition 3:** Breaking Space
-6. Consider the relationship between the composition and the square format, including its grid, margins, edges, cropping, placement, and negative space.
-7. Refine visual balance with your eyes rather than relying only on mathematical alignment.
+4. Consider the relationship between the composition and the square format, including its grid, margins, edges, cropping, placement, and negative space.
+5. Refine visual balance with your eyes rather than relying only on mathematical alignment.
 
 > The repeated instances must operate as a complete composition. A single super-unit, a row of identical copies, or copies placed without a clear visual system will not meet the activity requirements.
 
@@ -615,11 +596,12 @@ For each composition, confirm that the file contains:
    - Contains the original super-unit
    - Contains all repeated and altered instances
    - Contains the final black-and-white vector forms
+   - (if used here:) Contains an embedded image rather than a missing linked file
 
 3. **Background**
    - Contains only the black or white background field
    - Contains the processed scan
-   - Contains an embedded image rather than a missing linked file
+   - (if used here:) Contains an embedded image rather than a missing linked file
 
 > Do not leave artwork on the wrong layer or create unnecessary unnamed layers. **You may create sub-collections (or groups inside layers)** for better organization.
 
@@ -645,6 +627,9 @@ Confirm that:
 - The filename follows the required structure.
 - The scan was created with a proper scanner.
 - The original scan is included as a separate submission file.
+- Name and extension: `Lastname-Firstname-CompTech1-Part2-Texture.tif`
+
+Use `.png` for the original scan only when TIFF is unavailable from the scanner.
 
 ### Save the editable PDF
 

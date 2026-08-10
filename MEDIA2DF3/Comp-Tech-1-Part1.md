@@ -291,19 +291,7 @@ On the planning page:
 
 ---
 
-## General sketch requirements
-
-Each planning page must show:
-
-- The original super-unit
-- The assigned Interrelationship of Form
-- The assigned Wong principle
-- The assigned Samara form category
-- One unique grid arragement
-- One unique grid structure
-- At least eight repeated instances
-- Controlled alterations
-- Notes or arrows explaining the planned changes
+## Export Sketches
 
 Combine the three planning pages into one PDF:
 
