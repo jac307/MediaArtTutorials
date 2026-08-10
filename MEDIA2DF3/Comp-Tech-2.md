@@ -240,7 +240,6 @@ A colour scheme is a structured relationship between colours on the colour wheel
 
 </div>
 
-
 ## Johannes Itten — Colour Relationships
 
 Johannes Itten explored how colours change visually according to their relationships with surrounding colours. For this activity, consider **contrast, perspective, and gradation** when applying colour to your compositions.
