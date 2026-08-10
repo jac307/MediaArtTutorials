@@ -1,153 +1,378 @@
-[MEDIA 2DF3](README.md)
+# Composition Techniques II – Colour Application
 
--------------------------------------------------------------------------------
+![Examples by previous students](imgs/15.jpg)
 
-<h1 style="color: darkred;">Composition Techniques II – Colour Application</h1>
+**Goal:** Design five colour palettes and apply three of them to previous compositions using intentional colour proportioning.
 
-<figure style="width: 100%; margin: auto;">
-  <img src="imgs/15.jpg" style="width: 100%; height: auto;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students.
-  </figcaption>
-</figure>
+Each palette must demonstrate:
 
-## Objective
-Create **five colour palettes** using the following colour schemes:
-- Monochromatic  
-- Complementary  
-- Analogous  
-- Triadic  
-- Tetradic (Square)
+- One assigned **colour scheme**
+- Six colour swatches
+- Complete colour information
+- A designed **colour proportion**
+- Clear visual organization and consistent presentation
 
-<img src="imgs/16.jpeg" style="width: 80%; height: auto;">
+Then select **three palettes** and apply one to each of three compositions from Composition Techniques I. The colour proportions developed in the palette must guide how much of each colour appears in the final composition.
 
-Then apply **three of these palettes** to compositions you created in **Composition Techniques I (Parts 1 & 2)**.  
-Each resulting composition should demonstrate a thoughtful use of colour, especially in relation to **contrast**, **perspective**, and **gradation**.
+## Activity overview
 
-**Software**:
-- **Adobe Illustrator** (vector-based visual composition)  
-- **Adobe Photoshop** (for optional colour texturing and enhancement)
+- **Colour schemes:** Monochromatic, Complementary, Analogous, Triadic, and Tetradic (Square)
+- **Palettes:** Five
+- **Colours per palette:** Six
+- **Samara concept:** Colour Proportioning
+- **Previous compositions:** Select three from Composition Techniques I – Parts 1 and 2
+- **Final colour compositions:** Three
+- **Software:** Adobe Illustrator and Adobe Photoshop
+- **Colour mode:** RGB
 
----
+## Activity stages
 
-## Activities  
-**Complete the following activities in order. Ask your professor for help if needed.**
+Complete the following stages in order.
 
----
+<!-- SECTION 1 -->
 
-<h3 style="color: darkred;">[30–40 min] Create Colour Palettes</h3>
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Create the five colour palettes</span>
+    <span class="section-description">
+      Develop five six-colour palettes and define an intentional colour proportion for each one.
+    </span>
+  </summary>
 
-### Using Adobe Color
-- Go to <a href="https://color.adobe.com/" target="_blank" rel="noopener noreferrer">Adobe Color</a>
-- Create **five colour palettes**, each containing **six swatches**, based on:
-  - Monochromatic
-  - Complementary
-  - Analogous
-  - Triadic
-  - Tetradic (Square)
-- Experiment with **hue, saturation, and brightness**
-- Save the **hex codes** for each swatch in a safe place.
+<div class="section-content" markdown="1">
+
+## Create the colour schemes
+
+Use [Adobe Color](https://color.adobe.com/){:target="_blank"} to create **five palettes**, each containing **six colours**.
+
+Create one palette for each colour scheme:
+
+1. **Monochromatic**
+2. **Complementary**
+3. **Analogous**
+4. **Triadic**
+5. **Tetradic (Square)**
+
+Experiment with:
+
+- Hue
+- Saturation
+- Brightness
+- Value
+- Relationships between dominant and secondary colours
+
+Save the **Hex codes** for all six colours.
 
 <iframe src="https://www.iorad.com/player/2502344/Adobe--Colour-Palette-Generator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
----
+## Define the colour proportioning
 
-### Document Setup (Required)  
+For **each palette**, decide how much visual space each of the six colours should occupy.
 
-> ⚠️ **You must follow the tutorial and file setup instructions exactly to avoid losing points.**  
-> Skipping or incorrectly completing this step will affect your grade.
+The six colours do not need to appear in equal amounts.
 
-Before you begin, **watch the provided tutorial** on Illustrator document setup. Follow it step-by-step to create **one file for all compositions**.
+Consider:
+
+- Which colour will be **dominant**
+- Which colours will occupy **secondary areas**
+- Which colours will function as **accents**
+- The visual intensity of each colour
+- How large and small areas of colour interact
+
+Define a percentage for every colour. Together, the six proportions must equal **100%**.
+
+For example:
+
+| Colour | Intended proportion |
+|---|---:|
+| Colour 1 | 40% |
+| Colour 2 | 25% |
+| Colour 3 | 15% |
+| Colour 4 | 10% |
+| Colour 5 | 7% |
+| Colour 6 | 3% |
+| **Total** | **100%** |
+
+> The percentages above are only an example. Design a different proportion according to the visual relationships within each palette.
+
+The proportion must also be **visible in the design of the palette sheet**. Do not present all six colours as identical-sized swatches if they have different intended proportions.
+
+> **Samara — Colour Proportioning:** Consider colour not only by hue, but by the relative amount of space each colour occupies. Changing the proportion of colours changes hierarchy, emphasis, balance, and the overall visual effect of the palette.
+
+</div>
+</details>
+
+<!-- SECTION 2 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Design the five colour palette sheets</span>
+    <span class="section-description">
+      Build five consistent and professionally organized palette sheets that communicate colour values and proportions clearly.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Create **one Illustrator file containing five artboards**, one for each palette.
+
+## Document setup
+
+Use:
+
+- **Units:** Pixels
+- **Size:** 1000 × 1000 px
+- **Aspect ratio:** 1:1
+- **Colour mode:** RGB
+- **Bleed:** 10 px on all sides
+- **Raster effects:** High, 300 PPI
+- **Artboards:** 5
+- **Spacing:** 30 px
+- **Filename:** `Lastname-Firstname-CompTech2-ColourPalettes.ai`
+
+> **Required tutorial:** Follow the document setup tutorial step by step. It contains the required document settings, artboards, margins, bleed, and file organization.
 
 <iframe src="https://www.iorad.com/player/2588725/Adobe-Illustrator-8--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-**Your Illustrator document must include the following settings:**
-- **Units:** Pixels  
-- **Size:** 1000 × 1000 px (1:1 aspect ratio)  
-- **Color Mode:** RGB
-- **Bleed:** 10 px (on all sides) 
-- **Raster Effects:** High (300 PPI)
-- **Artboards**: 5 (one for each palette)
-- **Spacing:** 30 px 
-- **Naming Protocol:** `Lastname-Firstname-ColourPalettes.ai`
+## Design each palette sheet
 
-These settings ensure your file is compatible with export and review processes. Files that do not follow the setup guidelines may be marked down.
+![Example of colour palette organization](imgs/18.png)
 
----
+Each artboard must include:
 
-### Create and Organize Your Palettes
+- The **name of the colour scheme**
+- Six colour swatches
+- The intended **percentage/proportion** of each colour
+- A visual representation of the colour proportioning
+- **RGB** values
+- **CMYK** values
+- **Hex code**
+- **HSV** values
 
-<img src="imgs/18.png" style="width: 80%; height: auto;">
+The palette sheet is itself a **design composition**. Do not simply place six colour boxes and labels on the artboard.
 
-Use the hex codes from Adobe Color to manually recreate and organize your palettes in Illustrator:
+Consider:
 
-- Create **one palette per artboard** following the above example.
-- Clearly **label each colour scheme** (e.g., Monochromatic, Analogous, etc.)
-- For each swatch, include the following information:
-  - **RGB values**
-  - **CMYK values**
-  - **Hex code**
-  - **HSV (Hue, Saturation, Value)**
-- Ensure your file is **visually organized** and professionally presented. Be intentional with **font choice**, **typographic hierarchy**, and the **placement** of labels and titles—this will contribute to the overall **visual identity** of your palette sheet.
+- **Placement:** Position information intentionally within the artboard.
+- **Alignment:** Establish clear alignments between swatches, values, titles, and labels.
+- **Spacing:** Maintain consistent distances between related elements.
+- **Hierarchy:** Make the palette name, colours, proportions, and technical information easy to distinguish.
+- **Typography:** Use a readable font and appropriate font sizes.
+- **Legibility:** Ensure text remains readable against its background.
+- **Consistency:** Use the same visual system across all five palette sheets.
+- **Proportion:** Make the relative amount of each colour visually understandable.
 
-To check the information about a color in Adobe Illustrator, select the shape with the color, then double-click on the **Fill** tool.  
-You can view the **CMYK**, **RGB**, **Hex**, and **HSV** values here.
+You may vary the proportions of the colour areas while keeping the overall layout system consistent across all five artboards.
 
-Alternatively, you can also choose the **Eyedropper Tool** from the Fill settings to sample colors directly from your artwork.
+> All five artboards should look like parts of the same designed set. Changes between pages should come primarily from the colour palettes and their proportions, not from unrelated layouts or typography.
 
-<img src="imgs/18-2.png" style="width: 80%; height: auto;">
+## Check the colour information
 
-##### ❗ Why Colour Modes & Formats Matter
+To check a colour in Adobe Illustrator:
 
-In professional design workflows, it is essential to understand and correctly apply colour models and values depending on the intended output.
+1. Select the coloured shape.
+2. Double-click the **Fill** tool.
+3. Record the required RGB, CMYK, Hex, and HSV information.
 
-- **RGB (Red, Green, Blue)** is used for **screen-based** media such as websites, digital ads, and video. It allows for bright, vibrant colours by combining light.  
-- **CMYK (Cyan, Magenta, Yellow, Black)** is used for **print production**—this subtractive model ensures colours are accurately translated to physical formats like posters, packaging, and books.  
-- **Hex codes** are a standard in **web design and development**, offering a six-digit alphanumeric representation of RGB colours that ensures consistency across browsers and devices.  
-- **HSV (Hue, Saturation, Value)** is a model used to adjust colours intuitively in design tools—especially useful for refining tonal balance, contrast, and mood in an artwork.
+![Finding colour values in Illustrator](imgs/18-2.png)
 
-> Setting up your colour palettes with these values ensures your work is **adaptable, consistent, and ready for real-world applications**—from digital publishing to professional printing and web deployment.
+</div>
+</details>
 
----
+<!-- SECTION 3 -->
 
-<h3 style="color: darkred;">[60–80 min] Add Colour to Previous Compositions</h3>
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Select three palettes and compositions</span>
+    <span class="section-description">
+      Select three colour systems and three previous compositions, then plan how each palette proportion will operate in the selected design.
+    </span>
+  </summary>
 
-### Select Compositions
-- Choose **three compositions** from **Composition Techniques I – Part 1 & 2**
-- Duplicate your Illustrator files for editing (do not overwrite originals)
-- Don’t forget to **embed all linked images** on Adobe Illustrator.
+<div class="section-content" markdown="1">
 
-### Apply Your Colour Palettes  
-Apply your custom palettes to your duplicated compositions = Three Compositions, each using a different colour palette.  
-When applying your color palettes, you can also work with Colour Contrast, Perspective and/or Gradation.  
-- **Naming Protocol:** `Lastname-Firstname-CompTech2-#.pdf`
+Select **three of the five palettes**.
 
-<img src="imgs/17.png" style="width: 80%; height: auto;">
+Then select **three different compositions** created for Composition Techniques I – Parts 1 and 2.
 
-#### Use Gradients
+Assign one selected palette to each composition.
+
+| Final composition | Selected previous composition | Selected palette | Required colour approach |
+|---|---|---|---|
+| **1** | Your choice | Palette 1 | Apply the palette's designed colour proportion |
+| **2** | Your choice | Palette 2 | Apply the palette's designed colour proportion |
+| **3** | Your choice | Palette 3 | Apply the palette's designed colour proportion |
+
+Use **three different palettes**.
+
+Duplicate the original Illustrator files before editing. **Do not overwrite your original Composition Techniques I files.**
+
+## Plan the colour application
+
+Before recolouring each composition, identify:
+
+1. The dominant colour.
+2. The secondary colours.
+3. The accent colours.
+4. The approximate percentage assigned to each colour.
+5. Which parts of the existing composition will receive each colour.
+
+The proportioning defined in the palette sheet must guide the final composition.
+
+For example, if one colour represents approximately **40%** of your palette and another represents **5%**, those colours should not appear in approximately equal amounts in the final composition.
+
+> You are applying a colour **system**, not simply choosing six colours from the palette.
+
+</div>
+</details>
+
+<!-- SECTION 4 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Apply colour proportioning to the three compositions</span>
+    <span class="section-description">
+      Rework three previous compositions using the selected palettes and their established colour proportions.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Apply one selected palette to each composition.
+
+For each composition:
+
+1. Use all six colours from the selected palette.
+2. Apply the **colour proportioning established on the palette sheet**.
+3. Preserve the main formal structure of the original Composition Techniques I work.
+4. Use colour to strengthen hierarchy, contrast, depth, grouping, movement, or emphasis.
+5. Maintain a consistent relationship between dominant, secondary, and accent colours.
+6. Refine the distribution by eye while remaining recognizably connected to the planned proportions.
+
+The percentages do not need to be measured pixel by pixel. They should function as a clear visual guide for the relative amount of each colour.
+
+![Examples of colour applied to previous compositions](imgs/17.png)
+
+## Gradients
+
+Gradients may be used when they support the selected palette and colour proportions.
 
 <iframe src="https://www.iorad.com/player/2502356/Adobe-Illustrator--Colour-Gradients?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-#### Add Coloured Textures in Photoshop
+## Coloured textures
+
+When the selected Composition Techniques I work includes texture, you may colour the existing texture in Adobe Photoshop.
 
 <iframe src="https://www.iorad.com/player/2502360/Adobe-Photoshop--Colour-Filters?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 <iframe src="https://www.iorad.com/player/2499031/Adobe-Illustrator-6--Importing-and-Masking-Images?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
+> Embed all raster images before saving and exporting the Illustrator file.
+
+</div>
+</details>
+
+<!-- SECTION 5 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Review and export Composition Techniques II</span>
+    <span class="section-description">
+      Check the palette design, colour proportions, three compositions, and required files before submitting.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>Final review checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Five colour schemes are included.</strong>
+      Monochromatic, Complementary, Analogous, Triadic, and Tetradic palettes are present.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Each palette contains six colours.</strong>
+      Every colour includes the required RGB, CMYK, Hex, and HSV information.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Each palette defines colour proportioning.</strong>
+      The intended amount of each colour is identified and the complete palette equals 100%.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The proportions are visually represented.</strong>
+      Swatch sizes or an additional proportion diagram clearly communicate dominant, secondary, and accent colours.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The palette sheets are carefully designed.</strong>
+      Placement, alignment, spacing, hierarchy, typography, and legibility are intentional.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The five palette sheets are consistent.</strong>
+      They use the same underlying layout, typography, information structure, and visual system.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Three different palettes are applied.</strong>
+      Each final composition uses a different selected palette.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The planned colour proportions are applied.</strong>
+      The relative amount of each colour in the final compositions reflects the proportion developed in the corresponding palette sheet.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The files remain technically complete.</strong>
+      Required layers, guides, margins, editable vector elements, and embedded images remain available where applicable.
+    </span>
+  </label>
+
+</fieldset>
+
+</div>
+</details>
+
 ---
 
-<h3 style="color: darkred;">📥 Final Submission</h3>
+## Submission files
 
-Submit the following:
+| Item | Required filename |
+|---|---|
+| Five colour palettes | `Lastname-Firstname-CompTech2-ColourPalettes.pdf` |
+| Composition 1 | `Lastname-Firstname-CompTech2-1.pdf` |
+| Composition 2 | `Lastname-Firstname-CompTech2-2.pdf` |
+| Composition 3 | `Lastname-Firstname-CompTech2-3.pdf` |
 
-1. A **single PDF file** containing your **five colour palettes**  
-   - `Lastname-Firstname-CompTech2-ColourPalettes.pdf`
-
-2. **Three separate PDF files** for your **coloured compositions**  
-   - `Lastname-Firstname-CompTech2-1.pdf`  
-   - `Lastname-Firstname-CompTech2-2.pdf`  
-   - `Lastname-Firstname-CompTech2-3.pdf`
-
-> 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
-
----
+Incorrect filenames, incomplete colour information, poorly organized palette sheets, missing colour proportions, inconsistent palette presentation, or compositions that do not apply the planned colour proportions will affect the grade.
