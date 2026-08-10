@@ -1,22 +1,23 @@
-# Composition Techniques II – Colour Application
+# Composition Techniques II
 
 ![Examples by previous students](imgs/15.jpg)
 
-**Goal:** Design five colour palettes and apply three of them to previous compositions using intentional colour proportioning.
+**Goal:** Design **five colour palettes** and **apply three of them** to previous compositions using intentional colour proportioning.
 
 Each palette must demonstrate:
 
 - One assigned **colour scheme**
 - Six colour swatches
-- Complete colour information
+- Complete colour information (CMYK, RGB, HSB, and hexacolor)
 - A designed **colour proportion**
 - Clear visual organization and consistent presentation
 
 ## Activity overview
 
-- **Colour schemes:** Monochromatic, Complementary, Analogous, Triadic, and Tetradic (Square)
 - **Palettes:** Five
+- **Colour schemes:** Monochromatic, Complementary, Analogous, Triadic, and Tetradic (Square)
 - **Colours per palette:** Five
+- **Johannes concepts:** Contrast, Color Perspective, and Color Gradiation
 - **Samara concept:** Colour Proportioning
 - **Previous compositions:** Select three from Composition Techniques I – Parts 1 and 2
 - **Final colour compositions:** Three
