@@ -66,7 +66,6 @@ The final composition must develop that starting structure into a larger visual 
 2. Repeat the super-unit at least eight times.
 3. Alter the repeated instances in a controlled way.
 4. Organize the instances through the assigned grid and principle.
-5. Use the complete square format, including its edges and negative spaces.
 
 The relationship inside the original super-unit must remain identifiable after the instances are altered.
 
@@ -221,7 +220,7 @@ Create **one planning page for each composition**.
 
 Choose **one different repetition grid and grid structure for each composition**. Do not repeat the selections.
 
-### Repetition Arragements
+### Repetition Grid
 
 ![Examples of grid structures](imgs/04.png)
 
@@ -431,7 +430,7 @@ For each file:
 
 ## Before submitting
 
-Your PDF files will be opened in Adobe Illustrator to review the document setup, layers, guides, margins, and construction of the compositions.
+> Your PDF files will be opened in Adobe Illustrator to review the document setup, layers, guides, margins, and construction of the compositions.
 
 ### Check the Illustrator document structure
 
@@ -450,7 +449,7 @@ For each composition, confirm that the file contains the required layers:
 3. **Background**
    - Contains only the black or white background field
 
-Do not leave artwork on the wrong layer or create unnecessary unnamed layers.
+> Do not leave artwork on the wrong layer or create unnecessary unnamed layers. **You may create sub-collections (or groups inside layers)** for better organization. 
 
 ### Check the guides and margins
 
@@ -464,18 +463,7 @@ Before saving the PDF:
 - Confirm that the grid and margins align correctly with the artboard.
 - Do not expand, delete, rasterize, or merge the guides with the composition.
 
-Guides should be visible when the PDF is opened in Illustrator, but they will not appear as part of the printed or exported artwork.
-
-### Check the document settings
-
-Confirm that each file uses:
-
-- **Artboard:** 1000 × 1000 px
-- **Aspect ratio:** 1:1
-- **Bleed:** 10 px on all sides
-- **Colour mode:** RGB
-- **Raster effects:** High, 300 PPI
-- **Colour restriction:** Black and white only
+> Guides should be visible when the PDF is opened in Illustrator, but they will not appear as part of the printed or exported artwork.
 
 ### Save the editable PDF
 
@@ -485,21 +473,80 @@ In the Adobe PDF settings, select:
 
 - **Preserve Illustrator Editing Capabilities**
 
-This setting is required so that the layers, guides, editable vector objects, artboard, and document structure remain available when the PDF is reopened in Illustrator.
+> This setting is required so that the layers, guides, editable vector objects, artboard, and document structure remain available when the PDF is reopened in Illustrator.
 
 ### Final file check
 
 Open each submitted PDF twice:
 
-1. Open it in a PDF viewer and confirm that the final composition displays correctly.
-2. Open it in Adobe Illustrator and confirm that:
-   - The required layers remain separate and correctly named.
-   - Each layer contains the correct material.
-   - The grid has been converted into guides.
-   - The grid and margin guides remain visible.
-   - The vector objects remain editable.
-   - The artboard and bleed settings remain correct.
-   - The filename follows the required structure exactly.
+<fieldset class="equipment-checklist">
+  <legend>Final PDF checklist</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the PDF in a PDF viewer.</strong>
+      Confirm that the final composition displays correctly and that no guides or construction elements appear in the exported artwork.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the PDF in Adobe Illustrator.</strong>
+      Confirm that the file opens correctly and remains editable.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the layers.</strong>
+      Confirm that the required layers remain separate, correctly named, and contain the correct material.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the grid.</strong>
+      Confirm that the grid has been converted into guides unless it is intentionally part of the visible composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the guides and margins.</strong>
+      Confirm that the grid guides and original margin guides remain available and visible in Illustrator.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check editability.</strong>
+      Confirm that all required vector objects remain editable and have not been flattened or rasterized.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the document settings.</strong>
+      Confirm that the artboard size and bleed remain correct.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the filename.</strong>
+      Confirm that the filename follows the required naming structure exactly.
+    </span>
+  </label>
+
+</fieldset>
 
 </div>
 </details>
