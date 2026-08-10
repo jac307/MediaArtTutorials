@@ -12,13 +12,11 @@ Each palette must demonstrate:
 - A designed **colour proportion**
 - Clear visual organization and consistent presentation
 
-Then select **three palettes** and apply one to each of three compositions from Composition Techniques I. The colour proportions developed in the palette must guide how much of each colour appears in the final composition.
-
 ## Activity overview
 
 - **Colour schemes:** Monochromatic, Complementary, Analogous, Triadic, and Tetradic (Square)
 - **Palettes:** Five
-- **Colours per palette:** Six
+- **Colours per palette:** Five
 - **Samara concept:** Colour Proportioning
 - **Previous compositions:** Select three from Composition Techniques I – Parts 1 and 2
 - **Final colour compositions:** Three
@@ -29,11 +27,303 @@ Then select **three palettes** and apply one to each of three compositions from 
 
 Complete the following stages in order.
 
-<!-- SECTION 1 -->
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Create the five colour palettes</span>
+    <span class="section-title">1. Review the concepts</span>
+    <span class="section-description">
+      Review colour modes, colour schemes, Itten’s colour relationships, and Samara’s colour proportioning before creating the palettes.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Colour Modes and Values
+
+Different colour models describe colour in different ways. Some are connected to a specific output, such as screens or print, while others are useful for selecting, adjusting, and communicating colour.
+
+<div class="gestalt-principles-grid">
+
+  <!-- RGB -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-rgb.png"
+      alt="Example showing red, green, and blue light combining to create colours"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>RGB</h3>
+      <p>
+        <strong>Red, Green, Blue.</strong> An additive colour model used primarily for screens and digital media. Different amounts of red, green, and blue light combine to produce colours.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- CMYK -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-cmyk.png"
+      alt="Example showing cyan, magenta, yellow, and black used in print colour"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>CMYK</h3>
+      <p>
+        <strong>Cyan, Magenta, Yellow, Black.</strong> A subtractive colour model used primarily for printing. Colours are created through combinations of printing inks on a physical surface.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- HSV / HSB -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-hsv-hsb.png"
+      alt="Example showing hue, saturation, and value or brightness as components of colour"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>HSV / HSB</h3>
+      <p>
+        <strong>Hue, Saturation, Value/Brightness.</strong> HSV and HSB describe colour through its hue, intensity, and brightness. They are useful for making intuitive adjustments to colours in digital design software.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- HSL -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-hsl.png"
+      alt="Example showing hue, saturation, and lightness as components of colour"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>HSL</h3>
+      <p>
+        <strong>Hue, Saturation, Lightness.</strong> HSL organizes colour according to its hue, intensity, and relative lightness. It is especially useful for creating controlled lighter and darker variations of a colour.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Hexadecimal -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-hex.png"
+      alt="Example showing a hexadecimal colour code associated with a digital colour"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Hexadecimal</h3>
+      <p>
+        A hexadecimal colour code represents an RGB colour using six characters, such as <strong>#D94F70</strong>. Hex codes are commonly used to reproduce colours consistently in websites and other digital interfaces.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+> **Remember:** HSB and HSV describe the same basic model; some software uses the term **Brightness**, while other systems use **Value**.
+
+
+## Colour Schemes
+
+A colour scheme is a structured relationship between colours on the colour wheel. For this activity, create one palette using each of the five schemes below.
+
+![Examples of the five required colour schemes](imgs/16.jpeg)
+
+<div class="gestalt-principles-grid">
+
+  <!-- Monochromatic -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-monochromatic.png"
+      alt="Example of a monochromatic colour scheme based on variations of one hue"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Monochromatic</h3>
+      <p>
+        Uses variations of a single hue. Differences in saturation, brightness, or lightness create contrast while maintaining a unified colour identity.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Complementary -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-complementary.png"
+      alt="Example of complementary colours positioned opposite each other on a colour wheel"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Complementary</h3>
+      <p>
+        Uses colours positioned opposite each other on the colour wheel. Their strong difference creates visual contrast and emphasis.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Analogous -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-analogous.png"
+      alt="Example of analogous colours positioned next to each other on a colour wheel"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Analogous</h3>
+      <p>
+        Uses colours located next to each other on the colour wheel. Their shared characteristics create continuity and gradual visual transitions.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Triadic -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-triadic.png"
+      alt="Example of three colours evenly distributed around a colour wheel"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Triadic</h3>
+      <p>
+        Uses three colours distributed evenly around the colour wheel. The relationship can create variety while maintaining visual balance.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Tetradic -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-tetradic.png"
+      alt="Example of four colours forming a square relationship on a colour wheel"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Tetradic / Square</h3>
+      <p>
+        Uses four colours spaced evenly around the colour wheel. Because the palette contains several strong colour relationships, careful proportioning is important.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+
+## Johannes Itten — Colour Relationships
+
+Johannes Itten explored how colours change visually according to their relationships with surrounding colours. For this activity, consider **contrast, perspective, and gradation** when applying colour to your compositions.
+
+<div class="gestalt-principles-grid">
+
+  <!-- Colour Contrast -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/itten-colour-contrast.png"
+      alt="Example showing contrasting colours producing different levels of visual emphasis"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Colour Contrast</h3>
+      <p>
+        Colour contrast occurs when differences between colours make their relationship more visible. Contrast may be created through hue, light and dark, warm and cool colours, complementary relationships, saturation, or differences in the amount of colour.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Colour Perspective -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/itten-colour-perspective.png"
+      alt="Example showing colours appearing to advance or recede within a flat composition"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Colour Perspective</h3>
+      <p>
+        Colour can create the impression of spatial depth. Warm, bright, or highly saturated colours may appear to advance, while cooler, darker, or less saturated colours may appear to recede.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Colour Gradation -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/itten-colour-gradation.png"
+      alt="Example showing a gradual transition in hue, saturation, or lightness"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Colour Gradation</h3>
+      <p>
+        Colour gradation is a controlled progression from one colour condition to another. Gradual changes in hue, saturation, brightness, or lightness can create transition, rhythm, movement, and depth.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+> **Source:** Johannes Itten, <em>The Art of Color</em>. Use these concepts to analyze how colour relationships change the visual effect of a composition.
+
+
+## Timothy Samara — Colour Proportioning
+
+<div class="gestalt-principles-grid">
+
+  <!-- Colour Proportioning -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/samara-colour-proportioning.png"
+      alt="Example showing colours occupying different proportions within the same composition"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Colour Proportioning</h3>
+      <p>
+        Colour proportioning considers how much visual space each colour occupies. Changing the relative amount of a colour changes its visual weight, hierarchy, emphasis, and relationship to the other colours in the composition.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
+
+For this activity, **do not treat the six colours in a palette as equal**. Establish a deliberate relationship between:
+
+- **Dominant colours** — occupy the largest areas
+- **Secondary colours** — support the dominant colour
+- **Accent colours** — occupy smaller areas and create emphasis
+
+The proportions must first be designed and shown in each **colour palette sheet**. When you select three palettes for the final compositions, apply the corresponding proportioning system to each composition.
+
+> **Important:** Colour proportioning is part of the composition. Two designs using exactly the same six colours can produce very different visual effects when the amount of each colour changes.
+
+</div>
+</details>
+
+<!-- SECTION 2 -->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Create the five colour palettes</span>
     <span class="section-description">
       Develop five six-colour palettes and define an intentional colour proportion for each one.
     </span>
