@@ -206,6 +206,22 @@ A colour scheme is a structured relationship between colours on the colour wheel
     </figcaption>
   </figure>
 
+  <!-- Split Complementary -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/colour-splitComplementary.png"
+      alt="Example of one main colour and two complementary ones."
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Split Complementary</h3>
+      <p>
+        Uses one base colour and the two colours adjacent to its complement. It creates strong contrast while offering more variation and less visual tension than a direct complementary scheme.
+      </p>
+    </figcaption>
+  </figure>
+
   <!-- Tetradic -->
   <figure class="gestalt-principle-card">
     <img
