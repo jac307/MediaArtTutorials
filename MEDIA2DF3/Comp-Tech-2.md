@@ -240,6 +240,8 @@ A colour scheme is a structured relationship between colours on the colour wheel
 
 </div>
 
+> **Source:** Wong, W. (1972). “Principles of Two Deimensional Design”. Van Nostrand Reinhold Company.
+
 ## Johannes Itten — Colour Relationships
 
 Johannes Itten explored how colours change visually according to their relationships with surrounding colours. For this activity, consider **contrast, perspective, and gradation** when applying colour to your compositions.
@@ -296,8 +298,7 @@ Johannes Itten explored how colours change visually according to their relations
 
 </div>
 
-> **Source:** Johannes Itten, <em>The Art of Color</em>. Use these concepts to analyze how colour relationships change the visual effect of a composition.
-
+> **Source:** Itten, J. (1970). <em>Itten. The Elements of Color. A Treatise on The Color System of Johannes Itten based on his book The Art of Color</em>. Edited and with a foreword and evaluation by Faber Birren.  Translated by Ernst Van Hagen. Published by Van Nostrand Reinhold, New York, USA.
 
 ## Timothy Samara — Colour Proportioning
 
@@ -330,6 +331,8 @@ For this activity, **do not treat the six colours in a palette as equal**. Estab
 The proportions must first be designed and shown in each **colour palette sheet**. When you select three palettes for the final compositions, apply the corresponding proportioning system to each composition.
 
 > **Important:** Colour proportioning is part of the composition. Two designs using exactly the same six colours can produce very different visual effects when the amount of each colour changes.
+
+> **Source:** Samara, T. (2007). “Color Fundamentals: Color Proportioning.” In *Design Elements: A Graphic Style Manual* (pp. 106-107). Rockport Publishers.
 
 </div>
 </details>
