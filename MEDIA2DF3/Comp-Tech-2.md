@@ -484,13 +484,17 @@ To check a colour in Adobe Illustrator:
 </div>
 </details>
 
-<!-- SECTION 3 -->
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Select three palettes and compositions</span>
+    <span class="section-title">3. Select, plan, and apply the colour palettes</span>
     <span class="section-description">
-      Select three colour systems and three previous compositions, then plan how each palette proportion will operate in the selected design.
+      Select three palettes and three previous compositions, then plan and apply the established colour proportions to each composition.
     </span>
   </summary>
 
@@ -502,11 +506,11 @@ Then select **three different compositions** created for Composition Techniques 
 
 Assign one selected palette to each composition.
 
-| Final composition | Selected previous composition | Selected palette | Required colour approach |
-|---|---|---|---|
-| **1** | Your choice | Palette 1 | Apply the palette's designed colour proportion |
-| **2** | Your choice | Palette 2 | Apply the palette's designed colour proportion |
-| **3** | Your choice | Palette 3 | Apply the palette's designed colour proportion |
+| Final composition | Selected previous composition | Selected palette | Required colour approach                       |
+| ----------------- | ----------------------------- | ---------------- | ---------------------------------------------- |
+| **1**             | Your choice                   | Palette 1        | Apply the palette's designed colour proportion |
+| **2**             | Your choice                   | Palette 2        | Apply the palette's designed colour proportion |
+| **3**             | Your choice                   | Palette 3        | Apply the palette's designed colour proportion |
 
 Use **three different palettes**.
 
@@ -528,20 +532,7 @@ For example, if one colour represents approximately **40%** of your palette and 
 
 > You are applying a colour **system**, not simply choosing six colours from the palette.
 
-</div>
-</details>
-
-<!-- SECTION 4 -->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Apply colour proportioning to the three compositions</span>
-    <span class="section-description">
-      Rework three previous compositions using the selected palettes and their established colour proportions.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Apply the colour palettes
 
 Apply one selected palette to each composition.
 
@@ -577,11 +568,11 @@ When the selected Composition Techniques I work includes texture, you may colour
 </div>
 </details>
 
-<!-- SECTION 5 -->
+<!-- SECTION 4 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Review and export Composition Techniques II</span>
+    <span class="section-title">4. Review and export Composition Techniques II</span>
     <span class="section-description">
       Check the palette design, colour proportions, three compositions, and required files before submitting.
     </span>
