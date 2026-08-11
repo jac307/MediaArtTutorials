@@ -658,4 +658,4 @@ When the selected Composition Techniques I work includes texture, you may colour
 | Composition 2 | `Lastname-Firstname-CompTech2-2.pdf` |
 | Composition 3 | `Lastname-Firstname-CompTech2-3.pdf` |
 
-Incorrect filenames, incomplete colour information, poorly organized palette sheets, missing colour proportions, inconsistent palette presentation, or compositions that do not apply the planned colour proportions will affect the grade.
+Incorrect filenames, incomplete colour information, poorly organized palette sheets, missing colour proportions, un-embedded images, inconsistent palette presentation, or compositions that do not apply the planned colour proportions will affect the grade.

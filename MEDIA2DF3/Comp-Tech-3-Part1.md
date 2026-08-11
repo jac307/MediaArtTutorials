@@ -656,15 +656,23 @@ SECTION 2
     </span>
   </summary>
 
-<div class="section-content" markdown="1">
+  <div class="section-content">
 
-<!-- 
-/////////////////
-SUB-MODULE 2A
-/////////////////
--->
+    <!-- 
+    /////////////////
+    SUB-SECTION A
+    /////////////////
+    -->
 
-## 2A. Choose three style pairings
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Choose three style pairings</span>
+        <span class="section-description">
+          Select three of the five options and use each selected pairing once.
+        </span>
+      </summary>
+
+      <div class="section-content" markdown="1">
 
 Choose **three of the five options** below. You may apply the selected pairings to the three formats in any order.
 
@@ -680,15 +688,25 @@ Choose **three of the five options** below. You may apply the selected pairings 
 
 For this activity, interpret “Be universal” as **design for a defined audience and communicate clearly**. Do not assume that every viewer interprets images, symbols, or styles in the same way.
 
----
+      </div>
+    </details>
 
-<!-- 
-/////////////////
-SUB-MODULE 2B
-/////////////////
--->
 
-## 2B. Assign one pairing to each required format
+    <!-- 
+    /////////////////
+    SUB-SECTION B
+    /////////////////
+    -->
+
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Assign one pairing to each required format</span>
+        <span class="section-description">
+          Create one logo, one one-page website mockup, and one photomontage, using a different selected pairing for each.
+        </span>
+      </summary>
+
+      <div class="section-content" markdown="1">
 
 Create one composition in each category:
 
@@ -700,7 +718,7 @@ Create one composition in each category:
 
 Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
 
-### Review the required formats
+## Review the required formats
 
 <div class="format-options-grid">
 
@@ -763,7 +781,7 @@ Assign one of your three selected style pairings to each required format. Consid
 
 </div>
 
-### Assign the style pairings
+## Assign the style pairings
 
 Use each selected pairing once:
 
@@ -774,15 +792,25 @@ Use each selected pairing once:
 
 Consider how the characteristics of each style support the format. A style that depends on simplified forms may work well for a logo, while a style based on layered images and textures may be more appropriate for a photomontage.
 
----
+      </div>
+    </details>
 
-<!-- 
-/////////////////
-SUB-MODULE 2C
-/////////////////
--->
 
-## 2C. Plan and sketch the three compositions
+    <!-- 
+    /////////////////
+    SUB-SECTION C
+    /////////////////
+    -->
+
+    <details class="tutorial-section">
+      <summary>
+        <span class="section-title">Plan and sketch the three compositions</span>
+        <span class="section-description">
+          Define the concept and create one annotated planning sketch for each required format.
+        </span>
+      </summary>
+
+      <div class="section-content" markdown="1">
 
 Create one planning sketch for each composition:
 
@@ -862,7 +890,10 @@ Save the completed planning document as:
 
 Ask the instructor for feedback before beginning the final digital compositions.
 
-</div>
+      </div>
+    </details>
+
+  </div>
 </details>
 
 
@@ -1079,7 +1110,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create and review the three compositions</span>
+    <span class="section-title">4. Create and review the three compositions</span>
     <span class="section-description">
       Develop the logo, website mockup, and photomontage from the approved sketches, then review the conceptual, visual, and technical requirements.
     </span>
@@ -1180,21 +1211,66 @@ Make final corrections before exporting the logo and website as PDF files and sa
 
 <!-- 
 /////////////////
-SECTION 7
+SECTION 5
 /////////////////
 -->
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Export and submit Part 1</span>
-    <span class="section-description">
-      Export the sketches and three compositions, then post a short description of each work.
-    </span>
-  </summary>
+## Design analysis PDFs
 
-<div class="section-content" markdown="1">
+Create **one one-page PDF for each composition** that presents the final design together with its **250-word description**.
 
-## Required files
+You will create:
+
+- One analysis PDF for the **Logo**
+- One analysis PDF for the **One-page Website**
+- One analysis PDF for the **Photomontage**
+
+### Document format
+
+Each PDF must use:
+
+- **Orientation:** Horizontal / landscape
+- **Pages:** 1 page only
+- **Layout:** Two columns
+- **Left column:** Small image of the final design
+- **Right column:** 250-word written description
+- **Typography:** Clear and readable
+- **Spacing and alignment:** Consistent and intentional
+
+Use the same layout, typography, margins, and visual organization across all three PDFs.
+
+### Required two-column layout
+
+| Left column | Right column |
+|---|---|
+| Small image of the final composition | **250-word description** of the composition |
+
+The image should be large enough to clearly identify the work, but it should **not dominate the page**. The written analysis is the primary content of the document.
+
+### Write the 250-word description
+
+For each composition:
+
+1. State the **concept** and intended purpose of the design.
+2. Identify the selected **visual style** and explain how its characteristics are visible in the work.
+3. Identify the two assigned **Gestalt principles** and explain how they organize the composition.
+4. Identify the two **Samara rules** and explain how they influenced specific design decisions.
+5. Select at least **one specific visual element or area** of the composition and explain how it supports the concept, message, purpose, or function of the design.
+
+Do not only list the style, Gestalt principles, and Samara rules. Explain **how they are visible in specific design decisions**.
+
+> The analysis document is also a designed page. Pay attention to margins, column proportions, image placement, alignment, spacing, hierarchy, and readable typography.
+
+### Required filenames
+
+| Analysis document | Required filename |
+|---|---|
+| Logo analysis | `Lastname-Firstname-CompTech3-Part1-Logo-Analysis.pdf` |
+| Website analysis | `Lastname-Firstname-CompTech3-Part1-Website-Analysis.pdf` |
+| Photomontage analysis | `Lastname-Firstname-CompTech3-Part1-Photomontage-Analysis.pdf` |
+---
+
+## Submission files
 
 | Item | Required filename |
 |---|---|
@@ -1204,23 +1280,7 @@ SECTION 7
 | Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
 | Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
-## Written descriptions
-
-Post a **250-word description for each composition** directly in Avenue to Learn.
-
-Each description must clearly explain the design rather than only listing the required principles.
-
-For each composition:
-
-1. State the concept and selected visual style.
-2. Identify the two Gestalt principles and two Samara rules used.
-3. Select **one specific aspect or element of the design**.
-4. Explain concretely how that design decision supports the concept and helps communicate the intended message, purpose, or function.
-
-> Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup will affect the grade.
-
-</div>
-</details>
+Confirm that all files open correctly before submitting. Incorrect filenames, missing files, un-embedded images, or incomplete document setup will affect the grade.
 
 ---
 
