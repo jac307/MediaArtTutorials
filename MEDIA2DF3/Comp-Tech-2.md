@@ -318,13 +318,17 @@ For this activity, **do not treat the six colours in a palette as equal**. Estab
 </div>
 </details>
 
-<!-- SECTION 2 -->
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Create the five colour palettes</span>
+    <span class="section-title">2. Create and design the five colour palettes</span>
     <span class="section-description">
-      Develop five six-colour palettes and define an intentional colour proportion for each one.
+      Develop five six-colour palettes, define an intentional colour proportion for each one, and design a consistent set of professionally organized palette sheets.
     </span>
   </summary>
 
@@ -388,24 +392,9 @@ The proportion must also be **visible in the design of the palette sheet**. Do n
 
 > **Samara — Colour Proportioning:** Consider colour not only by hue, but by the relative amount of space each colour occupies. Changing the proportion of colours changes hierarchy, emphasis, balance, and the overall visual effect of the palette.
 
-</div>
-</details>
-
-<!-- SECTION 2 -->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">2. Design the five colour palette sheets</span>
-    <span class="section-description">
-      Build five consistent and professionally organized palette sheets that communicate colour values and proportions clearly.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Set up the Illustrator document
 
 Create **one Illustrator file containing five artboards**, one for each palette.
-
-## Document setup
 
 Use:
 
@@ -426,6 +415,8 @@ Use:
 ## Design each palette sheet
 
 ![Example of colour palette organization](imgs/18.png)
+
+Create **one palette per artboard**.
 
 Each artboard must include:
 
