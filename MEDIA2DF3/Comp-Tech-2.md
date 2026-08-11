@@ -581,7 +581,7 @@ When the selected Composition Techniques I work includes texture, you may colour
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Each palette contains six colours.</strong>
+      <strong>Each palette contains five colours.</strong>
       Every colour includes the required RGB, CMYK, Hex, and HSV information.
     </span>
   </label>
