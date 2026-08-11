@@ -1232,6 +1232,7 @@ Do not only list the style, Gestalt principles, and Samara rules. Explain **how 
 ---
 
 ## Submission files
+
 | Item | Required filename |
 |---|---|
 | Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
