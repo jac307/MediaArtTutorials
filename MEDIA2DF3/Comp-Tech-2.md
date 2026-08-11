@@ -407,14 +407,20 @@ Use:
 
 ## Design each palette sheet
 
-<figure style="width: 60%; margin: 1.5rem auto;">
-  <img
-    src="imgs/18.png"
-    alt="Example of colour palette organization"
-    style="width: 100%; height: auto;"
-    loading="lazy"
-  >
-</figure>
+<div class="two-column-layout">
+
+  <div>
+    <figure style="width: 100%; margin: 0;">
+      <img
+        src="imgs/18.png"
+        alt="Example of colour palette organization"
+        style="width: 100%; height: auto;"
+        loading="lazy"
+      >
+    </figure>
+  </div>
+
+  <div markdown="1">
 
 Create **one palette per artboard**.
 
@@ -428,6 +434,12 @@ Each artboard must include:
 - **CMYK** values
 - **Hex code**
 - **HSV** values
+
+> This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
+
+  </div>
+
+</div>
 
 The palette sheet is itself a **design composition**. Do not simply place six colour boxes and labels on the artboard.
 
