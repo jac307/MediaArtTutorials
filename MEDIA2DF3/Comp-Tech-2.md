@@ -427,13 +427,12 @@ Create **one palette per artboard**.
 Each artboard must include:
 
 - The **name of the colour scheme**
-- Six colour swatches
-- The intended **percentage/proportion** of each colour
-- A visual representation of the colour proportioning
-- **RGB** values
-- **CMYK** values
-- **Hex code**
-- **HSV** values
+- Five colour swatches with:
+   - **RGB** values
+   - **CMYK** values
+   - **Hex code**
+   - **HSV** values
+- A visual representation of the **colour proportioning with percentages values**. 
 
 > This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
 
