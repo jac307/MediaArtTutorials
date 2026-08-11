@@ -434,11 +434,11 @@ Each artboard must include:
    - **HSV** values
 - A visual representation of the **colour proportioning with percentages values**. 
 
-> This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
-
   </div>
 
 </div>
+
+> This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
 
 The palette sheet is itself a **design composition**. Consider:
 
@@ -500,21 +500,12 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-Select **three of the five palettes**.
+Overview:  
 
-Then select **three different compositions** created for Composition Techniques I – Parts 1 and 2.
-
-Assign one selected palette to each composition.
-
-| Final composition | Selected previous composition | Selected palette | Required colour approach                       |
-| ----------------- | ----------------------------- | ---------------- | ---------------------------------------------- |
-| **1**             | Your choice                   | Palette 1        | Apply the palette's designed colour proportion |
-| **2**             | Your choice                   | Palette 2        | Apply the palette's designed colour proportion |
-| **3**             | Your choice                   | Palette 3        | Apply the palette's designed colour proportion |
-
-Use **three different palettes**.
-
-Duplicate the original Illustrator files before editing. **Do not overwrite your original Composition Techniques I files.**
+- Select **three of the five palettes**.
+- Then select **three different compositions** created for Composition Techniques I – Parts 1 and 2.
+- Assign one selected palette (with the colour proportion) to each composition.
+- Duplicate the original Illustrator files before editing. **Do not overwrite your original Composition Techniques I files.**
 
 ## Plan the colour application
 
@@ -528,9 +519,7 @@ Before recolouring each composition, identify:
 
 The proportioning defined in the palette sheet must guide the final composition.
 
-For example, if one colour represents approximately **40%** of your palette and another represents **5%**, those colours should not appear in approximately equal amounts in the final composition.
-
-> You are applying a colour **system**, not simply choosing six colours from the palette.
+> For example, if one colour represents approximately **40%** of your palette and another represents **5%**, those colours should not appear in approximately equal amounts in the final composition.
 
 ## Apply the colour palettes
 
@@ -538,16 +527,14 @@ Apply one selected palette to each composition.
 
 For each composition:
 
-1. Use all six colours from the selected palette.
+1. Use all five colours from the selected palette.
 2. Apply the **colour proportioning established on the palette sheet**.
 3. Preserve the main formal structure of the original Composition Techniques I work.
 4. Use colour to strengthen hierarchy, contrast, depth, grouping, movement, or emphasis.
 5. Maintain a consistent relationship between dominant, secondary, and accent colours.
 6. Refine the distribution by eye while remaining recognizably connected to the planned proportions.
 
-The percentages do not need to be measured pixel by pixel. They should function as a clear visual guide for the relative amount of each colour.
-
-![Examples of colour applied to previous compositions](imgs/17.png)
+> The percentages do not need to be measured pixel by pixel. They should function as a clear visual guide for the relative amount of each colour.
 
 ## Gradients
 
