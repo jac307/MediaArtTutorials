@@ -1230,6 +1230,7 @@ Do not only list the style, Gestalt principles, and Samara rules. Explain **how 
 </details>
 
 ---
+
 ## Submission files
 | Item | Required filename |
 |---|---|
