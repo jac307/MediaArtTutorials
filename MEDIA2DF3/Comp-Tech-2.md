@@ -336,7 +336,7 @@ SECTION 2
 
 ## Create the colour schemes
 
-Use [Adobe Color](https://color.adobe.com/){:target="_blank"} to create **five palettes**, each containing **six colours**.
+Use [Adobe Color](https://color.adobe.com/){:target="_blank"} to create **five palettes**, each containing **five colours**.
 
 Create one palette for each colour scheme:
 
@@ -407,7 +407,14 @@ Use:
 
 ## Design each palette sheet
 
-![Example of colour palette organization](imgs/18.jpg)
+<figure style="width: 60%; margin: 1.5rem auto;">
+  <img
+    src="imgs/18.png"
+    alt="Example of colour palette organization"
+    style="width: 100%; height: auto;"
+    loading="lazy"
+  >
+</figure>
 
 Create **one palette per artboard**.
 
