@@ -642,7 +642,6 @@ SUB-SECTION A
   </div>
 </details>
 
-
 <!-- 
 /////////////////
 SECTION 2
@@ -651,13 +650,21 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Choose three style pairings</span>
+    <span class="section-title">2. Select, assign, and plan the three compositions</span>
     <span class="section-description">
-      Select three options and use one pairing for each composition.
+      Choose three style pairings, assign one to each required format, and plan the three compositions before beginning the final digital work.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
+
+<!-- 
+/////////////////
+SUB-MODULE 2A
+/////////////////
+-->
+
+## 2A. Choose three style pairings
 
 Choose **three of the five options** below. You may apply the selected pairings to the three formats in any order.
 
@@ -673,24 +680,15 @@ Choose **three of the five options** below. You may apply the selected pairings 
 
 For this activity, interpret “Be universal” as **design for a defined audience and communicate clearly**. Do not assume that every viewer interprets images, symbols, or styles in the same way.
 
-</div>
-</details>
+---
 
 <!-- 
 /////////////////
-SECTION 3
+SUB-MODULE 2B
 /////////////////
 -->
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Assign one pairing to each required format</span>
-    <span class="section-description">
-      Create one logo, one one-page website mockup, and one photomontage.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## 2B. Assign one pairing to each required format
 
 Create one composition in each category:
 
@@ -701,7 +699,8 @@ Create one composition in each category:
 | **Photomontage** | Photographic collage using image layers and texture | Adobe Photoshop |
 
 Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
-## Review the required formats
+
+### Review the required formats
 
 <div class="format-options-grid">
 
@@ -764,8 +763,7 @@ Assign one of your three selected style pairings to each required format. Consid
 
 </div>
 
-
-## Assign the style pairings
+### Assign the style pairings
 
 Use each selected pairing once:
 
@@ -776,24 +774,15 @@ Use each selected pairing once:
 
 Consider how the characteristics of each style support the format. A style that depends on simplified forms may work well for a logo, while a style based on layered images and textures may be more appropriate for a photomontage.
 
-</div>
-</details>
+---
 
 <!-- 
 /////////////////
-SECTION 4
+SUB-MODULE 2C
 /////////////////
 -->
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Plan and sketch the three compositions</span>
-    <span class="section-description">
-      Define the concept and create one annotated sketch for each required format.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## 2C. Plan and sketch the three compositions
 
 Create one planning sketch for each composition:
 
@@ -863,6 +852,7 @@ Use simple shapes, lines, labels, and arrows to show where the main elements wil
       Photograph, scan, or export the sketches clearly, then combine them into one three-page PDF in the following order: logo, one-page website, and photomontage.
     </span>
   </label>
+
 </fieldset>
 
 Save the completed planning document as:
@@ -875,15 +865,16 @@ Ask the instructor for feedback before beginning the final digital compositions.
 </div>
 </details>
 
+
 <!-- 
 /////////////////
-SECTION 5
+SECTION 3
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Set up the digital files</span>
+    <span class="section-title">3. Set up the digital files</span>
     <span class="section-description">
       Create the required Illustrator and Photoshop documents using the correct dimensions, layers, and filenames.
     </span>
@@ -1082,7 +1073,7 @@ The original photograph must remain identifiable within the final composition, e
 
 <!-- 
 /////////////////
-SECTION 6
+SECTION 4
 /////////////////
 -->
 
