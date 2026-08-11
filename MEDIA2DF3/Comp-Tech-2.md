@@ -7,7 +7,7 @@
 Each palette must demonstrate:
 
 - One assigned **colour scheme**
-- Six colour swatches
+- Five colour swatches
 - Complete colour information (CMYK, RGB, HSB, and hexacolor)
 - A designed **colour proportion**
 - Clear visual organization and consistent presentation
@@ -369,8 +369,6 @@ Consider:
 - Which colour will be **dominant**
 - Which colours will occupy **secondary areas**
 - Which colours will function as **accents**
-- The visual intensity of each colour
-- How large and small areas of colour interact
 
 Define a percentage for every colour. Together, the six proportions must equal **100%**.
 
@@ -379,18 +377,13 @@ For example:
 | Colour | Intended proportion |
 |---|---:|
 | Colour 1 | 40% |
-| Colour 2 | 25% |
-| Colour 3 | 15% |
-| Colour 4 | 10% |
+| Colour 2 | 26% |
+| Colour 3 | 16% |
+| Colour 4 | 11% |
 | Colour 5 | 7% |
-| Colour 6 | 3% |
 | **Total** | **100%** |
 
 > The percentages above are only an example. Design a different proportion according to the visual relationships within each palette.
-
-The proportion must also be **visible in the design of the palette sheet**. Do not present all six colours as identical-sized swatches if they have different intended proportions.
-
-> **Samara — Colour Proportioning:** Consider colour not only by hue, but by the relative amount of space each colour occupies. Changing the proportion of colours changes hierarchy, emphasis, balance, and the overall visual effect of the palette.
 
 ## Set up the Illustrator document
 
