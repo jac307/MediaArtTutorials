@@ -139,8 +139,6 @@ Different colour models describe colour in different ways. Some are connected to
 
 A colour scheme is a structured relationship between colours on the colour wheel. For this activity, create one palette using each of the five schemes below.
 
-![Examples of the five required colour schemes](imgs/16.jpeg)
-
 <div class="gestalt-principles-grid">
 
   <!-- Monochromatic -->
@@ -303,33 +301,15 @@ Johannes Itten explored how colours change visually according to their relations
 
 ## Timothy Samara — Colour Proportioning
 
-<div class="gestalt-principles-grid">
+![Examples of super-units](imgs/samara-colour-proportioning.png)
 
-  <!-- Colour Proportioning -->
-  <figure class="gestalt-principle-card">
-    <img
-      src="imgs/samara-colour-proportioning.png"
-      alt="Example showing colours occupying different proportions within the same composition"
-      loading="lazy"
-    >
-
-    <figcaption>
-      <h3>Colour Proportioning</h3>
-      <p>
-        Colour proportioning considers how much visual space each colour occupies. Changing the relative amount of a colour changes its visual weight, hierarchy, emphasis, and relationship to the other colours in the composition.
-      </p>
-    </figcaption>
-  </figure>
-
-</div>
+Colour proportioning considers how much visual space each colour occupies. Changing the relative amount of a colour changes its visual weight, hierarchy, emphasis, and relationship to the other colours in the composition.
 
 For this activity, **do not treat the six colours in a palette as equal**. Establish a deliberate relationship between:
 
 - **Dominant colours** — occupy the largest areas
 - **Secondary colours** — support the dominant colour
 - **Accent colours** — occupy smaller areas and create emphasis
-
-The proportions must first be designed and shown in each **colour palette sheet**. When you select three palettes for the final compositions, apply the corresponding proportioning system to each composition.
 
 > **Important:** Colour proportioning is part of the composition. Two designs using exactly the same six colours can produce very different visual effects when the amount of each colour changes.
 
