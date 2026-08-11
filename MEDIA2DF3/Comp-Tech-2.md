@@ -440,9 +440,7 @@ Each artboard must include:
 
 </div>
 
-The palette sheet is itself a **design composition**. Do not simply place six colour boxes and labels on the artboard.
-
-Consider:
+The palette sheet is itself a **design composition**. Consider:
 
 - **Placement:** Position information intentionally within the artboard.
 - **Alignment:** Establish clear alignments between swatches, values, titles, and labels.
@@ -453,19 +451,35 @@ Consider:
 - **Consistency:** Use the same visual system across all five palette sheets.
 - **Proportion:** Make the relative amount of each colour visually understandable.
 
-You may vary the proportions of the colour areas while keeping the overall layout system consistent across all five artboards.
-
-> All five artboards should look like parts of the same designed set. Changes between pages should come primarily from the colour palettes and their proportions, not from unrelated layouts or typography.
+> **All five artboards should look like parts of the same designed set**. Changes between pages should come primarily from the colour palettes and their proportions, not from unrelated layouts or typography.
 
 ## Check the colour information
+
+<div class="two-column-layout">
+
+  <div>
+    <figure style="width: 100%; margin: 0;">
+      <img
+        src="imgs/18-2.png"
+        alt="Example of colour palette organization"
+        style="width: 100%; height: auto;"
+        loading="lazy"
+      >
+    </figure>
+  </div>
+
+  <div markdown="1">
 
 To check a colour in Adobe Illustrator:
 
 1. Select the coloured shape.
 2. Double-click the **Fill** tool.
-3. Record the required RGB, CMYK, Hex, and HSV information.
+3. Record the required RGB, CMYK, Hex, and HSV information in a side note.
+4. Type all information in your document.
 
-![Finding colour values in Illustrator](imgs/18-2.png)
+  </div>
+
+</div>
 
 </div>
 </details>
