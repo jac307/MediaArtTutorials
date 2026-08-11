@@ -1088,14 +1088,15 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create and review the three compositions</span>
+    <span class="section-title">6. Create, review, and analyze the three compositions</span>
     <span class="section-description">
-      Develop the logo, website mockup, and photomontage from the approved sketches, then review the conceptual, visual, and technical requirements.
+      Develop the three final designs, review their conceptual and technical requirements, and create one analysis PDF presenting all three compositions.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
+## Create the three compositions
 Use the approved sketches as the starting point for each composition:
 
 - One logo
@@ -1106,6 +1107,7 @@ The final compositions do not need to reproduce the sketches exactly. Adjust the
 
 Each decision should support the concept, selected style, assigned Gestalt principles, Samara rules, and purpose of the design format.
 
+## Review the three compositions
 <fieldset class="equipment-checklist">
   <legend>Review each composition before exporting</legend>
 
@@ -1180,57 +1182,65 @@ Each decision should support the concept, selected style, assigned Gestalt princ
       The original DSLR photograph is used in the composition, the TIFF preserves active layers, and the original unedited camera file is ready for submission.
     </span>
   </label>
+
 </fieldset>
 
 Make final corrections before exporting the logo and website as PDF files and saving the photomontage as a layered TIFF.
 
-</div>
-</details>
+## Create the design analysis PDF
+Create **one single-page PDF** that presents and analyzes **all three final compositions**.
 
-<!-- 
-/////////////////
-SECTION 7
-/////////////////
--->
+The document must include:
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Export and submit Part 1</span>
-    <span class="section-description">
-      Export the sketches and three compositions, then post a short description of each work.
-    </span>
-  </summary>
+- Logo
+- One-page website
+- Photomontage
+- A **250-word analysis for each design**
 
-<div class="section-content" markdown="1">
+This means the complete document will contain approximately **750 words** of written analysis.
 
-## Required files
+### Document format
+Use:
 
-| Item | Required filename |
-|---|---|
-| Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
-| Logo PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` |
-| Website PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` |
-| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
-| Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
+- **Orientation:** Horizontal / landscape
+- **Pages:** 1 page only
+- **Designs included:** All three compositions
+- **Layout:** Three sections, one for each composition
+- **Arragement:** Two columns, Three rows
+- **Left column:** Small image of the final design
+- **Right column:** 250-word written analysis
+- **Typography:** Clear and readable
+- **Spacing and alignment:** Consistent and intentional
+- **Filename:** `Lastname-Firstname-CompTech3-Part1-Analysis.pdf`
 
-## Written descriptions
+## Write the three 250-word analyses
+For **each composition**, write approximately **250 words**.
 
-Post a **250-word description for each composition** directly in Avenue to Learn.
+Address:
 
-Each description must clearly explain the design rather than only listing the required principles.
+1. The **concept** and intended purpose of the design.
+2. The selected **visual style** and how its characteristics are visible in the work.
+3. The two assigned **Gestalt principles** and how they organize the composition.
+4. The two **Samara rules** and how they influenced specific design decisions.
+5. At least **one specific visual element or area** and how it supports the concept, message, purpose, or function of the design.
 
-For each composition:
-
-1. State the concept and selected visual style.
-2. Identify the two Gestalt principles and two Samara rules used.
-3. Select **one specific aspect or element of the design**.
-4. Explain concretely how that design decision supports the concept and helps communicate the intended message, purpose, or function.
-
-> Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup will affect the grade.
+Do not only list the style, Gestalt principles, and Samara rules. Explain **how they are visible in specific/concrete design decision(s)**.
 
 </div>
 </details>
 
 ---
+## Submission files
+| Item | Required filename |
+|---|---|
+| Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
+| Design analysis PDF | `Lastname-Firstname-CompTech3-Part1-Analysis.pdf` |
+| Logo PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` |
+| Website PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` |
+| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
+| Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
+Confirm that all files open correctly before submitting. Incorrect filenames, missing files, un-embedded images, or incomplete document setup will affect the grade.
+
+---
 Credits: Jessica A. Rodríguez
