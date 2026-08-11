@@ -1,6 +1,7 @@
 [MEDIAART 2DF3](README.md)
 
 # Composition Techniques III – Part 1
+
 ![Examples from previous Composition Techniques III activities](imgs/19.jpg)
 
 **Goal:** Design and create **three digital compositions** that integrate visual styles, Gestalt principles, and practical design rules across three different formats.
@@ -10,16 +11,18 @@ Each composition must combine:
 - **One design format**
 - **One style pairing** from the five options provided
 - **Two Gestalt principles** assigned to that style
-- **Two rules** from Timothy Samara’s **20 Rules for Making Good Design**
+- **Two rules** from Timothy Samara’s *20 Rules for Making Good Design*
 - **One clear concept** that guides the visual and formal decisions
 
 ## Activity overview
+
 - **Formats:** One logo, one one-page website mockup, and one photomontage
 - **Style options:** Art Nouveau, DORFic, Utopian Scholastic, Memphis Design, and Olderbrothercore
 - **Gestalt principles:** Emergence, Closure, Common Region, Continuity, Proximity, and Multistability
 - **Software:** Adobe Illustrator and Adobe Photoshop
 
 ## Activity stages
+
 Complete the following stages in order.
 
 
@@ -31,7 +34,7 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Review the concepts</span>
+    <span class="section-title">1. Review the Concepts</span>
     <span class="section-description">
       Review the Gestalt principles, art styles, and design rules before planning your compositions.
     </span>
@@ -629,7 +632,7 @@ SUB-SECTION A
         <blockquote>
           <p>
             <strong>Source:</strong>
-            Samara, T. (2007) <em>Design Elements: A Graphic Style Manual</em>. Rockport Publishers. Images (pp. 10–29) are included for educational review.
+            Samara, T. (2007) <em>Design Elements: A Graphic Style Manual</em>. Rockport publishers. Images (pp.10-29) are included for educational review.
           </p>
         </blockquote>
 
@@ -639,6 +642,7 @@ SUB-SECTION A
   </div>
 </details>
 
+
 <!-- 
 /////////////////
 SECTION 2
@@ -647,29 +651,13 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Select, assign, and plan the three compositions</span>
+    <span class="section-title">2. Choose three style pairings</span>
     <span class="section-description">
-      Choose three style pairings, assign one to each required format, and plan the three compositions before beginning the final digital work.
+      Select three options and use one pairing for each composition.
     </span>
   </summary>
 
-  <div class="section-content">
-
-    <!-- 
-    /////////////////
-    SUB-SECTION A
-    /////////////////
-    -->
-
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">A. Choose three style pairings</span>
-        <span class="section-description">
-          Select three of the five options and use each selected pairing once.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 Choose **three of the five options** below. You may apply the selected pairings to the three formats in any order.
 
@@ -682,27 +670,27 @@ Choose **three of the five options** below. You may apply the selected pairings 
 | **5** | **Olderbrothercore** | Proximity + Closure | **12. Squish and separate.**<br>**16. Create images—don’t scavenge.** | Use original or substantially transformed lo-fi photographs, labels, interface fragments, distressed textures, cropped imagery, and layered media. Group related fragments closely and use incomplete or cropped forms that the viewer can visually complete. |
 
 ### Note on Rule 11
+
 For this activity, interpret “Be universal” as **design for a defined audience and communicate clearly**. Do not assume that every viewer interprets images, symbols, or styles in the same way.
 
-      </div>
-    </details>
+</div>
+</details>
 
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
 
-    <!-- 
-    /////////////////
-    SUB-SECTION B
-    /////////////////
-    -->
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Assign one pairing to each required format</span>
+    <span class="section-description">
+      Create one logo, one one-page website mockup, and one photomontage.
+    </span>
+  </summary>
 
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">B. Assign one pairing to each required format</span>
-        <span class="section-description">
-          Create one logo, one one-page website mockup, and one photomontage, using a different selected pairing for each.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 Create one composition in each category:
 
@@ -713,8 +701,8 @@ Create one composition in each category:
 | **Photomontage** | Photographic collage using image layers and texture | Adobe Photoshop |
 
 Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
-
 ## Review the required formats
+
 <div class="format-options-grid">
 
   <!-- Logo -->
@@ -776,7 +764,9 @@ Assign one of your three selected style pairings to each required format. Consid
 
 </div>
 
+
 ## Assign the style pairings
+
 Use each selected pairing once:
 
 - Assign one pairing to the logo.
@@ -786,25 +776,24 @@ Use each selected pairing once:
 
 Consider how the characteristics of each style support the format. A style that depends on simplified forms may work well for a logo, while a style based on layered images and textures may be more appropriate for a photomontage.
 
-      </div>
-    </details>
+</div>
+</details>
 
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
 
-    <!-- 
-    /////////////////
-    SUB-SECTION C
-    /////////////////
-    -->
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Plan and sketch the three compositions</span>
+    <span class="section-description">
+      Define the concept and create one annotated sketch for each required format.
+    </span>
+  </summary>
 
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">C. Plan and sketch the three compositions</span>
-        <span class="section-description">
-          Define the concept and create one annotated planning sketch for each required format.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
 Create one planning sketch for each composition:
 
@@ -874,7 +863,6 @@ Use simple shapes, lines, labels, and arrows to show where the main elements wil
       Photograph, scan, or export the sketches clearly, then combine them into one three-page PDF in the following order: logo, one-page website, and photomontage.
     </span>
   </label>
-
 </fieldset>
 
 Save the completed planning document as:
@@ -884,22 +872,18 @@ Save the completed planning document as:
 
 Ask the instructor for feedback before beginning the final digital compositions.
 
-      </div>
-    </details>
-
-  </div>
+</div>
 </details>
-
 
 <!-- 
 /////////////////
-SECTION 3
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Set up the digital files</span>
+    <span class="section-title">5. Set up the digital files</span>
     <span class="section-description">
       Create the required Illustrator and Photoshop documents using the correct dimensions, layers, and filenames.
     </span>
@@ -925,11 +909,12 @@ SUB-SECTION A
 
 Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare raster images.
 
-> **Embed all linked images before exporting.** You will lose points if images are not embedded.
+> **Embed all linked images before exporting**. You will loose point if images are not embed it.
 
 ![Logo document setup reference](imgs/logo.png)
 
 ### Document setup
+
 | Setting | Requirement |
 |---|---|
 | Filename | `Lastname-Firstname-CompTech3-Part1-Logo` |
@@ -943,6 +928,7 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
 | Layers | Guides, Composition, Background |
 
 ### Graphic design tutorials
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6"
@@ -984,11 +970,12 @@ SUB-SECTION B
 
 Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may be used to prepare images and textures.
 
-> **Embed all linked images before exporting.** You will lose points if images are not embedded.
+> **Embed all linked images before exporting**. You will loose point if images are not embed it.
 
 ![Website document setup reference](imgs/website.png)
 
 ### Document setup
+
 | Setting | Requirement |
 |---|---|
 | Filename | `Lastname-Firstname-CompTech3-Part1-Website` |
@@ -1001,6 +988,7 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
 | Layers | Guides, Composition, Background |
 
 ### Website design tutorials
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/XeQo6fT0n_o?si=0UiNLZHDC1gbWn6f"
@@ -1041,6 +1029,7 @@ The following files are required for submission:
 - The original, unedited camera file used in the photomontage
 
 ### Original photography requirement
+
 Book and use a **Canon EOS Rebel T4i DSLR camera**.
 
 Set the camera to **Aperture Priority (`Av`) mode** and photograph a subject, object, texture, place, or environment that supports the concept of the photomontage.
@@ -1048,10 +1037,12 @@ Set the camera to **Aperture Priority (`Av`) mode** and photograph a subject, ob
 The original photograph must remain identifiable within the final composition, even when it is cropped, layered, adjusted, or transformed.
 
 ### Camera tutorials
+
 - [Available Equipment](Equipment.md)
-- [DSLR Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
+- [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
 
 ### Photoshop document setup
+
 ![Photomontage document setup reference](imgs/photomontage.png)
 
 | Setting | Requirement |
@@ -1064,6 +1055,7 @@ The original photograph must remain identifiable within the final composition, e
 | Bit depth | 16 bits |
 
 ### Photomontage tutorials
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/5j9_ywshuDw?si=Rq7xh98wm4SoDXY4"
@@ -1075,7 +1067,7 @@ The original photograph must remain identifiable within the final composition, e
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9"
+    src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9""
     title="Master the Pen Tool in Under 8 Minutes (Photoshop)"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
@@ -1088,24 +1080,22 @@ The original photograph must remain identifiable within the final composition, e
 </div>
 </details>
 
-
 <!-- 
 /////////////////
-SECTION 4
+SECTION 6
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Create, review, and analyze the three compositions</span>
+    <span class="section-title">6. Create and review the three compositions</span>
     <span class="section-description">
-      Develop the three final designs, review their conceptual and technical requirements, and create one analysis PDF presenting all three compositions.
+      Develop the logo, website mockup, and photomontage from the approved sketches, then review the conceptual, visual, and technical requirements.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Create the three compositions
 Use the approved sketches as the starting point for each composition:
 
 - One logo
@@ -1116,7 +1106,6 @@ The final compositions do not need to reproduce the sketches exactly. Adjust the
 
 Each decision should support the concept, selected style, assigned Gestalt principles, Samara rules, and purpose of the design format.
 
-## Review the three compositions
 <fieldset class="equipment-checklist">
   <legend>Review each composition before exporting</legend>
 
@@ -1191,104 +1180,57 @@ Each decision should support the concept, selected style, assigned Gestalt princ
       The original DSLR photograph is used in the composition, the TIFF preserves active layers, and the original unedited camera file is ready for submission.
     </span>
   </label>
-
 </fieldset>
 
 Make final corrections before exporting the logo and website as PDF files and saving the photomontage as a layered TIFF.
 
-## Create the design analysis PDF
-Create **one single-page PDF** that presents and analyzes **all three final compositions**.
-
-The document must include:
-
-- Logo
-- One-page website
-- Photomontage
-- A **250-word analysis for each design**
-
-This means the complete document will contain approximately **750 words** of written analysis.
-
-### Document format
-Use:
-
-- **Orientation:** Horizontal / landscape
-- **Pages:** 1 page only
-- **Designs included:** All three compositions
-- **Layout:** Three sections, one for each composition
-- **Each section:** Two columns
-- **Left column:** Small image of the final design
-- **Right column:** 250-word written analysis
-- **Typography:** Clear and readable
-- **Spacing and alignment:** Consistent and intentional
-- **Filename:** `Lastname-Firstname-CompTech3-Part1-Analysis.pdf`
-
-### Required layout
-Organize the page into **three horizontal sections**:
-
-| Left column | Right column |
-|---|---|
-| **Logo image** | **250-word Logo analysis** |
-| **Website image** | **250-word Website analysis** |
-| **Photomontage image** | **250-word Photomontage analysis** |
-
-The images should be large enough to clearly identify each work, but they should **not dominate the page**. The written analyses are the primary content of the document.
-
-Maintain a consistent relationship between:
-
-- Image size
-- Column width
-- Margins
-- Alignment
-- Spacing
-- Typography
-- Heading size
-- Body-text size
-
-> The analysis PDF is also a **designed composition**. Organize the three sections carefully so that all information fits on one landscape page while remaining readable.
-
-## Write the three 250-word analyses
-For **each composition**, write approximately **250 words**.
-
-Address:
-
-1. The **concept** and intended purpose of the design.
-2. The selected **visual style** and how its characteristics are visible in the work.
-3. The two assigned **Gestalt principles** and how they organize the composition.
-4. The two **Samara rules** and how they influenced specific design decisions.
-5. At least **one specific visual element or area** and how it supports the concept, message, purpose, or function of the design.
-
-Do not only list the style, Gestalt principles, and Samara rules. Explain **how they are visible in specific design decisions**.
-
-For example, refer directly to:
-
-- Placement
-- Scale
-- Typography
-- Colour
-- Image treatment
-- Shapes
-- Cropping
-- Negative space
-- Grouping
-- Alignment
-- Repetition
-- Hierarchy
-
 </div>
 </details>
 
----
-## Submission files
+<!-- 
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Export and submit Part 1</span>
+    <span class="section-description">
+      Export the sketches and three compositions, then post a short description of each work.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Required files
+
 | Item | Required filename |
 |---|---|
 | Sketches PDF | `Lastname-Firstname-CompTech3-Part1-Sketches.pdf` |
-| Design analysis PDF | `Lastname-Firstname-CompTech3-Part1-Analysis.pdf` |
 | Logo PDF | `Lastname-Firstname-CompTech3-Part1-Logo.pdf` |
 | Website PDF | `Lastname-Firstname-CompTech3-Part1-Website.pdf` |
 | Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
 | Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
-Confirm that all files open correctly before submitting. Incorrect filenames, missing files, un-embedded images, or incomplete document setup will affect the grade.
+## Written descriptions
+
+Post a **250-word description for each composition** directly in Avenue to Learn.
+
+Each description must clearly explain the design rather than only listing the required principles.
+
+For each composition:
+
+1. State the concept and selected visual style.
+2. Identify the two Gestalt principles and two Samara rules used.
+3. Select **one specific aspect or element of the design**.
+4. Explain concretely how that design decision supports the concept and helps communicate the intended message, purpose, or function.
+
+> Confirm that all files open correctly before submitting. Incorrect filenames, missing files, or incomplete document setup will affect the grade.
+
+</div>
+</details>
 
 ---
+
 Credits: Jessica A. Rodríguez
