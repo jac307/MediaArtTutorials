@@ -407,7 +407,7 @@ Use:
 
 ## Design each palette sheet
 
-![Example of colour palette organization](imgs/18.png)
+![Example of colour palette organization](imgs/18.jpg)
 
 Create **one palette per artboard**.
 
