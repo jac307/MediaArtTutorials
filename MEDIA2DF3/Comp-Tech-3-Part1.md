@@ -1200,7 +1200,6 @@ The document must include:
 This means the complete document will contain approximately **750 words** of written analysis.
 
 ### Document format
-Use:
 
 - **Orientation:** Horizontal / landscape
 - **Pages:** 1 page only
@@ -1224,7 +1223,7 @@ Address:
 4. The two **Samara rules** and how they influenced specific design decisions.
 5. At least **one specific visual element or area** and how it supports the concept, message, purpose, or function of the design.
 
-Do not only list the style, Gestalt principles, and Samara rules. Explain **how they are visible in specific/concrete design decision(s)**.
+> Do not only list the style, Gestalt principles, and Samara rules. Explain **how they are visible in specific/concrete design decision(s)**.
 
 </div>
 </details>
@@ -1242,7 +1241,7 @@ Do not only list the style, Gestalt principles, and Samara rules. Explain **how 
 | Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
 | Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
-Confirm that all files open correctly before submitting. Incorrect filenames, missing files, un-embedded images, or incomplete document setup will affect the grade.
+Confirm that all files open correctly before submitting. Incorrect filenames, missing files, unembedded images, flattened Photoshop files, or incomplete document setup will affect the grade.
 
 ---
 Credits: Jessica A. Rodríguez

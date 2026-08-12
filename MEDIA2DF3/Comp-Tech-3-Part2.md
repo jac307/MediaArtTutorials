@@ -1101,9 +1101,9 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create and review the three compositions</span>
+    <span class="section-title">6. Create, review, and analyze the three compositions</span>
     <span class="section-description">
-      Develop the poster, app screens, and photomontage from the approved sketches, then review the conceptual, visual, and technical requirements.
+      Develop the three final designs, review their conceptual and technical requirements, and create one analysis PDF presenting all three compositions.
     </span>
   </summary>
 
@@ -1205,56 +1205,62 @@ Each decision should support the concept, selected style, assigned Gestalt princ
 
 Make final corrections before exporting the poster and app screens as PDF files and saving the photomontage as a layered TIFF.
 
+## Create the design analysis PDF
+Create **one single-page PDF** that presents and analyzes **all three final compositions**.
+
+The document must include:
+
+- Logo
+- One-page website
+- Photomontage
+- A **250-word analysis for each design**
+
+This means the complete document will contain approximately **750 words** of written analysis.
+
+### Document format
+
+- **Orientation:** Horizontal / landscape
+- **Pages:** 1 page only
+- **Designs included:** All three compositions
+- **Layout:** Three sections, one for each composition
+- **Arragement:** Two columns, Three rows
+- **Left column:** Small image of the final design
+- **Right column:** 250-word written analysis
+- **Typography:** Clear and readable
+- **Spacing and alignment:** Consistent and intentional
+- **Filename:** `Lastname-Firstname-CompTech3-Part1-Analysis.pdf`
+
+## Write the three 250-word analyses
+
+For **each composition**, write approximately **250 words**.
+
+Address:
+
+1. The **concept**, intended purpose, and audience of the design.
+2. The selected **visual style** and explain how its recognizable characteristics are applied in the composition.
+3. The two assigned **Gestalt principles** and explain how they organize the visual elements, relationships, hierarchy, or movement within the composition.
+4. The two assigned **Samara rules** and explain how they influenced specific decisions related to layout, typography, imagery, spacing, hierarchy, or visual communication.
+5. At least **one specific visual element or area** of the composition and explain how it supports the concept, message, purpose, or function of the design.
+
+> Do not only identify the style, Gestalt principles, and Samara rules. Explain **how each one is visible through specific design decisions** in your poster, app screens, or double-exposure photomontage.
+
 </div>
 </details>
 
-<!-- 
-/////////////////
-SECTION 7
-/////////////////
--->
+---
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Export and submit Part 2</span>
-    <span class="section-description">
-      Export the sketches and three compositions, then post a short description of each work.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Required files
+## Submission files
 
 | Item | Required filename |
 |---|---|
 | Sketches PDF | `Lastname-Firstname-CompTech3-Part2-Sketches.pdf` |
+| Design analysis PDF | `Lastname-Firstname-CompTech3-Part2-Analysis.pdf` |
 | Poster PDF | `Lastname-Firstname-CompTech3-Part2-Poster.pdf` |
 | App screens PDF | `Lastname-Firstname-CompTech3-Part2-App.pdf` |
-| Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part2-Photomontage.tiff` |
+| Layered double-exposure photomontage TIFF | `Lastname-Firstname-CompTech3-Part2-Photomontage.tiff` |
 | Original photograph | `Lastname-Firstname-CompTech3-Part2-Photography.JPG` |
 
-The app PDF must contain both artboards as two pages in the correct order.
-
-## Written descriptions
-
-Post a **250-word description for each composition** directly in Avenue to Learn.
-
-Each description must clearly explain the design rather than only listing the required principles.
-
-For each composition:
-
-1. State the concept and selected visual style.
-2. Identify the two Gestalt principles and two Samara rules used.
-3. Select **one specific and visible element of the design**, such as a title, button, frame, colour area, image, line, symbol, or group of shapes.
-4. Write a short analysis of that element. Describe exactly where it appears, how it is designed, which principle or rule it demonstrates, and how it supports the concept or intended function.
-
-Do not make general statements about the composition as a whole. Focus on one concrete example that can be clearly identified in the submitted design.
-
-> Confirm that all files open correctly before submitting. Incorrect filenames, missing files, incomplete document setup, missing embedded images, or flattened photomontage layers will affect the grade.
-
-</div>
-</details>
+Confirm that all files open correctly before submitting. Incorrect filenames, missing files, unembedded images, flattened Photoshop files, or incomplete document setup will affect the grade.
 
 ---
 
