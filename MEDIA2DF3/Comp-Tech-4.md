@@ -99,16 +99,107 @@ Select **one Wong principle for each word**.
 
 You may select from principles explored in previous Composition Techniques activities:
 
-| Principle | Consider in typography |
-|---|---|
-| **Repetition** | Repeat letters, fragments, forms, intervals, or structures. |
-| **Similarity** | Create related letterforms that remain visually connected while varying selected characteristics. |
-| **Gradation** | Develop a progressive change in scale, direction, spacing, weight, shape, or position. |
-| **Anomaly** | Interrupt an established typographic system with an intentional irregularity. |
-| **Concentration** | Control density by clustering or dispersing letters and typographic elements. |
-| **Radiation** | Organize forms around or away from one or more centres. |
-| **Contrast** | Use strong differences in size, weight, direction, density, shape, or value. |
-| **Space** | Use positive and negative areas to establish depth, tension, or spatial relationships. |
+## Wong principles for typography
+
+<div class="single-column-principles">
+
+  <!-- Repetition -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-repetitio-2.png"
+      alt="Example showing repeated typographic forms"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Repetition</h3>
+      <p>
+        Repeat letters, fragments, forms, intervals, or structures to create consistency, rhythm, and visual order across the typographic composition.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Similarity -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-similarity-2.png"
+      alt="Example showing similar letterforms with controlled variation"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Similarity</h3>
+      <p>
+        Create related letterforms that remain visually connected while varying selected characteristics such as scale, proportion, direction, or weight.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Gradation -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-gradation-2.png"
+      alt="Example showing typographic elements changing progressively"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Gradation</h3>
+      <p>
+        Develop a progressive change in scale, direction, spacing, weight, shape, or position to create movement and visual transition.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Anomaly -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-anomaly-2.png"
+      alt="Example showing one typographic element interrupting a regular system"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Anomaly</h3>
+      <p>
+        Interrupt an established typographic system with an intentional irregularity to create emphasis, tension, or a shift in attention.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Concentration -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-concentration-2.png"
+      alt="Example showing dense and dispersed typographic groupings"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Concentration</h3>
+      <p>
+        Control density by clustering or dispersing letters and typographic elements to create focal areas, rhythm, or directional emphasis.
+      </p>
+    </figcaption>
+  </figure>
+
+  <!-- Contrast -->
+  <figure class="gestalt-principle-card">
+    <img
+      src="imgs/principle-contrast-2.png"
+      alt="Example showing strong differences in typographic size and weight"
+      loading="lazy"
+    >
+
+    <figcaption>
+      <h3>Contrast</h3>
+      <p>
+        Use strong differences in size, weight, direction, density, shape, or value to create emphasis and clarify visual relationships.
+      </p>
+    </figcaption>
+  </figure>
+
+</div>
 
 ---
 
