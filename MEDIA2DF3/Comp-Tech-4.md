@@ -59,7 +59,7 @@ SECTION 1
 
 Bruno Munari explored how the **visual form of language** can communicate beyond the literal meaning of a word.
 
-![Expressive typography examples](imgs/24.jpeg)
+![Expressive typography examples](imgs/24.png)
 
 Consider how you can manipulate:
 
