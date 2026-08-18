@@ -247,18 +247,6 @@ SECTION 2
 
 ## Follow the tutorial
 
-Complete the provided expressive typography tutorial as a **Learning Test**.
-
-The purpose of this exercise is to practice:
-
-- Manipulating letterforms
-- Converting and editing typography
-- Working with scale and proportion
-- Creating visual movement
-- Altering spacing and alignment
-- Using typography as image
-- Organizing multiple typographic variations
-
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube.com/embed/3wk9KfgIj7I?si=6lZyZLtmrfT6CMzE"
@@ -270,7 +258,9 @@ The purpose of this exercise is to practice:
 
 > **Required Learning Test:** Follow the tutorial **step by step and as demonstrated**. This activity tests your ability to reproduce the demonstrated techniques before applying them independently.
 
-The Learning Test is a **recreation exercise**. Do not redesign the tutorial outcome or substitute your own word at this stage.
+The Learning Test is a recreation exercise. Do not redesign the tutorial outcome or substitute your own word at this stage. You may, however, use your own images for the exercise. 
+
+> Make sure all images are embedded in the Illustrator file before exporting.
 
 ## Submit the Learning Test
 
@@ -302,7 +292,7 @@ Export the completed tutorial exercise as:
     <input type="checkbox">
     <span>
       <strong>The PDF displays correctly.</strong>
-      Open the exported PDF and confirm that no elements are missing or incorrectly cropped.
+      Open the exported PDF and confirm that no elements are missing (such as images not embedded) or incorrectly cropped.
     </span>
   </label>
 
@@ -357,7 +347,7 @@ Consider:
 - Speed
 - Direction
 
-Avoid choosing a word only because it is easy to illustrate literally.
+> Avoid choosing a word only because it is easy to illustrate literally. Select a word that allows for creative experimentation, conceptual development, and original typographic solutions. Creativity and originality will be part of the grade.
 
 For each word, identify:
 
@@ -365,6 +355,7 @@ For each word, identify:
 2. The visual characteristics associated with that meaning.
 3. One **Wong principle**.
 4. One **Gestalt principle**.
+5. The **colour approach**, including the intended palette, contrast, mood, and relationship between positive and negative space.
 
 Use a different Wong and Gestalt principle for each word.
 
@@ -381,80 +372,11 @@ The sketches may be created by hand or digitally.
 
 They do not need to be polished, but the typographic structure and written annotations must be clear.
 
-<fieldset class="equipment-checklist">
-  <legend>Planning requirements</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the word and its meaning.</strong>
-      Write a short statement explaining the idea you want the typographic treatment to communicate.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the Wong principle.</strong>
-      Label the selected principle and indicate where it will appear in the composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the Gestalt principle.</strong>
-      Label the selected principle and indicate how it will organize or affect the reading of the word.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Plan the positive version.</strong>
-      Show how the letterforms will operate as the primary visible figure.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Plan the negative version.</strong>
-      Show how negative space, surrounding forms, cut-outs, or figure–ground reversal will construct or reveal the word.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Show the planned letterform modifications.</strong>
-      Identify changes in scale, weight, spacing, direction, proportion, fragmentation, cropping, repetition, or other transformations.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Plan the complete composition.</strong>
-      Show placement, margins, hierarchy, visual direction, and the relationship between the word and the poster format.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare all four sketches for submission.</strong>
-      Photograph, scan, or export the sketches clearly and combine them into one four-page PDF.
-    </span>
-  </label>
-
-</fieldset>
-
 Save the completed sketch document as:
 
 - **Format:** PDF
-- **Pages:** 4
-- **Order:** Word 1 Positive, Word 1 Negative, Word 2 Positive, Word 2 Negative
+- **Pages:** 2
+- **Order:** (1st Page) Word 1 Positive, Word 1 Negative, (2nd Page) Word 2 Positive, Word 2 Negative
 - **Filename:** `Lastname-Firstname-CompTech4-Sketches.pdf`
 
 Ask the instructor for feedback before beginning the final digital compositions.
