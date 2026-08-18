@@ -15,23 +15,17 @@ The activity builds on **Bruno Munari’s** ideas in *The Shape of Words* and co
 
 Each word pair must combine:
 
-- **One selected word**
-- **One positive typographic composition**
-- **One negative typographic composition**
-- **One Wong principle** from previous activities
-- **One Gestalt principle** from previous activities
-- **One clear concept** that guides the manipulation of the letterforms
-
-The same Wong and Gestalt principles must guide both the positive and negative versions of the word.
+- **One selected word** + **One clear concept** that guides the manipulation of the letterforms
+- **One Wong principle:** repetition, similarity, gradation, anomaly, concentration, and contrast
+- **One Gestalt principle:** closure, common region, continuity, proximity, multistability, and similarity
+- **One colour approach** that supports the concept, mood, hierarchy, and positive–negative relationship
 
 ## Activity overview
 
 - **Learning Test:** One tutorial recreation
-- **Words:** Two
 - **Final compositions:** Four
+- **Words:** Two
 - **Versions per word:** One positive + one negative
-- **Wong principles:** Select one different principle for each word
-- **Gestalt principles:** Select one different principle for each word
 - **Software:** Adobe Illustrator
 - **Optional image processing:** Adobe Photoshop
 
@@ -79,6 +73,8 @@ Consider how you can manipulate:
 ---
 
 ## Positive and Negative Form
+
+![Maurits Cornelis Escher (1898-1972) examples](imgs/escher.png)
 
 For this activity, each word must be developed into both a **positive** and a **negative** typographic composition.
 
@@ -222,9 +218,9 @@ You may use principles explored in previous activities, including:
 
 ## Colour Theory
 
-![Colour Theory](imgs/colour-theory.png)
-
 Colour theory examines how colours relate to one another and how they influence visual perception. Consider how **hue, saturation, value, contrast, harmony, and proportion** can support hierarchy, emphasis, mood, and meaning within the composition.
+
+![Colour Theory](imgs/colour-theory.png)
 
   </div>
 </details>
