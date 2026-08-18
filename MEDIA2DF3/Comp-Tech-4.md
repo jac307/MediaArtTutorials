@@ -394,137 +394,128 @@ SECTION 4
     </span>
   </summary>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
+
+### Document setup
   
-  Create **two Illustrator files**, one for each word.
+Create **two Illustrator files**, one for each word.
       
-  Each Illustrator file must contain **two artboards**:
+Each Illustrator file must contain **two artboards**:
 
-  - Artboard 1 — Positive version
-  - Artboard 2 — Negative version
+- Artboard 1 — Positive version
+- Artboard 2 — Negative version
 
-  ![Poster document setup reference](imgs/poster.png)
+![Poster document setup reference](imgs/poster.png)
 
-  > Alternatively, **you may create the document in a horizontal / landscape format** instead of vertical, depending on the structure and direction established in your sketches.
+> Alternatively, **you may create the document in a horizontal / landscape format** instead of vertical, depending on the structure and direction established in your sketches.
 
-   ### Document setup
+| Setting | Requirement |
+|---|---|
+| Units | Inches |
+| Artboard size | 11 × 17 in (vertical) or 17 × 11 in (horizontal) |
+| Artboards | 2 per word |
+| Bleed | 0.3 in on all sides |
+| Colour mode | RGB |
+| Raster effects | High, 300 PPI |
+| Guides | Inner rectangular border 0.5 in from the edges |
+| Layers | Guides, Composition, Background |
 
-  | Setting | Requirement |
-  |---|---|
-  | Units | Inches |
-  | Artboard size | 11 × 17 in (vertical) or 17 × 11 in (horizontal) |
-  | Artboards | 2 per word |
-  | Bleed | 0.3 in on all sides |
-  | Colour mode | RGB |
-  | Raster effects | High, 300 PPI |
-  | Guides | Inner rectangular border 0.5 in from the edges |
-  | Layers | Guides, Composition, Background |
+**File Names**
+- `Lastname-Firstname-CompTech4-1.ai`
+- `Lastname-Firstname-CompTech4-2.ai`
 
-  ### Working filenames
+### Required layers
 
-  - `Lastname-Firstname-CompTech4-1.ai`
-  - `Lastname-Firstname-CompTech4-2.ai`
+**1. Guides**
 
-  ### Required layers
+- 0.5 in inner margin guides
+- Any additional alignment or construction guides
 
-  **1. Guides**
+> All construction grids or lines that are not intentionally part of the design must be converted into guides.
 
-  Include:
+**2. Composition**
 
-  - 0.5 in inner margin guides
-  - Any additional alignment or construction guides
+- Letterforms
+- Vector shapes
+- Typographic fragments
+- Graphic elements that form part of the composition
 
-  All construction grids or lines that are not intentionally part of the design must be converted into guides.
+**3. Background**
 
-  **2. Composition**
+- Background colour
+- Background shapes
+- Background images or textures, when applicable
 
-  Include:
+> If raster images or textures are used, **embed them in Illustrator before exporting**.
 
-  - Letterforms
-  - Vector shapes
-  - Typographic fragments
-  - Graphic elements that form part of the composition
+### Manually modify the letterforms
 
-  **3. Background**
+Begin with a typeface appropriate to your concept, then transform the typography into original visual material.
 
-  Include:
+The final design should not depend only on an unchanged font. Use Illustrator tools to **manipulate**:
 
-  - Background colour
-  - Background shapes
-  - Background images or textures, when applicable
+|               |                  |                    |
+| ------------- | ---------------- | ------------------ |
+| Anchor points | Paths            | Individual letters |
+| Counters      | Strokes          | Shapes             |
+| Scale         | Width and height | Rotation           |
+| Position      | Spacing          | Cropping           |
+| Fragmentation | Repetition       |                    |
 
-  > If raster images or textures are used, **embed them in Illustrator before exporting**.
+> The modifications should reinforce the **meaning of the word**.
 
-  ## Manually modify the letterforms
+#### Word 1
 
-  Begin with a typeface appropriate to your concept, then transform the typography into original visual material.
+Create one **positive** and one **negative** version using the same:
 
-  The final design should not depend only on an unchanged font.
+- **Wong principle**
+- **Gestalt principle**
+- **Colour approach**
+- Concept and typographic system
 
-  Use Illustrator tools to **manipulate**:
+**Positive version**
 
-  |               |                  |                    |
-  | ------------- | ---------------- | ------------------ |
-  | Anchor points | Paths            | Individual letters |
-  | Counters      | Strokes          | Shapes             |
-  | Scale         | Width and height | Rotation           |
-  | Position      | Spacing          | Cropping           |
-  | Fragmentation | Repetition       |                    |
+Use the word primarily as the visible **figure**. Apply manual letterform manipulation, intentional hierarchy, composition, and colour to support the word’s meaning and visual emphasis.
 
-  > The modifications should reinforce the **meaning of the word**.
+**Negative version**
 
-  ## Word 1
+Redesign the same word through **negative space** and figure–ground relationships using cut-outs, counters, surrounding shapes, incomplete forms, or removed areas.
 
-  Create one **positive** and one **negative** version using the same:
+> The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
 
-  - **Wong principle**
-  - **Gestalt principle**
-  - **Colour approach**
-  - Concept and typographic system
+#### Word 2
 
-  ### Positive version
+Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
 
-  Use the word primarily as the visible **figure**. Apply manual letterform manipulation, intentional hierarchy, composition, and colour to support the word’s meaning and visual emphasis.
+The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
 
-  ### Negative version
+### Across all four compositions
 
-  Redesign the same word through **negative space** and figure–ground relationships using cut-outs, counters, surrounding shapes, incomplete forms, or removed areas.
+Consider:
 
-  > The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
+- **Meaning:** Does the visual treatment reinforce the word?
+- **Creativity:** Does the composition present an original and imaginative typographic solution rather than a literal or predictable treatment?
+- **Legibility vs. expression:** Can the viewer still recognize the word?
+- **Wong principle:** Is the selected principle clearly visible?
+- **Gestalt principle:** Does the principle influence how the word is perceived?
+- **Colour:** Does the colour approach support meaning, mood, hierarchy, emphasis, and the positive–negative relationship?
+- **Visual direction:** Does the composition guide the viewer's eye?
+- **Consistency:** Do the positive and negative versions clearly belong to the same word system?
 
-  ## Word 2
+### Export the two word pairs
 
-  Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
+Export **one PDF for each word**.
 
-  The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
+Save as:
 
-  ## Across all four compositions
+- `Lastname-Firstname-CompTech4-1.pdf`
+- `Lastname-Firstname-CompTech4-2.pdf`
 
-  Consider:
+When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**.
 
-  - **Meaning:** Does the visual treatment reinforce the word?
-  - **Creativity:** Does the composition present an original and imaginative typographic solution rather than a literal or predictable treatment?
-  - **Legibility vs. expression:** Can the viewer still recognize the word?
-  - **Wong principle:** Is the selected principle clearly visible?
-  - **Gestalt principle:** Does the principle influence how the word is perceived?
-  - **Colour:** Does the colour approach support meaning, mood, hierarchy, emphasis, and the positive–negative relationship?
-  - **Visual direction:** Does the composition guide the viewer's eye?
-  - **Consistency:** Do the positive and negative versions clearly belong to the same word system?
+### Final file check
 
-  ## Export the two word pairs
-
-  Export **one PDF for each word**.
-
-  Save as:
-
-  - `Lastname-Firstname-CompTech4-1.pdf`
-  - `Lastname-Firstname-CompTech4-2.pdf`
-
-  When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**.
-
-  ### Final file check
-
-  Open each submitted PDF twice:
+Open each submitted PDF twice:
 
 <fieldset class="equipment-checklist">
   <legend>Final PDF checklist</legend>
