@@ -409,128 +409,122 @@ SECTION 4
 
    ### Document setup
 
-| Setting | Requirement |
-|---|---|
-| Units | Inches |
-| Artboard size | 11 × 17 in (vertical) or 17 × 11 in (horizontal) |
-| Artboards | 2 per word |
-| Bleed | 0.3 in on all sides |
-| Colour mode | RGB |
-| Raster effects | High, 300 PPI |
-| Guides | Inner rectangular border 0.5 in from the edges |
-| Layers | Guides, Composition, Background |
+  | Setting | Requirement |
+  |---|---|
+  | Units | Inches |
+  | Artboard size | 11 × 17 in (vertical) or 17 × 11 in (horizontal) |
+  | Artboards | 2 per word |
+  | Bleed | 0.3 in on all sides |
+  | Colour mode | RGB |
+  | Raster effects | High, 300 PPI |
+  | Guides | Inner rectangular border 0.5 in from the edges |
+  | Layers | Guides, Composition, Background |
 
-      ### Working filenames
+  ### Working filenames
 
-      - `Lastname-Firstname-CompTech4-1.ai`
-      - `Lastname-Firstname-CompTech4-2.ai`
+  - `Lastname-Firstname-CompTech4-1.ai`
+  - `Lastname-Firstname-CompTech4-2.ai`
 
-      ### Required layers
+  ### Required layers
 
-      **1. Guides**
+  **1. Guides**
 
-      Include:
+  Include:
 
-      - 0.5 in inner margin guides
-      - Any additional alignment or construction guides
+  - 0.5 in inner margin guides
+  - Any additional alignment or construction guides
 
-      All construction grids or lines that are not intentionally part of the design must be converted into guides.
+  All construction grids or lines that are not intentionally part of the design must be converted into guides.
 
-      **2. Composition**
+  **2. Composition**
 
-      Include:
+  Include:
 
-      - Letterforms
-      - Vector shapes
-      - Typographic fragments
-      - Graphic elements that form part of the composition
+  - Letterforms
+  - Vector shapes
+  - Typographic fragments
+  - Graphic elements that form part of the composition
 
-      **3. Background**
+  **3. Background**
 
-Include:
+  Include:
 
-- Background colour
-- Background shapes
-- Background images or textures, when applicable
+  - Background colour
+  - Background shapes
+  - Background images or textures, when applicable
 
-> If raster images or textures are used, **embed them in Illustrator before exporting**.
+  > If raster images or textures are used, **embed them in Illustrator before exporting**.
 
-## Manually modify the letterforms
+  ## Manually modify the letterforms
 
-Begin with a typeface appropriate to your concept, then transform the typography into original visual material.
+  Begin with a typeface appropriate to your concept, then transform the typography into original visual material.
 
-The final design should not depend only on an unchanged font.
+  The final design should not depend only on an unchanged font.
 
-Use Illustrator tools to **manipulate**:
+  Use Illustrator tools to **manipulate**:
 
-|               |                  |                    |
-| ------------- | ---------------- | ------------------ |
-| Anchor points | Paths            | Individual letters |
-| Counters      | Strokes          | Shapes             |
-| Scale         | Width and height | Rotation           |
-| Position      | Spacing          | Cropping           |
-| Fragmentation | Repetition       |                    |
+  |               |                  |                    |
+  | ------------- | ---------------- | ------------------ |
+  | Anchor points | Paths            | Individual letters |
+  | Counters      | Strokes          | Shapes             |
+  | Scale         | Width and height | Rotation           |
+  | Position      | Spacing          | Cropping           |
+  | Fragmentation | Repetition       |                    |
 
+  > The modifications should reinforce the **meaning of the word**.
 
-> The modifications should reinforce the **meaning of the word**.
+  ## Word 1
 
-## Word 1
+  Create one **positive** and one **negative** version using the same:
 
-Create one **positive** and one **negative** version using the same:
+  - **Wong principle**
+  - **Gestalt principle**
+  - **Colour approach**
+  - Concept and typographic system
 
-- **Wong principle**
-- **Gestalt principle**
-- **Colour approach**
-- Concept and typographic system
+  ### Positive version
 
-### Positive version
+  Use the word primarily as the visible **figure**. Apply manual letterform manipulation, intentional hierarchy, composition, and colour to support the word’s meaning and visual emphasis.
 
-Use the word primarily as the visible **figure**. Apply manual letterform manipulation, intentional hierarchy, composition, and colour to support the word’s meaning and visual emphasis.
+  ### Negative version
 
-### Negative version
+  Redesign the same word through **negative space** and figure–ground relationships using cut-outs, counters, surrounding shapes, incomplete forms, or removed areas.
 
-Redesign the same word through **negative space** and figure–ground relationships using cut-outs, counters, surrounding shapes, incomplete forms, or removed areas.
+  > The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
 
-> The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
+  ## Word 2
 
-## Word 2
+  Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
 
-Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
+  The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
 
-The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
+  ## Across all four compositions
 
-## Across all four compositions
+  Consider:
 
-Consider:
+  - **Meaning:** Does the visual treatment reinforce the word?
+  - **Creativity:** Does the composition present an original and imaginative typographic solution rather than a literal or predictable treatment?
+  - **Legibility vs. expression:** Can the viewer still recognize the word?
+  - **Wong principle:** Is the selected principle clearly visible?
+  - **Gestalt principle:** Does the principle influence how the word is perceived?
+  - **Colour:** Does the colour approach support meaning, mood, hierarchy, emphasis, and the positive–negative relationship?
+  - **Visual direction:** Does the composition guide the viewer's eye?
+  - **Consistency:** Do the positive and negative versions clearly belong to the same word system?
 
-- **Meaning:** Does the visual treatment reinforce the word?
-- **Creativity:** Does the composition present an original and imaginative typographic solution rather than a literal or predictable treatment?
-- **Legibility vs. expression:** Can the viewer still recognize the word?
-- **Wong principle:** Is the selected principle clearly visible?
-- **Gestalt principle:** Does the principle influence how the word is perceived?
-- **Colour:** Does the colour approach support meaning, mood, hierarchy, emphasis, and the positive–negative relationship?
-- **Visual direction:** Does the composition guide the viewer's eye?
-- **Consistency:** Do the positive and negative versions clearly belong to the same word system?
+  ## Export the two word pairs
 
-## Export the two word pairs
+  Export **one PDF for each word**.
 
-Export **one PDF for each word**.
+  Save as:
 
-Each PDF must contain **two pages** in this order:
+  - `Lastname-Firstname-CompTech4-1.pdf`
+  - `Lastname-Firstname-CompTech4-2.pdf`
 
-1. Positive version
-2. Negative version
+  When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**.
 
-Save as:
+  ### Final file check
 
-- `Lastname-Firstname-CompTech4-1.pdf`
-- `Lastname-Firstname-CompTech4-2.pdf`
-
-When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**.
-
-### Final file check
-
-Open each submitted PDF twice:
+  Open each submitted PDF twice:
 
 <fieldset class="equipment-checklist">
   <legend>Final PDF checklist</legend>
