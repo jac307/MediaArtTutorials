@@ -395,35 +395,19 @@ SECTION 4
   </summary>
 
   <div class="section-content" markdown="1">
+  
+  Create **two Illustrator files**, one for each word.
+      
+  Each Illustrator file must contain **two artboards**:
 
-    <!-- 
-    /////////////////
-    SUB-SECTION A
-    /////////////////
-    -->
+  - Artboard 1 — Positive version
+  - Artboard 2 — Negative version
 
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Set up the Illustrator files</span>
-        <span class="section-description">
-          Create one Illustrator document with two artboards for each word pair.
-        </span>
-      </summary>
+  ![Poster document setup reference](imgs/poster.png)
 
-      <div class="section-content" markdown="1">
+  > Alternatively, **you may create the document in a horizontal / landscape format** instead of vertical, depending on the structure and direction established in your sketches.
 
-Create **two Illustrator files**, one for each word.
-
-Each Illustrator file must contain **two artboards**:
-
-- Artboard 1 — Positive version
-- Artboard 2 — Negative version
-
-![Poster document setup reference](imgs/poster.png)
-
-> Alternatively, **you may create the document in a horizontal / landscape format** instead of vertical, depending on the structure and direction established in your sketches.
-
-### Document setup
+   ### Document setup
 
 | Setting | Requirement |
 |---|---|
@@ -436,32 +420,32 @@ Each Illustrator file must contain **two artboards**:
 | Guides | Inner rectangular border 0.5 in from the edges |
 | Layers | Guides, Composition, Background |
 
-### Working filenames
+      ### Working filenames
 
-- `Lastname-Firstname-CompTech4-1.ai`
-- `Lastname-Firstname-CompTech4-2.ai`
+      - `Lastname-Firstname-CompTech4-1.ai`
+      - `Lastname-Firstname-CompTech4-2.ai`
 
-### Required layers
+      ### Required layers
 
-**1. Guides**
+      **1. Guides**
 
-Include:
+      Include:
 
-- 0.5 in inner margin guides
-- Any additional alignment or construction guides
+      - 0.5 in inner margin guides
+      - Any additional alignment or construction guides
 
-All construction grids or lines that are not intentionally part of the design must be converted into guides.
+      All construction grids or lines that are not intentionally part of the design must be converted into guides.
 
-**2. Composition**
+      **2. Composition**
 
-Include:
+      Include:
 
-- Letterforms
-- Vector shapes
-- Typographic fragments
-- Graphic elements that form part of the composition
+      - Letterforms
+      - Vector shapes
+      - Typographic fragments
+      - Graphic elements that form part of the composition
 
-**3. Background**
+      **3. Background**
 
 Include:
 
@@ -470,25 +454,6 @@ Include:
 - Background images or textures, when applicable
 
 > If raster images or textures are used, **embed them in Illustrator before exporting**.
-
-      </div>
-    </details>
-
-    <!-- 
-    /////////////////
-    SUB-SECTION B
-    /////////////////
-    -->
-
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Build the positive and negative versions</span>
-        <span class="section-description">
-          Manipulate the letterforms manually and develop two related but distinct figure–ground solutions for each word.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
 
 ## Manually modify the letterforms
 
@@ -546,25 +511,6 @@ Consider:
 - **Colour:** Does the colour approach support meaning, mood, hierarchy, emphasis, and the positive–negative relationship?
 - **Visual direction:** Does the composition guide the viewer's eye?
 - **Consistency:** Do the positive and negative versions clearly belong to the same word system?
-
-      </div>
-    </details>
-
-    <!-- 
-    /////////////////
-    SUB-SECTION C
-    /////////////////
-    -->
-
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Review and export the final compositions</span>
-        <span class="section-description">
-        Export the two final PDFs and review the compositions before submitting.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
 
 ## Export the two word pairs
 
@@ -662,9 +608,6 @@ Open each submitted PDF twice:
   </label>
 
 </fieldset>
-
-      </div>
-    </details>
 
   </div>
 </details>
