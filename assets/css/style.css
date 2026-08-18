@@ -1544,3 +1544,20 @@ main:focus-visible {
   grid-template-columns: 1fr;
   gap: 1.5rem;
 }
+
+.single-column-principles .gestalt-principle-card {
+  width: 100%;
+  margin: 0;
+}
+
+.single-column-principles .gestalt-principle-card img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2048 / 265;
+  object-fit: contain;
+  display: block;
+}
+
+.single-column-principles .gestalt-principle-card figcaption {
+  padding-top: 0.75rem;
+}

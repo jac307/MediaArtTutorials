@@ -53,7 +53,7 @@ SECTION 1
     </span>
   </summary>
 
-  <div class="section-content">
+  <div class="section-content" markdown="1">
 
 ## Bruno Munari — The Shape of Words
 
@@ -99,14 +99,12 @@ Select **one Wong principle for each word**.
 
 You may select from principles explored in previous Composition Techniques activities:
 
-## Wong principles for typography
-
 <div class="single-column-principles">
 
   <!-- Repetition -->
   <figure class="gestalt-principle-card">
     <img
-      src="imgs/principle-repetitio-2.png"
+      src="imgs/principle-repetition-2.png"
       alt="Example showing repeated typographic forms"
       loading="lazy"
     >
@@ -227,8 +225,6 @@ You may use principles explored in previous activities, including:
 ![Colour Theory](imgs/colour-theory.png)
 
 Colour theory examines how colours relate to one another and how they influence visual perception. Consider how **hue, saturation, value, contrast, harmony, and proportion** can support hierarchy, emphasis, mood, and meaning within the composition.
-
-
 
   </div>
 </details>
