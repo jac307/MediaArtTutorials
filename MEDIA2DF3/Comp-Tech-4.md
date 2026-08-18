@@ -32,7 +32,6 @@ The same Wong and Gestalt principles must guide both the positive and negative v
 - **Versions per word:** One positive + one negative
 - **Wong principles:** Select one different principle for each word
 - **Gestalt principles:** Select one different principle for each word
-- **Format:** Poster
 - **Software:** Adobe Illustrator
 - **Optional image processing:** Adobe Photoshop
 
@@ -56,27 +55,9 @@ SECTION 1
 
   <div class="section-content">
 
-    <!-- 
-    /////////////////
-    SUB-SECTION A
-    /////////////////
-    -->
-
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Expressive Typography and The Shape of Words</span>
-        <span class="section-description">
-          Review how the visual form of letters and words can communicate meaning.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
-
 ## Bruno Munari — The Shape of Words
 
 Bruno Munari explored how the **visual form of language** can communicate beyond the literal meaning of a word.
-
-In expressive typography, letters are not treated only as neutral containers for language. Their shape, position, scale, weight, spacing, direction, and transformation can contribute to meaning.
 
 ![Expressive typography examples](imgs/24.jpeg)
 
@@ -93,28 +74,9 @@ Consider how you can manipulate:
 - **Negative space:** Use empty areas as an active part of the word.
 - **Composition:** Use placement and hierarchy to reinforce the meaning of the word.
 
-For example, a word associated with falling might descend across the composition, while a word associated with compression might use tightly packed or physically compressed letterforms.
-
 > The visual treatment should communicate the meaning of the word. Do not apply effects only for decoration.
 
-      </div>
-    </details>
-
-    <!-- 
-    /////////////////
-    SUB-SECTION B
-    /////////////////
-    -->
-
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Positive and Negative Typographic Form</span>
-        <span class="section-description">
-          Review how figure and ground can be redesigned to create two different interpretations of the same word.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
+---
 
 ## Positive and Negative Form
 
@@ -125,58 +87,11 @@ For this activity, each word must be developed into both a **positive** and a **
 | **Positive** | The letterforms operate primarily as the visible **figure** against the surrounding space. |
 | **Negative** | The word is constructed, revealed, or emphasized through **negative space**, cut-outs, surrounding forms, or reversed figure–ground relationships. |
 
-### Positive version
-
-In the positive version, the letters themselves should function as the primary visible forms.
-
-Consider:
-
-- Shape
-- Scale
-- Weight
-- Repetition
-- Direction
-- Spacing
-- Distortion
-- Cropping
-- Relationships between letters
-
-### Negative version
-
-In the negative version, reconsider how the word can be produced through the space **around, between, or inside** the letterforms.
-
-Consider:
-
-- Removing areas from shapes
-- Revealing letters through cut-outs
-- Using surrounding shapes to define the word
-- Activating counters and internal spaces
-- Allowing background areas to become letterforms
-- Reversing figure–ground relationships
-- Using closure to make incomplete letters readable
-
 > **Do not simply invert the colours of the positive composition.** The negative version must be redesigned so that the relationship between the word, surrounding forms, and empty space changes.
 
 The positive and negative versions should clearly belong to the **same conceptual system**, but each must solve the figure–ground relationship differently.
 
-      </div>
-    </details>
-
-    <!-- 
-    /////////////////
-    SUB-SECTION C
-    /////////////////
-    -->
-
-    <details class="tutorial-section">
-      <summary>
-        <span class="section-title">Review previous composition principles</span>
-        <span class="section-description">
-          Select one Wong principle and one Gestalt principle to guide each word pair.
-        </span>
-      </summary>
-
-      <div class="section-content" markdown="1">
+---
 
 ## Wong principles
 
@@ -195,6 +110,8 @@ You may select from principles explored in previous Composition Techniques activ
 | **Contrast** | Use strong differences in size, weight, direction, density, shape, or value. |
 | **Space** | Use positive and negative areas to establish depth, tension, or spatial relationships. |
 
+---
+
 ## Gestalt principles
 
 Select **one Gestalt principle for each word**.
@@ -211,22 +128,6 @@ You may use principles explored in previous activities, including:
 | **Multistability** | Create more than one possible visual interpretation. |
 | **Figure/Ground** | Control whether forms are read as foreground or background. |
 | **Similarity** | Group elements through shared visual characteristics. |
-
-### Required principle combinations
-
-Assign one Wong and one Gestalt principle to each word.
-
-| Word pair | Wong principle | Gestalt principle |
-|---|---|---|
-| **Word 1 — Positive + Negative** | Your selection | Your selection |
-| **Word 2 — Positive + Negative** | Different selection | Different selection |
-
-Do **not repeat the same Wong or Gestalt principle** for both words.
-
-The selected principles must be clearly visible in **both the positive and negative versions** of the corresponding word.
-
-      </div>
-    </details>
 
   </div>
 </details>
