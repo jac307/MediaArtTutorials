@@ -390,7 +390,7 @@ SECTION 4
   <summary>
     <span class="section-title">4. Create the four typographic compositions</span>
     <span class="section-description">
-      Create one positive and one negative composition for each word while applying the assigned Wong and Gestalt principles.
+      Create one positive and one negative composition for each word while applying the assigned Wong principle, Gestalt principle, and colour approach.
     </span>
   </summary>
 
@@ -406,7 +406,7 @@ SECTION 4
       <summary>
         <span class="section-title">Set up the Illustrator files</span>
         <span class="section-description">
-          Create one two-artboard Illustrator document for each word pair.
+          Create one Illustrator document with two artboards for each word pair.
         </span>
       </summary>
 
@@ -421,13 +421,14 @@ Each Illustrator file must contain **two artboards**:
 
 ![Poster document setup reference](imgs/poster.png)
 
+> Alternatively, **you may create the document in a horizontal / landscape format** instead of vertical, depending on the structure and direction established in your sketches.
+
 ### Document setup
 
 | Setting | Requirement |
 |---|---|
 | Units | Inches |
-| Artboard size | 11 × 17 in |
-| Orientation | Vertical |
+| Artboard size | 11 × 17 in (vertical) or 17 x 11 in (horizontal) |
 | Artboards | 2 per word |
 | Bleed | 0.3 in on all sides |
 | Colour mode | RGB |
@@ -439,8 +440,6 @@ Each Illustrator file must contain **two artboards**:
 
 - `Lastname-Firstname-CompTech4-1.ai`
 - `Lastname-Firstname-CompTech4-2.ai`
-
-Use the same document settings for both files.
 
 ### Required layers
 
@@ -497,84 +496,55 @@ Begin with a typeface appropriate to your concept, then transform the typography
 
 The final design should not depend only on an unchanged font.
 
-Use Illustrator tools to manipulate:
+Use Illustrator tools to **manipulate**:
 
-- Anchor points
-- Paths
-- Individual letters
-- Counters
-- Strokes
-- Shapes
-- Scale
-- Width and height
-- Rotation
-- Position
-- Spacing
-- Cropping
-- Fragmentation
-- Repetition
+|               |                  |                    |
+| ------------- | ---------------- | ------------------ |
+| Anchor points | Paths            | Individual letters |
+| Counters      | Strokes          | Shapes             |
+| Scale         | Width and height | Rotation           |
+| Position      | Spacing          | Cropping           |
+| Fragmentation | Repetition       |                    |
 
-The modifications should reinforce the **meaning of the word**.
+
+> The modifications should reinforce the **meaning of the word**.
 
 ## Word 1
 
-Create:
+Create one **positive** and one **negative** version using the same:
+
+- **Wong principle**
+- **Gestalt principle**
+- **Colour approach**
+- Concept and typographic system
 
 ### Positive version
 
-The word should operate primarily as the visible figure.
-
-Apply:
-
-- The selected **Wong principle**
-- The selected **Gestalt principle**
-- Manual letterform manipulation
-- Intentional hierarchy and composition
-- Active use of the poster format
+Use the word primarily as the visible **figure**. Apply manual letterform manipulation, intentional hierarchy, composition, and colour to support the word’s meaning and visual emphasis.
 
 ### Negative version
 
-Redesign the same word using negative space as an active component.
+Redesign the same word through **negative space** and figure–ground relationships using cut-outs, counters, surrounding shapes, incomplete forms, or removed areas.
 
-Apply the **same Wong and Gestalt principles** used in the positive version.
-
-The negative version may use:
-
-- Cut-outs
-- Reversed figure–ground
-- Background shapes
-- Counters
-- Incomplete forms
-- Surrounding shapes
-- Interlocking positive and negative areas
-- Areas removed from letterforms
-
-> The negative version must be **redesigned**, not produced by simply reversing black and white.
+> The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
 
 ## Word 2
 
-Repeat the process using the second word and its **different Wong and Gestalt principle combination**.
+Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
 
-Create:
-
-- One positive version
-- One negative version
-
-The two versions should belong to the same conceptual system while exploring different figure–ground relationships.
+The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
 
 ## Across all four compositions
 
 Consider:
 
 - **Meaning:** Does the visual treatment reinforce the word?
+- **Creativity:** Does the composition present an original and imaginative typographic solution rather than a literal or predictable treatment?
 - **Legibility vs. expression:** Can the viewer still recognize the word?
-- **Figure and ground:** Is the positive/negative relationship intentional?
 - **Wong principle:** Is the selected principle clearly visible?
 - **Gestalt principle:** Does the principle influence how the word is perceived?
+- **Colour:** Does the colour approach support meaning, mood, hierarchy, emphasis, and the positive–negative relationship?
 - **Visual direction:** Does the composition guide the viewer's eye?
-- **Negative space:** Is empty space actively designed?
-- **Hierarchy:** Is there a clear visual emphasis?
-- **Craft:** Are vector paths, edges, spacing, and alignments carefully resolved?
 - **Consistency:** Do the positive and negative versions clearly belong to the same word system?
 
       </div>
@@ -590,104 +560,11 @@ Consider:
       <summary>
         <span class="section-title">Review and export the final compositions</span>
         <span class="section-description">
-          Check the conceptual, visual, and technical requirements before exporting the two final PDFs.
+          Exporting the two final PDFs and review composiitons before submitting. 
         </span>
       </summary>
 
       <div class="section-content" markdown="1">
-
-<fieldset class="equipment-checklist">
-  <legend>Final composition check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Four final compositions are complete.</strong>
-      There is one positive and one negative version for each of the two selected words.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The meaning of each word is visually expressed.</strong>
-      The typographic treatment communicates more than the literal spelling of the word.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The letterforms are manually modified.</strong>
-      The final compositions do not rely only on unchanged type.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The positive versions use type as figure.</strong>
-      The letterforms operate primarily as the visible forms in the composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The negative versions redesign figure and ground.</strong>
-      Negative space, cut-outs, surrounding forms, or reversed relationships construct or reveal the word.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The negative versions are not simple colour inversions.</strong>
-      Each negative composition presents a different figure–ground solution.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Wong principles are visible.</strong>
-      Each word pair clearly applies its selected principle.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Gestalt principles are visible.</strong>
-      Each word pair clearly applies its selected perceptual principle.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The word pairs are visually consistent.</strong>
-      The positive and negative versions share a clear conceptual and typographic system.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The document setup is correct.</strong>
-      Artboard size, bleed, colour mode, raster effects, margins, layers, and filenames follow the instructions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All raster material is embedded.</strong>
-      No linked images or textures are missing from the Illustrator files.
-    </span>
-  </label>
-
-</fieldset>
 
 ## Export the two word pairs
 
@@ -715,6 +592,30 @@ Open each submitted PDF twice:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>Check the concept and meaning.</strong>
+      Confirm that the typographic treatment clearly supports the meaning of the selected word and demonstrates an original visual approach.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the positive and negative versions.</strong>
+      Confirm that both versions belong to the same conceptual system but use clearly different figure–ground solutions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check the design principles.</strong>
+      Confirm that the selected Wong principle, Gestalt principle, colour approach, and manual letterform manipulation are clearly visible in both versions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>Check the PDF in a PDF viewer.</strong>
       Confirm that both pages display correctly and no unintended guides or construction elements appear.
     </span>
@@ -731,24 +632,24 @@ Open each submitted PDF twice:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Check the layers.</strong>
-      Confirm that the Guides, Composition, and Background layers remain separate and contain the correct material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the guides and margins.</strong>
-      Confirm that the required margin guides remain available in Illustrator.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Check editability.</strong>
       Confirm that the vector objects remain editable and that the PDF has not been flattened.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+  <input type="checkbox">
+  <span>
+    <strong>Check the layers, guides, and margins.</strong>
+    Confirm that the Guides, Composition, and Background layers remain separate and contain the correct material, and that the required margin guides remain available in Illustrator.
+  </span>
+</label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Check embedded images.</strong>
+      Confirm that any raster images or textures used in the compositions are embedded and do not rely on linked files.
     </span>
   </label>
 
@@ -768,6 +669,7 @@ Open each submitted PDF twice:
   </div>
 </details>
 
+
 ---
 
 ## Submission files
@@ -778,17 +680,6 @@ Open each submitted PDF twice:
 | Four planning sketches | `Lastname-Firstname-CompTech4-Sketches.pdf` |
 | Word 1 — Positive + Negative | `Lastname-Firstname-CompTech4-1.pdf` |
 | Word 2 — Positive + Negative | `Lastname-Firstname-CompTech4-2.pdf` |
-
-### Submission structure
-
-The final submission contains **four files**:
-
-1. **Learning Test PDF** — completed tutorial recreation
-2. **Sketches PDF** — four pages
-3. **Word 1 PDF** — two pages: Positive + Negative
-4. **Word 2 PDF** — two pages: Positive + Negative
-
-Confirm that all files open correctly before submitting.
 
 Incorrect filenames, missing files, unchanged letterforms, simple colour inversion instead of a redesigned negative composition, missing principles, unembedded images, flattened PDFs, or incomplete document setup will affect the grade.
 
