@@ -39,8 +39,8 @@ Final compositions will demonstrate the application of Wong’s principles of fo
 
 - Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** and the **in-person training** prior to any Project-1 session.
 - A **laser-cutting session with the professor must be booked** in advance for production.  
-  The instructor will confirm group printing schedules with the class. Check Avenue for more information.  
-- **Several required materials are needed for this project**. Review the Required Materials for Project 1 section below for the complete list, group responsibilities, estimated costs, and purchasing options.
+  The instructor will confirm group printing schedules with the class. **Check Avenue for more information**.  
+- **Several required materials are needed for this project**. Review the *Required Materials for Project 1* section below for the complete list, group responsibilities, estimated costs, and purchasing options.
 - All plates must be completed in Inkscape, the software required by the Makerspace for lasser-printing.
 
 > This is a collaborative project. Design work, cutting, and assembly must be shared equally among all group members. Participation, time management, and group communication will be factored into the evaluation.
@@ -63,59 +63,55 @@ REQUIRED MATERIALS
 
   <div class="section-content" markdown="1">
 
-  ## Required Materials for Project 1
+## Materials charged through McMaster
 
-  ### Materials charged through McMaster
-
-  Estimated cost per student: **$10 CAD — charged through McMaster accounts**. This includes:
+Estimated cost per student: **$10 CAD — charged through McMaster accounts**. This includes:
   
-  - Fine-grit sandpaper
-  - Two Birchwood sheets (0.3 in thick, 24 × 12 in) per group
-  - High-quality paper and printing for Project 2
+- Fine-grit sandpaper
+- Two Birchwood sheets (0.3 in thick, 24 × 12 in) per group
+- High-quality paper and printing for Project 2
 
-  ### Materials purchased by each group
+## Materials purchased by each group
 
-  Estimated shared cost per group of four students: **approximately $40 CAD**. Each group will need:
+Estimated shared cost per group of four students: **approximately $40 CAD**. Each group will need:
 
-  - Bead Landing Jewelry Organizer or equivalent paint-storage container
+- *Bead Landing Jewelry Organizer* or equivalent paint-storage container
   Wood glue
-  - Professional-quality acrylic brushes
-  - Primary-colour acrylic paints
+- **Professional-quality acrylic brushes**
+- **Primary-colour acrylic paints**
   
-  These materials can be purchased at:
+These materials can be purchased at:
 
-  - <a href="https://www.michaels.com/" target="_blank">Michaels</a>, or
-  - <a href="https://g.co/kgs/x8QeG6p" target="_blank">Mixed Media Art Shop</a>, 1058 King St W, Hamilton, ON L8S 1G7
+- <a href="https://www.michaels.com/" target="_blank">Michaels</a>, or
+- <a href="https://g.co/kgs/x8QeG6p" target="_blank">Mixed Media Art Shop</a>, 1058 King St W, Hamilton, ON L8S 1G7
 
-  > **Important:** Each student must purchase a **good-quality brush** for painting. Visible brush marks on birchwood surfaces will result in **grade deductions**.
-
-  Detailed list with recommended purchasing options: 
+Detailed list with recommended purchasing options: 
     
-  #### Individual Materials
+### Individual Materials
 
-  - **Acrylic Brush (Level 1: Academic, Medium–Large size)**
-    - *Option:* <a href="https://www.michaels.com/product/simply-simmons-short-handle-flat-wash-brush-10472892?michaelsStore=5610&inv=2" target="_blank">Simply Simmons Short Handle Flat Wash Brush – **$5**</a>
-    - *Option:* <a href="https://www.michaels.com/product/royal-langnickel-essentials-long-handle-flat-brush-10476226?michaelsStore=5610&inv=5" target="_blank">Royal & Langnickel® Essentials™ Long Handle Flat Brush – **$5**</a>
+- **Acrylic Brush (Level 1: Academic, Medium–Large size)**
+  - *Option:* <a href="https://www.michaels.com/product/simply-simmons-short-handle-flat-wash-brush-10472892?michaelsStore=5610&inv=2" target="_blank">Simply Simmons Short Handle Flat Wash Brush – **$5**</a>
+  - *Option:* <a href="https://www.michaels.com/product/royal-langnickel-essentials-long-handle-flat-brush-10476226?michaelsStore=5610&inv=5" target="_blank">Royal & Langnickel® Essentials™ Long Handle Flat Brush – **$5**</a>
 
-  > Must be **good quality** to avoid streaks and marks on painted wood.
+> **Important:** Each student must purchase a **good-quality brush** for painting. Visible brush marks on birchwood surfaces will result in **grade deductions**.
 
-  - **Cheap Brush** (small size, for glue application)
+- **Cheap Brush** (small size, for glue application)
 
-  #### Group Materials (1 set per group)
+### Group Materials (1 set per group)
 
-  - **Bead Landing Jewelry Organizer** (for storing mixed paints)  
+- **Bead Landing Jewelry Organizer** (for storing mixed paints)  
   Size: 6.2 in × 4.7 in × 2 in, with at least 15 **separate** compartments
-    - *Option:* <a href="https://www.michaels.com/product/30-container-bead-organizer-by-bead-landing-10164848" target="_blank">30 Container Bead Organizer by Bead Landing – **$18**</a>
-    - *Option:* <a href="https://www.amazon.ca/Huaxiangoh-Containers-8-85x5-31x2-16in-Embroidery-Accessories/dp/B08GH8964N/ref=sr_1_10?dib=eyJ2IjoiMSJ9.I3YLW1Fb0_vOKsin33IJCeRn77bC5E07aT5U-P4Hmn21qQK5bZjlaNJ5VxsFbsDHPAIPy2-GUngmVRN8VzVm7GHG4CRCCUnL9j8w0BL53GK9QbJ6r2fb9Og20GK4YefBvxldUddOWNb30HDVBy0FoFmVZU6XERGR814ViD5-1AQxgBNQrs32odbIujZFgi95Gebx-o3rJ2k-tDaUhGHLkiTduc8HZkXOyWcV5SJZfYw5jMzmxD6CaEMwl1Jje0nGHaWyVZb70lYy9wJxpqV6D861vnHq-LsFQrkzAYWgNJE.j0KTphf1aHe7mRoGuJcCflx1M8itYuEK1yBCVFDBmMQ&dib_tag=se&gad_source=1&hvadid=679286654804&hvdev=c&hvexpln=0&hvlocphy=9060779&hvnetw=g&hvocijid=1908508043514503255--&hvqmt=e&hvrand=1908508043514503255&hvtargid=kwd-2257552828487&hydadcr=13567_13405808&keywords=bead%2Blanding%2Bjewelry%2Borganizer&mcid=a6023cbfe3ad3a9fb179bd3fcf439089&qid=1754154074&sr=8-10&th=1" target="_blank">30 Slots Diamond Painting Storage Containers – **$14**</a>
+  - *Option:* <a href="https://www.michaels.com/product/30-container-bead-organizer-by-bead-landing-10164848" target="_blank">30 Container Bead Organizer by Bead Landing – **$18**</a>
+  - *Option:* <a href="https://www.amazon.ca/Huaxiangoh-Containers-8-85x5-31x2-16in-Embroidery-Accessories/dp/B08GH8964N/ref=sr_1_10?dib=eyJ2IjoiMSJ9.I3YLW1Fb0_vOKsin33IJCeRn77bC5E07aT5U-P4Hmn21qQK5bZjlaNJ5VxsFbsDHPAIPy2-GUngmVRN8VzVm7GHG4CRCCUnL9j8w0BL53GK9QbJ6r2fb9Og20GK4YefBvxldUddOWNb30HDVBy0FoFmVZU6XERGR814ViD5-1AQxgBNQrs32odbIujZFgi95Gebx-o3rJ2k-tDaUhGHLkiTduc8HZkXOyWcV5SJZfYw5jMzmxD6CaEMwl1Jje0nGHaWyVZb70lYy9wJxpqV6D861vnHq-LsFQrkzAYWgNJE.j0KTphf1aHe7mRoGuJcCflx1M8itYuEK1yBCVFDBmMQ&dib_tag=se&gad_source=1&hvadid=679286654804&hvdev=c&hvexpln=0&hvlocphy=9060779&hvnetw=g&hvocijid=1908508043514503255--&hvqmt=e&hvrand=1908508043514503255&hvtargid=kwd-2257552828487&hydadcr=13567_13405808&keywords=bead%2Blanding%2Bjewelry%2Borganizer&mcid=a6023cbfe3ad3a9fb179bd3fcf439089&qid=1754154074&sr=8-10&th=1" target="_blank">30 Slots Diamond Painting Storage Containers – **$14**</a>
 
-  - **Wood Glue**  
+- **Wood Glue**  
     *Option:* Gorilla® Wood Glue (118.29 ml) – **$4.99 × 2**
   
-  - **Paint** All groups **must purchase**:
+- **Paint** All groups **must purchase**:
     - **White** and **Black** acrylic paint for base coating and adjusting value and saturation
     - At least **two** of the **primary colours**: Red, Blue, and/or Yellow
 
-   > Select the primary colours based on the hues needed for your group's gradient palette.
+> Select the primary colours based on the hues needed for your group's gradient palette.
 
    <div class="two-column-layout">
 
