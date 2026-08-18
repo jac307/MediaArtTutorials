@@ -394,7 +394,7 @@ SECTION 4
     </span>
   </summary>
 
-  <div class="section-content">
+  <div class="section-content" markdown="1">
 
     <!-- 
     /////////////////
@@ -428,7 +428,7 @@ Each Illustrator file must contain **two artboards**:
 | Setting | Requirement |
 |---|---|
 | Units | Inches |
-| Artboard size | 11 × 17 in (vertical) or 17 x 11 in (horizontal) |
+| Artboard size | 11 × 17 in (vertical) or 17 × 11 in (horizontal) |
 | Artboards | 2 per word |
 | Bleed | 0.3 in on all sides |
 | Colour mode | RGB |
@@ -560,7 +560,7 @@ Consider:
       <summary>
         <span class="section-title">Review and export the final compositions</span>
         <span class="section-description">
-          Exporting the two final PDFs and review composiitons before submitting. 
+        Export the two final PDFs and review the compositions before submitting.
         </span>
       </summary>
 
