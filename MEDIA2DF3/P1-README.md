@@ -1,6 +1,6 @@
 [MEDIAART 2DF3](README.md)
 
-# Project 1 – Vector to Volume / Group Project (4 students)
+# Project 1 – Vector to Volume
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/28.JPG" style="width: 100%; height: auto;">
@@ -17,7 +17,7 @@ For this project, you must complete the **online "Thode Makerspace Training and 
 
 ## Overview
 
-In this project, students will collaborate in small groups (**4 students**) to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
+In this project, students will collaborate in groups (**4 students**) to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
 
 The process includes **hand-sketching**, **digital design using Adobe Illustrator and Inkscape**, and **laser-cutting on birchwood**.  
 
