@@ -209,16 +209,26 @@ Select **one Gestalt principle for each word**.
 
 You may use principles explored in previous activities, including:
 
+![Gestalt Principles](imgs/gestalt-principles.png)
+
 | Principle | Consider in typography |
 |---|---|
-| **Emergence** | Allow a larger word or form to emerge from smaller elements. |
 | **Closure** | Remove parts of letters while retaining enough information for the viewer to complete them. |
 | **Common Region** | Group typographic elements through enclosed or shared areas. |
 | **Continuity** | Create visual paths that guide the viewer through letters or across the word. |
 | **Proximity** | Use spacing to create or separate relationships between typographic elements. |
 | **Multistability** | Create more than one possible visual interpretation. |
-| **Figure/Ground** | Control whether forms are read as foreground or background. |
 | **Similarity** | Group elements through shared visual characteristics. |
+
+---
+
+## Colour Theory
+
+![Colour Theory](imgs/colour-theory.png)
+
+Colour theory examines how colours relate to one another and how they influence visual perception. Consider how **hue, saturation, value, contrast, harmony, and proportion** can support hierarchy, emphasis, mood, and meaning within the composition.
+
+
 
   </div>
 </details>
