@@ -47,11 +47,10 @@ SECTION 1
 
 Your group must develop the project using concepts explored throughout **Composition Techniques I and II**.
 
+### Composition Techniques I
+
 + [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md){:target="_blank"}
 + [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md){:target="_blank"}
-+ [Composition Techniques II](Comp-Tech-2.md){:target="_blank"}
-
-### Composition Techniques I
 
 Consider how your structure applies:
 
@@ -65,6 +64,8 @@ Consider how your structure applies:
 Your project should translate these ideas from a **two-dimensional composition into a three-dimensional physical structure**.
 
 ### Composition Techniques II
+
++ [Composition Techniques II](Comp-Tech-2.md){:target="_blank"}
 
 The final project will also apply:
 
