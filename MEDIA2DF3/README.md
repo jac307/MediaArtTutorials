@@ -71,7 +71,8 @@ To access the booking system:
 
 ## Extra
 
-+ [Basic Adobe Illustrator Shortcuts](shortcuts.md)
++ [Adobe Illustrator Shortcuts](AI-shortcuts.md)
++ [Adobe Photoshop Shortcuts](AP-shortcuts.md)
   
 ________________________________________________________________________
 
