@@ -17,9 +17,9 @@ For this project, you must complete the **online "Thode Makerspace Training and 
 
 ## Overview
 
-In this project, students will collaborate in groups (**4 students**) to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
+In this project, students will collaborate in groups of **4 students** to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
 
-The process includes **hand-sketching**, **digital design using Adobe Illustrator and Inkscape**, and **laser-cutting on birchwood**.  
+The process includes **hand-sketching**, **digital design using Inkscape**, and **laser-cutting on birchwood**.  
 
 Final compositions will demonstrate the application of Wong’s principles of form and composition, Samara’s approaches to form, space, and colour proportioning, and colour theory, while experimenting with physical materiality, repetition, layering, and three-dimensional structure.
 
