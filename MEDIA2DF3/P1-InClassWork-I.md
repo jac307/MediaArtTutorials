@@ -76,7 +76,7 @@ The final project will also apply:
 * Colour proportioning
 * Relationships between dominant, secondary, and accent colours
 
-> Colour will be developed in **Part 2**. During this session, concentrate on creating a strong structure that can later support an intentional colour system.
+> Colour will be developed in **Part 2**. During this session (Part 1), concentrate on creating a strong structure that can later support an intentional colour system.
 
 You do not need to force every principle into every individual shape. Instead, the **complete project should demonstrate that your group is intentionally working with the major formal, spatial, textural, and colour concepts developed in Composition Techniques I and II.**
 
@@ -105,15 +105,11 @@ Work together to create a three-dimensional composition built from approximately
 
 The composition should explore:
 
-* Repetition and variation
-* Layering
-* Height and depth
-* Direction and angle
-* Positive and negative space
-* Rhythm
-* Density
-* Structural relationships
-* Engraved surface texture
+|                          |                             |                          |
+| ------------------------ | --------------------------- | ------------------------ |
+| Repetition and variation | Layering                    | Height and depth         |
+| Direction and angle      | Positive and negative space | Rhythm                   |
+| Density                  | Structural relationships    | Engraved surface texture |
 
 Each group member must contribute ideas and sketches.
 
@@ -123,26 +119,20 @@ The composition must include a physical **base**.
 
 The base may be:
 
-* Square
-* Rectangle
-* Circle
-* Oval
-* Triangle
-* Diamond
-* Polygon
-* Irregular or custom vector shape
+|         |                                  |         |
+| ------- | -------------------------------- | ------- |
+| Square  | Rectangle                        | Circle  |
+| Oval    | Triangle                         | Diamond |
+| Polygon | Irregular or custom vector shape |         |
 
 The base should be treated as part of the **composition**, not simply as a support placed underneath it.
 
 Consider:
 
-* Shape
-* Size
-* Orientation
-* Relationship to the repeated planes
-* Negative space
-* Placement of the planes
-* Overall silhouette
+|                |                         |                    |                                     |
+| -------------- | ----------------------- | ------------------ | ----------------------------------- |
+| Shape          | Size                    | Orientation        | Relationship to the repeated planes |
+| Negative space | Placement of the planes | Overall silhouette |                                     |
 
 ## Work within the material limit
 
