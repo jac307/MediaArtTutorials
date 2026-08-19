@@ -1,9 +1,10 @@
-[← MEDIA 2DF3](README.md) | [Project 1 Overview](P1-README.md)
+[← MEDIAART 2DF3](README.md) | [Project 1 Overview](P1-README.md)
 
 ---
 
-<h1 style="color: darkred;">P1 – In-Class Work I: Brainstorm, Sketch & Laser-Cut Prep</h1>  
-*Group Project – 3 to 4 students per group*
+# P1 – In-Class Work I: Concept, Sketching & Laser-Cut Preparation
+
+*Group Project – 4 students per group*
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/32.png" style="width: 100%; height: auto;">
@@ -14,158 +15,516 @@
 
 ---
 
-> ⚠️ You must complete the **online Thode Makerspace training modules** on **Avenue to Learn** and the **in-person training** *before* this session.
+> ⚠️ You must complete the **online Thode Makerspace training modules** on **Avenue to Learn** and the required **in-person training** before participating in laser cutting.
 
-In this session, your group will **collaboratively plan and prototype** a **three-dimensional composition** built from a **repetition of two-dimensional planes**, using **sketches and digital tools**. You will explore **form, repetition, and spatial relationships**, and prepare your designs for **laser-cutting using Inkscape** — the software required by the **Thode Makerspace**.
+## Goal
+
+During this session, your group will develop the **concept, structure, shapes, base, and laser-cut files** for Project 1.
+
+The final project must build on concepts explored in **Composition Techniques I and II**, including form relationships, repetition and variation, structure, space, texture, visual hierarchy, colour theory, and colour proportioning.
+
+For **Part 1**, focus on:
+
+* Structure
+* Shape
+* Repetition and variation
+* Spatial organization
+* Base design
+* Material use
+* Engraved texture
+
+> **Do not develop or apply the final colour treatment this week.** Colour will be developed during Part 2.
+
+All final vector production for laser cutting and engraving must be completed in **Inkscape**, the software required by the Thode Makerspace.
+
+## Activity stages
+
+Complete the following stages in order.
+
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Review and apply previous design concepts</span>
+    <span class="section-description">
+      Connect the project to the formal, spatial, textural, and colour concepts developed in Composition Techniques I and II.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Your group must develop the project using concepts explored throughout **Composition Techniques I and II**.
+
+### Composition Techniques I
+
+Consider how your structure applies:
+
+* **Interrelationships of Form**
+* **Repetition and repetition arrangements**
+* **Similarity**
+* **Gradation**
+* **Anomaly**
+* **Concentration**
+* **Radiation**
+* **Contrast**
+* **Space**
+* **Texture**
+* **Grid and structural organization**
+* **Dot, Line, Plane, and Mass**
+* **Surface Activity**
+* **Breaking Space**
+* **Arranging Form**
+
+Your project should translate these ideas from a **two-dimensional composition into a three-dimensional physical structure**.
+
+### Composition Techniques II
+
+The final project will also apply:
+
+* Colour schemes
+* Colour contrast
+* Colour perspective
+* Colour gradation
+* Colour proportioning
+* Relationships between dominant, secondary, and accent colours
+
+> Colour will be developed in **Part 2**. During this session, concentrate on creating a strong structure that can later support an intentional colour system.
+
+You do not need to force every principle into every individual shape. Instead, the **complete project should demonstrate that your group is intentionally working with the major formal, spatial, textural, and colour concepts developed in Composition Techniques I and II.**
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Brainstorm, sketch, and prepare the concept document</span>
+    <span class="section-description">
+      Develop the structure collaboratively and create a designed InDesign document containing the concept, sketches, measurements, and material planning.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Develop the group concept
+
+Work together to create a three-dimensional composition built from approximately **20–30 two-dimensional planes** organized on a defined base.
+
+The composition should explore:
+
+* Repetition and variation
+* Layering
+* Height and depth
+* Direction and angle
+* Positive and negative space
+* Rhythm
+* Density
+* Structural relationships
+* Engraved surface texture
+
+Each group member must contribute ideas and sketches.
+
+## Design the base
+
+The composition must include a physical **base**.
+
+The base may be:
+
+* Square
+* Rectangle
+* Circle
+* Oval
+* Triangle
+* Diamond
+* Polygon
+* Irregular or custom vector shape
+
+The base should be treated as part of the **composition**, not simply as a support placed underneath it.
+
+Consider:
+
+* Shape
+* Size
+* Orientation
+* Relationship to the repeated planes
+* Negative space
+* Placement of the planes
+* Overall silhouette
+
+## Work within the material limit
+
+Each group receives exactly:
+
+* **Two birchwood sheets**
+* **24 × 12 in each**
+* **0.3 in thick**
+
+> **Everything must fit within these two sheets.**
+
+This includes:
+
+* The base
+* All repeated planes
+* Connectors
+* Supports
+* Additional structural pieces
+
+You will **not receive additional birchwood** if the design exceeds the available material.
+
+Plan dimensions carefully before preparing the final files.
+
+Consider how shapes can be rotated, nested, or reorganized to reduce unused areas while maintaining adequate spacing for laser cutting.
+
+## Plan engraved texture
+
+Texture must be incorporated into the project through **laser engraving**.
+
+Think about how engraved lines, patterns, marks, or repeated structures can create **Surface Activity** on selected wooden elements.
+
+The engraved texture should support the overall design rather than function as unrelated decoration.
+
+Possible approaches include:
+
+* Repeated lines
+* Directional marks
+* Geometric patterns
+* Organic patterns
+* Gradation of density
+* Concentration
+* Repetition
+* Changes in spacing
+* Linear textures
+* Custom vector patterns
+
+Clearly identify in your sketches:
+
+* Which areas will be **cut**
+* Which areas will be **engraved**
+
+> Cutting lines and engraving lines require different laser-file settings. Follow the tutorials provided later in this activity exactly.
 
 ---
 
-<h2 style="color: darkred;">[30 min] Brainstorming & Concept Sketching</h2>
+## Create the Brainstorming and Design Document
 
-Work together to generate ideas for your composition, inspired by **Wong’s Elements of Two-Dimensional Design** and sculptural principles of **form through repetition**.  
+Create **one group document in Adobe InDesign**.
 
-Create a **Brainstorming Document** that includes **both written notes and sketches**.  
-Use it to record your group’s **concepts, visual ideas, and initial layout planning**.  
-Each team member should actively contribute written ideas and at least one quick sketch.
+### Document setup
 
-### Your group sketch and notes must:
-- Include **20–30 individual planes** arranged over a defined **base**.
-  > You will be provided with **birchwood plates** (24 × 12 in, 0.3 in thick) --charged to your **McMaster account**.
-- Apply at least **three** of the following design principles:  
-  *Form, Repetition, Structure, Similarity, Gradation, Radiation, Anomaly, Contrast, Concentration*.
-  > For reference, check: <a href="imgs/Elements-Of-Design-CheatSheet.pdf" target="_blank">Elements of Design Cheatsheet</a>
-- Clearly define the **shape**, **dimensions** (width and height), and **spacing** of each plane.
-- Incorporate variation in **height**, **depth**, and/or **angle**.
-- Propose a **colour scheme** based on gradation (see below).  
-- Identify potential **connectors or supports** between planes.
-- You must consider the shape, size, and color of the base.
+Use:
 
-### Color Scheme - Gradient Strategy:
-- Assign each shape a **single solid colour**, arranged to produce a **visible gradient transition**
-- You may design:
-  - **Linear gradients** (e.g., red to blue)
-  - **Multi-step gradients** (e.g., rainbow blends)
-- Use **HSV (Hue, Saturation, Value)** to guide your colour shifts:
-  - **Hue** → controls colour change
-  - **Saturation** → intensity of each step
-  - **Value** → brightness and darkness across the range
+* **Software:** Adobe InDesign
+* **Page size:** Letter — 8.5 × 11 in
+* **Orientation:** Portrait or landscape, depending on your design
+* **Pages:** As many as necessary to communicate the project clearly
+* **Export:** PDF
+* **Filename:** `Group-#-Project1-Design.pdf`
 
-> ✏️ Your Brainstorming Document should combine **hand sketches**, **digital mockups**, and **written notes** that explain your visual decisions. You will submit this document at the end of class.
+The PDF is not simply a collection of sketches. It must be a **designed document**.
+
+Pay attention to:
+
+* Layout
+* Margins
+* Alignment
+* Typography
+* Hierarchy
+* Image placement
+* Scale
+* Spacing
+* Consistency across pages
+
+Your sketches should be placed intentionally and should feel visually integrated with the written information.
+
+### The document must include
+
+1. **Group number and student names**
+2. **Concept statement**
+
+   * Briefly explain the central idea of the structure.
+3. **Design concepts**
+
+   * Identify how the project connects to concepts from Composition Techniques I and II.
+4. **Annotated sketches**
+
+   * Show the overall three-dimensional structure.
+5. **Base design**
+
+   * Clearly show its shape and approximate dimensions.
+6. **Plane designs**
+
+   * Show the planned shapes and their dimensions.
+7. **Repetition and variation**
+
+   * Explain how the planes change in scale, shape, direction, spacing, height, or position.
+8. **Spatial organization**
+
+   * Show how planes will connect to and interact with the base.
+9. **Engraving plan**
+
+   * Clearly identify the areas where engraved texture will be applied.
+10. **Material planning**
+
+    * Demonstrate that the base, shapes, connectors, and supports can fit within **two 24 × 12 in birchwood sheets**.
+
+> **Do not include a finalized colour palette in this document.** Colour will be developed during Part 2.
+
+Ask the instructor for feedback before preparing the final laser files.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Learn the Inkscape workflow</span>
+    <span class="section-description">
+      Review the Inkscape interface, create accurately measured vector shapes, and learn the required settings for cutting and engraving.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## What is Inkscape?
+
+**Inkscape** is a free, open-source vector graphics editor used by the Thode Makerspace for preparing laser-cut files.
+
+For this project, **all production files must be created and finalized in Inkscape**.
+
+Learning to move between different software environments is an important part of digital design and fabrication. The same concepts you have practiced in Illustrator—vector paths, shapes, measurements, alignment, layers, and precise transformations—can be applied in Inkscape.
+
+## Tutorial 1 — Inkscape overview, measurements, and shape creation
+
+Follow the tutorial to review:
+
+* Document setup
+* Units and measurements
+* Rulers and guides
+* Shape tools
+* Paths
+* Alignment
+* Transformations
+* Exact width and height
+* Positioning
+* Combining and editing shapes
+
+<!-- ADD INKSCAPE OVERVIEW / SHAPE CREATION TUTORIAL HERE -->
+
+> Measurements must match the dimensions established in your group's approved sketches.
+
+## Tutorial 2 — Preparing cutting lines
+
+Follow the tutorial to prepare all shapes and base elements that must be **physically cut through the birchwood**.
+
+<!-- ADD CUTTING-LINE TUTORIAL HERE -->
+
+Use the exact:
+
+* Stroke colour
+* Stroke width
+* Fill settings
+* Opacity
+* Path settings
+
+demonstrated in the tutorial.
+
+> Every object intended for cutting must use the required **cutting-line settings**.
+
+## Tutorial 3 — Preparing engraving lines
+
+Follow the tutorial to prepare the vector lines and patterns that will be **engraved into the surface of the wood**.
+
+<!-- ADD ENGRAVING-LINE TUTORIAL HERE -->
+
+Use the exact engraving settings demonstrated in the tutorial.
+
+> **Cutting lines and engraving lines are not interchangeable.** Before submitting, confirm that every path uses the correct settings for its intended function.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Create the two laser-production files</span>
+    <span class="section-description">
+      Arrange the complete project across exactly two 24 × 12 in Inkscape documents and prepare all cutting and engraving paths.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Create two Inkscape files
+
+Your group must create exactly **two production files**, corresponding to the two available birchwood sheets.
+
+### File setup
+
+Each file must use:
+
+| Setting              | Requirement         |
+| -------------------- | ------------------- |
+| Software             | Inkscape            |
+| Units                | Inches              |
+| Page size            | **24 × 12 in**      |
+| Pages                | 1                   |
+| Material represented | One birchwood sheet |
+| Number of files      | **2**               |
+
+Save the files as:
+
+* `Group-#-Plate-1.svg`
+* `Group-#-Plate-2.svg`
+
+## Arrange all project components
+
+Across the two files, include:
+
+* Base
+* Repeated planes
+* Connectors
+* Supports
+* Any other required wooden elements
+* Engraved texture
+
+> The complete physical project must fit within these **two files only**.
+
+Arrange the pieces efficiently to minimize material waste.
+
+Consider:
+
+* Rotation
+* Nesting
+* Spacing
+* Shape orientation
+* Accurate dimensions
+* Relationship between cutting and engraving paths
+
+Do not resize pieces simply to make them fit unless the change has also been approved in your design.
+
+## Cutting and engraving
+
+Before submitting:
+
+* Confirm that all **cutting paths** use the required cutting-line settings.
+* Confirm that all **engraving paths** use the required engraving-line settings.
+* Remove unintended fills.
+* Remove duplicate paths.
+* Check for overlapping cutting lines.
+* Confirm that every path is intentional.
+* Confirm all measurements.
+* Confirm that the page remains exactly **24 × 12 in**.
+
+<fieldset class="equipment-checklist">
+  <legend>Laser-file check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Everything fits within two birchwood sheets.</strong>
+      The base, repeated planes, connectors, supports, and other components are contained within the two 24 × 12 in files.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The dimensions are correct.</strong>
+      Shapes match the measurements established in the approved design.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The material is used efficiently.</strong>
+      Shapes are arranged intentionally to reduce unnecessary waste.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The cutting lines are correct.</strong>
+      Every element intended to be cut uses the settings demonstrated in the cutting tutorial.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The engraving lines are correct.</strong>
+      Every texture or surface treatment uses the settings demonstrated in the engraving tutorial.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The files contain no accidental paths.</strong>
+      Duplicate lines, unnecessary objects, unintended fills, and overlapping cutting paths have been removed.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The filenames are correct.</strong>
+      Both SVG files follow the required naming structure.
+    </span>
+  </label>
+
+</fieldset>
+
+> Show both production files to the instructor before leaving class. Corrections may be required before your scheduled laser-cutting session.
+
+</div>
+</details>
 
 ---
 
-<h2 style="color: darkred;"> Illustrator → Inkscape Workflow </h2>
+## Submission
 
-Use **Adobe Illustrator** and **Inkscape** to transform your sketches into vector-ready files for laser-cutting.
+Submit **three files per group**:
 
-### What is Inkscape?
+| Item                                            | Required filename             |
+| ----------------------------------------------- | ----------------------------- |
+| Designed concept, information, and sketches PDF | `Group-#-Project1-Design.pdf` |
+| Birchwood Plate 1                               | `Group-#-Plate-1.svg`         |
+| Birchwood Plate 2                               | `Group-#-Plate-2.svg`         |
 
-**Inkscape** is a free, open-source vector graphics editor similar to Adobe Illustrator. It allows you to design using precise **paths**, making it ideal for digital fabrication.
+Before submitting:
 
-While we are using Inkscape because it is **required by the Thode Makerspace**, learning to adapt to different software platforms is a valuable skill for any media artist. Being proficient across both proprietary and open-source tools strengthens your ability to work in a variety of **production environments**, from galleries to labs to community-based studios.  
+* Open the PDF and confirm that all text, sketches, and images display correctly.
+* Open both SVG files in Inkscape.
+* Confirm each SVG document is exactly **24 × 12 in**.
+* Confirm that the complete project fits within the two available sheets.
+* Confirm the correct cutting and engraving settings.
+* Confirm all filenames.
 
-### Adobe Illustrator
+Review the **required materials list** for Part 2 under [Project 1 Overview](P1-README.md) and bring the required materials to the next class.
 
-Use the previous tutorials + this new tutorial to complete this project.
-
-+ [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
-+ [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
-+ [Adobe Illustrator Shortcuts](shortcuts.md)
-
-<iframe src="https://www.iorad.com/player/2622699/Adobe-Illustrator-9--Rulers--Grids--and-Snap-to-Grid?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-
----
-
-<h2 style="color: darkred;">[20 min] Individual Exercise – Illustrator → Inkscape Workflow Practice</h2>
-
-Before starting the group prototype, **each student** will complete a **short individual exercise** to practice the laser-cut file workflow.  
-> ⚠️ **Before leaving class**, you must **show your test file to the instructor** to receive comments and troubleshooting feedback.
-
-Follow this step-by-step tutorial:    
-
-<iframe src="https://www.iorad.com/player/2622720/Lasser-Printer-Setup--Illustrator---Inkscape-Workflow?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-
-### Overview
-
-1. **Open a new Adobe Illustrator file:**
-   - Size: Letter  
-   - Color Mode: RGB  
-   - Artboards: 2  
-
-2. **Create two simple composed vector shapes** combining two shapes together using the *Relationships of Form*:  
-   - Use **one artboard per shape**.  
-   - Do **not use fill**; set the stroke to **black (1 pt)**.  
-   - Each must be a **single closed shape** — use **Pathfinder** to combine multiple shapes.  
-
-3. **Export each shape as an `.SVG` file.**
-
-4. **Open a new Inkscape file:**
-   - Units: Inches  
-   - Page Size: **24 × 12 in**  
-   - Color Mode: RGB  
-   - Artboards: 1  
-
-5. **Import the SVGs into Inkscape** and prepare them for laser-cutting:
-   - Remove all fills.  
-   - Set the stroke color to **Red (R=255, G=0, B=0)**.  
-   - Opacity should be **100%**.  
-   - Set **stroke width = 0.001 in** (or **0.10 px** if your version uses pixels).  
-
-6. **Align both shapes** within the 24 × 12 in canvas.  
-
-7. **Save your Inkscape file** as SVG. No unique name required.
-
-8. **Add your name** to the waiting list for the professor to check your file before you leave class.  
-*No submission is required for this activity.*
-
-> ⚠️ **Before leaving class**, you must **show your test file to the instructor** to receive comments and troubleshooting feedback.  
-> This ensures your workflow and file setup are correct before starting the group design.
+> **Failure to follow document setup, material limits, cutting/engraving specifications, or naming instructions may result in grade deductions.**
 
 ---
 
-<h2 style="color: darkred;">[45–60 min] Group Work – Vector File Production for Laser-Cutting</h2>
-
-Once everyone has completed the individual practice, your group will begin preparing the **actual vector files** for your collaborative design.
-
-### Group Tasks
-- **Divide shapes among members** so each student is responsible for a section of the design.  
-- After dividing the shapes, **each group member** should create their shapes in a similar document as follows:
-
-1. **Open a new Adobe Illustrator file:**
-   - Size: Letter  
-   - Color Mode: RGB  
-   - Artboards: Choose the number of shapes you have  
-
-2. **Create your vector shapes** (e.g., square, circle, or custom polygon):  
-   - Use **one artboard per shape**.  
-   - Do **not use fill**; set the stroke to **black (1 pt)**.  
-   - Each must be a **single closed shape** — use **Pathfinder** to combine multiple objects if needed.
-   - ⚠️ **Be careful with the measurements of your shapes!** Follow the **width and height** your group agreed on for each shape.  
-
-3. **Export each shape as an `.SVG` file.**
-
-4. **Once all members finish**, import all shapes into a shared Inkscape document(s) to assemble the group’s full composition. Open a new document(s) sized **24 × 12 in** and **import your SVGs into Inkscape**  
-   - Each birchwood plate must be represented in a **separate 24 × 12 in document**.
-   - Carefully plan the **layout and spacing** to maximize use of the sheet and **avoid wasted material**.
-   - Prepare each file for **laser-cutting** by removing fills, setting stroke color to **Red (R=255, G=0, B=0)**, setting **Opacity=100%**, and adjusting the stroke width to **0.001 in (or 0.10 px)**.
-   - Save your Inkscape files as **.SVG**, named as: `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
-
-> ⚠️ The birchwood plates are **24 × 12 in** — ensure your compositions fit within this limit to avoid material waste.  
-> Double-check all **measurements, spacing, and layer organization** before saving.
-
----
-
-<h3 style="color: darkred;">📥 Submission</h3>
-
-1. Group brainstorming notes and sketches
-   - **Naming Protocol**: `Group-#-Notes.pdf`
-
-2. Lasser-Cutting Prep Files
-   - **File naming:** `Group-#-Plate-1.svg`, `Group-#-Plate-2.svg`, etc.
-     - Double-check all **measurements**, **spacing**, and **layer organization**.
-
-Review the **required materials list** for Part 2 under [Project 1 Overview](P1-README.md) and bring them to the next class.
-
-> 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
-
----
+Credits: Jessica A. Rodríguez
