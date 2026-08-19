@@ -85,8 +85,6 @@ The sculpture must be:
 - Structurally stable
 - Ready to exhibit when brought to class
 
-The instructor will assign the location for displaying Project 1 during the exhibition.
-
 > **Bringing the completed sculpture to the final class exhibition is a required part of the project. Failure to bring the work to the exhibition, or bringing an incomplete project, will result in a grade deduction.**
 
 During the exhibition, the instructor will evaluate the physical work, including:
@@ -131,20 +129,31 @@ Under the existing **Colour** section, add the **final approved version of the s
 
 If your group revised the palette after instructor feedback, include the **final revised palette**, not the earlier version.
 
-The scan should be clearly presented and large enough to evaluate the painted colours.
+> The scan should be clearly presented and large enough to evaluate the painted colours.
 
 ## 2. Add two professional photographs of the final sculpture
 
-Include **two professional photographs** of the completed sculpture from **two distinctive perspectives**.
+- [Available Equipment](Equipment.md)
+- [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
 
-For example:
+Create a **title page at the beginning of the document** using **two professional photographs** of the completed sculpture from **two distinctive perspectives**.
+
+The title page should include:
+
+- **Title of the work**
+- **Group members' names**
+- **Two professional photographs of the sculpture**
+
+For example, the photographs may show:
 
 - Front and side
 - Front and three-quarter view
 - Low and elevated perspective
 - Two views that clearly reveal different spatial relationships within the sculpture
 
-The photographs should document the sculpture itself rather than the exhibition environment.
+The photographs should document the **sculpture itself rather than the exhibition environment**. Use a **plain, neutral background** so the form, colour, texture, and structure of the sculpture remain the focus.
+
+> The two images should be arranged as part of a **visually cohesive title-page design** and should establish the visual identity of the final documentation.
 
 ### Photography requirements
 
@@ -164,8 +173,6 @@ The photographs should:
 - Present the sculpture clearly.
 - Show the form, colour, engraved texture, depth, and assembly.
 - Be edited consistently if image adjustments are necessary.
-
-> The two photographs should function as **professional documentation of the completed artwork**.
 
 ## 3. Add an Exhibition Documentation page
 
@@ -209,6 +216,22 @@ All photographs must be large enough to evaluate clearly.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>The title page is complete.</strong>
+      The document begins with the title of the work, group members' names, and two professional photographs of the sculpture from distinctive perspectives.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The two professional photographs are visually consistent.</strong>
+      Both images use a plain, neutral background and maintain consistent lighting, colour, framing, image quality, and presentation.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>The complete Project 1 process is documented.</strong>
       The PDF includes the planning, development, colour approach, and final outcome.
     </span>
@@ -219,22 +242,6 @@ All photographs must be large enough to evaluate clearly.
     <span>
       <strong>The final colour palette is included.</strong>
       The approved scanned palette appears under the Colour section.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Two professional photographs are included.</strong>
-      The completed sculpture is documented from two distinctive perspectives.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The photographs are visually consistent.</strong>
-      Lighting, colour, framing, image quality, and presentation are cohesive.
     </span>
   </label>
 
@@ -258,7 +265,7 @@ All photographs must be large enough to evaluate clearly.
     <input type="checkbox">
     <span>
       <strong>The document design is consistent.</strong>
-      Typography, hierarchy, margins, alignment, spacing, and image placement remain cohesive throughout the PDF.
+      Typography, hierarchy, margins, alignment, spacing, image placement, and overall visual structure remain cohesive throughout the PDF.
     </span>
   </label>
 
@@ -266,7 +273,7 @@ All photographs must be large enough to evaluate clearly.
     <input type="checkbox">
     <span>
       <strong>The PDF has been reviewed before submission.</strong>
-      All images and text display correctly and there are no missing or incorrectly positioned elements.
+      All text and images display correctly, image proportions are preserved, and there are no missing or incorrectly positioned elements.
     </span>
   </label>
 
@@ -295,12 +302,24 @@ Submit the **final updated Project 1 documentation PDF**:
 
 The final PDF must include:
 
-1. Original concept and design development
-2. Material and structural planning
-3. Colour planning
-4. **Final scanned colour palette**
-5. **Two professional photographs of the completed sculpture from distinctive perspectives**
-6. **One Exhibition Documentation page with the exhibition name, date, location, and 3–4 photographs of the sculpture in context**
+1. **Title page** with:
+   - Title of the work
+   - Group members' names
+   - Two professional photographs of the completed sculpture from distinctive perspectives
+
+2. **Original concept and design development**
+
+3. **Material and structural planning**
+
+4. **Colour planning**
+
+5. **Final scanned colour palette**
+
+6. **Exhibition Documentation page** with:
+   - Exhibition name
+   - Date
+   - Location
+   - 3–4 photographs of the sculpture in context
 
 > **Failure to follow the documentation requirements, image specifications, exhibition requirements, or naming conventions may result in grade deductions.**
 

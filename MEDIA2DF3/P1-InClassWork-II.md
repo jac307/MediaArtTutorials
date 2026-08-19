@@ -355,6 +355,7 @@ The following component is **graded in person**:
 | Scheduled laser-cutting session at Thode Makerspace | In-person |
 
 > **Do not begin final colour application until the colour palette has received instructor feedback. If revisions are requested, the palette must be corrected and tested again before painting.**
+> Review the Final Submission instructions under [Project 1 Overview](P1-README.md) and complete the final steps.
 
 ---
 
