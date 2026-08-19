@@ -355,25 +355,14 @@ Do not resize pieces simply to make them fit unless the change has also been app
 
 ## Cutting and engraving
 
-Before submitting:
-
-* Confirm that all **cutting paths** use the required cutting-line settings.
-* Confirm that all **engraving paths** use the required engraving-line settings.
-* Remove unintended fills.
-* Remove duplicate paths.
-* Check for overlapping cutting lines.
-* Confirm that every path is intentional.
-* Confirm all measurements.
-* Confirm that the page remains exactly **24 × 12 in**.
-
 <fieldset class="equipment-checklist">
-  <legend>Laser-file check</legend>
+  <legend>Laser-File Check</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
       <strong>Everything fits within two birchwood sheets.</strong>
-      The base, repeated planes, connectors, supports, and other components are contained within the two 24 × 12 in files.
+      The base, repeated planes, connectors, supports, and all other components fit within the two 24 × 12 in files.
     </span>
   </label>
 
@@ -381,7 +370,15 @@ Before submitting:
     <input type="checkbox">
     <span>
       <strong>The dimensions are correct.</strong>
-      Shapes match the measurements established in the approved design.
+      All shapes match the measurements established in the approved design.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Both documents are the correct size.</strong>
+      Each Inkscape document remains exactly 24 × 12 in.
     </span>
   </label>
 
@@ -396,24 +393,40 @@ Before submitting:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The cutting lines are correct.</strong>
-      Every element intended to be cut uses the settings demonstrated in the cutting tutorial.
+      <strong>The cutting paths are correct.</strong>
+      Every element intended to be cut uses the required cutting-line settings.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The engraving lines are correct.</strong>
-      Every texture or surface treatment uses the settings demonstrated in the engraving tutorial.
+      <strong>The engraving paths are correct.</strong>
+      Every texture or surface treatment uses the required engraving-line settings.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>The files contain no accidental paths.</strong>
-      Duplicate lines, unnecessary objects, unintended fills, and overlapping cutting paths have been removed.
+      <strong>Unintended fills have been removed.</strong>
+      Only the fills required by the laser-cutting and engraving workflow remain.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Duplicate and overlapping paths have been removed.</strong>
+      There are no repeated paths or accidental overlapping cutting lines.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Every path is intentional.</strong>
+      Unnecessary objects, stray points, and accidental paths have been removed.
     </span>
   </label>
 
@@ -444,18 +457,9 @@ Submit **three files per group**:
 | Birchwood Plate 1                               | `Group-#-Plate-1.svg`         |
 | Birchwood Plate 2                               | `Group-#-Plate-2.svg`         |
 
-Before submitting:
+**Failure to follow document setup, material limits, cutting/engraving specifications, or naming instructions may result in grade deductions.**
 
-* Open the PDF and confirm that all text, sketches, and images display correctly.
-* Open both SVG files in Inkscape.
-* Confirm each SVG document is exactly **24 × 12 in**.
-* Confirm that the complete project fits within the two available sheets.
-* Confirm the correct cutting and engraving settings.
-* Confirm all filenames.
-
-Review the **required materials list** for Part 2 under [Project 1 Overview](P1-README.md) and bring the required materials to the next class.
-
-> **Failure to follow document setup, material limits, cutting/engraving specifications, or naming instructions may result in grade deductions.**
+> Review the **required materials list** for Part 2 under [Project 1 Overview](P1-README.md) and bring the required materials to the next class.
 
 ---
 
