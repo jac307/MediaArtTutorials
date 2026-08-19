@@ -234,26 +234,24 @@ Available appointment options will be posted on **Avenue to Learn**.
 Your group must:
 
 1. Select one of the available appointment times.
-2. Confirm the appointment through Avenue to Learn.
-3. Arrive at the Thode Makerspace at the scheduled time.
-4. Bring the two completed Inkscape files:
-   - `Group-#-Plate-1.svg`
-   - `Group-#-Plate-2.svg`
+2. Confirm the appointment.
+3. If revisions were requested after Part 1 feedback, **upload the updated Inkscape files to Avenue to Learn (Part 1 Submission Folder) at least one day before your scheduled laser-cutting session**.
+4. Arrive at the Thode Makerspace at the scheduled time.
 5. Complete the laser cutting and engraving with the instructor.
 
-> **This component will be graded in person during the scheduled laser-cutting session.**
+> **Your Inkscape files must be fully prepared before the session.** If the professor needs to correct measurements, cutting or engraving settings, paths, layout, or other file-preparation issues during the scheduled session, your group will **lose points for this component**.
 
 The instructor will check:
 
-- File preparation
 - Cutting and engraving settings
 - Measurements
 - Material organization
 - Use of the two birchwood sheets
-- Preparedness
+- **Arrival on time**
 - Participation during production
 
-Groups that miss their appointment will be responsible for following the instructions provided on Avenue to Learn regarding rescheduling.
+> Missing the scheduled session with the instructor will result in a **grade deduction** for this component.
+> Groups that miss their scheduled appointment will be responsible for completing the laser cutting independently by following the **Thode Makerspace procedures** and booking a session directly through the **Thode Makerspace website**. 
 
 ## Laser cutting and engraving
 
@@ -306,7 +304,7 @@ Once your palette has been **reviewed and approved**, reproduce the colours in q
 
 - Recreate the approved colours carefully.
 - Refer to your physical palette and mixing notes.
-- Mix enough paint for **2–3 thin coats** where required.
+- Mix enough paint for **2–3 thin coats**, plus extra for details and touch-ups.
 - Store mixed colours in the required containers.
 - Keep colours organized throughout the painting process.
 
@@ -320,6 +318,8 @@ Before applying the final colours:
 The white base creates a more consistent surface and helps maintain the intended hue, saturation, and value of the final palette.
 
 ## Apply the final colours
+
+> **Do not assemble your sculpture yet.** Assembly is part of the final submission process. First, you must complete the painting of all planes and other components.
 
 - Follow the approved colour plan.
 - Keep brush strokes smooth and consistent.
@@ -345,6 +345,8 @@ Submit **two digital files per group** for Part 2:
 |---|---|
 | Updated Project 1 InDesign planning document | `Group-#-Project1-Design.pdf` |
 | Scanned physical colour palette | `Group-#-ColourPalette.pdf` |
+
+> **Failure to follow the document requirements, colour-planning instructions, scanning specifications, revision process, or naming conventions may result in grade deductions.**
 
 The following component is **graded in person**:
 

@@ -455,8 +455,9 @@ Submit **three files per group**:
 | Birchwood Plate 1                               | `Group-#-Plate-1.svg`         |
 | Birchwood Plate 2                               | `Group-#-Plate-2.svg`         |
 
-**Failure to follow document setup, material limits, cutting/engraving specifications, or naming instructions may result in grade deductions.**
+Failure to follow document setup, material limits, cutting/engraving specifications, or naming instructions may result in grade deductions.
 
+> The instructor will provide feedback **1–2 days after the final submission deadline**. If revisions are required, your group must **correct or update the Inkscape files before the scheduled laser-cutting session** and **re-upload the revised files to Avenue to Learn**.
 > Review the **required materials list** for Part 2 under [Project 1 Overview](P1-README.md) and bring the required materials to the next class.
 
 ---
