@@ -23,7 +23,9 @@ During this session, your group will develop the **concept, structure, shapes, b
 
 The final project must build on concepts explored in **Composition Techniques I and II**, including form relationships, repetition and variation, structure, space, texture, visual hierarchy, colour theory, and colour proportioning.
 
-All final vector production for laser cutting and engraving must be completed in **Inkscape**, the software required by the Thode Makerspace.
+All final vector production for laser cutting and engraving must be completed in **Inkscape**, the software required by the Thode Makerspace.  
+
+The planning document should be **designed and assembled in Adobe InDesign**.
 
 ## Activity stages
 
@@ -258,26 +260,15 @@ SECTION 3
 
 For this project, **all production files must be created and finalized in Inkscape**.
 
-Learning to move between different software environments is an important part of digital design and fabrication. The same concepts you have practiced in Illustrator—vector paths, shapes, measurements, alignment, layers, and precise transformations—can be applied in Inkscape.
+> Learning to move between different software environments is an important part of digital design and fabrication. The same concepts you have practiced in Illustrator (vector paths, shapes, measurements, alignment, layers, and precise transformations) can be applied in Inkscape.
 
 ## Tutorial 1 — Inkscape overview, measurements, and shape creation
 
 Follow the tutorial to review:
 
-* Document setup
-* Units and measurements
-* Rulers and guides
-* Shape tools
-* Paths
-* Alignment
-* Transformations
-* Exact width and height
-* Positioning
-* Combining and editing shapes
-
 <!-- ADD INKSCAPE OVERVIEW / SHAPE CREATION TUTORIAL HERE -->
 
-> Measurements must match the dimensions established in your group's approved sketches.
+> You must create **two Inkscape documents**, each sized **24 × 12 inches**, with each document representing one birchwood sheet.
 
 ## Tutorial 2 — Preparing cutting lines
 
@@ -285,25 +276,13 @@ Follow the tutorial to prepare all shapes and base elements that must be **physi
 
 <!-- ADD CUTTING-LINE TUTORIAL HERE -->
 
-Use the exact:
-
-* Stroke colour
-* Stroke width
-* Fill settings
-* Opacity
-* Path settings
-
-demonstrated in the tutorial.
-
-> Every object intended for cutting must use the required **cutting-line settings**.
+> Every object intended for cutting or must use the required **cutting-line settings**.
 
 ## Tutorial 3 — Preparing engraving lines
 
 Follow the tutorial to prepare the vector lines and patterns that will be **engraved into the surface of the wood**.
 
 <!-- ADD ENGRAVING-LINE TUTORIAL HERE -->
-
-Use the exact engraving settings demonstrated in the tutorial.
 
 > **Cutting lines and engraving lines are not interchangeable.** Before submitting, confirm that every path uses the correct settings for its intended function.
 
