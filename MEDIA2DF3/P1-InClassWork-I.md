@@ -23,18 +23,6 @@ During this session, your group will develop the **concept, structure, shapes, b
 
 The final project must build on concepts explored in **Composition Techniques I and II**, including form relationships, repetition and variation, structure, space, texture, visual hierarchy, colour theory, and colour proportioning.
 
-For **Part 1**, focus on:
-
-* Structure
-* Shape
-* Repetition and variation
-* Spatial organization
-* Base design
-* Material use
-* Engraved texture
-
-> **Do not develop or apply the final colour treatment this week.** Colour will be developed during Part 2.
-
 All final vector production for laser cutting and engraving must be completed in **Inkscape**, the software required by the Thode Makerspace.
 
 ## Activity stages
@@ -58,6 +46,10 @@ SECTION 1
 <div class="section-content" markdown="1">
 
 Your group must develop the project using concepts explored throughout **Composition Techniques I and II**.
+
++ [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md){:target="_blank"}
++ [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md){:target="_blank"}
++ [Composition Techniques II](Comp-Tech-2.md){:target="_blank"}
 
 ### Composition Techniques I
 
