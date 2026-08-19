@@ -111,7 +111,7 @@ The composition should explore:
 | Direction and angle      | Positive and negative space | Rhythm                   |
 | Density                  | Structural relationships    | Engraved surface texture |
 
-Each group member must contribute ideas and sketches.
+> Each group member must contribute ideas and sketches.
 
 ## Design the base
 
@@ -125,7 +125,7 @@ The base may be:
 | Oval    | Triangle                         | Diamond |
 | Polygon | Irregular or custom vector shape |         |
 
-The base should be treated as part of the **composition**, not simply as a support placed underneath it.
+> The base should be treated as part of the **composition**, not simply as a support placed underneath it.
 
 Consider:
 
@@ -152,11 +152,9 @@ This includes:
 * Supports
 * Additional structural pieces
 
-You will **not receive additional birchwood** if the design exceeds the available material.
-
 Plan dimensions carefully before preparing the final files.
 
-Consider how shapes can be rotated, nested, or reorganized to reduce unused areas while maintaining adequate spacing for laser cutting.
+> Consider how shapes can be rotated, nested, or reorganized to reduce unused areas while maintaining adequate spacing for laser cutting.
 
 ## Plan engraved texture
 
@@ -202,48 +200,34 @@ The PDF is not simply a collection of sketches. It must be a **designed document
 
 Pay attention to:
 
-* Layout
-* Margins
-* Alignment
-* Typography
-* Hierarchy
-* Image placement
-* Scale
-* Spacing
-* Consistency across pages
+|            |           |                          |
+| ---------- | --------- | ------------------------ |
+| Layout     | Margins   | Alignment                |
+| Typography | Hierarchy | Image placement          |
+| Scale      | Spacing   | Consistency across pages |
 
-Your sketches should be placed intentionally and should feel visually integrated with the written information.
+> Your sketches should be placed intentionally and should feel visually integrated with the written information.
 
 ### The document must include
 
 1. **Group number and student names**
 2. **Concept statement**
-
    * Briefly explain the central idea of the structure.
 3. **Design concepts**
-
    * Identify how the project connects to concepts from Composition Techniques I and II.
-4. **Annotated sketches**
-
+4. **Annotated 3-dimensional sketches**
    * Show the overall three-dimensional structure.
-5. **Base design**
-
-   * Clearly show its shape and approximate dimensions.
-6. **Plane designs**
-
-   * Show the planned shapes and their dimensions.
-7. **Repetition and variation**
-
    * Explain how the planes change in scale, shape, direction, spacing, height, or position.
-8. **Spatial organization**
-
    * Show how planes will connect to and interact with the base.
-9. **Engraving plan**
-
+5. **Base design**
+   * Clearly show its shape and dimensions.
+   * If used, identify the areas where engraved texture will be applied.
+6. **Plane designs**
+   * Show the planned shapes and their dimensions.
+   * Show the planned connectors and their dimensions. 
    * Clearly identify the areas where engraved texture will be applied.
-10. **Material planning**
-
-    * Demonstrate that the base, shapes, connectors, and supports can fit within **two 24 × 12 in birchwood sheets**.
+7. **Material planning**
+    * Include **one image of each birchwood sheet layout**, showing how all shapes and structural pieces will be arranged on the two sheets.
 
 > **Do not include a finalized colour palette in this document.** Colour will be developed during Part 2.
 
