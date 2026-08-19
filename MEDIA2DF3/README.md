@@ -59,7 +59,7 @@ To access the booking system:
 
 ## Extra
 
-<!-- + [Basic Adobe Illustrator Shortcuts](shortcuts.md) -->
++ [Basic Adobe Illustrator Shortcuts](shortcuts.md)
   
 ________________________________________________________________________
 

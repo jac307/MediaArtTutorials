@@ -123,28 +123,19 @@ You must create a **final version of the complete Project 1 document** that reco
 
 > Maintain the same visual system established throughout the document. Pay attention to typography, hierarchy, margins, alignment, spacing, image placement, and consistency across pages.
 
-## 1. Add the final scanned colour palette
+---
 
-Under the existing **Colour** section, add the **final approved version of the scanned physical colour palette**.
-
-If your group revised the palette after instructor feedback, include the **final revised palette**, not the earlier version.
-
-> The scan should be clearly presented and large enough to evaluate the painted colours.
-
-## 2. Add two professional photographs of the final sculpture
-
-- [Available Equipment](Equipment.md)
-- [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
+## 1. Create a title page
 
 Create a **title page at the beginning of the document** using **two professional photographs** of the completed sculpture from **two distinctive perspectives**.
 
-The title page should include:
+The title page must include:
 
 - **Title of the work**
 - **Group members' names**
 - **Two professional photographs of the sculpture**
 
-For example, the photographs may show:
+The photographs may show, for example:
 
 - Front and side
 - Front and three-quarter view
@@ -156,6 +147,9 @@ The photographs should document the **sculpture itself rather than the exhibitio
 > The two images should be arranged as part of a **visually cohesive title-page design** and should establish the visual identity of the final documentation.
 
 ### Photography requirements
+
+- [Available Equipment](Equipment.md)
+- [DSLR Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
 
 Consider consistency across both photographs:
 
@@ -173,6 +167,18 @@ The photographs should:
 - Present the sculpture clearly.
 - Show the form, colour, engraved texture, depth, and assembly.
 - Be edited consistently if image adjustments are necessary.
+
+---
+
+## 2. Add the final scanned colour palette
+
+Under the existing **Colour** section, add the **final approved version of the scanned physical colour palette**.
+
+If your group revised the palette after instructor feedback, include the **final revised palette**, not the earlier version.
+
+> The scan should be clearly presented and large enough to evaluate the painted colours.
+
+---
 
 ## 3. Add an Exhibition Documentation page
 
@@ -207,6 +213,8 @@ All photographs must be large enough to evaluate clearly.
 - Design each page so the photographs and written information form a **visually cohesive composition**.
 
 > Consider the final PDF as a piece of **professional project documentation**, not simply a collection of images.
+
+---
 
 ## Final document check
 
@@ -312,16 +320,15 @@ The final PDF must include:
 3. **Material and structural planning**
 
 4. **Colour planning**
+   - include the final scanned colour palette
 
-5. **Final scanned colour palette**
-
-6. **Exhibition Documentation page** with:
+5. **Exhibition Documentation page** with:
    - Exhibition name
    - Date
    - Location
    - 3–4 photographs of the sculpture in context
 
-> **Failure to follow the documentation requirements, image specifications, exhibition requirements, or naming conventions may result in grade deductions.**
+> **Failure to follow the documentation, exhibition, image, or naming requirements may result in grade deductions.**
 
 ---
 
