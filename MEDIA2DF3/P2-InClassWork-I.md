@@ -20,9 +20,15 @@ During Part 1, each pair will develop the **concept, visual direction, research,
 
 The project should build on concepts and techniques developed throughout  **all Composition Techniques**, applying principles of form and spatial relationships, repetition and variation, shape and structure, texture, colour, Gestalt principles, visual hierarchy, composition, visual style, and image-making and representation to develop intentional and cohesive visual interpretations of the assigned animal.
 
-Each student will begin producing their **first individual composition** in either **Adobe Illustrator or Adobe Photoshop**.
+---
 
-The planning and documentation for the project must be **designed and assembled in Adobe InDesign**.
+## Software
+
+- **Adobe InDesign** — planning and project documentation
+- **Adobe Illustrator** — vector-based composition and illustration
+- **Adobe Photoshop** — raster-based composition, image manipulation, collage, texture, and digital painting
+
+> **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.**
 
 ---
 
@@ -296,7 +302,7 @@ For Part 1, begin with your assigned:
 
 Use the sketches and visual direction established with your partner as the basis for production.
 
-> Complete **at least 80% of your first composition before the next class**.
+> Complete **at least 70% of your first composition for submission**.
 
 Your composition should demonstrate intentional decisions related to:
 
