@@ -57,6 +57,8 @@ Before mixing paint, your group must decide how colour will operate across the c
 
 ## Develop the colour approach
 
++ [Composition Techniques II](Comp-Tech-2.md){:target="_blank"}
+
 Consider:
 
 - The selected **colour scheme**
@@ -120,9 +122,9 @@ SECTION 2
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Mix and test the physical colour palette</span>
+    <span class="section-title">2. Mix, test, scan, and submit the physical colour palette</span>
     <span class="section-description">
-      Hand-mix the planned colours and test them using the provided Project 1 Colour Palette worksheet.
+      Hand-mix the planned colours, test them on the provided worksheet, and submit the scanned palette for feedback before painting the final pieces.
     </span>
   </summary>
 
@@ -130,7 +132,7 @@ SECTION 2
 
 After completing the colour plan, begin testing the palette using acrylic paint.
 
-The instructor will provide each group with a printed **P1 – Colour Palette** worksheet.
+The instructor will provide each group with a **printed copy** of the [P1 – Colour Palette worksheet](imgs/P1-Colour-Palette-Proportion-Plan.pdf), and a digital copy is also available here for reference.
 
 Your group must **hand-mix the colours and paint directly onto the worksheet** to create a physical record of the proposed palette.
 
@@ -142,7 +144,7 @@ All colours must be mixed using:
 |---|---|---|---|---|
 | Red | Yellow | Blue | White | Black |
 
-Do not use additional pre-mixed colours.
+> Do not use additional pre-mixed colours.
 
 ## Colour mixing
 
@@ -150,14 +152,11 @@ Use concepts from Composition Techniques II to create intentional relationships 
 
 Consider:
 
-- Hue
-- Saturation
-- Value
-- Contrast
-- Gradation
-- Colour perspective
-- Colour proportioning
-- Dominant, secondary, and accent relationships
+|  |  |  |
+|---|---|---|
+| Hue | Saturation | Value |
+| Contrast | Gradation | Colour perspective |
+| Colour proportioning | Dominant, secondary, and accent relationships |  |
 
 Mix **small test quantities first**.
 
@@ -165,28 +164,11 @@ Mix **small test quantities first**.
 
 Paint the proposed colours directly into the boxes on the provided worksheet.
 
-Try to apply the paint evenly so that the worksheet provides an accurate representation of how the colours will appear on the birchwood.
+Apply the paint evenly so the worksheet provides an accurate representation of how the colours may appear on the birchwood.
 
 Keep notes about how each colour was mixed so that you can reproduce it later.
 
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 3
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Scan and submit the colour palette for feedback</span>
-    <span class="section-description">
-      Digitize the painted worksheet and submit it with the revised Project 1 planning document before painting the wooden pieces.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Scan and submit the palette
 
 Once the physical palette worksheet is complete, **scan it in colour**.
 
@@ -229,15 +211,15 @@ If changes are requested:
 
 <!-- 
 /////////////////
-SECTION 4
+SECTION 3
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Schedule the laser-cutting session</span>
+    <span class="section-title">3. Schedule, laser cut, and prepare the birchwood pieces</span>
     <span class="section-description">
-      Select one of the available appointments on Avenue to Learn and attend the scheduled production session with the instructor at the Thode Makerspace.
+      Schedule a production session at the Thode Makerspace, complete the laser cutting and engraving, and prepare the birchwood pieces for painting.
     </span>
   </summary>
 
@@ -246,6 +228,8 @@ SECTION 4
 In parallel with the colour-planning activities, each group must schedule a **laser-cutting session with the professor at the Thode Makerspace**.
 
 Available appointment options will be posted on **Avenue to Learn**.
+
+## Schedule the session
 
 Your group must:
 
@@ -271,28 +255,11 @@ The instructor will check:
 
 Groups that miss their appointment will be responsible for following the instructions provided on Avenue to Learn regarding rescheduling.
 
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Laser cut and prepare the birchwood pieces</span>
-    <span class="section-description">
-      Produce the physical components, prepare the surfaces, and organize the pieces for painting and assembly.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Laser cutting and engraving
 
 During your scheduled session, laser cut and engrave the components using the two approved Inkscape files.
 
-Carefully collect:
+Carefully collect and organize all components, including:
 
 - Base
 - Repeated planes
@@ -312,20 +279,20 @@ After laser cutting:
 4. Clean dust from the surfaces.
 5. Keep the engraved areas clearly visible.
 
-> Do not apply the final colour palette until you have received feedback on the submitted palette worksheet.
+> **Do not apply the final colour palette until you have received feedback on the submitted palette worksheet.**
 
 </div>
 </details>
 
 <!-- 
 /////////////////
-SECTION 6
+SECTION 4
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Apply the approved colour palette</span>
+    <span class="section-title">4. Apply the approved colour palette</span>
     <span class="section-description">
       Reproduce the approved palette, prepare the surfaces, and apply the final colour system to the birchwood components.
     </span>

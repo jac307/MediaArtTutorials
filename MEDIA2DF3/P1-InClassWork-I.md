@@ -67,8 +67,6 @@ Your project should translate these ideas from a **two-dimensional composition i
 
 ### Composition Techniques II
 
-+ [Composition Techniques II](Comp-Tech-2.md){:target="_blank"}
-
 The final project will also apply:
 
 * Colour schemes
