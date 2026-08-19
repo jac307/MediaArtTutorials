@@ -25,6 +25,13 @@ Final compositions will demonstrate the application of Wong’s principles of fo
 
 > **This project is inspired by the paper-engineered sculptural work of <a href="https://www.mattshlian.com/" target="_blank">Matt Shlian</a>.**
 
+### Software
+
+This project uses:
+
+- **Inkscape** — for creating and preparing vector files for laser cutting and engraving
+- **Adobe InDesign** — for designing and assembling the project planning and final documentation PDFs
+
 ---
 
 ## Index
@@ -67,9 +74,9 @@ REQUIRED MATERIALS
 
 Estimated cost per student: **$10 CAD — charged through McMaster accounts**. This includes:
   
-- Fine-grit sandpaper
-- Two Birchwood sheets (0.3 in thick, 24 × 12 in) per group
-- High-quality paper and printing for Project 2
+- Fine-grit sandpaper (Project 1)
+- Two Birchwood sheets (0.3 in thick, 24 × 12 in) per group (Project 1)
+- High-quality paper and printing (Project 2)
 
 ## Materials purchased by each group
 

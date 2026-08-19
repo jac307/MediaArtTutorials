@@ -1,8 +1,8 @@
-[MEDIA 2DF3](README.md) | [Project 2](P2-README.md)
+[← MEDIAART 2DF3](README.md) | [Project 2](P2-README.md)
 
--------------------------------------------------------------------------------
+---
 
-<h1 style="color: darkred;">P2 – In-Class Work I: Sketching & First Composition</h1>  
+<h1 style="color: darkred;">P2 – In-Class Work I: Research, Sketching & First Composition</h1>  
 *Project 2 – In Pairs with Individual Work*
 
 <figure style="width: 100%; margin: auto;">
@@ -14,96 +14,432 @@
 
 ---
 
-## Objective
+## Goal
 
-Students will collaborate in **pairs** to create a **series of four compositions**, each offering a different visual interpretation of an assigned sea animal.
+During Part 1, each pair will develop the **concept, visual direction, research, and initial sketches** for a series of four compositions based on an assigned animal.
 
-Each student will individually produce **two compositions**, ensuring a diverse range of styles—from **abstraction** to **figurative** to **realistic**.
+Each student will then begin producing their **first individual composition** in either **Adobe Illustrator or Adobe Photoshop**.
 
-The final works will be assembled together in a structured layout and showcased in an open exhibition.
+The project should build on concepts and techniques developed throughout the **Composition Techniques**, including:
 
-**Software**:  
-- Adobe Illustrator (primary tool for composition)  
-  - ⚠️ **Do not use the Image Trace tool** in Adobe Illustrator or Photoshop ⚠️
-- Adobe Photoshop (optional, for textures and image optimization only)
+- Form and spatial relationships
+- Repetition and variation
+- Shape and structure
+- Texture
+- Colour
+- Gestalt principles
+- Visual hierarchy
+- Composition
+- Visual style
+- Image-making and representation
+
+The planning and documentation for the project must be **designed and assembled in Adobe InDesign**.
+
+---
+
+## Software
+
+- **Adobe InDesign** — planning and project documentation
+- **Adobe Illustrator** — vector-based composition and illustration
+- **Adobe Photoshop** — raster-based composition, image manipulation, collage, texture, and digital painting
+
+> You may use **Illustrator, Photoshop, or a combination of both** to create the final compositions. Choose the software according to the visual approach and techniques required by your design.
+
+> **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.**
 
 ---
 
 ## Composition Breakdown
 
-Each pair must create four compositions:
+Each pair will produce **four compositions** based on the same assigned animal:
 
-1. **Realistic Representation** (1 composition)  
-   - Accurate and detailed rendering  
-   - Focus on anatomy, texture, and shading  
+| Student 1 | Student 2 |
+|---|---|
+| 1 Abstract Composition | 1 Abstract Composition |
+| 1 Realistic or Figurative Composition | 1 Realistic or Figurative Composition |
 
-2. **Figurative/Illustrative Interpretation** (1 composition)  
-   - Stylized or expressive but still recognizable  
-   - Can include collage or digital illustration
+Across the complete series, the pair must include:
 
-3. **Abstract Representations** (2 compositions)  
-   - Geometric or minimalistic  
-   - Inspired by **Gestalt principles**, **negative space**, or **shape simplification**
+- **2 Abstract compositions**
+- **1 Figurative / Illustrative composition**
+- **1 Realistic composition**
 
-> Each student creates one abstract composition and either the realistic or figurative piece. Decide this collaboratively. You must **maintain the same aspect ratio** in all of your compositions to ensure visual consistency across the project.
+### Realistic Representation
+
+The animal should be represented with attention to:
+
+- Anatomy
+- Proportion
+- Surface
+- Texture
+- Light and shadow
+- Recognizable physical characteristics
+
+### Figurative / Illustrative Interpretation
+
+The animal should remain recognizable while allowing greater transformation through:
+
+- Stylization
+- Simplification
+- Exaggeration
+- Collage
+- Illustration
+- Expressive shape
+- Colour
+- Texture
+
+### Abstract Representation
+
+The animal should be transformed through formal and conceptual experimentation rather than direct representation.
+
+Consider:
+
+- Geometric or organic simplification
+- Fragmentation
+- Positive and negative space
+- Repetition
+- Scale
+- Cropping
+- Gestalt principles
+- Shape relationships
+- Texture
+- Colour
+- Visual rhythm
+
+> Each student must create **one abstract composition** and either the **realistic** or **figurative** composition. Decide these roles collaboratively.
+
+> All four compositions must use the **same dimensions and aspect ratio** so that they can be presented together as a cohesive series.
 
 ---
 
-<h3 style="color: darkred;">[30–45 min] Sketching & Planning</h3>
+## Activity stages
 
-Before jumping into digital work, students will complete a guided **brainstorming session** and begin sketching.
+Complete the following stages in order.
 
-### Brainstorming Questions:
-- **Understanding the Animal**:
-  - What are its key characteristics? (Shape, movement, texture, colour, patterns)
-  - What makes it visually unique?
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-- **Style Exploration**:
-  - What techniques are best for realistic/figurative representation?
-  - How can it be simplified into geometric/abstract form?
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Research the assigned animal</span>
+    <span class="section-description">
+      Identify the animal's distinctive visual characteristics and collect references that can inform realistic, figurative, and abstract interpretations.
+    </span>
+  </summary>
 
-- **Collaboration & Unity**:
-  - What will visually connect your four compositions?
-  - Will you share a colour palette, framing, or background style?
-  - How will your pieces be displayed together?
+<div class="section-content" markdown="1">
 
-### Group Submission Requirement:
-Each pair must submit a brainstorming document that includes:  
-- Answers to the questions above  
-- A short summary (3–5 sentences) describing the group’s artistic direction  
-- Rough sketches of all four compositions (2 per student)  
-- Colour palette considerations  
+Before sketching, research the assigned animal carefully.
 
-**📤 Group Submission**. **Naming Protocol**: `Group-#-Notes.pdf`
+Your research should help you understand its visual characteristics rather than simply provide images to copy.
 
----
+Consider:
 
-<h3 style="color: darkred;">[Remaining Time] Start First Digital Composition</h3>
+|  |  |  |
+|---|---|---|
+| Overall shape | Anatomy | Proportion |
+| Movement | Texture | Surface patterns |
+| Colour | Silhouette | Distinctive features |
+| Habitat | Scale | Behaviour |
 
-Each student begins working on either the **realistic** or **figurative** composition in **Adobe Illustrator**.  
-Photoshop may be used for minor **texture or image effects** only.  
+Collect several visual references showing the animal from **different perspectives**.
 
-Each student must complete **at least 80%** of their realistic or figurative composition before the next class.
+Look for:
 
-### Document Setup:
+- Full-body photographs
+- Close-up details
+- Different viewpoints
+- Surface textures and patterns
+- Movement or body positions
+- Anatomical references
 
-**Your Illustrator document must include the following settings for Logo Design:**
-- **Naming Protocol**: `Lastname-Firstname-P2-1` or `Lastname-Firstname-P2-2`
-- **Units:** Inches  
-- **Size:** **6–8 inches** on its **longest side** (either width or height)
-- **Bleed:** 0.3 in (on all sides) 
-- **Color Mode:** RGB  
-- **Raster Effects:** High (300 PPI)
+> Use the research to identify what makes the animal visually distinctive and what characteristics could be preserved, exaggerated, simplified, fragmented, or abstracted.
 
-**Required Layers:**
-- **Guides Layer**: Include an inner rectangular border at **0.3 in** from the edges.  
-- **Composition Layer**: This is where your main shapes should go.  
-- **Background Layer**: Add any background colors or images here.
+</div>
+</details>
 
-> **Maintain the same aspect ratio** in all of your compositions to ensure visual consistency across the project.
-> ⚠️ **Important**: Make sure you follow the document setup instructions to avoid losing points.
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
 
-### Useful Tools / Tutorials:
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Develop the pair's visual direction</span>
+    <span class="section-description">
+      Establish how the four individual compositions will relate to one another as a cohesive series.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Although each composition is created individually, the four works must function together as a **cohesive series**.
+
+Discuss how the compositions will relate visually while still allowing each student to develop an individual approach.
+
+Consider:
+
+### Representation
+
+- Which student will create the **realistic composition**?
+- Which student will create the **figurative composition**?
+- How will the two abstract compositions differ from one another?
+- What visual characteristics of the animal should remain recognizable across the series?
+
+### Visual unity
+
+Consider shared or related approaches to:
+
+|  |  |  |
+|---|---|---|
+| Colour | Composition | Background |
+| Scale | Cropping | Texture |
+| Typography, if used | Visual hierarchy | Framing |
+| Repetition | Shape language | Overall mood |
+
+> The four works should feel related without appearing identical. **Cohesion does not mean duplication.**
+
+### Composition Techniques
+
+Identify concepts from previous Composition Techniques that could inform the series.
+
+Consider:
+
+- Wong's principles of form and composition
+- Interrelationships of form
+- Repetition and variation
+- Similarity
+- Gradation
+- Contrast
+- Concentration
+- Space
+- Texture
+- Gestalt principles
+- Colour relationships
+- Colour proportioning
+- Visual styles
+- Samara's design principles
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Sketch and create the Project 2 planning document</span>
+    <span class="section-description">
+      Develop all four compositions through sketches and assemble the research, concepts, and visual planning into a designed Adobe InDesign document.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Each pair must create **one shared Project 2 planning document in Adobe InDesign**.
+
+The document will continue to be updated throughout the project.
+
+## Document setup
+
+Use:
+
+- **Software:** Adobe InDesign
+- **Page size:** Letter — 8.5 × 11 in
+- **Orientation:** Portrait or landscape
+- **Pages:** As many as necessary
+- **Export:** PDF
+- **Filename:** `Group-#-Project2-Design.pdf`
+
+> The planning PDF is not simply a collection of notes and sketches. It must be a **designed document**.
+
+Pay attention to:
+
+|  |  |  |
+|---|---|---|
+| Layout | Margins | Alignment |
+| Typography | Hierarchy | Image placement |
+| Scale | Spacing | Consistency across pages |
+
+Sketches, research images, and written information should be intentionally arranged and visually integrated throughout the document.
+
+## The document must include
+
+1. **Group information**
+   - Group number
+   - Both students' names
+   - Assigned animal
+
+2. **Animal research**
+   - Selected reference images
+   - Notes identifying the animal's important visual characteristics
+   - Relevant information about shape, anatomy, movement, texture, colour, and patterns
+
+3. **Series concept**
+   - Write a short **3–5 sentence statement** describing the pair's overall visual direction.
+
+4. **Individual roles**
+   - Identify who will create:
+     - Realistic composition
+     - Figurative composition
+     - Abstract Composition 1
+     - Abstract Composition 2
+
+5. **Visual cohesion**
+   - Explain what will connect the four compositions visually.
+
+6. **Design concepts**
+   - Identify relevant concepts from the Composition Techniques that will inform the work.
+
+7. **Four sets of annotated sketches**
+   - Student 1 – Abstract
+   - Student 1 – Realistic or Figurative
+   - Student 2 – Abstract
+   - Student 2 – Realistic or Figurative
+
+8. **Colour considerations**
+   - Identify preliminary colour relationships and how colour may create unity across the series.
+
+> Each student must contribute directly to the research, planning, and sketches included in the document.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Set up the digital composition files</span>
+    <span class="section-description">
+      Establish consistent dimensions and technical settings for all four final compositions.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Before beginning digital production, the pair must agree on the **same dimensions and aspect ratio** for all four compositions.
+
+The longest side must measure between **6–8 inches**.
+
+For example:
+
+- 6 × 8 in
+- 8 × 6 in
+- 7 × 7 in
+- Another approved format within the required size range
+
+> Once selected, the **same dimensions and orientation must be used for all four compositions**.
+
+## Adobe Illustrator setup
+
+If working in Illustrator:
+
+| Setting | Requirement |
+|---|---|
+| Units | Inches |
+| Size | 6–8 in on longest side |
+| Bleed | 0.3 in on all sides |
+| Colour Mode | RGB |
+| Raster Effects | High — 300 PPI |
+
+### Required layers
+
+- **Guides**
+- **Composition**
+- **Background**
+
+The Guides layer must include an inner margin guide **0.3 in from the edges**.
+
+## Adobe Photoshop setup
+
+If working in Photoshop:
+
+| Setting | Requirement |
+|---|---|
+| Units | Inches |
+| Size | Same dimensions selected by the pair |
+| Resolution | 300 PPI |
+| Colour Mode | RGB |
+| Bit Depth | 16-bit recommended |
+
+Maintain clearly organized and editable layers.
+
+> Do not flatten the working Photoshop file.
+
+## File naming
+
+Each student's two compositions will eventually be numbered:
+
+- `Lastname-Firstname-P2-1`
+- `Lastname-Firstname-P2-2`
+
+Your pair should agree on which number corresponds to each student's **abstract** and **realistic/figurative** composition before production begins.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Begin the first individual composition</span>
+    <span class="section-description">
+      Translate the approved sketch into a developed digital composition using Illustrator, Photoshop, or both.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Each student must begin their **first individual composition**.
+
+For Part 1, begin with your assigned:
+
+- **Realistic composition**, or
+- **Figurative / Illustrative composition**
+
+Use the sketches and visual direction established with your partner as the basis for production.
+
+Your composition should demonstrate intentional decisions related to:
+
+|  |  |  |
+|---|---|---|
+| Composition | Shape | Space |
+| Colour | Texture | Hierarchy |
+| Scale | Contrast | Visual movement |
+| Representation | Craft | Concept |
+
+> The goal is not simply to create an image of the animal. Consider how your **formal, conceptual, and technical decisions** communicate a particular interpretation of it.
+
+## Illustrator and Photoshop
+
+You may:
+
+- Create vector forms in Illustrator
+- Draw or construct forms manually
+- Work with original photography
+- Create digital collage
+- Paint or manipulate raster imagery in Photoshop
+- Develop textures
+- Combine Illustrator and Photoshop workflows
+
+You may **not** use Image Trace or similar automated tracing methods to generate the composition.
+
+### Useful Tools / Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHivaPFLOps?si=ziXmH2AczRHg6nwo&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -121,18 +457,79 @@ Each student must complete **at least 80%** of their realistic or figurative com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LqMxioRA7_g?si=SMY8f8fB6nLzqTV_&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+> Complete **at least 80% of your first composition before the next class**.
 
-<h3 style="color: darkred;">📥 Submission</h3>
-
-1. Group brainstorming notes and sketches
-   - **Naming Protocol**: `Group-#-Notes.pdf`
-
-2. Two **Individual** Submission
-   - **Naming:**  
-     - `Lastname-Firstname-P2-1.pdf`  
-     - `Lastname-Firstname-P2-2.pdf`
-
-> 📌 **Failure to follow document setup or naming instructions may result in a grade deduction.**
+</div>
+</details>
 
 ---
+
+## Submission
+
+Submit **three files per pair**:
+
+| Item | Required filename |
+|---|---|
+| Designed Project 2 research, concept, and sketches PDF | `Group-#-Project2-Design.pdf` |
+| Student 1 – First Composition | `Lastname-Firstname-P2-1.pdf` |
+| Student 2 – First Composition | `Lastname-Firstname-P2-1.pdf` |
+
+### Before submitting
+
+<fieldset class="equipment-checklist">
+  <legend>Part 1 Submission Check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The InDesign planning document is complete.</strong>
+      It includes the animal research, series concept, visual direction, student roles, and annotated sketches for all four compositions.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The planning document is visually cohesive.</strong>
+      Layout, typography, hierarchy, spacing, alignment, images, and sketches are intentionally designed.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Both first compositions follow the same agreed dimensions and aspect ratio.</strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The digital files follow the required technical setup.</strong>
+      Dimensions, colour mode, resolution, bleed, guides, and layers are correct for the software used.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The compositions remain original and editable.</strong>
+      Image Trace or automated tracing was not used to generate the work.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>The filenames are correct.</strong>
+      All three submitted PDFs follow the required naming protocols.
+    </span>
+  </label>
+
+</fieldset>
+
+> **Failure to follow the planning-document requirements, composition setup, technical specifications, or naming instructions may result in grade deductions.**
+
+---
+
+Credits: Jessica A. Rodríguez

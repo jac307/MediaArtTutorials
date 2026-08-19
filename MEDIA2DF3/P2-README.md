@@ -1,6 +1,6 @@
-[MEDIA 2DF3](README.md)
+[MEDIAART 2DF3](README.md)
 
--------------------------------------------------------------------------------
+---
 
 <h1 style="color: darkred;">Project 2 – Morphologies</h1> 
 *In Pairs with Individual Work*
@@ -8,18 +8,33 @@
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/25.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students working with the Morphologies of Animals from the Deep Sea.
+    Examples by previous students working with Morphologies of Animals from the Deep Sea.
   </figcaption>
 </figure>
 
+---
+
 ## Overview
 
-In this project, students will work in **pairs** to create a **series of four digital compositions** that explore different visual interpretations of an animal. Each student will produce **two compositions individually**: one abstract and one either realistic or figurative.  
+In this project, students will work in **pairs** to develop a series of **four digital compositions exploring different visual interpretations of an assigned animal**.
 
-Compositions will range in style from **abstraction** to **realism**, challenging students to apply formal design principles and techniques across varied representational modes. The final project will be showcased in a public exhibition.
+> **The assigned animal will be announced in class. Animal selection will take place through a randomized draw.**
 
-> **The assigned animal will be announced in class.**  
-> **Animal selection will happen through a randomized draw, in class.**
+Each student will create **two individual compositions**:
+
+1. **One abstract interpretation**
+2. **One realistic or figurative interpretation**
+
+Working from research and sketching through digital production and final print preparation, students will explore how the same subject can be transformed through different approaches to **form, composition, colour, image-making, visual hierarchy, and representation**.
+
+> This project combines **collaborative planning with individual execution**. Both students are responsible for ensuring that the four compositions function together as a visually cohesive series. Follow all document setup, production, submission, and exhibition requirements outlined in each section.
+
+### Software
+
+This project uses:
+
+- **Adobe Illustrator** or **Adobe Photoshop** — for creating and  vector or raster files
+- **Adobe InDesign** — for designing and assembling the project planning and final documentation PDFs
 
 ---
 
@@ -29,9 +44,16 @@ Compositions will range in style from **abstraction** to **realism**, challengin
 + [Part 2 – In-Class Work II: Second Composition & Layout Planning](P2-InClassWork-II.md)
 + [Final Submission Guidelines](P2-Final-Submission.md)
 
+---
+
+## Materials charged through McMaster
+
+Estimated cost per student: **$10 CAD — charged through McMaster accounts**. This includes:
+
+- High-quality paper and printing (Project 2)
+- Fine-grit sandpaper (Project 1)
+- Two Birchwood sheets (0.3 in thick, 24 × 12 in) per group (Project 1)
 
 ---
 
-❗ **Reminder:** All parts of this project involve both collaborative planning and individual execution. Be sure to follow all file setup, submission protocols, and deadlines as outlined in each linked document.
-
----
+Credits: Jessica A. Rodríguez
