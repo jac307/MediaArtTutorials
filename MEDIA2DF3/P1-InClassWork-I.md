@@ -168,16 +168,11 @@ The engraved texture should support the overall design rather than function as u
 
 Possible approaches include:
 
-* Repeated lines
-* Directional marks
-* Geometric patterns
-* Organic patterns
-* Gradation of density
-* Concentration
-* Repetition
-* Changes in spacing
-* Linear textures
-* Custom vector patterns
+|                      |                        |                    |                    |
+| -------------------- | ---------------------- | ------------------ | ------------------ |
+| Repeated lines       | Directional marks      | Geometric patterns | Organic patterns   |
+| Gradation of density | Concentration          | Repetition         | Changes in spacing |
+| Linear textures      | Custom vector patterns |                    |                    |
 
 Clearly identify in your sketches:
 
