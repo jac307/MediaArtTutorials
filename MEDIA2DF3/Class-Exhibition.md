@@ -8,18 +8,6 @@ As a culminating activity for the course, students will **participate in a class
 
 The exhibition will take place during **Week 13**. The **exact date, time, location, and setup schedule will be announced on Avenue to Learn**.
 
-Students are expected to contribute to the collective setup, remain for the entire event, and actively engage with visitors. All presentation and mounting materials must be prepared in advance.
-
----
-
-## Exhibition Components
-
-The exhibition will include:
-
-- **Project 1 – Vector to Volume**
-- **Project 2 – Morphologies**
-- **Selected In-Class Exercises**
-
 The instructor will organize the overall class exhibition and the display of selected exercises. Students are responsible for preparing and presenting their own **Project 1 and Project 2 works** according to the requirements below.
 
 ---
@@ -28,11 +16,9 @@ The instructor will organize the overall class exhibition and the display of sel
 
 This activity contributes to the final course grade and will assess:
 
-- **Framing and presentation of Project 1**
-- **Framing and presentation of Project 2**
+- **Project 1 and 2 exhibition presence and setup**
 - **Participation in general exhibition setup and cleanup duties**
-- **Engagement during the exhibition**
-- **Brief group presentation of the projects**
+- **Engagement and presentation to exhibition attendees**
 
 > Students must participate in the complete exhibition process. Missing required setup, presentation, exhibition, or cleanup activities may result in grade deductions.
 
@@ -46,13 +32,15 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Prepare Project 1 for exhibition</span>
+    <span class="section-title">1. Prepare Project 1 and Project 2 for exhibition</span>
     <span class="section-description">
-      Bring the completed Vector to Volume sculpture ready for installation and presentation.
+      Bring both projects complete and ready for installation, including all required mounting materials for Project 2.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
+
+## Project 1 – Vector to Volume
 
 Bring your **fully completed Project 1 sculpture** to the exhibition.
 
@@ -70,24 +58,9 @@ Your group is responsible for making sure the sculpture is presented carefully a
 
 > **Failure to bring the completed Project 1 sculpture to the exhibition will result in a grade deduction.**
 
-</div>
-</details>
+---
 
-<!-- 
-/////////////////
-SECTION 2
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">2. Prepare and mount Project 2</span>
-    <span class="section-description">
-      Bring the complete five-image series and all required mounting materials and install the work according to your exhibition plan.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Project 2 – Morphologies
 
 Bring the **complete five-image series and all required mounting materials** to the exhibition.
 
@@ -101,7 +74,7 @@ The complete series includes:
 4. Student 2 – Abstract Composition
 5. Original photographic reference
 
-## Mounting and presentation
+### Mounting and presentation
 
 You are responsible for mounting and installing the five-image series.
 
@@ -131,80 +104,80 @@ Your mounting strategy should demonstrate:
 
 <!-- 
 /////////////////
-SECTION 3
+SECTION 2
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Participate in the general exhibition setup and cleanup</span>
+    <span class="section-title">2. Participate in setup or cleanup and engage throughout the exhibition</span>
     <span class="section-description">
-      Contribute to the collective preparation, organization, installation, and cleanup of the exhibition space.
+      Complete your assigned setup or cleanup shift, remain for the full exhibition, and actively engage with classmates and visitors.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-All students are expected to contribute to the **general setup and cleanup of the exhibition space**.
+The class will be divided into **two teams**:
+
+- **Setup Team**
+- **Cleanup Team**
+
+> Check **Avenue to Learn** for the sign-up sheet, exhibition schedule, and exact arrival or departure times.
+
+## Setup Team
+
+Students assigned to setup must arrive **1 hour and 30 minutes before the exhibition begins**.
+
+Remember that you are responsible for **setting up your own Project 1 work** while also contributing to the **general exhibition setup**. Plan your installation in advance and arrive with enough time to complete your own work **without limiting your participation in the setup team**.
 
 Responsibilities may include:
 
 - Arranging tables, furniture, and display areas
 - Helping install Project 1 works
 - Helping organize selected in-class exercises
-- Supporting classmates with installation when needed
-- Maintaining a clean and organized exhibition space
-- Assisting with cleanup after the exhibition
-- Returning, storing, or responsibly disposing of materials
+- Preparing the exhibition space for visitors
 
-> Exhibition setup is a **shared class responsibility**. Failure to participate in assigned setup or cleanup duties will affect your exhibition grade.
+> **Being part of the Setup Team means contributing to the overall exhibition, not only installing your own work.** Plan accordingly so you have enough time for both responsibilities.
 
-The instructor will provide the **setup and cleanup schedule on Avenue to Learn** before Week 13.
+## Cleanup Team
 
-</div>
-</details>
+Students assigned to cleanup must remain for **1 hour after the exhibition closes**.
 
-<!-- 
-/////////////////
-SECTION 4
-/////////////////
--->
+Responsibilities may include:
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Participate in the exhibition and present your projects</span>
-    <span class="section-description">
-      Remain for the full exhibition, engage with visitors, and give a brief group presentation about the projects.
-    </span>
-  </summary>
+- Taking down class-wide displays
+- Moving furniture and display materials
+- Helping classmates remove their work
+- Cleaning and organizing the exhibition space
+- Returning, storing, recycling, or responsibly disposing of materials
 
-<div class="section-content" markdown="1">
+> Each student is required to participate in their **selected setup or cleanup shift**. Failure to attend or complete the assigned duties will affect the exhibition grade.
 
-All students must remain for the **full duration of the Class Exhibition**.
+--- 
 
-During the exhibition, you are expected to:
+## Engagement during the exhibition
 
-- Engage with visitors
-- Answer questions about your work
-- Discuss your creative and technical decisions
-- Support the presentation of the class exhibition
-- Participate in a **brief group presentation**
+All students must remain for the **full duration of the Class Exhibition** and actively participate throughout the event.
 
-## Group presentation
+You are expected to:
 
-Each group will give a brief presentation discussing **Project 1 and/or Project 2**, as directed by the instructor.
+- Visit and engage with **other students' work**
+- Be present near your own work and available to **explain your projects to visitors**
+- Answer questions about your concept, process, technical decisions, and final presentation
+- Discuss your work with classmates, visitors, and invited professors
+- Support your group partner during conversations about the projects
+- Remain actively engaged throughout the exhibition rather than leaving your work unattended for extended periods
 
-Your presentation should address:
+> **Professors and other guests will be invited to attend the exhibition.** Be prepared to introduce your work clearly and discuss the decisions behind Projects 1 and 2.
 
-- Project concept
-- Design process
-- Important formal and technical decisions
-- Relevant concepts from the Composition Techniques
-- Important revisions made during the project
-- Final presentation or exhibition decisions
-- What you learned through the process
+## Exhibition opening
 
-> The presentation should explain your decisions and development rather than simply describe what is visible.
+The instructor will select **one or two students** to give a brief introduction at the beginning of the exhibition as part of the **official opening**.
+
+The introduction will briefly welcome visitors and introduce the exhibition and the work produced by the class.
+
+> Engagement is assessed **throughout the exhibition**, not only when speaking about your own project.
 
 </div>
 </details>
@@ -220,11 +193,26 @@ Before arriving, make sure you have:
 - **All Project 2 mounting materials**
 - Any additional materials required by your approved exhibition plan
 - Any tools specifically needed for your installation
-- Your group prepared for the brief project presentation
+- Your group prepared to discuss and present the projects to visitors
 
-> All presentation materials must be organized **before arriving at the exhibition setup**.
+> All presentation and mounting materials must be organized **before arriving at the exhibition setup**.
 
-> **The exhibition will take place during Week 13. Check Avenue to Learn for the exact date, time, location, setup schedule, and any additional instructions.**
+## Plan your installation time
+
+All students are responsible for **setting up their own Project 1 and Project 2 work before the exhibition opens**.
+
+Plan in advance how much time your installation will require and arrange to arrive **approximately 1–2 hours before the exhibition begins**, depending on the complexity of your setup.
+
+Consider the time needed to:
+
+- Assemble or position Project 1
+- Mount and arrange the five Project 2 images
+- Measure spacing and alignment
+- Attach mounting materials securely
+- Make final adjustments
+- Clean and prepare the display area before visitors arrive
+
+> **Do not assume your installation can be completed immediately before the exhibition opens.** Allow enough time to complete the setup carefully and have both projects fully exhibition-ready before the scheduled opening.
 
 ---
 
