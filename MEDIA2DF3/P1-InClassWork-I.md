@@ -55,21 +55,12 @@ Your group must develop the project using concepts explored throughout **Composi
 
 Consider how your structure applies:
 
-* **Interrelationships of Form**
-* **Repetition and repetition arrangements**
-* **Similarity**
-* **Gradation**
-* **Anomaly**
-* **Concentration**
-* **Radiation**
-* **Contrast**
-* **Space**
-* **Texture**
-* **Grid and structural organization**
-* **Dot, Line, Plane, and Mass**
-* **Surface Activity**
-* **Breaking Space**
-* **Arranging Form**
+|                            |                                        |                                  |                            |
+| -------------------------- | -------------------------------------- | -------------------------------- | -------------------------- |
+| Interrelationships of Form | Repetition and repetition arrangements | Similarity                       | Gradation                  |
+| Anomaly                    | Concentration                          | Radiation                        | Contrast                   |
+| Space                      | Texture                                | Grid and structural organization | Dot, Line, Plane, and Mass |
+| Surface Activity           | Breaking Space                         | Arranging Form                   |                            |
 
 Your project should translate these ideas from a **two-dimensional composition into a three-dimensional physical structure**.
 
