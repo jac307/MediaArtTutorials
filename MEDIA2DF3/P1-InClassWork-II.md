@@ -1,9 +1,9 @@
-[← MEDIA 2DF3](README.md) | [Project 1 Overview](P1-README.md)
+[← MEDIAART 2DF3](README.md) | [Project 1 Overview](P1-README.md)
 
 ---
 
-<h1 style="color: darkred;">P1 – In-Class Work II: Laser Cutting, Surface Prep, & Colour Planning</h1>  
-*Group Project – 3 to 4 students per group*
+<h1 style="color: darkred;">P1 – In-Class Work II: Colour Planning, Palette Testing & Production</h1>  
+*Group Project – 4 students per group*
 
 <figure style="width: 80%; margin: auto;">
   <img src="imgs/33.png" style="width: 100%; height: auto;">
@@ -14,79 +14,379 @@
 
 ---
 
-> ⚠️ You must complete the setup of your **Inkscape documents** *before* this session to participate in the laser-cutting session.
+> You must have completed and submitted the **two 24 × 12 in Inkscape production files** from Part 1 before attending your scheduled laser-cutting session.
 
-In this session, you will move from digital preparation to **material production and colour design**. Each group will:
-- Print their components using the **laser cutter** at the Thode Makerspace.
-- Sand and prep their birchwood shapes
-- Mix a **custom gradient-based colour palette** using **HSV principles** and **primary pigments only**
+## Goal
 
-> Your goal is to create a consistent and visually engaging **gradient transition** across your composition —no texture is allowed.
+During Part 2, your group will develop and test the **colour system** for Project 1 while moving into physical production.
+
+Your colour decisions should build directly on concepts explored in **Composition Techniques II**, including:
+
+|  |  |  |
+|---|---|---|
+| Colour schemes | Colour contrast | Colour perspective |
+| Colour gradation | Colour proportioning | Dominant, secondary, and accent colours |
+
+Colour should also respond to the formal decisions established during **Composition Techniques I**, including repetition, variation, structure, space, texture, concentration, radiation, contrast, and surface activity.
+
+> Colour should support the structure and concept of the composition rather than function as decoration added at the end.
+
+## Activity stages
+
+Complete the following stages in order.
+
+<!-- 
+/////////////////
+SECTION 1
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Sketch and plan the colour approach</span>
+    <span class="section-description">
+      Develop the colour system and add the new planning material to your existing Adobe InDesign document.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Reopen the **Adobe InDesign planning document** developed during Part 1.
+
+Before mixing paint, your group must decide how colour will operate across the complete three-dimensional composition.
+
+## Develop the colour approach
+
+Consider:
+
+- The selected **colour scheme**
+- Hue relationships
+- Saturation
+- Value
+- Contrast
+- Colour gradation
+- Colour perspective
+- Dominant, secondary, and accent colours
+- Colour proportioning
+- Relationship between colour and repeated forms
+- Relationship between colour and engraved texture
+- Relationship between colour and the base
+- Visual movement across the complete structure
+
+Your colour approach should respond to the **shape, scale, placement, repetition, hierarchy, and spatial organization** already established in Part 1.
+
+> Do not simply assign unrelated colours to individual pieces. The complete composition should use an intentional and cohesive colour system.
+
+## Add colour planning to the InDesign document
+
+Add a new **Colour Approach** section to your existing Project 1 planning document.
+
+Include:
+
+1. **Colour concept**
+   - Briefly explain how colour supports the overall concept and structure.
+
+2. **Selected colour scheme**
+   - Identify the colour relationship or system you intend to use.
+
+3. **Colour sketches**
+   - Add coloured sketches or digital mockups showing how colour will move across the complete structure.
+
+4. **Colour proportioning**
+   - Identify the intended dominant, secondary, and accent colour relationships.
+
+5. **Colour and form**
+   - Explain how colour relates to repetition, variation, depth, hierarchy, texture, and spatial organization.
+
+6. **Colour distribution**
+   - Clearly show which areas or pieces will receive each colour or colour range.
+
+> The new colour pages must follow the same **visual system, typography, hierarchy, margins, and layout** established in the original InDesign document.
+
+Re-export the complete updated document as:
+
+`Group-#-Project1-Design.pdf`
+
+You will **resubmit the complete document**, including both the original Part 1 planning and the new colour-planning section.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Mix and test the physical colour palette</span>
+    <span class="section-description">
+      Hand-mix the planned colours and test them using the provided Project 1 Colour Palette worksheet.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+After completing the colour plan, begin testing the palette using acrylic paint.
+
+The instructor will provide each group with a printed **P1 – Colour Palette** worksheet.
+
+Your group must **hand-mix the colours and paint directly onto the worksheet** to create a physical record of the proposed palette.
+
+## Allowed paints
+
+All colours must be mixed using:
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+| Red | Yellow | Blue | White | Black |
+
+Do not use additional pre-mixed colours.
+
+## Colour mixing
+
+Use concepts from Composition Techniques II to create intentional relationships between the colours.
+
+Consider:
+
+- Hue
+- Saturation
+- Value
+- Contrast
+- Gradation
+- Colour perspective
+- Colour proportioning
+- Dominant, secondary, and accent relationships
+
+Mix **small test quantities first**.
+
+> At this stage, you are testing the palette. Do not mix the full quantity of paint required for the final sculpture until the palette has received feedback.
+
+Paint the proposed colours directly into the boxes on the provided worksheet.
+
+Try to apply the paint evenly so that the worksheet provides an accurate representation of how the colours will appear on the birchwood.
+
+Keep notes about how each colour was mixed so that you can reproduce it later.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 3
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Scan and submit the colour palette for feedback</span>
+    <span class="section-description">
+      Digitize the painted worksheet and submit it with the revised Project 1 planning document before painting the wooden pieces.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Once the physical palette worksheet is complete, **scan it in colour**.
+
+### Scan requirements
+
+- Use a scanner
+- Scan in **colour**
+- Minimum resolution: **300 PPI**
+- Do not apply filters or colour adjustments
+- Export as a **PDF**
+
+Save the scanned worksheet as:
+
+`Group-#-ColourPalette.pdf`
+
+Submit:
+
+1. `Group-#-Project1-Design.pdf`
+2. `Group-#-ColourPalette.pdf`
+
+> **Do not paint your final birchwood pieces until you receive feedback from the instructor on the colour palette.**
+
+## After receiving feedback
+
+If the palette is approved, you may proceed to final colour production.
+
+If changes are requested:
+
+1. Adjust the colour approach.
+2. Re-mix the affected colours.
+3. **Redo the physical palette worksheet as required.**
+4. Scan the revised palette.
+5. Submit or show the revised version as instructed.
+6. Wait for confirmation before applying the final colours to the project.
+
+> Feedback on the palette is part of the design process. Your first palette should be treated as a **test and prototype**, not automatically as the final colour solution.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 4
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Schedule the laser-cutting session</span>
+    <span class="section-description">
+      Select one of the available appointments on Avenue to Learn and attend the scheduled production session with the instructor at the Thode Makerspace.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+In parallel with the colour-planning activities, each group must schedule a **laser-cutting session with the professor at the Thode Makerspace**.
+
+Available appointment options will be posted on **Avenue to Learn**.
+
+Your group must:
+
+1. Select one of the available appointment times.
+2. Confirm the appointment through Avenue to Learn.
+3. Arrive at the Thode Makerspace at the scheduled time.
+4. Bring the two completed Inkscape files:
+   - `Group-#-Plate-1.svg`
+   - `Group-#-Plate-2.svg`
+5. Complete the laser cutting and engraving with the instructor.
+
+> **This component will be graded in person during the scheduled laser-cutting session.**
+
+The instructor will check:
+
+- File preparation
+- Cutting and engraving settings
+- Measurements
+- Material organization
+- Use of the two birchwood sheets
+- Preparedness
+- Participation during production
+
+Groups that miss their appointment will be responsible for following the instructions provided on Avenue to Learn regarding rescheduling.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Laser cut and prepare the birchwood pieces</span>
+    <span class="section-description">
+      Produce the physical components, prepare the surfaces, and organize the pieces for painting and assembly.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+During your scheduled session, laser cut and engrave the components using the two approved Inkscape files.
+
+Carefully collect:
+
+- Base
+- Repeated planes
+- Connectors
+- Supports
+- Small components
+
+Keep the pieces organized so that you can identify their intended position in the final composition.
+
+## Surface preparation
+
+After laser cutting:
+
+1. Use **fine-grit sandpaper** to lightly sand the pieces.
+2. Remove splinters and rough edges.
+3. Remove excessive burn residue where appropriate.
+4. Clean dust from the surfaces.
+5. Keep the engraved areas clearly visible.
+
+> Do not apply the final colour palette until you have received feedback on the submitted palette worksheet.
+
+</div>
+</details>
+
+<!-- 
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Apply the approved colour palette</span>
+    <span class="section-description">
+      Reproduce the approved palette, prepare the surfaces, and apply the final colour system to the birchwood components.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+Once your palette has been **reviewed and approved**, reproduce the colours in quantities sufficient to complete the final project.
+
+## Prepare the paint
+
+- Recreate the approved colours carefully.
+- Refer to your physical palette and mixing notes.
+- Mix enough paint for **2–3 thin coats** where required.
+- Store mixed colours in the required containers.
+- Keep colours organized throughout the painting process.
+
+## White base coat
+
+Before applying the final colours:
+
+- Apply a consistent **white base coat** to the areas that will be painted.
+- Allow the base coat to dry completely.
+
+The white base creates a more consistent surface and helps maintain the intended hue, saturation, and value of the final palette.
+
+## Apply the final colours
+
+- Follow the approved colour plan.
+- Keep brush strokes smooth and consistent.
+- Apply thin, even coats.
+- Allow each coat to dry fully.
+- Maintain clean edges.
+- Preserve the visibility and intentionality of engraved texture.
+- Maintain the planned dominant, secondary, and accent relationships.
+- Refer continuously to the approved palette rather than mixing colours from memory.
+
+> Changes to the approved palette should not be introduced during painting without discussing them with the instructor.
+
+</div>
+</details>
 
 ---
 
-<h2 style="color: darkred;">Colour Mixing & Gradient Design (45–60 min)</h2>
+## Submission
 
-Your group will applied your **gradient effect across your entire composition**, using **solid colours** assigned **one per plane** to simulate colour flow and variation.
+Submit **two digital files per group** for Part 2:
 
-### Colour Mixing Rules:
-- All colours must be **hand-mixed**—no pre-mixed paints allowed. Allow paints: **red, yellow, blue, white, and black**
-- Mix your full palette in advance before applying colour to the pieces
-- Mix **enough paint for at least 2–3 coats** per shape.  
-- Store your mixed colours in the **required labeled containers** for later use and touch-ups.
+| Item | Required filename |
+|---|---|
+| Updated Project 1 InDesign planning document | `Group-#-Project1-Design.pdf` |
+| Scanned physical colour palette | `Group-#-ColourPalette.pdf` |
 
-### Follow these tips for Successful Colour Design:
-- Mix **small test batches** before committing to full sets
-- Plan your **gradient transitions on paper** before painting
+The following component is **graded in person**:
 
----
+| Component | Evaluation |
+|---|---|
+| Scheduled laser-cutting session at Thode Makerspace | In-person |
 
-<h3 style="color: darkred;">📥 Submission</h3>
-
-1. Upload a photo of your **final colour palette** to Avenue to Learn using the provided format.  
-   - **Naming Protocol**: `Group-#-ColorPalette.pdf`
-
-Check the rest of the instruction below as well as the [Final Submission Guidelines](P1-Final-Submission.md)
-
-> 📌 **Failure to follow file setup or naming instructions may result in a grade deduction.**
+> **Do not begin final colour application until the colour palette has received instructor feedback. If revisions are requested, the palette must be corrected and tested again before painting.**
 
 ---
 
-<h2 style="color: darkred;">Laser Cutting Session (2-3 hours) </h2>
-
-Each group will meet their scheduled appointment at the **Thode Makerspace** to complete the laser-cutting of their designs.
-
-### Reminders:
-- The instructor will be present during these sessions.  
-- Carefully handle and collect your cut birchwood pieces.
-- Keep track of any small components or connectors.
-
-> ⚠️ Groups that miss their appointment will be responsible for rescheduling directly with the Makerspace and may delay their project progress.
-
----
-
-<h2 style="color: darkred;">Surface Prep & White Base Coat</h2>
-
-After cutting and collecting your pieces, your group must prepare the surfaces for painting.
-
-### Required Steps:
-- Use **fine grit sandpaper** to lightly sand all birchwood pieces.  
-  > Focus on removing burn marks, splinters, and any uneven edges caused by the laser cutter.
-- Once sanded, clean them and apply a **solid white base coat** to each shape.  
-  > This primer layer ensures brightness and consistency in your final colours.
-
-> ⚠️ Do not skip this step. Groups will lose points if visible imperfections or inconsistent colour coverage are observed in the final project.
-
-Allow the white base coat to **fully dry** before moving to colour application.
-
----
-
-<h2 style="color: darkred;">Colour Application</h2>
-
-Follow these tips for Successful Colour Design:  
-- You **must** apply a base coat of **white** before any colour
-- Keep brush strokes **smooth and consistent**
-- Apply **2–3 thin layers** for full, even coverage
-- Allow each layer to **fully dry** before continuing
-
----
+Credits: Jessica A. Rodríguez
