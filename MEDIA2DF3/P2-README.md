@@ -29,12 +29,17 @@ Working from research and sketching through digital production and final print p
 
 > This project combines **collaborative planning with individual execution**. Both students are responsible for ensuring that the four compositions function together as a visually cohesive series. Follow all document setup, production, submission, and exhibition requirements outlined in each section.
 
-### Software
+---
 
-This project uses:
+## Software
 
-- **Adobe Illustrator** or **Adobe Photoshop** — for creating and  vector or raster files
-- **Adobe InDesign** — for designing and assembling the project planning and final documentation PDFs
+- **Adobe InDesign** — planning and project documentation
+- **Adobe Illustrator** — vector-based composition and illustration
+- **Adobe Photoshop** — raster-based composition, image manipulation, collage, texture, and digital painting
+
+> You may use **Illustrator, Photoshop, or a combination of both** to create the final compositions. Choose the software according to the visual approach and techniques required by your design.
+
+> **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.** 
 
 ---
 

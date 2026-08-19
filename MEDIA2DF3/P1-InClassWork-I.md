@@ -183,7 +183,9 @@ Clearly identify in your sketches:
 
 ## Create the Brainstorming and Design Document
 
-Create **one group document in Adobe InDesign**.
+Each group must create **one shared Project 1 planning document in Adobe InDesign**.
+
+The document will continue to be updated throughout the project.
 
 ### Document setup
 
@@ -196,7 +198,7 @@ Use:
 * **Export:** PDF
 * **Filename:** `Group-#-Project1-Design.pdf`
 
-The PDF is not simply a collection of sketches. It must be a **designed document**.
+> The planning PDF is not simply a collection of notes and sketches. It must be a **designed document**.
 
 Pay attention to:
 
