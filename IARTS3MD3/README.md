@@ -1,8 +1,6 @@
-# IARTS 3PE3 – Perspectives E: Key Issues of Equity, Diversity, and Inclusion in the Arts
+# IARTS 3MD3 - Making Art 4: Key Issues of Equity, Diversity, and Inclusion in the Arts
 
-This course **examines artistic practices that challenge systemic inequities through the lenses of body, identity, community, and place**.  
-
-Drawing on frameworks from **testimony**, **techno-feminism**, **decolonial aesthetics**, and **queer/trans-feminisms**, students will explore how artists use their work to resist oppression, reclaim narratives, and envision alternative futures. Through artist case studies and research-creation projects, students will develop **skills in arts-based research, ethical engagement, and collaborative production**, culminating in original works that integrate critical reflection with creative practice.  
+This course **examines how artists and collectives challenge systemic inequities** related to race, gender, sexuality, religion, class, migration, colonialism, and disability. Students will consider **questions of representation, consent, positionality, cultural context, and accountability** when engaging with sensitive subjects, communities, and lived experiences.
 
 > Linked instructions are accessible only while the course is in session.
 
@@ -10,45 +8,42 @@ Drawing on frameworks from **testimony**, **techno-feminism**, **decolonial aest
 
 ## Projects
 
-### **P1: Embodied Archival Entry**  
+### General
 
-Completed in groups of **3 students**, students will **research an artist or collective from the course archive whose work engages with body, identity, and equity**, producing a curated **archival entry**.  
++ [Student-Led Critical Discussion (Groups of 2-3)]()
++ [Class Exhibition]()
 
-The entry will include:  
-- **Biographical context** of the artist/collective.  
-- **Documentation and analysis of two artworks/projects** (images, titles, years, descriptions, and significance).  
-- A **short curatorial text** linking the artist’s practice to course themes of **body**, **identity**, and **equity**.  
-- A **bibliography** in **APA style** including all referenced resources.  
+### P1: Critical Research-Creation Profile
+
+Students will **research an artist or collective** addressing issues of equity, diversity, and inclusion. Drawing on course readings and artistic sources, groups will **iteratively develop a multimodal profile for the course blog**, presenting and revising it each week through research, feedback, and critical discussion.
 
 #### Index  
-<!--
-+ [Week 2](P1-W2.md) — Artist/collective selection and initial research
-+ [Week 3](P1-W3.md) — Detailed artwork analysis and curatorial text drafting
-+ [Week 4](P1-W4.md) — Finalization of archival entry and preparation for submission
--->
 
-> **Note:** This project includes a **poster-presentation session** and a **final submission**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.  
+<!--
++ [Version 1: Research Direction](P1-V1.md)
++ [Version 2: Critical Connections](P1-V2.md)
++ [Version 3: Multimodal Profile Draft](P1-V3.md)
++ [Version 4: Revised Profile Presentation](P1-V4.md)
++ [P1: Critical Research-Creation Profile](P1-Final.md)
+-->
 
 ---
 
-### **P2: Research–Creation Project**  
+### P2: Research–Creation Project
 
-Completed in groups of **3–4 students**, students will **develop an original artistic work** in response to an **artist/collective from the class archive**.  
-
-The work may take any **medium or format** (performance, installation, sound art, digital media, etc.) and must:  
-- Critically reflect on **identity** through **community**, **place**, and/or **body**.  
-- Demonstrate a clear **conceptual dialogue** with the selected artist’s/collective’s practice.  
-- Link the work to course themes, personal perspectives, and research sources.  
+In **groups of 3–4, students will iteratively develop an original artwork in dialogue with an artist or collectiv** from the course archive. Each group will learn and experiment with a new technology, combining it with their existing skills and selected strategies from the artist’s practice.
 
 #### Index  
+
 <!--
-+ [Week 7](P2-W7.md) — Artist/Collective Inspiration & Concept Seeding
-+ [Week 8](P2-W8.md) — Artistic Translation: Style & Process Research
-+ [Week 9](P2-W9.md) — First Iteration: Bringing the Concept to Life
-+ [Week 10](P2-W10.md) — Refinement & Public Presentation Prep
++ [Version 1: Artist/Collective Inspiration and Concept Proposal](P2-V1.md)
++ [Technology Experiment](P2-Exp.md)
++ [Version 2: First Artistic Prototype](P2-V2.md)
++ [Version 3: Development and Critique](P2-V3.md)
++ [Version 4: Presentation Prototype](P2-V4.md)
++ [P2: Research-Creation Project - Final Submission](P2-Final.md)
 -->
-> **Note:** This project includes a **poster-presentation session**, a **final submission**, and a **public sharing event**. Detailed instructions are available in the corresponding Assignment folder on **Avenue to Learn**.
-  
+
 ________________________________________________________________________
 
 Credits: Jessica A. Rodríguez
