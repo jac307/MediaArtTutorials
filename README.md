@@ -16,8 +16,8 @@ The materials are designed for students who are learning a tool for the first ti
 - [Video Editing in DaVinci Resolve](Others/index.html?file=DaVinci.json)
 - [Digital Illustration and Animation in Krita](Others/index.html?file=Krita.json)
 - [Augmented Reality in Pictarize](Others/index.html?file=Pictarize.json)
-- [3D Art in Blender](Blender/README.md)
-- [Motion Capture with Perception Neuron 3](MOCAP/README.md)
+- [3D Art in Blender](https://jac307.github.io/summer-camp/tutorials/MOCAP/Blender/README.html)
+- [Motion Capture with Perception Neuron 3](https://jac307.github.io/summer-camp/tutorials/MOCAP/MOCAP/README.html)
 
 ## Course Tutorials
 
