@@ -46,19 +46,19 @@ To access the booking system:
 
 ## Composition Techniques
 
-+ [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
+<!-- + [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
 + [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
 + [Composition Techniques II](Comp-Tech-2.md)
 + [Composition Techniques III - Part 1](Comp-Tech-3-Part1.md)
 + [Composition Techniques III - Part 2](Comp-Tech-3-Part2.md)
-+ [Composition Techniques IV](Comp-Tech-4.md)
++ [Composition Techniques IV](Comp-Tech-4.md) -->
 
 ---
 
 ## Projects
 
-+ [Project 1](P1-README.md)
-+ [Project 2](P2-README.md)
++ [Project 1: Vector to Volume](P1-README.md)
++ [Project 2: Morphologies](P2-README.md)
 
 ---
 

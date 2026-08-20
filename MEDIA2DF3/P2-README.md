@@ -45,9 +45,9 @@ Working from research and sketching through digital production and final print p
 
 ## Index
 
-+ [Part 1 – In-Class Work I: Sketching & First Composition](P2-InClassWork-I.md)
+<!-- + [Part 1 – In-Class Work I: Sketching & First Composition](P2-InClassWork-I.md)
 + [Part 2 – In-Class Work II: Second Composition & Layout Planning](P2-InClassWork-II.md)
-+ [Final Submission Guidelines](P2-Final-Submission.md)
++ [Final Submission Guidelines](P2-Final-Submission.md) -->
 
 ---
 
