@@ -65,7 +65,7 @@ To access the booking system:
 ## General
 
 + [Student-Led Critical Discussion (Groups of 3)](Presentations.md)
-+ [Class Exhibition](Class-Exhibition.md)
+<!-- + [Class Exhibition](Class-Exhibition.md) -->
 
 ---
 
