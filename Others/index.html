@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+  <head>
+    <meta charset="utf-8">
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Digital Arts Tutorials</title>
+
+    <!-- Vue 3 -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+
+    <!-- Vuetify 3 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/vuetify@3.9.2/dist/vuetify.min.css"
+      rel="stylesheet"
+    >
+
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@3.9.2/dist/vuetify.min.js"></script>
+
+    <!-- Material Design Icons -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.x/css/materialdesignicons.min.css"
+      rel="stylesheet"
+    >
+
+    <style>
+      html,
+      body,
+      #app {
+        min-height: 100%;
+        margin: 0;
+      }
+
+      /* General font size */
+      .v-application {
+        font-size: 18px;
+      }
+
+      /* Permanent left navigation */
+      .tutorial-drawer {
+        border-right: 1px solid #cccccc;
+      }
+
+      /* Section title in the left menu */
+      .tutorial-section-title {
+        margin-top: 8px;
+        border-top: 1px solid #cccccc;
+        border-bottom: 1px solid #cccccc;
+        background: #f2f2f2;
+        font-weight: 700;
+        cursor: default;
+      }
+
+      .tutorial-section-title:first-child {
+        margin-top: 0;
+      }
+
+      /* Individual tutorial links */
+      .tutorial-child {
+        min-height: 52px;
+        padding-left: 30px;
+        border-bottom: 1px solid #eeeeee;
+        cursor: pointer;
+      }
+
+      .tutorial-child:hover {
+        background: #e8e8e8;
+      }
+
+      /* Selected tutorial */
+      .tutorial-selected {
+        background-color: #8b0000 !important;
+        color: #ffffff !important;
+      }
+
+      .tutorial-selected:hover {
+        background-color: #700000 !important;
+      }
+
+      .tutorial-selected .v-list-item-title {
+        color: #ffffff !important;
+        font-weight: 700;
+      }
+
+      /* Allow long menu titles to wrap */
+      .tutorial-drawer .v-list-item-title {
+        overflow: visible;
+        white-space: normal;
+        font-size: 17px;
+        line-height: 1.4;
+      }
+
+      /* Main content area */
+      .tutorial-content {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      /* Description text */
+      .v-card-text {
+        font-size: 18px;
+        line-height: 1.6;
+      }
+
+      /* Top toolbar title */
+      .v-toolbar-title {
+        font-size: 21px;
+        line-height: 1.3;
+      }
+
+      /* Buttons */
+      .v-btn {
+        font-size: 16px;
+      }
+
+      /* Embedded Iorad tutorial */
+      .tutorial-frame {
+        width: 100%;
+        height: 600px;
+        border: 0;
+        border-top: 1px solid #cccccc;
+      }
+
+      .error-message {
+        color: #8b0000;
+        font-weight: 600;
+      }
+
+      @media (max-width: 800px) {
+        .v-card-text {
+          font-size: 17px;
+        }
+
+        .tutorial-drawer .v-list-item-title {
+          font-size: 16px;
+        }
+
+        .v-toolbar-title {
+          font-size: 18px;
+        }
+
+        .tutorial-frame {
+          height: 500px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app">
+      <v-app>
+
+        <!-- Permanent left navigation -->
+        <v-navigation-drawer
+          permanent
+          width="320"
+          class="tutorial-drawer"
+          aria-label="Tutorial navigation"
+        >
+          <v-list nav>
+
+            <template
+              v-for="(item, index) in items"
+              :key="index"
+            >
+
+              <!-- Section containing several tutorials -->
+              <div v-if="item.children">
+
+                <v-list-item
+                  :title="item.title"
+                  class="tutorial-section-title"
+                ></v-list-item>
+
+                <v-list-item
+                  v-for="(child, childIndex) in item.children"
+                  :key="childIndex"
+                  :title="child.title"
+                  :active="isSelected(child)"
+                  :class="[
+                    'tutorial-child',
+                    { 'tutorial-selected': isSelected(child) }
+                  ]"
+                  @click="selectItem(child)"
+                ></v-list-item>
+
+              </div>
+
+              <!-- Individual tutorial without children -->
+              <v-list-item
+                v-else
+                :title="item.title"
+                :active="isSelected(item)"
+                :class="[
+                  'tutorial-child',
+                  { 'tutorial-selected': isSelected(item) }
+                ]"
+                @click="selectItem(item)"
+              ></v-list-item>
+
+            </template>
+
+          </v-list>
+        </v-navigation-drawer>
+
+        <!-- Top bar -->
+        <v-app-bar>
+          <v-app-bar-title>
+            {{ selectedItem?.title || "Digital Arts Tutorials" }}
+          </v-app-bar-title>
+
+          <v-btn
+            variant="outlined"
+            href="https://jac307.github.io/summer-camp/"
+            class="ml-auto mr-4"
+          >
+            Home
+          </v-btn>
+        </v-app-bar>
+
+        <!-- Main tutorial area -->
+        <v-main>
+          <v-container class="pa-4 tutorial-content">
+
+            <v-card variant="outlined">
+
+              <v-card-text
+                v-if="selectedItem?.description"
+                v-html="selectedItem.description"
+              ></v-card-text>
+
+              <v-card-text
+                v-if="errorMessage"
+                class="error-message"
+              >
+                {{ errorMessage }}
+              </v-card-text>
+
+              <v-divider
+                v-if="
+                  selectedItem?.description &&
+                  selectedItem?.tutorialEmbedCode
+                "
+                class="my-4"
+              ></v-divider>
+
+              <iframe
+                v-if="selectedItem?.tutorialEmbedCode"
+                :src="selectedItem.tutorialEmbedCode"
+                :title="selectedItem.title + ' interactive tutorial'"
+                class="tutorial-frame"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="camera; microphone; clipboard-write"
+                sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+                allowfullscreen
+              ></iframe>
+
+            </v-card>
+
+          </v-container>
+        </v-main>
+
+      </v-app>
+    </div>
+
+    <script src="./vue.js"></script>
+  </body>
+</html>
