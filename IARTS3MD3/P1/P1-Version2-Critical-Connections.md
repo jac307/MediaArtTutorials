@@ -4,7 +4,7 @@
 
 # Version 2: Critical Connections
 
-**Goal:** Develop the **first version of your profile**. Revise the research direction from Version 1, confirm the selected artworks, connect your findings to course readings and other sources, and prepare the image files needed for the final submission.
+**Goal:** Develop a **draft version of your profile**. Confirm the selected artworks, connect your findings to course readings and other sources, and prepare the image files needed for the final submission.
 
 ## What you will complete
 
@@ -28,18 +28,7 @@ Both partners are responsible for the full document and ZIP package. Divide the 
 | Take the lead on one artwork entry | Take the lead on one artwork entry |
 | Gather and credit images for assigned material | Gather and credit images for assigned material |
 
-Both partners must read the complete document, check all sources and image credits, and understand the full argument before submitting.
-
 > Do not divide the project into two isolated halves. Individual sections should be revised together so the document uses a consistent focus, voice, and citation style.
-
-## Research and writing ethics
-
-- Use evidence for claims about the artist, artworks, communities, and contexts.
-- Do not assume the artist’s identity, intentions, beliefs, or community relationships.
-- Do not reduce the artist or community to trauma, discrimination, or identity categories.
-- Clearly distinguish the artist’s statements from your interpretation and from other writers’ arguments.
-- Do not copy source descriptions, gallery texts, captions, or artist statements without quotation marks and citations.
-- Write the profile, artwork entries, annotations, and critical connections in your own words.
 
 ## Activity stages
 
@@ -67,44 +56,39 @@ As a pair, confirm the eight sources selected in Version 1 and divide them as fo
 | Critical or contextual sources | 1 | 1 | 2 |
 | **Total sources per student** | **4** | **4** | **8** |
 
-> Each student must read, watch, or listen to their four assigned sources in full. If the course provides a selected chapter or excerpt, complete the assigned section rather than the entire book.
+> Each student must read, watch, or listen to their four assigned sources in full.
 
 ## Confirm and divide the artworks or projects
 
 As a pair, confirm two artworks or projects that provide enough evidence to support the research direction and possible critical connections. Each partner must take the lead on one artwork or project.
 
-> Replace an artwork if it no longer supports the project’s direction or if there is not enough reliable documentation available.
+> Replace an artwork if it no longer supports the project’s direction or if there is not enough reliable information or documentation available.
 
-## Prepare individual source notes
+## Prepare individual research notes
 
-For each of your four assigned sources, record notes identifying:
+Each student must review their four assigned sources and one assigned artwork or project.
 
-- The main argument or useful information
-- Two or three concepts relevant to the project
-- A useful passage, example, or quotation
-- Page numbers or timestamps
-- A connection to one of the selected artworks
-- A connection, difference, or disagreement with another source
-- A question, limitation, or missing perspective
+For each source, record:
+- Main argument or useful information
+- Two or three relevant concepts
+- A useful passage, example, or quotation with page numbers or timestamps
+- Connections to the assigned artwork and other sources
+- A question, limitation, disagreement, or missing perspective
 
-> Write the notes in your own words. Do not use generated summaries in place of reading the source.
+For the artwork or project, record:
 
-## Prepare individual artwork or project notes
+| Information | What to record |
+|---|---|
+| Identification | Complete title and year |
+| Format | Medium, materials, technologies, duration, dimensions, or format |
+| Context | Where, when, why, and for whom the work was produced, presented, performed, exhibited, or published |
+| Audience experience | What the audience sees, hears, encounters, or does |
+| Artistic approach | Important methods, techniques, materials, technologies, or decisions |
+| Themes and questions | Ideas, issues, or questions addressed by the work |
+| Documentation | Available images, video, audio, exhibition records, or other documentation |
+| Media information | Captions, creator or photographer credits, source links, alt text, and available rights information |
 
-For your assigned artwork or project, record notes identifying:
-
-- Complete title and year
-- Medium, materials, duration, dimensions, or format
-- Exhibition, performance, publication, or project context
-- What the audience sees, hears, encounters, or does
-- Important methods, techniques, materials, or technologies
-- Relevant formal or conceptual details
-- Themes or questions addressed by the work
-- Connections to the artist’s broader practice
-- Connections to specific concepts or passages from your assigned sources
-- Questions or information that require further research
-
-> Additionally, gather high-resolution images of the artwork or project.
+> Write the notes in your own words. Read each assigned source in full and examine the artwork carefully. Do not use generated summaries in place of this work, as they may omit important arguments, examples, context, or limitations.
 
 ## Identify preliminary critical connections
 
@@ -116,7 +100,6 @@ Each connection must include:
 - Specific evidence from the artwork or project
 - A connection to another source when possible
 - An initial interpretation, question, or tension
-- Page numbers or timestamps where relevant
 
 ### Example
 
@@ -134,7 +117,6 @@ Each annotation must:
 
 - Identify the source’s main argument or useful information
 - Explain how the source connects to the artist or selected artwork
-- Explain how the source may be used in the profile
 - Identify an important limit, bias, or missing perspective when relevant
 
 Use this structure:
@@ -153,22 +135,15 @@ The notes do not need to follow a specific layout or writing structure. You may 
 
 The document must include:
 
-- Your full name and student number
-- Your four assigned sources
-- Close-reading notes for each source
-- Page numbers or timestamps where relevant
-- Notes on your assigned artwork or project
-- Two or three preliminary critical connections
-- Complete APA references for your four sources
-- An annotated bibliography for your four assigned sources
+- [ ] Your full name and student number
+- [ ] Close-reading notes for each source
+- [ ] Notes on your assigned artwork or project
+- [ ] Two or three preliminary critical connections
+- [ ] An annotated bibliography for your four assigned sources
 
-Export the document as a PDF and share a copy with your partner.
+- Name/Format: `Lastname-Firstname_P1_Critical-Connections-Notes.pdf`
 
-## Required filename
-
-`Lastname-Firstname_P1_Critical-Connections-Notes.pdf`
-
-Each student submits their own file.
+> Share a copy with your partner.
 
 </div>
 </details>
@@ -231,6 +206,15 @@ The thesis must:
 The thesis should not be a list of themes or a description of what you plan to research.
 
 > The working thesis is provisional. You may revise it in Versions 3 and 4.
+
+## Research and writing ethics
+
+- Use evidence for claims about the artist, artworks, communities, and contexts.
+- Do not assume the artist’s identity, intentions, beliefs, or community relationships.
+- Do not reduce the artist or community to trauma, discrimination, or identity categories.
+- Clearly distinguish the artist’s statements from your interpretation and from other writers’ arguments.
+- Do not copy source descriptions, gallery texts, captions, or artist statements without quotation marks and citations.
+- Write the profile, artwork entries, annotations, and critical connections in your own words.
 
 ## Expand the thesis through the critical-connections outline
 
