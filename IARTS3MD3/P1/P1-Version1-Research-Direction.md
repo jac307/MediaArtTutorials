@@ -235,38 +235,23 @@ Install the [Google Scholar Button](https://chromewebstore.google.com/detail/goo
 
 ## Review the complete document
 
-Before submitting, both partners must:
-
-- Read the full proposal and source map.
-- Check every citation, image credit, and link.
-- Confirm that the research questions connect with the selected artworks and sources.
-- Revise the document together so it reads as one project.
-- Identify what needs to be researched or developed for Version 2.
+- [ ] Read the full proposal and source map.
+- [ ] Check every citation and link.
+- [ ] Confirm that the research questions connect with the selected artworks and sources.
+- [ ] Revise the document together so it reads as one project.
 
 Both partners are responsible for the accuracy and completion of the full document.
-
-## Record the division of work
-
-At the end of the document, include a short table:
-
-| Task | Partner responsible | Status or notes |
-|---|---|---|
-| Example: Review Course Reading 1 | Full name | Completed; key pages noted |
-
-The division should be fair, but the tasks do not need to be identical. Discuss workload, deadlines, access needs, and other responsibilities before assigning the work. If the division changes, update the table and inform your partner.
 
 ## Submission document
 
 Export one PDF (`P1_Research-Direction.pdf`) per pair containing:
 
 1. Both partners’ full names and student numbers
-2. Artist or collective information
+2. Artist or collective name
 3. Research proposal
 4. Main and supporting research questions
 5. Preliminary artwork selection
 6. Source map
-7. Division-of-work table
-8. Complete APA reference list
 
 > One partner submits the files on behalf of the pair.
 
@@ -279,7 +264,7 @@ Prepare **one slide in image format** containing:
 - The selected artist or collective
 - The proposed research focus in one line
 - The main research question
-- Images of two or three preliminary artworks or projects
+- Images of the two preliminary artworks or projects
 
 ## Slide requirements
 
