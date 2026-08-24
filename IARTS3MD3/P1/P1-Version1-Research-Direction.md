@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-### P1: Critical Research-Creation Profile
+### P1: Critical Research-Creation Profile · Pairs
 
-# Version 1: Research Direction · Pairs
+# Version 1: Research Direction
 
 **Goal:** Choose an artist or collective and **establish a clear starting point for your research**. You will identify the questions, artworks, and sources that will guide the next version of the project.
 

@@ -1,16 +1,13 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-## P1: Critical Research-Creation Profile
+## P1: Critical Research-Creation Profile · Pairs
 
-# Version 2: Critical Connections · Pairs
+# Version 2: Critical Connections
 
-**Goal:** Develop the **first version of your profile**. Revise the research direction from Version 1, confirm the selected artworks, connect your findings to course readings and other sources, and prepare the image files needed for the next version.
-
-> This is not the final blog entry. The writing, artwork selection, thesis, and images may change after further research and revision.
+**Goal:** Develop the **first version of your profile**. Revise the research direction from Version 1, confirm the selected artworks, connect your findings to course readings and other sources, and prepare the image files needed for the final submission.
 
 ## What you will complete
 
-- Revise the research direction, questions, source selection, and two selected artworks from Version 1.
 - Individual research and artwork notes
 - An artist or collective profile
 - Written entries for two artworks or projects
