@@ -2,7 +2,7 @@
 
 # Student-Led Critical Discussion
 
-## Team activity · 3 students · 7 points
+## Team activity · 3 students
 
 **Goal:** Lead a focused **40-minute class session** that connects the two assigned readings with the assigned artist or collective. Each team will give a 20-minute presentation followed by a 20-minute non-digital discussion activity inspired by the artist's work, questions, methods, or materials.
 
@@ -10,22 +10,11 @@
 
 - **Group size:** Three students
 - **Format:** In-person presentation and facilitated discussion activity
-- **Teams per set of readings:** One
-- **Presentation:** Exactly 20 minutes
-- **Discussion activity:** Exactly 20 minutes
-- **Total duration:** Exactly 40 minutes
 - **Assessment:** 7 points
 - **Equipment:** Use your own computer for the presentation; HDMI adapters will be available
-- **Enrolment:** Select one available set of readings and its assigned artist or collective
 - **Submission:** Slides, activity plan, and printable materials are due one day before the presentation
 
 > **Hard time limit:** The full session ends at **40:00**. The instructor will stop the session at that point. Rehearse both parts together and leave enough time for participants to contribute during the activity.
-
-## Primary-material requirement
-
-The two assigned readings and the assigned artist or collective must be the primary materials for both parts of the session.
-
-Additional sources or artistic examples may be used when they clarify a concept or provide necessary context. They must remain secondary and must not replace sustained engagement with the assigned materials.
 
 ## Enrolment process
 
@@ -58,6 +47,12 @@ All team members must contribute meaningfully to the research, presentation, and
   </summary>
 
 <div class="section-content" markdown="1">
+
+## Primary-material requirement
+
+The two assigned readings and the assigned artist or collective must be the primary materials for both parts of the session.
+
+Additional sources or artistic examples may be used when they clarify a concept or provide necessary context. They must remain secondary and must not replace sustained engagement with the assigned materials.
 
 ## Presentation purpose
 
@@ -105,7 +100,7 @@ The selected ideas do not need to represent everything in the readings. Prioriti
 
 ## Organize the presentation around connections
 
-Do not give a long summary of Reading 1, followed by Reading 2, followed by an artist biography. Organize the main section around direct connections:
+Organize the main section around direct connections:
 
 - **Connection 1:** Concept from the readings + specific artistic evidence
 - **Connection 2:** Concept from the readings + specific artistic evidence
@@ -201,9 +196,9 @@ The team may project:
 - A timer
 - Images or details from the assigned artwork when they are necessary references
 
-Projection should support the activity, not replace participation. The activity itself must use conversation, printed materials, writing, drawing, movement, objects, spatial arrangements, or other non-digital methods.
+Projection should support the activity, not replace participation. The activity itself must use conversation, printed materials, writing, drawing, collage, movement, objects, spatial arrangements, or other non-digital methods.
 
-The presenting team is responsible for preparing and bringing all required materials.
+> The presenting team is responsible for preparing and bringing all required materials.
 
 ## Activity requirements
 
@@ -219,21 +214,6 @@ The activity must:
 - Include time for participants to share and respond to one another
 - Include follow-up questions that deepen the conversation
 - Fit within exactly 20 minutes, including instructions and closing synthesis
-
-The activity must not be a factual quiz, a worksheet focused on recalling definitions, or a list of questions answered mainly by the presenting team.
-
-## Possible activity formats
-
-- Respond to a question originally posed by the artist, then compare how different responses shift its meaning.
-- Use printed details from several works to trace how one concept changes across the artist's practice.
-- Annotate an artwork using short quotations or concepts from both readings.
-- Match or place reading concepts in tension with specific artistic choices.
-- Reorganize printed images, words, objects, or fragments using a process related to the artist's method, then discuss what changed.
-- Translate an artistic strategy into a brief writing, drawing, movement, sound, or material exercise.
-- Take positions on an ethical or political dilemma raised by the work and support each position with evidence.
-- Develop an alternative audience, site, material, or method for the work and discuss the ethical and conceptual consequences.
-- Create a collective map of relationships among bodies, technologies, communities, places, histories, or systems in the artwork.
-- Compare different interpretations of the same artistic detail through small-group discussion.
 
 ## Prepare facilitation questions
 
@@ -265,7 +245,6 @@ Use a structure that gives participants time and more than one way to contribute
 
 Do not require participants to:
 
-- Disclose personal experiences, identities, trauma, health, or immigration histories
 - Speak on behalf of a community or identity group
 - Simulate a disability or marginalized identity
 - Re-enact violence, discrimination, or traumatic events
@@ -350,33 +329,30 @@ The discussion activity plan must identify:
 
 > General summaries, disconnected treatment of the readings and artist, unrelated examples, unsupported claims, inaccessible or unclear activity instructions, or exceeding the time limits will weaken the assessment.
 
-</div>
-</details>
-
-<details class="tutorial-section" id="checklist">
+<details class="tutorial-section" id="materials">
   <summary>
-    <span class="section-title">4. Final checklist</span>
+    <span class="section-title">5. Readings and artists/artworks by week</span>
     <span class="section-description">
-      Confirm that the team is prepared to present and facilitate the complete 40-minute session.
+      Review the two assigned readings and artist or collective for each presentation set.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-- [ ] We focus on both assigned readings and the assigned artist or collective.
-- [ ] We selected two or three central concepts rather than summarizing everything.
-- [ ] We explain meaningful connections or tensions between the two readings.
-- [ ] We use specific artistic evidence to develop each connection.
-- [ ] We keep additional examples secondary.
-- [ ] Our presentation is rehearsed and fits within 20 minutes.
-- [ ] Our activity is non-digital and meaningfully inspired by the artist's work.
-- [ ] Our activity deepens discussion rather than testing factual recall.
-- [ ] We prepared physical materials, instructions, and facilitation questions.
-- [ ] We provide inclusive participation options and do not require personal disclosure.
-- [ ] All team members contribute meaningfully to both parts of the session.
-- [ ] We tested the slides, media, timing, and activity process.
-- [ ] We cited all readings, artworks, images, media, and additional sources.
-- [ ] We submitted all required materials at least one day in advance.
+| Week | Assigned readings | Assigned artist/artwork |
+|---|---|---|
+| **W2** | **Reading 1:** Cvetkovich, A. (2003). [“Introduction.”](readings/Reading-W2a.pdf){:target="_blank"} In *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures* (pp. 1–19). Duke University Press.<br><br>**Reading 2:** Caswell, M., & Cifor, M. (2016). [“From Human Rights to Feminist Ethics: Radical Empathy in the Archives.”](readings/Reading-W2b.pdf){:target="_blank"} *Archivaria, 81*, 23–43. | Félix González-Torres [Cuba–USA], *Untitled (Portrait of Ross in L.A.)* (1991) |
+| **W3** | **Reading 1:** Haraway, D. (1988). [“Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.”](readings/Reading-W3a.pdf){:target="_blank"} *Feminist Studies, 14*(3), 575–599.<br><br>**Reading 2:** Tuck, E. (2009). [“Suspending Damage: A Letter to Communities.”](readings/Reading-W3b.pdf){:target="_blank"} *Harvard Educational Review, 79*(3), 409–427. | Mónica Mayer [Mexico], *El Tendedero/The Clothesline Project* (1978–ongoing) |
+| **W5-A** | **Reading 1:** Hall, S. (1990). [“Cultural Identity and Diaspora.”](readings/Reading-W5a-1.pdf){:target="_blank"} In J. Rutherford (Ed.), *Identity: Community, Culture, Difference* (pp. 222–237). Lawrence & Wishart.<br><br>**Reading 2:** Azoulay, A. A. (2019). [“Unlearning Imperialism.”](readings/Reading-W5a-2.pdf){:target="_blank"} In *Potential History: Unlearning Imperialism*. Verso. | The ArQuives: Canada’s LGBTQ2+ Archives [Canada] |
+| **W5-B** | **Reading 1:** hooks, b. (1990). [“Choosing the Margin as a Space of Radical Openness.”](readings/Reading-W5b-1.pdf){:target="_blank"} In *Yearning: Race, Gender, and Cultural Politics* (pp. 145–153). South End Press.<br><br>**Reading 2:** Caswell, M., Cifor, M., & Ramirez, M. H. (2016). [“‘To Suddenly Discover Yourself Existing’: Uncovering the Impact of Community Archives.”](readings/Reading-W5b-2.pdf){:target="_blank"} *The American Archivist, 79*(1), 56–81. | The HAVN Memory Project and the former HAVN artist collective and DIY space [Hamilton, Canada] |
+| **W6** | **Reading 1:** Russell, L. (2020). [“Glitch Refuses.”](readings/Reading-W6a.pdf){:target="_blank"} In *Glitch Feminism: A Manifesto*. Verso.<br><br>**Reading 2:** Noble, S. U. (2018). [“A Society, Searching.”](readings/Reading-W6b.pdf){:target="_blank"} In *Algorithms of Oppression: How Search Engines Reinforce Racism* (pp. 15–63). New York University Press. | Rosa Menkman [Netherlands], *The Collapse of PAL* (2010–2012) |
+| **W7** | **Reading 1:** Hamraie, A. (2017). [“Introduction: Critical Access Studies.”](readings/Reading-W7a.pdf){:target="_blank"} In *Building Access: Universal Design and the Politics of Disability* (pp. 1–23). University of Minnesota Press.<br><br>**Reading 2:** Sins Invalid. (2015). [“10 Principles of Disability Justice.”](readings/Reading-W7b.pdf){:target="_blank"} | Christine Sun Kim [USA], *Face Opera II* (2013) and selected sound drawings |
+| **W8** | **Reading 1:** Simpson, L. B. (2014). [“Land as Pedagogy: Nishnaabeg Intelligence and Rebellious Transformation.”](readings/Reading-W8a.pdf){:target="_blank"} *Decolonization: Indigeneity, Education & Society, 3*(3), 1–25.<br><br>**Reading 2:** Mignolo, W. D., & Vázquez, R. (2013). [“Decolonial AestheSis: Colonial Wounds/Decolonial Healings.”](readings/Reading-W8b.pdf){:target="_blank"} *Social Text*. | Jackson 2Bears [Kanien’kehá:ka] and January Rogers [Mohawk/Tuscarora], *For This Land* (2015–2023) |
+| **W9** | **Reading 1:** Lorde, A. (1984). [“Uses of the Erotic: The Erotic as Power.”](readings/Reading-W9a.pdf){:target="_blank"} In *Sister Outsider* (pp. 53–59). Crossing Press.<br><br>**Reading 2:** Anzaldúa, G. (1987). [“La Conciencia de la Mestiza: Towards a New Consciousness.”](readings/Reading-W9b.pdf){:target="_blank"} In *Borderlands/La Frontera: The New Mestiza*. Aunt Lute Books. | Jenny Granado/Kebra [Brazil], *Desculonización* |
+| **W11-A** | **Reading 1:** Rodríguez, J. M. (2003). [“Divas, Atrevidas, y Entendidas: An Introduction.”](readings/Reading-W11a-1.pdf){:target="_blank"} In *Queer Latinidad: Identity Practices, Discursive Spaces* (pp. 1–36). New York University Press.<br><br>**Reading 2:** Muñoz, J. E. (1999). [“Introduction: Performing Disidentifications.”](readings/Reading-W11a-2.pdf){:target="_blank"} In *Disidentifications: Queers of Color and the Performance of Politics* (pp. 1–34). University of Minnesota Press. | Carmelita Tropicana/Alina Troyano [Cuba–USA], *Your Kunst Is Your Waffen* (1994) |
+| **W11-B** | **Reading 1:** Stryker, S. (1994). [“My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.”](readings/Reading-W11b-1.pdf){:target="_blank"} *GLQ: A Journal of Lesbian and Gay Studies, 1*(3), 237–254.<br><br>**Reading 2:** Buolamwini, J., & Gebru, T. (2018). [“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.”](readings/Reading-W11b-2.pdf){:target="_blank"} *Proceedings of Machine Learning Research, 81*, 77–91. | Jake Elwes in collaboration with Me The Drag Queen [UK], *Zizi & Me* (2020) |
+| **W12-A** | **Reading 1:** Muñoz, J. E. (2009). [“Introduction: Feeling Utopia.”](readings/Reading-W12a-1.pdf){:target="_blank"} In *Cruising Utopia: The Then and There of Queer Futurity* (pp. 1–18). New York University Press.<br><br>**Reading 2:** Laboria Cuboniks. (2015). [*Xenofeminism: A Politics for Alienation*.](readings/Reading-W12a-2.pdf){:target="_blank"} | Morehshin Allahyari [Iran–USA], *She Who Sees the Unknown* (2016–ongoing) |
+| **W12-B** | **Reading 1:** Nelson, A. (2002). [“Introduction: Future Texts.”](readings/Reading-W12b-1.pdf){:target="_blank"} *Social Text, 20*(2), 1–15.<br><br>**Reading 2:** Benjamin, R. (2019). [“Introduction.”](readings/Reading-W12b-2.pdf){:target="_blank"} In *Race After Technology: Abolitionist Tools for the New Jim Code* (pp. 1–32). Polity.<br> | Tabita Rezaire [French Guiana], *Deep Down Tidal* (2017) |
 
 </div>
 </details>
