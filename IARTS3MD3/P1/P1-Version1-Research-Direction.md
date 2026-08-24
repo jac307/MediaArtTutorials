@@ -15,7 +15,7 @@
 - A preliminary selection of two or three artworks or projects
 - A source map with eight sources
 - A division of labour for the pair
-- A brief in-class presentation of your research direction
+- A one-slide rapid presentation
 
 ## Division of labour
 

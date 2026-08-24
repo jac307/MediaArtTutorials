@@ -4,77 +4,56 @@
 
 # Version 3: Multimodal Profile Draft · Pairs
 
-**Goal:** Develop the **first complete draft of your multimodal profile**. Revise the materials from Version 2 using the instructor’s feedback, write the critical analysis, translate the research into a preliminary research-creation idea, and design a printed research poster.
+**Goal:** Develop the **first complete draft of your multimodal profile**. Review and refine the materials from Version 2, write the critical analysis, develop a preliminary research-creation idea, and design a printed research poster.
 
 > This is not the final blog entry. The writing, thesis, research-creation idea, visual materials, and poster may change after the poster session and further revision.
 
 ## What you will complete
 
-- A revised artist or collective profile
-- Revised entries for two artworks or projects
-- A revised research question and working thesis
 - A **500–700-word critical analysis**
-- A preliminary research-creation proposal
-- A visual development page using sketches, a mind map, storyboard, diagram, collage, tests, or another suitable format
-- A revised annotated bibliography with eight core sources
-- An updated folder of high-quality images
-- A digitally designed **18 × 24-inch research poster**
-- A printed poster for the poster session
+- A preliminary research-creation proposal with a visual development page
+- A digitally designed and printed **18 × 24-inch research poster**
 
 ## Division of labour
 
-Both partners are responsible for the complete profile, research-creation proposal, poster, and ZIP package. Divide the initial work as follows:
+Both partners are responsible for the critical analysis, research-creation proposal, poster, and ZIP package. Divide the initial work as follows:
 
 | Partner A | Partner B |
 |---|---|
-| Revise assigned source notes and citations | Revise assigned source notes and citations |
-| Take the lead on one critical connection | Take the lead on one critical connection |
-| Revise one artwork entry and its documentation | Revise one artwork entry and its documentation |
-| Contribute to the research-creation concept and visual development page | Contribute to the research-creation concept and visual development page |
-| Take the lead on selected poster content or design tasks | Take the lead on selected poster content or design tasks |
-| Check assigned images, captions, credits, links, alt text, and rights information | Check assigned images, captions, credits, links, alt text, and rights information |
+| Take the lead on the first critical connection | Take the lead on the second critical connection |
+| Develop selected parts of the research-creation concept | Develop selected parts of the research-creation concept |
+| Prepare selected elements of the visual development page | Prepare selected elements of the visual development page |
+| Prepare selected poster content | Prepare selected poster content |
+| Complete assigned poster design and production tasks | Complete assigned poster design and production tasks |
 
-Both partners must review the instructor’s feedback, revise the working thesis and research questions together, read the complete document, and understand the full argument before submitting.
+Both partners must write the introduction and conclusion of the critical analysis together. They must also review and revise the complete analysis, research-creation proposal, visual development page, and poster before submitting.
 
-Both partners must also review the poster at its final print size and check its content, visual hierarchy, readability, citations, and image quality before printing.
+Before printing, review the poster at its final size and check its content, visual hierarchy, readability, citations, image quality, and credits.
 
-> Do not divide the project into two isolated halves. Individual sections must be revised together so the profile and poster use a consistent focus, voice, visual approach, and citation style.
+> Do not divide the new materials into two isolated halves. Revise each component together so the submission uses a consistent argument, voice, and visual approach.
 
-<details class="tutorial-section" id="revise-and-write">
+<details class="tutorial-section" id="write-critical-analysis">
   <summary>
-    <span class="section-title">1. Revise the research and write the critical analysis</span>
+    <span class="section-title">1. Write the critical analysis</span>
     <span class="section-description">
-      Review the instructor's feedback, revise the project direction, and turn the Version 2 outline into a complete critical analysis.
+      Turn the Version 2 outline into a complete critical analysis connecting the research, concepts, and selected artworks.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Review the feedback from Version 2
+## Review the Version 2 outline
 
-Before writing, both partners must review the instructor's feedback on:
+Before writing, review:
 
-- The main and supporting research questions
+- The main research question and two supporting questions
 - The working thesis
-- The artist or collective profile
-- The two artwork entries
-- The critical-connections outline
-- The annotated bibliography, citations, and image documentation
+- The two critical connections
+- The evidence selected from the two artworks
+- The passages, concepts, and examples selected from the eight core sources
+- Any missing evidence or areas marked for further research
 
-Create a short revision checklist identifying what must be corrected, clarified, expanded, removed, or researched further. Divide the revisions fairly and review all changes together.
-
-## Revise the existing profile materials
-
-Revise the following materials from Version 2 based on the feedback received:
-
-- Artist or collective profile
-- Two artwork entries
-- Main research question and two supporting questions
-- Working thesis
-- Annotated bibliography
-- Images, captions, credits, source links, alt text, and rights information
-
-Do not add information only to make the entry longer. Keep details that support the research focus and help the reader understand the analysis.
+Refine these materials as needed before turning the outline into complete paragraphs.
 
 ## Write the critical analysis
 
@@ -93,50 +72,43 @@ Use the following structure.
 
 ### Introduction
 
-Introduce:
-
-- The main research question
-- The focus of the analysis
-- The working thesis as your answer to the main research question
-- The two concepts and artworks that will organize the discussion
+Establish the main research question and focus of the analysis. Present the working thesis as your answer to that question, and identify the two concepts and artworks that will organize the discussion.
 
 ### Paragraph 1: Critical connection and Artwork 1
 
-- Explain the first concept or critical question in your own words.
-- Bring both course readings into conversation by identifying a connection, difference, or tension.
-- Analyze specific evidence from the first artwork, including relevant methods, materials, technologies, or artistic decisions.
-- Use another source to provide context or a different interpretation.
-- Explain how this evidence develops, supports, or complicates the working thesis.
+Develop the first part of the thesis by explaining one critical concept and connecting both course readings through a point of agreement, difference, or tension. Analyze specific evidence from the first artwork and use another source to provide context or a different interpretation.
 
 ### Paragraph 2: Critical connection and Artwork 2
 
-- Explain the second concept or critical question in your own words.
-- Connect arguments from the course readings and other sources.
-- Analyze specific evidence from the second artwork, including relevant methods, materials, technologies, or artistic decisions.
-- Explain how this connection differs from or builds on the first paragraph.
-- Explain how the evidence develops, supports, or complicates the working thesis.
+Develop the second part of the thesis through another critical concept and the second artwork. Bring the readings and other sources into the analysis, and explain how this connection differs from, extends, or complicates the argument developed in the first paragraph.
 
 ### Conclusion
 
-Conclude by explaining:
-
-- The main point that connects the artworks and concepts
-- What the artworks help you understand, question, or reconsider
-- An important tension, limit, or unresolved question
-- How the analysis answers the main research question
+Bring the two critical connections together and explain how they answer the main research question. Identify what the artworks help you understand or reconsider, and acknowledge an important tension, limit, or unresolved question.
 
 ## Writing requirements
 
 - Write in complete paragraphs rather than bullet points.
-- Bring readings, sources, and artworks together rather than summarizing them separately.
+- Bring the readings, sources, and artworks together rather than summarizing them separately.
 - Use specific evidence from the artworks.
 - Write in your own words.
 - Use APA in-text citations.
-- Include page numbers for quotations and specific passages.
-- Include timestamps for relevant audio or video sources.
-- Revise the complete analysis together so it reads as one text.
+- Revise the full analysis together so it reads as one text.
+
+## Prepare the writing submission
+
+Submit one PDF per pair containing:
+
+1. Both partners’ full names and student numbers
+2. Artist or collective name
+3. Title of the critical analysis
+4. Complete 500–700-word critical analysis
+5. APA reference list
+6. Name: `P1_Multimodal-Profile-Writing.pdf`
 
 </div>
+
+</details>
 
 </details>
 
@@ -165,40 +137,30 @@ Write a **100–150-word concept statement** explaining:
 - The strategy, method, or concern drawn from the artist or collective
 - How your approach will differ from the artist's work
 - The EDI or anti-oppression issue the project will address
-- The intended audience or context, when relevant
-
-## Identify the proposed process
-
-Include brief notes identifying:
-
-- Proposed medium or format
-- Materials, tools, or technologies
-- Site, platform, or presentation context
-- One new technology, technique, or process you may need to learn
-- Possible forms of audience participation or interaction
-- Ethical questions involving representation, consent, access, cultural context, collaboration, or accountability
+- The intended audience or context
 
 ## Create a visual development page
 
-Create at least **one visual development page** showing how the idea might take form. You may use:
+Create **one visual development page** showing how the idea might take form. You may use:
 
 - A mind map
 - Concept sketches
 - A storyboard
 - A process or interaction diagram
 - A digital or physical collage
-- Material, sound, image, or technology tests
 - A combination of these formats
 
-The page must show the development of the idea rather than function only as decoration. Add short labels or annotations explaining important choices and connections.
+> The page must show the development of the idea rather than function only as decoration. Add short labels or annotations explaining important choices and connections.
 
-If you use images or media created by other people, include credits and source links.
+## Prepare the writing submission
 
-## Identify what comes next
+Submit one PDF per pair containing:
 
-End the proposal with **two or three bullet points** identifying questions, skills, materials, ethical concerns, or technical problems that need to be explored in the next version.
-
-> This proposal is preliminary. It may be revised, combined with another idea, or replaced after further testing and discussion.
+1. Both partners’ full names and student numbers
+2. Title of the proposal
+4. Complete 100–150-word concept statement
+5. Annotated visual development page
+6. Name: `P1_Multimodal-Profile-Proposal.pdf`
 
 </div>
 
@@ -206,9 +168,9 @@ End the proposal with **two or three bullet points** identifying questions, skil
 
 <details class="tutorial-section" id="poster-and-submission">
   <summary>
-    <span class="section-title">3. Design the research poster and prepare the submission</span>
+    <span class="section-title">3. Design the research poster</span>
     <span class="section-description">
-      Translate the profile into a clear visual format, print the poster for the poster session, and prepare the Version 3 files.
+      Translate the profile into a clear visual format and print the poster for the poster session.
     </span>
   </summary>
 
@@ -243,7 +205,6 @@ Use approximately **300–450 words**, excluding captions, credits, and referenc
 - Balance written information with images and negative space.
 - Use a consistent grid, alignment, colour palette, and typographic system.
 - Make the central argument and artworks visible from a reasonable viewing distance.
-- Do not place the complete annotated bibliography on the poster. Include only the sources cited or discussed on the poster in a concise APA reference list.
 
 > Avoid filling the poster with long paragraphs or using images without enough explanation. A viewer should be able to identify the artist, argument, artworks, concepts, and research-creation direction within a few minutes.
 
@@ -254,96 +215,34 @@ Use approximately **300–450 words**, excluding captions, credits, and referenc
 - Bring the printed poster to class.
 - Both partners must be prepared to explain the project and respond to questions during the session.
 
-## Prepare the Version 3 document
-
-Export one PDF containing:
-
-1. Both partners' full names and student numbers
-2. Revised artist or collective profile and profile image
-3. Revised entries for both artworks with images or documentation
-4. Revised main research question and two supporting questions
-5. Revised working thesis
-6. Complete 500–700-word critical analysis
-7. Preliminary research-creation concept statement
-8. Visual development page
-9. Two or three points for further development
-10. Revised annotated bibliography with all eight core sources
-11. Updated image and media information table
-12. Updated division-of-work table
-13. Complete APA reference list
-
-Name the document:
-
-`P1_Multimodal-Profile-Draft.pdf`
-
-## Prepare the poster files
+## Prepare the poster file
 
 Export the poster as:
 
+- Name: `P1_Multimodal-Profile-Poster`
 - A print-ready PDF at its final size
 - A high-quality `.JPG` or `.PNG` preview
-
-Name the files:
-
-`P1_Multimodal-Profile-Poster.pdf`
-
-`P1_Multimodal-Profile-Poster.jpg` or `P1_Multimodal-Profile-Poster.png`
-
-## Update the image folder
-
-Include the image files from Version 2 and any new images used in the profile, research-creation proposal, or poster.
-
-Use the same image-quality, filename, caption, credit, source-link, alt-text, and rights-information requirements established in Version 2.
-
-## Record and review the division of work
-
-Update the division-of-work table:
-
-| Task | Partner responsible | Status or notes |
-|---|---|---|
-| Example: Draft Critical Analysis, Paragraph 1 | Full name | Drafted and reviewed by both partners |
-
-Before submitting, both partners must:
-
-- Read and revise the complete written entry.
-- Confirm that the analysis supports the working thesis.
-- Check every citation, quotation, link, caption, and media credit.
-- Review the research-creation proposal and visual development page.
-- Check the poster's content, hierarchy, readability, and image quality.
-- Open all exported files and confirm that they work correctly.
-- Confirm that the ZIP package contains the required files and folders.
-
-## Create the ZIP package
-
-Use the following structure:
-
-```text
-P1_Multimodal-Profile-Draft.zip
-
-├── P1_Multimodal-Profile-Draft.pdf
-
-├── P1_Multimodal-Profile-Poster.pdf
-
-├── P1_Multimodal-Profile-Poster.jpg
-
-└── Images
-    ├── Artist-Profile.jpg
-    ├── Artwork-01_Short-Title.jpg
-    ├── Artwork-02_Short-Title.jpg
-    └── Additional-Image.jpg
-```
-
-One partner submits the ZIP package on behalf of the pair.
-
-## Submission files
-
-| Item | Required filename |
-|---|---|
-| Version 3 package | `P1_Multimodal-Profile-Draft.zip` |
-| Printed poster | Bring the printed 18 × 24-inch poster to class |
-
-An incorrect filename or file extension, missing section, incomplete citation, missing media credit, unreadable poster, or missing printed poster will affect the grade.
 
 </div>
 
 </details>
+
+## Submission files
+
+Submit the following three files per pair:
+
+| Item | Required filename |
+|---|---|
+| Critical analysis | `P1_Multimodal-Profile-Writing.pdf` |
+| Research-creation proposal | `P1_Multimodal-Profile-Proposal.pdf` |
+| Research poster | `P1_Multimodal-Profile-Poster.pdf` |
+
+One partner submits the three files on behalf of the pair.
+
+Bring the printed **18 × 24-inch poster** to the poster session.
+
+> An incorrect filename or file extension, missing file, incomplete citation, missing media credit, unreadable poster, or missing printed poster will affect the grade.
+
+---
+
+Credits: Jessica A. Rodríguez

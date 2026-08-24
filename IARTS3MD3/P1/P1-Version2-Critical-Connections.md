@@ -10,11 +10,12 @@
 
 ## What you will complete
 
+- Revise the research direction, questions, source selection, and two selected artworks from Version 1.
+- Individual research and artwork notes
 - An artist or collective profile
-- A revised research question and working thesis
-- Written entries for three artworks or projects
-- A critical connections section using course readings and other sources
-- An annotated bibliography with six core sources
+- Written entries for two artworks or projects
+- A working thesis and detailed critical-connections outline
+- An annotated bibliography with eight core sources
 - A folder of high-quality images
 - A one-slide rapid presentation
 
