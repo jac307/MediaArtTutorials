@@ -326,11 +326,9 @@ Export one PDF containing:
 6. Critical-connections outline
 7. Annotated bibliography with all eight core sources
 
+Name the document: `P1_Critical-Connections.pdf`
+
 > The PDF must include working links. Check that all text, images, captions, credits, tables, and citations are readable before exporting.
-
-Name the document:
-
-`P1_Critical-Connections.pdf`
 
 ## Prepare the image folder
 
