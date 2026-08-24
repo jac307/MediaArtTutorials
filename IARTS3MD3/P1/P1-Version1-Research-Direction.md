@@ -10,11 +10,10 @@
 
 ## What you will complete
 
-- A 300–400-word research proposal
-- One main research question and two or three supporting questions
-- A preliminary selection of two or three artworks or projects
+- A 250-300-word research proposal
+- One main research question and one-two supporting questions
+- A preliminary selection of two artworks or projects
 - A source map with eight sources
-- A division of labour for the pair
 - A one-slide rapid presentation
 
 ## Division of labour
@@ -54,28 +53,27 @@ Before confirming your choice:
 1. Look at several examples of the artist's work.
 2. Read a short biography or artist statement.
 3. Discuss what interests both partners.
-4. Check that enough reliable information is available.
-5. Confirm the selection using the class enrolment process.
+4. Confirm the selection using the class enrolment process.
 
 ## Write the research proposal
 
-Write **300–400 words** addressing the following:
+Write **250–300 words** addressing the following:
 
 - Why did you select this artist or collective?
 - What part of their practice will you examine?
 - What themes, methods, materials, technologies, or questions interest you?
-- How does the work connect to equity, diversity, inclusion, or anti-oppression?
-- Which two or three artworks or projects will provide your starting examples?
-- What do you still need to learn?
+- What do you hope to learn through this research?
 
-Keep the proposal focused. Do not try to cover the artist's entire career.
+Keep the proposal focused. Do not try to cover the artist’s entire career.
+
+> Write the proposal in your own words using clear and specific language. Avoid overly complicated descriptions, broad statements, and general claims that could apply to any artist. Explain your ideas directly and support them with details from the artist’s practice.
 
 ## Develop the research questions
 
 Write:
 
 - **One main research question** that identifies the focus of the profile
-- **Two or three supporting questions** that address specific parts of the artist's work
+- **One-Two supporting questions** that address specific parts of the artist's work
 
 Questions may address:
 
@@ -95,10 +93,9 @@ For each work, include:
 - Title and year
 - Medium or format
 - A link to a reliable source
-- An image or other documentation, when available
 - Two or three sentences explaining why the work is relevant to your research direction
 
-This selection is preliminary. You may change it in the next version if your research leads elsewhere.
+> This selection is preliminary. You may change it in the next version if your research leads elsewhere.
 
 </div>
 </details>
