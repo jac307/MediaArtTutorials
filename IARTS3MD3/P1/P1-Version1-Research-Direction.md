@@ -88,7 +88,7 @@ Questions may address:
 
 Avoid questions that can be answered with a fact or with only “yes” or “no.”
 
-## Select two or three artworks or projects
+## Select two artworks or projects
 
 For each work, include:
 
