@@ -10,7 +10,7 @@
 
 + [Version 1: Research Direction](P1-Version1-Research-Direction.md)
 + [Version 2: Critical Connections](P1-Version2-Critical-Connections.md)
-+ [Version 3: Multimodal Profile Draft]()
++ [Version 3: Multimodal Profile](P1-Version3-Multimodal-Profile-Draft.md)
 + [Version 4: Revised Profile Presentation ]()
 + [P1: Critical Research-Creation Profile  - Final Submission]()
 

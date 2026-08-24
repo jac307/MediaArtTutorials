@@ -1,8 +1,8 @@
 [IARTS 3MD3](README.md)
 
-# P1: Critical Research-Creation Profile
+## P1: Critical Research-Creation Profile
 
-## Version 2: Critical Connections · Pairs
+# Version 2: Critical Connections · Pairs
 
 **Goal:** Develop the **first version of your profile**. Revise the research direction from Version 1, confirm the selected artworks, connect your findings to course readings and other sources, and prepare the image files needed for the next version.
 
@@ -423,9 +423,9 @@ Artwork-02c_Short-Title.jpg
 
 Include an image and media information table in the main PDF. Add one row for every image or item of documentation used in the project.
 
-| Filename | Artist or artwork | Caption | Credit | Source link | Alt text | Rights or public-use notes |
-|---|---|---|---|---|---|---|
-| Exact filename used in the `Images` folder | Identify the artist, collective, artwork, or project | Include the title, year, medium, and other relevant information | Name the artist, photographer, videographer, gallery, archive, or organization | Link directly to the original source | Briefly describe the visual content for someone using a screen reader | Record any stated licence, permission, copyright notice, or restriction |
+| Filename | Artist or artwork | Caption | Credit | Source link | Alt text |
+|---|---|---|---|---|---|
+| Exact filename used in the `Images` folder | Identify the artist, collective, artwork, or project | Include the title, year, medium, and other relevant information | Name the artist, photographer, videographer, gallery, archive, or organization | Link directly to the original source | Briefly describe the visual content for someone using a screen reader |
 
 > Finding an image online does not mean it can be republished publicly. Record the source and any available rights information so that unsuitable images can be replaced before the profile is posted on the course blog.
 
