@@ -8,7 +8,7 @@ In **groups of 3–4, students will iteratively develop an original artwork in d
 
 ## Index  
 
-+ [Version 1: Artist/Collective Inspiration and Concept Proposal](V1.md)
++ [Version 1: Artist/Collective Inspiration and Concept Proposal](P1-Version1-Research-Direction.md)
 + [Technology Experiment](Exp.md)
 + [Version 2: First Artistic Prototype](P2-V2.md)
 + [Version 3: Development and Critique](P2-V3.md)

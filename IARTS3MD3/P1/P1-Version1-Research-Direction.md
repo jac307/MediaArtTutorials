@@ -2,13 +2,11 @@
 
 # P1: Critical Research-Creation Profile
 
-## Version 1: Research Direction · Pairs · 6 points
+## Version 1: Research Direction · Pairs
 
-## Goal
+**Goal:** Choose an artist or collective and **establish a clear starting point for your research**. You will identify the questions, artworks, and sources that will guide the next version of the project.
 
-Choose an artist or collective and establish a clear starting point for your research. You will identify the questions, artworks, and sources that will guide the next version of the project.
-
-This is an initial proposal. Your direction may change as you read, discuss the work, and receive feedback.
+> This is an initial proposal. Your direction may change as you read, discuss the work, and receive feedback.
 
 ## What you will complete
 
@@ -18,6 +16,24 @@ This is an initial proposal. Your direction may change as you read, discuss the 
 - A source map with eight sources
 - A division of labour for the pair
 - A brief in-class presentation of your research direction
+
+## Division of labour
+
+**Both partners are responsible for the research direction and final document**. Divide the initial source work as follows:
+
+| Partner A | Partner B |
+|---|---|
+| Review one course reading | Review one course reading |
+| Find and assess one academic source | Find and assess one academic source |
+| Find and assess one primary artist source | Find and assess one primary artist source |
+| Find and assess one critical or contextual source | Find and assess one critical or contextual source |
+| Take the lead on one selected artwork | Take the lead on one selected artwork |
+
+> Do not divide the project into two isolated halves. Each partner should understand the full research direction and be able to explain the source choices.
+
+## Activity stages
+
+Complete the following stages in order.
 
 <details class="tutorial-section" id="research-direction">
   <summary>
@@ -31,7 +47,7 @@ This is an initial proposal. Your direction may change as you read, discuss the 
 
 ## Select an artist or collective
 
-Choose one artist or collective from the course list. Each pair must select an available option that has not already been claimed.
+Choose one artist or collective from the course list (available on Avenue To Learn). Each pair must select an available option that has not already been claimed.
 
 Before confirming your choice:
 
@@ -103,7 +119,7 @@ Select **eight sources**. You may include up to **ten** if the additional source
 
 | Source type | Required | Purpose |
 |---|---:|---|
-| **Course readings** | 2 | Provide concepts or critical approaches from the Student-Led Critical Discussion reading list. |
+| **Course readings** | 2 | Provide concepts or critical approaches from the [Student-Led Critical Discussion](../Student-Led-Critical-Discussion-IARTS3MD3.md) reading list. |
 | **Additional academic sources** | 2 | Provide scholarly research about the artist, relevant art practices, or the cultural and political context. |
 | **Primary artist sources** | 2 | Provide the artist's own account of their work, ideas, methods, or intentions. |
 | **Critical or contextual sources** | 2 | Provide reviews, curatorial interpretations, exhibition histories, or public discussion of the work. |
@@ -164,7 +180,13 @@ Use the following structure:
 |---|---|---|---|
 | Complete reference | Course, academic, primary artist, or critical/contextual | Summarize the useful information or argument in two or three sentences. | Explain how it may support a question, artwork analysis, or section of the profile. |
 
-Write the notes in your own words. Include page numbers or timestamps for any passages, examples, or quotations you may return to later.
+> Write the notes in your own words. Include page numbers or timestamps for any passages, examples, or quotations you may return to later.
+
+### Example
+
+| APA reference and link | Source type | What the source provides | How it may be used |
+|---|---|---|---|
+| Tuck, E. (2009). “Suspending Damage: A Letter to Communities.” *Harvard Educational Review, 79*(3), 409–427. | Course reading | Tuck critiques research that represents marginalized communities mainly through pain, loss, or damage. She argues that researchers should also attend to complexity, desire, knowledge, and community priorities (pp. 409–413). | This reading may help us examine how Mónica Mayer presents testimonies about harassment in *El Tendedero* without reducing participants to their experiences of violence. It may also support our question about the responsibilities artists have when collecting and displaying personal testimony. |
 
 ## Use sources ethically
 
@@ -181,39 +203,27 @@ Write the notes in your own words. Include page numbers or timestamps for any pa
 
 <details class="tutorial-section" id="pair-work-submission">
   <summary>
-    <span class="section-title">3. Divide the work, present the direction, and submit</span>
+    <span class="section-title">3. Prepare the submission document and confirm the division of work</span>
     <span class="section-description">
-      Share the research fairly, review the complete document together, and prepare the Version 1 submission.
+      Review the complete document together, record each partner’s contributions, and prepare the Version 1 document and presentation slide.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Division of labour
-
-Both partners are responsible for the research direction and final document. Divide the initial source work as follows:
-
-| Partner A | Partner B |
-|---|---|
-| Review one course reading | Review one course reading |
-| Find and assess one academic source | Find and assess one academic source |
-| Find and assess one primary artist source | Find and assess one primary artist source |
-| Find and assess one critical or contextual source | Find and assess one critical or contextual source |
-| Take the lead on one selected artwork | Take the lead on one selected artwork |
-
-If you select a third artwork, review it together or divide the work by agreement.
+## Review the complete document
 
 Before submitting, both partners must:
 
 - Read the full proposal and source map.
-- Check every citation and link.
-- Confirm that the research questions match the selected artworks and sources.
+- Check every citation, image credit, and link.
+- Confirm that the research questions connect with the selected artworks and sources.
 - Revise the document together so it reads as one project.
-- Agree on what needs to be completed for Version 2.
+- Identify what needs to be researched or developed for Version 2.
 
-Do not divide the project into two isolated halves. Each partner should understand the full research direction and be able to explain the source choices.
+Both partners are responsible for the accuracy and completion of the full document.
 
-## Record the division of labour
+## Record the division of work
 
 At the end of the document, include a short table:
 
@@ -221,57 +231,60 @@ At the end of the document, include a short table:
 |---|---|---|
 | Example: Review Course Reading 1 | Full name | Completed; key pages noted |
 
-The division should be fair, but the tasks do not need to be identical. Discuss workload, deadlines, access needs, and other responsibilities before assigning the work. If the division needs to change, update the table and inform your partner.
+The division should be fair, but the tasks do not need to be identical. Discuss workload, deadlines, access needs, and other responsibilities before assigning the work. If the division changes, update the table and inform your partner.
 
-## Brief in-class presentation
+## Submission document
 
-Prepare a **five-minute presentation** covering:
+Export one PDF (`P1_Research-Direction.pdf`) per pair containing:
 
-1. The selected artist or collective
-2. The proposed research focus
-3. The main research question
-4. Two or three preliminary artworks
-5. The two course readings you may use
-6. One research gap or question on which you want feedback
-
-You may present from the proposal document. Separate slides are not required.
-
-Both partners must speak during the presentation and take notes on the feedback received.
-
-## Submission contents
-
-Submit one PDF per pair containing:
-
-1. Both partners' full names and student numbers
+1. Both partners’ full names and student numbers
 2. Artist or collective information
 3. Research proposal
-4. Main and supporting questions
+4. Main and supporting research questions
 5. Preliminary artwork selection
 6. Source map
-7. Division-of-labour table
+7. Division-of-work table
 8. Complete APA reference list
 
-## File name
+> One partner submits the files on behalf of the pair.
 
-`Group-#-P1-Version1-Research-Direction.pdf`
+## One-minute in-class presentation
 
-One partner submits the file on behalf of the pair.
+During the following lecture, each pair will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
 
-## Before submitting
+Prepare **one slide in image format** containing:
 
-- [ ] The proposal is 300–400 words and has a clear focus.
-- [ ] The main question cannot be answered with a simple fact.
-- [ ] We selected two or three relevant artworks or projects.
-- [ ] The source map includes all eight required sources.
-- [ ] Each source has a complete reference, working link, and short assessment.
-- [ ] We identified two course readings but saved the close analysis for Version 2.
-- [ ] Both partners completed and reviewed their assigned research.
-- [ ] We followed the ethical research guidelines.
-- [ ] Images and media are credited.
-- [ ] The PDF follows the required order and file name.
+- The selected artist or collective
+- The proposed research focus in one line
+- The main research question
+- Images of two or three preliminary artworks or projects
+
+## Slide requirements
+
+- Submit one `.JPG` or `.PNG` image.
+- Use a 16:9 format, preferably `1920 × 1080 px`.
+- Keep the text brief and readable.
+- Include the title, year, and image credit for each artwork.
+- Choose one speaker for this presentation.
+- The presentation must not exceed **one minute**.
+- There will be no questions or discussion after each presentation.
+- Name: `P1_Research-Direction-Slide.jpg` or `P1_Research-Direction-Slide.png`
+
+> Slides must be submitted in advance so they can be presented in sequence without changing computers.
 
 </div>
 </details>
+
+---
+
+## Submission files
+
+| Item | Required filename |
+|---|---|
+| Version 1 document | `P1_Research-Direction.pdf` |
+| Presentation slide | `P1_Research-Direction-Slide.jpg` or `P1_Research-Direction-Slide.png` |
+
+> Incorrect filenames or file extensions, missing sections, incomplete citations, missing media credits, inaccessible links, or a slide that does not follow the required format will affect the grade.
 
 ---
 
