@@ -320,14 +320,17 @@ The discussion activity plan must identify:
 | Criterion | Points | Expectations |
 |---|---:|---|
 | **Reading synthesis and selected concepts** | 1.5 | Accurately explains two or three central ideas and makes meaningful connections, distinctions, or tensions between both readings without attempting an exhaustive summary. |
-| **Artist research and critical connections** | 1.5 | Uses specific works, details, methods, and contextual evidence to explain how the artist supports, complicates, challenges, or extends the selected concepts. |
+| **Artist research and critical connections** | 2.0 | Uses specific works, details, methods, and contextual evidence to explain how the artist supports, complicates, challenges, or extends the selected concepts. |
 | **Discussion activity design** | 1.5 | Creates a purposeful non-digital activity that is clearly inspired by the artist and deepens critical engagement with the readings and artwork. Provides clear instructions, appropriate materials, and an accessible structure. |
-| **Critical facilitation and participation** | 1.0 | Uses effective questions and follow-up prompts, invites multiple forms of participation, responds constructively to contributions, and concludes with a meaningful synthesis. |
+| **Critical facilitation and participation** | 2.0 | Uses effective questions and follow-up prompts, invites multiple forms of participation, responds constructively to contributions, and concludes with a meaningful synthesis. |
 | **Organization, delivery, and collaboration** | 1.0 | Communicates clearly, uses effective slides, shares responsibilities equitably, demonstrates preparation, and respects both 20-minute time limits. |
-| **Submission requirements and citations** | 0.5 | Submits all required materials by the deadline using the required formats and filenames, with complete citations and media credits. |
+| **Submission requirements and citations** | 1.0 | Submits all required materials by the deadline using the required formats and filenames, with complete citations and media credits. |
 | **Total** | **7.0** | |
 
 > General summaries, disconnected treatment of the readings and artist, unrelated examples, unsupported claims, inaccessible or unclear activity instructions, or exceeding the time limits will weaken the assessment.
+
+</div>
+</details>
 
 <details class="tutorial-section" id="materials">
   <summary>
