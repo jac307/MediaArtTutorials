@@ -171,7 +171,7 @@ During this discussion:
 5. Compare the preliminary critical connections prepared in Module I.
 6. Decide which connections will guide the written profile.
 
-Both partners should understand how all eight sources and both artworks relate to the project before continuing.
+> Both partners should understand how all eight sources and both artworks relate to the project before continuing.
 
 ## Revise the research questions
 
@@ -187,7 +187,7 @@ Revise them based on:
 Include:
 
 - One revised main research question
-- Two revised supporting questions
+- One-Two revised supporting questions
 
 > Remove questions that are too broad, factual, or no longer connected to the project.
 
@@ -203,9 +203,44 @@ The thesis must:
 - Connect with the two selected artworks
 - Recognize an important tension, question, or limit when relevant
 
-The thesis should not be a list of themes or a description of what you plan to research.
+> The working thesis is provisional. You may revise it for the next versions.
 
-> The working thesis is provisional. You may revise it in Versions 3 and 4.
+## Expand the thesis through the critical-connections outline
+
+Prepare a **detailed bullet-point outline** showing how you will develop and support the working thesis in Version 3.
+
+Use the following headings and bullet points.
+
+### Introduction
+
+- The main research question
+- The one-two supporting questions
+- The working thesis as the current answer to the main research question
+- The main focus of the critical connections section
+- The two concepts that will organize the analysis
+- The two artworks or projects that will provide the main examples
+- Any concrete context the reader will need before the analysis begins
+
+> The introduction should establish the questions and thesis. The body paragraphs should use the readings, other sources, and artworks to develop the answer.
+
+### Paragraph 1 & 2: Critical connection and Artwork 1 & 2
+
+Each pharragraph:
+
+- The main concept or question
+- A passage or argument from one course reading
+- How the second course reading supports, extends, or challenges that idea
+- Another source that adds context or a different interpretation
+- Specific evidence from Artwork 1/2
+- The relevant method, material, technology, or artistic decision
+- Relevant citations, quotations, page numbers, or timestamps
+
+### Conclusion
+
+- The main point connecting both artworks and concepts
+- What the artworks help you understand, question, or reconsider
+- An important tension, limit, or unresolved question
+- How the analysis supports or complicates the working thesis
 
 ## Research and writing ethics
 
@@ -214,80 +249,18 @@ The thesis should not be a list of themes or a description of what you plan to r
 - Do not reduce the artist or community to trauma, discrimination, or identity categories.
 - Clearly distinguish the artist’s statements from your interpretation and from other writers’ arguments.
 - Do not copy source descriptions, gallery texts, captions, or artist statements without quotation marks and citations.
-- Write the profile, artwork entries, annotations, and critical connections in your own words.
-
-## Expand the thesis through the critical-connections outline
-
-Prepare a **detailed bullet-point outline** showing how you will develop and support the working thesis in Version 3.
-
-The working thesis states the central argument of the profile. The outline expands that argument by identifying the concepts, sources, artworks, evidence, and interpretations that will support it. Each section of the outline should develop one part of the thesis rather than introduce an unrelated topic.
-
-## Outline structure
-
-Use the following headings and bullet points.
-
-### Introduction
-
-Identify:
-
-- The main research question
-- The two supporting questions
-- The working thesis as the current answer to the main research question
-- The main focus of the critical connections section
-- The two concepts that will organize the analysis
-- The two artworks or projects that will provide the main examples
-- Any context the reader will need before the analysis begins
-- What still needs to be researched or clarified
-
-> The introduction should establish the questions and thesis. The body paragraphs should use the readings, other sources, and artworks to develop the answer.
-
-### Paragraph 1: Critical connection and Artwork 1
-
-Identify:
-
-- The main concept or question
-- A passage or argument from one course reading
-- How the second course reading supports, extends, or challenges that idea
-- Another source that adds context or a different interpretation
-- Specific evidence from Artwork 1
-- The relevant method, material, technology, or artistic decision
-- Your initial interpretation of the connection
-- Relevant citations, quotations, page numbers, or timestamps
-
-### Paragraph 2: Critical connection and Artwork 2
-
-Identify:
-
-- The main concept or question
-- A passage or argument from one course reading
-- How the second course reading supports, extends, or challenges that idea
-- Another source that adds context or a different interpretation
-- Specific evidence from Artwork 1
-- The relevant method, material, technology, or artistic decision
-- Your initial interpretation of the connection
-- Relevant citations, quotations, page numbers, or timestamps
-
-### Conclusion
-
-Identify:
-
-- The main point connecting both artworks and concepts
-- What the artworks help you understand, question, or reconsider
-- An important tension, limit, or unresolved question
-- How the analysis supports or complicates the working thesis
 
 ## Combine and revise the annotated bibliography
 
-Combine the four annotations prepared by each partner into one annotated bibliography containing all eight core sources.
+Combine the individual annotations prepared by each partner into one annotated bibliography containing all eight core sources.
 
 As a pair:
 
-- Check every APA reference and link.
-- Confirm that each annotation is **75–100 words**.
-- Remove repeated or unnecessary information.
-- Use a consistent structure and level of detail.
-- Confirm that each annotation explains how the source contributes to the project.
-- Revise all entries so they are clear and written in your own words.
+- [] Check every APA reference and link.
+- [] Confirm that each annotation is **75–100 words**.
+- [] Remove repeated or unnecessary information.
+- [] Use a consistent structure and level of detail.
+- [] Confirm that each annotation explains how the source contributes to the project.
 
 Organize the bibliography in alphabetical order using this structure:
 
