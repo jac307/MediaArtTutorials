@@ -116,7 +116,7 @@ Select **eight sources**. You may include up to **ten** if the additional source
 
 | Source type | Required | Purpose |
 |---|---:|---|
-| **Course readings** | 2 | Provide concepts or critical approaches from the [Student-Led Critical Discussion](../Student-Led-Critical-Discussion-IARTS3MD3.md) reading list. |
+| **Course readings** | 2 | Provide concepts or critical approaches from the [Student-Led Critical Discussion](../Student-Led-Critical-Discussion-IARTS3MD3.md){:target="_blank"} reading list. |
 | **Additional academic sources** | 2 | Provide scholarly research about the artist, relevant art practices, or the cultural and political context. |
 | **Primary artist sources** | 2 | Provide the artist's own account of their work, ideas, methods, or intentions. |
 | **Critical or contextual sources** | 2 | Provide reviews, curatorial interpretations, exhibition histories, or public discussion of the work. |
@@ -129,9 +129,9 @@ Select two readings from the course list that may help you interpret the artist'
 
 ### Additional academic sources
 
-Use peer-reviewed journal articles, academic book chapters, scholarly exhibition catalogues, or conference papers. Search through McMaster Library databases or Google Scholar.
+Use peer-reviewed journal articles, academic book chapters, scholarly exhibition catalogues, or conference papers. Search through [McMaster Library databases](https://library.mcmaster.ca/databases){:target="_blank"} or [Google Scholar](https://scholar.google.com/){:target="_blank"}.
 
-The source does not need to be only about the artist. It may address a related practice, concept, history, community, or context.
+> The source does not need to be only about the artist. It may address a related practice, concept, history, community, or context.
 
 ### Primary artist sources
 
@@ -143,7 +143,7 @@ Use sources in which the artist or collective presents or discusses their own wo
 - An essay written by the artist
 - A recorded lecture, performance, or conversation
 
-A gallery or museum page is not automatically a primary artist source. Check who wrote the text and whose perspective it represents.
+> A gallery or museum page is not automatically a primary artist source. Check who wrote the text and whose perspective it represents.
 
 ### Critical or contextual sources
 
@@ -155,19 +155,19 @@ Use credible material such as:
 - Documentaries, podcasts, or recorded conversations
 - Articles from cultural organizations or reputable media
 
-Avoid unattributed pages, copied biographies, promotional summaries with no author, or sources that provide only basic facts.
+> Avoid unattributed pages, copied biographies, promotional summaries with no author, or sources that provide only basic facts.
 
 ## Read enough to assess each source
 
 Do more than save a link. For each source:
 
-1. Read the abstract, introduction, or opening section.
+1. Skim the abstract, introduction, or opening section.
 2. Review the headings, examples, and conclusion when available.
 3. Identify the main point or information it provides.
 4. Decide how it may help your project.
 5. Note any limits, missing context, or questions about the source.
 
-Do not use generated summaries in place of reading the source.
+> Do not use generated summaries in place of reading the source, as summaries may omit important arguments, examples, context, or limitations needed for your research.
 
 ## Complete the source map
 
@@ -177,23 +177,48 @@ Use the following structure:
 |---|---|---|---|
 | Complete reference | Course, academic, primary artist, or critical/contextual | Summarize the useful information or argument in two or three sentences. | Explain how it may support a question, artwork analysis, or section of the profile. |
 
-> Write the notes in your own words. Include page numbers or timestamps for any passages, examples, or quotations you may return to later.
+> Write the notes in your own words.
 
 ### Example
 
 | APA reference and link | Source type | What the source provides | How it may be used |
 |---|---|---|---|
-| Tuck, E. (2009). “Suspending Damage: A Letter to Communities.” *Harvard Educational Review, 79*(3), 409–427. | Course reading | Tuck critiques research that represents marginalized communities mainly through pain, loss, or damage. She argues that researchers should also attend to complexity, desire, knowledge, and community priorities (pp. 409–413). | This reading may help us examine how Mónica Mayer presents testimonies about harassment in *El Tendedero* without reducing participants to their experiences of violence. It may also support our question about the responsibilities artists have when collecting and displaying personal testimony. |
+| Tuck, E. (2009). “Suspending Damage: A Letter to Communities.” *Harvard Educational Review, 79*(3), 409–427. | Course reading | Tuck explains how research can focus too much on the pain and damage experienced by marginalized communities. She argues that researchers should also consider people’s knowledge, desires, goals, and experiences beyond trauma (pp. 409–413). | We could use this reading to think about how Mónica Mayer shares stories of harassment in *El Tendedero*. It may help us ask whether the work gives participants space to be understood beyond their experiences of violence and what responsibilities the artist has when displaying their personal stories. |
 
 ## Use sources ethically
 
-- Use the artist's preferred name, pronouns, and self-description when these are available.
 - Distinguish between what the artist says and how another writer interprets the work.
 - Do not assume the artist's identity, intentions, beliefs, or community relationships.
 - Do not reduce the artist or community to oppression, trauma, or identity categories.
 - Consider who produced each source, whose perspective is centred, and what may be missing.
-- Credit all writing, images, audio, video, and other documentation.
-- Provide context before including sensitive or potentially harmful material.
+
+## APA references and Google Scholar Button
+
+Use the [McMaster University Library APA Style Guide](https://libguides.mcmaster.ca/APA){:target="_blank"} to check the required formats for books, chapters, journal articles, websites, videos, and other sources. Follow **APA 7th edition** for both in-text citations and the reference list.
+
+### Install and use Google Scholar Button
+
+Install the [Google Scholar Button](https://chromewebstore.google.com/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn){:target="_blank"} in Google Chrome:
+
+1. Open the extension page and select **Add to Chrome**.
+2. Pin the Scholar Button to the browser toolbar.
+3. Open a source webpage or highlight the title of an article, book, or chapter.
+4. Select the Scholar Button to search for the source.
+5. Select the quotation-mark icon under the correct result and choose **APA**.
+6. Copy the reference and add the source link or DOI.
+
+> Google Scholar citations may contain errors or missing information. Always compare the generated reference with the source and the [McMaster APA guide](https://libguides.mcmaster.ca/APA){:target="_blank"} before submitting.
+
+<iframe
+  width="60%"
+  style="aspect-ratio: 16 / 9;"
+  src="https://www.youtube.com/embed/TN5vda15LAw?si=kKMtVCoufJI_q_2N"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 </div>
 </details>
