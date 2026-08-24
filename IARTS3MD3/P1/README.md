@@ -12,7 +12,7 @@
 + [Version 2: Critical Connections]()
 + [Version 3: Multimodal Profile Draft]()
 + [Version 4: Revised Profile Presentation ]()
-+ [P1: Critical Research-Creation Profile  - Final Submission](P2-Final.md)
++ [P1: Critical Research-Creation Profile  - Final Submission]()
 
 ________________________________________________________________________
 
