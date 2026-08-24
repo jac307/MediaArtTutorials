@@ -288,36 +288,31 @@ Write **100–150 words** introducing the artist or collective in relation to yo
 
 Include:
 
+- One profile (vertical) image
 - Relevant location and cultural, social, political, or historical context
 - Main media, materials, technologies, or methods connected to your research
-- Themes or questions addressed by the selected artworks
 - Why this artist or collective is relevant to the working thesis
 
 > Include only information that helps the reader understand the direction of the profile. Do not provide a complete biography or career summary.
 
-Include one high-quality profile image of the artist or collective in the PDF and save a copy in the `Images` folder. The profile image must use a **vertical format** and include a caption, credit, source link, and alt text.
+## Combine the artwork entries
 
-## Write the artwork entries
-
-Create one section for each of the two selected artworks or projects.
+Combine the individual artwork entries prepared by each partner into one section containing both artwork entries.
 
 Each entry must include:
 
-- Title and year
-- Medium, materials, duration, dimensions, or format
-- A **50–100-word description** of what the audience sees, hears, encounters, or does
-- Complete citation and source link
+| Information | What to record |
+|---|---|
+| Identification | Complete title and year |
+| Format | Medium, materials, technologies, duration, dimensions, or format |
+| Context | Where, when, why, and for whom the work was produced, presented, performed, exhibited, or published |
+| Audience experience | What the audience sees, hears, encounters, or does |
+| Artistic approach | Important methods, techniques, materials, technologies, or decisions |
+| Themes and questions | Ideas, issues, or questions addressed by the work |
+| Documentation | Available images, video, audio, exhibition records, or other documentation |
+| Media information | Captions, creator or photographer credits, source links, alt text, and available rights information |
 
-Include and save **one to three images** or other forms of documentation for each work. Artwork images may use a vertical, horizontal, or square format.
-
-Every image or item of documentation must include:
-
-- A caption
-- Image or media credit
-- Source link
-- Alt text: a brief description of the image for people who use screen readers
-
-> For time-based, interactive, or performance work, include a stable link and relevant timestamps when possible. Do not include complete downloaded video or audio files in the ZIP package.
+> Additionally, gather one-two more representative images. 
 
 ## Prepare the main document
 
@@ -330,8 +325,6 @@ Export one PDF containing:
 5. Working thesis
 6. Critical-connections outline
 7. Annotated bibliography with all eight core sources
-8. Image and media information table
-9. Updated division-of-work table
 
 > The PDF must include working links. Check that all text, images, captions, credits, tables, and citations are readable before exporting.
 
@@ -373,16 +366,6 @@ Artwork-02c_Short-Title.jpg
 ```
 
 > Only include the additional `b` and `c` files when more than one image is used for an artwork.
-
-## Image and media information table
-
-Include an image and media information table in the main PDF. Add one row for every image or item of documentation used in the project.
-
-| Filename | Artist or artwork | Caption | Credit | Source link | Alt text |
-|---|---|---|---|---|---|
-| Exact filename used in the `Images` folder | Identify the artist, collective, artwork, or project | Include the title, year, medium, and other relevant information | Name the artist, photographer, videographer, gallery, archive, or organization | Link directly to the original source | Briefly describe the visual content for someone using a screen reader |
-
-> Finding an image online does not mean it can be republished publicly. Record the source and any available rights information so that unsuitable images can be replaced before the profile is posted on the course blog.
 
 ## One-minute in-class presentation
 
