@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-## P1: Critical Research-Creation Profile
+## P1: Critical Research-Creation Profile · Pairs
 
-# Poster Session · Pairs
+# Poster Session
 
 **Goal:** Share your research profile and preliminary research-creation direction, learn from the work completed by other pairs, and identify ideas that may inform Project 2.
 
@@ -16,25 +16,11 @@ The class will be divided into **Group A** and **Group B**. During each one-hour
 - A pen or pencil for completing the Poster Session Engagement Form
 - Any brief notes needed to discuss your research and research-creation direction
 
-The poster must include the required material from Version 3, including a **brief concept statement for the research-creation proposal and a representative image**.
+---
 
-<details class="tutorial-section" id="session-structure">
+## 1. Follow the session schedule
 
-  <summary>
-
-    <span class="section-title">1. Follow the session schedule</span>
-
-    <span class="section-description">
-
-      Present during your assigned part and visit the posters during the other part.
-
-    </span>
-
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Session schedule
+### Session schedule
 
 | Part | Duration | Group A | Group B |
 |---|---:|---|---|
@@ -45,38 +31,22 @@ The poster must include the required material from Version 3, including a **brie
 
 Your assigned group and poster location will be announced before the session.
 
-## Set up and remove the poster
+### Set up and remove the poster
 
 - Arrive with the poster already printed and ready to install.
 - Use only the materials provided in class to place the poster in the assigned location.
 - Install the poster promptly when it is your group's turn.
 - Do not cover another poster, doorway, screen, sign, or classroom equipment.
-- Remove the poster carefully at the end of your presentation period.
+- Remove the poster carefully at the end of your presentation period and place it on the required table. 
 - Return unused installation materials and leave the area clean.
 
 > Group A must be ready to begin presenting when class starts. During the break, Group A will remove its posters and Group B will install its posters so Part 2 can begin on time.
 
-</div>
+---
 
-</details>
+# 2. Present and visit the posters
 
-<details class="tutorial-section" id="present-and-visit">
-
-  <summary>
-
-    <span class="section-title">2. Present and visit the posters</span>
-
-    <span class="section-description">
-
-      Explain your project during your presentation period and engage with the other pairs during your visiting period.
-
-    </span>
-
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## When your pair is presenting
+### When your pair is presenting
 
 Both partners must remain with the poster and take an active role in the conversation. Be prepared to explain:
 
@@ -90,22 +60,22 @@ Both partners must remain with the poster and take an active role in the convers
 
 This is a conversation rather than a memorized formal presentation. Begin with a brief explanation of the project, respond to questions, and invite visitors to discuss the artist's work and possible research-creation directions.
 
-Avoid reading the poster aloud. Use its images and sections to guide the conversation and provide further information or clarification.
+> Avoid reading the poster aloud. Use its images and sections to guide the conversation and provide further information or clarification.
 
-## When you are visiting
+### When you are visiting
 
 Move through the room rather than remaining with one pair or only speaking with people you already know. During your visiting period:
 
-- Visit the posters presented by the other group.
+- Visit the posters presented by the other groups.
 - Speak with the presenting pairs and ask relevant questions.
 - Listen to their explanation before completing your notes.
 - Discuss the artist or collective, research findings, and possible research-creation directions.
 - Complete the Poster Session Engagement Form individually.
 - Respect the space needed by other visitors and move to another poster when a conversation has finished.
 
-Students are expected to participate throughout both parts of the session. Presenters must remain available to speak with visitors, and visitors must continue circulating and engaging with the groups for the full hour.
+> Students are expected to participate throughout both parts of the session. Presenters must remain available to speak with visitors, and visitors must continue circulating and engaging with the groups for the full hour.
 
-## Discussion prompts
+### Discussion prompts
 
 You may use the following questions to begin or extend a conversation:
 
@@ -117,29 +87,13 @@ You may use the following questions to begin or extend a conversation:
 - What new medium, technology, method, or skill might the proposal require?
 - What ethical questions would need to be considered if the idea were developed?
 
-</div>
+---
 
-</details>
+# 3. Complete and submit the engagement form
 
-<details class="tutorial-section" id="engagement-form">
+### Complete the Poster Session Engagement Form
 
-  <summary>
-
-    <span class="section-title">3. Complete and submit the engagement form</span>
-
-    <span class="section-description">
-
-      Record what you learned from the posters and identify a possible connection to Project 2.
-
-    </span>
-
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Complete the Poster Session Engagement Form
-
-Each student must complete their own handout during the session. The handout is an individual record of your participation and must be written in your own words.
+Each student must complete their own physical handout during the session. The handout is an individual record of your participation and must be written in your own words.
 
 ### Part 1: Poster engagement
 
@@ -147,19 +101,18 @@ Complete the required entries for **four posters presented by different pairs**.
 
 - Record the artist or collective's name.
 - Identify one or two key ideas you learned from the project.
-- Rate how drawn you are to researching or working in response to the artist or collective, using the scale printed on the handout.
+- What theme, medium, strategy, technology, or approach stood out
 
-You are still expected to speak with all presenting pairs during your visiting period, even though the handout asks you to write about four posters.
+> You are still expected to speak with all presenting pairs during your visiting period, even though the handout asks you to write about four posters.
 
 ### Part 2: Connection to Project 2
 
 After visiting the posters, identify the artist or collective that stood out most to you. Briefly explain:
 
 - Why the artist or collective interested you
-- What theme, medium, strategy, technology, or approach stood out
-- What you might imagine creating in response
+- How you would extend the pair’s research-creation proposal or make the idea distinct through a different theme, medium, technology, method, audience, or context
 
-Your response is preliminary and does not commit you to a final Project 2 direction.
+> Your response is preliminary and does not commit you to a final Project 2 direction.
 
 ## Before submitting the handout
 
@@ -168,13 +121,8 @@ Your response is preliminary and does not commit you to a final Project 2 direct
 - [ ] I recorded specific ideas rather than general comments.
 - [ ] I completed the connection to Project 2.
 - [ ] I wrote the responses in my own words.
-- [ ] I remained engaged throughout both parts of the session.
 
 Submit the completed handout at the end of class.
-
-</div>
-
-</details>
 
 ## Participation expectations
 
