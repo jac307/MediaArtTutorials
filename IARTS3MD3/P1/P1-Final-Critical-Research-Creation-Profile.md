@@ -2,7 +2,7 @@
 
 ## P1: Critical Research-Creation Profile · Pairs
 
-# Final Submission: Webador Profile and ZIP Package
+# Version 5: Final Profile
 
 **Goal:** Revise and publish the final Critical Research-Creation Profile on the course Webador website. Submit a ZIP package containing a PDF record of the profile and all image files used on the webpage.
 
