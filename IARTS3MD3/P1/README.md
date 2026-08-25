@@ -12,11 +12,11 @@ In pairs, you will **research an artist or collective whose practice addresses i
 
 ## Index  
 
-+ [Version 1: Research Direction](P1-Version1-Research-Direction.md)
+<!-- + [Version 1: Research Direction](P1-Version1-Research-Direction.md)
 + [Version 2: Critical Connections](P1-Version2-Critical-Connections.md)
 + [Version 3: Multimodal Profile Draft](P1-Version3-Multimodal-Profile-Draft.md)
-+ [Version 4: Revised Profile Presentation](P1-Poster-Session-Instructions.md)
-+ [Version 5: Final Profile](P1-Final-Critical-Research-Creation-Profile.md)
++ [Version 4: Revised Profile Presentation](P1-Version4-Poster-Session.md)
++ [Version 5: Final Profile](P1-Version5-Final-Profile.md) -->
 
 ---
 
@@ -30,7 +30,7 @@ In pairs, you will **research an artist or collective whose practice addresses i
 | **Version 4: Revised Profile Presentation** | Present the research, discuss possible research-creation directions, and learn from the profiles developed by other pairs. |
 | **Version 5: Final Profile** | Revise and publish the complete profile on Webador and submit the final project package. |
 
-Each version is part of the project process. Keep all research notes, source information, writing, images, captions, and links organized so they can be revised and reused in later versions.
+> Each version is part of the project process. Keep all research notes, source information, writing, images, captions, and links organized so they can be revised and reused in later versions.
 
 ## Research and writing expectations
 
@@ -43,8 +43,6 @@ Each version is part of the project process. Keep all research notes, source inf
 - Do not reduce an artist or community to trauma, discrimination, or identity categories.
 - Consider representation, consent, access, positionality, cultural context, and accountability.
 - Use only images and media suitable for publication on the public course website.
-
-## Final Profile
 
 Your profile will include:
 
