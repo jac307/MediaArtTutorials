@@ -365,6 +365,27 @@ Artwork-02c_Short-Title.jpg
 
 > Only include the additional `b` and `c` files when more than one image is used for an artwork.
 
+## Prepare the ZIP package
+
+Name the ZIP file:
+
+`P1_Critical-Connections.zip`
+
+The ZIP package must contain:
+- The group PDF document
+- The `Images` folder
+- One individual notes PDF from each partner
+
+Use the following structure:
+
+```text
+P1_Critical-Connections.zip
+├── P1_Critical-Connections.pdf
+├── Lastname-Firstname_P1_Critical-Connections-Notes.pdf
+├── Lastname-Firstname_P1_Critical-Connections-Notes.pdf
+└── Images Folder
+```
+
 ## One-minute in-class presentation
 
 During the following lecture, each pair will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
@@ -398,7 +419,6 @@ Prepare **one slide in image format** containing:
 
 | Item | Required filename |
 |---|---|
-| Individual research notes | `Lastname-Firstname_P1_Critical-Connections-Notes.pdf` |
 | Version 2 group package | `P1_Critical-Connections.zip` |
 | Presentation slide | `P1_Critical-Connections-Slide.jpg` or `P1_Critical-Connections-Slide.png` |
 
