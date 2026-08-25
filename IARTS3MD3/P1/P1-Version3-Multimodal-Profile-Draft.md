@@ -119,14 +119,13 @@ Your proposal should enter into a critical dialogue with the artist's practice. 
 
 ## Write the concept statement
 
-Write a **100–150-word concept statement** explaining:
+Write a **150–200-word concept statement** explaining:
 
 - The main idea or question for the proposed work
 - Its connection to the working thesis and critical analysis
 - The strategy, method, or concern drawn from the artist or collective
 - How your approach will differ from the artist's work
 - The EDI or anti-oppression issue the project will address
-- The intended audience or context
 
 ## Create a visual development page
 
@@ -178,11 +177,10 @@ The poster must include:
 - Two central concepts or critical connections
 - Both selected artworks with images and short captions
 - Key evidence or ideas from the course readings and research
-- Preliminary research-creation idea
 - Selected APA references
 - Image and media credits
 
-Use approximately **300–450 words**, excluding captions, credits, and references.
+Use approximately **300–400 words**, excluding captions, credits, and references.
 
 ## Poster design requirements
 
@@ -195,7 +193,7 @@ Use approximately **300–450 words**, excluding captions, credits, and referenc
 - Use a consistent grid, alignment, colour palette, and typographic system.
 - Make the central argument and artworks visible from a reasonable viewing distance.
 
-> Avoid filling the poster with long paragraphs or using images without enough explanation. A viewer should be able to identify the artist, argument, artworks, concepts, and research-creation direction within a few minutes.
+> Avoid filling the poster with long paragraphs or using images without enough explanation. A viewer should be able to identify the artist, argument, artworks, concepts, and research direction within a few minutes.
 
 ## Prepare for the poster session
 
@@ -225,8 +223,6 @@ Submit the following three files per pair:
 | Critical analysis | `P1_Multimodal-Profile-Writing.pdf` |
 | Research-creation proposal | `P1_Multimodal-Profile-Proposal.pdf` |
 | Research poster | `P1_Multimodal-Profile-Poster.pdf` |
-
-One partner submits the three files on behalf of the pair.
 
 Bring the printed **18 × 24-inch poster** to the poster session.
 
