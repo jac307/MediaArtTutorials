@@ -26,10 +26,6 @@ Both partners are responsible for the critical analysis, research-creation propo
 | Prepare selected poster content | Prepare selected poster content |
 | Complete assigned poster design and production tasks | Complete assigned poster design and production tasks |
 
-Both partners must write the introduction and conclusion of the critical analysis together. They must also review and revise the complete analysis, research-creation proposal, visual development page, and poster before submitting.
-
-Before printing, review the poster at its final size and check its content, visual hierarchy, readability, citations, image quality, and credits.
-
 > Do not divide the new materials into two isolated halves. Revise each component together so the submission uses a consistent argument, voice, and visual approach.
 
 <details class="tutorial-section" id="write-critical-analysis">
@@ -46,12 +42,11 @@ Before printing, review the poster at its final size and check its content, visu
 
 Before writing, review:
 
-- The main research question and two supporting questions
+- The main research question and supporting questions
 - The working thesis
 - The two critical connections
 - The evidence selected from the two artworks
 - The passages, concepts, and examples selected from the eight core sources
-- Any missing evidence or areas marked for further research
 
 Refine these materials as needed before turning the outline into complete paragraphs.
 
@@ -66,9 +61,8 @@ The analysis must connect:
 - At least two additional academic sources
 - At least one primary artist source
 - At least one critical or contextual source
-- Relevant EDI and anti-oppression concepts
 
-Use the following structure.
+Use the following structure:
 
 ### Introduction
 
@@ -88,7 +82,6 @@ Bring the two critical connections together and explain how they answer the main
 
 ## Writing requirements
 
-- Write in complete paragraphs rather than bullet points.
 - Bring the readings, sources, and artworks together rather than summarizing them separately.
 - Use specific evidence from the artworks.
 - Write in your own words.
@@ -101,15 +94,11 @@ Submit one PDF per pair containing:
 
 1. Both partners’ full names and student numbers
 2. Artist or collective name
-3. Title of the critical analysis
-4. Complete 500–700-word critical analysis
-5. APA reference list
-6. Name: `P1_Multimodal-Profile-Writing.pdf`
+3. Complete 500–700-word critical analysis
+4. Annotated Bibliography (update if need it)
+5. Name: `P1_Multimodal-Profile-Writing.pdf`
 
 </div>
-
-</details>
-
 </details>
 
 <details class="tutorial-section" id="research-creation-proposal">

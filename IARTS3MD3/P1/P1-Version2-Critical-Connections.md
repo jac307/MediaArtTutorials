@@ -419,7 +419,7 @@ Prepare **one slide in image format** containing:
 
 | Item | Required filename |
 |---|---|
-| Version 2 group package | `P1_Critical-Connections.zip` |
+| Version 2 package  | `P1_Critical-Connections.zip` |
 | Presentation slide | `P1_Critical-Connections-Slide.jpg` or `P1_Critical-Connections-Slide.png` |
 
 > Incorrect filenames or file extensions, a ZIP package that does not open, missing sections or images, incomplete citations, missing media credits, inaccessible links, or a slide that does not follow the required format will affect the grade.
