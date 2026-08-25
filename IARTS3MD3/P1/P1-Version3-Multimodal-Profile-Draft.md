@@ -174,11 +174,10 @@ The poster must include:
 - A brief introduction to the artist or collective
 - Main research question
 - Working thesis
-- Two central concepts or critical connections
-- Both selected artworks with images and short captions
 - Key evidence or ideas from the course readings and research
+- Both selected artworks with images and short captions
+- Brief concept statement for the research-creation proposal with a representative image
 - Selected APA references
-- Image and media credits
 
 Use approximately **300–400 words**, excluding captions, credits, and references.
 
