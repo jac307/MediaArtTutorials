@@ -256,11 +256,11 @@ Combine the individual annotations prepared by each partner into one annotated b
 
 As a pair:
 
-- [] Check every APA reference and link.
-- [] Confirm that each annotation is **75–100 words**.
-- [] Remove repeated or unnecessary information.
-- [] Use a consistent structure and level of detail.
-- [] Confirm that each annotation explains how the source contributes to the project.
+- [ ] Check every APA reference and link.
+- [ ] Confirm that each annotation is **75–100 words**.
+- [ ] Remove repeated or unnecessary information.
+- [ ] Use a consistent structure and level of detail.
+- [ ] Confirm that each annotation explains how the source contributes to the project.
 
 Organize the bibliography in alphabetical order using this structure:
 
