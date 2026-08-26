@@ -272,7 +272,7 @@ The document must include:
 - [ ] Initial accessibility, ethical, safety, cost, and feasibility concerns
 - [ ] The first test planned for the Technology Experiment
 
-Include working links for all technical documentation, tutorials, software, equipment, and other resources.
+> Include working links for all technical documentation, tutorials, software, equipment, and other resources.
 
 </div>
 </details>
