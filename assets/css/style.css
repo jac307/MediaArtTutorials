@@ -866,6 +866,73 @@ main:focus-visible {
    Reusable checklist component
 -------------------------------------------------- */
 
+.interactive-checklist {
+  padding-left: 0;
+  list-style: none;
+}
+
+.interactive-checklist > .task-list-item {
+  position: relative;
+  margin: 0;
+  padding: 9px 10px 9px 41px;
+  border-radius: var(--small-radius);
+}
+
+.interactive-checklist > .task-list-item:hover {
+  background: var(--soft-background);
+}
+
+.interactive-checklist > .task-list-item input[type="checkbox"] {
+  position: absolute;
+  top: 9px;
+  left: 11px;
+  width: 19px;
+  height: 19px;
+  margin: 0;
+  accent-color: var(--accent-colour);
+  cursor: pointer;
+}
+
+.interactive-checklist > .task-list-item:has(input:checked) {
+  color: var(--muted-text);
+}
+
+.checklist-progress {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 16px;
+  margin: 8px 0 24px;
+  padding: 10px 12px;
+  border: 1px solid var(--border-colour);
+  border-radius: var(--small-radius);
+  background: var(--soft-background);
+}
+
+.checklist-progress__status {
+  color: var(--muted-text);
+  font-size: 0.85rem;
+}
+
+.checklist-progress__reset {
+  min-height: 34px;
+  padding: 6px 10px;
+  border: 1px solid var(--accent-colour);
+  border-radius: var(--small-radius);
+  background: #ffffff;
+  color: var(--accent-colour);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 650;
+}
+
+.checklist-progress__reset:hover {
+  background: var(--accent-colour);
+  color: #ffffff;
+}
+
 .equipment-checklist {
   display: block;
   margin: 1.25rem 0;
