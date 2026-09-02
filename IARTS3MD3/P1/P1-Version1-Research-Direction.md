@@ -40,7 +40,7 @@ Choose an artist or collective and **establish a clear starting point for your r
 
 <details class="tutorial-section" id="research-direction">
   <summary>
-    <span class="section-title">1. Choose the artist and define the research direction</span>
+    <span class="section-title"> Stage 1: Choose the artist and define the research direction</span>
     <span class="section-description">
       Select an artist or collective, identify a focused area of interest, and develop questions to guide the research.
     </span>
@@ -107,7 +107,7 @@ For each work, include:
 
 <details class="tutorial-section" id="source-map">
   <summary>
-    <span class="section-title">2. Build the source map</span>
+    <span class="section-title">Stage 2: Build the source map</span>
     <span class="section-description">
       Find a balanced set of sources and record what each one may contribute to the profile.
     </span>
@@ -232,7 +232,7 @@ Google Scholar citations may contain errors or missing information. Compare the 
 
 <details class="tutorial-section" id="pair-work-submission">
   <summary>
-    <span class="section-title">3. Prepare the submission document and confirm the division of work</span>
+    <span class="section-title">Stage 3: Prepare the submission document and confirm the division of work</span>
     <span class="section-description">
       Review the complete document together, record each partner’s contributions, and prepare the Version 1 document and presentation slide.
     </span>

@@ -203,6 +203,10 @@
   }
 
   function startReading() {
+    document.dispatchEvent(
+      new CustomEvent("tutorial-sections:expand-all")
+    );
+
     const readableText = getReadableText();
 
     if (!readableText) {
@@ -218,7 +222,8 @@
     isReading = true;
 
     updateControls(true);
-    statusElement.textContent = "Reading the page.";
+    statusElement.textContent =
+      "All sections expanded. Reading the page.";
 
     speakNextSection();
   }
