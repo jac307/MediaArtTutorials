@@ -1,32 +1,40 @@
 # MEDIAART 2DF3 – Design Fundamentals
 
-This studio-based course introduces students to the fundamentals of visual design through weekly hands-on exercises and guided projects. Working with both digital and physical tools, students develop skills in composition, colour theory, typography, and layout using Adobe Illustrator and Photoshop.   
+This studio course introduces the fundamentals of visual design through weekly hands-on exercises and guided projects. You will work with digital and physical tools while developing skills in composition, colour, typography, layout, and visual communication.
 
-> Linked tutorials are accessible only while the course is in session.
+> Tutorial links may be available only while the course is in session.
 
----
+## Accessibility and learning support
 
-<details class="tutorial-section">
+- The written instructions contain the required information. Linked tutorials provide additional demonstrations.
+- You may use keyboard navigation, screen readers, screen magnification, adapted input devices, colour-identification tools, or other assistive technology.
+- If a tutorial, document, laboratory, piece of equipment, or required process creates an access barrier, contact the instructor to request an accessible format or equivalent method.
+- Do not rely on colour alone when organizing or communicating information.
+
+## Course resources
+
+<details class="tutorial-section" id="spaces-and-equipment">
   <summary>
-    <span class="section-title">Spaces and equipment</span>
+    <span class="section-title" role="heading" aria-level="3">Spaces and equipment</span>
     <span class="section-description">
-      Review computer lab access, equipment booking, and additional equipment guides.
+      Review computer-lab access, equipment booking, and equipment guides.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Computer lab
+#### Computer lab
 
-An access key is required to enter the computer lab.
+You need an access key to enter the computer lab.
 
 - Log in to the computers using your McMaster account.
 - The computers include Adobe Creative Cloud applications.
-- Sign in to Adobe using your personal Adobe account.
+- Sign in to Adobe using your Adobe account.
+- Contact the instructor if entering the lab or using its computers creates an access barrier.
 
-## Equipment booking
+#### Equipment booking
 
-Video and audio equipment can be booked through the [Humanities Media and Computing Service Centre](https://hmcservicecentre.humanities.mcmaster.ca/){:target="_blank"}.
+Video and audio equipment can be booked through the [Humanities Media and Computing Service Centre equipment-booking system](https://hmcservicecentre.humanities.mcmaster.ca/).
 
 To access the booking system:
 
@@ -34,10 +42,10 @@ To access the booking system:
 2. Connect through the McMaster campus network.
 3. When working off campus, connect to the McMaster VPN before opening the booking system.
 
-## Additional equipment guides
+#### Equipment guides
 
-- [Available Equipment](Equipment.md)
-- [DSLR Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
+- [Review the available equipment](Equipment.md)
+- [Learn the DSLR camera controls and settings](DSLR-Camera.md)
 
 </div>
 </details>
@@ -46,35 +54,36 @@ To access the booking system:
 
 ## Composition Techniques
 
-+ [Composition Techniques I - Part 1](Comp-Tech-1-Part1.md)
-+ [Composition Techniques I - Part 2](Comp-Tech-1-Part2.md)
-+ [Composition Techniques II](Comp-Tech-2.md)
-+ [Composition Techniques III - Part 1](Comp-Tech-3-Part1.md)
-+ [Composition Techniques III - Part 2](Comp-Tech-3-Part2.md)
-+ [Composition Techniques IV](Comp-Tech-4.md)
+- [Composition Techniques I – Part 1](Comp-Tech-1-Part1.md)
+- [Composition Techniques I – Part 2](Comp-Tech-1-Part2.md)
+- [Composition Techniques II](Comp-Tech-2.md)
+- [Composition Techniques III – Part 1](Comp-Tech-3-Part1.md)
+- [Composition Techniques III – Part 2](Comp-Tech-3-Part2.md)
+- [Composition Techniques IV](Comp-Tech-4.md)
 
 ---
 
 ## Projects
 
-+ [Project 1: Vector to Volume](P1-README.md)
-+ [Project 2: Morphologies](P2-README.md)
+- [Project 1: Vector to Volume](P1-README.md)
+- [Project 2: Morphologies](P2-README.md)
 
 ---
 
-## General
+## General activities
 
-+ [Student-Led Critical Discussion (Groups of 3)](Presentations.md)
-<!-- + [Class Exhibition](Class-Exhibition.md) -->
+- [Student-Led Critical Discussion — teams of three](Presentations.md)
+<!-- Remove the comment markers when the exhibition page is ready:
+- [Class Exhibition](Class-Exhibition.md)
+-->
 
 ---
 
-## Extra
+## Additional resources
 
-+ [Adobe Illustrator Shortcuts](AI-shortcuts.md)
-+ [Adobe Photoshop Shortcuts](AP-shortcuts.md)
-  
-________________________________________________________________________
+- [Adobe Illustrator keyboard shortcuts](AI-shortcuts.md)
+- [Adobe Photoshop keyboard shortcuts](AP-shortcuts.md)
+
+---
 
 Credits: Jessica A. Rodríguez
-

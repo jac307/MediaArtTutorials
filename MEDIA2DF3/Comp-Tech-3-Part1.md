@@ -1004,7 +1004,7 @@ The original photograph must remain identifiable within the final composition, e
 ##### Camera tutorials
 
 - [Available Equipment](Equipment.md)
-- [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
+- [DSLR Camera Introduction to Camera Parts and Settings](DSLR-Camera.md)
 
 ##### Photoshop document setup
 
