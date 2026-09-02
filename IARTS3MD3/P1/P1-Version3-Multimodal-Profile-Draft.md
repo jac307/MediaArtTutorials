@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-# P1: Critical Research-Creation Profile
+### P1: Critical Research-Creation Profile
 
-## Version 3: Multimodal Profile Draft
+# Version 3: Multimodal Profile Draft
 
 **Work format:** Pairs  
 **Submission:** Three accessible PDFs per pair and one printed poster  
@@ -35,7 +35,7 @@ Both partners are responsible for the critical analysis, research-creation propo
 | Prepare selected poster content | Prepare selected poster content |
 | Complete assigned poster design and production tasks | Complete assigned poster design and production tasks |
 
-Do not divide the new materials into two separate halves. Revise every component together so the submission has a consistent argument, voice, and visual approach.
+> Do not divide the new materials into two separate halves. Revise every component together so the submission has a consistent argument, voice, and visual approach.
 
 ## Complete the assignment in three stages
 
@@ -282,7 +282,7 @@ Before submitting, confirm that:
 - [ ] All three files use the required filenames.
 - [ ] We reviewed all three files together.
 
-Files that cannot be opened, identified, printed, or accessed may need to be resubmitted and may be considered late. Missing research, sections, citations, media credits, accessibility information, or required files will affect the grade.
+> Files that cannot be opened, identified, printed, or accessed may need to be resubmitted and may be considered late. Missing research, sections, citations, media credits, accessibility information, or required files will affect the grade.
 
 ---
 

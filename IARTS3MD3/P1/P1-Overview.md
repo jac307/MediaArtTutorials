@@ -54,7 +54,7 @@ Each version is part of the project process. Keep all research notes, source inf
 - Provide a text alternative when important information appears in a poster, diagram, collage, or other image.
 - Export documents as text-based PDFs with selectable text and working links. Do not submit scanned pages or screenshots as the complete PDF.
 
-**Alt text** is a brief text description that communicates an image’s relevant content or purpose to someone who cannot see it.
+> **Alt text** is a brief text description that communicates an image’s relevant content or purpose to someone who cannot see it.
 
 ## What the final profile will include
 

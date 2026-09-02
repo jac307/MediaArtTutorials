@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-# P1: Critical Research-Creation Profile
+### P1: Critical Research-Creation Profile
 
-## Version 2: Critical Connections
+# Version 2: Critical Connections
 
 **Work format:** Pairs, with individual research notes  
 **Submission:** One ZIP package and one presentation slide per pair  
@@ -36,7 +36,7 @@ Both partners are responsible for the complete document and ZIP package. Divide 
 | Lead the initial research on one artwork | Lead the initial research on the other artwork |
 | Gather and credit images for assigned material | Gather and credit images for assigned material |
 
-Do not divide the project into two separate halves. Both partners must understand all eight sources and both artworks. Revise the group sections together so the document has a consistent focus, voice, and citation style.
+> Do not divide the project into two separate halves. Both partners must understand all eight sources and both artworks. Revise the group sections together so the document has a consistent focus, voice, and citation style.
 
 ## Complete the assignment in three stages
 
@@ -453,7 +453,7 @@ Before submitting, confirm that:
 - [ ] The slide follows the required format and its content is also available as text in the PDF.
 - [ ] Both files use the required filenames and extensions.
 
-Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing sections, research, citations, media credits, images, or slide requirements will affect the grade.
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing sections, research, citations, media credits, images, or slide requirements will affect the grade.
 
 ---
 

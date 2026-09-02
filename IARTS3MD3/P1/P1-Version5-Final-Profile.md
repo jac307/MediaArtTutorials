@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-# P1: Critical Research-Creation Profile
+### P1: Critical Research-Creation Profile
 
-## Version 5: Final Profile
+# Version 5: Final Profile
 
 **Work format:** Pairs  
 **Public submission:** Completed Webador profile  

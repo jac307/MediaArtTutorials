@@ -12,7 +12,7 @@
 
 Choose an artist or collective and **establish a clear starting point for your research**. Identify the research questions, artworks, and sources that will guide the next version of the project.
 
-> This is an initial proposal. Your direction may change as you read, discuss the work, and receive feedback.
+This is an initial proposal. Your direction may change as you read, discuss the work, and receive feedback.
 
 ## What you will complete
 

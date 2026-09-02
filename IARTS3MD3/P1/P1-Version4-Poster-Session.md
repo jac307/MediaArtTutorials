@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-# P1: Critical Research-Creation Profile
+### P1: Critical Research-Creation Profile
 
-## Version 4: Poster Session
+# Version 4: Poster Session
 
 **Work format:** Pairs and individual engagement  
 **What to bring:** Printed poster, writing materials, and brief presentation notes  
@@ -22,7 +22,7 @@ Arrive five minutes before the session begins and remain engaged throughout the 
 - A pen or pencil for the Poster Session Engagement Form
 - Any brief notes you need to discuss your research and research-creation direction
 
-An electronic or large-print version of the engagement form can be provided when needed. Contact the instructor before the session so it is ready for you.
+> An electronic or large-print version of the engagement form can be provided when needed. Contact the instructor before the session so it is ready for you.
 
 ## Complete the poster session in three stages
 
@@ -181,7 +181,7 @@ Submit the completed form at the end of class.
 | Handout | Each student completes and submits an individual Poster Session Engagement Form. |
 | Conduct | Listen respectfully, share the available space, and allow different visitors to participate. |
 
-Arriving late, missing the printed poster, leaving early, not participating in the conversations, or submitting an incomplete handout will affect the poster-session grade unless an accommodation or alternative arrangement has been approved.
+> Arriving late, missing the printed poster, leaving early, not participating in the conversations, or submitting an incomplete handout will affect the poster-session grade unless an accommodation or alternative arrangement has been approved.
 
 ---
 
