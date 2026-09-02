@@ -73,9 +73,7 @@ To access the booking system:
 ## General activities
 
 - [Student-Led Critical Discussion — teams of three](Presentations.md)
-<!-- Remove the comment markers when the exhibition page is ready:
 - [Class Exhibition](Class-Exhibition.md)
--->
 
 ---
 
