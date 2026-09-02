@@ -4,7 +4,9 @@
 
 ![Examples from previous Composition Techniques I activities](imgs/08.jpg)
 
-**Goal:** Design and create **three black-and-white digital compositions** by building, repeating, and systematically altering a super-unit through more complex relationships of form, surface, contrast, and space.
+## Goal
+
+Design and create **three black-and-white digital compositions** by building, repeating, and systematically altering a super-unit through more complex relationships of form, surface, contrast, and space.
 
 Each composition must combine:
 
@@ -20,20 +22,27 @@ Each composition must combine:
 - **Interrelationships:** Union and Subtraction
 - **Wong principles:** Radiation, Anomaly, Concentration, Texture, Contrast, and Space
 - **Samara focuses:** Surface Activity, Breaking Space, and Arranging Form
-- **Original media:** One physical texture created with a proper scanner
+- **Original media:** One physical texture digitized with a flatbed or document scanner, not a phone-scanning app
 - **Shapes:** Geometric, organic, and accidental shapes
 - **Colour:** Black and white only
 - **Software:** Adobe Illustrator and Adobe Photoshop
 
-## Activity stages
+## Accessibility and learning support
+
+- The written instructions on this page contain the required steps. Embedded tutorials provide additional demonstrations.
+- You may use zoom, screen magnification, keyboard navigation, adapted input devices, or other assistive technology.
+- If sketching, scanning, using Illustrator or Photoshop, or completing another required process creates an access barrier, contact the instructor to arrange an alternative method that demonstrates the same learning outcomes.
+- When preparing the sketches PDF, make each page upright, clearly focused, well lit, and easy to enlarge.
+
+## Complete the activity in four stages
 
 Complete the following stages in order.
 
 <!-- SECTION 1 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-the-concepts">
   <summary>
-    <span class="section-title">1. Review the concepts</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Review the concepts</span>
     <span class="section-description">
       Review the assigned relationships of form, design principles, surface strategies, and spatial approaches before planning.
     </span>
@@ -41,9 +50,9 @@ Complete the following stages in order.
 
 <div class="section-content" markdown="1">
 
-## Principles of Two-Dimensional Design
+#### Principles of Two-Dimensional Design
 
-### Interrelationships of Form
+##### Interrelationships of Form
 
 ![Union, Subtraction, and Intersection](imgs/Interrrelations-Part2.png)
 
@@ -54,7 +63,7 @@ Each composition begins with a super-unit that clearly demonstrates one assigned
 - **Intersection:** Only the area shared by the overlapping forms remains visible.
 - **Coinciding:** Two forms occupy exactly the same position and overlap completely, appearing as a single form.
 
-### Super-unit versus composition
+##### Super-unit versus composition
 
 ![Examples of super-units](imgs/03.png)
 
@@ -70,7 +79,7 @@ The final composition must develop that starting structure into a larger visual 
 
 The assigned relationship inside the original super-unit must remain identifiable after the instances are repeated and altered.
 
-### Other Principles
+##### Other Principles
 
 <div class="gestalt-principles-grid">
   
@@ -83,7 +92,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
     >
 
     <figcaption>
-      <h3>Radiation</h3>
+      <h3 role="heading" aria-level="5">Radiation</h3>
       <p>
         Radiation organizes repeated forms around a common centre. Changes in direction, scale, spacing, or rotation can create movement, emphasis, and a strong focal point.
       </p>
@@ -99,7 +108,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
     >
 
     <figcaption>
-      <h3>Anomaly</h3>
+      <h3 role="heading" aria-level="5">Anomaly</h3>
       <p>
         An anomaly is an intentional irregularity within an otherwise consistent system. A change in shape, size, position, direction, value, or texture can interrupt the pattern and create emphasis.
       </p>
@@ -115,7 +124,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
     >
 
     <figcaption>
-      <h3>Concentration</h3>
+      <h3 role="heading" aria-level="5">Concentration</h3>
       <p>
         Concentration organizes forms through changes in density and distribution. Elements may gather around a point, line, area, or direction, creating dense and sparse regions within the composition.
       </p>
@@ -131,7 +140,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
     >
 
     <figcaption>
-      <h3>Texture</h3>
+      <h3 role="heading" aria-level="5">Texture</h3>
       <p>
         Texture describes the visual or physical qualities of a surface. Changes in marks, grain, density, pattern, material, and value can make a form appear smooth, rough, soft, irregular, flat, or dimensional.
       </p>
@@ -147,7 +156,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
     >
 
     <figcaption>
-      <h3>Contrast</h3>
+      <h3 role="heading" aria-level="5">Contrast</h3>
       <p>
         Contrast creates a clear difference between visual elements. It may be developed through size, shape, value, direction, position, density, texture, or positive and negative space.
       </p>
@@ -163,7 +172,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
     >
 
     <figcaption>
-      <h3>Space</h3>
+      <h3 role="heading" aria-level="5">Space</h3>
       <p>
         Space is created through the relationships between forms and the surrounding field. Scale, position, overlap, cropping, direction, and positive–negative relationships can produce flat, illusory, or fluctuating spatial effects.
       </p>
@@ -174,7 +183,7 @@ The assigned relationship inside the original super-unit must remain identifiabl
 
 > **Source:** Wong, W. (1972). *Principles of Two-Dimensional Design*. Van Nostrand Reinhold Company.
 
-## Form and Space
+#### Form and Space
 
 The activity also applies three approaches from Timothy Samara’s chapter **“Seeing Form and Space.”**
 
@@ -189,7 +198,7 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
     >
 
     <figcaption>
-      <h3>Surface Activity</h3>
+      <h3 role="heading" aria-level="5">Surface Activity</h3>
       <p>
         Surface activity changes how a plane is perceived through marks, patterns, texture, density, scale, direction, and material variation. These qualities can affect visual weight, movement, depth, and the relationship between a form and its surrounding space.
       </p>
@@ -205,7 +214,7 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
     >
 
     <figcaption>
-      <h3>Breaking Space</h3>
+      <h3 role="heading" aria-level="5">Breaking Space</h3>
       <p>
         Breaking space treats the format as an active boundary. Forms may touch, divide, cross, interrupt, or move beyond its edges, changing how the viewer perceives tension, movement, continuity, and the limits of the composition.
       </p>
@@ -221,7 +230,7 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
     >
 
     <figcaption>
-      <h3>Arranging Form</h3>
+      <h3 role="heading" aria-level="5">Arranging Form</h3>
       <p>
         Arranging form establishes relationships between multiple elements. Alignment, grouping, clustering, separation, overlap, scale, and placement can create hierarchy, rhythm, direction, emphasis, and visual order.
       </p>
@@ -237,9 +246,9 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
 
 <!-- SECTION 2 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="plan-and-sketch-the-three-compositions">
   <summary>
-    <span class="section-title">2. Plan and sketch the three compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Plan and sketch the three compositions</span>
     <span class="section-description">
       Design each super-unit, select a different repetition grid and grid structure, and plan how the unit will be repeated and altered.
     </span>
@@ -249,7 +258,7 @@ The activity also applies three approaches from Timothy Samara’s chapter **“
 
 Create **one planning page for each composition**.
 
-## Select the repetition grids
+#### Select the repetition grids
 
 Choose **one different repetition grid for each composition**. Do not repeat the same grid.
 
@@ -264,7 +273,7 @@ Select the grid that best supports:
 
 ---
 
-## Composition 1
+#### Composition 1
 
 | Interrelationship of Form | Wong principles | Samara approach |
 |---|---|---|
@@ -284,7 +293,7 @@ On the planning page:
 
 ---
 
-## Composition 2
+#### Composition 2
 
 | Interrelationship of Form | Wong principles        | Samara approach      |
 | ------------------------- | ---------------------- | -------------------- |
@@ -292,7 +301,7 @@ On the planning page:
 
 Using **accidental shapes**, create a super-unit by using one form to subtract an area from another. The subtraction must create a clearly visible contour and negative space.
 
-Use at least **one original physical texture** created with a proper scanner to address Wong’s principle of **Texture**. The scanned material should contribute visible surface qualities such as grain, irregularity, roughness, density, or pattern.
+Use at least **one original physical texture** digitized with a flatbed or document scanner to address Wong’s principle of **Texture**. Do not use a phone-scanning app for this requirement. The scanned material should contribute visible surface qualities such as grain, irregularity, roughness, density, or pattern.
 
 Then use **graphic elements**, such as shapes, points, lines, marks, or repeated forms, to address Samara’s concept of **Surface Activity**. These graphic elements should activate the surface of the composition through variation, repetition, density, direction, or visual rhythm.
 
@@ -308,7 +317,7 @@ On the planning page:
 
 ---
 
-## Composition 3
+#### Composition 3
 
 | Wong principles | Samara approach | Required visual element |
 |---|---|---|
@@ -331,7 +340,7 @@ Use the repeated lines to explore one type of **Space**:
     >
 
     <figcaption>
-      <h3>Flat Space</h3>
+      <h3 role="heading" aria-level="5">Flat Space</h3>
       <p>
         Flat space keeps forms on the same visual plane. Repeated lines may vary in direction, length, weight, or spacing, but they do not create a clear impression of foreground, background, or depth.
       </p>
@@ -347,7 +356,7 @@ Use the repeated lines to explore one type of **Space**:
     >
 
     <figcaption>
-      <h3>Illusory Space</h3>
+      <h3 role="heading" aria-level="5">Illusory Space</h3>
       <p>
         Illusory space creates the impression of depth within a flat format. Changes in scale, spacing, direction, overlap, density, or perspective can make lines appear to advance, recede, or extend into space.
       </p>
@@ -363,7 +372,7 @@ Use the repeated lines to explore one type of **Space**:
     >
 
     <figcaption>
-      <h3>Fluctuating and Conflicting Space</h3>
+      <h3 role="heading" aria-level="5">Fluctuating and Conflicting Space</h3>
       <p>
         Fluctuating and conflicting space creates an unstable spatial reading. Lines may appear to shift between foreground and background, while contradictory directions, overlaps, scales, or perspectives prevent one fixed interpretation.
       </p>
@@ -392,7 +401,7 @@ On the planning page:
 
 ---
 
-## Export Sketches
+#### Export Sketches
 
 Combine the three planning pages into one PDF:
 
@@ -405,9 +414,9 @@ Ask the instructor for feedback before creating the final digital compositions.
 
 <!-- SECTION 3 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="set-up-and-build-the-three-compositions">
   <summary>
-    <span class="section-title">3. Set up and build the three compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Set up and build the three compositions</span>
     <span class="section-description">
       Create the Illustrator files, scan and process the original texture, build each super-unit, and develop the complete compositions.
     </span>
@@ -417,7 +426,7 @@ Ask the instructor for feedback before creating the final digital compositions.
 
 Create one separate Adobe Illustrator file for each composition.
 
-## Set up the Illustrator files
+#### Set up the Illustrator files
 
 Use the following settings:
 
@@ -440,17 +449,21 @@ Use these working filenames:
 - `Lastname-Firstname-CompTech1-Part2-2.ai`
 - `Lastname-Firstname-CompTech1-Part2-3.ai`
 
-### Illustrator document setup
+##### Illustrator document setup
 
 > **Required tutorial:** Follow this tutorial step by step. It includes the required document settings, **margin guides**, bleed, colour mode, raster-effects resolution, and layer setup. Skipping steps or using different settings may result in lost marks.
 
-<iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator-1--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Adobe Illustrator 1 Document Setup" src="https://www.iorad.com/player/2588082/Adobe-Illustrator-1--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-### Additional Illustrator tools
+[Open the “Adobe Illustrator 1 Document Setup” tutorial directly](https://www.iorad.com/player/2588082/Adobe-Illustrator-1--Document-Setup-?src=iframe&oembed=1)
 
-<iframe src="https://www.iorad.com/player/2498938/More-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+##### Additional Illustrator tools
 
-## Create the grids
+<iframe title="Tutorial: More tools and behaviours in Adobe Illustrator" src="https://www.iorad.com/player/2498938/More-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+[Open the “More tools and behaviours in Adobe Illustrator” tutorial directly](https://www.iorad.com/player/2498938/More-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1)
+
+#### Create the grids
 
 Recreate the selected grid for each composition in the **Guides** layer.
 
@@ -460,9 +473,11 @@ A grid may remain visible only when its visible structure is an intentional part
 
 > Although grids begin as drawn lines, **all grids**—unless they are intentionally visible—**must be converted into guides**. This ensures that the grid remains available in Illustrator but does not appear when the document is printed or viewed outside Illustrator.
 
-<iframe src="https://www.iorad.com/player/2498981/Creating-more-complex-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Creating more complex grids in Adobe Illustrator" src="https://www.iorad.com/player/2498981/Creating-more-complex-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Create the original super-units
+[Open the “Creating more complex grids in Adobe Illustrator” tutorial directly](https://www.iorad.com/player/2498981/Creating-more-complex-grids-in-Adobe-Illustrator?src=iframe&oembed=1)
+
+#### Create the original super-units
 
 Use geometric, organic, or accidental shapes to create:
 
@@ -477,9 +492,11 @@ Before repeating it, confirm that:
 - The assigned Samara approach shapes the construction or spatial use of the super-unit.
 - The super-unit is visually resolved and can support controlled variation.
 
-<iframe src="https://www.iorad.com/player/2498921/Interrelationships-of-Form-in-Adobe-Illustrator-2?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Interrelationships of Form in Adobe Illustrator 2" src="https://www.iorad.com/player/2498921/Interrelationships-of-Form-in-Adobe-Illustrator-2?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Create the original scanned texture
+[Open the “Interrelationships of Form in Adobe Illustrator 2” tutorial directly](https://www.iorad.com/player/2498921/Interrelationships-of-Form-in-Adobe-Illustrator-2?src=iframe&oembed=1)
+
+#### Create the original scanned texture
 
 The texture used in Composition 2 must be created by you with a **flatbed or document scanner**.
 
@@ -512,7 +529,7 @@ Save the original file immediately after scanning:
 
 Use `.png` only when the scanner does not provide TIFF.
 
-## Process a copy of the scanned texture
+#### Process a copy of the scanned texture
 
 Do not edit the original source scan.
 
@@ -525,11 +542,13 @@ Open a duplicate in Adobe Photoshop and convert it to grayscale or black and whi
 - Clean minor scanner dust
 - Repeat or combine sections from your own scan
 
-> Save your image as a TIFF preserving the Photoshop layers. This is useful is you want to keep editing your file. 
+> Save your image as a TIFF with the Photoshop layers preserved. This allows you to continue editing the file.
 
-<iframe src="https://www.iorad.com/player/2499003/Working-on-Image-Textures-in-Adobe-Photoshop?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Working on Image Textures in Adobe Photoshop" src="https://www.iorad.com/player/2499003/Working-on-Image-Textures-in-Adobe-Photoshop?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Import and embed the texture
+[Open the “Working on Image Textures in Adobe Photoshop” tutorial directly](https://www.iorad.com/player/2499003/Working-on-Image-Textures-in-Adobe-Photoshop?src=iframe&oembed=1)
+
+#### Import and embed the texture
 
 - Import the processed texture into Composition 2.
 - If the texture appears only in the background, place it in the **Background layer**. Otherwise, place the texture in the **Composition layer**.
@@ -539,9 +558,11 @@ Open a duplicate in Adobe Photoshop and convert it to grayscale or black and whi
 
 > **Embed image before exporting.** Points will be deducted when linked images are missing or not embedded.
 
-<iframe src="https://www.iorad.com/player/2499031/Importing-and-Masking-an-Image-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Importing and Masking an Image in Adobe Illustrator" src="https://www.iorad.com/player/2499031/Importing-and-Masking-an-Image-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Develop the complete compositions
+[Open the “Importing and Masking an Image in Adobe Illustrator” tutorial directly](https://www.iorad.com/player/2499031/Importing-and-Masking-an-Image-in-Adobe-Illustrator?src=iframe&oembed=1)
+
+#### Develop the complete compositions
 
 For each file:
 
@@ -569,9 +590,9 @@ For each file:
 
 <!-- SECTION 4 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-and-export-part-2">
   <summary>
-    <span class="section-title">4. Review and Export Part 2</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Review and Export Part 2</span>
     <span class="section-description">
       Check the compositions, original scan, layers, guides, margins, and editable PDF settings before submitting Part 2.
     </span>
@@ -579,11 +600,11 @@ For each file:
 
 <div class="section-content" markdown="1">
 
-## Before submitting
+#### Before submitting
 
 > Your PDF files will be opened in Adobe Illustrator to review the document setup, layers, guides, margins, embedded texture, and construction of the compositions.
 
-### Check the Illustrator document structure
+##### Check the Illustrator document structure
 
 For each composition, confirm that the file contains:
 
@@ -605,7 +626,7 @@ For each composition, confirm that the file contains:
 
 > Do not leave artwork on the wrong layer or create unnecessary unnamed layers. **You may create sub-collections (or groups inside layers)** for better organization.
 
-### Check the guides and margins
+##### Check the guides and margins
 
 Before saving each PDF:
 
@@ -619,19 +640,19 @@ Before saving each PDF:
 
 > Guides should be visible when the PDF is opened in Illustrator, but they will not appear as part of the printed or externally viewed artwork.
 
-### Check the original scan
+##### Check the original scan
 
 Confirm that:
 
 - The original scan is unedited and uncropped.
 - The filename follows the required structure.
-- The scan was created with a proper scanner.
+- The scan was created with a flatbed or document scanner, not a phone-scanning app.
 - The original scan is included as a separate submission file.
 - Name and extension: `Lastname-Firstname-CompTech1-Part2-Texture.tif`
 
 Use `.png` for the original scan only when TIFF is unavailable from the scanner.
 
-### Save the editable PDF
+##### Save the editable PDF
 
 Use **File → Save As → Adobe PDF**.
 
@@ -641,86 +662,21 @@ In the Adobe PDF settings, select:
 
 > This setting is required so that the layers, guides, editable vector objects, embedded texture, artboard, and document structure remain available when the PDF is reopened in Illustrator.
 
-### Final file check
+##### Final file check
 
 Open each submitted PDF twice:
 
-<fieldset class="equipment-checklist">
-  <legend>Final PDF checklist</legend>
+**Final PDF checklist**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the PDF in a PDF viewer.</strong>
-      Confirm that the final composition displays correctly and that no unintended guides or construction elements appear in the artwork.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the PDF in Adobe Illustrator.</strong>
-      Confirm that the file opens correctly and remains editable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the layers.</strong>
-      Confirm that the required layers remain separate, correctly named, and contain the correct material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the grid.</strong>
-      Confirm that the grid has been converted into guides unless it is intentionally part of the visible composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the guides and margins.</strong>
-      Confirm that the grid guides and original margin guides remain available and visible in Illustrator.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check editability.</strong>
-      Confirm that all required vector objects remain editable and have not been flattened or rasterized.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the texture in Composition 2.</strong>
-      Confirm that the processed scanned texture is embedded, appears in the correct layer, and does not rely on a missing linked file.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the document settings.</strong>
-      Confirm that the artboard size and bleed remain correct.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the filename.</strong>
-      Confirm that the filename follows the required naming structure exactly.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **Check the PDF in a PDF viewer.** Confirm that the final composition displays correctly and that no unintended guides or construction elements appear in the artwork.
+- [ ] **Check the PDF in Adobe Illustrator.** Confirm that the file opens correctly and remains editable.
+- [ ] **Check the layers.** Confirm that the required layers remain separate, correctly named, and contain the correct material.
+- [ ] **Check the grid.** Confirm that the grid has been converted into guides unless it is intentionally part of the visible composition.
+- [ ] **Check the guides and margins.** Confirm that the grid guides and original margin guides remain available and visible in Illustrator.
+- [ ] **Check editability.** Confirm that all required vector objects remain editable and have not been flattened or rasterized.
+- [ ] **Check the texture in Composition 2.** Confirm that the processed scanned texture is embedded, appears in the correct layer, and does not rely on a missing linked file.
+- [ ] **Check the document settings.** Confirm that the artboard size and bleed remain correct.
+- [ ] **Check the filename.** Confirm that the filename follows the required naming structure exactly.
 
 </div>
 </details>
@@ -739,7 +695,7 @@ Open each submitted PDF twice:
 
 Use `.png` for the original scan only when TIFF is unavailable from the scanner.
 
-Incorrect filenames or file extensions, missing layers, deleted margins, grids that have not been converted into guides, missing or linked textures, altered original scans, flattened or non-editable PDFs, incomplete repetition, or compositions based on only one isolated super-unit will affect the grade.
+Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing layers or margins, unconverted grids, missing or linked textures, altered original scans, flattened or non-editable files, incomplete repetition, or compositions based on only one isolated super-unit will affect the grade.
 
 ---
 

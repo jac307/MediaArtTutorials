@@ -9,7 +9,9 @@
   </figcaption>
 </figure>
 
-**Goal:** Design and create **four expressive typographic compositions** based on two selected words. For each word, create one **positive** and one **negative** version that visually communicates its meaning through the manipulation of letterforms.
+## Goal
+
+Design and create **four expressive typographic compositions** based on two selected words. For each word, create one **positive** and one **negative** version that visually communicates its meaning through the manipulation of letterforms.
 
 The activity builds on **Bruno Munari’s** ideas in *The Shape of Words* and concepts developed throughout Composition Techniques I–III.
 
@@ -29,7 +31,14 @@ Each word pair must combine:
 - **Software:** Adobe Illustrator
 - **Optional image processing:** Adobe Photoshop
 
-## Activity stages
+## Accessibility and learning support
+
+- The written instructions on this page contain the required steps. The embedded video provides an additional demonstration.
+- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
+- Do not rely on colour alone to distinguish the positive and negative versions; use figure–ground, shape, structure, or another visible difference.
+- If sketching, manipulating letterforms, using Illustrator, or completing another required process creates an access barrier, contact the instructor to arrange an alternative method that demonstrates the same learning outcomes.
+
+## Complete the activity in four stages
 
 Complete the following stages in order.
 
@@ -39,9 +48,9 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-the-concepts">
   <summary>
-    <span class="section-title">1. Review the concepts</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Review the concepts</span>
     <span class="section-description">
       Review expressive typography, positive and negative form, and previous composition principles before beginning the activity.
     </span>
@@ -49,7 +58,7 @@ SECTION 1
 
   <div class="section-content" markdown="1">
 
-## Bruno Munari — The Shape of Words
+#### Bruno Munari — The Shape of Words
 
 Bruno Munari explored how the **visual form of language** can communicate beyond the literal meaning of a word.
 
@@ -72,7 +81,7 @@ Consider how you can manipulate:
 
 ---
 
-## Positive and Negative Form
+#### Positive and Negative Form
 
 ![Maurits Cornelis Escher (1898-1972) examples](imgs/escher.png)
 
@@ -89,7 +98,7 @@ The positive and negative versions should clearly belong to the **same conceptua
 
 ---
 
-## Wong principles
+#### Wong principles
 
 Select **one Wong principle for each word**.
 
@@ -106,7 +115,7 @@ You may select from principles explored in previous Composition Techniques activ
     >
 
     <figcaption>
-      <h3>Repetition</h3>
+      <h3 role="heading" aria-level="5">Repetition</h3>
       <p>
         Repeat letters, fragments, forms, intervals, or structures to create consistency, rhythm, and visual order across the typographic composition.
       </p>
@@ -122,7 +131,7 @@ You may select from principles explored in previous Composition Techniques activ
     >
 
     <figcaption>
-      <h3>Similarity</h3>
+      <h3 role="heading" aria-level="5">Similarity</h3>
       <p>
         Create related letterforms that remain visually connected while varying selected characteristics such as scale, proportion, direction, or weight.
       </p>
@@ -138,7 +147,7 @@ You may select from principles explored in previous Composition Techniques activ
     >
 
     <figcaption>
-      <h3>Gradation</h3>
+      <h3 role="heading" aria-level="5">Gradation</h3>
       <p>
         Develop a progressive change in scale, direction, spacing, weight, shape, or position to create movement and visual transition.
       </p>
@@ -154,7 +163,7 @@ You may select from principles explored in previous Composition Techniques activ
     >
 
     <figcaption>
-      <h3>Anomaly</h3>
+      <h3 role="heading" aria-level="5">Anomaly</h3>
       <p>
         Interrupt an established typographic system with an intentional irregularity to create emphasis, tension, or a shift in attention.
       </p>
@@ -170,7 +179,7 @@ You may select from principles explored in previous Composition Techniques activ
     >
 
     <figcaption>
-      <h3>Concentration</h3>
+      <h3 role="heading" aria-level="5">Concentration</h3>
       <p>
         Control density by clustering or dispersing letters and typographic elements to create focal areas, rhythm, or directional emphasis.
       </p>
@@ -186,7 +195,7 @@ You may select from principles explored in previous Composition Techniques activ
     >
 
     <figcaption>
-      <h3>Contrast</h3>
+      <h3 role="heading" aria-level="5">Contrast</h3>
       <p>
         Use strong differences in size, weight, direction, density, shape, or value to create emphasis and clarify visual relationships.
       </p>
@@ -197,7 +206,7 @@ You may select from principles explored in previous Composition Techniques activ
 
 ---
 
-## Gestalt principles
+#### Gestalt principles
 
 Select **one Gestalt principle for each word**.
 
@@ -216,7 +225,7 @@ You may use principles explored in previous activities, including:
 
 ---
 
-## Colour Theory
+#### Colour Theory
 
 Colour theory examines how colours relate to one another and how they influence visual perception. Consider how **hue, saturation, value, contrast, harmony, and proportion** can support hierarchy, emphasis, mood, and meaning within the composition.
 
@@ -231,9 +240,9 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="complete-the-learning-test">
   <summary>
-    <span class="section-title">2. Complete the Learning Test</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Complete the Learning Test</span>
     <span class="section-description">
       Follow the expressive typography tutorial exactly and submit the completed recreation before beginning the original compositions.
     </span>
@@ -241,7 +250,7 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Follow the tutorial
+#### Follow the tutorial
 
 <div class="video-wrapper">
   <iframe
@@ -250,6 +259,8 @@ SECTION 2
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “Expressive typography tutorial” tutorial directly](https://www.youtube.com/embed/3wk9KfgIj7I?si=6lZyZLtmrfT6CMzE)
 </div>
 
 > **Required Learning Test:** Follow the tutorial **step by step and as demonstrated**. This activity tests your ability to reproduce the demonstrated techniques before applying them independently.
@@ -258,49 +269,19 @@ The Learning Test is a recreation exercise. Do not redesign the tutorial outcome
 
 > Make sure all images are embedded in the Illustrator file before exporting.
 
-## Submit the Learning Test
+#### Submit the Learning Test
 
 Export the completed tutorial exercise as:
 
 - **Format:** PDF
 - **Filename:** `Lastname-Firstname-CompTech4-LearningTest.pdf`
 
-<fieldset class="equipment-checklist">
-  <legend>Learning Test check</legend>
+**Learning Test check**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The complete tutorial was followed.</strong>
-      All required steps and demonstrated typographic treatments are present.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The letterforms were manipulated as demonstrated.</strong>
-      The exercise shows the techniques introduced in the tutorial rather than an unrelated redesign.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The PDF displays correctly.</strong>
-      Open the exported PDF and confirm that no elements are missing (such as images not embedded) or incorrectly cropped.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The filename is correct.</strong>
-      The file is saved as <code>Lastname-Firstname-CompTech4-LearningTest.pdf</code>.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **The complete tutorial was followed.** All required steps and demonstrated typographic treatments are present.
+- [ ] **The letterforms were manipulated as demonstrated.** The exercise shows the techniques introduced in the tutorial rather than an unrelated redesign.
+- [ ] **The PDF displays correctly.** Open the exported PDF and confirm that no elements are missing (such as images not embedded) or incorrectly cropped.
+- [ ] **The filename is correct.** The file is saved as Lastname-Firstname-CompTech4-LearningTest.pdf .
 
 </div>
 </details>
@@ -311,9 +292,9 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="select-the-words-and-sketch-the-four-compositions">
   <summary>
-    <span class="section-title">3. Select the words and sketch the four compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Select the words and sketch the four compositions</span>
     <span class="section-description">
       Choose two words, assign previous composition principles, and plan one positive and one negative version of each word.
     </span>
@@ -321,7 +302,7 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-## Select two words
+#### Select two words
 
 Choose **two different words** that can be explored visually through typography.
 
@@ -355,7 +336,7 @@ For each word, identify:
 
 Use a different Wong and Gestalt principle for each word.
 
-## Create four planning sketches
+#### Create four planning sketches
 
 Create:
 
@@ -386,9 +367,9 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="create-the-four-typographic-compositions">
   <summary>
-    <span class="section-title">4. Create the four typographic compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Create the four typographic compositions</span>
     <span class="section-description">
       Create one positive and one negative composition for each word while applying the assigned Wong principle, Gestalt principle, and colour approach.
     </span>
@@ -396,7 +377,7 @@ SECTION 4
 
 <div class="section-content" markdown="1">
 
-### Document setup
+##### Document setup
   
 Create **two Illustrator files**, one for each word.
       
@@ -424,7 +405,7 @@ Each Illustrator file must contain **two artboards**:
 - `Lastname-Firstname-CompTech4-1.ai`
 - `Lastname-Firstname-CompTech4-2.ai`
 
-### Required layers
+##### Required layers
 
 **1. Guides**
 
@@ -448,7 +429,7 @@ Each Illustrator file must contain **two artboards**:
 
 > If raster images or textures are used, **embed them in Illustrator before exporting**.
 
-### Manually modify the letterforms
+##### Manually modify the letterforms
 
 Begin with a typeface appropriate to your concept, then transform the typography into original visual material.
 
@@ -464,7 +445,7 @@ The final design should not depend only on an unchanged font. Use Illustrator to
 
 > The modifications should reinforce the **meaning of the word**.
 
-#### Word 1
+###### Word 1
 
 Create one **positive** and one **negative** version using the same:
 
@@ -483,13 +464,13 @@ Redesign the same word through **negative space** and figure–ground relationsh
 
 > The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
 
-#### Word 2
+###### Word 2
 
 Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
 
 The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
 
-### Across all four compositions
+##### Across all four compositions
 
 Consider:
 
@@ -502,7 +483,7 @@ Consider:
 - **Visual direction:** Does the composition guide the viewer's eye?
 - **Consistency:** Do the positive and negative versions clearly belong to the same word system?
 
-### Export the two word pairs
+##### Export the two word pairs
 
 Export **one PDF for each word**.
 
@@ -513,86 +494,21 @@ Save as:
 
 When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**.
 
-### Final file check
+##### Final file check
 
 Open each submitted PDF twice:
 
-<fieldset class="equipment-checklist">
-  <legend>Final PDF checklist</legend>
+**Final PDF checklist**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the concept and meaning.</strong>
-      Confirm that the typographic treatment clearly supports the meaning of the selected word and demonstrates an original visual approach.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the positive and negative versions.</strong>
-      Confirm that both versions belong to the same conceptual system but use clearly different figure–ground solutions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the design principles.</strong>
-      Confirm that the selected Wong principle, Gestalt principle, colour approach, and manual letterform manipulation are clearly visible in both versions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the PDF in a PDF viewer.</strong>
-      Confirm that both pages display correctly and no unintended guides or construction elements appear.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the PDF in Adobe Illustrator.</strong>
-      Confirm that the file opens correctly and remains editable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check editability.</strong>
-      Confirm that the vector objects remain editable and that the PDF has not been flattened.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-  <input type="checkbox">
-  <span>
-    <strong>Check the layers, guides, and margins.</strong>
-    Confirm that the Guides, Composition, and Background layers remain separate and contain the correct material, and that the required margin guides remain available in Illustrator.
-  </span>
-</label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check embedded images.</strong>
-      Confirm that any raster images or textures used in the compositions are embedded and do not rely on linked files.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the filenames.</strong>
-      Confirm that both PDFs follow the required naming structure exactly.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **Check the concept and meaning.** Confirm that the typographic treatment clearly supports the meaning of the selected word and demonstrates an original visual approach.
+- [ ] **Check the positive and negative versions.** Confirm that both versions belong to the same conceptual system but use clearly different figure–ground solutions.
+- [ ] **Check the design principles.** Confirm that the selected Wong principle, Gestalt principle, colour approach, and manual letterform manipulation are clearly visible in both versions.
+- [ ] **Check the PDF in a PDF viewer.** Confirm that both pages display correctly and no unintended guides or construction elements appear.
+- [ ] **Check the PDF in Adobe Illustrator.** Confirm that the file opens correctly and remains editable.
+- [ ] **Check editability.** Confirm that the vector objects remain editable and that the PDF has not been flattened.
+- [ ] **Check the layers, guides, and margins.** Confirm that the Guides, Composition, and Background layers remain separate and contain the correct material, and that the required margin guides remain available in Illustrator.
+- [ ] **Check embedded images.** Confirm that any raster images or textures used in the compositions are embedded and do not rely on linked files.
+- [ ] **Check the filenames.** Confirm that both PDFs follow the required naming structure exactly.
 
   </div>
 </details>
@@ -609,7 +525,7 @@ Open each submitted PDF twice:
 | Word 1 — Positive + Negative | `Lastname-Firstname-CompTech4-1.pdf` |
 | Word 2 — Positive + Negative | `Lastname-Firstname-CompTech4-2.pdf` |
 
-Incorrect filenames, missing files, unchanged letterforms, simple colour inversion instead of a redesigned negative composition, missing principles, unembedded images, flattened PDFs, or incomplete document setup will affect the grade.
+Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing files, unchanged letterforms, simple colour inversion instead of a redesigned negative composition, missing principles, unembedded images, flattened PDFs, or incomplete document setup will affect the grade.
 
 ---
 

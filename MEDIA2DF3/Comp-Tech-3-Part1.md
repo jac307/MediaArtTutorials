@@ -4,7 +4,9 @@
 
 ![Examples from previous Composition Techniques III activities](imgs/19.jpg)
 
-**Goal:** Design and create **three digital compositions** that integrate visual styles, Gestalt principles, and practical design rules across three different formats.
+## Goal
+
+Design and create **three digital compositions** that integrate visual styles, Gestalt principles, and practical design rules across three different formats.
 
 Each composition must combine:
 
@@ -21,7 +23,14 @@ Each composition must combine:
 - **Gestalt principles:** Emergence, Closure, Common Region, Continuity, Proximity, and Multistability
 - **Software:** Adobe Illustrator and Adobe Photoshop
 
-## Activity stages
+## Accessibility and learning support
+
+- The written instructions on this page contain the required steps. Embedded videos provide additional demonstrations.
+- You may use zoom, screen magnification, keyboard navigation, adapted input devices, or other assistive technology.
+- If sketching, photography, using Illustrator or Photoshop, or completing another required process creates an access barrier, contact the instructor to arrange an alternative method that demonstrates the same learning outcomes.
+- Make the analysis PDF text-based, with selectable text, clear headings, strong contrast, and a logical reading order.
+
+## Complete the activity in six stages
 
 Complete the following stages in order.
 
@@ -32,9 +41,9 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-the-concepts">
   <summary>
-    <span class="section-title">1. Review the Concepts</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Review the Concepts</span>
     <span class="section-description">
       Review the Gestalt principles, art styles, and design rules before planning your compositions.
     </span>
@@ -48,9 +57,9 @@ SUB-SECTION A
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-the-gestalt-principles">
   <summary>
-    <span class="section-title">Review the Gestalt Principles</span>
+    <span class="section-title" role="heading" aria-level="4">Review the Gestalt Principles</span>
     <span class="section-description">
       Review how viewers recognize forms, follow visual paths, group elements, and interpret ambiguous images.
     </span>
@@ -69,7 +78,7 @@ SUB-SECTION A
         >
 
         <figcaption>
-          <h3>Emergence</h3>
+          <h3 role="heading" aria-level="5">Emergence</h3>
           <p>
             The viewer perceives a recognizable whole before identifying its individual parts. A larger image or form emerges from separate visual elements.
           </p>
@@ -85,7 +94,7 @@ SUB-SECTION A
         >
 
         <figcaption>
-          <h3>Closure</h3>
+          <h3 role="heading" aria-level="5">Closure</h3>
           <p>
             The viewer fills gaps and completes incomplete forms when enough visual information suggests a recognizable shape or whole.
           </p>
@@ -101,7 +110,7 @@ SUB-SECTION A
         >
 
         <figcaption>
-          <h3>Common Region</h3>
+          <h3 role="heading" aria-level="5">Common Region</h3>
           <p>
             Elements placed inside the same enclosed area are perceived as belonging together, even when they are similar to elements outside that area.
           </p>
@@ -117,7 +126,7 @@ SUB-SECTION A
         >
 
         <figcaption>
-          <h3>Continuity</h3>
+          <h3 role="heading" aria-level="5">Continuity</h3>
           <p>
             Elements that follow the same line, curve, or direction are perceived as connected. The viewer’s eye continues along the visual path even when it crosses another element.
           </p>
@@ -133,7 +142,7 @@ SUB-SECTION A
         >
 
         <figcaption>
-          <h3>Proximity</h3>
+          <h3 role="heading" aria-level="5">Proximity</h3>
           <p>
             Elements placed close together are perceived as a group. Greater distance separates elements and suggests different relationships.
           </p>
@@ -149,7 +158,7 @@ SUB-SECTION A
         >
 
         <figcaption>
-          <h3>Multistability</h3>
+          <h3 role="heading" aria-level="5">Multistability</h3>
           <p>
             An ambiguous image can support more than one interpretation. The viewer’s perception shifts between possible readings, but the interpretations are not usually perceived at the same time.
           </p>
@@ -162,7 +171,7 @@ SUB-SECTION A
       Reference images:
       <a
         href="https://ixdf.org/literature/topics/gestalt-principles"
-        target="_blank"
+
         rel="noopener noreferrer"
       >
         Interaction Design Foundation, CC BY-SA 4.0
@@ -178,9 +187,9 @@ SUB-SECTION A
     /////////////////
     -->
 
-    <details class="tutorial-section">
+    <details class="tutorial-section" id="review-the-art-styles">
       <summary>
-        <span class="section-title">Review the Art Styles</span>
+        <span class="section-title" role="heading" aria-level="4">Review the Art Styles</span>
         <span class="section-description">
           Review the visual characteristics, historical context, and design approaches associated with the five styles used in this activity.
         </span>
@@ -201,19 +210,19 @@ SUB-SECTION A
             </div>
 
             <div class="style-review-content">
-              <h3>Art Nouveau</h3>
+              <h3 role="heading" aria-level="5">Art Nouveau</h3>
 
               <p>
                 Art Nouveau uses flowing lines, organic shapes, botanical forms, decorative borders, and integrated relationships between image and typography.
               </p>
 
-              <h4>Relevant links</h4>
+              <h4 role="heading" aria-level="6">Relevant links</h4>
 
               <ul>
                 <li>
                   <a
                     href="https://aesthetics.fandom.com/wiki/Art_Nouveau"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Art Nouveau overview
@@ -226,7 +235,7 @@ SUB-SECTION A
                 <li>
                   <a
                     href="https://www.google.com/search?tbm=isch&amp;q=Art+Nouveau"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Art Nouveau examples
@@ -251,19 +260,19 @@ SUB-SECTION A
             </div>
 
             <div class="style-review-content">
-              <h3>DORFic</h3>
+              <h3 role="heading" aria-level="5">DORFic</h3>
 
               <p>
                 DORFic combines restrained geometry, fine lines, technological imagery, translucent layers, neutral space, and interface-like visual systems.
               </p>
 
-              <h4>Relevant links</h4>
+              <h4 role="heading" aria-level="6">Relevant links</h4>
 
               <ul>
                 <li>
                   <a
                     href="https://aesthetics.fandom.com/wiki/DORFic"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     DORFic overview
@@ -276,7 +285,7 @@ SUB-SECTION A
                 <li>
                   <a
                     href="https://www.google.com/search?tbm=isch&amp;q=DORFic"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     DORFic examples
@@ -301,19 +310,19 @@ SUB-SECTION A
             </div>
 
             <div class="style-review-content">
-              <h3>Utopian Scholastic</h3>
+              <h3 role="heading" aria-level="5">Utopian Scholastic</h3>
 
               <p>
                 Utopian Scholastic uses diagrams, archival photographs, educational imagery, classical typography, labels, and carefully organized information.
               </p>
 
-              <h4>Relevant links</h4>
+              <h4 role="heading" aria-level="6">Relevant links</h4>
 
               <ul>
                 <li>
                   <a
                     href="https://aesthetics.fandom.com/wiki/Utopian_Scholastic"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Utopian Scholastic overview
@@ -326,7 +335,7 @@ SUB-SECTION A
                 <li>
                   <a
                     href="https://www.google.com/search?tbm=isch&amp;q=Utopian+Scholastic"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Utopian Scholastic examples
@@ -351,19 +360,19 @@ SUB-SECTION A
             </div>
 
             <div class="style-review-content">
-              <h3>Memphis Design</h3>
+              <h3 role="heading" aria-level="5">Memphis Design</h3>
 
               <p>
                 Memphis Design uses bold geometry, repeated patterns, contrasting colours, dots, stripes, squiggles, and deliberately playful arrangements.
               </p>
 
-              <h4>Relevant links</h4>
+              <h4 role="heading" aria-level="6">Relevant links</h4>
 
               <ul>
                 <li>
                   <a
                     href="https://aesthetics.fandom.com/wiki/Memphis_Design"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Memphis Design overview
@@ -376,7 +385,7 @@ SUB-SECTION A
                 <li>
                   <a
                     href="https://www.google.com/search?tbm=isch&amp;q=Memphis+Design"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Memphis Design examples
@@ -401,19 +410,19 @@ SUB-SECTION A
             </div>
 
             <div class="style-review-content">
-              <h3>Olderbrothercore</h3>
+              <h3 role="heading" aria-level="5">Olderbrothercore</h3>
 
               <p>
                 Olderbrothercore draws from early-2000s youth culture through lo-fi photographs, posters, stickers, screenshots, distressed textures, and layered media fragments.
               </p>
 
-              <h4>Relevant links</h4>
+              <h4 role="heading" aria-level="6">Relevant links</h4>
 
               <ul>
                 <li>
                   <a
                     href="https://aesthetics.fandom.com/wiki/Olderbrothercore"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Olderbrothercore overview
@@ -426,7 +435,7 @@ SUB-SECTION A
                 <li>
                   <a
                     href="https://www.google.com/search?tbm=isch&amp;q=Olderbrothercore"
-                    target="_blank"
+
                     rel="noopener noreferrer"
                   >
                     Olderbrothercore examples
@@ -447,7 +456,7 @@ SUB-SECTION A
             <strong>Video source:</strong>
             <a
               href="https://www.instagram.com/thesupergraphics/"
-              target="_blank"
+
               rel="noopener noreferrer"
             >
               <em>The Supergraphics: Fine Art</em> by Harald Austad
@@ -465,9 +474,9 @@ SUB-SECTION A
     /////////////////
     -->
 
-    <details class="tutorial-section">
+    <details class="tutorial-section" id="review-samara-s-rules-for-making-good-design">
       <summary>
-        <span class="section-title">Review Samara’s Rules for Making Good Design</span>
+        <span class="section-title" role="heading" aria-level="4">Review Samara’s Rules for Making Good Design</span>
         <span class="section-description">
           Review the ten rules assigned to this activity and consider how each one can guide your design decisions.
         </span>
@@ -485,7 +494,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>1. Have a concept</h3>
+              <h3 role="heading" aria-level="5">1. Have a concept</h3>
               <p>
                 Begin with a clear idea. The composition, style, imagery, colour, and typography should support the same central concept.
               </p>
@@ -500,7 +509,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>2. Communicate—don’t decorate</h3>
+              <h3 role="heading" aria-level="5">2. Communicate—don’t decorate</h3>
               <p>
                 Every visual element should contribute to the message. Avoid adding shapes, patterns, images, or effects without a clear purpose.
               </p>
@@ -515,7 +524,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>3. Speak with one visual voice</h3>
+              <h3 role="heading" aria-level="5">3. Speak with one visual voice</h3>
               <p>
                 Create consistency across the composition. Image, type, colour, texture, and spacing should feel connected to the same visual system.
               </p>
@@ -530,7 +539,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>7. If you can do it with less, then do it</h3>
+              <h3 role="heading" aria-level="5">7. If you can do it with less, then do it</h3>
               <p>
                 Remove unnecessary elements. A reduced composition can make the main idea, hierarchy, and relationships easier to understand.
               </p>
@@ -545,7 +554,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>8. Negative space is magical—create it, don’t just fill it up</h3>
+              <h3 role="heading" aria-level="5">8. Negative space is magical—create it, don’t just fill it up</h3>
               <p>
                 Treat empty space as an active part of the design. Use it to separate groups, establish emphasis, and clarify figure-and-ground relationships.
               </p>
@@ -560,7 +569,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>11. Be universal; remember that it’s not about you</h3>
+              <h3 role="heading" aria-level="5">11. Be universal; remember that it’s not about you</h3>
               <p>
                 Consider the intended audience. Test whether the visual organization and message can be understood by someone who did not create the work.
               </p>
@@ -575,7 +584,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>12. Squish and separate</h3>
+              <h3 role="heading" aria-level="5">12. Squish and separate</h3>
               <p>
                 Use spacing to establish relationships. Place connected elements close together and create greater distance between unrelated groups.
               </p>
@@ -590,7 +599,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>14. Be decisive. Do it on purpose—or don’t do it at all</h3>
+              <h3 role="heading" aria-level="5">14. Be decisive. Do it on purpose—or don’t do it at all</h3>
               <p>
                 Make visual decisions clearly. Scale, alignment, contrast, cropping, spacing, and repetition should appear intentional rather than accidental.
               </p>
@@ -605,7 +614,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>15. Measure with your eyes: design is visual</h3>
+              <h3 role="heading" aria-level="5">15. Measure with your eyes: design is visual</h3>
               <p>
                 Mathematical alignment does not always appear visually balanced. Adjust scale, spacing, and placement according to how the composition is perceived.
               </p>
@@ -620,7 +629,7 @@ SUB-SECTION A
               loading="lazy"
             >
             <figcaption>
-              <h3>16. Create images—don’t scavenge</h3>
+              <h3 role="heading" aria-level="5">16. Create images—don’t scavenge</h3>
               <p>
                 Create original visual material or substantially transform your sources. Avoid relying on unedited images collected from the internet.
               </p>
@@ -649,9 +658,9 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="choose-three-style-pairings">
   <summary>
-    <span class="section-title">2. Choose three style pairings</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Choose three style pairings</span>
     <span class="section-description">
       Select three options and use one pairing for each composition.
     </span>
@@ -669,7 +678,7 @@ Choose **three of the five options** below. You may apply the selected pairings 
 | **4** | **Memphis Design** | Common Region + Emergence | **2. Communicate—don’t decorate.**<br>**15. Measure with your eyes: design is visual.** | Use repeated geometric forms, dots, stripes, squiggles, and strong contrast. Arrange elements within distinct visual areas and allow a larger image, symbol, or pattern to emerge from the smaller forms. |
 | **5** | **Olderbrothercore** | Proximity + Closure | **12. Squish and separate.**<br>**16. Create images—don’t scavenge.** | Use original or substantially transformed lo-fi photographs, labels, interface fragments, distressed textures, cropped imagery, and layered media. Group related fragments closely and use incomplete or cropped forms that the viewer can visually complete. |
 
-### Note on Rule 11
+##### Note on Rule 11
 
 For this activity, interpret “Be universal” as **design for a defined audience and communicate clearly**. Do not assume that every viewer interprets images, symbols, or styles in the same way.
 
@@ -682,9 +691,9 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="assign-one-pairing-to-each-required-format">
   <summary>
-    <span class="section-title">3. Assign one pairing to each required format</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Assign one pairing to each required format</span>
     <span class="section-description">
       Create one logo, one one-page website mockup, and one photomontage.
     </span>
@@ -701,13 +710,13 @@ Create one composition in each category:
 | **Photomontage** | Photographic collage using image layers and texture | Adobe Photoshop |
 
 Assign one of your three selected style pairings to each required format. Consider which pairing best supports the purpose, structure, and intended audience of each composition.
-## Review the required formats
+#### Review the required formats
 
 <div class="format-options-grid">
 
   <!-- Logo -->
   <figure class="format-option-card">
-    <h3>Logo</h3>
+    <h3 role="heading" aria-level="5">Logo</h3>
     <p>
       A logo identifies an organization, project, event, product, or service through a clear and recognizable visual mark.
     </p>
@@ -720,13 +729,13 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Example: Logo by American designer <a href="https://andwalsh.com/" target="_blank" rel="noopener noreferrer">Jessica Walsh</a>
+      Example: Logo by American designer <a href="https://andwalsh.com/">Jessica Walsh</a>
     </figcaption>
   </figure>
 
   <!-- Website -->
   <figure class="format-option-card">
-    <h3>Website: Homepage</h3>
+    <h3 role="heading" aria-level="5">Website: Homepage</h3>
     <p>
       A one-page website organizes information within a continuous vertical layout.
     </p>
@@ -739,13 +748,13 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Example: Website homepage by English artist <a href="https://shantellmartin.art/homepage" target="_blank" rel="noopener noreferrer">Shantell Martin</a>
+      Example: Website homepage by English artist <a href="https://shantellmartin.art/homepage">Shantell Martin</a>
     </figcaption>
   </figure>
 
   <!-- Photomontage -->
   <figure class="format-option-card">
-    <h3>Photomontage</h3>
+    <h3 role="heading" aria-level="5">Photomontage</h3>
     <p>
       A photomontage combines photographs, textures, fragments, and graphic elements to construct a new image or visual argument.
     </p>
@@ -758,14 +767,14 @@ Assign one of your three selected style pairings to each required format. Consid
       loading="lazy"
     >
     <figcaption>
-      Example: Photomontage by American artist <a href="https://www.martharosler.net/photomontages" target="_blank" rel="noopener noreferrer">Martha Rosler</a>
+      Example: Photomontage by American artist <a href="https://www.martharosler.net/photomontages">Martha Rosler</a>
     </figcaption>
   </figure>
 
 </div>
 
 
-## Assign the style pairings
+#### Assign the style pairings
 
 Use each selected pairing once:
 
@@ -785,9 +794,9 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="plan-and-sketch-the-three-compositions">
   <summary>
-    <span class="section-title">4. Plan and sketch the three compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Plan and sketch the three compositions</span>
     <span class="section-description">
       Define the concept and create one annotated sketch for each required format.
     </span>
@@ -805,65 +814,15 @@ The sketches may be drawn by hand, photographed or scanned, or created digitally
 
 Use simple shapes, lines, labels, and arrows to show where the main elements will appear.
 
-<fieldset class="equipment-checklist">
-  <legend>Planning requirements for each composition</legend>
+**Planning requirements for each composition**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the format.</strong>
-      State whether the sketch is for the logo, one-page website, or photomontage.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Define the concept and audience.</strong>
-      Write one sentence explaining what the composition communicates and who it is intended for.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Identify the style pairing.</strong>
-      Name the selected style, two Gestalt principles, and two Samara rules.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Draw the main structure.</strong>
-      Show the placement of images, text, shapes, sections, and other important elements.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Mark the visual organization.</strong>
-      Identify the focal area, reading order, grouping, movement, and negative space.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Add visual notes.</strong>
-      Include brief notes about the planned colours, imagery, textures, typography, and recognizable characteristics of the selected style.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Prepare the sketches for submission.</strong>
-      Photograph, scan, or export the sketches clearly, then combine them into one three-page PDF in the following order: logo, one-page website, and photomontage.
-    </span>
-  </label>
-</fieldset>
+- [ ] **Identify the format.** State whether the sketch is for the logo, one-page website, or photomontage.
+- [ ] **Define the concept and audience.** Write one sentence explaining what the composition communicates and who it is intended for.
+- [ ] **Identify the style pairing.** Name the selected style, two Gestalt principles, and two Samara rules.
+- [ ] **Draw the main structure.** Show the placement of images, text, shapes, sections, and other important elements.
+- [ ] **Mark the visual organization.** Identify the focal area, reading order, grouping, movement, and negative space.
+- [ ] **Add visual notes.** Include brief notes about the planned colours, imagery, textures, typography, and recognizable characteristics of the selected style.
+- [ ] **Prepare the sketches for submission.** Photograph, scan, or export the sketches clearly, then combine them into one three-page PDF in the following order: logo, one-page website, and photomontage.
 
 Save the completed planning document as:
 
@@ -881,9 +840,9 @@ SECTION 5
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="set-up-the-digital-files">
   <summary>
-    <span class="section-title">5. Set up the digital files</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 5: Set up the digital files</span>
     <span class="section-description">
       Create the required Illustrator and Photoshop documents using the correct dimensions, layers, and filenames.
     </span>
@@ -897,9 +856,9 @@ SUB-SECTION A
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="graphic-design-logo">
   <summary>
-    <span class="section-title">Graphic Design: Logo</span>
+    <span class="section-title" role="heading" aria-level="4">Graphic Design: Logo</span>
     <span class="section-description">
       Set up the Illustrator document and review the tutorials required to create the logo.
     </span>
@@ -913,7 +872,7 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
 
 ![Logo document setup reference](imgs/logo.png)
 
-### Document setup
+##### Document setup
 
 | Setting | Requirement |
 |---|---|
@@ -927,7 +886,7 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
 | Guides | Inner rectangular border 20 px from the edges |
 | Layers | Guides, Composition, Background |
 
-### Graphic design tutorials
+##### Graphic design tutorials
 
 <div class="video-wrapper">
   <iframe
@@ -936,6 +895,8 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “Adobe Illustrator Tutorial: Create a Vector Logo from a Sketch in 2024!” tutorial directly](https://www.youtube.com/embed/8kz0bZQDm60?si=H4R5TaLiks80geV6)
 </div>
 
 <div class="video-wrapper">
@@ -945,9 +906,11 @@ Use Adobe Illustrator to create the logo. Adobe Photoshop may be used to prepare
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “How to use Image Trace in Adobe Illustrator” tutorial directly](https://www.youtube.com/embed/AUxtDCyaPFg?si=u9MD48P1sKyNpx8K)
 </div>
 
-> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/){:target="_blank"} for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator.
+> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/) for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator.
 
 </div>
 </details>
@@ -958,9 +921,9 @@ SUB-SECTION B
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="ui-design-one-page-website">
   <summary>
-    <span class="section-title">UI Design: One-Page Website</span>
+    <span class="section-title" role="heading" aria-level="4">UI Design: One-Page Website</span>
     <span class="section-description">
       Set up the Illustrator document for the one-page website mockup.
     </span>
@@ -974,7 +937,7 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
 
 ![Website document setup reference](imgs/website.png)
 
-### Document setup
+##### Document setup
 
 | Setting | Requirement |
 |---|---|
@@ -987,7 +950,7 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
 | Guides | Inner rectangular border 50 px from the edges |
 | Layers | Guides, Composition, Background |
 
-### Website design tutorials
+##### Website design tutorials
 
 <div class="video-wrapper">
   <iframe
@@ -996,9 +959,11 @@ Use Adobe Illustrator to create the one-page website mockup. Adobe Photoshop may
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “All 20+ Effects in Adobe Illustrator Explained” tutorial directly](https://www.youtube.com/embed/XeQo6fT0n_o?si=0UiNLZHDC1gbWn6f)
 </div>
 
-> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/){:target="_blank"} for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator.
+> **Additional Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/) for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator.
 
 </div>
 </details>
@@ -1009,9 +974,9 @@ SUB-SECTION C
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="photomontage">
   <summary>
-    <span class="section-title">Photomontage</span>
+    <span class="section-title" role="heading" aria-level="4">Photomontage</span>
     <span class="section-description">
       Take an original DSLR photograph and set up the layered Photoshop document.
     </span>
@@ -1028,7 +993,7 @@ The following files are required for submission:
 - The completed photomontage saved as a layered TIFF, with all layers preserved and editable
 - The original, unedited camera file used in the photomontage
 
-### Original photography requirement
+##### Original photography requirement
 
 Book and use a **Canon EOS Rebel T4i DSLR camera**.
 
@@ -1036,12 +1001,12 @@ Set the camera to **Aperture Priority (`Av`) mode** and photograph a subject, ob
 
 The original photograph must remain identifiable within the final composition, even when it is cropped, layered, adjusted, or transformed.
 
-### Camera tutorials
+##### Camera tutorials
 
 - [Available Equipment](Equipment.md)
 - [DSRL Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
 
-### Photoshop document setup
+##### Photoshop document setup
 
 ![Photomontage document setup reference](imgs/photomontage.png)
 
@@ -1054,7 +1019,7 @@ The original photograph must remain identifiable within the final composition, e
 | Colour mode | RGB |
 | Bit depth | 16 bits |
 
-### Photomontage tutorials
+##### Photomontage tutorials
 
 <div class="video-wrapper">
   <iframe
@@ -1063,15 +1028,19 @@ The original photograph must remain identifiable within the final composition, e
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “Beginner's Guide to Photoshop Collages!” tutorial directly](https://www.youtube.com/embed/5j9_ywshuDw?si=Rq7xh98wm4SoDXY4)
 </div>
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9""
+    src="https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9"
     title="Master the Pen Tool in Under 8 Minutes (Photoshop)"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “Master the Pen Tool in Under 8 Minutes (Photoshop)” tutorial directly](https://www.youtube.com/embed/VsSjXNOE7NM?si=cIoo4sbk5tVRM-S9)
 </div>
 
 </div>
@@ -1086,9 +1055,9 @@ SECTION 6
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="create-review-and-analyze-the-three-compositions">
   <summary>
-    <span class="section-title">6. Create, review, and analyze the three compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 6: Create, review, and analyze the three compositions</span>
     <span class="section-description">
       Develop the three final designs, review their conceptual and technical requirements, and create one analysis PDF presenting all three compositions.
     </span>
@@ -1096,7 +1065,7 @@ SECTION 6
 
 <div class="section-content" markdown="1">
 
-## Create the three compositions
+#### Create the three compositions
 Use the approved sketches as the starting point for each composition:
 
 - One logo
@@ -1107,88 +1076,23 @@ The final compositions do not need to reproduce the sketches exactly. Adjust the
 
 Each decision should support the concept, selected style, assigned Gestalt principles, Samara rules, and purpose of the design format.
 
-## Review the three compositions
-<fieldset class="equipment-checklist">
-  <legend>Review each composition before exporting</legend>
+#### Review the three compositions
+**Review each composition before exporting**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The concept is clear.</strong>
-      The composition communicates a specific subject, purpose, message, or function.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The format is used appropriately.</strong>
-      The design works as a logo, website mockup, or photomontage and responds to the purpose of that format.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The selected style is recognizable.</strong>
-      At least three characteristics of the style are visible and adapted to the composition rather than copied directly from an example.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Both Gestalt principles organize the composition.</strong>
-      The assigned principles are clearly visible in the grouping, relationships, hierarchy, or movement of the visual elements.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Both Samara rules guide the design.</strong>
-      The assigned rules influence the composition, hierarchy, spacing, image-making, reduction, or communication strategy.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The visual hierarchy is clear.</strong>
-      The viewer can identify the focal area, reading order, grouped elements, directional movement, and negative space.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The visual elements are consistent.</strong>
-      Colour, typography, imagery, shapes, textures, and spacing work together as one coherent composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The file is technically complete.</strong>
-      The dimensions, colour mode, resolution, margins, guides, layers, embedded images, and filename follow the instructions.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The photomontage requirements are complete.</strong>
-      The original DSLR photograph is used in the composition, the TIFF preserves active layers, and the original unedited camera file is ready for submission.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **The concept is clear.** The composition communicates a specific subject, purpose, message, or function.
+- [ ] **The format is used appropriately.** The design works as a logo, website mockup, or photomontage and responds to the purpose of that format.
+- [ ] **The selected style is recognizable.** At least three characteristics of the style are visible and adapted to the composition rather than copied directly from an example.
+- [ ] **Both Gestalt principles organize the composition.** The assigned principles are clearly visible in the grouping, relationships, hierarchy, or movement of the visual elements.
+- [ ] **Both Samara rules guide the design.** The assigned rules influence the composition, hierarchy, spacing, image-making, reduction, or communication strategy.
+- [ ] **The visual hierarchy is clear.** The viewer can identify the focal area, reading order, grouped elements, directional movement, and negative space.
+- [ ] **The visual elements are consistent.** Colour, typography, imagery, shapes, textures, and spacing work together as one coherent composition.
+- [ ] **The file is technically complete.** The dimensions, colour mode, resolution, margins, guides, layers, embedded images, and filename follow the instructions.
+- [ ] **The photomontage requirements are complete.** The original DSLR photograph is used in the composition, the TIFF preserves active layers, and the original unedited camera file is ready for submission.
 
 Make final corrections before exporting the logo and website as PDF files and saving the photomontage as a layered TIFF.
 
-## Create the design analysis PDF
-Create **one single-page PDF** that presents and analyzes **all three final compositions**.
+#### Create the design analysis PDF
+Create **one three-page PDF** that presents and analyzes **all three final compositions**. Use one page for each design.
 
 The document must include:
 
@@ -1199,20 +1103,20 @@ The document must include:
 
 This means the complete document will contain approximately **750 words** of written analysis.
 
-### Document format
+##### Document format
 
 - **Orientation:** Horizontal / landscape
-- **Pages:** 1 page only
+- **Pages:** 3 pages, one design per page
 - **Designs included:** All three compositions
-- **Layout:** Three sections, one for each composition
-- **Arragement:** Two columns, Three rows
-- **Left column:** Small image of the final design
-- **Right column:** 250-word written analysis
-- **Typography:** Clear and readable
+- **Layout:** Use the same two-column structure on each page
+- **Left column:** Image of the final design
+- **Right column:** 250-word written analysis with a descriptive heading
+- **Typography:** Clear and readable; use body text that remains comfortable to read at 100% zoom
 - **Spacing and alignment:** Consistent and intentional
+- **Accessibility:** Use selectable text, strong contrast, a logical page order, and meaningful headings
 - **Filename:** `Lastname-Firstname-CompTech3-Part1-Analysis.pdf`
 
-## Write the three 250-word analyses
+#### Write the three 250-word analyses
 For **each composition**, write approximately **250 words**.
 
 Address:
@@ -1223,7 +1127,7 @@ Address:
 4. The two **Samara rules** and how they influenced specific design decisions.
 5. At least **one specific visual element or area** and how it supports the concept, message, purpose, or function of the design.
 
-> Do not only list the style, Gestalt principles, and Samara rules. Explain **how they are visible in specific/concrete design decision(s)**.
+> Do not only list the style, Gestalt principles, and Samara rules. Explain how they are visible through specific design decisions.
 
 </div>
 </details>
@@ -1241,7 +1145,7 @@ Address:
 | Layered photomontage TIFF | `Lastname-Firstname-CompTech3-Part1-Photomontage.tiff` |
 | Original photograph | `Lastname-Firstname-CompTech3-Part1-Photography.JPG` |
 
-Confirm that all files open correctly before submitting. Incorrect filenames, missing files, unembedded images, flattened Photoshop files, or incomplete document setup will affect the grade.
+Confirm that all files open correctly before submitting. Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing files, unembedded images, flattened Photoshop files, or incomplete document setup will affect the grade.
 
 ---
 Credits: Jessica A. Rodríguez

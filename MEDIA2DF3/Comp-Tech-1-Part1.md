@@ -4,7 +4,9 @@
 
 ![Examples from previous Composition Techniques I activities](imgs/01.jpg)
 
-**Goal:** Design and create **three black-and-white vector compositions** by building, repeating, and systematically altering a super-unit.
+## Goal
+
+Design and create **three black-and-white vector compositions** by building, repeating, and systematically altering a super-unit.
 
 Each composition must combine:
 
@@ -25,15 +27,22 @@ Each composition must combine:
 - **Colour:** Black and white only
 - **Software:** Adobe Illustrator
 
-## Activity stages
+## Accessibility and learning support
+
+- The written instructions on this page contain the required steps. Embedded tutorials provide additional demonstrations.
+- You may use zoom, screen magnification, keyboard navigation, adapted input devices, or other assistive technology.
+- If sketching, using Illustrator, or completing another required process creates an access barrier, contact the instructor to arrange an alternative method that demonstrates the same learning outcomes.
+- When preparing the sketches PDF, make each page upright, clearly focused, well lit, and easy to enlarge.
+
+## Complete the activity in four stages
 
 Complete the following stages in order.
 
 <!-- SECTION 1 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-the-concepts">
   <summary>
-    <span class="section-title">1. Review the concepts</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Review the concepts</span>
     <span class="section-description">
       Review the interrelationships of form, super-units, grids, and spatial strategies before planning.
     </span>
@@ -41,9 +50,9 @@ Complete the following stages in order.
 
 <div class="section-content" markdown="1">
 
-## Principles of Two-Dimensional Design
+#### Principles of Two-Dimensional Design
 
-### Interrelationships of Form
+##### Interrelationships of Form
 
 ![Detached, Touching, Overlapped, and Interpenetration](imgs/Interrrelations-Part1.png)
 
@@ -54,7 +63,7 @@ Each composition begins with a super-unit that clearly demonstrates one assigned
 - **Overlapped:** One form appears in front of another.
 - **Interpenetration:** Overlapping forms remain visible through each other, producing shared internal areas.
 
-### Super-unit versus composition
+##### Super-unit versus composition
 
 ![Examples of super-units](imgs/03.png)
 
@@ -69,7 +78,7 @@ The final composition must develop that starting structure into a larger visual 
 
 The relationship inside the original super-unit must remain identifiable after the instances are altered.
 
-### Other Principles
+##### Other Principles
 
 <div class="gestalt-principles-grid">
 
@@ -82,7 +91,7 @@ The relationship inside the original super-unit must remain identifiable after t
     >
 
     <figcaption>
-      <h3>Repetition</h3>
+      <h3 role="heading" aria-level="5">Repetition</h3>
       <p>
         Repetition occurs when the same visual element is used more than once. Repeated shapes, lines, or forms create consistency, rhythm, and structure across the composition.
       </p>
@@ -98,7 +107,7 @@ The relationship inside the original super-unit must remain identifiable after t
     >
 
     <figcaption>
-      <h3>Structure</h3>
+      <h3 role="heading" aria-level="5">Structure</h3>
       <p>
         Structure is the underlying system that organizes forms within a composition. It controls their placement, alignment, spacing, and relationships through a grid or other consistent framework.
       </p>
@@ -114,7 +123,7 @@ The relationship inside the original super-unit must remain identifiable after t
     >
 
     <figcaption>
-      <h3>Similarity</h3>
+      <h3 role="heading" aria-level="5">Similarity</h3>
       <p>
         Similarity occurs when forms share common characteristics, such as shape, size, direction, or texture. These shared features make the elements appear related, even when they are not identical.
       </p>
@@ -130,7 +139,7 @@ The relationship inside the original super-unit must remain identifiable after t
     >
 
     <figcaption>
-      <h3>Gradation</h3>
+      <h3 role="heading" aria-level="5">Gradation</h3>
       <p>
         Gradation occurs when visual elements change gradually. These changes may involve size, direction, position, shape, or spacing, creating progression, movement, and visual transition.
       </p>
@@ -141,7 +150,7 @@ The relationship inside the original super-unit must remain identifiable after t
 
 > **Source:** Wong, W. (1972). “Principles of Two Deimensional Design”. Van Nostrand Reinhold Company.
 
-## Form and Space
+#### Form and Space
 
 The activity also applies three categories of form from Timothy Samara’s chapter **“Seeing Form and Space.”**
 
@@ -156,7 +165,7 @@ The activity also applies three categories of form from Timothy Samara’s chapt
     >
 
     <figcaption>
-      <h3>Dot</h3>
+      <h3 role="heading" aria-level="5">Dot</h3>
       <p>
         A dot creates a concentrated point of attention within a space. Its size, position, and proximity to other forms affect its visual dominance, grouping, tension, and relationship to the surrounding format.
       </p>
@@ -172,7 +181,7 @@ The activity also applies three categories of form from Timothy Samara’s chapt
     >
 
     <figcaption>
-      <h3>Line</h3>
+      <h3 role="heading" aria-level="5">Line</h3>
       <p>
         A line creates connection, direction, and movement. It can link points, divide or contain space, and establish rhythm through changes in length, weight, direction, spacing, and repetition.
       </p>
@@ -188,7 +197,7 @@ The activity also applies three categories of form from Timothy Samara’s chapt
     >
 
     <figcaption>
-      <h3>Plane & Mass</h3>
+      <h3 role="heading" aria-level="5">Plane & Mass</h3>
       <p>
         A plane is a larger form defined by its outer contour. Its scale, shape, texture, value, and relationship to the surrounding space determine whether it appears flat, becomes a dominant visual mass, or creates the impression of depth and volume.
       </p>
@@ -204,9 +213,9 @@ The activity also applies three categories of form from Timothy Samara’s chapt
 
 <!-- SECTION 2 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="plan-and-sketch-the-three-compositions">
   <summary>
-    <span class="section-title">2. Plan and sketch the three compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Plan and sketch the three compositions</span>
     <span class="section-description">
       Design each super-unit, select a different repetition grid and grid structure, and plan how the unit will be repeated and altered.
     </span>
@@ -216,15 +225,15 @@ The activity also applies three categories of form from Timothy Samara’s chapt
 
 Create **one planning page for each composition**.
 
-## Select the repetition grids and grid structures
+#### Select the repetition grids and grid structures
 
 Choose **one different repetition grid and grid structure for each composition**. Do not repeat the selections.
 
-### Repetition Grid
+##### Repetition Grid
 
 ![Examples of grid structures](imgs/04.png)
 
-### Grid Structures
+##### Grid Structures
 
 ![Additional grid examples](imgs/05.png)
 
@@ -237,7 +246,7 @@ Select the grid and structure that best supports:
 
 ---
 
-## Composition 1
+#### Composition 1
 
 | Interrelationship of Form | Wong principle | Samara form category |
 |---|---|---|
@@ -255,7 +264,7 @@ On the planning page:
 
 ---
 
-## Composition 2
+#### Composition 2
 
 | Interrelationship of Form | Wong principle | Samara form category |
 |---|---|---|
@@ -268,12 +277,12 @@ On the planning page:
 1. Draw the super-unit applying the **Overlaping** relationship of form.
 2. Label how the forms apply Samara’s concept of **Plane and Mass**.
 3. Sketch at least eight repeated instances organized into the selected **repetition grid** (different from Composition 1).
-4. Maintain Similarity while introducing **one-two controlled variations or alterations**, such as scale, contour, proportion, placement, overlap, cropping, or positive–negative reversal.
+4. Maintain Similarity while introducing **one or two controlled variations**, such as scale, contour, proportion, placement, overlap, cropping, or positive–negative reversal.
 5. Show the boundaries and negative space by applying the selected **grid structure** (different from Composition 1). 
 
 ---
 
-## Composition 3
+#### Composition 3
 
 | Interrelationship of Form | Wong principle | Samara form category |
 |---|---|---|
@@ -291,7 +300,7 @@ On the planning page:
 
 ---
 
-## Export Sketches
+#### Export Sketches
 
 Combine the three planning pages into one PDF:
 
@@ -304,9 +313,9 @@ Ask the instructor for feedback before creating the final digital compositions.
 
 <!-- SECTION 3 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="set-up-and-build-the-three-compositions">
   <summary>
-    <span class="section-title">3. Set up and build the three compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Set up and build the three compositions</span>
     <span class="section-description">
       Create the Illustrator files, build each grid and super-unit, then repeat and alter the units across the complete format.
     </span>
@@ -316,7 +325,7 @@ Ask the instructor for feedback before creating the final digital compositions.
 
 Create one separate Adobe Illustrator file for each composition.
 
-## Set up the Illustrator files
+#### Set up the Illustrator files
 
 Use the following settings:
 
@@ -339,17 +348,21 @@ Use these working filenames:
 - `Lastname-Firstname-CompTech1-Part1-2.ai`
 - `Lastname-Firstname-CompTech1-Part1-3.ai`
 
-### Illustrator document setup
+##### Illustrator document setup
 
 > **Required tutorial:** Follow this tutorial step by step. It includes the required document settings, **margin guides**, bleed, colour mode, raster-effects resolution, and layer setup. Skipping steps or using different settings may result in lost marks.
 
-<iframe src="https://www.iorad.com/player/2588082/Adobe-Illustrator--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Adobe Illustrator Document Setup" src="https://www.iorad.com/player/2588082/Adobe-Illustrator--Document-Setup-?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-### Basic Illustrator tools
+[Open the “Adobe Illustrator Document Setup” tutorial directly](https://www.iorad.com/player/2588082/Adobe-Illustrator--Document-Setup-?src=iframe&oembed=1)
 
-<iframe src="https://www.iorad.com/player/2496027/Basic-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+##### Basic Illustrator tools
 
-## Create the grids
+<iframe title="Tutorial: Basic tools and behaviours in Adobe Illustrator" src="https://www.iorad.com/player/2496027/Basic-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+
+[Open the “Basic tools and behaviours in Adobe Illustrator” tutorial directly](https://www.iorad.com/player/2496027/Basic-tools-and-behaviours-in-Adobe-Illustrator?src=iframe&oembed=1)
+
+#### Create the grids
 
 Recreate the selected grid for each composition in the **Guides** layer.
 
@@ -359,9 +372,11 @@ A grid may remain visible only when its visible structure is an intentional part
 
 > Although grids begin as drawn lines, **all grids**—unless they are intentionally visible—**must be converted into guides**. This ensures that the grid remains available in Illustrator but does not appear when the document is printed or viewed outside Illustrator.
 
-<iframe src="https://www.iorad.com/player/2496032/Creating-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Creating grids in Adobe Illustrator" src="https://www.iorad.com/player/2496032/Creating-grids-in-Adobe-Illustrator?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Create the original super-units
+[Open the “Creating grids in Adobe Illustrator” tutorial directly](https://www.iorad.com/player/2496032/Creating-grids-in-Adobe-Illustrator?src=iframe&oembed=1)
+
+#### Create the original super-units
 
 Use geometric shapes to create the assigned Interrelationship of Form and Samara form category:
 
@@ -377,16 +392,18 @@ Before repeating it, confirm that:
 - The assigned Samara category shapes the construction of the super-unit itself.
 - The super-unit is visually resolved and can support controlled variation.
 
-<iframe src="https://www.iorad.com/player/2496022/Interrelationships-of-Form-in-Adobe-Illustrator-1?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+<iframe title="Tutorial: Interrelationships of Form in Adobe Illustrator 1" src="https://www.iorad.com/player/2496022/Interrelationships-of-Form-in-Adobe-Illustrator-1?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-## Develop the complete compositions
+[Open the “Interrelationships of Form in Adobe Illustrator 1” tutorial directly](https://www.iorad.com/player/2496022/Interrelationships-of-Form-in-Adobe-Illustrator-1?src=iframe&oembed=1)
+
+#### Develop the complete compositions
 
 For each file:
 
 1. Repeat the super-unit at least eight times.
 2. Alter the repeated instances through controlled variables.
    - **Composition 1:** one controlled variable
-   - **Composition 2:** one-two controlled variables
+   - **Composition 2:** one or two controlled variables
    - **Composition 3:** two-three controlled variables
 3. Use the selected repetition grid to organize your composition.
 4. Use the assigned Wong principle across the complete composition:
@@ -406,9 +423,9 @@ For each file:
 
 <!-- SECTION 4 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="review-and-export-part-1">
   <summary>
-    <span class="section-title">4. Review & Export Part 1</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Review & Export Part 1</span>
     <span class="section-description">
       Check the compositions, layers, guides, margins, and editable PDF settings before exporting and submitting Part 1.
     </span>
@@ -416,11 +433,11 @@ For each file:
 
 <div class="section-content" markdown="1">
 
-## Before submitting
+#### Before submitting
 
 > Your PDF files will be opened in Adobe Illustrator to review the document setup, layers, guides, margins, and construction of the compositions.
 
-### Check the Illustrator document structure
+##### Check the Illustrator document structure
 
 For each composition, confirm that the file contains the required layers:
 
@@ -439,7 +456,7 @@ For each composition, confirm that the file contains the required layers:
 
 > Do not leave artwork on the wrong layer or create unnecessary unnamed layers. **You may create sub-collections (or groups inside layers)** for better organization. 
 
-### Check the guides and margins
+##### Check the guides and margins
 
 Before saving the PDF:
 
@@ -453,7 +470,7 @@ Before saving the PDF:
 
 > Guides should be visible when the PDF is opened in Illustrator, but they will not appear as part of the printed or exported artwork.
 
-### Save the editable PDF
+##### Save the editable PDF
 
 Use **File → Save As → Adobe PDF**.
 
@@ -463,78 +480,20 @@ In the Adobe PDF settings, select:
 
 > This setting is required so that the layers, guides, editable vector objects, artboard, and document structure remain available when the PDF is reopened in Illustrator.
 
-### Final file check
+##### Final file check
 
 Open each submitted PDF twice:
 
-<fieldset class="equipment-checklist">
-  <legend>Final PDF checklist</legend>
+**Final PDF checklist**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the PDF in a PDF viewer.</strong>
-      Confirm that the final composition displays correctly and that no guides or construction elements appear in the exported artwork.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the PDF in Adobe Illustrator.</strong>
-      Confirm that the file opens correctly and remains editable.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the layers.</strong>
-      Confirm that the required layers remain separate, correctly named, and contain the correct material.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the grid.</strong>
-      Confirm that the grid has been converted into guides unless it is intentionally part of the visible composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the guides and margins.</strong>
-      Confirm that the grid guides and original margin guides remain available and visible in Illustrator.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check editability.</strong>
-      Confirm that all required vector objects remain editable and have not been flattened or rasterized.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the document settings.</strong>
-      Confirm that the artboard size and bleed remain correct.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Check the filename.</strong>
-      Confirm that the filename follows the required naming structure exactly.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **Check the PDF in a PDF viewer.** Confirm that the final composition displays correctly and that no guides or construction elements appear in the exported artwork.
+- [ ] **Check the PDF in Adobe Illustrator.** Confirm that the file opens correctly and remains editable.
+- [ ] **Check the layers.** Confirm that the required layers remain separate, correctly named, and contain the correct material.
+- [ ] **Check the grid.** Confirm that the grid has been converted into guides unless it is intentionally part of the visible composition.
+- [ ] **Check the guides and margins.** Confirm that the grid guides and original margin guides remain available and visible in Illustrator.
+- [ ] **Check editability.** Confirm that all required vector objects remain editable and have not been flattened or rasterized.
+- [ ] **Check the document settings.** Confirm that the artboard size and bleed remain correct.
+- [ ] **Check the filename.** Confirm that the filename follows the required naming structure exactly.
 
 </div>
 </details>
@@ -550,7 +509,7 @@ Open each submitted PDF twice:
 | Composition 2 PDF | `Lastname-Firstname-CompTech1-Part1-2.pdf` |
 | Composition 3 PDF | `Lastname-Firstname-CompTech1-Part1-3.pdf` |
 
-Incorrect filenames and file extensions, missing layers, deleted margins, grids that have not been converted into guides, flattened or non-editable PDFs, incomplete repetition, or compositions based on only one isolated super-unit will affect the grade.
+Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing layers or margins, unconverted grids, flattened or non-editable files, incomplete repetition, or compositions based on only one isolated super-unit will affect the grade.
 
 ---
 
