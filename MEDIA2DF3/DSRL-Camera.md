@@ -6,9 +6,22 @@ description: Camera setup, exposure, focus, and file-transfer instructions for t
 
 [MEDIAART 2B06](../README.md)
 
-# DSRL Camera
+# DSLR Camera
 
-This walkthrough introduces the camera controls and settings needed to use a DSRL Camera, specifically the Canon EOS Rebel T4i and T5i.
+This walkthrough introduces the controls and settings needed to use a **digital single-lens reflex (DSLR) camera**, specifically the Canon EOS Rebel T4i and T5i.
+
+## Goal
+
+Identify the camera controls, prepare the camera for the Photo Film activity, test aperture and ISO, transfer your photographs, and return the equipment safely.
+
+## Accessibility and safe use
+
+- The written instructions contain the required steps. Interactive diagrams and videos provide additional demonstrations.
+- Use the video player’s captions when available. If a video or interactive diagram is unavailable or inaccessible, follow the written steps or ask the instructor for an equivalent format.
+- Each numbered image marker is a button. Use **Tab** to move between buttons and **Enter** or **Space** to open a control description.
+- You may use a tripod, camera strap, adapted grip, remote control, screen magnification, or another assistive tool when appropriate.
+- If holding the camera, looking through the viewfinder, turning a dial, changing a lens, or completing another task creates an access barrier, contact the instructor for an adapted method, partner-assisted role, or equivalent way to demonstrate the learning outcome.
+- Turn off the camera before removing the battery, SD card, or lens. Ask for assistance if you are uncertain about a control or equipment procedure.
 
 <!-- 
 /////////////////
@@ -16,9 +29,9 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="locate-the-main-camera-controls">
   <summary>
-    <span class="section-title">1. Locate the main camera controls</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Locate the main camera controls</span>
     <span class="section-description">
       Identify the buttons, rings, and switches used during the activity.
     </span>
@@ -26,7 +39,7 @@ SECTION 1
 
   <div class="section-content" markdown="1">
 
-## Camera body
+#### Camera body
 
 <div class="interactive-image" data-interactive-image>
 
@@ -43,6 +56,7 @@ SECTION 1
       type="button"
       aria-label="Shutter button"
       aria-pressed="true"
+      aria-controls="camera-shutter"
       data-target="camera-shutter"
     >
       1
@@ -54,6 +68,7 @@ SECTION 1
       type="button"
       aria-label="Main control dial"
       aria-pressed="false"
+      aria-controls="camera-control-dial"
       data-target="camera-control-dial"
     >
       2
@@ -65,6 +80,7 @@ SECTION 1
       type="button"
       aria-label="ISO button"
       aria-pressed="false"
+      aria-controls="camera-iso"
       data-target="camera-iso"
     >
       3
@@ -76,6 +92,7 @@ SECTION 1
       type="button"
       aria-label="Mode dial"
       aria-pressed="false"
+      aria-controls="camera-mode"
       data-target="camera-mode"
     >
       4
@@ -87,6 +104,7 @@ SECTION 1
       type="button"
       aria-label="Power switch"
       aria-pressed="false"
+      aria-controls="camera-power"
       data-target="camera-power"
     >
       5
@@ -94,7 +112,7 @@ SECTION 1
 
   </div>
 
-  <div class="interactive-image__information">
+  <div class="interactive-image__information" aria-live="polite">
 
     <section
       id="camera-shutter"
@@ -103,7 +121,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 1</p>
 
-      <h3>Shutter button</h3>
+      <h3 role="heading" aria-level="5">Shutter button</h3>
 
       <p>
         Press halfway to activate autofocus. Press fully to take the
@@ -119,7 +137,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 2</p>
 
-      <h3>Main control dial</h3>
+      <h3 role="heading" aria-level="5">Main control dial</h3>
 
       <p>
         Turn this dial to change the aperture while the camera is set to
@@ -135,7 +153,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 3</p>
 
-      <h3>ISO button</h3>
+      <h3 role="heading" aria-level="5">ISO button</h3>
 
       <p>
         Press this button to open the ISO settings. Begin with ISO 100 or
@@ -151,7 +169,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 4</p>
 
-      <h3>Mode dial</h3>
+      <h3 role="heading" aria-level="5">Mode dial</h3>
 
       <p>
         Selects the camera’s shooting mode. Turn the dial to
@@ -167,7 +185,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 5</p>
 
-      <h3>Power switch</h3>
+      <h3 role="heading" aria-level="5">Power switch</h3>
 
       <p>
         Turns the camera on and off. Turn the camera off before removing
@@ -179,7 +197,7 @@ SECTION 1
 
 </div>
 
-## Lens controls
+#### Lens controls
 
 <div class="interactive-image" data-interactive-image>
 
@@ -196,6 +214,7 @@ SECTION 1
       type="button"
       aria-label="Autofocus and manual focus switch"
       aria-pressed="true"
+      aria-controls="lens-focus-switch"
       data-target="lens-focus-switch"
     >
       1
@@ -207,6 +226,7 @@ SECTION 1
       type="button"
       aria-label="Focus ring"
       aria-pressed="false"
+      aria-controls="lens-focus-ring"
       data-target="lens-focus-ring"
     >
       2
@@ -218,6 +238,7 @@ SECTION 1
       type="button"
       aria-label="Zoom ring"
       aria-pressed="false"
+      aria-controls="lens-zoom-ring"
       data-target="lens-zoom-ring"
     >
       3
@@ -229,6 +250,7 @@ SECTION 1
       type="button"
       aria-label="Image stabilization switch"
       aria-pressed="false"
+      aria-controls="lens-stabilizer"
       data-target="lens-stabilizer"
     >
       4
@@ -236,7 +258,7 @@ SECTION 1
 
   </div>
 
-  <div class="interactive-image__information">
+  <div class="interactive-image__information" aria-live="polite">
 
     <section
       id="lens-focus-switch"
@@ -245,7 +267,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 1</p>
 
-      <h3>AF/MF switch</h3>
+      <h3 role="heading" aria-level="5">AF/MF switch</h3>
 
       <p>
         Use <code>AF</code> for autofocus. Use <code>MF</code> when you
@@ -265,7 +287,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 2</p>
 
-      <h3>Focus ring</h3>
+      <h3 role="heading" aria-level="5">Focus ring</h3>
 
       <p>
         Turn this ring to adjust focus when the lens is set to
@@ -286,7 +308,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 3</p>
 
-      <h3>Zoom ring</h3>
+      <h3 role="heading" aria-level="5">Zoom ring</h3>
 
       <p>
         Turn this ring to change the focal length and adjust how much of
@@ -307,7 +329,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 4</p>
 
-      <h3>Image Stabilization switch</h3>
+      <h3 role="heading" aria-level="5">Image Stabilization switch</h3>
 
       <p>
         Turn Image Stabilization <strong>on</strong> when photographing
@@ -324,7 +346,7 @@ SECTION 1
 
 </div>
 
-## Viewing and back controls
+#### Viewing and back controls
 
 <div class="interactive-image" data-interactive-image>
 
@@ -341,6 +363,7 @@ SECTION 1
       type="button"
       aria-label="Viewfinder"
       aria-pressed="true"
+      aria-controls="back-viewfinder"
       data-target="back-viewfinder"
     >
       1
@@ -352,6 +375,7 @@ SECTION 1
       type="button"
       aria-label="LCD screen"
       aria-pressed="false"
+      aria-controls="back-lcd"
       data-target="back-lcd"
     >
       2
@@ -363,6 +387,7 @@ SECTION 1
       type="button"
       aria-label="Live View button"
       aria-pressed="false"
+      aria-controls="back-liveview"
       data-target="back-liveview"
     >
       3
@@ -374,6 +399,7 @@ SECTION 1
       type="button"
       aria-label="Menu button"
       aria-pressed="false"
+      aria-controls="back-menu"
       data-target="back-menu"
     >
       4
@@ -385,6 +411,7 @@ SECTION 1
       type="button"
       aria-label="Info button"
       aria-pressed="false"
+      aria-controls="back-info"
       data-target="back-info"
     >
       5
@@ -396,6 +423,7 @@ SECTION 1
       type="button"
       aria-label="Playback button"
       aria-pressed="false"
+      aria-controls="back-playback"
       data-target="back-playback"
     >
       6
@@ -407,6 +435,7 @@ SECTION 1
       type="button"
       aria-label="Main camera controls"
       aria-pressed="false"
+      aria-controls="back-controls"
       data-target="back-controls"
     >
       7
@@ -414,7 +443,7 @@ SECTION 1
 
   </div>
 
-  <div class="interactive-image__information">
+  <div class="interactive-image__information" aria-live="polite">
 
     <section
       id="back-viewfinder"
@@ -423,7 +452,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 1</p>
 
-      <h3>Viewfinder</h3>
+      <h3 role="heading" aria-level="5">Viewfinder</h3>
 
       <p>
         Use the viewfinder to frame the photograph while looking through
@@ -444,7 +473,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 2</p>
 
-      <h3>LCD screen</h3>
+      <h3 role="heading" aria-level="5">LCD screen</h3>
 
       <p>
         The LCD screen displays menus, live view, and captured
@@ -464,7 +493,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 3</p>
 
-      <h3>Live View button</h3>
+      <h3 role="heading" aria-level="5">Live View button</h3>
 
       <p>
         This button activates Live View so you can compose the photograph
@@ -485,7 +514,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 4</p>
 
-      <h3>Menu button</h3>
+      <h3 role="heading" aria-level="5">Menu button</h3>
 
       <p>
         Opens the camera’s main menu, where you can change settings such
@@ -501,7 +530,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 5</p>
 
-      <h3>Info button</h3>
+      <h3 role="heading" aria-level="5">Info button</h3>
 
       <p>
         Changes the information shown on the camera screen.
@@ -520,7 +549,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 6</p>
 
-      <h3>Playback button</h3>
+      <h3 role="heading" aria-level="5">Playback button</h3>
 
       <p>
         Opens your captured photographs on the LCD screen.
@@ -540,7 +569,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 7</p>
 
-      <h3>Main camera controls</h3>
+      <h3 role="heading" aria-level="5">Main camera controls</h3>
 
       <p>
         These buttons and the central <code>SET</code> button are used to
@@ -552,7 +581,7 @@ SECTION 1
 
 </div>
 
-## Bottom and lens-mount controls
+#### Bottom and lens-mount controls
 
 <div class="interactive-image" data-interactive-image>
 
@@ -569,6 +598,7 @@ SECTION 1
       type="button"
       aria-label="Battery compartment"
       aria-pressed="true"
+      aria-controls="bottom-battery"
       data-target="bottom-battery"
     >
       1
@@ -580,6 +610,7 @@ SECTION 1
       type="button"
       aria-label="Tripod mount"
       aria-pressed="false"
+      aria-controls="bottom-tripod"
       data-target="bottom-tripod"
     >
       2
@@ -587,7 +618,7 @@ SECTION 1
 
   </div>
 
-  <div class="interactive-image__information">
+  <div class="interactive-image__information" aria-live="polite">
 
     <section
       id="bottom-battery"
@@ -596,7 +627,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 1</p>
 
-      <h3>Battery compartment</h3>
+      <h3 role="heading" aria-level="5">Battery compartment</h3>
 
       <p>
         Open this compartment to insert or remove the camera battery.
@@ -616,7 +647,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 2</p>
 
-      <h3>Tripod mount</h3>
+      <h3 role="heading" aria-level="5">Tripod mount</h3>
 
       <p>
         The threaded mount connects the camera to a tripod or tripod
@@ -633,7 +664,7 @@ SECTION 1
 
 </div>
 
-## Storage and cable connections
+#### Storage and cable connections
 
 <div class="interactive-image" data-interactive-image>
 
@@ -650,6 +681,7 @@ SECTION 1
       type="button"
       aria-label="SD card slot"
       aria-pressed="true"
+      aria-controls="side-sd-card"
       data-target="side-sd-card"
     >
       1
@@ -661,6 +693,7 @@ SECTION 1
       type="button"
       aria-label="A/V output and HDMI ports"
       aria-pressed="false"
+      aria-controls="side-video-ports"
       data-target="side-video-ports"
     >
       2
@@ -672,6 +705,7 @@ SECTION 1
       type="button"
       aria-label="Microphone port"
       aria-pressed="false"
+      aria-controls="side-microphone"
       data-target="side-microphone"
     >
       3
@@ -679,7 +713,7 @@ SECTION 1
 
   </div>
 
-  <div class="interactive-image__information">
+  <div class="interactive-image__information" aria-live="polite">
 
     <section
       id="side-sd-card"
@@ -688,7 +722,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 1</p>
 
-      <h3>SD card slot</h3>
+      <h3 role="heading" aria-level="5">SD card slot</h3>
 
       <p>
         Open this cover to insert or remove the SD card used to store
@@ -709,7 +743,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 2</p>
 
-      <h3>A/V OUT and HDMI ports</h3>
+      <h3 role="heading" aria-level="5">A/V OUT and HDMI ports</h3>
 
       <p>
         Open this cover to access the camera’s digital output connections.
@@ -729,7 +763,7 @@ SECTION 1
     >
       <p class="image-information-panel__number">Control 3</p>
 
-      <h3>Microphone port</h3>
+      <h3 role="heading" aria-level="5">Microphone port</h3>
 
       <p>
         Open this cover to connect an external microphone with a compatible
@@ -750,9 +784,9 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="use-the-camera-menu-and-control-buttons">
   <summary>
-    <span class="section-title">2. Use the camera menu and control buttons</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Use the camera menu and control buttons</span>
     <span class="section-description">
       Set the camera to Aperture Priority mode and learn the buttons used to change settings and review photographs.
     </span>
@@ -760,29 +794,14 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Step 1: Turn on the camera and select Aperture Priority
+#### Step 1: Turn on the camera and select Aperture Priority
 
 Before using the back controls, turn on the camera and set the shooting mode to **Aperture Priority (Av)**.
 
-<fieldset class="equipment-checklist">
-  <legend>Camera mode checklist</legend>
+**Camera mode checklist**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Turn on the camera.</strong>
-      Move the power switch from <code>OFF</code> to <code>ON</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Set the mode dial to <code>Av</code>.</strong>
-      Turn the dial until <code>Av</code> aligns with the mode marker.
-    </span>
-  </label>
-</fieldset>
+- [ ] **Turn on the camera.** Move the power switch from OFF to ON .
+- [ ] **Set the mode dial to Av.** Turn the dial until Av aligns with the mode marker.
 
 ![Camera set to Aperture Priority mode](../MEDIAART2B06/TechWalks/imgs/aperture-mode.jpg)
 
@@ -794,9 +813,9 @@ Aperture affects how much light enters the camera and how much of the image appe
 
 ---
 
-## Step 2: Learn the main back controls
+#### Step 2: Learn the main back controls
 
-Use the interactive image below to review the buttons you will use most often.
+Use the following interactive image to review the buttons you will use most often.
 
 <div class="interactive-image" data-interactive-image>
 
@@ -813,6 +832,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Zoom out and thumbnail button"
       aria-pressed="true"
+      aria-controls="menu-zoom-out"
       data-target="menu-zoom-out"
     >
       1
@@ -824,6 +844,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Zoom in button"
       aria-pressed="false"
+      aria-controls="menu-zoom-in"
       data-target="menu-zoom-in"
     >
       2
@@ -835,6 +856,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Exposure compensation and aperture button"
       aria-pressed="false"
+      aria-controls="menu-exposure"
       data-target="menu-exposure"
     >
       3
@@ -846,6 +868,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Quick Control button"
       aria-pressed="false"
+      aria-controls="menu-q"
       data-target="menu-q"
     >
       4
@@ -857,6 +880,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="White balance button"
       aria-pressed="false"
+      aria-controls="menu-wb"
       data-target="menu-wb"
     >
       5
@@ -868,6 +892,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="SET button and navigation controls"
       aria-pressed="false"
+      aria-controls="menu-set"
       data-target="menu-set"
     >
       6
@@ -879,6 +904,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Autofocus button"
       aria-pressed="false"
+      aria-controls="menu-af"
       data-target="menu-af"
     >
       7
@@ -890,6 +916,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Playback button"
       aria-pressed="false"
+      aria-controls="menu-playback"
       data-target="menu-playback"
     >
       8
@@ -901,6 +928,7 @@ Use the interactive image below to review the buttons you will use most often.
       type="button"
       aria-label="Erase button"
       aria-pressed="false"
+      aria-controls="menu-erase"
       data-target="menu-erase"
     >
       9
@@ -908,7 +936,7 @@ Use the interactive image below to review the buttons you will use most often.
 
   </div>
 
-  <div class="interactive-image__information">
+  <div class="interactive-image__information" aria-live="polite">
 
     <section
       id="menu-zoom-out"
@@ -917,7 +945,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 1</p>
 
-      <h3>Zoom out / Thumbnail button</h3>
+      <h3 role="heading" aria-level="5">Zoom out / Thumbnail button</h3>
 
       <p>
         Use this button during playback to zoom out from an image.
@@ -936,7 +964,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 2</p>
 
-      <h3>Zoom in button</h3>
+      <h3 role="heading" aria-level="5">Zoom in button</h3>
 
       <p>
         Use this button during playback to zoom in and inspect image details.
@@ -955,7 +983,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 3</p>
 
-      <h3>Av +/- button</h3>
+      <h3 role="heading" aria-level="5">Av +/- button</h3>
 
       <p>
         This button is used for aperture and exposure-related adjustments.
@@ -978,7 +1006,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 4</p>
 
-      <h3>Q button</h3>
+      <h3 role="heading" aria-level="5">Q button</h3>
 
       <p>
         Press <code>Q</code> to open the <strong>Quick Control</strong> screen.
@@ -997,7 +1025,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 5</p>
 
-      <h3>WB button</h3>
+      <h3 role="heading" aria-level="5">WB button</h3>
 
       <p>
         Opens the white balance settings.
@@ -1016,7 +1044,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 6</p>
 
-      <h3>SET button and navigation controls</h3>
+      <h3 role="heading" aria-level="5">SET button and navigation controls</h3>
 
       <p>
         The arrow buttons move through menus and photographs.
@@ -1039,7 +1067,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 7</p>
 
-      <h3>AF button</h3>
+      <h3 role="heading" aria-level="5">AF button</h3>
 
       <p>
         Opens autofocus-related settings.
@@ -1058,7 +1086,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 8</p>
 
-      <h3>Playback button</h3>
+      <h3 role="heading" aria-level="5">Playback button</h3>
 
       <p>
         Opens your captured photographs on the LCD screen.
@@ -1077,7 +1105,7 @@ Use the interactive image below to review the buttons you will use most often.
     >
       <p class="image-information-panel__number">Control 9</p>
 
-      <h3>Erase button</h3>
+      <h3 role="heading" aria-level="5">Erase button</h3>
 
       <p>
         Deletes the currently selected photograph during playback.
@@ -1094,28 +1122,31 @@ Use the interactive image below to review the buttons you will use most often.
 
 ---
 
-## Step 3: Use the Quick Control screen
+#### Step 3: Use the Quick Control screen
 
 The <code>Q</code> button provides access to the settings used most often.
 
 ![Canon Quick Control screen](../MEDIAART2B06/TechWalks/imgs/QuickControlScreen.png)
 
-### Initial setup
+##### Initial setup
 
 1. Confirm that the shooting mode is already set to <code>Av</code>.
-2. Confirm that you are working with **Manual Focus (MF)**
-3. In your main back controls, **press WB** and Set White Balance to **Daylight** (sun icon).
-4. In your main back controls, **press Q** and set Image Quality (last lower-right option) to **RAW + JPEG**. Each photograph will create two files when using RAW + JPEG. Keep both files when transferring your work.
+2. Confirm that the lens is set to **Autofocus (AF)** unless the activity instructions or instructor ask you to use Manual Focus (MF).
+3. On the back controls, press **WB** and set White Balance to **Daylight** (sun icon).
+4. Press **Q** and set Image Quality, the lower-right option, to **RAW + JPEG**. Each photograph will create two files. Keep both files when transferring your work.
 
 > Check these settings whenever you borrow a camera. Another user may have changed them.
 
-<div class="video-wrapper">
+<div class="video-wrapper" markdown="1">
   <iframe
+    loading="lazy"
     src="https://www.youtube.com/embed/XZxC7vGaQWE?si=A5YPSkFbYKYX-90F"
     title="Canon DSLR menu and basic settings"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “Canon DSLR menu and basic settings” tutorial directly](https://www.youtube.com/watch?v=XZxC7vGaQWE)
 </div>
 
 </div>
@@ -1127,19 +1158,19 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="set-the-aperture-and-iso">
   <summary>
-    <span class="section-title">3. Set the aperture and ISO</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Set the aperture and ISO</span>
     <span class="section-description">
-      Lean what is aperture and ISO and how to change their values. 
+      Learn what aperture and ISO are and how to change their values.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## What is aperture?
+#### What is aperture?
 
-![Aperture Reference](imgs/aperture-graph.jpg)
+![Diagram showing how f-stop values change the aperture opening and depth of field](imgs/aperture-graph.jpg)
 
 Aperture is the opening inside the lens. It affects how much light enters the camera and how much of the scene appears sharp.
 
@@ -1150,51 +1181,57 @@ Aperture is measured in **f-stops**.
 
 > A smaller f-number means a wider opening. A larger f-number means a narrower opening.
 
-## Set the aperture
+#### Set the aperture
 
 1. Confirm that the shooting mode is set to <code>Av</code>.
-2. Press <strong>Q</strong> to open the Quick Control screen. Select <strong>Aperture (F#)</strong>, then turn the main control dial to change the f-stop. Watch the video below for a demonstration.
+2. Press <strong>Q</strong> to open the Quick Control screen. Select <strong>Aperture (F#)</strong>, then turn the main control dial to change the f-stop. The following video demonstrates this step.
 3. Take two photographs of the same subject using different aperture settings:
    - Use the lowest available f-number, such as <code>f/4</code> or <code>f/5.6</code>, for a blurred background.
    - Use <code>f/8</code> or <code>f/11</code> to keep more of the scene in focus.
 4. Review both photographs and compare which areas appear sharp.
 5. Repeat the process by changing the aperture one stop at a time. Keep the framing and subject position the same so you can clearly see what changes.
 
-<div class="video-wrapper">
+<div class="video-wrapper" markdown="1">
   <iframe
+    loading="lazy"
     src="https://www.youtube.com/embed/OBf9pbXMMC0?si=7cP-9zbh_uJloTqH"
     title="How to set aperture on a Canon DSLR camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “How to set aperture on a Canon DSLR camera” tutorial directly](https://www.youtube.com/watch?v=OBf9pbXMMC0)
 </div>
 
 
-## What is ISO?
+#### What is ISO?
 
-![ISO Reference](imgs/iso-graph.jpg)
+![Diagram comparing ISO values and their effects on image brightness and digital noise](imgs/iso-graph.jpg)
 
 ISO affects image brightness and visible digital noise. A higher ISO can produce a brighter image in low-light conditions, but it may also increase noise and reduce fine detail. A lower ISO produces a cleaner image, but it requires more available light, a wider aperture, or a slower shutter speed.
 
 > The goal is to find a balance: use an ISO high enough to achieve a usable exposure, but low enough to preserve detail and reduce visible noise.
 
-## Set ISO
+#### Set ISO
 
 1. Confirm that the shooting mode is set to <code>Av</code>.
-2. Press <strong>Q</strong> to open the Quick Control screen. Select <strong>ISO</strong>, then turn the main control dial to change the value. Watch the video below for a demonstration.
+2. Press <strong>Q</strong> to open the Quick Control screen. Select <strong>ISO</strong>, then turn the main control dial to change the value. The following video demonstrates this step.
 3. Take two photographs of the same subject using different ISO settings:
    - Take the first photograph at <code>ISO 100</code>, the lowest standard setting.
    - Take the second photograph at <code>ISO 6400</code> or <code>ISO 12800</code.
 4. Review both photographs and compare the amount of digital noise and fine detail. Also notice whether the camera selected a different shutter speed.
 5. Repeat the process by increasing the ISO one level at a time. Keep the framing, subject position, aperture, and lighting consistent so you can clearly see what changes.
 
-<div class="video-wrapper">
+<div class="video-wrapper" markdown="1">
   <iframe
+    loading="lazy"
     src="https://www.youtube.com/embed/VHa82yZ1Pjo?si=Sb5gCwQtmqSD3etl"
     title="How to set ISO on a Canon DSLR camera"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+
+[Open the “How to set ISO on a Canon DSLR camera” tutorial directly](https://www.youtube.com/watch?v=VHa82yZ1Pjo)
 </div>
 
 </div>
@@ -1206,9 +1243,9 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="recharge-and-return-the-camera">
   <summary>
-    <span class="section-title">4. Recharge and return the camera</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Recharge and return the camera</span>
     <span class="section-description">
       Charge the battery and return all borrowed equipment in good condition.
     </span>
@@ -1218,57 +1255,14 @@ SECTION 4
 
 Complete this checklist before returning the camera.
 
-<fieldset class="equipment-checklist">
-  <legend>Camera return checklist</legend>
+**Camera return checklist**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Confirm that your files have been transferred and backed up.</strong>
-      Make sure your photographs are saved in at least two locations before returning the equipment.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Turn off the camera.</strong>
-      Move the power switch to <code>OFF</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Replace the lens cap.</strong>
-      Make sure the cap is securely attached to protect the lens.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Recharge the battery.</strong>
-      Remove the battery from the camera, place it in the charger, and charge it fully.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Gather all borrowed equipment.</strong>
-      Check that you have the camera, battery, charger, lens, strap, and any other items included with the equipment.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Return the complete equipment kit.</strong>
-      Place all items in their case and return them in good condition.
-    </span>
-  </label>
-</fieldset>
+- [ ] **Confirm that your files have been transferred and backed up.** Make sure your photographs are saved in at least two locations before returning the equipment.
+- [ ] **Turn off the camera.** Move the power switch to OFF.
+- [ ] **Replace the lens cap.** Make sure the cap is securely attached to protect the lens.
+- [ ] **Recharge the battery.** Remove the battery from the camera, place it in the charger, and charge it fully.
+- [ ] **Gather all borrowed equipment.** Check that you have the camera, battery, charger, lens, strap, and any other items included with the equipment.
+- [ ] **Return the complete equipment kit.** Place all items in their case and return them in good condition.
 
 > Report any missing, damaged, or malfunctioning equipment when you return the camera.
 

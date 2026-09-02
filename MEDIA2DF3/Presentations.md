@@ -2,9 +2,11 @@
 
 # Student-Led Critical Discussion
 
-## Team activity · 3 students
+*Team activity — three students*
 
-**Goal:** Lead a focused **25-minute presentation and discussion activity** that connects the assigned weekly reading with the assigned artist and artwork.
+## Goal
+
+Lead a focused **25-minute presentation and discussion activity** that connects the assigned weekly reading with the assigned artist and artwork.
 
 ## Activity overview
 
@@ -17,7 +19,18 @@
 - **Enrolment:** Select one available week in advance
 - **Submission:** Slides and activity materials are due one day before the presentation
 
-> **Hard time limit:** The full session ends at **25:00**. At that point, the instructor will stop the presentation. The team will not be able to continue or complete an unfinished activity. Rehearse the complete session and plan the timing carefully.
+> **Time limit:** The complete session ends at **25:00**. The instructor will stop the session at that point, so rehearse and leave enough time for the activity and conclusion.
+
+## Accessibility and participation
+
+- Divide research, slide design, material preparation, speaking, facilitation, timekeeping, and summarizing responsibilities according to team members’ strengths and access needs. Record each member’s contribution.
+- No student is required to make eye contact, stand, project their voice without amplification, or use one specific communication method. Team members may use notes, a microphone, text-to-speech, recorded material, or another agreed format.
+- Make slides and handouts easy to read. Use clear headings, concise text, readable type, strong contrast, meaningful link text, and image captions or descriptions. Do not rely on colour alone.
+- Provide verbal descriptions of important images and visual details during the presentation. Caption or provide a transcript for required audio or video.
+- Give activity instructions in writing and explain them aloud. Allow participants to respond by speaking, writing, drawing, pointing, arranging materials, using assistive technology, or working with a partner.
+- Personal assistive technology is permitted even though the core discussion activity is non-digital.
+- If an assigned reading PDF is not compatible with your assistive technology, request an accessible copy from the instructor.
+- Contact the instructor in advance if presenting in person, handling materials, using a personal computer, or another requirement creates an access barrier.
 
 ## Enrolment process
 
@@ -25,12 +38,12 @@
 2. Review the **Readings and Artists/Artworks by Week** section below.
 3. Select one available week.
 4. Register through the enrolment link provided on Avenue to Learn.
-5. Confirm that all three team members are enroll in the correct week/group.
+5. Confirm that all three team members are enrolled in the correct week and group.
 6. Download and read the assigned text.
 7. Research the assigned artist and carefully examine the listed artwork or series.
 8. Divide the preparation and presentation responsibilities across the team.
 
-All team members must contribute meaningfully to the research, presentation, and activity.
+All team members must make a documented contribution. Contributions may take different forms when the workload remains fair and the team meets the learning outcomes.
 
 ## Recommended timing
 
@@ -38,23 +51,23 @@ All team members must contribute meaningfully to the research, presentation, and
 |---|---:|
 | Introduce the reading, author, artist, and artwork | 2 minutes |
 | Present two idea–artwork connections | 10 minutes (5 minutes each) |
-| Lead the discussion activity | 11-12 minutes |
+| Lead the discussion activity | 11–12 minutes |
 | Summarize the main takeaways | 2 minutes |
 | **Total** | **25 minutes** |
 
-## Activity stages
+## Complete the activity in three stages
 
 <details class="tutorial-section" id="prepare-presentation">
   <summary>
-    <span class="section-title">1. Prepare the presentation</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Prepare the presentation</span>
     <span class="section-description">
-      Introduce the assigned materials and develop three focused connections between the reading and artwork.
+      Introduce the assigned materials and develop two focused connections between the reading and artwork.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Introduce the reading and author
+#### Introduce the reading and author
 
 Briefly identify:
 
@@ -65,7 +78,7 @@ Briefly identify:
 
 Keep this introduction concise. Do not provide a detailed biography or summarize every section of the reading.
 
-## Introduce the artist and artwork
+#### Introduce the artist and artwork
 
 Briefly identify:
 
@@ -77,7 +90,7 @@ Briefly identify:
 
 Use clear, high-quality images. Include the title, year, and source for every image when that information is available.
 
-## Select two ideas
+#### Select two ideas
 
 Select **exactly two ideas** from the assigned reading that capture the team’s attention and help interpret the assigned artwork.
 
@@ -94,9 +107,9 @@ The two ideas do not need to represent the entire reading. Prioritize ideas that
 
 > Do not include any other artistic examples outside the assigned artist. 
 
-## Organize the presentation around connections
+#### Organize the presentation around connections
 
-Do not present a long reading summary followed by a separate artist biography. Organize the main section around three direct **idea–artwork connections**:
+Do not present a long reading summary followed by a separate artist biography. Organize the main section around two direct **idea–artwork connections**:
 
 - **Connection 1:** Reading idea + specific artistic evidence
 - **Connection 2:** Reading idea + specific artistic evidence
@@ -122,7 +135,7 @@ Avoid general statements such as “the artist uses contrast” without identify
 
 <details class="tutorial-section" id="discussion-activity">
   <summary>
-    <span class="section-title">2. Create the discussion activity</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Create the discussion activity</span>
     <span class="section-description">
       Lead a structured, hands-on activity that asks the class to apply the reading to examples by the assigned artist.
     </span>
@@ -130,7 +143,7 @@ Avoid general statements such as “the artist uses contrast” without identify
 
 <div class="section-content" markdown="1">
 
-## Activity purpose
+#### Activity purpose
 
 Create one structured, hands-on activity that helps the class examine the relationship between the assigned reading and artwork.
 
@@ -142,11 +155,11 @@ The activity must use only:
 
 > Do not introduce an unrelated artist or design example as the basis of the activity.
 
-## Hands-on activity requirement
+#### Hands-on activity requirement
 
-The activity must be completed using physical materials and in-person participation.
+The activity must be designed around physical materials and in-person participation.
 
-**Digital activities are not permitted.** Students may not be asked to use:
+Do not require the class to complete a digital activity using:
 
 - Cellphones
 - Laptops
@@ -156,11 +169,13 @@ The activity must be completed using physical materials and in-person participat
 - Websites or apps
 - Digital drawing or design software
 
-Projected images may be used only as visual references during the presentation. The activity itself must involve physical materials such as printed images, paper, cards, sticky notes, drawing tools, or movable design elements.
+Projected images may be used as visual references. The core activity must involve physical materials such as printed images, paper, cards, sticky notes, drawing tools, or movable design elements.
+
+> Students may still use personal assistive technology or an accessible equivalent format. Build more than one participation option into the activity.
 
 **The presenting team is responsible for preparing and bringing all required materials.**
 
-## Activity requirements
+#### Activity requirements
 
 The activity must:
 
@@ -171,12 +186,13 @@ The activity must:
 - Include concise instructions
 - Invite interpretation, comparison, analysis, making, or debate
 - Allow multiple supported responses
+- Provide options that do not require drawing, fine-motor manipulation, colour identification, or speaking to the full class
 - Include time for the team to hear and respond to class contributions
-- Fit within the assigned **11-12 minutes**
+- Fit within the assigned **11–12 minutes**
 
 The activity should not be a factual quiz or a series of questions answered only by the presenting team.
 
-## Possible activity formats
+#### Possible activity formats
 
 - Compare printed reproductions of two works or visual details by the assigned artist.
 - Match printed reading concepts with specific visual evidence.
@@ -189,7 +205,7 @@ The activity should not be a factual quiz or a series of questions answered only
 - Sort image details, quotations, or design decisions into physical categories.
 - Create a brief alternative composition using paper shapes, image fragments, or movable design elements.
 
-## Prepare facilitation prompts
+#### Prepare facilitation prompts
 
 Prepare two or three open-ended prompts that can support the activity.
 
@@ -204,7 +220,7 @@ Strong prompts ask students to:
 
 Avoid questions that can be answered with only “yes,” “no,” or a definition.
 
-## Plan participation
+#### Plan participation
 
 Use a structure that allows several students to contribute, such as:
 
@@ -215,8 +231,9 @@ Use a structure that allows several students to contribute, such as:
 - Physical sorting or arrangement followed by explanation
 - A show of positions followed by discussion
 - Turn-taking with a clear time limit
+- A quiet individual option with an equivalent way to share the response
 
-The presenting team must explain the instructions, distribute the materials, track the time, invite responses, ask follow-up questions, and summarize what the class discovered.
+The presenting team must explain the instructions, distribute the materials, track the time, invite responses, ask follow-up questions, and summarize what the class discovered. Divide these responsibilities across the team; one person does not need to complete every role.
 
 </div>
 </details>
@@ -224,7 +241,7 @@ The presenting team must explain the instructions, distribute the materials, tra
 
 <details class="tutorial-section" id="submission-assessment">
   <summary>
-    <span class="section-title">3. Submit the materials and review the assessment criteria</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Submit the materials and review the assessment criteria</span>
     <span class="section-description">
       Submit the presentation and activity materials, then confirm that the session meets all assessment criteria.
     </span>
@@ -232,19 +249,21 @@ The presenting team must explain the instructions, distribute the materials, tra
 
 <div class="section-content" markdown="1">
 
-## Submission deadline
+#### Submission deadline
 
 Each team must submit its materials **at least one day before the scheduled presentation**.
 
-## Submit
+#### Submit
 
 - Presentation slides as a PDF: `Week#-Presentation.pdf`
 - Discussion activity instructions as a PDF: `Week#-Discussion-Activity.pdf`
 - Printable activity materials or handouts as PDFs
 
-> Replace `W#` with the assigned week number.
+> Replace `Week#` with the assigned week number, such as `Week4-Presentation.pdf`.
 
-## Assessment criteria
+Before submitting, confirm that each PDF has selectable text, a logical reading order, readable type, strong contrast, descriptive headings, and image descriptions. Provide captions or a transcript for required audio or video.
+
+#### Assessment criteria
 
 | Criterion | Points | Expectations |
 |---|---:|---|
@@ -252,17 +271,33 @@ Each team must submit its materials **at least one day before the scheduled pres
 | **Required content and depth** | 1.5 | Includes all required components: a concise introduction to the reading and author, an introduction to the artist and artwork, and two clearly explained ideas from the reading. Demonstrates accurate understanding and examines the selected ideas in sufficient depth. |
 | **Analysis and reading–artwork connections** | 1.5 | Develops clear and meaningful connections between the two selected ideas and specific examples from the artist’s work. Uses visible evidence to explain how formal, material, conceptual, or communicative decisions relate to the reading. |
 | **Discussion activity and class participation** | 1.5 | Leads a purposeful, well-prepared, hands-on activity based only on the assigned reading and artistic examples. Provides clear instructions and successfully encourages active participation, interpretation, and discussion from the class. |
-| **Engagement, delivery, and projection** | 1.5 | Maintains class engagement throughout the presentation and activity through clear delivery, strong voice projection, effective pacing, confident facilitation, appropriate eye contact, and active interaction with participants. |
+| **Engagement, communication, and facilitation** | 1.5 | Maintains class engagement through clear communication in an agreed format, effective pacing, coordinated team roles, accessible materials and instructions, responsive facilitation, and active interaction with participants. |
 | **Total** | **7.0** | |
 
 > General summaries, unrelated examples, unsupported claims, unclear activity instructions, or exceeding the time limit will weaken the assessment.
+
+#### Final checklist
+
+- [ ] We confirmed our week, group, assigned reading, artist, and artwork.
+- [ ] Every team member made a documented contribution.
+- [ ] The presentation introduces the reading, author, artist, and artwork concisely.
+- [ ] We explain exactly two reading–artwork connections using specific evidence.
+- [ ] Every image includes a title, year, source, and useful caption or description when available.
+- [ ] Slides and handouts use readable type, strong contrast, clear headings, and do not rely on colour alone.
+- [ ] Required audio or video has captions or a transcript.
+- [ ] The activity uses the assigned reading and artist, has a clear purpose, and offers multiple ways to participate.
+- [ ] Written and spoken activity instructions are concise and easy to follow.
+- [ ] We rehearsed the complete session and can finish within 25 minutes.
+- [ ] The presentation, activity instructions, and printable materials use the required filenames and open correctly.
+
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing presentation components, inaccessible required media, or incomplete activity materials will affect the grade.
 
 </div>
 </details>
 
 <details class="tutorial-section" id="materials">
   <summary>
-    <span class="section-title">Readings and artists/artworks by week</span>
+    <span class="section-title" role="heading" aria-level="3">Readings and artists/artworks by week</span>
     <span class="section-description">
       Review the assigned reading and artistic examples for each presentation week.
     </span>
@@ -272,16 +307,16 @@ Each team must submit its materials **at least one day before the scheduled pres
 
 | Week | Reading | Assigned artist/artwork |
 |---|---|---|
-| **W2** | Dondis, D. A. (1974). [“Composition: The Syntactical Guidelines for Visual Literacy.”](readings/Reading-W2.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 20–38). MIT Press. | Ding Yi [China], *Appearance of Crosses* series |
-| **W3** | Dondis, D. A. (1974). [“The Dynamics of Contrast.”](readings/Reading-W3.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 85–103). MIT Press. | Carmen Herrera [Cuba], *Blanco y Verde* series and selected hard-edge geometric paintings |
-| **W4** | Pater, R. (2016). [“Colour and Contrast.”](readings/Reading-W4.pdf){:target="_blank"} In *The Politics of Design* (pp. 63–94). BIS Publishers. | Pacita Abad [Philippines], *European Mask* |
-| **W5** | Munari, B. (2008). [“Concave-Convex Forms,” “Continuous Structures,” “The Tetracone,” “Yang-Yin,” “Moiré,” and “Direct Projections.”](readings/Reading-W5.pdf){:target="_blank"} In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Monir Shahroudy Farmanfarmaian [Iran], *Convertible* series and selected mirror sculptures |
-| **W6** | Munari, B. (2008). [“The Square,” “The Circle,” “Theoretical Reconstructions of Imaginary Objects,” “Exercises in Topology, or Rubber-Sheet Geometry,” and “Two Fountains, Nine Spheres.”](readings/Reading-W6.pdf){:target="_blank"} In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Gyula Kosice [Czechoslovakia; active in Argentina], *Hydrospatial City* |
-| **W7** | Dondis, D. A. (1974). [“Visual Techniques: The Communication Strategies.”](readings/Reading-W7.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 104–127). MIT Press. | Ryoji Ikeda [Japan], *datamatics* series |
-| **W8** | Munari, B. (2008). [“Graphic Design.”](readings/Reading-W8.pdf){:target="_blank"} In *Design as Art* (P. Creagh, Trans., pp. 84–99). Penguin Books. Original work published 1966. | Ikko Tanaka [Japan], *Nihon Buyo*, *Kanze Noh Play*, and selected cultural-event posters |
-| **W9** | Pater, R. (2016). [“Language and Typography.”](readings/Reading-W9.pdf){:target="_blank"} In *The Politics of Design* (pp. 18–23, 26–45). BIS Publishers. | Sonny Assu [Ligwilda’xw Kwakwaka’wakw, Canada], *1UP* and selected works from *Comic Sans* |
-| **W10** | Dondis, D. A. (1974). [“The Anatomy of a Visual Message.”](readings/Reading-W10.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 67–84). MIT Press. | Norval Morrisseau [Anishinaabe, Canada], *The Storyteller: The Artist and His Grandfather* and selected paintings of animals, humans, and spirit beings |
-| **W11** | Dondis, D. A. (1974). [“The Synthesis of Visual Style.”](readings/Reading-W11.pdf){:target="_blank"} In *A Primer of Visual Literacy* (pp. 128–145). MIT Press. | Wangechi Mutu [Kenya], selected collage works and hybrid figures |
+| **W2** | Dondis, D. A. (1974). [“Composition: The Syntactical Guidelines for Visual Literacy.”](readings/Reading-W2.pdf) In *A Primer of Visual Literacy* (pp. 20–38). MIT Press. | Ding Yi [China], *Appearance of Crosses* series |
+| **W3** | Dondis, D. A. (1974). [“The Dynamics of Contrast.”](readings/Reading-W3.pdf) In *A Primer of Visual Literacy* (pp. 85–103). MIT Press. | Carmen Herrera [Cuba], *Blanco y Verde* series and selected hard-edge geometric paintings |
+| **W4** | Pater, R. (2016). [“Colour and Contrast.”](readings/Reading-W4.pdf) In *The Politics of Design* (pp. 63–94). BIS Publishers. | Pacita Abad [Philippines], *European Mask* |
+| **W5** | Munari, B. (2008). [“Concave-Convex Forms,” “Continuous Structures,” “The Tetracone,” “Yang-Yin,” “Moiré,” and “Direct Projections.”](readings/Reading-W5.pdf) In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Monir Shahroudy Farmanfarmaian [Iran], *Convertible* series and selected mirror sculptures |
+| **W6** | Munari, B. (2008). [“The Square,” “The Circle,” “Theoretical Reconstructions of Imaginary Objects,” “Exercises in Topology, or Rubber-Sheet Geometry,” and “Two Fountains, Nine Spheres.”](readings/Reading-W6.pdf) In *Design as Art* (P. Creagh, Trans.). Penguin Books. Original work published 1966. | Gyula Kosice [Czechoslovakia; active in Argentina], *Hydrospatial City* |
+| **W7** | Dondis, D. A. (1974). [“Visual Techniques: The Communication Strategies.”](readings/Reading-W7.pdf) In *A Primer of Visual Literacy* (pp. 104–127). MIT Press. | Ryoji Ikeda [Japan], *datamatics* series |
+| **W8** | Munari, B. (2008). [“Graphic Design.”](readings/Reading-W8.pdf) In *Design as Art* (P. Creagh, Trans., pp. 84–99). Penguin Books. Original work published 1966. | Ikko Tanaka [Japan], *Nihon Buyo*, *Kanze Noh Play*, and selected cultural-event posters |
+| **W9** | Pater, R. (2016). [“Language and Typography.”](readings/Reading-W9.pdf) In *The Politics of Design* (pp. 18–23, 26–45). BIS Publishers. | Sonny Assu [Ligwilda’xw Kwakwaka’wakw, Canada], *1UP* and selected works from *Comic Sans* |
+| **W10** | Dondis, D. A. (1974). [“The Anatomy of a Visual Message.”](readings/Reading-W10.pdf) In *A Primer of Visual Literacy* (pp. 67–84). MIT Press. | Norval Morrisseau [Anishinaabe, Canada], *The Storyteller: The Artist and His Grandfather* and selected paintings of animals, humans, and spirit beings |
+| **W11** | Dondis, D. A. (1974). [“The Synthesis of Visual Style.”](readings/Reading-W11.pdf) In *A Primer of Visual Literacy* (pp. 128–145). MIT Press. | Wangechi Mutu [Kenya], selected collage works and hybrid figures |
 
 </div>
 </details>
