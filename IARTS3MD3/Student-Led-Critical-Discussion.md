@@ -399,6 +399,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 **Artist and artwork:** Félix González-Torres [Cuba–USA], *Untitled (Portrait of Ross in L.A.)* (1991)
 
+---
+
 #### Week 3
 
 **Reading 1:** Haraway, D. (1988). [“Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.”](readings/Reading-W3a.pdf) *Feminist Studies, 14*(3), 575–599.
@@ -406,6 +408,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 **Reading 2:** Tuck, E. (2009). [“Suspending Damage: A Letter to Communities.”](readings/Reading-W3b.pdf) *Harvard Educational Review, 79*(3), 409–427.
 
 **Artist and artwork:** Mónica Mayer [Mexico], *El Tendedero/The Clothesline Project* (1978–ongoing)
+
+---
 
 #### Week 5
 
@@ -415,6 +419,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 **Artist or collective:** The ArQuives: Canada’s LGBTQ2+ Archives [Canada]
 
+---
+
 #### Week 6
 
 **Reading 1:** Russell, L. (2020). [“Glitch Refuses.”](readings/Reading-W6a.pdf) In *Glitch Feminism: A Manifesto*. Verso.
@@ -422,6 +428,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 **Reading 2:** Noble, S. U. (2018). [“A Society, Searching.”](readings/Reading-W6b.pdf) In *Algorithms of Oppression: How Search Engines Reinforce Racism* (pp. 15–63). New York University Press.
 
 **Artist and artwork:** Rosa Menkman [Netherlands], *The Collapse of PAL* (2010–2012)
+
+---
 
 #### Week 7
 
@@ -431,6 +439,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 **Artist and artwork:** Christine Sun Kim [USA], *Face Opera II* (2013) and selected sound drawings
 
+---
+
 #### Week 8
 
 **Reading 1:** Simpson, L. B. (2014). [“Land as Pedagogy: Nishnaabeg Intelligence and Rebellious Transformation.”](readings/Reading-W8a.pdf) *Decolonization: Indigeneity, Education & Society, 3*(3), 1–25.
@@ -439,6 +449,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 **Artists and project:** Jackson 2Bears [Kanien’kehá:ka] and January Rogers [Mohawk/Tuscarora], *For This Land* (2015–2023)
 
+---
+
 #### Week 9
 
 **Reading 1:** Lorde, A. (1984). [“Uses of the Erotic: The Erotic as Power.”](readings/Reading-W9a.pdf) In *Sister Outsider* (pp. 53–59). Crossing Press.
@@ -446,6 +458,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 **Reading 2:** Anzaldúa, G. (1987). [“La Conciencia de la Mestiza: Towards a New Consciousness.”](readings/Reading-W9b.pdf) In *Borderlands/La Frontera: The New Mestiza*. Aunt Lute Books.
 
 **Artist and artwork:** Jenny Granado/Kebra [Brazil], *Desculonización*
+
+---
 
 #### Week 11-A
 
@@ -462,6 +476,8 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 **Reading 2:** Buolamwini, J., & Gebru, T. (2018). [“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.”](readings/Reading-W11b-2.pdf) *Proceedings of Machine Learning Research, 81*, 77–91.
 
 **Artists and artwork:** Jake Elwes in collaboration with Me The Drag Queen [UK], *Zizi & Me* (2020)
+
+---
 
 #### Week 12-A
 
