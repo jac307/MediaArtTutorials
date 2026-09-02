@@ -1,10 +1,16 @@
 [IARTS 3MD3](../README.md) | [Project 1 Overview](README.md)
 
-### P1: Critical Research-Creation Profile · Pairs
+### P1: Critical Research-Creation Profile
 
 # Version 1: Research Direction
 
-**Goal:** Choose an artist or collective and **establish a clear starting point for your research**. You will identify the questions, artworks, and sources that will guide the next version of the project.
+**Work format:** Pairs  
+**Submission:** One PDF and one presentation slide per pair  
+**Presentation length:** One minute
+
+## Goal
+
+Choose an artist or collective and **establish a clear starting point for your research**. Identify the research questions, artworks, and sources that will guide the next version of the project.
 
 > This is an initial proposal. Your direction may change as you read, discuss the work, and receive feedback.
 
@@ -16,23 +22,21 @@
 - A source map with eight sources
 - A one-slide rapid presentation
 
-## Division of labour
+## How to divide the work
 
-**Both partners are responsible for the research direction and final document**. Divide the initial source work as follows:
+**Both partners are responsible for the research direction and the complete submission**. Divide the initial research as follows:
 
 | Partner A | Partner B |
 |---|---|
-| Review one course reading | Review one course reading |
-| Find and assess one academic source | Find and assess one academic source |
-| Find and assess one primary artist source | Find and assess one primary artist source |
-| Find and assess one critical or contextual source | Find and assess one critical or contextual source |
-| Take the lead on one selected artwork | Take the lead on one selected artwork |
+| Review one course reading | Review one different course reading |
+| Find and assess one academic source | Find and assess one different academic source |
+| Find and assess one primary artist source | Find and assess one different primary artist source |
+| Find and assess one critical or contextual source | Find and assess one different critical or contextual source |
+| Lead the initial research on one selected artwork | Lead the initial research on the other selected artwork |
 
 > Do not divide the project into two isolated halves. Each partner should understand the full research direction and be able to explain the source choices.
 
-## Activity stages
-
-Complete the following stages in order.
+## Complete the assignment in three stages
 
 <details class="tutorial-section" id="research-direction">
   <summary>
@@ -44,58 +48,59 @@ Complete the following stages in order.
 
 <div class="section-content" markdown="1">
 
-## Select an artist or collective
+## Choose an artist or collective
 
-Choose one artist or collective from the course list (available on Avenue To Learn). Each pair must select an available option that has not already been claimed.
+Choose one artist or collective from the course list on Avenue to Learn. Each artist or collective may be selected by only one pair.
 
 Before confirming your choice:
 
-1. Look at several examples of the artist's work.
+1. Look at several examples of the artist’s work.
 2. Read a short biography or artist statement.
 3. Discuss what interests both partners.
-4. Confirm the selection using the class enrolment process.
+4. Use the class sign-up process to confirm that your choice is available.
 
 ## Write the research proposal
 
-Write **250–300 words** addressing the following:
+Write a **250–300-word proposal** that answers these questions:
 
 - Why did you select this artist or collective?
 - What part of their practice will you examine?
-- What themes, methods, materials, technologies, or questions interest you?
+- Which themes, methods, materials, technologies, or questions interest you?
 - What do you hope to learn through this research?
 
-Keep the proposal focused. Do not try to cover the artist’s entire career.
+Focus on a specific part of the artist’s practice. Do not try to cover their entire career.
 
-> Write the proposal in your own words using clear and specific language. Avoid overly complicated descriptions, broad statements, and general claims that could apply to any artist. Explain your ideas directly and support them with details from the artist’s practice.
+> Write in your own words. Use clear and specific language. Avoid broad claims that could apply to any artist. Support your ideas with details from the artist’s practice.
 
 ## Develop the research questions
 
 Write:
 
 - **One main research question** that identifies the focus of the profile
-- **One-Two supporting questions** that address specific parts of the artist's work
+- **One or two supporting questions** that examine specific parts of the artist’s work
 
-Questions may address:
+Your questions may address:
 
-- Artistic methods, materials, or technologies
-- Cultural, social, political, or historical context
-- Representation, positionality, or self-representation
-- Audience, site, participation, or collaboration
-- Care, consent, refusal, access, or accountability
-- The relationship between form and meaning
+- artistic methods, materials, or technologies;
+- cultural, social, political, or historical context;
+- representation or self-representation;
+- positionality: how a person’s identity, experiences, social position, and relationship to a subject shape their perspective;
+- audience, site, participation, or collaboration;
+- care, consent, refusal, access, or accountability; or
+- the relationship between form and meaning.
 
-Avoid questions that can be answered with a fact or with only “yes” or “no.”
+Use open-ended questions that require interpretation and analysis. Avoid questions that can be answered with a fact or only “yes” or “no.”
 
 ## Select two artworks or projects
 
 For each work, include:
 
-- Title and year
-- Medium or format
-- A link to a reliable source
-- Two or three sentences explaining why the work is relevant to your research direction
+- title and year;
+- medium or format;
+- a link to a reliable source; and
+- two or three sentences explaining how the work connects to your research direction.
 
-> This selection is preliminary. You may change it in the next version if your research leads elsewhere.
+> This selection is preliminary. You may change one or both works in Version 2 if your research develops in another direction.
 
 </div>
 </details>
@@ -110,110 +115,112 @@ For each work, include:
 
 <div class="section-content" markdown="1">
 
+A **source map** is a table that records what each source contributes and how you may use it in the project.
+
 ## Source requirements
 
-Select **eight sources**. You may include up to **ten** if the additional sources are directly useful.
+Include **eight different sources**. You may include up to two additional sources if they directly support your project.
 
-| Source type | Required | Purpose |
+| Source type | Number required | Purpose |
 |---|---:|---|
 | **Course readings** | 2 | Provide concepts or critical approaches from the [Student-Led Critical Discussion](../Student-Led-Critical-Discussion-IARTS3MD3.md){:target="_blank"} reading list. |
-| **Additional academic sources** | 2 | Provide scholarly research about the artist, relevant art practices, or the cultural and political context. |
-| **Primary artist sources** | 2 | Provide the artist's own account of their work, ideas, methods, or intentions. |
-| **Critical or contextual sources** | 2 | Provide reviews, curatorial interpretations, exhibition histories, or public discussion of the work. |
-
-## What counts as each type of source?
+| **Additional academic sources** | 2 | Provide scholarly research about the artist, a relevant art practice, or the cultural and political context. |
+| **Primary artist sources** | 2 | Present the artist’s own account of their work, ideas, methods, or intentions. |
+| **Critical or contextual sources** | 2 | Provide reviews, curatorial interpretations, exhibition histories, or public discussions of the work. |
 
 ### Course readings
 
-Select two readings from the course list that may help you interpret the artist's work. At this stage, skim the readings and explain why they may be useful. Close analysis will begin in Version 2.
+Select two readings from the course list that may help you interpret the artist’s work. At this stage, skim each reading and explain why it may be useful. You will begin a closer analysis in Version 2.
 
 ### Additional academic sources
 
-Use peer-reviewed journal articles, academic book chapters, scholarly exhibition catalogues, or conference papers. Search through [McMaster Library databases](https://library.mcmaster.ca/databases){:target="_blank"} or [Google Scholar](https://scholar.google.com/){:target="_blank"}.
+Choose peer-reviewed journal articles, academic book chapters, scholarly exhibition catalogues, or conference papers. Search through the [McMaster Library databases](https://library.mcmaster.ca/databases){:target="_blank"} or [Google Scholar](https://scholar.google.com/){:target="_blank"}.
 
-> The source does not need to be only about the artist. It may address a related practice, concept, history, community, or context.
+> An academic source does not need to focus only on your selected artist. It may address a related practice, concept, history, community, or context.
 
 ### Primary artist sources
 
-Use sources in which the artist or collective presents or discusses their own work, such as:
+A **primary artist source** presents the artist’s or collective’s own words, work, or perspective. Examples include:
 
-- An official website or project page
-- An artist statement
-- An interview or artist talk
-- An essay written by the artist
-- A recorded lecture, performance, or conversation
+- an official website or project page;
+- an artist statement;
+- an interview or artist talk;
+- an essay written by the artist; or
+- a recorded lecture, performance, or conversation involving the artist.
 
-> A gallery or museum page is not automatically a primary artist source. Check who wrote the text and whose perspective it represents.
+> A gallery or museum page is not automatically a primary artist source. Check who created the content and whose perspective it presents.
 
 ### Critical or contextual sources
 
-Use credible material such as:
+A **critical or contextual source** discusses or interprets the artist, artwork, or its broader context. Examples include:
 
-- Exhibition or catalogue essays
-- Reviews in established arts publications
-- Museum or gallery texts
-- Documentaries, podcasts, or recorded conversations
-- Articles from cultural organizations or reputable media
+- exhibition or catalogue essays;
+- reviews in established arts publications;
+- museum or gallery texts;
+- documentaries, podcasts, or recorded conversations; or
+- articles from cultural organizations or reputable media.
 
-> Avoid unattributed pages, copied biographies, promotional summaries with no author, or sources that provide only basic facts.
+> Do not use unattributed pages, copied biographies, promotional summaries without an author, or sources that provide only basic facts.
 
-## Read enough to assess each source
+### Read enough to assess each source
 
 Do more than save a link. For each source:
 
 1. Skim the abstract, introduction, or opening section.
-2. Review the headings, examples, and conclusion when available.
-3. Identify the main point or information it provides.
-4. Decide how it may help your project.
-5. Note any limits, missing context, or questions about the source.
+2. Review the headings, examples, and conclusion, when available.
+3. Identify the source’s main point or useful information.
+4. Decide how the source may help your project.
+5. Note any limitations, missing context, or questions you have about the source.
 
-> Do not use generated summaries in place of reading the source, as summaries may omit important arguments, examples, context, or limitations needed for your research.
+> Do not use an AI-generated or other generated summary instead of reading the source. A generated summary may omit arguments, examples, context, or limitations that you need for your research.
 
-## Complete the source map
+### Complete the source map
 
-Use the following structure:
+For each source, complete one row using this structure:
 
-| APA reference and link | Source type | What the source provides | How it may be used |
+| APA reference and link | Source type | What the source provides | How you may use it |
 |---|---|---|---|
-| Complete reference | Course, academic, primary artist, or critical/contextual | Summarize the useful information or argument in two or three sentences. | Explain how it may support a question, artwork analysis, or section of the profile. |
+| Complete reference and accessible link | Course reading, academic, primary artist, or critical/contextual | Summarize the useful information or argument in two or three sentences. | Explain how the source may support a research question, artwork analysis, or section of the profile. |
 
-> Write the notes in your own words.
+Write all notes in your own words.
 
-### Example
+#### Source-map example
 
-| APA reference and link | Source type | What the source provides | How it may be used |
+| APA reference and link | Source type | What the source provides | How you may use it |
 |---|---|---|---|
-| Tuck, E. (2009). “Suspending Damage: A Letter to Communities.” *Harvard Educational Review, 79*(3), 409–427. | Course reading | Tuck explains how research can focus too much on the pain and damage experienced by marginalized communities. She argues that researchers should also consider people’s knowledge, desires, goals, and experiences beyond trauma (pp. 409–413). | We could use this reading to think about how Mónica Mayer shares stories of harassment in *El Tendedero*. It may help us ask whether the work gives participants space to be understood beyond their experiences of violence and what responsibilities the artist has when displaying their personal stories. |
+| Tuck, E. (2009). “Suspending Damage: A Letter to Communities.” *Harvard Educational Review, 79*(3), 409–427. | Course reading | Tuck explains how research can focus too heavily on the pain and damage experienced by marginalized communities. She argues that researchers should also consider people’s knowledge, desires, goals, and experiences beyond trauma (pp. 409–413). | We could use this reading to consider how Mónica Mayer shares stories of harassment in *El Tendedero*. It may help us ask whether the work allows participants to be understood beyond their experiences of violence and what responsibilities the artist has when displaying personal stories. |
 
 ## Use sources ethically
 
-- Distinguish between what the artist says and how another writer interprets the work.
-- Do not assume the artist's identity, intentions, beliefs, or community relationships.
-- Do not reduce the artist or community to oppression, trauma, or identity categories.
-- Consider who produced each source, whose perspective is centred, and what may be missing.
+- Separate the artist’s statements from another writer’s interpretation.
+- Do not assume the artist’s identity, intentions, beliefs, or relationships with communities.
+- Do not reduce an artist or community to oppression, trauma, or identity categories.
+- Consider who created each source, whose perspective is centred, and which perspectives may be missing.
 
-## APA references and Google Scholar Button
+## Use APA 7th edition
 
-Use the [McMaster University Library APA Style Guide](https://libguides.mcmaster.ca/APA){:target="_blank"} to check the required formats for books, chapters, journal articles, websites, videos, and other sources. Follow **APA 7th edition** for both in-text citations and the reference list.
+Use the [McMaster University Library APA Style Guide](https://libguides.mcmaster.ca/APA){:target="_blank"} to check formats for books, chapters, journal articles, websites, videos, and other sources. Use **APA 7th edition** for in-text citations and the reference list.
 
-### Install and use Google Scholar Button
+## Optional tool: Google Scholar Button
 
-Install the [Google Scholar Button](https://chromewebstore.google.com/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn){:target="_blank"} in Google Chrome:
+The Google Scholar Button can help you create a draft reference. It is optional.
 
-1. Open the extension page and select **Add to Chrome**.
-2. Pin the Scholar Button to the browser toolbar.
-3. Open a source webpage or highlight the title of an article, book, or chapter.
+To use it in Google Chrome:
+
+1. Install the [Google Scholar Button](https://chromewebstore.google.com/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn){:target="_blank"}.
+2. Pin the button to the browser toolbar.
+3. Open the source webpage, or highlight the title of an article, book, or chapter.
 4. Select the Scholar Button to search for the source.
-5. Select the quotation-mark icon under the correct result and choose **APA**.
+5. Under the correct result, select the quotation-mark icon and choose **APA**.
 6. Copy the reference and add the source link or DOI.
 
-> Google Scholar citations may contain errors or missing information. Always compare the generated reference with the source and the [McMaster APA guide](https://libguides.mcmaster.ca/APA){:target="_blank"} before submitting.
+Google Scholar citations may contain errors or missing information. Compare the generated reference with the original source and the [McMaster APA guide](https://libguides.mcmaster.ca/APA){:target="_blank"} before submitting.
 
 <iframe
-  width="60%"
-  style="aspect-ratio: 16 / 9;"
+  width="100%"
+  style="max-width: 800px; aspect-ratio: 16 / 9;"
   src="https://www.youtube.com/embed/TN5vda15LAw?si=kKMtVCoufJI_q_2N"
-  title="YouTube video player"
+  title="Video tutorial: Using the Google Scholar Button to create an APA reference"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   referrerpolicy="strict-origin-when-cross-origin"
@@ -235,47 +242,60 @@ Install the [Google Scholar Button](https://chromewebstore.google.com/detail/goo
 
 ## Review the complete document
 
-- [ ] Read the full proposal and source map.
-- [ ] Check every citation and link.
-- [ ] Confirm that the research questions connect with the selected artworks and sources.
-- [ ] Revise the document together so it reads as one project.
+Before submitting, confirm that your pair has completed each item:
+
+- [ ] We read the full proposal and source map.
+- [ ] We checked every citation and link.
+- [ ] We confirmed that the research questions connect to the selected artworks and sources.
+- [ ] We revised the document together so it reads as one project.
+- [ ] We confirmed that the PDF is readable and accessible.
 
 Both partners are responsible for the accuracy and completion of the full document.
 
-## Submission document
+## Prepare the Version 1 PDF
 
-Export one PDF (`P1_Research-Direction.pdf`) per pair containing:
+Submit one PDF (`P1_Research-Direction.pdf`) per pair. Put the following information in this order:
 
 1. Both partners’ full names and student numbers
-2. Artist or collective name
-3. Research proposal
-4. Main and supporting research questions
-5. Preliminary artwork selection
-6. Source map
+2. The name of the artist or collective
+3. The 250–300-word research proposal
+4. The main and supporting research questions
+5. The two preliminary artwork selections
+6. The source map
+7. A text version of the presentation slide’s content, including the artwork titles and image credits
 
-> One partner submits the files on behalf of the pair.
+Make the PDF accessible:
 
-## One-minute in-class presentation
+- Export it as a text-based PDF, not as scanned pages or screenshots.
+- Make sure the text can be selected and searched.
+- Use clear headings and a consistent reading order.
+- Use a readable font and sufficient contrast between text and background.
+- Keep links clickable and give them descriptive names.
+- Include a short caption or image description for each image needed to understand the research.
 
-During the following lecture, each pair will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
+> One partner will submit both files on behalf of the pair.
 
-Prepare **one slide in image format** containing:
+## Prepare the one-minute presentation
 
-- The selected artist or collective
-- The proposed research focus in one line
-- The main research question
-- Images of the two preliminary artworks or projects
+During the next lecture, each pair will give a **one-minute presentation**. Presentations will take place one after another. There will be no questions or class discussion after each presentation.
 
-## Slide requirements
+The slide must include:
+
+- the selected artist or collective;
+- the proposed research focus in one sentence;
+- the main research question;
+- images of the two preliminary artworks or projects; and
+- the title, year, and image credit for each artwork.
+
+Slide format and design requirements:
 
 - Submit one `.JPG` or `.PNG` image.
-- Use a 16:9 format, preferably `1920 × 1080 px`.
-- Keep the text brief and readable.
-- Include the title, year, and image credit for each artwork.
-- Choose one speaker for this presentation.
-- The presentation must not exceed **one minute**.
-- There will be no questions or discussion after each presentation.
-- Name: `P1_Research-Direction-Slide.jpg` or `P1_Research-Direction-Slide.png`
+- Use a 16:9 format. The recommended size is `1920 × 1080 px`.
+- Use large, readable text and strong contrast between the text and background.
+- Keep text brief and do not place important text over a visually complex image.
+- Include all slide text, artwork titles, and image credits in the Version 1 PDF so a text-based version is available.
+
+Choose one speaker, or divide the speaking between both partners. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
 > Slides must be submitted in advance so they can be presented in sequence without changing computers.
 
@@ -291,7 +311,16 @@ Prepare **one slide in image format** containing:
 | Version 1 document | `P1_Research-Direction.pdf` |
 | Presentation slide | `P1_Research-Direction-Slide.jpg` or `P1_Research-Direction-Slide.png` |
 
-> Incorrect filenames or file extensions, missing sections, incomplete citations, missing media credits, inaccessible links, or a slide that does not follow the required format will affect the grade.
+Before submitting, check that:
+
+- [ ] Both files use the required filenames and extensions.
+- [ ] The PDF contains every required section.
+- [ ] Citations and media credits are complete.
+- [ ] Links work and can be opened by the instructor.
+- [ ] Both files open correctly.
+- [ ] The slide follows the required format.
+
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing sections, citations, media credits, or slide requirements will affect the grade.
 
 ---
 
