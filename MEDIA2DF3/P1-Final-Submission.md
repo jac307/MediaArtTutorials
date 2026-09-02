@@ -1,9 +1,10 @@
-[← MEDIA 2DF3](README.md) | [Project 1](P1-README.md)
+[← MEDIAART 2DF3](README.md) | [Project 1](P1-README.md)
 
 ---
 
-<h1 style="color: darkred;">P1 – Final Submission: Assembly, Exhibition & Documentation</h1>  
-*Group Project – 4 students per group*
+# P1 – Final Submission: Assembly, Exhibition & Documentation
+
+*Group project — four students per group*
 
 ---
 
@@ -22,6 +23,14 @@ Your final grade will consider the complete development of the project, includin
 - Exhibition presentation
 - Quality and consistency of the final documentation
 
+## Accessibility and participation options
+
+- Divide painting, assembly, photography, documentation, installation, and visitor-engagement responsibilities across the group. Record each student’s contributions.
+- You may use prepared notes, written or digital supporting material, assistive technology, or another agreed communication method when discussing the work.
+- If lifting, carrying, assembly, installation, standing for long periods, speaking with visitors, photography, or another required process creates an access barrier, contact the instructor early to arrange an equivalent role.
+- Keep exhibition travel paths, entrances, doors, and signs clear. Secure the sculpture and materials so they do not create trip, sharp-edge, or falling-object hazards.
+- Make the final PDF text-based where possible. Use readable type, strong contrast, descriptive headings, a logical reading order, and captions or image descriptions.
+
 ---
 
 <!-- 
@@ -30,9 +39,9 @@ PART 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="part-1-assemble-and-bring-the-sculpture-for-the-class-exhibition">
   <summary>
-    <span class="section-title">Part 1. Assemble and bring the sculpture for the Class Exhibition</span>
+    <span class="section-title" role="heading" aria-level="3">Part 1: Assemble and bring the sculpture to the class exhibition</span>
     <span class="section-description">
       Complete the painting and assembly of the sculpture and bring the finished work to the final class exhibition.
     </span>
@@ -40,13 +49,13 @@ PART 1
 
 <div class="section-content" markdown="1">
 
-## Complete the painting
+#### Complete the painting
 
 Before assembling the sculpture, complete the painting of all planes, the base, and any additional structural components.
 
 Follow the **approved colour palette** from Part 2.
 
-### Painting requirements
+##### Painting requirements
 
 - Use the approved **hand-mixed colours**.
 - Apply a **white base coat** before the final colours where required.
@@ -59,7 +68,7 @@ Follow the **approved colour palette** from Part 2.
 
 > Visible brush strokes, inconsistent coverage, unintended colour changes, or unfinished surfaces may result in **grade deductions**.
 
-## Assemble the sculpture
+#### Assemble the sculpture
 
 Once all components are fully painted and dry:
 
@@ -73,7 +82,7 @@ Once all components are fully painted and dry:
 
 > The final assembly should reflect the structural and compositional decisions developed during Parts 1 and 2.
 
-## Class Exhibition
+#### Class Exhibition
 
 Your group must bring the **fully completed sculpture to the final class exhibition**.
 
@@ -85,7 +94,7 @@ The sculpture must be:
 - Structurally stable
 - Ready to exhibit when brought to class
 
-> **Bringing the completed sculpture to the final class exhibition is a required part of the project. Failure to bring the work to the exhibition, or bringing an incomplete project, will result in a grade deduction.**
+> Bringing the completed sculpture to the final class exhibition is required. Contact the instructor as early as possible if an approved circumstance prevents the group from bringing or installing it as scheduled.
 
 During the exhibition, the instructor will evaluate the physical work, including:
 
@@ -107,9 +116,9 @@ PART 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="part-2-complete-and-submit-the-final-project-1-documentation">
   <summary>
-    <span class="section-title">Part 2. Complete and submit the final Project 1 documentation</span>
+    <span class="section-title" role="heading" aria-level="3">Part 2: Complete and submit the final Project 1 documentation</span>
     <span class="section-description">
       Update the InDesign document with the final palette, professional photographs, and documentation of the sculpture in the class exhibition.
     </span>
@@ -125,7 +134,7 @@ You must create a **final version of the complete Project 1 document** that reco
 
 ---
 
-## 1. Create a title page
+#### 1. Create a title page
 
 Create a **title page at the beginning of the document** using **two professional photographs** of the completed sculpture from **two distinctive perspectives**.
 
@@ -146,18 +155,23 @@ The photographs should document the **sculpture itself rather than the exhibitio
 
 > The two images should be arranged as part of a **visually cohesive title-page design** and should establish the visual identity of the final documentation.
 
-### Photography requirements
+##### Photography requirements
 
-- [Available Equipment](Equipment.md)
-- [DSLR Camera Introduction to Camera Parts and Settings](DSRL-Camera.md)
+- [Available photography equipment](Equipment.md)
+- [DSLR camera: introduction to camera parts and settings](DSRL-Camera.md)
 
 Consider consistency across both photographs:
 
-|  |  |  |
-|---|---|---|
-| Lighting | Background | Framing |
-| Camera angle | Image quality | Colour consistency |
-| Focus | Scale | Visual presentation |
+- Lighting
+- Background
+- Framing
+- Camera angle
+- Image quality
+- Colour consistency
+- Focus
+- Scale
+- Visual presentation
+
 
 The photographs should:
 
@@ -170,7 +184,7 @@ The photographs should:
 
 ---
 
-## 2. Add the final scanned colour palette
+#### 2. Add the final scanned colour palette
 
 Under the existing **Colour** section, add the **final approved version of the scanned physical colour palette**.
 
@@ -180,7 +194,7 @@ If your group revised the palette after instructor feedback, include the **final
 
 ---
 
-## 3. Add an Exhibition Documentation page
+#### 3. Add an Exhibition Documentation page
 
 Create a separate page documenting the sculpture as it appeared in the **Class Exhibition**.
 
@@ -193,6 +207,8 @@ The page must include:
 
 The exhibition photographs should show the relationship between the sculpture and its display environment.
 
+Frame photographs to avoid identifiable visitors unless they have agreed to be photographed and included in the documentation.
+
 Possible images may include:
 
 - Full view of the installed sculpture
@@ -200,7 +216,7 @@ Possible images may include:
 - Different perspective of the work in context
 - Installation or display detail
 
-## Image size and layout
+#### Image size and layout
 
 All photographs must be large enough to evaluate clearly.
 
@@ -216,89 +232,31 @@ All photographs must be large enough to evaluate clearly.
 
 ---
 
-## Final document check
+#### Final document check
 
-<fieldset class="equipment-checklist">
-  <legend>Final Documentation Check</legend>
+**Final Documentation Check**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The title page is complete.</strong>
-      The document begins with the title of the work, group members' names, and two professional photographs of the sculpture from distinctive perspectives.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The two professional photographs are visually consistent.</strong>
-      Both images use a plain, neutral background and maintain consistent lighting, colour, framing, image quality, and presentation.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The complete Project 1 process is documented.</strong>
-      The PDF includes the planning, development, colour approach, and final outcome.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The final colour palette is included.</strong>
-      The approved scanned palette appears under the Colour section.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Exhibition Documentation page is complete.</strong>
-      It includes the exhibition name, date, location, and 3–4 photographs of the sculpture in context.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The photographs are appropriately sized.</strong>
-      Images occupy approximately 1/3 of a page at the largest and 1/4 of a page at the smallest.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The document design is consistent.</strong>
-      Typography, hierarchy, margins, alignment, spacing, image placement, and overall visual structure remain cohesive throughout the PDF.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The PDF has been reviewed before submission.</strong>
-      All text and images display correctly, image proportions are preserved, and there are no missing or incorrectly positioned elements.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **The title page is complete.** The document begins with the title of the work, group members' names, and two professional photographs of the sculpture from distinctive perspectives.
+- [ ] **The two professional photographs are visually consistent.** Both images use a plain, neutral background and maintain consistent lighting, colour, framing, image quality, and presentation.
+- [ ] **The complete Project 1 process is documented.** The PDF includes the planning, development, colour approach, and final outcome.
+- [ ] **The final colour palette is included.** The approved scanned palette appears under the Colour section.
+- [ ] **The Exhibition Documentation page is complete.** It includes the exhibition name, date, location, and 3–4 photographs of the sculpture in context.
+- [ ] **The photographs are appropriately sized.** Images occupy approximately 1/3 of a page at the largest and 1/4 of a page at the smallest.
+- [ ] **The document design is consistent.** Typography, hierarchy, margins, alignment, spacing, image placement, and overall visual structure remain cohesive throughout the PDF.
+- [ ] **The PDF has been reviewed before submission.** All text and images display correctly, image proportions are preserved, and there are no missing or incorrectly positioned elements.
 
 </div>
 </details>
 
 ---
 
-## Final Submission
+## Final submission
 
-### Part 1 – In Person
+### Part 1 – In person
 
 Bring the **fully painted and assembled sculpture** to the final Class Exhibition.
 
-> **Failure to bring the completed sculpture to the Class Exhibition will result in a grade deduction.**
+> The completed sculpture is a required part of the in-person submission. Missing or incomplete work without an approved alternative will affect the grade.
 
 ### Part 2 – Avenue to Learn
 
@@ -328,7 +286,7 @@ The final PDF must include:
    - Location
    - 3–4 photographs of the sculpture in context
 
-> **Failure to follow the documentation, exhibition, image, or naming requirements may result in grade deductions.**
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing documentation, exhibition evidence, or image requirements will affect the grade.
 
 ---
 

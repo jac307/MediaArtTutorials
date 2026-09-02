@@ -2,11 +2,12 @@
 
 ---
 
-<h1 style="color: darkred;">P1 – In-Class Work II: Colour Planning, Palette Testing & Production</h1>  
-*Group Project – 4 students per group*
+# P1 – In-Class Work II: Colour Planning, Palette Testing & Production
+
+*Group project — four students per group*
 
 <figure style="width: 80%; margin: auto;">
-  <img src="imgs/33.png" style="width: 100%; height: auto;">
+  <img src="imgs/33.png" style="width: 100%; height: auto;" alt="Examples related to colour planning and production for layered wooden sculptures">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples from the internet.
   </figcaption>
@@ -22,16 +23,28 @@ During Part 2, your group will develop and test the **colour system** for Projec
 
 Your colour decisions should build directly on concepts explored in **Composition Techniques II**, including:
 
-|  |  |  |
-|---|---|---|
-| Colour schemes | Colour contrast | Colour perspective |
-| Colour gradation | Colour proportioning | Dominant, secondary, and accent colours |
+- Colour schemes
+- Colour contrast
+- Colour perspective
+- Colour gradation
+- Colour proportioning
+- Dominant, secondary, and accent colours
+
 
 Colour should also respond to the formal decisions established during **Composition Techniques I**, including repetition, variation, structure, space, texture, concentration, radiation, contrast, and surface activity.
 
 > Colour should support the structure and concept of the composition rather than function as decoration added at the end.
 
-## Activity stages
+## Accessibility and learning support
+
+- The written instructions contain the required steps. In-class demonstrations provide additional support.
+- Divide colour planning, paint mixing, scanning, digital documentation, laser production, sanding, and painting responsibilities across the group. Record each student’s contributions.
+- You may use colour-identification tools, numerical colour values, zoom, screen magnification, adapted input devices, or other assistive technology.
+- Do not rely on colour names or colour perception alone. Record mixing information and use labels or numerical values when they help identify the palette.
+- If colour perception, paint mixing, sanding, lifting, laser production, or another required process creates an access barrier, contact the instructor early to arrange an equivalent role or method that meets the same learning outcomes and makerspace safety requirements.
+- Make the updated planning PDF text-based where possible, with readable type, strong contrast, descriptive headings, and a logical reading order.
+
+## Complete the activity in four stages
 
 Complete the following stages in order.
 
@@ -41,9 +54,9 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="sketch-and-plan-the-colour-approach">
   <summary>
-    <span class="section-title">1. Sketch and plan the colour approach</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Sketch and plan the colour approach</span>
     <span class="section-description">
       Develop the colour system and add the new planning material to your existing Adobe InDesign document.
     </span>
@@ -55,9 +68,9 @@ Reopen the **Adobe InDesign planning document** developed during Part 1.
 
 Before mixing paint, your group must decide how colour will operate across the complete three-dimensional composition.
 
-## Develop the colour approach
+#### Develop the colour approach
 
-+ [Composition Techniques II](Comp-Tech-2.md){:target="_blank"}
++ [Composition Techniques II](Comp-Tech-2.md)
 
 Consider:
 
@@ -79,7 +92,7 @@ Your colour approach should respond to the **shape, scale, placement, repetition
 
 > Do not simply assign unrelated colours to individual pieces. The complete composition should use an intentional and cohesive colour system.
 
-## Add colour planning to the InDesign document
+#### Add colour planning to the InDesign document
 
 Add a new **Colour Approach** section to your existing Project 1 planning document.
 
@@ -120,9 +133,9 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="mix-test-scan-and-submit-the-physical-colour-palette">
   <summary>
-    <span class="section-title">2. Mix, test, scan, and submit the physical colour palette</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Mix, test, scan, and submit the physical colour palette</span>
     <span class="section-description">
       Hand-mix the planned colours, test them on the provided worksheet, and submit the scanned palette for feedback before painting the final pieces.
     </span>
@@ -132,31 +145,38 @@ SECTION 2
 
 After completing the colour plan, begin testing the palette using acrylic paint.
 
-The instructor will provide each group with a **printed copy** of the [P1 – Colour Palette worksheet](imgs/P1-Colour-Palette-Proportion-Plan.pdf), and a digital copy is also available here for reference.
+The instructor will provide each group with a printed copy of the [P1 – Colour Palette worksheet (PDF)](imgs/P1-Colour-Palette-Proportion-Plan.pdf). The linked digital copy is also available for reference.
 
 Your group must **hand-mix the colours and paint directly onto the worksheet** to create a physical record of the proposed palette.
 
-## Allowed paints
+#### Allowed paints
 
 All colours must be mixed using:
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-| Red | Yellow | Blue | White | Black |
+- Red
+- Yellow
+- Blue
+- White
+- Black
+
 
 > Do not use additional pre-mixed colours.
 
-## Colour mixing
+#### Colour mixing
 
 Use concepts from Composition Techniques II to create intentional relationships between the colours.
 
 Consider:
 
-|  |  |  |
-|---|---|---|
-| Hue | Saturation | Value |
-| Contrast | Gradation | Colour perspective |
-| Colour proportioning | Dominant, secondary, and accent relationships |  |
+- Hue
+- Saturation
+- Value
+- Contrast
+- Gradation
+- Colour perspective
+- Colour proportioning
+- Dominant, secondary, and accent relationships
+
 
 Mix **small test quantities first**.
 
@@ -168,11 +188,11 @@ Apply the paint evenly so the worksheet provides an accurate representation of h
 
 Keep notes about how each colour was mixed so that you can reproduce it later.
 
-## Scan and submit the palette
+#### Scan and submit the palette
 
 Once the physical palette worksheet is complete, **scan it in colour**.
 
-### Scan requirements
+##### Scan requirements
 
 - Use a scanner
 - Scan in **colour**
@@ -191,7 +211,7 @@ Submit:
 
 > **Do not paint your final birchwood pieces until you receive feedback from the instructor on the colour palette.**
 
-## After receiving feedback
+#### After receiving feedback
 
 If the palette is approved, you may proceed to final colour production.
 
@@ -215,9 +235,9 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="schedule-laser-cut-and-prepare-the-birchwood-pieces">
   <summary>
-    <span class="section-title">3. Schedule, laser cut, and prepare the birchwood pieces</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Schedule, laser cut, and prepare the birchwood pieces</span>
     <span class="section-description">
       Schedule a production session at the Thode Makerspace, complete the laser cutting and engraving, and prepare the birchwood pieces for painting.
     </span>
@@ -229,7 +249,7 @@ In parallel with the colour-planning activities, each group must schedule a **la
 
 Available appointment options will be posted on **Avenue to Learn**.
 
-## Schedule the session
+#### Schedule the session
 
 Your group must:
 
@@ -239,7 +259,7 @@ Your group must:
 4. Arrive at the Thode Makerspace at the scheduled time.
 5. Complete the laser cutting and engraving with the instructor.
 
-> **Your Inkscape files must be fully prepared before the session.** If the professor needs to correct measurements, cutting or engraving settings, paths, layout, or other file-preparation issues during the scheduled session, your group will **lose points for this component**.
+> Your Inkscape files must be fully prepared before the session. File preparation is assessed, so corrections to measurements, cutting or engraving settings, paths, or layout during the session will affect the grade for this component.
 
 The instructor will check:
 
@@ -250,10 +270,10 @@ The instructor will check:
 - **Arrival on time**
 - Participation during production
 
-> Missing the scheduled session with the instructor will result in a **grade deduction** for this component.
-> Groups that miss their scheduled appointment will be responsible for completing the laser cutting independently by following the **Thode Makerspace procedures** and booking a session directly through the **Thode Makerspace website**. 
+> Attendance at the scheduled session is required. If an approved circumstance or access barrier affects attendance, contact the instructor as early as possible to arrange an alternative session or equivalent participation plan.
+> Groups that miss their scheduled appointment without an approved alternative must follow **Thode Makerspace procedures** and book a new session directly through the **Thode Makerspace website**.
 
-## Laser cutting and engraving
+#### Laser cutting and engraving
 
 During your scheduled session, laser cut and engrave the components using the two approved Inkscape files.
 
@@ -267,7 +287,7 @@ Carefully collect and organize all components, including:
 
 Keep the pieces organized so that you can identify their intended position in the final composition.
 
-## Surface preparation
+#### Surface preparation
 
 After laser cutting:
 
@@ -288,9 +308,9 @@ SECTION 4
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="apply-the-approved-colour-palette">
   <summary>
-    <span class="section-title">4. Apply the approved colour palette</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Apply the approved colour palette</span>
     <span class="section-description">
       Reproduce the approved palette, prepare the surfaces, and apply the final colour system to the birchwood components.
     </span>
@@ -300,7 +320,7 @@ SECTION 4
 
 Once your palette has been **reviewed and approved**, reproduce the colours in quantities sufficient to complete the final project.
 
-## Prepare the paint
+#### Prepare the paint
 
 - Recreate the approved colours carefully.
 - Refer to your physical palette and mixing notes.
@@ -308,7 +328,7 @@ Once your palette has been **reviewed and approved**, reproduce the colours in q
 - Store mixed colours in the required containers.
 - Keep colours organized throughout the painting process.
 
-## White base coat
+#### White base coat
 
 Before applying the final colours:
 
@@ -317,7 +337,7 @@ Before applying the final colours:
 
 The white base creates a more consistent surface and helps maintain the intended hue, saturation, and value of the final palette.
 
-## Apply the final colours
+#### Apply the final colours
 
 > **Do not assemble your sculpture yet.** Assembly is part of the final submission process. First, you must complete the painting of all planes and other components.
 
@@ -337,6 +357,19 @@ The white base creates a more consistent surface and helps maintain the intended
 
 ---
 
+## Final checklist
+
+- [ ] Our updated planning PDF includes the colour concept, scheme, sketches, mixing plan, colour-and-form explanation, and colour distribution.
+- [ ] We recorded labels or mixing information that make each colour identifiable.
+- [ ] The physical palette uses only red, yellow, blue, white, and black paint.
+- [ ] The colour scan is unfiltered, at least 300 PPI, and saved as a PDF.
+- [ ] We received and addressed the instructor’s palette feedback before final painting.
+- [ ] Our approved Inkscape production files were ready before the laser-cutting session.
+- [ ] The cut pieces are organized, sanded, and free from unsafe splinters or loose debris.
+- [ ] The finished colours follow the approved palette and remain consistent across the pieces.
+- [ ] We opened both submission files and confirmed that their text and images display correctly.
+- [ ] Both filenames follow the required format.
+
 ## Submission
 
 Submit **two digital files per group** for Part 2:
@@ -346,7 +379,7 @@ Submit **two digital files per group** for Part 2:
 | Updated Project 1 InDesign planning document | `Group-#-Project1-Design.pdf` |
 | Scanned physical colour palette | `Group-#-ColourPalette.pdf` |
 
-> **Failure to follow the document requirements, colour-planning instructions, scanning specifications, revision process, or naming conventions may result in grade deductions.**
+Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing document requirements, incomplete colour planning, incorrect scan specifications, or incomplete revisions will affect the grade.
 
 The following component is **graded in person**:
 

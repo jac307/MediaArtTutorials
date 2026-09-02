@@ -2,11 +2,12 @@
 
 ---
 
-<h1 style="color: darkred;">P2 – In-Class Work I: Research, Sketching & First Composition</h1>  
+# P2 – In-Class Work I: Research, Sketching & First Composition
+
 *Project 2 – In Pairs with Individual Work*
 
 <figure style="width: 100%; margin: auto;">
-  <img src="imgs/26.jpg" style="width: 100%; height: auto;">
+  <img src="imgs/26.jpg" style="width: 100%; height: auto;" alt="Examples of realistic, figurative, and abstract animal compositions by previous students">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
     Examples by previous students.
   </figcaption>
@@ -30,9 +31,17 @@ The project should build on concepts and techniques developed throughout  **all 
 
 > **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.**
 
----
+## Accessibility and learning support
 
-## Activity stages
+- The written instructions contain the required steps. Embedded tutorials provide additional demonstrations.
+- Use the video player’s captions when available. If a video is unavailable or inaccessible, follow the written steps or ask the instructor for an equivalent format.
+- Partners may divide research, planning, and shared-document responsibilities according to their strengths and access needs. Each student remains responsible for their individual composition and documented contribution.
+- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
+- Add source information and a brief caption or image description for research images so their purpose is clear without relying only on visual inspection.
+- If hand-sketching, photography, using Illustrator or Photoshop, or another required process creates an access barrier, contact the instructor to arrange an equivalent method that demonstrates the same learning outcomes.
+- Make the planning PDF text-based where possible, with readable type, strong contrast, descriptive headings, and a logical reading order.
+
+## Complete the activity in three stages
 
 Complete the following stages in order.
 
@@ -42,9 +51,9 @@ SECTION 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="research-develop-the-visual-direction-and-create-the-planning-document">
   <summary>
-    <span class="section-title">1. Research, develop the visual direction, and create the planning document</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Research, develop the visual direction, and create the planning document</span>
     <span class="section-description">
       Research the assigned animal, establish a cohesive visual direction for the four compositions, and assemble the concept, references, and sketches in Adobe InDesign.
     </span>
@@ -52,7 +61,7 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-## Research the assigned animal
+#### Research the assigned animal
 
 Before sketching, research the assigned animal carefully.
 
@@ -60,12 +69,19 @@ Your research should help you understand its visual characteristics rather than 
 
 Consider:
 
-|  |  |  |
-|---|---|---|
-| Overall shape | Anatomy | Proportion |
-| Movement | Texture | Surface patterns |
-| Colour | Silhouette | Distinctive features |
-| Habitat | Scale | Behaviour |
+- Overall shape
+- Anatomy
+- Proportion
+- Movement
+- Texture
+- Surface patterns
+- Colour
+- Silhouette
+- Distinctive features
+- Habitat
+- Scale
+- Behaviour
+
 
 Collect several visual references showing the animal from **different perspectives**.
 
@@ -82,13 +98,13 @@ Look for:
 
 ---
 
-## Develop the pair's visual direction
+#### Develop the pair's visual direction
 
 Although each composition is created individually, the four works must function together as a **cohesive series**.
 
 Discuss how the compositions will relate visually while still allowing each student to develop an individual approach.
 
-### Representation
+##### Representation
 
 Decide:
 
@@ -97,41 +113,57 @@ Decide:
 - How the two abstract compositions will differ from one another
 - Which visual characteristics of the animal should remain recognizable across the series
 
-### Visual unity
+##### Visual unity
 
 Consider shared or related approaches to:
 
-|  |  |  |
-|---|---|---|
-| Colour | Composition | Background |
-| Scale | Cropping | Texture |
-| Typography, if used | Visual hierarchy | Framing |
-| Repetition | Shape language | Overall mood |
+- Colour
+- Composition
+- Background
+- Scale
+- Cropping
+- Texture
+- Typography, if used
+- Visual hierarchy
+- Framing
+- Repetition
+- Shape language
+- Overall mood
+
 
 > The four works should feel related without appearing identical. **Cohesion does not mean duplication.**
 
-### Composition Techniques
+##### Composition Techniques
 
 Identify concepts from previous Composition Techniques that could inform the series.
 
 Consider:
 
-|  |  |  |  |
-|---|---|---|---|
-| Wong's principles of form and composition | Interrelationships of form | Repetition and variation | Similarity |
-| Gradation | Contrast | Concentration | Space |
-| Texture | Gestalt principles | Colour relationships | Colour proportioning |
-| Visual styles | Samara's design principles |  |  |
+- Wong's principles of form and composition
+- Interrelationships of form
+- Repetition and variation
+- Similarity
+- Gradation
+- Contrast
+- Concentration
+- Space
+- Texture
+- Gestalt principles
+- Colour relationships
+- Colour proportioning
+- Visual styles
+- Samara's design principles
+
 
 ---
 
-## Create the Project 2 planning document
+#### Create the Project 2 planning document
 
 Each pair must create **one shared Project 2 planning document in Adobe InDesign**.
 
 The document will continue to be updated throughout the project.
 
-### Document setup
+##### Document setup
 
 Use:
 
@@ -146,15 +178,20 @@ Use:
 
 Pay attention to:
 
-|  |  |  |
-|---|---|---|
-| Layout | Margins | Alignment |
-| Typography | Hierarchy | Image placement |
-| Scale | Spacing | Consistency across pages |
+- Layout
+- Margins
+- Alignment
+- Typography
+- Hierarchy
+- Image placement
+- Scale
+- Spacing
+- Consistency across pages
+
 
 Sketches, research images, and written information should be intentionally arranged and visually integrated throughout the document.
 
-### The document must include
+##### The document must include
 
 1. **Group information**
    - Group number
@@ -191,7 +228,7 @@ Sketches, research images, and written information should be intentionally arran
 8. **Colour considerations**
    - Identify preliminary colour relationships and how colour may create unity across the series.
 
-> Each student must contribute directly to the research, planning, and sketches included in the document.
+> Each student must make a documented contribution to the research, planning, and design development. Contributions may include sketches, written or recorded notes, diagrams, reference analysis, or another approved method.
 
 </div>
 </details>
@@ -202,9 +239,9 @@ SECTION 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="set-up-the-digital-composition-files">
   <summary>
-    <span class="section-title">2. Set up the digital composition files</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Set up the digital composition files</span>
     <span class="section-description">
       Establish consistent dimensions and technical settings for all four final compositions.
     </span>
@@ -228,7 +265,7 @@ For this reason, all compositions must use one of the following formats:
 
 > Once selected, the **same dimensions, aspect ratio, and orientation must be used for all four compositions**. The original photograph will also be prepared at the same dimensions for final printing.
 
-## Adobe Illustrator setup
+#### Adobe Illustrator setup
 
 If working in Illustrator:
 
@@ -240,7 +277,7 @@ If working in Illustrator:
 | Colour Mode | RGB |
 | Raster Effects | High — 300 PPI |
 
-### Required layers
+##### Required layers
 
 - **Guides**
 - **Composition**
@@ -249,7 +286,7 @@ If working in Illustrator:
 > The Guides layer must include an inner margin guide **0.3 in from the edges**. 
 > For submission, export the Illustrator composition as a **PDF with Preserve Illustrator Editing Capabilities enabled** so the layers and vector elements remain editable.
 
-## Adobe Photoshop setup
+#### Adobe Photoshop setup
 
 If working in Photoshop:
 
@@ -265,7 +302,7 @@ Maintain clearly organized and editable layers.
 
 > Do not flatten the working Photoshop file. Save the final editable file as a **.TIFF** for submission.
 
-## File naming
+#### File naming
 
 Each student's two compositions will eventually be numbered:
 
@@ -283,9 +320,9 @@ SECTION 3
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="begin-the-first-individual-composition">
   <summary>
-    <span class="section-title">3. Begin the first individual composition</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Begin the first individual composition</span>
     <span class="section-description">
       Translate the approved sketch into a developed digital composition using Illustrator, Photoshop, or both.
     </span>
@@ -306,16 +343,23 @@ Use the sketches and visual direction established with your partner as the basis
 
 Your composition should demonstrate intentional decisions related to:
 
-|  |  |  |
-|---|---|---|
-| Composition | Shape | Space |
-| Colour | Texture | Hierarchy |
-| Scale | Contrast | Visual movement |
-| Representation | Craft | Concept |
+- Composition
+- Shape
+- Space
+- Colour
+- Texture
+- Hierarchy
+- Scale
+- Contrast
+- Visual movement
+- Representation
+- Craft
+- Concept
+
 
 > The goal is not simply to create an image of the animal. Consider how your **formal, conceptual, and technical decisions** communicate a particular interpretation of it.
 
-## Illustrator and Photoshop
+#### Illustrator and Photoshop
 
 You may:
 
@@ -329,23 +373,39 @@ You may:
 
 > You may **not** use Image Trace or similar automated tracing methods to generate the composition.
 
-### Useful Tools / Tutorials
+##### Supplemental software tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHivaPFLOps?si=ziXmH2AczRHg6nwo&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/NHivaPFLOps?si=ziXmH2AczRHg6nwo&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XeQo6fT0n_o?si=sCjUi25DDtKG4oB2&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Open supplemental Illustrator or Photoshop tutorial 1 directly](https://www.youtube.com/watch?v=NHivaPFLOps&t=139s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qrGHs4d0yt0?si=REYnEhlwoJq-wlSh&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/XeQo6fT0n_o?si=sCjUi25DDtKG4oB2&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pYU1gSQJ8Qw?si=xIRBEP-Y1LO2sXt8&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Open supplemental Illustrator or Photoshop tutorial 2 directly](https://www.youtube.com/watch?v=XeQo6fT0n_o&t=139s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SSPLw84kwq4?si=lPfTkZ-abhamI6Ka&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/qrGHs4d0yt0?si=REYnEhlwoJq-wlSh&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CtWyF72r1uM?si=UAuaNbY8w0UT_Re6&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Open supplemental Illustrator or Photoshop tutorial 3 directly](https://www.youtube.com/watch?v=qrGHs4d0yt0&t=139s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RD5ph4yZ7Xs?si=MZ-4sc4mbasnuDtP&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/pYU1gSQJ8Qw?si=xIRBEP-Y1LO2sXt8&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LqMxioRA7_g?si=SMY8f8fB6nLzqTV_&amp;start=139" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Open supplemental Illustrator or Photoshop tutorial 4 directly](https://www.youtube.com/watch?v=pYU1gSQJ8Qw&t=139s)
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/SSPLw84kwq4?si=lPfTkZ-abhamI6Ka&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Open supplemental Illustrator or Photoshop tutorial 5 directly](https://www.youtube.com/watch?v=SSPLw84kwq4&t=139s)
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CtWyF72r1uM?si=UAuaNbY8w0UT_Re6&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Open supplemental Illustrator or Photoshop tutorial 6 directly](https://www.youtube.com/watch?v=CtWyF72r1uM&t=139s)
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/RD5ph4yZ7Xs?si=MZ-4sc4mbasnuDtP&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Open supplemental Illustrator or Photoshop tutorial 7 directly](https://www.youtube.com/watch?v=RD5ph4yZ7Xs&t=139s)
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LqMxioRA7_g?si=SMY8f8fB6nLzqTV_&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Open supplemental Illustrator or Photoshop tutorial 8 directly](https://www.youtube.com/watch?v=LqMxioRA7_g&t=139s)
 
 </div>
 </details>
@@ -362,7 +422,18 @@ Submit **three files per pair**:
 | Student 1 – First Composition | `Lastname-Firstname-P2-1.pdf` |
 | Student 2 – First Composition | `Lastname-Firstname-P2-1.pdf` |
 
-> **Failure to follow the planning-document requirements, composition setup, technical specifications, or naming instructions may result in grade deductions.**
+## Final checklist
+
+- [ ] Our planning PDF includes the group information, research, series concept, individual roles, visual-cohesion plan, design concepts, sketches, and colour considerations.
+- [ ] Research images include source information and a brief caption or image description.
+- [ ] All four compositions use the same dimensions, aspect ratio, and orientation.
+- [ ] Each student’s first composition is at least 70% complete.
+- [ ] Illustrator or Photoshop files remain layered and editable.
+- [ ] We did not use Image Trace or another automated tracing method.
+- [ ] The three submission filenames follow the required format.
+- [ ] We opened each submission file and confirmed that its text and images display correctly.
+
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing planning-document sections, incorrect composition settings, or incomplete technical requirements will affect the grade.
 
 ---
 

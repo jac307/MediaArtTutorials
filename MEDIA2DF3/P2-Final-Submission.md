@@ -2,7 +2,8 @@
 
 ---
 
-<h1 style="color: darkred;">P2 – Final Submission: Exhibition & Documentation</h1>  
+# P2 – Final Submission: Exhibition & Documentation
+
 *Project 2 – In Pairs with Individual Work*
 
 ---
@@ -21,6 +22,14 @@ Your final grade will consider the complete development of the project, includin
 - Exhibition presentation
 - Quality and consistency of the final documentation
 
+## Accessibility and participation options
+
+- Partners may divide mounting, installation, photography, documentation, and visitor-engagement responsibilities according to their strengths and access needs. Record each student’s contributions.
+- You may use prepared notes, written or digital supporting material, assistive technology, or another agreed communication method when discussing the work.
+- If cutting, mounting, lifting, installation, standing for long periods, speaking with visitors, photography, or another required process creates an access barrier, contact the instructor early to arrange an equivalent role.
+- Keep exhibition travel paths, entrances, doors, and signs clear. Secure work and materials so they do not create trip, sharp-edge, or falling-object hazards.
+- Make the final PDF text-based where possible. Use readable type, strong contrast, descriptive headings, a logical reading order, and captions or image descriptions.
+
 > The required **Printing Session** takes place during **Week 12**. Review the Printing Session instructions in [Part 2 – In-Class Work II](P2-InClassWork-II.md) before preparing the final exhibition.
 
 ---
@@ -31,9 +40,9 @@ PART 1
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="part-1-prepare-and-install-the-work-for-the-class-exhibition">
   <summary>
-    <span class="section-title">Part 1. Prepare and install the work for the Class Exhibition</span>
+    <span class="section-title" role="heading" aria-level="3">Part 1: Prepare and install the work for the class exhibition</span>
     <span class="section-description">
       Mount the five printed images as a cohesive display and bring the completed presentation to the final Class Exhibition.
     </span>
@@ -51,17 +60,22 @@ The complete printed series includes:
 4. Student 2 – Abstract Composition
 5. Original photograph
 
-## Plan the exhibition format
+#### Plan the exhibition format
 
 Before mounting the work, decide how the five prints will function together as a **single exhibition display**.
 
 Consider:
 
-|  |  |  |
-|---|---|---|
-| Overall arrangement | Spacing | Alignment |
-| Mounting material | Borders | Layering |
-| Visual hierarchy | Relationship between images | Overall silhouette |
+- Overall arrangement
+- Spacing
+- Alignment
+- Mounting material
+- Borders
+- Layering
+- Visual hierarchy
+- Relationship between images
+- Overall silhouette
+
 
 You may use external mounting materials such as:
 
@@ -85,7 +99,7 @@ could influence the way the five images are organized or displayed.
 
 > **Be creative with the exhibition format, but make sure the final presentation remains intentional, stable, and visually cohesive.**
 
-## Document the exhibition plan
+#### Document the exhibition plan
 
 Before assembling the final display, create a **sketch or digital mockup** showing the planned exhibition format.
 
@@ -100,7 +114,7 @@ Include:
 
 > This exhibition plan must later be added to your **final Project 2 PDF documentation**.
 
-## Mount the work
+#### Mount the work
 
 Mount the five prints carefully according to the approved exhibition plan.
 
@@ -114,11 +128,11 @@ Make sure:
 - The display is structurally stable.
 - All five images function together as one series.
 
-## Class Exhibition
+#### Class Exhibition
 
 **Bring all required mounting and additional materials to the Class Exhibition**, including boards, cardstock, supports, adhesives, clips, or any other materials needed to install your work according to the approved exhibition plan.
 
-> **Failure to bring the work, or bringing an incomplete exhibition materials, will result in a grade deduction.**
+> Bringing the complete work and required mounting materials is part of the in-person submission. Contact the instructor as early as possible if an approved circumstance affects delivery or installation.
 
 During the exhibition, the instructor will evaluate:
 
@@ -138,9 +152,9 @@ PART 2
 /////////////////
 -->
 
-<details class="tutorial-section">
+<details class="tutorial-section" id="part-2-complete-the-final-project-2-documentation">
   <summary>
-    <span class="section-title">Part 2. Complete the final Project 2 documentation</span>
+    <span class="section-title" role="heading" aria-level="3">Part 2: Complete the final Project 2 documentation</span>
     <span class="section-description">
       Update the Adobe InDesign document with the final compositions, reflections, exhibition plan, and documentation of the installed project.
     </span>
@@ -156,15 +170,20 @@ Create a **final version of the Project 2 document** that records the complete d
 
 Maintain consistency throughout the document in:
 
-|  |  |  |
-|---|---|---|
-| Layout | Typography | Hierarchy |
-| Margins | Alignment | Image placement |
-| Scale | Spacing | Visual consistency |
+- Layout
+- Typography
+- Hierarchy
+- Margins
+- Alignment
+- Image placement
+- Scale
+- Spacing
+- Visual consistency
+
 
 ---
 
-## 1. Create a title page
+#### 1. Create a title page
 
 Create a new **title page at the beginning of the document**.
 
@@ -190,11 +209,11 @@ You may incorporate:
 
 ---
 
-## 2. Add the five final images and reflections
+#### 2. Add the five final images and reflections
 
 Create a section presenting the **complete five-image series**.
 
-Place the five final images **together in one horizontal row**, in the following order:
+Present the five final images in the following order:
 
 1. Student 1 – Realistic or Figurative Composition
 2. Student 1 – Abstract Composition
@@ -202,9 +221,9 @@ Place the five final images **together in one horizontal row**, in the following
 4. Student 2 – Abstract Composition
 5. Original photographic reference
 
-> The five images should be presented at a **consistent scale and with consistent spacing** so the complete series can be viewed and evaluated as a unified body of work.
+Use one or more pages and a clearly ordered row or grid so every image remains large enough to evaluate. Keep the images at a **consistent scale with consistent spacing** so the complete series reads as a unified body of work. Do not force all five images into one row if that makes them too small.
 
-### Individual justification
+##### Individual justification
 
 After the image row, include a **brief reflection on each of the four student compositions** addressing:
 
@@ -217,17 +236,22 @@ After the image row, include a **brief reflection on each of the four student co
 
 > Do not only describe what is visible. Explain **why specific design decisions were made and how each composition developed through revision**.
 
-### Collective justification
+##### Collective justification
 
 Conclude the section with a **brief reflection on the five-image series as a whole**.
 
 Explain how the images work collectively through elements such as:
 
-|  |  |  |
-|---|---|---|
-| Colour | Shape and form | Texture |
-| Composition | Scale | Visual hierarchy |
-| Representation | Repetition and variation | Overall visual style |
+- Colour
+- Shape and form
+- Texture
+- Composition
+- Scale
+- Visual hierarchy
+- Representation
+- Repetition and variation
+- Overall visual style
+
 
 Discuss how the four individual interpretations and the original photograph create a **cohesive series while maintaining distinct visual approaches**.
 
@@ -235,7 +259,7 @@ Discuss how the four individual interpretations and the original photograph crea
 
 ---
 
-## 3. Add the exhibition-format plan
+#### 3. Add the exhibition-format plan
 
 Include the **exhibition planning developed before mounting the work**.
 
@@ -259,7 +283,7 @@ Explain how the display format supports:
 
 ---
 
-## 4. Add an Exhibition Documentation page
+#### 4. Add an Exhibition Documentation page
 
 Create a separate page documenting the project **installed in the Class Exhibition**.
 
@@ -272,6 +296,8 @@ The page must include:
 
 The photographs should document how the work existed within the exhibition environment.
 
+Frame photographs to avoid identifiable visitors unless they have agreed to be photographed and included in the documentation.
+
 Possible photographs include:
 
 - Full view of the mounted project
@@ -279,18 +305,21 @@ Possible photographs include:
 - Alternative perspective of the installation
 - Detail showing the mounting or relationship between images
 
-### Photograph requirements
+##### Photograph requirements
 
 Consider consistency in:
 
-|  |  |  |
-|---|---|---|
-| Exposure | Colour | Focus |
-| Framing | Perspective | Image quality |
+- Exposure
+- Colour
+- Focus
+- Framing
+- Perspective
+- Image quality
+
 
 The photographs should clearly show the work rather than unrelated activity in the space.
 
-## Image size and layout
+#### Image size and layout
 
 All photographs and composition images must be large enough to evaluate clearly.
 
@@ -305,97 +334,32 @@ All photographs and composition images must be large enough to evaluate clearly.
 
 ---
 
-## Final document check
+#### Final document check
 
-<fieldset class="equipment-checklist">
-  <legend>Final Documentation Check</legend>
+**Final Documentation Check**
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The title page is complete.</strong>
-      It includes the title, assigned animal, both students' names, and an intentional visual design.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All four final compositions are included.</strong>
-      The final revised versions are presented clearly and consistently.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Each final composition includes a reflection.</strong>
-      The text addresses revisions, instructor feedback, design decisions, justification, and its relationship to the complete series.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The original photograph is included.</strong>
-      The photographic reference is high quality, correctly proportioned, and clearly identified.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The exhibition-format planning is documented.</strong>
-      The PDF includes the planned arrangement, spacing, mounting materials, dimensions, and explanation of the display strategy.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The Exhibition Documentation page is complete.</strong>
-      It includes the exhibition name, date, location, and 3–4 photographs showing the project in context.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The images are appropriately sized.</strong>
-      Images occupy approximately 1/3 of a page at the largest and 1/4 of a page at the smallest.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The document design is consistent.</strong>
-      Typography, hierarchy, margins, alignment, spacing, image placement, and overall visual structure remain cohesive throughout the PDF.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The PDF has been reviewed before submission.</strong>
-      All text and images display correctly, proportions are preserved, and there are no missing or incorrectly positioned elements.
-    </span>
-  </label>
-
-</fieldset>
+- [ ] **The title page is complete.** It includes the title, assigned animal, both students' names, and an intentional visual design.
+- [ ] **All four final compositions are included.** The final revised versions are presented clearly and consistently.
+- [ ] **Each final composition includes a reflection.** The text addresses revisions, instructor feedback, design decisions, justification, and its relationship to the complete series.
+- [ ] **The original photograph is included.** The photographic reference is high quality, correctly proportioned, and clearly identified.
+- [ ] **The exhibition-format planning is documented.** The PDF includes the planned arrangement, spacing, mounting materials, dimensions, and explanation of the display strategy.
+- [ ] **The Exhibition Documentation page is complete.** It includes the exhibition name, date, location, and 3–4 photographs showing the project in context.
+- [ ] **The images are appropriately sized.** Images occupy approximately 1/3 of a page at the largest and 1/4 of a page at the smallest.
+- [ ] **The document design is consistent.** Typography, hierarchy, margins, alignment, spacing, image placement, and overall visual structure remain cohesive throughout the PDF.
+- [ ] **The PDF has been reviewed before submission.** All text and images display correctly, proportions are preserved, and there are no missing or incorrectly positioned elements.
 
 </div>
 </details>
 
 ---
 
-## Final Submission
+## Final submission
 
-### Part 1 – In Person
+### Part 1 – In person
 
 Bring the **complete five-image series and all required mounting materials** to the final Class Exhibition.
 
-> **Failure to bring the completed project to the Class Exhibition will result in a grade deduction.**
+> The completed project and mounting materials are required for the in-person submission. Missing or incomplete work without an approved alternative will affect the grade.
 
 ### Part 2 – Avenue to Learn
 
@@ -433,7 +397,7 @@ The final PDF must include:
    - Location
    - 3–4 photographs of the project in context
 
-> **Failure to follow the documentation, exhibition, image, or naming requirements may result in grade deductions.**
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing documentation, exhibition evidence, reflections, or image requirements will affect the grade.
 
 ---
 
