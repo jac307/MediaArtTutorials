@@ -21,27 +21,15 @@ Lead a focused **25-minute presentation and discussion activity** that connects 
 
 > **Time limit:** The complete session ends at **25:00**. The instructor will stop the session at that point, so rehearse and leave enough time for the activity and conclusion.
 
-## Accessibility and participation
-
-- Divide research, slide design, material preparation, speaking, facilitation, timekeeping, and summarizing responsibilities according to team members’ strengths and access needs. Record each member’s contribution.
-- No student is required to make eye contact, stand, project their voice without amplification, or use one specific communication method. Team members may use notes, a microphone, text-to-speech, recorded material, or another agreed format.
-- Make slides and handouts easy to read. Use clear headings, concise text, readable type, strong contrast, meaningful link text, and image captions or descriptions. Do not rely on colour alone.
-- Provide verbal descriptions of important images and visual details during the presentation. Caption or provide a transcript for required audio or video.
-- Give activity instructions in writing and explain them aloud. Allow participants to respond by speaking, writing, drawing, pointing, arranging materials, using assistive technology, or working with a partner.
-- Personal assistive technology is permitted even though the core discussion activity is non-digital.
-- If an assigned reading PDF is not compatible with your assistive technology, request an accessible copy from the instructor.
-- Contact the instructor in advance if presenting in person, handling materials, using a personal computer, or another requirement creates an access barrier.
-
 ## Enrolment process
 
 1. Form a team of three students.
 2. Review the **Readings and Artists/Artworks by Week** section below.
-3. Select one available week.
-4. Register through the enrolment link provided on Avenue to Learn.
-5. Confirm that all three team members are enrolled in the correct week and group.
-6. Download and read the assigned text.
-7. Research the assigned artist and carefully examine the listed artwork or series.
-8. Divide the preparation and presentation responsibilities across the team.
+3. Select one available set and register through the enrolment link on Avenue to Learn.
+4. Confirm that all three team members are enrolled in the correct group.
+5. Download and read the assigned text.
+6. Research the assigned artist and carefully examine the listed artwork or series.
+7. Divide the preparation and presentation responsibilities across the team.
 
 All team members must make a documented contribution. Contributions may take different forms when the workload remains fair and the team meets the learning outcomes.
 

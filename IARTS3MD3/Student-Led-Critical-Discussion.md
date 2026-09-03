@@ -29,7 +29,7 @@ The instructor will stop the session at **40:00**. Rehearse both parts together 
 ## Enrolment process
 
 1. Form a team of three students.
-2. Review the available sets of readings and assigned artists or collectives.
+2. Review the **Assigned readings and artists by week** section below.
 3. Select one available set and register through the enrolment link on Avenue to Learn.
 4. Confirm that all three team members are enrolled in the correct group.
 5. Read both assigned texts closely.
