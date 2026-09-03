@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Media Art Tutorials
-description: Step-by-step tutorials for digital media tools and course activities.
+title: Creative Media Learning Hub
+description: Step-by-step tutorials for creative courses.
 ---
 
-# Media Art Tutorials
+# Creative Media Learning Hub
 
-This site provides step-by-step tutorials for media art tools and course activities. The tutorials cover video editing, sound, creative coding, digital illustration, animation, 3D modelling, motion capture, and interactive media.
+This site provides step-by-step tutorials and course resources for creative media practices. Topics include video editing, sound, creative coding, digital illustration, animation, 3D modelling, motion capture, interactive media, and other course-specific activities.
 
-The materials are designed for students who are learning a tool for the first time, as well as those who need a reference while working on a project.
+The materials support students who are learning a tool or process for the first time and provide a reference they can return to while developing their projects.
 
-## General Tutorials
+## Creative Media Tools
 
 - [Digital Art in GIMP](Others/index.html?file=GIMP.json)
 - [Video Editing in DaVinci Resolve](Others/index.html?file=DaVinci.json)
 - [Digital Illustration and Animation in Krita](Others/index.html?file=Krita.json)
 - [Augmented Reality in Pictarize](Others/index.html?file=Pictarize.json)
-- [3D Art in Blender](https://jac307.github.io/summer-camp/tutorials/MOCAP/Blender/README.html)
-- [Motion Capture with Perception Neuron 3](https://jac307.github.io/summer-camp/tutorials/MOCAP/MOCAP/README.html)
+- [3D Art in Blender](https://jac307.github.io/summer-camp/tutorials/MOCAP/Blender/README.html){:target="_blank"}
+- [Motion Capture with Perception Neuron 3](https://jac307.github.io/summer-camp/tutorials/MOCAP/MOCAP/README.html){:target="_blank"}
 
-## Course Tutorials
+## Course Resources
 
 <!-- ### First-Year Courses
 

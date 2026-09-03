@@ -13,7 +13,7 @@ This course **examines how artists and collectives challenge systemic inequities
 
 
 <!-- 
-+ [P2: Research–Creation Project](P2/README.md)
++ [P2: Research–Creation Project](P2/P2-Overview.md)
 + [Class Exhibition]() 
 -->
 

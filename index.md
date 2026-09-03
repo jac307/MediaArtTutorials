@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Media Art Tutorials
-description: Step-by-step tutorials for digital media tools and course activities.
+title: Creative Media Learning Hub
+description: Step-by-step tutorials for creative courses.
 ---
 
 # Creative Media Learning Hub
