@@ -1,4 +1,4 @@
-[IARTS 3MD3](../README.md) | [Project 2 Overview](README.md)
+[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
 
 ## P2: Research-Creation Project · Groups of 3–4
 
