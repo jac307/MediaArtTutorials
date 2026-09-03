@@ -415,7 +415,7 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 **Reading 1:** Hall, S. (1990). [“Cultural Identity and Diaspora.”](readings/Reading-W5a.pdf) In J. Rutherford (Ed.), *Identity: Community, Culture, Difference* (pp. 222–237). Lawrence & Wishart.
 
-**Reading 2:** Azoulay, A. A. (2019). [“Unlearning Imperialism.”](readings/Reading-W5-2.pdf) In *Potential History: Unlearning Imperialism*. Verso.
+**Reading 2:** Azoulay, A. A. (2019). [“Unlearning Imperialism: The Shutter: Well-Documented Objects / Undocumented People”](readings/Reading-W5b.pdf) In *Potential History: Unlearning Imperialism*. Verso.
 
 **Artist or collective:** The ArQuives: Canada’s LGBTQ2+ Archives [Canada]
 
@@ -423,7 +423,7 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 6
 
-**Reading 1:** Russell, L. (2020). [“Glitch Refuses.”](readings/Reading-W6a.pdf) In *Glitch Feminism: A Manifesto*. Verso.
+**Reading 1:** Russell, L. (2020). [“Glitch Refuses.”](readings/Reading-W6a.pdf) In *Glitch Feminism: A Manifesto* (pp. 15-37). Verso.
 
 **Reading 2:** Noble, S. U. (2018). [“A Society, Searching.”](readings/Reading-W6b.pdf) In *Algorithms of Oppression: How Search Engines Reinforce Racism* (pp. 15–63). New York University Press.
 

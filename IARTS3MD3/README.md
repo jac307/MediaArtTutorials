@@ -11,7 +11,9 @@ This course **examines how artists and collectives challenge systemic inequities
 + [Student-Led Critical Discussion (Groups of 3)](Student-Led-Critical-Discussion.md)
 + [P1: Critical Research-Creation Profile](P1/P1-Overview.md)
 + [P2: Research–Creation Project](P2/README.md)
-+ [Class Exhibition]()
+
+
+<!-- + [Class Exhibition]() -->
 
 ________________________________________________________________________
 
