@@ -483,7 +483,7 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 **Reading 1:** Muñoz, J. E. (2009). [“Introduction: Feeling Utopia.”](readings/Reading-W12a-1.pdf){:target="_blank"} In *Cruising Utopia: The Then and There of Queer Futurity* (pp. 1–18). New York University Press.
 
-**Reading 2:** Laboria Cuboniks. (2015). [*Xenofeminism: A Politics for Alienation*.](readings/Reading-W12a-2.pdf){:target="_blank"}
+**Reading 2:** Laboria Cuboniks. (2015). [*Xenofeminism: A Politics for Alienation*.](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/){:target="_blank"}
 
 **Artist and artwork:** Morehshin Allahyari [Iran–USA], *She Who Sees the Unknown* (2016–ongoing)
 
