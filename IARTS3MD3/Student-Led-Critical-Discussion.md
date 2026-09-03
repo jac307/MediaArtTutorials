@@ -393,9 +393,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 2
 
-**Reading 1:** Cvetkovich, A. (2003). [“Introduction.”](readings/Reading-W2a.pdf) In *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures* (pp. 1–14). Duke University Press.
+**Reading 1:** Cvetkovich, A. (2003). [“Introduction.”](readings/Reading-W2a.pdf){:target="_blank"} In *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures* (pp. 1–14). Duke University Press.
 
-**Reading 2:** Caswell, M., & Cifor, M. (2016). [“From Human Rights to Feminist Ethics: Radical Empathy in the Archives.”](readings/Reading-W2b.pdf) *Archivaria, 81*, 23–43.
+**Reading 2:** Caswell, M., & Cifor, M. (2016). [“From Human Rights to Feminist Ethics: Radical Empathy in the Archives.”](readings/Reading-W2b.pdf){:target="_blank"} *Archivaria, 81*, 23–43.
 
 **Artist and artwork:** Félix González-Torres [Cuba–USA], *Untitled (Portrait of Ross in L.A.)* (1991)
 
@@ -403,9 +403,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 3
 
-**Reading 1:** Haraway, D. (1988). [“Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.”](readings/Reading-W3a.pdf) *Feminist Studies, 14*(3), 575–599.
+**Reading 1:** Haraway, D. (1988). [“Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.”](readings/Reading-W3a.pdf){:target="_blank"} *Feminist Studies, 14*(3), 575–599.
 
-**Reading 2:** Tuck, E. (2009). [“Suspending Damage: A Letter to Communities.”](readings/Reading-W3b.pdf) *Harvard Educational Review, 79*(3), 409–427.
+**Reading 2:** Tuck, E. (2009). [“Suspending Damage: A Letter to Communities.”](readings/Reading-W3b.pdf){:target="_blank"} *Harvard Educational Review, 79*(3), 409–427.
 
 **Artist and artwork:** Mónica Mayer [Mexico], *El Tendedero/The Clothesline Project* (1978–ongoing)
 
@@ -413,9 +413,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 5
 
-**Reading 1:** Hall, S. (1990). [“Cultural Identity and Diaspora.”](readings/Reading-W5a.pdf) In J. Rutherford (Ed.), *Identity: Community, Culture, Difference* (pp. 222–237). Lawrence & Wishart.
+**Reading 1:** Hall, S. (1990). [“Cultural Identity and Diaspora.”](readings/Reading-W5a.pdf){:target="_blank"} In J. Rutherford (Ed.), *Identity: Community, Culture, Difference* (pp. 222–237). Lawrence & Wishart.
 
-**Reading 2:** Azoulay, A. A. (2019). [“Unlearning Imperialism: The Shutter: Well-Documented Objects / Undocumented People”](readings/Reading-W5b.pdf) In *Potential History: Unlearning Imperialism*. Verso.
+**Reading 2:** Azoulay, A. A. (2019). [“Unlearning Imperialism: The Shutter: Well-Documented Objects / Undocumented People”](readings/Reading-W5b.pdf){:target="_blank"} In *Potential History: Unlearning Imperialism*. Verso.
 
 **Artist or collective:** The ArQuives: Canada’s LGBTQ2+ Archives [Canada]
 
@@ -423,9 +423,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 6
 
-**Reading 1:** Russell, L. (2020). [“Glitch Refuses.”](readings/Reading-W6a.pdf) In *Glitch Feminism: A Manifesto* (pp. 15-37). Verso.
+**Reading 1:** Russell, L. (2020). [“Glitch Refuses.”](readings/Reading-W6a.pdf){:target="_blank"} In *Glitch Feminism: A Manifesto* (pp. 15-37). Verso.
 
-**Reading 2:** Noble, S. U. (2018). [“A Society, Searching.”](readings/Reading-W6b.pdf) In *Algorithms of Oppression: How Search Engines Reinforce Racism* (pp. 15–63). New York University Press.
+**Reading 2:** Noble, S. U. (2018). [“A Society, Searching.”](readings/Reading-W6b.pdf){:target="_blank"} In *Algorithms of Oppression: How Search Engines Reinforce Racism* (pp. 15–63). New York University Press.
 
 **Artist and artwork:** Rosa Menkman [Netherlands], *The Collapse of PAL* (2010–2012)
 
@@ -433,9 +433,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 7
 
-**Reading 1:** Hamraie, A. (2017). [“Introduction: Critical Access Studies.”](readings/Reading-W7a.pdf) In *Building Access: Universal Design and the Politics of Disability* (pp. 1–23). University of Minnesota Press.
+**Reading 1:** Hamraie, A. (2017). [“Introduction: Critical Access Studies.”](readings/Reading-W7a.pdf){:target="_blank"} In *Building Access: Universal Design and the Politics of Disability* (pp. 1–23). University of Minnesota Press.
 
-**Reading 2:** Sins Invalid. (2015). [“10 Principles of Disability Justice.”](readings/Reading-W7b.pdf)
+**Reading 2:** Sins Invalid. (2015). [“10 Principles of Disability Justice.”](https://sinsinvalid.org/10-principles-of-disability-justice/){:target="_blank"}
 
 **Artist and artwork:** Christine Sun Kim [USA], *Face Opera II* (2013) and selected sound drawings
 
@@ -443,9 +443,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 8
 
-**Reading 1:** Simpson, L. B. (2014). [“Land as Pedagogy: Nishnaabeg Intelligence and Rebellious Transformation.”](readings/Reading-W8a.pdf) *Decolonization: Indigeneity, Education & Society, 3*(3), 1–25.
+**Reading 1:** Simpson, L. B. (2014). [“Land as Pedagogy: Nishnaabeg Intelligence and Rebellious Transformation.”](readings/Reading-W8a.pdf){:target="_blank"} *Decolonization: Indigeneity, Education & Society, 3*(3), 1–25.
 
-**Reading 2:** Mignolo, W. D., & Vázquez, R. (2013). [“Decolonial AestheSis: Colonial Wounds/Decolonial Healings.”](readings/Reading-W8b.pdf) *Social Text*.
+**Reading 2:** Mignolo, W. D., & Vázquez, R. (2013). [“Decolonial AestheSis: Colonial Wounds/Decolonial Healings.”](https://socialtextjournal.org/periscope_article/decolonial-aesthesis-colonial-woundsdecolonial-healings/){:target="_blank"} *Social Text*.
 
 **Artists and project:** Jackson 2Bears [Kanien’kehá:ka] and January Rogers [Mohawk/Tuscarora], *For This Land* (2015–2023)
 
@@ -453,9 +453,9 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 9
 
-**Reading 1:** Lorde, A. (1984). [“Uses of the Erotic: The Erotic as Power.”](readings/Reading-W9a.pdf) In *Sister Outsider* (pp. 53–59). Crossing Press.
+**Reading 1:** Lorde, A. (1984). [“Introduction” and “Uses of the Erotic: The Erotic as Power.”](readings/Reading-W9a.pdf){:target="_blank"} In *Sister Outsider* (pp. 8-12; 53–59). Crossing Press.
 
-**Reading 2:** Anzaldúa, G. (1987). [“La Conciencia de la Mestiza: Towards a New Consciousness.”](readings/Reading-W9b.pdf) In *Borderlands/La Frontera: The New Mestiza*. Aunt Lute Books.
+**Reading 2:** Anzaldúa, G. (1987). [“La Conciencia de la Mestiza: Towards a New Consciousness.”](readings/Reading-W9b.pdf){:target="_blank"} In *Borderlands/La Frontera: The New Mestiza*. Aunt Lute Books.
 
 **Artist and artwork:** Jenny Granado/Kebra [Brazil], *Desculonización*
 
@@ -463,17 +463,17 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 11-A
 
-**Reading 1:** Rodríguez, J. M. (2003). [“Divas, Atrevidas, y Entendidas: An Introduction.”](readings/Reading-W11a-1.pdf) In *Queer Latinidad: Identity Practices, Discursive Spaces* (pp. 1–36). New York University Press.
+**Reading 1:** Rodríguez, J. M. (2003). [“Divas, Atrevidas, y Entendidas: An Introduction.”](readings/Reading-W11a-1.pdf){:target="_blank"} In *Queer Latinidad: Identity Practices, Discursive Spaces* (pp. 1–36). New York University Press.
 
-**Reading 2:** Muñoz, J. E. (1999). [“Introduction: Performing Disidentifications.”](readings/Reading-W11a-2.pdf) In *Disidentifications: Queers of Color and the Performance of Politics* (pp. 1–34). University of Minnesota Press.
+**Reading 2:** Muñoz, J. E. (1999). [“Introduction: Performing Disidentifications.”](readings/Reading-W11a-2.pdf){:target="_blank"} In *Disidentifications: Queers of Color and the Performance of Politics* (pp. 1–34). University of Minnesota Press.
 
 **Artist and artwork:** Carmelita Tropicana/Alina Troyano [Cuba–USA], *Your Kunst Is Your Waffen* (1994)
 
 #### Week 11-B
 
-**Reading 1:** Stryker, S. (1994). [“My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.”](readings/Reading-W11b-1.pdf) *GLQ: A Journal of Lesbian and Gay Studies, 1*(3), 237–254.
+**Reading 1:** Stryker, S. (1994). [“My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.”](readings/Reading-W11b-1.pdf){:target="_blank"} *GLQ: A Journal of Lesbian and Gay Studies, 1*(3), 237–254.
 
-**Reading 2:** Buolamwini, J., & Gebru, T. (2018). [“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.”](readings/Reading-W11b-2.pdf) *Proceedings of Machine Learning Research, 81*, 77–91.
+**Reading 2:** Buolamwini, J., & Gebru, T. (2018). [“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.”](readings/Reading-W11b-2.pdf){:target="_blank"} *Proceedings of Machine Learning Research, 81*, 77–91.
 
 **Artists and artwork:** Jake Elwes in collaboration with Me The Drag Queen [UK], *Zizi & Me* (2020)
 
@@ -481,17 +481,17 @@ General summaries, disconnected treatment of the readings and artist, unrelated 
 
 #### Week 12-A
 
-**Reading 1:** Muñoz, J. E. (2009). [“Introduction: Feeling Utopia.”](readings/Reading-W12a-1.pdf) In *Cruising Utopia: The Then and There of Queer Futurity* (pp. 1–18). New York University Press.
+**Reading 1:** Muñoz, J. E. (2009). [“Introduction: Feeling Utopia.”](readings/Reading-W12a-1.pdf){:target="_blank"} In *Cruising Utopia: The Then and There of Queer Futurity* (pp. 1–18). New York University Press.
 
-**Reading 2:** Laboria Cuboniks. (2015). [*Xenofeminism: A Politics for Alienation*.](readings/Reading-W12a-2.pdf)
+**Reading 2:** Laboria Cuboniks. (2015). [*Xenofeminism: A Politics for Alienation*.](readings/Reading-W12a-2.pdf){:target="_blank"}
 
 **Artist and artwork:** Morehshin Allahyari [Iran–USA], *She Who Sees the Unknown* (2016–ongoing)
 
 #### Week 12-B
 
-**Reading 1:** Nelson, A. (2002). [“Introduction: Future Texts.”](readings/Reading-W12b-1.pdf) *Social Text, 20*(2), 1–15.
+**Reading 1:** Nelson, A. (2002). [“Introduction: Future Texts.”](readings/Reading-W12b-1.pdf){:target="_blank"} *Social Text, 20*(2), 1–15.
 
-**Reading 2:** Benjamin, R. (2019). [“Introduction.”](readings/Reading-W12b-2.pdf) In *Race After Technology: Abolitionist Tools for the New Jim Code* (pp. 1–32). Polity.
+**Reading 2:** Benjamin, R. (2019). [“Introduction.”](readings/Reading-W12b-2.pdf){:target="_blank"} In *Race After Technology: Abolitionist Tools for the New Jim Code* (pp. 1–32). Polity.
 
 **Artist and artwork:** Tabita Rezaire [French Guiana], *Deep Down Tidal* (2017)
 
