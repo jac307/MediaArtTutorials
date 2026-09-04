@@ -275,7 +275,7 @@ Make the PDF accessible:
 
 > One partner will submit both files on behalf of the pair.
 
-## Prepare the one-minute presentation
+## Pecha Kucha: Prepare the one-minute presentation
 
 During the next lecture, each pair will give a **one-minute presentation**. Presentations will take place one after another. There will be no questions or class discussion after each presentation.
 

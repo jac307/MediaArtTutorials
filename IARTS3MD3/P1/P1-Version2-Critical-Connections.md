@@ -409,7 +409,7 @@ P1_Critical-Connections.zip
 
 Replace each `Lastname-Firstname` placeholder with the correct partner’s name.
 
-#### Prepare the one-minute presentation
+#### Pecha Kucha: Prepare the one-minute presentation
 
 During the next lecture, each pair will give a **one-minute presentation**. Presentations will take place one after another, without questions or class discussion.
 

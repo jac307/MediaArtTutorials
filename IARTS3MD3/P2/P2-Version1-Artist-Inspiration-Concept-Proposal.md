@@ -4,7 +4,7 @@
 
 # Version 1: Artist/Collective Inspiration and Concept Proposal
 
-**Goal:** Establish the first direction for the Research-Creation Project. Select an artist or collective from the Project 1 Webador profiles, extend the existing research-creation proposal through artistic and academic research, and identify an unfamiliar technology or technique to test in the next version.
+**Goal:** Establish the first direction for the Research-Creation Project. Select an artist or collective from the Webador profiles, extend the existing research-creation proposal through artistic and academic research, and identify an unfamiliar technology or technique to test in the next version.
 
 > This is the first iteration of the project, not a fixed production plan. Your group may retain, revise, remove, or add elements as the research and experiments develop.
 
@@ -103,12 +103,12 @@ For each assigned work, record:
 
 ## Divide the academic research
 
-Each member must read one relevant academic source in full. Across the group, the sources must include:
+Each member must:
 
-- At least one course reading
-- At least one academic source from the Webador annotated bibliography
-- At least one new academic source not included on the Webador page
-- One additional relevant academic source when the group has four members
+1. Review at least two academic sources from the Webador annotated bibliography:
+  - One source from the course reading list
+  - One additional academic source that is not from the course reading list
+2. Select and read in full one new source from the course reading list that is not included on the Webador page.
 
 For each source, record:
 
@@ -146,7 +146,7 @@ Name the file:
   <summary>
     <span class="section-title">2. Revise the proposal and select an unfamiliar technology</span>
     <span class="section-description">
-      Share the individual research, map the changes to the original proposal, and select a new technology or technique for experimentation.
+      Share the individual research, map changes to the original proposal, and select an unfamiliar technology or technique for the next experiment.
     </span>
   </summary>
 
@@ -154,13 +154,13 @@ Name the file:
 
 ## Share the research
 
-Each member must explain their assigned artwork and academic source to the group.
+Each member must explain their assigned artwork and academic research to the group.
 
 During the discussion:
 
-1. Compare the artistic methods, materials, technologies, and audience relationships.
-2. Identify concepts that appear across several sources or artworks.
-3. Note disagreements, limits, risks, or missing perspectives.
+1. Compare the artistic methods, materials, technologies, and audience relationships identified in the research.
+2. Identify concepts, strategies, or concerns that appear across several sources or artworks.
+3. Note disagreements, limitations, risks, or missing perspectives.
 4. Identify what the research adds to or changes about the Project 1 proposal.
 5. Decide which findings will guide the first P2 concept.
 
@@ -168,7 +168,7 @@ During the discussion:
 
 ## Prepare the iteration map
 
-Treat the Project 1 proposal as the first iteration of the project. Decide what your group will retain, revise, remove, or add.
+Treat the Project 1 research-creation proposal as **Iteration 1** of the project. Decide what your group will retain, revise, remove, or add.
 
 Use the following table:
 
@@ -190,225 +190,198 @@ List the relevant skills, software, tools, techniques, and production experience
 
 | Member | Existing skills | Unfamiliar areas | Skills that may support the group |
 |---|---|---|---|
-| Full name | List relevant experience | List processes the member has not used | Explain possible contribution |
+| Full name | List relevant experience | List processes the member has not used | Explain possible contributions |
 
-Use the audit to distinguish the group's existing knowledge from the new learning required for P2.
+Use the audit to distinguish the group’s existing knowledge from the new learning required for P2.
 
-## Identify an unfamiliar technology or technique
+## Consider two unfamiliar technologies or techniques
 
-Select a technique, software, tool, material process, or technology that **none of the group members already knows how to use independently** and that everyone would like to experiment with.
+Identify two possible techniques, software applications, tools, material processes, or technologies that **none of the group members knows how to use independently**.
 
-The selection should:
+Each option should:
 
-- Connect to the selected artist's media, methods, questions, or approach.
-- Introduce a meaningful possibility rather than being added only for novelty.
-- Be unfamiliar enough to require research, testing, and skill development.
-- Be available or reasonably accessible within the project timeline.
+- Connect to the selected artist’s media, methods, questions, or approach.
+- Introduce a meaningful artistic possibility rather than being added only for novelty.
+- Require research, experimentation, and skill development.
+- Be reasonably accessible within the project timeline.
 - Be safe, legal, and appropriate for the intended context.
 
 Technology may include digital, electronic, physical, analogue, fabrication, performance, or hybrid processes. Examples include unfamiliar editing or animation software, projection mapping, spatial audio, motion capture, live coding, sensors, photogrammetry, 3D printing, textile processes, printmaking, bookbinding, or a new performance method.
 
-> Familiar software used for a new task does not automatically meet the requirement. The group must identify what genuinely new process or capability everyone needs to learn.
+> Using familiar software for a new task does not automatically meet the requirement. Identify a process or capability that every group member genuinely needs to learn.
 
-## Research the primary and backup options
+For each option, prepare brief notes:
 
-Select one primary technology or technique and one backup option.
+| Area | Option A | Option B |
+|---|---|---|
+| Technology or technique | Name the option | Name the option |
+| Connection to the artist | Explain the relationship | Explain the relationship |
+| Possible artistic use | Explain what it may contribute | Explain what it may contribute |
+| New learning required | Identify what the group would need to learn | Identify what the group would need to learn |
+| Access and feasibility | Note required resources, cost, availability, or limitations | Note required resources, cost, availability, or limitations |
+| Accessibility, ethics, and safety | Identify initial concerns | Identify initial concerns |
+| Available learning support | Confirm whether documentation or tutorials appear to be available | Confirm whether documentation or tutorials appear to be available |
 
-For each option, record:
+You do not need to select or complete specific tutorials during Version 1.
 
-| Area | What to investigate |
-|---|---|
-| Connection | Relationship to the artist, artworks, and revised proposal |
-| Intended use | What the process may allow the artwork or audience to do |
-| Learning needs | New skills, concepts, or workflows required |
-| Access | Required software, equipment, materials, accounts, or spaces |
-| Feasibility | Cost, availability, time, compatibility, and production limits |
-| Accessibility and ethics | Barriers, risks, consent, privacy, environmental impact, or safety concerns |
-| Learning resources | Official documentation and reliable tutorials |
-| Next test | What must be tried during the Technology Experiment |
+## Select one technology or technique
 
-For the primary option, identify at least:
+Choose one of the two options as the group’s primary direction.
 
-- One official manual, documentation page, or technical guide
-- One reliable tutorial or demonstration
-- The software, equipment, materials, or space required for the first test
+Briefly explain:
 
-The Technology Experiment in the next stage will determine whether the primary option is suitable. The group may switch to the backup option if the first tests reveal an important barrier.
+- Why it is more relevant to the revised proposal
+- How it connects to the selected artist or collective
+- What it may contribute to the artwork or audience experience
+- Why it appears feasible within the available time and resources
+- What the group needs to discover through the Technology Experiment
 
-## Plan the Technology Experiment
-
-Identify **two or three specific tech questions** to experiment with. The questions should be answerable through making and testing.
-
-Examples:
-
-- Can the selected tool produce the required image, sound, movement, interaction, or material effect?
-- What technical limits affect the proposed audience experience?
-- What must the group learn before producing the first prototype?
-- Does the process create an accessibility, privacy, consent, safety, or cost problem?
-
-Also identify:
-
-- The smallest test the group can complete
-- Required software, equipment, materials, accounts, or space
-- Who will prepare each part of the test
-- What evidence will be recorded, such as screenshots, photographs, recordings, files, or observations
-- The backup plan if the primary technology is unavailable or unsuitable
+> The selection is provisional. The group may revise its approach if experimentation reveals an important technical, artistic, ethical, accessibility, or logistical limitation.
 
 ## Prepare the group iteration and technology notes
 
-Prepare one group document (`P2_Version1-Iteration-Technology-Notes.pdf`) recording the decisions and research completed in this module. These are working notes and do not need to be written as polished paragraphs. Use tables, bullet points, links, diagrams, or screenshots where useful.
+Prepare one group document named:
+
+`P2_Version1-Iteration-Technology-Notes.pdf`
+
+Record the research and decisions completed in this module. These are working notes and do not need to be written as polished paragraphs. Use tables, bullet points, links, diagrams, or screenshots where useful.
 
 The document must include:
+
 - [ ] Full names and student numbers of all group members
 - [ ] Brief synthesis of the artistic and academic research shared by the group
 - [ ] Completed iteration map
 - [ ] Completed group skills audit
-- [ ] Selected primary technology or technique
-- [ ] Selected backup technology or technique
-- [ ] Completed research table for both options
-- [ ] Official documentation or technical guide for the primary option
-- [ ] Reliable tutorial or demonstration for the primary option
+- [ ] Brief notes comparing two unfamiliar technologies or techniques
+- [ ] The selected technology or technique
+- [ ] Explanation of why the group selected it
 - [ ] Required software, equipment, materials, accounts, or spaces
 - [ ] Initial accessibility, ethical, safety, cost, and feasibility concerns
-- [ ] The first test planned for the Technology Experiment
+- [ ] The main question the group needs to investigate during the Technology Experiment
 
-> Include working links for all technical documentation, tutorials, software, equipment, and other resources.
+> Detailed tutorial selection, experiment planning, hands-on testing, and documentation will be completed during the Technology Experiment.
 
 </div>
+
 </details>
 
 <details class="tutorial-section" id="proposal-and-submission">
   <summary>
-    <span class="section-title">3. Write the concept proposal and prepare the submission</span>
+    <span class="section-title">3. Develop the provisional concept and prepare the submission</span>
     <span class="section-description">
-      Write the first P2 concept iteration, prepare a visual development page and testing plan, and submit the project package and presentation slide.
+      Develop the current concept iteration, create a visual development page, update Webador, and prepare the presentation slide.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Write the concept proposal
+## Write the provisional concept proposal
 
-Write a **250–350-word concept proposal** explaining:
+Write a **250–350-word provisional concept proposal** describing the group’s current direction. This proposal will establish the artistic purpose for the Technology Experiment.
 
-- The main artistic question, issue, or experience the group wants to explore
-- The relevant EDI or anti-oppression concern
-- How the project is informed by the selected artist or collective
-- Which artistic strategies are being retained, translated, questioned, or extended
-- How and why the Project 1 proposal has changed
-- The proposed medium, format, audience, and presentation context
-- The unfamiliar technology or technique and its intended role
-- Relevant ethical, accessibility, consent, representation, or accountability considerations
+Explain:
+
+- The main artistic question, experience, or EDI concern the group wants to explore
+- How the project draws from, translates, questions, or extends specific strategies from the selected artist or collective
+- The most important changes made to the Project 1 proposal and how the group’s research informed them
+- The proposed form of the artwork, intended audience experience, and role of the unfamiliar technology or technique
+- The most relevant ethical, accessibility, consent, representation, or accountability considerations
 
 Write in your own words using clear and specific language. Avoid broad statements that could describe any artist or project.
 
-> The proposal describes the current iteration. It may change after the Technology Experiment, prototype development, and critique.
+> This proposal records the project’s direction before technological experimentation. The concept and use of technology are expected to change according to what the group learns during the Technology Experiment.
 
-## Create the visual development page
+## Create a working concept sketch
 
-Create at least **one annotated visual development page** showing how the idea may take form.
+Create **one annotated sketch or diagram** showing how the proposed artwork might work.
 
-You may use:
+It may take the form of:
 
-- Concept sketches
-- A storyboard
-- A mind map
-- A process, system, or interaction diagram
+- A concept sketch or storyboard
+- A process or interaction diagram
 - A spatial or installation plan
-- A digital or physical collage
 - A material, sound, movement, or interface plan
-- A combination of these formats
+- A digital or physical collage
 
-Add short annotations identifying the proposed elements, audience experience, technology, and unresolved decisions. The page must develop the idea rather than function only as decoration.
+Use short annotations to identify:
 
-Credit any image or media created by someone outside the group.
+- The main elements of the proposed artwork
+- The intended role of the unfamiliar technology or technique
+- What the audience may see, hear, do, or experience
+- At least one element that the group needs to investigate through the Technology Experiment
 
-## Research and creation ethics
+The sketch does not need to be polished or technically accurate. Its purpose is to help the group identify what needs to be learned and tested.
 
-- Credit the Project 1 profile authors and cite the Webador page.
-- Credit the selected artist or collective and all referenced artworks.
-- Do not copy the appearance or structure of an existing artwork.
-- Explain how the project adapts, questions, translates, or extends the artist's approach.
-- Use evidence for claims about artists, communities, technologies, and contexts.
-- Do not assume an artist's identity, intentions, beliefs, or community relationships.
-- Consider consent, representation, access, privacy, cultural context, safety, and accountability.
-- Do not use generated summaries in place of reading the academic sources.
-- Write the research notes and proposal in your own words.
+Credit any image or media created outside the group.
 
 ## Update the Webador profile
 
-After completing the concept proposal and visual development page, update the selected artist or collective’s Webador profile.
+After completing the provisional concept proposal and visual development page, update the selected artist or collective’s Webador profile under **Research-Creation Proposal: Iteration 2**.
 
 Use the Webador login information provided on Avenue to Learn. Open the existing profile page and add content only to the empty sections prepared for Project 2.
 
-> Do not delete or replace the Project 1 research-creation proposal. It must remain on the page as **Iteration 1** so readers can see how the idea changes.
+Include:
+
+- Full names of all group members
+- The complete **250–350-word provisional concept proposal**
+- One annotated visual development page
+- A caption for the visual development image
+- Alt text describing its main visual elements, annotations, and proposed process
+- Credits for any image or media created outside the group
+
+> Do not delete or replace the Project 1 research-creation proposal. It must remain on the page as **Iteration 1** so readers can follow how the project changes.
 
 ### Update the artworks or projects
 
 If your group researched artworks or projects that are not already included on the Webador page, add them to the existing **Selected Artworks or Projects** section.
 
 For each additional work, include:
+
 - Title and year
 - Medium, materials, technologies, duration, dimensions, or format
 - A **50–100-word description** of what the audience sees, hears, encounters, or does
 - One representative image or another form of documentation
-- Stable link to the artwork or project when available
+- A stable link to the artwork or project when available
 
 Every image or item of documentation must include:
+
 - Caption
 - Image or media credit
 - Alt text
 
 > Do not repeat artworks or information already included on the page. Add only material that helps readers understand the new proposal.
 
-### Add the second research-creation proposal
-
-At the end of the Webador page, locate the empty section prepared for the new proposal.
-
-Use the heading:
-
-**Research-Creation Proposal: Iteration 2**
-
-Include:
-- Full names of all group members
-- The complete **250–350-word concept proposal**
-- One annotated visual development page
-- A caption for the visual development image
-- Alt text describing its main visual elements, annotations, and proposed process
-- Credits for any image or media created outside the group
-
-> The proposal should make clear what was retained, revised, removed, or added from Iteration 1. Readers should be able to understand how artistic research, academic research, group discussion, and the unfamiliar technology shaped the new direction.
-
 ### Review the Webador update
 
-Before publishing (or saving changes), confirm that:
+Before publishing or saving the changes, confirm that:
+
 - [ ] We edited the correct artist or collective page.
 - [ ] We did not remove or overwrite the Project 1 proposal.
 - [ ] Any additional artworks include complete information and documentation.
-- [ ] The new proposal is labelled **Iteration 2**.
-- [ ] The proposal includes the names of all group members.
+- [ ] The new proposal is under **Research-Creation Proposal: Iteration 2**.
+- [ ] The proposal includes the full names of all group members.
 - [ ] The proposal is 250–350 words.
-- [ ] The visual development page includes a caption and alt text.
+- [ ] The proposal explains how research informed the changes from Iteration 1.
+- [ ] The visual development page includes annotations, a caption, and alt text.
 - [ ] Images and media created outside the group are credited.
 - [ ] All links work.
 - [ ] We did not include student numbers on the public webpage.
-- [ ] We did not edit another group’s content or the website’s global settings.
 
-Publish the update only after all group members have reviewed it.
+Save or publish the update only after all group members have reviewed it.
 
-## Two-minute in-class presentation
+## Pecha Kucha: Prepare the one-minute presentation
 
-During the following lecture, each group will give a rapid **two-minute presentation**. Presentations will take place one after another, without questions or class feedback.
+During the following lecture, each group will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
 
 Prepare **one slide in image format** containing:
 
 - Selected artist or collective
 - Original Project 1 proposal in one sentence
-- Revised P2 concept in one or two sentences
+- Provisional P2 concept in one or two sentences
 - Artistic strategy being retained, translated, questioned, or extended
-- Primary unfamiliar technology or technique
+- Selected unfamiliar technology or technique
 - One representative image or diagram
-- One question the group will test during the Technology Experiment
+- One question the group needs to investigate during the Technology Experiment
 
 ## Slide requirements
 
@@ -418,11 +391,19 @@ Prepare **one slide in image format** containing:
 - Credit any artwork or image created outside the group.
 - Choose one speaker for the presentation.
 - Do not exceed two minutes.
-- Name the file `P2_Version1-Concept-Proposal-Slide.jpg` or `P2_Version1-Concept-Proposal-Slide.png`.
+
+Name the file:
+
+`P2_Version1-Concept-Proposal-Slide.jpg`
+
+or:
+
+`P2_Version1-Concept-Proposal-Slide.png`
 
 > Slides must be submitted in advance so they can be presented in sequence without changing computers.
 
 </div>
+
 </details>
 
 ---
@@ -431,15 +412,12 @@ Prepare **one slide in image format** containing:
 
 | Item | Requirement or filename |
 |---|---|
-| Webador profile | Update the assigned artist or collective page with any additional artworks and **Research-Creation Proposal: Iteration 2** |
-| Version 1 package | `P2_Version1-Concept-Proposal-Notes.zip` |
+| Webador profile | Update the selected artist or collective page with any additional artworks and **Research-Creation Proposal: Iteration 2** |
+| Individual research notes | Each member submits `Lastname-Firstname_P2_Version1-Research-Notes.pdf` |
+| Group iteration and technology notes | `P2_Version1-Iteration-Technology-Notes.pdf` |
 | Presentation slide | `P2_Version1-Concept-Proposal-Slide.jpg` or `P2_Version1-Concept-Proposal-Slide.png` |
 
-The ZIP package must contain:
-- `P2_Version1-Iteration-Technology-Notes.pdf`
-- One `Lastname-Firstname_P2_Version1-Research-Notes.pdf` from each group member
-
-> An incomplete Webador update, incorrect filename or file extension, a ZIP package that does not open, missing individual or group notes, incomplete research, missing citations or image credits, inaccessible links, or a slide that does not follow the required format will affect the grade.
+> An incomplete Webador update, incorrect filename or file extension, files that do not open, missing individual or group notes, incomplete research, missing citations or image credits, inaccessible links, or a slide that does not follow the required format will affect the grade.
 
 ---
 
