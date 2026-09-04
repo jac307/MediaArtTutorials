@@ -59,9 +59,9 @@ Create a cohesive five-image series that combines four individual interpretation
 
 ## Index
 
-<!-- - [Part 1 – In-Class Work I: Research, sketching, and first composition](P2-InClassWork-I.md)
+- [Part 1 – In-Class Work I: Research, sketching, and first composition](P2-InClassWork-I.md)
 - [Part 2 – In-Class Work II: Second composition and print-layout planning](P2-InClassWork-II.md)
-- [Final submission: Exhibition and documentation](P2-Final-Submission.md) -->
+- [Final submission: Exhibition and documentation](P2-Final-Submission.md)
 
 ---
 
