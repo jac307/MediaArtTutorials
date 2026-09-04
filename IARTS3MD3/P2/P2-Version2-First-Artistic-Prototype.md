@@ -550,6 +550,7 @@ Replace `#` with the assigned group number.
 ---
 
 ## Submission
+
 Complete the Webador update and submit the two items listed below through Avenue to Learn. One group member should make both submissions on behalf of the group.
 
 | Item | Requirement or filename | Who completes or submits |

@@ -13,8 +13,8 @@ In
 + [Version 1: Artist/Collective Inspiration and Concept Proposal](P2-Version1-Artist-Inspiration-Concept-Proposal.md)
 + [Technological Research](P2-Technological-Research.md)
 + [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
-+ [Version 3: Development and Critique](P2-V3.md)
-+ [Version 4: Presentation Prototype](P2-V4.md)
++ [Version 3: Development and Critique](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
++ [Prototype Critique and Feedback Session instructions](P2-Prototype-Critique.md)
 + [P2: Research-Creation Project - Final Submission](P2-Final.md)
 
 ---

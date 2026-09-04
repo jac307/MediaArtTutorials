@@ -21,7 +21,6 @@ This is not the final public profile. The writing, thesis, research-creation pro
 - A 150–200-word preliminary research-creation proposal
 - An annotated visual development page
 - A digitally designed and printed 18 × 24-inch research poster
-- A text alternative for the poster’s content and images
 
 ## How to divide the work
 
