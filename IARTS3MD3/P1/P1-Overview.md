@@ -69,7 +69,7 @@ Each version is part of the project process. Keep all research notes, source inf
 - Images, captions, credits, links, permissions, and alt text
 - A research poster and a text alternative for its important content
 
-The preliminary research-creation proposal may inform Project 2, but it does not commit you to a final artistic direction.
+The preliminary research-creation proposal may inform Project 2, but it will not commit you to a final artistic direction.
 
 ---
 
