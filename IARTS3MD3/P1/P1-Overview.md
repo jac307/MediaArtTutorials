@@ -13,13 +13,13 @@ The project has **five versions**. Each version builds on the previous one. You 
 
 ## Project index
 
-<!-- 
+
 - [Version 1: Research Direction](P1-Version1-Research-Direction.md)
 - [Version 2: Critical Connections](P1-Version2-Critical-Connections.md)
 - [Version 3: Multimodal Profile Draft](P1-Version3-Multimodal-Profile-Draft.md)
 - [Version 4: Poster Session](P1-Version4-Poster-Session.md)
 - [Version 5: Final Profile](P1-Version5-Final-Profile.md) 
--->
+
 
 ## How the project develops
 
