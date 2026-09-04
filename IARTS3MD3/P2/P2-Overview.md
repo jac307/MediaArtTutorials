@@ -16,7 +16,7 @@ In
 + [Version 3: Development and Critique](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
 + [Prototype Critique and Feedback Session instructions](P2-Prototype-Critique.md)
 + [P2: Research-Creation Project - Final Submission](P2-Final.md)
-+ [Class Exhibition]()
++ [Class Exhibition](P2-Class-Exhibition.md)
 
 ---
 
