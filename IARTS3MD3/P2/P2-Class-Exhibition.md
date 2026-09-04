@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [P2 Final Submission](P2-Final.md)
 
-# P2: Research-Creation Project
+## P2: Research-Creation Project
 
-## Class Exhibition
+# Class Exhibition
 
 **Work format:** Project groups and class exhibition teams
 

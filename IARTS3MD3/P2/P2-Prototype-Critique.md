@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
 
-# P2: Research-Creation Project
+## P2: Research-Creation Project
 
-## Prototype Critique and Feedback Session
+# Prototype Critique and Feedback Session
 
 **Work format:** Groups of 3–4 and whole-class participation
 

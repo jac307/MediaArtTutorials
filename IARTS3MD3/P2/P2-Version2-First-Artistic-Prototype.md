@@ -1,8 +1,8 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
 
-# P2: Research-Creation Project
+## P2: Research-Creation Project
 
-## Version 2: First Artistic Prototype
+# Version 2: First Artistic Prototype
 
 **Work format:** Groups of 3–4
 
