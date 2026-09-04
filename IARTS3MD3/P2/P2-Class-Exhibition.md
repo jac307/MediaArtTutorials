@@ -1,6 +1,10 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [P2 Final Submission](P2-Final.md)
 
-# Class Exhibition
+# P2: Research-Creation Project
+
+## Class Exhibition
+
+**Work format:** Project groups and class exhibition teams
 
 ## Goal
 
@@ -55,19 +59,20 @@ Possible participation options may include:
 - Preparing written or digital visitor information
 - Completing seated organizational tasks
 - Using prepared notes, assistive technology, or another communication method when presenting
+- Taking scheduled breaks or completing part of the work in a lower-sensory area
 
 An alternative role must be arranged with the instructor in advance. Students should not exchange or abandon assigned roles without approval.
 
 <details class="tutorial-section" id="prepare-final-project">
   <summary>
-    <span class="section-title">1. Prepare the final project for exhibition</span>
+    <span class="section-title" role="heading" aria-level="3">1. Prepare the final project for exhibition</span>
     <span class="section-description">
       Make the final project complete, stable, accessible, and ready to install and present.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Bring the final project
+#### Bring the final project
 
 Each group must bring and present its **Final Research-Creation Project**.
 
@@ -81,10 +86,12 @@ The exhibition version must:
 - Be stable enough to open, play, perform, install, navigate, or experience throughout the exhibition
 - Include any instructions required for visitors
 - Include the accessibility supports and alternatives developed by the group
+- Provide captions for video and a transcript or equivalent text summary for audio-only material
+- Provide a text alternative for important visual, interactive, or spatial information
 - Follow consent, privacy, representation, safety, and cultural requirements
 - Include complete credits when external material is visible or audible
 
-## Prepare the installation plan
+#### Prepare the installation plan
 
 Before the exhibition, determine:
 
@@ -100,7 +107,7 @@ Before the exhibition, determine:
 
 Share the required information by the deadline posted on Avenue. Exhibition space and equipment are limited. Do not assume that unrequested equipment or space will be available.
 
-## Prepare the project materials
+#### Prepare the project materials
 
 Bring:
 
@@ -116,7 +123,7 @@ Bring:
 
 Clearly label personal equipment and storage devices with the owner’s name and contact information.
 
-## Prepare the research-creation poster
+#### Prepare the research-creation poster
 
 The printed research-creation poster completed for the P2 Final Submission will be displayed with or near the project as directed by the instructor and Organization and Museography Team.
 
@@ -133,7 +140,7 @@ Confirm that:
 
 <details class="tutorial-section" id="organization-museography-team">
   <summary>
-    <span class="section-title">2. Organization and Museography Team</span>
+    <span class="section-title" role="heading" aria-level="3">2. Organization and Museography Team</span>
     <span class="section-description">
       Help plan the exhibition design, placement, visitor flow, interpretation, accessibility, and class-wide organization.
     </span>
@@ -160,8 +167,10 @@ Responsibilities may include:
 The team must consider:
 
 - Clear entrances and accessible travel paths
+- Seating or resting space when appropriate
 - Safe distances around equipment and interactive work
 - Sightlines, sound overlap, lighting, and projection conditions
+- Captions, transcripts, image descriptions, and clear interaction instructions when required
 - Readable labels and posters
 - Access to instructions and alternative formats
 - Safe and practical placement of cables and power supplies
@@ -176,7 +185,7 @@ Record important decisions and confirm them with the instructor before directing
 
 <details class="tutorial-section" id="setup-team">
   <summary>
-    <span class="section-title">3. Setup Team</span>
+    <span class="section-title" role="heading" aria-level="3">3. Setup Team</span>
     <span class="section-description">
       Prepare the exhibition space and support the safe, organized installation of the complete class exhibition.
     </span>
@@ -210,19 +219,19 @@ Do not drill, paint, attach materials to walls, alter furniture, connect high-lo
 
 <details class="tutorial-section" id="present-engage">
   <summary>
-    <span class="section-title">4. Present the project and engage with visitors</span>
+    <span class="section-title" role="heading" aria-level="3">4. Present the project and engage with visitors</span>
     <span class="section-description">
       Remain engaged throughout the exhibition and help visitors encounter and understand the work.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-All students must attend and participate throughout the public exhibition unless an alternative has been approved.
+All students must participate during the public exhibition according to the schedule unless an alternative has been approved.
 
 Each group should organize a rotation so that:
 
 - At least one member is available near the project when visitors require assistance.
-- All members have opportunities to present and discuss the work.
+- All members have opportunities to present, discuss, or support access to the work through their approved roles.
 - Members can visit and engage with other projects.
 - Interactive, live, or technically sensitive work is monitored appropriately.
 - Breaks are coordinated without leaving the work unsupported.
@@ -239,7 +248,7 @@ Be prepared to explain:
 
 Do not recite the complete Artistic Analysis. Adapt the explanation to the visitor’s questions and level of familiarity.
 
-## Engage with the complete exhibition
+#### Engage with the complete exhibition
 
 Students are also expected to:
 
@@ -252,9 +261,9 @@ Students are also expected to:
 - Avoid unrelated computer or phone use
 - Keep food, drinks, bags, and personal belongings away from artworks and equipment
 
-> Engagement is assessed throughout the exhibition, not only while speaking about your own project.
+> Engagement is assessed throughout the exhibition through the responsibilities assigned to each student. Speaking with visitors is one possible form of engagement, not the only one.
 
-## Monitor the project
+#### Monitor the project
 
 Throughout the exhibition, groups must:
 
@@ -270,7 +279,7 @@ Throughout the exhibition, groups must:
 
 <details class="tutorial-section" id="cleanup-team">
   <summary>
-    <span class="section-title">5. Cleanup Team and project removal</span>
+    <span class="section-title" role="heading" aria-level="3">5. Cleanup Team and project removal</span>
     <span class="section-description">
       Remove the projects safely, restore the space, and confirm that no work, equipment, or waste remains.
     </span>
@@ -323,6 +332,7 @@ Before the exhibition:
 - [ ] We tested all media, links, interactions, software, and equipment.
 - [ ] Our printed poster is ready, and its QR code opens the correct public Webador entry.
 - [ ] Required labels, instructions, credits, and accessibility supports are ready.
+- [ ] Videos have captions, audio-only material has a transcript or equivalent text summary, and important visual or interactive information has a text alternative.
 - [ ] Consent, privacy, representation, safety, and cultural requirements have been addressed.
 - [ ] We planned a rotation for presenting the project and engaging with visitors.
 - [ ] All members are prepared to discuss the project.
@@ -337,7 +347,7 @@ After the exhibition:
 - [ ] We left the exhibition space clean, safe, and organized.
 - [ ] The instructor confirmed that our team responsibilities were complete.
 
-> Missing the exhibition, arriving without a presentation-ready project, failing to complete an assigned exhibition-team role, leaving the work unattended, removing work early, or failing to help restore the space will affect the exhibition assessment unless an alternative has been approved.
+> Missing required participation without an approved alternative, arriving without a presentation-ready project, not completing an assigned exhibition-team role, leaving the work unsupported, removing it early, or not helping restore the space will affect the exhibition assessment according to the assignment criteria.
 
 ---
 

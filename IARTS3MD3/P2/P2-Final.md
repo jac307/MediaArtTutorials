@@ -1,8 +1,10 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 
-## P2: Research-Creation Project · Groups of 3–4
+# P2: Research-Creation Project
 
-# Final Submission
+## Final Submission
+
+**Work format:** Groups of 3–4
 
 **Goal:** Complete the final version of the research-creation project, document it on Webador, and analyze how the group’s artistic decisions connect to the research, selected artist or collective, unfamiliar technology, and intended audience experience. Create a final research-creation poster that directs viewers to the complete Webador entry.
 
@@ -43,14 +45,14 @@ Complete the following stages in order.
 
 <details class="tutorial-section" id="review-feedback-plan-final">
   <summary>
-    <span class="section-title">1. Review the critique and plan the final revisions</span>
+    <span class="section-title" role="heading" aria-level="3">1. Review the critique and plan the final revisions</span>
     <span class="section-description">
       Evaluate the feedback, select the changes that strengthen the project, and assign the remaining work.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Review the project record
+#### Review the project record
 
 Review:
 
@@ -64,7 +66,7 @@ Review:
 - Feedback from the instructor and class
 - Remaining technical, artistic, accessibility, ethical, or production concerns
 
-## Evaluate the critique feedback
+#### Evaluate the critique feedback
 
 Organize the feedback under the following categories:
 
@@ -86,7 +88,7 @@ For each significant recommendation, decide whether the group will:
 
 Record a brief reason for each decision. The group is not required to follow every comment, but decisions must be intentional and supported.
 
-## Prepare the final revision plan
+#### Prepare the final revision plan
 
 Complete the following table:
 
@@ -101,14 +103,14 @@ Complete all Required changes before Optional refinements.
 
 <details class="tutorial-section" id="complete-final-project">
   <summary>
-    <span class="section-title">2. Complete the final research-creation project</span>
+    <span class="section-title" role="heading" aria-level="3">2. Complete the final research-creation project</span>
     <span class="section-description">
       Produce, integrate, test, and document the final version of the artwork.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Complete the final revisions
+#### Complete the final revisions
 
 Each member must:
 
@@ -120,7 +122,7 @@ Each member must:
 - Share all required files and materials with the group
 - Meet the group’s internal deadlines
 
-## Assemble the final project
+#### Assemble the final project
 
 The final project must:
 
@@ -138,7 +140,7 @@ The final project must:
 
 > Final does not mean that an artwork can never change again. It means that the submitted project is complete within its approved scope and does not depend on missing material or future explanation to function.
 
-## Complete the final quality check
+#### Complete the final quality check
 
 Experience the complete project under its intended conditions as closely as possible.
 
@@ -161,14 +163,14 @@ Confirm that:
 
 <details class="tutorial-section" id="document-final-project">
   <summary>
-    <span class="section-title">3. Document the final project on Webador</span>
+    <span class="section-title" role="heading" aria-level="3">3. Document the final project on Webador</span>
     <span class="section-description">
       Add a complete public record of the final artwork without removing the earlier project stages.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Add the final project section
+#### Add the final project section
 
 Open the selected artist or collective’s Webador page. Add the final project after the earlier prototype sections using the heading:
 
@@ -187,7 +189,7 @@ Include:
 
 Do not include student numbers or private production information on Webador.
 
-## Write the final project description
+#### Write the final project description
 
 Explain:
 
@@ -199,7 +201,7 @@ Explain:
 
 Write for a general audience. Do not provide a chronological account of the production process or repeat the complete Artistic Analysis.
 
-## Prepare the final documentation
+#### Prepare the final documentation
 
 Select five to eight images showing:
 
@@ -217,6 +219,8 @@ Each image must include:
 
 For video, animation, sound, performance, interactive, or other time-based work, upload the final documentation to **YouTube or Vimeo** and embed it on Webador. The media may be unlisted but must remain accessible without requiring permission.
 
+Videos must include captions. Audio-only material must include a transcript or an equivalent text summary. Provide a text explanation for important visual, interactive, spatial, or sensory information that is not otherwise communicated.
+
 For web-based or interactive projects, include a stable public link and enough documentation for the project to remain understandable if the external experience later becomes unavailable.
 
 > Obtain consent before photographing, recording, quoting, or identifying anyone outside the group.
@@ -226,14 +230,14 @@ For web-based or interactive projects, include a stable public link and enough d
 
 <details class="tutorial-section" id="write-artistic-analysis">
   <summary>
-    <span class="section-title">4. Write the collaborative Artistic Analysis</span>
+    <span class="section-title" role="heading" aria-level="3">4. Write the collaborative Artistic Analysis</span>
     <span class="section-description">
       Analyze how the group’s decisions connect the theory, research, artistic precedents, technology, and audience experience.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Add the Artistic Analysis section
+#### Add the Artistic Analysis section
 
 On Webador, add the heading:
 
@@ -255,7 +259,7 @@ The total expected length is:
 | 3 members | 5 paragraphs | 750–1,000 words |
 | 4 members | 6 paragraphs | 900–1,200 words |
 
-## Write the introduction paragraph collaboratively
+#### Write the introduction paragraph collaboratively
 
 The introduction should:
 
@@ -267,7 +271,7 @@ The introduction should:
 
 The introduction should establish a focused argument rather than summarize each paragraph.
 
-## Write the individual decision paragraphs
+#### Write the individual decision paragraphs
 
 Each member must write one paragraph analyzing **one distinct artistic decision**.
 
@@ -299,7 +303,7 @@ The paragraph remains part of a collaborative analysis even though one member is
 
 > A paragraph describing what a student made, which software they used, or whether the task was difficult is not an artistic analysis unless it explains the decision’s relationship to the research and its effect on the artwork.
 
-## Write the conclusion paragraph collaboratively
+#### Write the conclusion paragraph collaboratively
 
 The conclusion should:
 
@@ -312,7 +316,7 @@ The conclusion should:
 
 Do not introduce a new major decision or source in the conclusion.
 
-## Revise the analysis as one text
+#### Revise the analysis as one text
 
 After drafting the paragraphs, revise the complete analysis as a group.
 
@@ -335,14 +339,14 @@ Confirm that:
 
 <details class="tutorial-section" id="final-references">
   <summary>
-    <span class="section-title">5. Add the final APA reference list</span>
+    <span class="section-title" role="heading" aria-level="3">5. Add the final APA reference list</span>
     <span class="section-description">
       Provide a complete, updated list of the sources cited in the final project description and Artistic Analysis.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Add the References section
+#### Add the References section
 
 After the Artistic Analysis, add the heading:
 
@@ -368,14 +372,14 @@ The list must:
 
 <details class="tutorial-section" id="final-poster">
   <summary>
-    <span class="section-title">6. Design, upload, and print the research-creation poster</span>
+    <span class="section-title" role="heading" aria-level="3">6. Design, upload, and print the research-creation poster</span>
     <span class="section-description">
       Create a final poster that presents the project and directs viewers to the complete Webador entry.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Design the poster
+#### Design the poster
 
 Create a digitally designed research-creation poster that communicates the final project without reproducing the complete Webador page or Artistic Analysis.
 
@@ -399,7 +403,7 @@ Include:
 
 The final project and its research connections should remain the focus. Do not allow biographical information about the artist or collective to dominate the poster.
 
-## Add and test the Webador QR code
+#### Add and test the Webador QR code
 
 The poster must include a QR code that opens the group’s **final public Webador entry**.
 
@@ -416,7 +420,7 @@ The poster must include a QR code that opens the group’s **final public Webado
 
 > Generate the QR code only after confirming the final public Webador URL. If the page address changes, generate and test a new code before printing.
 
-## Follow the poster design requirements
+#### Follow the poster design requirements
 
 - Use an **18 × 24-inch horizontal format**.
 - Use full colour unless the visual approach requires otherwise.
@@ -432,7 +436,7 @@ The poster must include a QR code that opens the group’s **final public Webado
 
 A viewer should be able to identify the project, artistic question, research context, selected artist or collective, technology, and final direction within a few minutes.
 
-## Prepare the poster files
+#### Prepare the poster files
 
 Export the poster as a print-ready PDF at its final 18 × 24-inch size.
 
@@ -442,7 +446,7 @@ Name the file:
 
 Replace `#` with the assigned group number.
 
-When possible, export the poster with selectable text rather than flattening the complete design into one image.
+Export the poster with selectable text whenever the software allows it. Use a logical reading order and working links. If the exported poster is flattened into one image, provide the same essential information as accessible text on Webador.
 
 Also export a high-quality `.JPG` or `.PNG` version for Webador.
 
@@ -454,7 +458,7 @@ or:
 
 `P2-Final-Group#-Research-Creation-Poster.png`
 
-## Add the poster to Webador
+#### Add the poster to Webador
 
 Under the final project information, add the heading:
 
@@ -469,7 +473,7 @@ Include:
 
 Confirm that the QR code remains readable in the uploaded poster image. The Webador page already contains the linked information, but the code should still appear accurately as part of the poster design.
 
-## Print and deliver the poster
+#### Print and deliver the poster
 
 - Print one copy at **18 × 24 inches**.
 - Check the printed poster for legibility, colour, image quality, cropping, and margins.
@@ -485,14 +489,14 @@ If printing or physically delivering the poster creates an access barrier, conta
 
 <details class="tutorial-section" id="audit-webador">
   <summary>
-    <span class="section-title">7. Review the complete Webador entry</span>
+    <span class="section-title" role="heading" aria-level="3">7. Review the complete Webador entry</span>
     <span class="section-description">
       Confirm that the complete project record is present, functional, accessible, and unchanged before submitting the final link.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Preserve the development record
+#### Preserve the development record
 
 Review the group’s complete Webador entry from beginning to end.
 
@@ -514,7 +518,7 @@ The complete entry should include the required sections from earlier stages, inc
 
 If the course instructions used a different exact heading for an earlier required section, preserve that heading.
 
-## Complete the Webador audit
+#### Complete the Webador audit
 
 Confirm that:
 
@@ -530,11 +534,14 @@ Confirm that:
 - [ ] Images are clear, correctly oriented, and appropriately sized.
 - [ ] Every required image includes a caption, alt text, and credit.
 - [ ] Videos and audio are embedded correctly.
+- [ ] Videos include captions, and audio-only material includes a transcript or equivalent text summary.
+- [ ] Important visual, interactive, spatial, or sensory information has a text alternative.
 - [ ] Project links, media, documents, and QR codes open without requesting access.
 - [ ] The final poster is visible and its PDF link works when provided.
 - [ ] Consent and permission requirements have been followed.
 - [ ] Another group’s content and the website’s global settings have not been changed.
 - [ ] The page has been reviewed on both a computer and a mobile device.
+- [ ] Headings follow a logical order, link text is descriptive, text has sufficient contrast, and important information does not rely on colour alone.
 - [ ] All group members have reviewed and approved the complete entry.
 
 Open the public page in a private or incognito browser window for the final access check. This helps confirm that visitors can view the project without being signed into the group’s accounts.
@@ -568,7 +575,7 @@ Before submitting the Webador link, confirm that:
 - [ ] Earlier required sections remain present and unchanged.
 - [ ] The printed poster has been prepared and will be delivered by the stated deadline.
 
-> An incomplete or inaccessible final artwork, missing analysis paragraph, unsupported theoretical connection, incomplete reference list, missing or unreadable poster, incorrect QR code, broken link, missing caption, alt text, citation, consent, permission, or credit, altered earlier section, or late physical poster will affect the grade.
+> A final artwork or link that cannot be opened or accessed may need to be resubmitted and may be considered late. Missing project content, analysis, research connections, references, poster information, captions, alt text, media alternatives, citations, consent, permissions, credits, or required earlier sections will affect the grade according to the assignment criteria.
 
 ---
 

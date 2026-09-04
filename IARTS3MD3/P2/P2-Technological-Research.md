@@ -1,8 +1,10 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
 
-## P2: Research-Creation Project · Groups of 3–4
+# P2: Research-Creation Project
 
-# Technological Research
+## Technological Research
+
+**Work format:** Groups of 3–4
 
 **Goal:** Research, learn, and test the unfamiliar technology or technique selected in Version 1. Use focused experiments to determine what it can contribute to the project, what limitations or risks it introduces, and how it should be used in the first artistic prototype.
 
@@ -38,7 +40,7 @@ Complete the following stages in order.
 
 <details class="tutorial-section" id="plan-and-learn">
   <summary>
-    <span class="section-title">1. Plan the Technological Research and begin learning</span>
+    <span class="section-title" role="heading" aria-level="3">1. Plan the Technological Research and begin learning</span>
     <span class="section-description">
       Turn the provisional concept into focused technical questions, select reliable learning resources, and prepare the hands-on tests.
     </span>
@@ -46,7 +48,7 @@ Complete the following stages in order.
 
 <div class="section-content" markdown="1">
 
-## Review the provisional concept
+#### Review the provisional concept
 
 Review the following materials from Version 1:
 
@@ -59,7 +61,7 @@ Review the following materials from Version 1:
 
 Discuss what the proposed artwork needs the technology or technique to accomplish. Do not begin with general questions about everything the tool can do.
 
-## Select the learning resources
+#### Select the learning resources
 
 Identify reliable resources that will help the group learn the basic process required for the planned tests.
 
@@ -82,7 +84,7 @@ Different members may complete different sections or resources, but everyone mus
 
 > Watching or reading a tutorial is preparation. It becomes part of the experiment only when the group applies the process through hands-on testing.
 
-## Plan the Technological Research
+#### Plan the Technological Research
 
 Identify **two or three specific technical questions** that can be answered through making and testing. Multiple group members may investigate the same question through different inputs, settings, materials, or conditions.
 
@@ -94,7 +96,7 @@ Examples:
 - Does the process create an accessibility, privacy, consent, safety, or cost problem?
 - What must the group learn before producing the first artistic prototype?
 
-## Plan one test per group member
+#### Plan one test per group member
 
 Each member must plan, complete, and document **one hands-on test** using the unfamiliar technology or technique.
 
@@ -111,7 +113,7 @@ Complete the following table:
 
 > All tests must involve direct use of the technology or technique. Researching a tool, reading documentation, or watching a tutorial does not count as a hands-on test.
 
-## Confirm access, ethics, and safety
+#### Confirm access, ethics, and safety
 
 Before testing, confirm that:
 
@@ -125,11 +127,11 @@ Before testing, confirm that:
 
 If the technology cannot be accessed or tested safely, record the specific barrier and consult the instructor before replacing it.
 
-## Prepare the group experiment plan
+#### Prepare the group experiment plan
 
 Prepare one group document named:
 
-`P2_Technology-Experiment-Plan.pdf`
+`P2_Technological-Research-Plan.pdf`
 
 Include:
 
@@ -146,13 +148,15 @@ Include:
 
 Include working links for all learning resources.
 
+Export the document as a text-based PDF. Text must be selectable, headings must follow a logical order, and links must work. Add a caption and useful alt text or an equivalent text description for every important image, diagram, or screenshot.
+
 </div>
 
 </details>
 
 <details class="tutorial-section" id="test-and-document">
   <summary>
-    <span class="section-title">2. Conduct and document the experiments</span>
+    <span class="section-title" role="heading" aria-level="3">2. Conduct and document the experiments</span>
     <span class="section-description">
       Apply the learning resources, complete one hands-on test per member, and document what happens.
     </span>
@@ -160,11 +164,11 @@ Include working links for all learning resources.
 
 <div class="section-content" markdown="1">
 
-## Complete the technical learning
+#### Complete the technical learning
 
 Each member must complete their assigned tutorial, documentation section, demonstration, or technical process and apply it to their test.
 
-## Conduct one focused test per member
+#### Conduct one focused test per member
 
 Each member must personally complete and document **one hands-on test** using the unfamiliar technology or technique.
 
@@ -174,7 +178,7 @@ The tests may build on one another or investigate the same technical question th
 
 > Every member must directly use the technology or technique. Observing another member’s test or documenting it without participating does not count as completing a hands-on test.
 
-## Record each test
+#### Record each test
 
 | Area | What to record |
 |---|---|
@@ -189,7 +193,7 @@ The tests may build on one another or investigate the same technical question th
 | Limitation | Technical, conceptual, ethical, accessibility, cost, time, or safety concern |
 | Next step | What should be repeated, changed, learned, or tested next |
 
-## Document unsuccessful and unexpected results
+#### Document unsuccessful and unexpected results
 
 Do not remove unsuccessful attempts. A useful experiment may show that:
 
@@ -202,7 +206,7 @@ Do not remove unsuccessful attempts. A useful experiment may show that:
 
 Explain what the group learned and how the finding should affect the next iteration.
 
-## Connect the tests to the research
+#### Connect the tests to the research
 
 Across the experiments, identify:
 
@@ -212,7 +216,7 @@ Across the experiments, identify:
 
 Do not evaluate the technology only according to whether it functions correctly.
 
-## Prepare the individual technology-learning log
+#### Prepare the individual technology-learning log
 
 Each member must prepare a PDF containing:
 
@@ -230,7 +234,9 @@ Each member must prepare a PDF containing:
 
 Name the file:
 
-`Lastname-Firstname_P2_Technology-Experiment-Log.pdf`
+`Lastname-Firstname_P2_Technological-Research-Log.pdf`
+
+Export the log as a text-based PDF. Text must be selectable, headings must follow a logical order, and links must work. Add captions and useful alt text or equivalent text descriptions to the test evidence.
 
 Share the completed log with the entire group before preparing the findings report.
 
@@ -240,7 +246,7 @@ Share the completed log with the entire group before preparing the findings repo
 
 <details class="tutorial-section" id="evaluate-and-submit">
   <summary>
-    <span class="section-title">3. Evaluate the findings and prepare the submission</span>
+    <span class="section-title" role="heading" aria-level="3">3. Evaluate the findings and prepare the submission</span>
     <span class="section-description">
       Compare the results, decide how the technology will be used, document the findings on Webador, and prepare the presentation.
     </span>
@@ -248,7 +254,7 @@ Share the completed log with the entire group before preparing the findings repo
 
 <div class="section-content" markdown="1">
 
-## Compare the results
+#### Compare the results
 
 As a group, review all individual learning logs and test evidence.
 
@@ -263,7 +269,7 @@ Discuss:
 
 Use evidence from the tests when discussing the results. Do not evaluate the technology only according to whether it functioned correctly.
 
-## Make the technology decision
+#### Make the technology decision
 
 Select one decision and support it with evidence from the tests:
 
@@ -286,7 +292,7 @@ Do not explain the decision only as a preference. Refer to specific tests, outpu
 
 > Consult the instructor before replacing the technology. The replacement must remain unfamiliar to every group member and connect meaningfully to the project.
 
-## Write the Technological Research summary
+#### Write the Technological Research summary
 
 Write a **150–200-word summary** for the Webador page explaining:
 
@@ -301,7 +307,7 @@ Focus on what the group learned through direct experimentation. Do not provide a
 
 > This summary documents what the group learned during **Technological Research: Version 1**. It is not a new concept proposal or a plan for the first artistic prototype.
 
-## Select documentation for the Webador gallery
+#### Select documentation for the Webador gallery
 
 Select **three to five images** that clearly document the experiments.
 
@@ -323,9 +329,11 @@ Each image must include:
 
 For time-based, interactive, or sound experiments, include a short video, audio example, GIF, or stable viewing link when it is necessary to understand the result.
 
+Videos must include captions. Audio-only material must include a transcript or an equivalent text summary. If a GIF communicates important information, provide the same information in text and avoid rapid flashing.
+
 > Select documentation that helps readers understand the process and findings. Do not upload every screenshot or unsuccessful attempt recorded by the group.
 
-## Add the Technological Research to Webador
+#### Add the Technological Research to Webador
 
 Use the Webador login information provided on Avenue to Learn. Open the existing profile page for the selected artist or collective.
 
@@ -342,7 +350,7 @@ Include:
 
 > Do not upload the group experiment plan or individual learning logs. These materials may contain student numbers, technical notes, private information, or unedited working material.
 
-### Review the Webador update
+##### Review the Webador update
 
 Before saving or publishing, confirm that:
 
@@ -364,7 +372,7 @@ Before saving or publishing, confirm that:
 
 Save or publish the update only after all group members have reviewed it.
 
-## Pecha Kucha: Prepare the one-minute presentation
+#### Pecha Kucha: Prepare the one-minute presentation
 
 During the following lecture, each group will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
 
@@ -379,15 +387,16 @@ Prepare **one slide in image format** containing:
 
 Choose one speaker who did not speak in Version 1. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
-## Slide requirements
+#### Slide requirements
 
 - Submit one `.JPG` or `.PNG` image.
 - Use a 16:9 format, preferably `1920 × 1080 px`.
 - Keep the text brief and readable.
 - Caption the test images or outputs.
 - Credit any material created outside the group.
+- Include all slide text, image captions, credits, and brief descriptions of important visual evidence in the group Technological Research plan. This provides a text alternative to the image slide.
 - Choose a speaker who did not present Version 1.
-- Do not exceed two minutes.
+- Do not exceed one minute.
 
 Name the file:
 
@@ -416,7 +425,7 @@ Update the Webador profile and submit the listed files individually through Aven
 | Individual technology-learning log | `Lastname-Firstname_P2_Technological-Research-Log.pdf` | Each member submits their own file |
 | Presentation slide | `P2_Technological-Research-Slide.jpg` or `P2_Technological-Research-Slide.png` | One member submits on behalf of the group |
 
-> An incomplete Webador update, missing experiment plan, missing individual participation, undocumented result, inaccessible evidence or link, missing citation, caption, alt text, or credit, incorrect filename or file extension, or slide that does not follow the required format will affect the grade.
+> Follow the required filenames and formats so the work can be identified and opened. A file that cannot be identified, opened, or accessed may need to be resubmitted and may be considered late. Missing experiments, evidence, citations, credits, accessibility information, or required project content will affect the grade according to the assignment criteria.
 
 ---
 

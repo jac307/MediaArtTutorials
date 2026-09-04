@@ -1,8 +1,10 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
 
-## P2: Research-Creation Project · Groups of 3–4
+# P2: Research-Creation Project
 
-# Version 1: Artist/Collective Inspiration and Concept Proposal
+## Version 1: Artist or Collective Inspiration and Concept Proposal
+
+**Work format:** Groups of 3–4
 
 **Goal:** Establish the first direction for the Research-Creation Project. Select an artist or collective from the Webador profiles, extend the existing research-creation proposal through artistic and academic research, and identify an unfamiliar technology or technique to test in the next version.
 
@@ -38,22 +40,22 @@ Complete the following stages in order.
 
 <details class="tutorial-section" id="select-and-research">
   <summary>
-    <span class="section-title">1. Select the artist and complete individual research</span>
+    <span class="section-title" role="heading" aria-level="3">1. Select the artist and complete individual research</span>
     <span class="section-description">
-      Select a Project 1 Webador profile, examine the existing proposal, and individually research one artwork and one academic source.
+      Select a Project 1 Webador profile, examine the existing proposal, and complete the assigned artistic and academic research.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Select an artist or collective
+#### Select an artist or collective
 
-Select one artist or collective from the completed Project 1 Webador profiles (find URL link on Avenue to Learn).
+Select one artist or collective from the completed Project 1 Webador profiles. The Webador link is available on Avenue to Learn.
 
 The selection must meet the following conditions:
 
 - None of the group members researched this artist or collective for Project 1.
-- No other group has claim this artist or collective.
+- No other group has selected this artist or collective.
 
 Record:
 
@@ -65,7 +67,7 @@ Record:
 
 > Credit the Project 1 profile authors when discussing or adapting their proposal. The Webador proposal is the starting point for this iteration, not a finished idea that must remain unchanged.
 
-## Review the existing research-creation proposal
+#### Review the existing research-creation proposal
 
 Read the complete Webador profile, including the artist profile, artworks, research focus, critical analysis, annotated bibliography, research-creation proposal, and poster.
 
@@ -78,7 +80,7 @@ Discuss:
 - What remains general, unresolved, technically uncertain, or ethically difficult?
 - What would your group need to change for the idea to reflect your own interests and skills?
 
-## Divide the artistic research
+#### Divide the artistic research
 
 Each member must research one artwork or project by the selected artist or collective.
 
@@ -101,7 +103,7 @@ For each assigned work, record:
 | Documentation | Reliable images, video, audio, exhibition records, or other documentation |
 | Research gaps | Missing information or questions requiring further research |
 
-## Divide the academic research
+#### Divide the academic research
 
 Each member must:
 
@@ -122,20 +124,22 @@ For each source, record:
 
 > Read each assigned source in full. Do not use generated summaries in place of reading, as they may omit important arguments, examples, context, or limitations.
 
-## Prepare the individual research document
+#### Prepare the individual research document
 
 Each student must submit one individual PDF containing:
 
 - [ ] Full name and student number
 - [ ] Complete artistic research notes for the assigned artwork or project
-- [ ] Complete academic research notes for the assigned source
-- [ ] APA reference and working link for the source
+- [ ] Complete academic research notes for all three assigned sources
+- [ ] APA references and working links for all three sources
 - [ ] Reliable links to the artwork documentation
 - [ ] Two or three possible connections between the research and the project direction
 
 Name the file:
 
 `Lastname-Firstname_P2_Version1-Research-Notes.pdf`
+
+Export the document as a text-based PDF. Text must be selectable, headings must follow a logical order, and links must work. Add a caption and useful alt text or an equivalent text description for every important image. Do not submit scanned pages or screenshots as the complete PDF.
 
 > Share the document with every member of the group before continuing.
 
@@ -144,7 +148,7 @@ Name the file:
 
 <details class="tutorial-section" id="iterate-and-technology">
   <summary>
-    <span class="section-title">2. Revise the proposal and select an unfamiliar technology</span>
+    <span class="section-title" role="heading" aria-level="3">2. Revise the proposal and select an unfamiliar technology</span>
     <span class="section-description">
       Share the individual research, map changes to the original proposal, and select an unfamiliar technology or technique for the next experiment.
     </span>
@@ -152,7 +156,7 @@ Name the file:
 
 <div class="section-content" markdown="1">
 
-## Share the research
+#### Share the research
 
 Each member must explain their assigned artwork and academic research to the group.
 
@@ -166,7 +170,7 @@ During the discussion:
 
 > Every member should understand how the artistic and academic research relates to the proposed project before the group selects its direction.
 
-## Prepare the iteration map
+#### Prepare the iteration map
 
 Treat the Project 1 research-creation proposal as **Iteration 1** of the project. Decide what your group will retain, revise, remove, or add.
 
@@ -184,7 +188,7 @@ Use the following table:
 
 The group may change the medium, technique, technology, audience, or form when the new direction is supported by the research.
 
-## Complete a group skills audit
+#### Complete a group skills audit
 
 List the relevant skills, software, tools, techniques, and production experience already held by each member.
 
@@ -194,7 +198,7 @@ List the relevant skills, software, tools, techniques, and production experience
 
 Use the audit to distinguish the group’s existing knowledge from the new learning required for P2.
 
-## Consider two unfamiliar technologies or techniques
+#### Consider two unfamiliar technologies or techniques
 
 Identify two possible techniques, software applications, tools, material processes, or technologies that **none of the group members knows how to use independently**.
 
@@ -224,7 +228,7 @@ For each option, prepare brief notes:
 
 You do not need to select or complete specific tutorials during Version 1.
 
-## Select one technology or technique
+#### Select one technology or technique
 
 Choose one of the two options as the group’s primary direction.
 
@@ -234,11 +238,11 @@ Briefly explain:
 - How it connects to the selected artist or collective
 - What it may contribute to the artwork or audience experience
 - Why it appears feasible within the available time and resources
-- What the group needs to discover through the Technology Experiment
+- What the group needs to discover through the Technological Research
 
 > The selection is provisional. The group may revise its approach if experimentation reveals an important technical, artistic, ethical, accessibility, or logistical limitation.
 
-## Prepare the group iteration and technology notes
+#### Prepare the group iteration and technology notes
 
 Prepare one group document named:
 
@@ -259,6 +263,8 @@ The document must include:
 - [ ] Initial accessibility, ethical, safety, cost, and feasibility concerns
 - [ ] The main question the group needs to investigate during the Technological Research
 
+Export the document as a text-based PDF. Text must be selectable, headings must follow a logical order, and links must work. Add a caption and useful alt text or an equivalent text description for every important image, diagram, or screenshot.
+
 > Detailed tutorial selection, experiment planning, hands-on testing, and documentation will be completed during the Technological Research.
 
 </div>
@@ -267,7 +273,7 @@ The document must include:
 
 <details class="tutorial-section" id="proposal-and-submission">
   <summary>
-    <span class="section-title">3. Develop the provisional concept and prepare the submission</span>
+    <span class="section-title" role="heading" aria-level="3">3. Develop the provisional concept and prepare the submission</span>
     <span class="section-description">
       Develop the current concept iteration, create a visual development page, update Webador, and prepare the presentation slide.
     </span>
@@ -275,7 +281,7 @@ The document must include:
 
 <div class="section-content" markdown="1">
 
-## Write the provisional concept proposal
+#### Write the provisional concept proposal
 
 Write a **250–350-word provisional concept proposal** describing the group’s current direction. This proposal will establish the artistic purpose for the Technological Research.
 
@@ -291,7 +297,7 @@ Write in your own words using clear and specific language. Avoid broad statement
 
 > This proposal records the project’s direction before technological experimentation. The concept and use of technology are expected to change according to what the group learns during the Technological Research.
 
-## Create a working concept sketch
+#### Create a working concept sketch
 
 Create **one annotated sketch or diagram** showing how the proposed artwork might work.
 
@@ -314,7 +320,7 @@ The sketch does not need to be polished or technically accurate. Its purpose is 
 
 Credit any image or media created outside the group.
 
-## Update the Webador profile
+#### Update the Webador profile
 
 After completing the provisional concept proposal and visual development page, update the selected artist or collective’s Webador profile under **Research-Creation Proposal: Iteration 2**.
 
@@ -331,7 +337,7 @@ Include:
 
 > Do not delete or replace the Project 1 research-creation proposal. It must remain on the page as **Iteration 1** so readers can follow how the project changes.
 
-### Update the artworks or projects
+##### Update the artworks or projects
 
 If your group researched artworks or projects that are not already included on the Webador page, add them to the existing **Selected Artworks or Projects** section.
 
@@ -349,9 +355,11 @@ Every image or item of documentation must include:
 - Image or media credit
 - Alt text
 
+Videos must include captions. Audio-only material must include a transcript or an equivalent text summary.
+
 > Do not repeat artworks or information already included on the page. Add only material that helps readers understand the new proposal.
 
-### Review the Webador update
+##### Review the Webador update
 
 Before publishing or saving the changes, confirm that:
 
@@ -369,7 +377,7 @@ Before publishing or saving the changes, confirm that:
 
 Save or publish the update only after all group members have reviewed it.
 
-## Pecha Kucha: Prepare the one-minute presentation
+#### Pecha Kucha: Prepare the one-minute presentation
 
 During the following lecture, each group will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
 
@@ -385,14 +393,15 @@ Prepare **one slide in image format** containing:
 
 Choose one speaker. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
-## Slide requirements
+#### Slide requirements
 
 - Submit one `.JPG` or `.PNG` image.
 - Use a 16:9 format, preferably `1920 × 1080 px`.
 - Keep the text brief and readable.
 - Credit any artwork or image created outside the group.
+- Include all slide text, image captions, credits, and a brief description of important visual content in the group iteration and technology notes PDF. This provides a text alternative to the image slide.
 - Choose one speaker for the presentation.
-- Do not exceed two minutes.
+- Do not exceed one minute.
 
 Name the file:
 
@@ -419,7 +428,7 @@ or:
 | Group iteration and technology notes | `P2_Version1-Iteration-Technology-Notes.pdf` |
 | Presentation slide | `P2_Version1-Concept-Proposal-Slide.jpg` or `P2_Version1-Concept-Proposal-Slide.png` |
 
-> An incomplete Webador update, incorrect filename or file extension, files that do not open, missing individual or group notes, incomplete research, missing citations or image credits, inaccessible links, or a slide that does not follow the required format will affect the grade.
+> Follow the required filenames and formats so the work can be identified and opened. A file that cannot be identified, opened, or accessed may need to be resubmitted and may be considered late. Missing research, citations, credits, accessibility information, or required project content will affect the grade according to the assignment criteria.
 
 ---
 

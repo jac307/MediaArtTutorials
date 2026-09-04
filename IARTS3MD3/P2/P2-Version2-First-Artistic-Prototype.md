@@ -1,8 +1,10 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
 
-## P2: Research-Creation Project · Groups of 3–4
+# P2: Research-Creation Project
 
-# Version 2: First Artistic Prototype
+## Version 2: First Artistic Prototype
+
+**Work format:** Groups of 3–4
 
 **Goal:** Use the findings from the Technological Research to revise the project direction and produce a first prototype version of the artwork. Combine the concept, selected strategies from the artist or collective, and unfamiliar technology or technique in a form that the group can experience, document, and develop.
 
@@ -38,14 +40,14 @@ Complete the following stages in order.
 
 <details class="tutorial-section" id="revise-proposal">
   <summary>
-    <span class="section-title">1. Revise the proposal using the Technological Research</span>
+    <span class="section-title" role="heading" aria-level="3">1. Revise the proposal using the Technological Research</span>
     <span class="section-description">
       Review the technical findings, decide what must change, and write Research-Creation Proposal: Iteration 3.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Review the previous iteration
+#### Review the previous iteration
 
 - **Research-Creation Proposal: Iteration 2**
 - Working concept sketch
@@ -64,7 +66,7 @@ Discuss:
 5. What can the group realistically produce within the remaining time?
 6. What should the audience be able to see, hear, do, or experience in the first prototype?
 
-## Prepare the proposal iteration map
+#### Prepare the proposal iteration map
 
 Record the main changes from Iteration 2.
 
@@ -80,7 +82,7 @@ Record the main changes from Iteration 2.
 
 Focus on significant changes. Do not repeat every detail from the previous proposal.
 
-## Write Research-Creation Proposal: Iteration 3
+#### Write Research-Creation Proposal: Iteration 3
 
 Write a revised **250–350-word proposal** explaining:
 
@@ -95,7 +97,7 @@ The proposal should describe the project as it currently exists, not provide a h
 
 > Iteration 3 establishes the direction for the first artistic prototype. It may change again after the prototype is assembled, experienced, and evaluated.
 
-## Revise the working concept sketch
+#### Revise the working concept sketch
 Update the concept sketch, storyboard, diagram, score, spatial plan, interface plan, or other visual development material from Version 1.
 
 Show:
@@ -108,7 +110,7 @@ Show:
 
 The revised sketch should help the group plan production. It does not need to present a polished design.
 
-## Add Proposal Iteration 3 to Webador
+#### Add Proposal Iteration 3 to Webador
 
 After completing the revised proposal and concept sketch, update the selected artist or collective’s Webador page.
 
@@ -142,14 +144,14 @@ Save or publish the update only after all group members have reviewed it.
 
 <details class="tutorial-section" id="setup-production-document">
   <summary>
-    <span class="section-title">2. Set up the shared online production document</span>
+    <span class="section-title" role="heading" aria-level="3">2. Set up the shared online production document</span>
     <span class="section-description">
       Create the shared document and production folder that the group will use throughout the first artistic prototype.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Create the shared online production document
+#### Create the shared online production document
 
 Before planning or producing the prototype, create one shared online document that the group will use to record all planning, individual work, production evidence, and assembly.
 
@@ -170,6 +172,8 @@ Organize the document in the following order using tabs in Google Docs or Headin
 
 In Google Docs, create one tab for each section. In Microsoft Word Online, apply the **Heading 1** style to each section title and add an automatic table of contents at the beginning.
 
+Use built-in heading styles, descriptive link text, and a logical reading order. Add useful alt text or an equivalent text description for important images, diagrams, and screenshots. These practices make the shared document easier to navigate with assistive technology.
+
 Name the shared online document:
 
 `P2-Version2-Group#-First-Artistic-Prototype`
@@ -180,13 +184,13 @@ For example:
 
 `P2-Version2-Group3-First-Artistic-Prototype`
 
-### Tutorials
+##### Tutorials
 
 <div style="width: 80%; margin: 0 auto;">
   <iframe
     style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
     src="https://www.youtube.com/embed/DFDubycEcE4?si=8vNyNqEJFYYy2n0U"
-    title="Tutorial: Setting up the shared online production document"
+    title="Video tutorial: Organize content with Google Docs tabs"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
@@ -197,14 +201,19 @@ For example:
   <iframe
     style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
     src="https://www.youtube.com/embed/cbKYRi_PvjI?si=P-74XyN6EQoRgLqE"
-    title="YouTube video player"
+    title="Video tutorial: Create a table of contents in Microsoft Word"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
   </iframe>
 </div>
 
-## Set the sharing permissions
+- [Watch the Google Docs tabs tutorial on YouTube](https://www.youtube.com/watch?v=DFDubycEcE4)
+- [Watch the Microsoft Word table-of-contents tutorial on YouTube](https://www.youtube.com/watch?v=cbKYRi_PvjI)
+
+The written instructions above contain the required steps. The videos provide optional demonstrations.
+
+#### Set the sharing permissions
 
 Set the document permissions so that:
 
@@ -217,13 +226,13 @@ The group will submit this document as a link through Avenue to Learn. Do not ex
 
 > The document’s organization, dated process notes, and editing history will help demonstrate how the project developed and how each member contributed.
 
-### Tutorials
+##### Tutorials
 
 <div style="width: 80%; margin: 0 auto;">
   <iframe
     style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
     src="https://www.youtube.com/embed/8hOecmkfiqE?si=MsGP-0Szi2X7g2Sg"
-    title="YouTube video player"
+    title="Video tutorial: Set sharing permissions in Google Docs"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
@@ -234,16 +243,21 @@ The group will submit this document as a link through Avenue to Learn. Do not ex
   <iframe
     style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
     src="https://www.youtube.com/embed/uFoYICkTP4w?si=qMT43a1P-8M270vJ"
-    title="YouTube video player"
+    title="Video tutorial: Share a Microsoft Word document for collaboration"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
   </iframe>
 </div>
 
-## Create the shared production folder
+- [Watch the Google Docs sharing-permissions tutorial on YouTube](https://www.youtube.com/watch?v=8hOecmkfiqE)
+- [Watch the Microsoft Word sharing tutorial on YouTube](https://www.youtube.com/watch?v=uFoYICkTP4w)
 
-Create one shared production folder that every group member can access. Keep everything organize in multiple folders. 
+The written instructions above contain the required steps. The videos provide optional demonstrations.
+
+#### Create the shared production folder
+
+Create one shared production folder that every group member can access. Organize the files in clearly named subfolders.
 
 Use the following practices:
 
@@ -259,7 +273,7 @@ Add the shared production-folder link to the **Group Planning** tab or section. 
 
 > Do not submit the production-folder link separately through Avenue unless requested. The shared online production document is the required link submission.
 
-## Confirm the document setup
+#### Confirm the document setup
 
 - [ ] The document contains one **Group Planning** tab or section.
 - [ ] Every member has a clearly labelled individual tab or section.
@@ -275,14 +289,14 @@ Continue using and updating the same online document throughout the prototype pr
 
 <details class="tutorial-section" id="plan-and-produce">
   <summary>
-    <span class="section-title">3. Plan and produce the prototype version</span>
+    <span class="section-title" role="heading" aria-level="3">3. Plan and produce the prototype version</span>
     <span class="section-description">
       Define an achievable prototype, divide the production work, document individual contributions, and assemble an early complete version.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Use the Group Planning tab or section
+#### Use the Group Planning tab or section
 
 Complete all shared planning activities in the **Group Planning** tab or section of the online production document.
 
@@ -304,7 +318,7 @@ Also:
 - Required software, equipment, materials, accounts, and spaces
 - File organization and assembly plan
 
-## Define the prototype scope
+#### Define the prototype scope
 
 The first prototype should be **an early version of the complete project**, not an isolated technology test.
 
@@ -328,7 +342,7 @@ Depending on the medium, the prototype may include:
 
 > A collection of unrelated assets or separate member contributions is not a prototype. The components must be assembled into one coherent version that the group can experience and review.
 
-## Define what a prototype means for the project
+#### Define what a prototype means for the project
 
 Review the following examples. In the shared document, identify the project form and explain what the group must complete for the first prototype.
 
@@ -345,7 +359,7 @@ Review the following examples. In the shared document, identify the project form
 
 > If the project does not fit one category, combine or adapt the relevant expectations.
 
-## Prepare the production plan
+#### Prepare the production plan
 
 Complete the following table in the **Group Planning** tab or section:
 
@@ -365,7 +379,7 @@ Complete the following table in the **Group Planning** tab or section:
 
 Keep the scope achievable within the available week.
 
-## Divide the production work
+#### Divide the production work
 
 Assign each member a substantial production responsibility. Complete the following table in the **Group Planning** tab or section:
 
@@ -375,7 +389,7 @@ Assign each member a substantial production responsibility. Complete the followi
 
 The division should account for the time, complexity, and difficulty of each task, not only the number of assigned tasks.
 
-## Use the individual member tabs or sections
+#### Use the individual member tabs or sections
 
 Each member must maintain their own tab or Heading 1 section throughout production.
 
@@ -405,7 +419,7 @@ Evidence may include:
 > Each member must add dated entries as the work develops. Do not reconstruct all process documentation at the end of the week.
 
 
-## Review the production document
+#### Review the production document
 
 Before assembling and documenting the first prototype, confirm that:
 
@@ -421,14 +435,14 @@ Before assembling and documenting the first prototype, confirm that:
 
 <details class="tutorial-section" id="assemble-document-submit">
   <summary>
-    <span class="section-title">4. Assemble and document the first prototype</span>
+    <span class="section-title" role="heading" aria-level="3">4. Assemble and document the first prototype</span>
     <span class="section-description">
       Combine the components into one rough cut, document its current state, and prepare the submission.
     </span>
   </summary>
 <div class="section-content" markdown="1">
 
-## Assemble the first artistic prototype
+#### Assemble the first artistic prototype
 
 Combine the individual contributions into one single version:
 
@@ -441,11 +455,11 @@ Combine the individual contributions into one single version:
 
 > For work requiring a particular space, equipment setup, live performance, or physical interaction, assemble the closest feasible version and document what could not yet be reproduced.
 
-## Document the first prototype
+#### Document the first prototype
 
 Create a concise work-in-progress record of the assembled prototype.
 
-### Write the work-in-progress description
+##### Write the work-in-progress description
 
 Write **100–150 words** explaining:
 
@@ -455,7 +469,7 @@ Write **100–150 words** explaining:
 
 Describe the prototype in its current state. Do not present unfinished elements as final, provide a history of every decision, or list each member’s contribution separately.
 
-### Select the visual documentation
+##### Select the visual documentation
 
 Select **three to five images** showing:
 
@@ -470,7 +484,7 @@ Each image must include:
 - Alt text describing the important visual information
 - A credit when required
 
-> For video, animation, sound, performance, interactive, or other time-based work, upload the prototype documentation to YouTube or Vimeo and embed the video in the online production document. The video may be unlisted but must remain accessible through the submitted document without requiring permission.
+> For video, animation, sound, performance, interactive, or other time-based work, upload the prototype documentation to YouTube or Vimeo and embed it in the online production document. The media may be unlisted but must remain accessible through the submitted document without requiring permission. Videos must include captions. Audio-only material must include a transcript or an equivalent text summary.
 
 Confirm that the link:
 
@@ -480,7 +494,7 @@ Confirm that the link:
 
 > Obtain consent before photographing, recording, or identifying anyone outside the group. Formal audience testing will take place during the next version.
 
-## Update the Webador profile
+#### Update the Webador profile
 
 At the end of the page, locate the empty section prepared for this information. Use the heading: **First Artistic Prototype: Version 1**
 
@@ -492,7 +506,7 @@ Include:
 - Relevant media or stable documentation embedded
 - Credits for all external material
 
-### Review the Webador update
+##### Review the Webador update
 
 Before saving or publishing, confirm that:
 
@@ -507,7 +521,7 @@ Before saving or publishing, confirm that:
 
 Save or publish the update only after all members have reviewed it.
 
-## Pecha Kucha: Prepare the one-minute presentation
+#### Pecha Kucha: Prepare the one-minute presentation
 
 During the following lecture, each group will give a rapid **one-minute presentation** without questions or class feedback.
 
@@ -522,12 +536,13 @@ Prepare **one slide in image format** containing:
 
 Choose one speaker who did not speak in Version 1 and in Technological Research. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
-### Slide requirements
+##### Slide requirements
 
 - Submit one `.JPG` or `.PNG` image.
 - Use a 16:9 format, preferably `1920 × 1080 px`.
 - Keep the text brief and readable.
 - Caption and credit the images.
+- Add all slide text, image captions, credits, and brief descriptions of important visual content to the shared online production document. This provides a text alternative to the image slide.
 - Choose a speaker who has not presented for the group during P2.
 - Do not exceed one minute.
 
@@ -551,7 +566,7 @@ Replace `#` with the assigned group number.
 
 ## Submission
 
-Complete the Webador update and submit the two items listed below through Avenue to Learn. One group member should make both submissions on behalf of the group.
+Complete all requirements below. One group member must submit the shared-document link and presentation slide through Avenue to Learn on behalf of the group.
 
 | Item | Requirement or filename | Who completes or submits |
 |---|---|---|
@@ -562,7 +577,7 @@ Complete the Webador update and submit the two items listed below through Avenue
 
 Replace `#` with the assigned group number. Before submitting, confirm that the instructor can open the online document and all embedded prototype media without requesting access.
 
-> An incomplete Webador update, missing or inaccessible prototype, incomplete online production document, missing evidence of a member’s contribution, broken link, missing citation, caption, alt text, consent, or credit, incorrect filename or file extension, or slide that does not follow the required format will affect the grade.
+> Follow the required filenames and formats so the work can be identified and opened. A file or link that cannot be identified, opened, or accessed may need to be resubmitted and may be considered late. Missing prototype content, process evidence, citations, credits, consent, accessibility information, or required project work will affect the grade according to the assignment criteria.
 
 ---
 

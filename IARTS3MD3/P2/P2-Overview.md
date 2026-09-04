@@ -13,7 +13,7 @@ The project develops through several connected stages. Each stage must build on 
 
 ## Project index
 
-- [Version 1: Artist/Collective Inspiration and Concept Proposal](P2-Version1-Artist-Inspiration-Concept-Proposal.md)
+- [Version 1: Artist or Collective Inspiration and Concept Proposal](P2-Version1-Artist-Inspiration-Concept-Proposal.md)
 - [Technological Research](P2-Technological-Research.md)
 - [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
 - [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
@@ -25,7 +25,7 @@ The project develops through several connected stages. Each stage must build on 
 
 | Stage | Main focus |
 |---|---|
-| **Version 1: Artist/Collective Inspiration and Concept Proposal** | Revisit the preliminary research-creation direction, establish the group, define the artistic question or EDI concern, connect the concept to the selected artist or collective, and develop the first proposal iterations. |
+| **Version 1: Artist or Collective Inspiration and Concept Proposal** | Revisit the preliminary research-creation direction, establish the group, define the artistic question or EDI concern, connect the concept to the selected artist or collective, and develop the first proposal iterations. |
 | **Technological Research** | Learn and test an unfamiliar technology or technique, document individual experimentation, evaluate its artistic possibilities and limitations, and decide whether to continue, modify, or replace it. |
 | **Version 2: First Artistic Prototype** | Revise the proposal using the technological findings, divide the production work, combine the components into one coherent rough cut, and document First Artistic Prototype: Version 1. |
 | **Version 3: Audience Testing and Prototype Development** | Test the first prototype with people outside the group, compare the audience experience with the group’s intentions and research, prioritize changes, replace placeholders, and produce Artistic Prototype: Version 2. |
@@ -61,6 +61,8 @@ Each stage is part of the project process. Keep all research notes, source infor
 - Export documents as text-based PDFs with selectable text and working links. Do not submit scanned pages or screenshots as the complete PDF.
 
 > **Alt text** is a brief text description that communicates an image’s relevant content or purpose to someone who cannot see it.
+
+If a required tool, process, space, presentation format, or exhibition task creates an access barrier, contact the instructor as early as possible. An equivalent method or role can be arranged when it meets the same learning goals.
 
 ## What the final project will include
 

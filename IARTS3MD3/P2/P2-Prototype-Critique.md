@@ -1,10 +1,14 @@
-[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Version 3: Artistic Analysis and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
+[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
 
-# Prototype Critique and Feedback Session
+# P2: Research-Creation Project
+
+## Prototype Critique and Feedback Session
+
+**Work format:** Groups of 3–4 and whole-class participation
 
 **Goal:** Present **Artistic Prototype: Version 2**, examine how the project communicates its artistic and research direction, and gather specific feedback for the next stage of development.
 
-Each group will briefly introduce its project, present an excerpt or demonstration of the prototype, and participate in a structured feedback discussion. The rest of the class is expected to contribute advice, comments, questions, and perspectives throughout the session.
+Each group will briefly introduce its project, present an excerpt or demonstration of the prototype, and participate in a structured feedback discussion. The rest of the class will contribute advice, comments, questions, and perspectives through spoken, written, or approved digital feedback.
 
 > This is a critique of work in progress. The purpose is to identify what is effective, what remains unclear or underdeveloped, and what the group should prioritize next.
 
@@ -44,6 +48,8 @@ Assign the roles before class.
 | Feedback note-takers | 1–2 | Record audience responses, advice, questions, disagreements, and proposed changes during the discussion |
 
 For groups of three, assign **two presenters and one note-taker**. For groups of four, assign **two presenters and two note-takers**.
+
+If a role creates an access barrier, contact the instructor in advance. The group may use an equivalent role or communication method that meets the same learning goals.
 
 ### Presenter 1
 
@@ -135,6 +141,8 @@ Include:
 - Use a consistent grid, alignment, colour palette, and typographic system.
 - Caption and credit all artwork and external images.
 - Add credits for prototype images when required.
+- Add useful alt text or a brief image description for important images.
+- Provide the complete slide text, image descriptions, captions, and credits in speaker notes or a separate accessible text document.
 - Test all links and QR codes before class.
 - Do not include student numbers on the slides.
 
@@ -170,11 +178,13 @@ Briefly explain what happens before or after the excerpt when that information i
 
 For installations, interactive works, games, websites, physical works, or projects that cannot be presented as a timed excerpt, prepare a focused demonstration or guided experience lasting no more than four minutes.
 
+Videos must include captions. Audio-only material must include a transcript or an equivalent text summary. Provide a text explanation for important visual, interactive, or spatial information that is not communicated through speech or sound.
+
 > The excerpt or demonstration should represent the prototype accurately. Do not create a separate presentation version that conceals unresolved problems in the work.
 
 ## Prepare the group’s computer and prototype
 
-Groups will present from their own computers. Before class:
+Groups will normally present from their own computers. Before class:
 
 - Save the slides and prototype files on the computer the group will use.
 - Open the slides and prototype before the session begins.
@@ -189,6 +199,8 @@ Groups will present from their own computers. Before class:
 When the previous group begins its feedback discussion, the next group should quietly confirm that its computer and materials are ready. Use the two-minute transition to connect the computer and open the prepared presentation.
 
 > Do not depend on downloading, signing in, locating files, editing slides, or installing software during the transition.
+
+If using or transporting a personal computer creates an access barrier, contact the instructor in advance to arrange another presentation setup.
 
 ## Present the project
 
@@ -220,7 +232,7 @@ Record specific observations rather than only general reactions such as “I lik
 
 The class will have **six minutes** to discuss each prototype.
 
-Students who are not presenting are expected to participate by offering:
+Students who are not presenting are expected to participate through spoken, written, or approved digital feedback. Useful contributions include:
 
 - Specific observations about the audience experience
 - Advice for strengthening the prototype
@@ -244,20 +256,20 @@ Different interpretations are not automatically problems. Consider whether an in
 
 ## Participation expectations
 
-Active participation is required throughout the session.
+Active participation is required throughout the session, but it does not require every student to speak during every critique.
 
 Participation includes:
 
 - Arriving on time and remaining present for the complete session
 - Giving full attention to each prototype
 - Recording feedback during the two-minute response period
-- Contributing advice, comments, questions, or perspectives during discussions
+- Contributing advice, comments, questions, or perspectives through speaking, writing, or an approved digital method
 - Connecting feedback to the work, research, artist or collective, technology, and intended audience experience
 - Listening respectfully to classmates
 - Making room for others to contribute
 - Avoiding unrelated computer or phone use
 
-Not every student needs to speak during every critique. However, every student is expected to contribute regularly across the session and to engage seriously with all projects.
+Students are expected to contribute regularly across the session and engage seriously with all projects. If the schedule, room, sensory conditions, speaking format, note-taking, or another part of the session creates an access barrier, contact the instructor in advance to arrange an equivalent participation method.
 
 > Attendance without attentive participation does not meet the expectations of the critique session.
 
@@ -307,6 +319,7 @@ Before class, confirm that:
 - [ ] The one-minute introduction has been rehearsed.
 - [ ] The prototype excerpt or demonstration does not exceed four minutes.
 - [ ] The group’s feedback question is included.
+- [ ] The slides have a text-based alternative containing the slide text, image descriptions, captions, and credits.
 - [ ] Slides and prototype files are saved and open on the group’s computer.
 - [ ] All media, software, links, interactions, and accounts have been tested.
 - [ ] Required equipment, cables, adapters, materials, and accessibility supports are ready.
