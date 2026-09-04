@@ -13,13 +13,13 @@ The project develops through several connected stages. Each stage must build on 
 
 ## Project index
 
-- [Version 1: Artist or Collective Inspiration and Concept Proposal](P2-Version1-Artist-Inspiration-Concept-Proposal.md)
+<!-- - [Version 1: Artist or Collective Inspiration and Concept Proposal](P2-Version1-Artist-Inspiration-Concept-Proposal.md)
 - [Technological Research](P2-Technological-Research.md)
 - [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
 - [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
 - [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 - [Final Submission](P2-Final.md)
-- [Class Exhibition](P2-Class-Exhibition.md)
+- [Class Exhibition](P2-Class-Exhibition.md) -->
 
 ## How the project develops
 
