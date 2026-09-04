@@ -430,7 +430,7 @@ Slide format and design requirements:
 - Include all slide text, artwork titles, and image credits in the main PDF so a text-based version is available.
 - Name the file `P1_Critical-Connections-Slide.jpg` or `P1_Critical-Connections-Slide.png`.
 
-Choose one speaker who did not speak in Version 1, or divide the speaking between both partners. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
+Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
 Slides must be submitted in advance so they can be presented in sequence without changing computers.
 

@@ -295,7 +295,7 @@ Slide format and design requirements:
 - Keep text brief and do not place important text over a visually complex image.
 - Include all slide text, artwork titles, and image credits in the Version 1 PDF so a text-based version is available.
 
-Choose one speaker, or divide the speaking between both partners. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
+Choose one speaker. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
 > Slides must be submitted in advance so they can be presented in sequence without changing computers.
 

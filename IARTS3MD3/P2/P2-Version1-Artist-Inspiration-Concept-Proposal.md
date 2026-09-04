@@ -19,18 +19,18 @@
 
 ## Division of labour
 
-Every member must complete both artistic and academic research. Divide the initial work using the following table:
+Every member must contribute to the artistic research, academic research, technology selection, and concept development.
 
-| Member | Artistic research | Academic research | Technology research | Proposal or visual task |
+| Member | Artistic research | Academic research | Technology selection | Concept development |
 |---|---|---|---|---|
-| Member 1 | One artwork or project | One source | One technical resource or requirement | Assigned contribution |
-| Member 2 | One artwork or project | One source | One technical resource or requirement | Assigned contribution |
-| Member 3 | One artwork or project | One source | One technical resource or requirement | Assigned contribution |
-| Member 4, if applicable | One artwork or project | One source | One technical resource or requirement | Assigned contribution |
+| Member 1 | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Member 2 | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Member 3 | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Member 4, if applicable | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
 
-All members must understand the selected artist, original proposal, research findings, technology direction, and revised concept before submitting.
+All members must understand the selected artist or collective, original proposal, research findings, technology direction, and provisional concept before submitting.
 
-> Do not divide the project into isolated sections that are never discussed by the group. Individual findings must be shared and used to make collective decisions.
+> Do not divide the project into isolated sections. Individual findings must be shared, discussed, and used to make collective decisions.
 
 ## Activity stages
 
@@ -257,9 +257,9 @@ The document must include:
 - [ ] Explanation of why the group selected it
 - [ ] Required software, equipment, materials, accounts, or spaces
 - [ ] Initial accessibility, ethical, safety, cost, and feasibility concerns
-- [ ] The main question the group needs to investigate during the Technology Experiment
+- [ ] The main question the group needs to investigate during the Technological Research
 
-> Detailed tutorial selection, experiment planning, hands-on testing, and documentation will be completed during the Technology Experiment.
+> Detailed tutorial selection, experiment planning, hands-on testing, and documentation will be completed during the Technological Research.
 
 </div>
 
@@ -277,7 +277,7 @@ The document must include:
 
 ## Write the provisional concept proposal
 
-Write a **250–350-word provisional concept proposal** describing the group’s current direction. This proposal will establish the artistic purpose for the Technology Experiment.
+Write a **250–350-word provisional concept proposal** describing the group’s current direction. This proposal will establish the artistic purpose for the Technological Research.
 
 Explain:
 
@@ -289,7 +289,7 @@ Explain:
 
 Write in your own words using clear and specific language. Avoid broad statements that could describe any artist or project.
 
-> This proposal records the project’s direction before technological experimentation. The concept and use of technology are expected to change according to what the group learns during the Technology Experiment.
+> This proposal records the project’s direction before technological experimentation. The concept and use of technology are expected to change according to what the group learns during the Technological Research.
 
 ## Create a working concept sketch
 
@@ -308,7 +308,7 @@ Use short annotations to identify:
 - The main elements of the proposed artwork
 - The intended role of the unfamiliar technology or technique
 - What the audience may see, hear, do, or experience
-- At least one element that the group needs to investigate through the Technology Experiment
+- At least one element that the group needs to investigate through the Technological Research
 
 The sketch does not need to be polished or technically accurate. Its purpose is to help the group identify what needs to be learned and tested.
 
@@ -381,7 +381,9 @@ Prepare **one slide in image format** containing:
 - Artistic strategy being retained, translated, questioned, or extended
 - Selected unfamiliar technology or technique
 - One representative image or diagram
-- One question the group needs to investigate during the Technology Experiment
+- One question the group needs to investigate during the Technological Research
+
+Choose one speaker. The presentation must not exceed one minute. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
 ## Slide requirements
 
