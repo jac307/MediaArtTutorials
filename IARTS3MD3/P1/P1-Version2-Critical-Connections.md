@@ -362,7 +362,7 @@ As you develop the outline:
 
 ---
 
-#### <span class="step-label">Step 7:</span> Write the artist or collective profile
+#### <span class="step-label">Step 6:</span> Write the artist or collective profile
 
 As the final research task for this stage, write a **100–150-word artist or collective profile** connected to your research focus.
 
@@ -378,7 +378,7 @@ Include only information that helps the reader understand the direction of your 
 
 ---
 
-#### <span class="step-label">Step 8:</span> Prepare the collaborative PDF
+#### <span class="step-label">Step 7:</span> Prepare the collaborative PDF
 
 For this week's submission, you and your partner will prepare **one PDF together**.
 
