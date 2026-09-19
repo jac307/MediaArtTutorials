@@ -62,9 +62,9 @@ Complete the steps below **in order**.
 
 ---
 
-#### Step 1: Confirm your 4 sources from Version 1
+#### <span class="step-label">Step 1:</span> Confirm your Version 1 sources and artwork or project
 
-Return to the **eight core sources you selected in Version 1**.
+Return to the **eight core sources and two artworks or projects you selected in Version 1**. Take into account the instructor's feedback on Version 1 as you confirm your selections.
 
 Continue with the four sources assigned to you. Together, your pair should still have:
 
@@ -76,91 +76,67 @@ Continue with the four sources assigned to you. Together, your pair should still
 | Critical or contextual sources | 1 | 1 | 2 |
 | **Total** | **4** | **4** | **8** |
 
-**Before moving on:** Confirm which four Version 1 sources are yours.
-
-You do not need to find new sources unless a Version 1 source no longer supports your research direction or does not provide enough reliable information for the project. Take into account the instructor's feedback on Version 1.
-
 Each partner must read, watch, or listen to their four assigned sources **in full**.
 
----
+> You do not need to find new sources unless a Version 1 source no longer supports your research direction or does not provide enough reliable information for the project.
 
-#### Step 2: Confirm your artwork or project from Version 1
-
-Return to the **two artworks or projects selected in Version 1**.
-
-Continue with the artwork or project assigned to you for individual research:
+Also continue with the artwork or project assigned to you for individual research:
 
 - Partner A researches **one work**.
 - Partner B researches **one work**.
+- Partner C researches **one work** if you are in a group of three students.
 
-> Part C researches **one work** if you're in a group of three students. 
+Keep the Version 1 artwork selections if they continue to provide enough evidence for your research direction. Replace a work only if it no longer supports the project's direction or if reliable information and documentation are not available.
 
-Keep the Version 1 selections if they continue to provide enough evidence for your research direction.
-
-Replace a work only if it no longer supports the project’s direction or if reliable information and documentation are not available.
-
-> **Before moving on:** You should now have your **4 Version 1 sources + 1 Version 1 artwork/project** confirmed.
+> **Before moving on:** Confirm the **4 Version 1 sources + 1 Version 1 artwork/project** you will continue researching in this stage.
 
 ---
 
-#### Step 3: Take notes on your 4 sources
+#### <span class="step-label">Step 2:</span> Take notes on your artwork or project
 
-Work through **one of your assigned Version 1 sources at a time**.
+Start with the artwork or project before working through your sources. Examining the work closely will give you **specific evidence to use when you encounter concepts and arguments in the readings and other sources**.
+
+Examine your assigned artwork or project carefully. Record the following information:
+
+| Find | Record |
+|---|---|
+| **Identification** | Complete title and year |
+| **Format** | Medium, materials, technologies, duration, dimensions, or format |
+| **Context** | Where, when, why, and for whom the work was produced, presented, performed, exhibited, or published |
+| **Audience experience** | What the audience sees, hears, encounters, or does |
+| **Artistic approach** | Important methods, techniques, materials, technologies, or decisions |
+| **Themes and questions** | Ideas, issues, or questions addressed by the work |
+| **Documentation** | Available images, video, audio, exhibition records, or other documentation |
+| **Media information** | Captions, creator or photographer credits, source links, image descriptions, and available rights information |
+
+> **Before moving on:** Check that your notes give you enough specific evidence from the artwork to begin connecting it to ideas from your sources.
+
+---
+
+#### <span class="step-label">Step 3:</span> Take notes on your 4 sources
+
+Now return to your **four assigned Version 1 sources**.
+
+Work through **one source at a time**. As you read, watch, or listen, use your artwork notes to help you identify concepts and arguments that are relevant to the work.
 
 For each source, record:
 
 - the main argument or useful information;
 - **2–3 relevant concepts**;
 - a useful passage, example, or quotation, including **page numbers or timestamps**;
-- connections to your assigned artwork and other sources; and
+- specific connections to your assigned artwork;
+- connections to other sources, when relevant; and
 - a question, limitation, disagreement, or missing perspective.
+
+When making a connection to the artwork, identify **what specific evidence from the artwork** led you to make that connection. This could include a material, method, technology, image, interaction, spatial decision, audience experience, or other artistic choice.
 
 Repeat this process until you have notes for **all four sources**.
 
----
-
-#### Step 4: Take notes on your artwork or project
-
-Examine your assigned artwork or project carefully. Record the following
-information:
-
-  -----------------------------------------------------------------------
-  Find                                Record
-  ----------------------------------- -----------------------------------
-  **Identification**                  Complete title and year
-
-  **Format**                          Medium, materials, technologies,
-                                      duration, dimensions, or format
-
-  **Context**                         Where, when, why, and for whom the
-                                      work was produced, presented,
-                                      performed, exhibited, or published
-
-  **Audience experience**             What the audience sees, hears,
-                                      encounters, or does
-
-  **Artistic approach**               Important methods, techniques,
-                                      materials, technologies, or
-                                      decisions
-
-  **Themes and questions**            Ideas, issues, or questions
-                                      addressed by the work
-
-  **Documentation**                   Available images, video, audio,
-                                      exhibition records, or other
-                                      documentation
-
-  **Media information**               Captions, creator or photographer
-                                      credits, source links, image
-                                      descriptions, and available rights
-                                      information
-  -----------------------------------------------------------------------
-
-> **Before moving on:** Check that your notes give you enough specific evidence from the artwork to connect it to your sources.
+> **Before moving on:** You should have notes for all 4 sources and be able to identify specific places where ideas from your research connect to evidence from the artwork.
 
 ---
 
-#### Step 5: Make 2--3 preliminary critical connections
+#### <span class="step-label">Step 4:</span> Make 2–3 preliminary critical connections
 
 Now bring your source research and artwork research together.
 
@@ -178,19 +154,14 @@ For each connection, include:
 
 ##### Example
 
-**Testimony and damage-centred representation:** Tuck explains that
-communities are often represented mainly through pain or trauma
-(pp. 409--413). This idea may connect to *El Tendedero*, where many
-anonymous accounts of harassment are displayed together and individual
-experiences become evidence of a shared problem. A question to explore
-is whether making these stories public creates solidarity or raises
-concerns about consent and how the stories continue to circulate.
+* **Testimony and damage-centred representation:** Tuck explains that communities are often represented mainly through pain or trauma (pp. 409–413). This idea may connect to *El Tendedero*, where many anonymous accounts of harassment are displayed together and individual experiences become evidence of a shared problem. A question to explore is whether making these stories public creates solidarity or raises concerns about consent and how the stories continue to circulate.
+*
 
 > These connections are **preliminary**. You will compare and develop them with your partner in Stage 2.
 
 ---
 
-#### Step 6: Update your 4 annotated bibliography entries
+#### <span class="step-label">Step 5:</span> Update your 4 annotated bibliography entries
 
 Return to the **annotated bibliography you started in Version 1**. Continue working with the same four sources assigned to you.
 
@@ -218,7 +189,7 @@ Your annotation is **not a copy of your research notes**. Use your notes to writ
 
 ---
 
-#### Step 7: Prepare your individual notes PDF
+#### <span class="step-label">Step 6:</span> Prepare your individual notes PDF
 
 Put your individual research into **one PDF**.
 
