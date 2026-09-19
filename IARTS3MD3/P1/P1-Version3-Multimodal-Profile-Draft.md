@@ -535,8 +535,6 @@ If printing or participating in the poster session creates an access barrier, co
 
 ## Submission files
 
-Submit the following **three PDF files per pair**:
-
 | Item | Required filename |
 |---|---|
 | Stage 1: Critical analysis | `P1_V3-Critical-Analysis.pdf` |
