@@ -9,7 +9,7 @@
 
 In pairs, you will research an artist or collective whose practice addresses issues of equity, diversity, and inclusion. Using course readings, academic research, artist sources, and selected artworks, you will develop a multimodal profile for the course website.
 
-The project has **five versions**. Each version builds on the previous one. You will move from initial research to critical analysis, develop a preliminary research-creation proposal, participate in a poster session, and publish the final Webador profile.
+The project has **five versions**. Each version builds on the previous one. You will establish a research direction, develop critical connections between research and artworks, write a critical analysis and preliminary research-creation proposal, design and discuss a research poster, and revise and publish the final public profile on Webador.
 
 ## Project index
 
@@ -29,22 +29,25 @@ The project has **five versions**. Each version builds on the previous one. You 
 | **Version 1: Research Direction** | Select an artist or collective, establish the research focus and questions, identify two artworks, and map the initial sources. |
 | **Version 2: Critical Connections** | Examine the sources and artworks, develop a working thesis and critical-connections outline, and prepare the profile materials and images. |
 | **Version 3: Multimodal Profile Draft** | Write the critical analysis, develop a preliminary research-creation proposal, and design a research poster. |
-| **Version 4: Poster Session** | Present the research, discuss possible research-creation directions, and learn from the profiles developed by other pairs. |
-| **Version 5: Final Profile** | Revise and publish the complete profile on Webador and submit the final project package. |
+| **Version 4: Poster Session** | Present and discuss the research and preliminary research-creation proposal, engage with other pairs' profiles, and identify ideas that may inform Project 2. |
+| **Version 5: Final Profile** | Revise the complete research-creation profile, build the assigned Webador page, and review and publish the final public profile. |
 
-Each version is part of the project process. Keep all research notes, source information, writing, images, captions, credits, permissions, and links organized so you can revise and reuse them in later versions.
+> Each version is part of the project process. Keep all research notes, source information, writing, images, captions, credits, permissions, and links organized so you can revise and reuse them in later versions.
 
 ## Research and writing expectations
 
-- Read, watch, or listen to the assigned sources in full.
-- Examine the artworks through reliable images, video, audio, or other documentation.
+- Read, watch, or listen to the assigned and selected sources in full when required for the current version.
+- Examine the artworks through reliable images, video, audio, exhibition records, or other documentation.
 - Write notes, annotations, descriptions, and analysis in your own words.
-- Use specific evidence instead of broad claims about an artist or community.
-- Separate the artist’s statements from your interpretation and other writers’ arguments.
-- Use APA citations for borrowed ideas, information, and quotations.
+- Use specific evidence from the artworks and sources instead of broad claims about an artist, artwork, or community.
+- Clearly distinguish what the **artist states**, what another **author or source argues**, and what **you interpret**.
+- Use APA citations for borrowed ideas, information, paraphrases, and quotations.
+- Do not assume an artist's identity, intentions, beliefs, experiences, or relationships with communities.
 - Do not reduce an artist or community to trauma, discrimination, or identity categories.
-- Consider representation, consent, access, positionality, cultural context, and accountability.
+- Consider representation, consent, access, positionality, cultural context, and accountability when relevant to the research.
 - Use only images and media that you have permission to publish on the public course website.
+- Provide complete captions, creator or photographer credits, source information, and appropriate text alternatives for published media.
+- Use high-quality images that remain clear and are not visibly pixelated at the size they appear on the webpage.
 
 ## Accessibility and media expectations
 
@@ -61,16 +64,16 @@ Each version is part of the project process. Keep all research notes, source inf
 
 ## What the final profile will include
 
-- An introduction to the artist or collective
-- Two selected artworks or projects
-- Research questions, a thesis, and two central concepts
-- A 500–700-word critical analysis
-- An annotated bibliography with eight core sources
-- A preliminary research-creation proposal
-- Images, captions, credits, links, permissions, and alt text
-- A research poster and a text alternative for its important content
+- A **100–150-word introduction** to the artist or collective
+- **2 selected artworks or projects**, with descriptions and documentation
+- The research questions, revised thesis, and **2 central concepts**
+- A revised **500–700-word critical analysis**
+- A revised annotated bibliography with **8 core sources**
+- A revised **100–150-word research-creation proposal**
+- High-quality images and media with required captions, credits, source links, permissions, and text alternatives
+- The final research poster, with its important information also available as webpage text
 
-The preliminary research-creation proposal may inform Project 2, but it will not commit you to a final artistic direction.
+> The research-creation proposal may inform **Project 2**, but it does not commit you to a final artistic direction.
 
 ---
 
