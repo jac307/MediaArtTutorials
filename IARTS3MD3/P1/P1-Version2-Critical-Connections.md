@@ -232,15 +232,13 @@ Share a copy with your partner.
 
 <div class="section-content" markdown="1">
 
-In Stage 1, each partner examined their four assigned sources and one artwork or project individually.
-
-In Stage 2, bring that research together. Compare what you found, revise the research questions from Version 1, develop a working thesis and critical-connections outline, and combine your research into one collaborative document.
+In Stage 2, **bring the individual research together**. Compare what you found, revise the research questions from Version 1, develop a working thesis and critical-connections outline, and combine your research into one collaborative document.
 
 Complete the steps below **in order**.
 
 ---
 
-#### Step 1: Share and compare your research
+#### <span class="step-label">Step 1:</span> Share and compare your research
 
 Bring together the individual research you completed in Stage 1.
 
@@ -259,7 +257,7 @@ Together:
 
 ---
 
-#### Step 2: Revise your research questions
+#### <span class="step-label">Step 2:</span> Revise your research questions
 
 Return to the **main and supporting research questions from Version 1**.
 
@@ -281,7 +279,7 @@ Remove or revise questions that are too broad, factual, or no longer connected t
 
 ---
 
-#### Step 3: Write your working thesis
+#### <span class="step-label">Step 3:</span> Write your working thesis
 
 Using your revised main research question, write a **75–125-word working thesis**.
 
@@ -299,7 +297,7 @@ Include:
 
 ---
 
-#### Step 4: Build your critical-connections outline
+#### <span class="step-label">Step 4:</span> Build your critical-connections outline
 
 Now plan how you will support and develop the working thesis in Version 3.
 
@@ -364,7 +362,7 @@ Use bullet points to identify:
 
 ---
 
-#### Step 5: Check your research and writing ethics
+#### <span class="step-label">Step 5:</span> Complete an ethics and representation check
 
 As you develop the outline:
 
@@ -376,7 +374,7 @@ As you develop the outline:
 
 ---
 
-#### Step 6: Combine and revise your annotated bibliography
+#### <span class="step-label">Step 6:</span> Revise the 8-entry annotated bibliography
 
 Return to the **annotated bibliography entries you each updated in Stage 1**.
 
@@ -405,7 +403,7 @@ Use this structure:
 
 ---
 
-#### Step 7: Write the artist or collective profile
+#### <span class="step-label">Step 7:</span> Write the artist or collective profile
 
 As the final research task for this stage, write a **100–150-word artist or collective profile** connected to your research focus.
 
@@ -429,7 +427,7 @@ For the profile image, include:
 
 ---
 
-#### Step 8: Prepare the Stage 2 collaborative notes PDF
+#### <span class="step-label">Step 8:</span> Prepare the collaborative PDF
 
 For this week's submission, you and your partner will prepare **one PDF together**.
 
@@ -483,7 +481,7 @@ Export a **text-based PDF**, not scanned pages or screenshots.
 
 <div class="section-content" markdown="1">
 
-#### Save your high-quality image files for later versions
+#### <span class="step-label">Step 1:</span> Save your high-quality images and media information
 
 Before preparing your presentation, make sure your pair has saved the **highest-quality image files available** for:
 
@@ -505,7 +503,7 @@ When available, save:
 
 ---
 
-#### Pecha Kucha: Prepare the one-minute presentation
+#### <span class="step-label">Step 2:</span> Prepare your Pecha Kucha slide
 
 During the next lecture, each pair will give a **one-minute Pecha Kucha presentation**. Presentations will take place one after another, without questions or class discussion.
 
