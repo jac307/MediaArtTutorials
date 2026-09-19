@@ -362,33 +362,6 @@ As you develop the outline:
 
 ---
 
-#### <span class="step-label">Step 6:</span> Combine and Revise annotated bibliography
-
-Return to the **annotated bibliography entries you each updated in Stage 1**.
-
-Combine the two sets of four entries into **one annotated bibliography with all eight core sources**.
-
-> **Do not create new annotations at this stage**. Review and revise the existing entries together so the bibliography works as one consistent document.
-
-Before continuing, confirm that your pair has:
-
-- [ ] Included all **core sources**.
-- [ ] Checked every **APA reference** for accuracy and consistency.
-- [ ] Checked that every source link works.
-- [ ] Confirmed that each annotation is **75–100 words**.
-- [ ] Removed repeated or unnecessary information.
-- [ ] Used a consistent structure and level of detail.
-- [ ] Explained specifically how each source contributes to the project.
-- [ ] Organized the entries alphabetically by the first author's last name.
-
-Use this structure:
-
-| APA reference and link | Source type | Annotation |
-|---|---|---|
-| Complete APA reference and accessible link | Course reading, academic, primary artist, or critical/contextual | Revised 75–100-word annotation |
-
----
-
 #### <span class="step-label">Step 7:</span> Write the artist or collective profile
 
 As the final research task for this stage, write a **100–150-word artist or collective profile** connected to your research focus.
@@ -421,7 +394,6 @@ Your collaborative PDF must include:
 - [ ] **Critical Connection 1** in bullet points.
 - [ ] **Critical Connection 2** in bullet points.
 - [ ] The **Conclusion** section of the critical-connections outline in bullet points.
-- [ ] The combined annotated bibliography with **all 8 core sources**.
 - [ ] The **100–150-word artist or collective profile**.
 - [ ] A text explanation for any other diagram or image needed to understand your notes.
 
@@ -436,8 +408,6 @@ Check that:
 - [ ] The text can be selected and searched.
 - [ ] Links are clickable.
 - [ ] Images have the required identification, credits, and text alternatives.
-
-Export a **text-based PDF**, not scanned pages or screenshots.
 
 Name your file:
 

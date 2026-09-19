@@ -5,48 +5,295 @@
 # Version 5: Final Profile
 
 **Work format:** Pairs  
-**Public submission:** Completed Webador profile  
-**Avenue submission:** One ZIP package per pair
+**Submission:** One completed and published Webador profile per pair
 
 ## Goal
 
-Revise and publish the final Critical Research-Creation Profile on the course Webador website. Submit a ZIP package containing an accessible PDF record of the profile and every image used on the webpage.
+Revise and publish the final **Critical Research-Creation Profile** on the course Webador website.
 
-This is the public version of the project. Review all writing, citations, links, images, permissions, credits, alt text, and media alternatives before publishing. Do not include student numbers or other private information on the public page.
+This is the **final public version of the project**. Build from the research, writing, artwork analysis, research-creation proposal, poster, feedback, and revisions completed throughout Versions 1–4.
 
-## What you will complete
+Before publishing, review all writing, citations, links, images, permissions, credits, alt text, and media alternatives. Use **high-quality images that are clear and not pixelated** at the size they appear on the webpage.
 
-- A completed artist or collective profile on Webador
-- An accessible PDF containing the complete profile information
-- An `Images` folder containing every image uploaded to the webpage
-- One ZIP package containing the PDF and image folder
+> Because the profile will be public, do not include student numbers or other private information on the webpage.
 
 ## How to divide the work
 
-Both partners are responsible for the accuracy and completion of the webpage and ZIP package. Divide the initial work fairly, but review every section together before publishing.
+Both partners are responsible for the accuracy and completion of the **entire public profile**.
+
+You may divide the initial revision and webpage-building tasks fairly between partners:
 
 | Partner A | Partner B |
 |---|---|
 | Revise assigned written sections | Revise assigned written sections |
-| Prepare and check assigned images | Prepare and check assigned images |
+| Prepare and check assigned images and media | Prepare and check assigned images and media |
 | Add assigned content to Webador | Add assigned content to Webador |
-| Check assigned citations, links, captions, permissions, and alt text | Check assigned citations, links, captions, permissions, and alt text |
+| Check assigned citations, links, captions, permissions, credits, and alt text | Check assigned citations, links, captions, permissions, credits, and alt text |
 
-Both partners must review the complete webpage on a computer and a mobile device. The final page must use a consistent voice, visual structure, and citation style.
+Do not divide the profile into two isolated halves. Both partners must understand and review the complete project.
 
-Do not divide the profile into two separate halves. Each partner is responsible for understanding and checking the complete project.
+> In groups of three students, Partner C should have equal responsibilities.
 
-## Complete the final profile in six stages
+## Complete the final profile in two stages
 
-<details class="tutorial-section" id="access-webador-page">
+Start with **Stage 1**. Complete each step in order before moving to the webpage.
+
+<details class="tutorial-section" id="prepare-final-content">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 1: Access the assigned Webador page</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Prepare the final content</span>
     <span class="section-description">
-      Sign in, confirm the assigned artist or collective page, and avoid changing shared website settings.
+      Revise the research, writing, artworks, bibliography, proposal, and poster from the earlier versions before building the public profile.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
+
+Version 5 brings together the work you developed throughout **Versions 1–4**. In this stage, revise your existing research, writing, images, proposal, and poster before adding them to Webador.
+
+> **Do not start each section again from the beginning.** Use your previous versions and instructor feedback as your starting point. Correct unclear writing, unsupported claims, incomplete citations, broken links, missing captions or credits, low-quality images, unclear alt text, and missing media alternatives.
+
+Prepare the sections below **in order**. Keep the revised content together so it is ready to add to the webpage in the next stage.
+
+---
+
+#### <span class="step-label">Step 1:</span> Revise the artist or collective profile
+
+Prepare the opening section of the public profile.
+
+Include:
+
+- the **artist or collective name** as the main page title;
+- **1 high-quality vertical profile image**; and
+- a revised **100–150-word artist or collective profile**.
+
+The written profile should address:
+
+- relevant location and cultural, social, political, or historical context; and
+- media, materials, technologies, methods, and themes connected to your research.
+
+For the profile image, prepare:
+
+- a brief caption;
+- photographer or creator credit;
+- source information or link, when applicable; and
+- alt text that communicates the image's relevant visual information.
+
+Do not turn this section into a complete biography or career summary. Include the information readers need to understand the research that follows.
+
+> **Before moving on:** You should have a revised 100–150-word profile and one high-quality profile image with its caption, credit, source information, and alt text.
+
+---
+
+#### <span class="step-label">Step 2:</span> Prepare the selected artworks or projects
+
+Prepare one subsection for each of your **selected artworks or projects**.
+
+For each work, include:
+
+- **title and year**;
+- **medium, materials, technologies, duration, dimensions, or format**, when applicable;
+- a **50–100-word description** of what the audience sees, hears, encounters, or does;
+- **1–3 images or other forms of documentation**; and
+- a stable link to the artwork or project, when available.
+
+The description should help a reader understand the work before reading your critical analysis. Describe specific visual, spatial, material, technological, sonic, interactive, or performative information that is relevant to your research.
+
+For every image or item of documentation, prepare:
+
+- a caption;
+- an image or media credit;
+- source information or link, when applicable; and
+- alt text or another suitable text alternative.
+
+For **time-based, interactive, or performance work**, embed or link to reliable documentation when possible.
+
+> **Before moving on:** Both artworks or projects should have complete identification, a 50–100-word description, reliable documentation, and the required captions, credits, links, and text alternatives.
+
+---
+
+#### <span class="step-label">Step 3:</span> Revise the research focus
+
+Review the research direction you developed across the previous versions and revise it using the feedback and analysis you have completed.
+
+Prepare:
+
+- your **main research question**;
+- **1–2 supporting research questions**;
+- a revised **thesis statement** that responds to the main research question; and
+- **2 central concepts** guiding the analysis.
+
+Keep this section concise. A reader should be able to understand **what you are investigating and what your analysis argues** before reading the complete critical analysis.
+
+Your thesis should reflect what you learned through the research and artwork analysis. It does not need to remain identical to the working thesis from an earlier version.
+
+> **Before moving on:** Your questions, thesis, concepts, and selected artworks should clearly connect to the same research direction.
+
+---
+
+#### <span class="step-label">Step 4:</span> Revise the critical analysis
+
+Return to the **critical analysis** developed in Version 3 and revise it using the feedback and research you have completed since then.
+
+Include the **full names of both student authors** with the analysis.
+
+The final analysis should include:
+
+- an introduction establishing the research question, thesis, concepts, and artworks;
+- the first critical connection developed through **Artwork or Project 1**;
+- the second critical connection developed through **Artwork or Project 2**; and
+- a conclusion that brings the argument together and identifies an important tension, limitation, or unresolved question.
+
+> Groups with three students should have **Artwork or Project 3** as well.
+
+Use **specific evidence from the artworks**. Identify the materials, methods, technologies, images, interactions, spatial decisions, audience experiences, or other artistic choices that support your interpretation.
+
+Bring the course readings and other research sources **into conversation with the artworks and with each other**. Do not organize the analysis as separate summaries of each source.
+
+Use **APA in-text citations** for ideas, information, paraphrases, and quotations drawn from sources.
+
+As you revise, check that you distinguish between:
+
+- what the **artist states**;
+- what another **author or source argues**; and
+- what **you interpret** through your analysis.
+
+> **Before moving on:** You should have a revised 500–700-word analysis with a clear thesis, 2 developed critical connections, specific artwork evidence, and complete APA in-text citations.
+
+---
+
+#### <span class="step-label">Step 5:</span> Revise the annotated bibliography
+
+Return to the annotated bibliography developed in the previous versions and revise all **8 core source entries**.
+
+Your final bibliography must include:
+
+| Source type | Number required |
+|---|---:|
+| Course readings | 2 |
+| Additional academic sources | 2 |
+| Primary artist sources | 2 |
+| Critical or contextual sources | 2 |
+| **Total** | **8** |
+
+For each source, include:
+
+- a complete **APA reference**;
+- a descriptive, working link or DOI, when available; and
+- the revised annotation.
+
+Review each annotation to make sure it accurately explains the source and its contribution to the final research profile.
+
+Organize the bibliography **alphabetically by the first author's last name** and use consistent APA formatting throughout.
+
+Check every link before adding the bibliography to the webpage.
+
+> **Before moving on:** Your bibliography should contain all 8 core sources, complete APA references, revised annotations, and working links or DOIs when available.
+
+---
+
+#### <span class="step-label">Step 6:</span> Revise the research-creation proposal
+
+Return to the preliminary research-creation proposal developed in Version 3 and revise it using the research, feedback, and poster-session experience.
+
+Prepare:
+
+- the **title of the proposed work**;
+- **1 representative image**; and
+- a revised **100–150-word concept statement**.
+
+The concept statement should explain:
+
+- how the proposal **responds to, extends, questions, or translates** part of the artist's practice;
+- the proposed **medium, method, technology, audience, or context**; and
+- relevant **ethical, representational, or accessibility considerations**.
+
+The proposal should communicate your own artistic direction. Make clear how it grows from the research without copying the appearance or approach of the artist's work.
+
+For the representative image, prepare:
+
+- a caption;
+- creator or source credit;
+- source information or link, when applicable; and
+- alt text describing the relevant visual information.
+
+> **Before moving on:** You should have a title, revised 100–150-word concept statement, and representative image with complete caption, credit, source information, and alt text.
+
+---
+
+#### <span class="step-label">Step 7:</span> Prepare the final research poster
+
+Use the **18 × 24-inch research poster** presented during the poster session as your starting point.
+
+Review the poster and make any corrections identified through feedback or your own review after the session.
+
+Check:
+
+- the research focus and thesis;
+- artwork titles and information;
+- written content;
+- citations and references;
+- captions and image credits;
+- spelling and grammar;
+- image quality;
+- visual hierarchy and reading order; and
+- readability and contrast.
+
+Export the corrected poster as a high-quality **`.JPG` or `.PNG` image** for the webpage.
+
+Also prepare:
+
+- a brief caption; and
+- alt text describing the poster's **main content, organization, important images, and visual approach**.
+
+The poster must remain readable when opened or enlarged on the webpage.
+
+Because the poster is presented as an image, **do not rely on the poster image as the only place where important research information appears**. The essential research content must also appear as text elsewhere on the webpage.
+
+> **Before moving on:** You should have the corrected final poster exported as a high-quality image, plus its caption and meaningful alt text.
+
+---
+
+#### <span class="step-label">Step 8:</span> Review all content before building the webpage
+
+Before moving to Webador, review the complete content together.
+
+Confirm that:
+
+- [ ] The artist or collective profile is complete and revised.
+- [ ] Both artworks or projects have complete descriptions and documentation.
+- [ ] The research questions, thesis, and 2 central concepts are clear and consistent.
+- [ ] The critical analysis is **500–700 words** and includes APA in-text citations.
+- [ ] The annotated bibliography contains all **8 core sources**.
+- [ ] The research-creation proposal includes the revised concept statement and representative image.
+- [ ] The final research poster has been corrected and exported.
+- [ ] Images and media have captions and creator or photographer credits.
+- [ ] Source links and DOIs work.
+- [ ] Important images have meaningful alt text or another appropriate text alternative.
+- [ ] Video has captions and audio-only material has a transcript or equivalent text alternative, when applicable.
+- [ ] Both partners reviewed the complete content.
+
+> **End of Stage 1:** All written and visual content should be revised, checked, and ready to add to the public profile. Do not begin building the webpage with unfinished or unreviewed material.
+
+</div>
+</details>
+
+<details class="tutorial-section" id="build-review-webpage">
+  <summary>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Build and review the public profile</span>
+    <span class="section-description">
+      Add your revised content to the assigned Webador page, check the public profile together, and prepare it for publication.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+In Stage 1, you revised and prepared the **writing, research, images, bibliography, proposal, and poster** for the final profile. In this stage, add that content to your assigned Webador page and review the complete public profile before publishing.
+
+Work only on the page assigned to your pair. Because the course website is shared, **do not change global website settings or another pair's page**.
+
+Complete the steps below **in order**.
+
+#### <span class="step-label">Step 1:</span> Access your assigned Webador page
 
 Use the Webador login information provided on Avenue to Learn.
 
@@ -55,303 +302,145 @@ Use the Webador login information provided on Avenue to Learn.
 3. Confirm that the page title matches your selected artist or collective.
 4. Add content only to your assigned profile page.
 
-Do not:
+Do **not**:
 
 - create a new artist profile page;
 - rename, move, duplicate, hide, or delete the assigned page;
-- edit another pair’s page;
+- edit another pair's page;
 - change the website navigation, theme, fonts, global colours, header, footer, or site settings;
 - delete existing sections unless the instructions require replacing placeholder content; or
 - share the Webador login information outside the course.
 
-If you open the wrong page or notice that content is missing, stop and contact the instructor before making changes.
+If you open the wrong page or notice that content is missing, **stop and contact the instructor before making changes**.
 
-</div>
-</details>
+> **Before moving on:** Confirm that both partners know which page is assigned to the pair and that you are editing the correct artist or collective profile.
 
-<details class="tutorial-section" id="prepare-final-content">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 2: Prepare the final content</span>
-    <span class="section-description">
-      Revise the research, writing, artworks, bibliography, proposal, and poster for the public profile.
-    </span>
-  </summary>
+---
 
-<div class="section-content" markdown="1">
+#### <span class="step-label">Step 2:</span> Add the 7 profile sections
 
-Revise the writing and visual materials from Versions 1–3 and the poster session before adding them to Webador. Use your own words and keep the writing clear and specific. Correct incomplete citations, broken links, missing captions, low-quality images, unclear alt text, and missing media alternatives.
+Use the revised content prepared in Stage 1 to build the public profile.
 
-The webpage must contain the following seven sections in this order.
+Add the following **7 sections in this order**:
 
-#### 1. Artist or collective
+1. **Artist or collective**
+2. **Selected artworks or projects**
+3. **Research focus**
+4. **Critical analysis**
+5. **Annotated bibliography**
+6. **Research-creation proposal**
+7. **Research poster**
 
-Include:
+Use the existing page structure and heading styles to organize the content.
 
-- the artist or collective name as the main page title;
-- one high-quality vertical profile image; and
-- a revised 100–150-word artist or collective profile that addresses:
-  - relevant location and cultural, social, political, or historical context; and
-  - media, materials, technologies, methods, and themes connected to the research.
+As you add each section:
 
-The profile image must include:
+- copy the **revised final writing**, not an earlier draft;
+- use headings to identify each section clearly;
+- keep paragraphs reasonably short for online reading;
+- add the required images and media;
+- add captions and creator or photographer credits;
+- add meaningful alt text to images;
+- add descriptive links where required; and
+- check that the content appears in the intended reading order.
 
-- a caption;
-- photographer or creator credit; and
-- alt text that communicates the image’s relevant visual information.
+Do not use an image of text when the same information can be added as webpage text.
 
-#### 2. Selected artworks or projects
+> **Before moving on:** Confirm that all **7 required sections** are present and appear in the correct order.
 
-Create one subsection for each of the two selected artworks or projects.
+---
 
-For each work, include:
+#### <span class="step-label">Step 3:</span> Check the written content
 
-- title and year;
-- medium, materials, technologies, duration, dimensions, or format;
-- a 50–100-word description of what the audience sees, hears, encounters, or does;
-- one to three images or other forms of documentation; and
-- a stable link to the artwork or project, when available.
+Both partners should read the **complete webpage**, not only the sections they worked on.
 
-Every image or item of documentation must include:
+Confirm that:
 
-- a caption;
-- an image or media credit; and
-- alt text or another suitable text alternative.
+- [ ] The artist or collective profile is complete.
+- [ ] Both artwork or project entries include the required information and documentation.
+- [ ] The main research question, supporting questions, thesis, and 2 central concepts are consistent.
+- [ ] The critical analysis is the revised **500–700-word version**.
+- [ ] The analysis includes both student authors' full names.
+- [ ] APA in-text citations are complete.
+- [ ] The annotated bibliography contains all **8 core sources**.
+- [ ] The research-creation proposal includes the revised concept statement and representative image.
+- [ ] The final research poster is included and can be opened or enlarged.
+- [ ] The writing has been revised from the earlier versions rather than published without review.
+- [ ] Spelling, names, artwork titles, dates, and other identifying information have been checked.
 
-For time-based, interactive, or performance work, embed or link to reliable documentation when possible. Do not upload video or audio without permission. Videos must include captions, and audio-only material must include a transcript or equivalent text summary.
+> **Before moving on:** Both partners should be able to read through the complete profile from beginning to end without finding missing sections or unfinished content.
 
-#### 3. Research focus
+---
 
-Include:
+#### <span class="step-label">Step 4:</span> Check images, media, and accessibility
 
-- the main research question;
-- one or two supporting research questions;
-- a revised thesis statement that responds to the main question; and
-- two central concepts guiding the analysis.
+Review the webpage as a reader who did not work on the project.
 
-Present this information concisely so readers can understand the profile’s direction before reading the complete analysis.
+Confirm that:
 
-#### 4. Critical analysis
+- [ ] The page uses the existing page-title and section-heading styles in a logical order.
+- [ ] Every important image has useful alt text.
+- [ ] Images and media have the required captions and creator or photographer credits.
+- [ ] Link text explains where the link goes instead of using unclear phrases such as "click here."
+- [ ] Important information is not communicated only through an image.
+- [ ] Important information is not communicated through colour alone.
+- [ ] Text has sufficient contrast with its background.
+- [ ] Important text is not placed over visually complex images.
+- [ ] Videos have captions.
+- [ ] Audio-only material has a transcript or equivalent text alternative.
+- [ ] The research poster's important information also appears as webpage text elsewhere in the profile.
 
-Include:
+Check the page at a **narrower browser width or on a mobile device**. Make sure headings, paragraphs, images, captions, links, and other content remain readable and appear in a logical order.
 
-- the full names of both student authors;
-- a revised 500–700-word critical analysis; and
-- APA in-text citations.
+Also enlarge the page in the browser and check that the content remains usable.
 
-The analysis must retain the structure developed in Version 3:
+> **Before moving on:** Correct accessibility or readability problems you can identify before completing the final review.
 
-- an introduction establishing the research question, thesis, concepts, and artworks;
-- the first critical connection developed through Artwork or Project 1;
-- the second critical connection developed through Artwork or Project 2; and
-- a conclusion that brings the argument together and identifies an important tension, limitation, or unresolved question.
+---
 
-Use specific evidence from the artworks and bring the course readings and other sources into conversation. Do not present separate summaries of each source.
+#### <span class="step-label">Step 5:</span> Check citations, links, credits, and privacy
 
-#### 5. Annotated bibliography
+Review the information that will become public.
 
-Include the revised annotated bibliography for all eight core sources:
+Confirm that:
 
-| Source type | Number required |
-|---|---:|
-| Course readings | 2 |
-| Additional academic sources | 2 |
-| Primary artist sources | 2 |
-| Critical or contextual sources | 2 |
+- [ ] APA citations and references are complete.
+- [ ] Links and DOIs open the intended sources.
+- [ ] Artwork and media captions are complete.
+- [ ] Photographer, creator, and media credits are included when required.
+- [ ] Media permissions or usage requirements have been followed.
+- [ ] Student numbers have been removed from the public webpage.
+- [ ] Other private information that should not appear publicly has been removed.
+- [ ] We did not change another pair's page.
+- [ ] We did not change the website navigation or global settings.
 
-Each entry must include:
+> **Before moving on:** Open important links rather than assuming they work, and review the page for information that should not appear on a public website.
 
-- a complete APA reference;
-- a descriptive, working link or DOI, when available; and
-- a revised annotation.
+---
 
-Use consistent APA formatting. Organize the entries alphabetically by the first author’s last name.
+#### <span class="step-label">Step 6:</span> Complete the final review together
 
-#### 6. Research-creation proposal
+Before publishing, both partners must review the **complete public profile together**.
 
-Include:
+Complete this final check:
 
-- a representative image with a caption, credit, and alt text;
-- the title of the proposed work; and
-- a revised 100–150-word concept statement that explains:
-  - how the proposal responds to, extends, questions, or translates part of the artist’s practice;
-  - the proposed medium, method, technology, audience, or context; and
-  - relevant ethical considerations.
+- [ ] We are working on the correct assigned page.
+- [ ] All **7 required sections** appear in the correct order.
+- [ ] All required writing is present and revised.
+- [ ] Both artworks or projects include complete information and documentation.
+- [ ] The research questions, thesis, concepts, and critical analysis are consistent.
+- [ ] The annotated bibliography contains all **8 core sources**.
+- [ ] The research-creation proposal is complete.
+- [ ] The final research poster is included.
+- [ ] Images and media have captions, credits, and appropriate text alternatives.
+- [ ] Citations and links have been checked.
+- [ ] Student numbers and other private information have been removed.
+- [ ] The page is readable at different browser widths and when enlarged.
+- [ ] Both partners have reviewed and approved the complete page.
 
-#### 7. Research poster
+Do not publish the page until both partners have completed this review.
 
-Upload the final poster as a high-quality `.JPG` or `.PNG` image.
-
-Include:
-
-- a brief caption; and
-- alt text describing the poster’s main content, organization, images, and visual approach.
-
-Use the final poster presented during the poster session, including any corrections made afterward. The poster must be readable when opened or enlarged on the webpage. Because the poster is an image, all important poster information must also appear as text elsewhere on the page.
-
-</div>
-</details>
-
-<details class="tutorial-section" id="review-publish-webpage">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3: Review and publish the webpage</span>
-    <span class="section-description">
-      Check the content, accessibility, privacy, and mobile layout before publishing the assigned page.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Both partners must review the page together before publishing.
-
-#### Check the content
-
-- [ ] We used the assigned artist or collective profile page.
-- [ ] We included all seven required sections in the correct order.
-- [ ] We revised the writing from Versions 1–3 instead of publishing an earlier draft without review.
-- [ ] The research questions, thesis, concepts, and analysis are consistent.
-- [ ] Both artwork entries include complete information and documentation.
-- [ ] The annotated bibliography includes all eight core sources.
-- [ ] The research-creation proposal includes a representative image.
-- [ ] The final poster is uploaded as an image and can be read when enlarged.
-
-#### Check accessibility and media
-
-- [ ] We used the existing page-title and section-heading styles in a logical order.
-- [ ] Link text explains where each link goes; we did not use unclear phrases such as “click here.”
-- [ ] Every image has a caption, credit, and useful alt text.
-- [ ] Important information is not presented only as an image or through colour.
-- [ ] Videos have captions, and audio-only material has a transcript or equivalent text summary.
-- [ ] Text is readable against its background and is not placed over a visually complex image.
-- [ ] The page remains readable when viewed on a mobile device or enlarged in the browser.
-
-#### Check citations, privacy, and shared settings
-
-- [ ] All citations, links, captions, permissions, and credits are complete.
-- [ ] We removed student numbers and other private information from the public page.
-- [ ] We confirmed that we did not change another page or the website’s global settings.
-
-Publish the page only after both partners have completed this review.
-
-</div>
-</details>
-
-<details class="tutorial-section" id="prepare-pdf-document">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 4: Prepare the accessible PDF</span>
-    <span class="section-description">
-      Create a complete, text-based record of the public profile for submission on Avenue.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Export one PDF containing the profile information in the same order as the Webador page:
-
-1. Both partners’ full names and student numbers
-2. Artist or collective section
-3. Two selected artwork or project entries
-4. Research focus
-5. Critical analysis
-6. Annotated bibliography
-7. Research-creation proposal and representative image
-8. Final research poster
-9. A text version of the poster’s content and descriptions of its images
-10. A descriptive link to the completed Webador profile page
-
-Student numbers belong in the submitted PDF only. They must not appear on the public Webador page.
-
-Make the PDF accessible:
-
-- Export it as a text-based PDF, not as scanned pages or screenshots.
-- Make sure the text can be selected and searched.
-- Use clear headings and a consistent reading order.
-- Use a readable font and sufficient contrast between text and background.
-- Keep links clickable and give them descriptive names.
-- Include captions, alt text or image descriptions, and credits.
-- Check that tables, images, citations, and links remain readable after export.
-
-Name the file:
-
-`P1_Critical-Research-Creation-Profile.pdf`
-
-</div>
-</details>
-
-<details class="tutorial-section" id="prepare-image-folder">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 5: Prepare the image folder</span>
-    <span class="section-description">
-      Collect and clearly name every image used on the public profile page.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Create a folder named `Images` containing every image uploaded to the Webador page, including:
-
-- artist or collective profile image;
-- all images or documentation for Artwork or Project 1 and 2;
-- research-creation proposal image; and
-- research poster image.
-
-Use `.JPG` or `.PNG` files and the highest-quality version available. Keep the original proportions and do not enlarge low-resolution files.
-
-Use short, clear filenames without spaces or special characters:
-
-```text
-Artist-Profile.jpg
-Artwork-01_Short-Title.jpg
-Artwork-01b_Short-Title.jpg
-Artwork-02_Short-Title.jpg
-Artwork-02b_Short-Title.jpg
-Research-Creation-Proposal.jpg
-Research-Poster.jpg
-```
-
-Only include the additional `b` or `c` files when more than one image is used for an artwork.
-
-</div>
-</details>
-
-<details class="tutorial-section" id="create-submit-zip">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 6: Create and submit the ZIP package</span>
-    <span class="section-description">
-      Package the accessible PDF and image folder, check the archive, and submit it on Avenue.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Name the ZIP file:
-
-`P1_Critical-Research-Creation-Profile.zip`
-
-Use this structure:
-
-```text
-P1_Critical-Research-Creation-Profile.zip
-├── P1_Critical-Research-Creation-Profile.pdf
-└── Images/
-    ├── Artist-Profile.jpg
-    ├── Artwork-01_Short-Title.jpg
-    ├── Artwork-02_Short-Title.jpg
-    ├── Research-Creation-Proposal.jpg
-    └── Research-Poster.jpg
-```
-
-Before submitting, confirm that:
-
-- [ ] The ZIP package opens without an error.
-- [ ] The ZIP contains the correctly named PDF and `Images` folder.
-- [ ] The PDF contains every required section and a working link to the public profile.
-- [ ] The PDF is text-based, readable, and accessible.
-- [ ] The `Images` folder contains every image used on Webador.
-- [ ] Citations, links, captions, permissions, alt text or image descriptions, and credits are complete.
-- [ ] The public page does not include student numbers or other private information.
-- [ ] Both partners reviewed the completed webpage and ZIP package.
-
-One partner will submit the ZIP package on behalf of the pair.
+> **End of Stage 2:** Your assigned Webador page should contain the complete final profile and be reviewed for content, citations, media, accessibility, privacy, and layout before publication.
 
 </div>
 </details>
@@ -360,10 +449,23 @@ One partner will submit the ZIP package on behalf of the pair.
 
 | Item | Requirement |
 |---|---|
-| Webador profile | Complete and publish the assigned artist or collective page |
-| ZIP package | `P1_Critical-Research-Creation-Profile.zip` |
+| Webador profile | Complete, review, and publish the assigned artist or collective profile page |
 
-Files or pages that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. A missing or incorrect page, incomplete section, broken link, missing image, incomplete citation, missing media credit or permission, missing text alternative, or incomplete ZIP package will affect the grade.
+Before submitting, confirm that:
+
+- [ ] We completed the assigned artist or collective profile page.
+- [ ] All **7 required sections** are present and complete.
+- [ ] Both partners reviewed the final public profile.
+- [ ] The page has been published.
+- [ ] The published page opens correctly and all required content is visible.
+- [ ] Links and embedded media work on the published page.
+- [ ] Images are **high quality, clear, and not pixelated** at the size they appear on the webpage.
+- [ ] Images, captions, media credits, permissions, and text alternatives are complete.
+- [ ] Student numbers and other private information have been removed from the public page.
+
+> **Final check:** Review the **published version**, not only the Webador editor. Confirm that the page can be opened and that the content, images, links, and media appear correctly.
+
+A page that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. A missing or incorrect page, incomplete required section, broken link, missing image, incomplete citation, missing media credit or permission, or missing required text alternative will affect the grade.
 
 ---
 
