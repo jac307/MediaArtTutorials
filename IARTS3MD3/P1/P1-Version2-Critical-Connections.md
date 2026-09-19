@@ -48,16 +48,6 @@ Do not try to complete all of the requirements at once. Each stage builds on the
 
 In Version 1, you and your partner selected **eight core sources** and **two artworks or projects**. Continue working with those selections and the division of research you already established.
 
-**Do not select a new set of sources for this stage.**
-
-Each partner will continue working with:
-
-- **4 of the 8 sources from Version 1**
-- **1 of the 2 artworks or projects from Version 1**
-- **2–3 preliminary critical connections**
-- **4 annotated bibliography entries**
-- **1 individual notes PDF**
-
 Complete the steps below **in order**.
 
 ---
@@ -163,7 +153,7 @@ For each connection, include:
 
 #### <span class="step-label">Step 5:</span> Update your 4 annotated bibliography entries
 
-Return to the **annotated bibliography you started in Version 1**. Continue working with the same four sources assigned to you.
+> **Do not start a separate annotated bibliography.** You are developing the bibliography from Version 1 by checking the references and replacing or revising the initial descriptions with more specific annotations based on your completed research.
 
 For each of your four sources:
 
@@ -182,8 +172,6 @@ Use this format:
 | APA reference and link | Source type | Annotation |
 |---|---|---|
 | Complete APA reference and accessible link | Course reading, academic, primary artist, or critical/contextual | 75–100 words addressing the required points |
-
-**Do not start a separate annotated bibliography.** You are developing the bibliography from Version 1 by checking the references and replacing or revising the initial descriptions with more specific annotations based on your completed research.
 
 Your annotation is **not a copy of your research notes**. Use your notes to write a concise explanation of what the source contributes to the project.
 
@@ -301,7 +289,7 @@ Include:
 
 Now plan how you will support and develop the working thesis in Version 3.
 
-**Use bullet points for this outline. You are not writing the full critical analysis yet.**
+> **Use bullet points for this outline. You are not writing the full critical analysis yet.**
 
 Organize the outline into the following sections.
 
@@ -374,15 +362,13 @@ As you develop the outline:
 
 ---
 
-#### <span class="step-label">Step 6:</span> Revise the 8-entry annotated bibliography
+#### <span class="step-label">Step 6:</span> Combine and Revise annotated bibliography
 
 Return to the **annotated bibliography entries you each updated in Stage 1**.
 
 Combine the two sets of four entries into **one annotated bibliography with all eight core sources**.
 
-> For groups of three students, you must have three sets of four entries into one annotated bibliography with all twelve core sources.
-
-Do not create new annotations at this stage. Review and revise the existing entries together so the bibliography works as one consistent document.
+> **Do not create new annotations at this stage**. Review and revise the existing entries together so the bibliography works as one consistent document.
 
 Before continuing, confirm that your pair has:
 
@@ -415,15 +401,7 @@ Include:
 
 Include only information that helps the reader understand the direction of your research.
 
-**Do not write a complete biography or career summary.** Focus on information that is relevant to the artworks, concepts, and questions you are investigating.
-
-For the profile image, include:
-
-- a caption or identification;
-- creator or photographer credit, when available;
-- the source link;
-- available rights information; and
-- useful alt text or an image description.
+> **Do not write a complete biography or career summary.** Focus on information that is relevant to the artworks, concepts, and questions you are investigating.
 
 ---
 
@@ -431,7 +409,7 @@ For the profile image, include:
 
 For this week's submission, you and your partner will prepare **one PDF together**.
 
-This PDF collects the research and planning you completed in Stage 2. **You are submitting research notes and an outline at this stage. You do not need to write the full critical analysis yet.**
+> This PDF collects the research and planning you completed in Stage 2. **You are submitting research notes and an outline at this stage. You do not need to write the full critical analysis yet.**
 
 Your collaborative PDF must include:
 
@@ -445,10 +423,9 @@ Your collaborative PDF must include:
 - [ ] The **Conclusion** section of the critical-connections outline in bullet points.
 - [ ] The combined annotated bibliography with **all 8 core sources**.
 - [ ] The **100–150-word artist or collective profile**.
-- [ ] The vertical artist or collective profile image with its caption, credit, source, available rights information, and alt text or image description.
 - [ ] A text explanation for any other diagram or image needed to understand your notes.
 
-You may organize the PDF using headings, bullet points, tables, annotations, diagrams, or another clear format.
+> You may organize the PDF using headings, bullet points, tables, annotations, diagrams, or another clear format.
 
 ##### Before exporting
 
