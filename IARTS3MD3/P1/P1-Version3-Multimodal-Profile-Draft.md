@@ -52,6 +52,12 @@ Do not try to complete all parts of the assignment at once. Each stage builds on
 
 <div class="section-content" markdown="1">
 
+In Version 2, you developed a **working thesis and critical-connections outline** using your eight core sources and two selected artworks or projects. In this stage, develop that outline into a **critical analysis**, using the feedback you received on Version 2.
+
+Complete the steps below **in order**.
+
+---
+
 #### <span class="step-label">Step 1:</span> Review and refine your Version 2 critical-connections outline
 
 Start with the **critical-connections outline (bullet points) you completed in Version 2** and the feedback you received.
@@ -97,7 +103,7 @@ Your analysis must connect:
 
 Use the sources to help you analyze the artworks, develop your critical connections, and support your thesis.
 
-> For groups of three students, you must include the Student C's resources and selected artwork. 
+> For **groups of three students**, you must include the **Student C**'s resources and selected artwork. 
 
 Organize the analysis using the following sections.
 
@@ -162,9 +168,7 @@ Do not introduce a completely new argument in the conclusion.
 
 #### <span class="step-label">Step 3:</span> Review and revise the analysis together
 
-Both partners are responsible for the complete critical analysis.
-
-Read the entire analysis together and revise it so it works as **one connected text**, not two separate pieces joined together.
+Together, read the entire analysis together and revise it so it works as **one connected text**, not two separate pieces joined together.
 
 Check that:
 
@@ -192,7 +196,7 @@ Check that:
 
 #### <span class="step-label">Step 4:</span> Prepare the critical analysis PDF
 
-At the end of Stage 1, prepare **one PDF per pair** containing the critical analysis you completed together.
+Prepare **one PDF per pair** containing the critical analysis you completed together.
 
 Your PDF must include:
 
@@ -210,8 +214,6 @@ Before exporting, confirm that:
 - [ ] The document uses clear headings and a consistent reading order.
 - [ ] The text can be selected and searched.
 - [ ] Links are clickable.
-
-Export a **text-based PDF**, not scanned pages or screenshots.
 
 Name the file:
 
@@ -231,6 +233,12 @@ Name the file:
   </summary>
 
 <div class="section-content" markdown="1">
+
+In Stage 1, you developed your research into a complete critical analysis. In this stage, use an **idea, method, question, or tension from your research** as the starting point for an original artistic direction and develop a preliminary research-creation proposal.
+
+Complete the steps below **in order**.
+
+---
 
 #### <span class="step-label">Step 1:</span> Identify your artistic direction
 
@@ -326,7 +334,7 @@ The visual development page should show **your thinking and development process*
 
 #### <span class="step-label">Step 5:</span> Prepare the research-creation proposal PDF
 
-At the end of Stage 2, prepare **one PDF per pair** documenting your preliminary research-creation proposal.
+Prepare **one PDF per pair** documenting your preliminary research-creation proposal.
 
 Your PDF must include:
 
@@ -376,6 +384,12 @@ Name the file:
   </summary>
 
 <div class="section-content" markdown="1">
+
+In Stages 1 and 2, you developed your **critical analysis and preliminary research-creation proposal**. In this stage, select and translate the most important ideas from that work into a clear **18 × 24-inch research poster** for the poster session.
+
+Complete the steps below **in order**.
+
+---
 
 #### <span class="step-label">Step 1:</span> Select and edit the poster content
 
@@ -533,14 +547,12 @@ Bring the **printed 18 × 24-inch research poster** to the poster session.
 
 Before submitting, confirm that:
 
-- [ ] The **Stage 1 PDF** contains the complete 500–700-word critical analysis and revised annotated bibliography with all 8 core sources.
-- [ ] The **Stage 2 PDF** contains the 150–200-word concept statement, annotated visual development page, text explanation, and required image credits and source information.
+- [ ] The **Stage 1 PDF** contains the complete critical analysis and revised annotated bibliography with all 8 core sources.
+- [ ] The **Stage 2 PDF** contains the concept statement, annotated visual development page, text explanation, and required image credits and source information.
 - [ ] The **Stage 3 poster PDF** is set to 18 × 24 inches, vertical, and ready to print.
-- [ ] Citations, APA references, links, captions, image descriptions, and media credits required for each file are complete.
-- [ ] All PDFs are text-based where possible, readable, and open correctly.
+- [ ] Both partners have reviewed all three files together.
 - [ ] The poster has been checked for image quality, cropping, legibility, and required credits before printing.
 - [ ] All three files use the required filenames.
-- [ ] Both partners have reviewed all three files together.
 - [ ] The printed **18 × 24-inch poster** is ready to bring to the poster session.
 
 > Files that cannot be opened, identified, printed, or accessed may need to be resubmitted and may be considered late. Missing required research, sections, citations, media credits, accessibility information, or files will affect the grade.
