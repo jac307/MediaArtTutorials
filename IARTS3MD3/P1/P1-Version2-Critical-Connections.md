@@ -460,14 +460,14 @@ Export a **text-based PDF**, not scanned pages or screenshots.
 
 #### <span class="step-label">Step 1:</span> Save your high-quality images and media information
 
-Before preparing your presentation, make sure your pair has saved the **highest-quality image files available** for:
+Make sure your pair has saved the **highest-quality image files available** for:
 
 - the artist or collective profile image;
 - Artwork or Project 1;
 - Artwork or Project 2; and
 - any additional artwork documentation that may be useful for later versions of the project.
 
-Keep the original image files and their source information organized so you can use them when developing the multimodal profile.
+> Keep the original image files and their source information organized so you can use them when developing the multimodal profile for the final submission.
 
 When available, save:
 
@@ -476,7 +476,7 @@ When available, save:
 - the source link; and
 - available rights or permissions information.
 
-**You do not need to upload these image files for Version 2.** Keep them organized for the next next steps of the project.
+> **You do not need to upload these image files for Version 2.** Keep them organized for the next next steps of the project.
 
 ---
 
@@ -510,16 +510,12 @@ or
 
 `P1_V2-Critical-Connections-Slide.png`
 
-Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
-
-Slides must be submitted in advance so they can be presented in sequence without changing computers.
+> Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
 </div>
 </details>
 
 ## Submission files
-
-Submit **four files** for Version 2:
 
 | Item | Required filename |
 |---|---|
