@@ -262,7 +262,7 @@ Confirm that:
 - [ ] The artist or collective profile is complete and revised.
 - [ ] Both artworks or projects have complete descriptions and documentation.
 - [ ] The research questions, thesis, and 2 central concepts are clear and consistent.
-- [ ] The critical analysis is **500–700 words** and includes APA in-text citations.
+- [ ] The critical analysis is **500–700 words** (175–250 words more for groups of three students) and includes **APA in-text citations** if used.
 - [ ] The annotated bibliography contains all **8 core sources**.
 - [ ] The research-creation proposal includes the revised concept statement and representative image.
 - [ ] The final research poster has been corrected and exported.
