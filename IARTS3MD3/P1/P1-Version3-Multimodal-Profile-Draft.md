@@ -52,7 +52,7 @@ Do not try to complete all parts of the assignment at once. Each stage builds on
 
 <div class="section-content" markdown="1">
 
-#### Step 1: Review and refine your Version 2 critical-connections outline
+#### <span class="step-label">Step 1:</span> Review and refine your Version 2 critical-connections outline
 
 Start with the **critical-connections outline (bullet points) you completed in Version 2** and the feedback you received.
 
@@ -83,7 +83,7 @@ Each critical connection should develop part of the thesis rather than introduce
 
 ---
 
-#### Step 2: Write the critical analysis
+#### <span class="step-label">Step 2:</span> Write the critical analysis
 
 Develop your Version 2 outline into a **critical analysis**.
 
@@ -160,7 +160,7 @@ Do not introduce a completely new argument in the conclusion.
 
 ---
 
-#### Step 3: Review and revise the analysis together
+#### <span class="step-label">Step 3:</span> Review and revise the analysis together
 
 Both partners are responsible for the complete critical analysis.
 
@@ -190,7 +190,7 @@ Check that:
 
 ---
 
-#### Step 4: Prepare the Stage 1 critical analysis PDF
+#### <span class="step-label">Step 4:</span> Prepare the critical analysis PDF
 
 At the end of Stage 1, prepare **one PDF per pair** containing the critical analysis you completed together.
 
@@ -232,7 +232,7 @@ Name the file:
 
 <div class="section-content" markdown="1">
 
-#### Step 1: Identify an artistic direction
+#### <span class="step-label">Step 1:</span> Identify your artistic direction
 
 Return to your critical analysis and identify **one idea from your research that could become the starting point for an original artwork**.
 
@@ -258,7 +258,7 @@ Consider what you could:
 
 ---
 
-#### Step 2: Develop the proposed artwork
+#### <span class="step-label">Step 2:</span> Develop your proposed artwork
 
 Discuss and make preliminary decisions about:
 
@@ -276,7 +276,7 @@ The proposal is **preliminary**. You do not need to know exactly what the final 
 
 ---
 
-#### Step 3: Write the concept statement
+#### <span class="step-label">Step 3:</span> Write the concept statement
 
 Write a **150–200-word concept statement** explaining the proposed artwork.
 
@@ -295,7 +295,7 @@ Avoid broad statements such as *raising awareness*, *promoting diversity*, or *c
 
 ---
 
-#### Step 4: Create a visual development page
+#### <span class="step-label">Step 4:</span> Create the visual development page
 
 Create **one visual development page** that shows how the proposed idea could take form.
 
@@ -324,7 +324,7 @@ The visual development page should show **your thinking and development process*
 
 ---
 
-#### Step 5: Prepare the Stage 2 research-creation proposal PDF
+#### <span class="step-label">Step 5:</span> Prepare the research-creation proposal PDF
 
 At the end of Stage 2, prepare **one PDF per pair** documenting your preliminary research-creation proposal.
 
@@ -377,7 +377,7 @@ Name the file:
 
 <div class="section-content" markdown="1">
 
-#### Step 1: Select and edit the content for the poster
+#### <span class="step-label">Step 1:</span> Select and edit the poster content
 
 Your poster should communicate the **main direction of your research** without reproducing the complete critical analysis or research-creation proposal.
 
@@ -398,7 +398,7 @@ Use approximately **300–400 words total**, excluding artwork captions, image c
 
 ---
 
-#### Step 2: Gather the poster content and images
+#### <span class="step-label">Step 2:</span> Gather your poster text and images
 
 Your poster must include:
 
@@ -426,7 +426,7 @@ Use the **high-quality image files you saved during Version 2** whenever possibl
 
 ---
 
-#### Step 3: Design the research poster
+#### <span class="step-label">Step 3:</span> Design the research poster
 
 Create the poster digitally using an **18 × 24-inch vertical format**.
 
@@ -453,7 +453,7 @@ A viewer should be able to identify the **artist or collective, research focus, 
 
 ---
 
-#### Step 4: Review the poster before printing
+#### <span class="step-label">Step 4:</span> Review the poster before printing
 
 Both partners should review the complete poster.
 
@@ -477,7 +477,7 @@ Check that:
 
 ---
 
-#### Step 5: Export and print the poster
+#### <span class="step-label">Step 5:</span> Export and print the poster
 
 Export the final poster as a **print-ready PDF at 18 × 24 inches**.
 
@@ -502,7 +502,7 @@ Print the poster at **18 × 24 inches** before the poster session and bring the 
 
 ---
 
-#### Step 6: Prepare for the poster session
+#### <span class="step-label">Step 6:</span> Prepare for the poster session
 
 Both partners must be prepared to explain the project and respond to questions about:
 
