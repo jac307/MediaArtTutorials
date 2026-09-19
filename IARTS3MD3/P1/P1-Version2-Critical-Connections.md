@@ -5,54 +5,68 @@
 # Version 2: Critical Connections
 
 **Work format:** Pairs, with individual research notes  
-**Submission:** One ZIP package and one presentation slide per pair  
+**Submission:** Two individual research-notes PDFs, one collaborative PDF, and one Pecha Kucha presentation slide per pair  
 **Presentation length:** One minute
 
 ## Goal
 
-Develop a draft of your profile. Confirm the selected artworks, connect your findings to course readings and other sources, and prepare the images needed for later versions.
-
-## What you will complete
-
-- An individual research-notes PDF from each partner
-- A 100–150-word artist or collective profile
-- Written entries for two artworks or projects
-- Revised research questions and a 75–125-word working thesis
-- A detailed critical-connections outline
-- An annotated bibliography with eight core sources
-- A folder of high-quality images
-- One slide for a one-minute presentation
+**Develop the research direction for your profile**. Continue the research you began in Version 1, examine your sources and artworks more closely, develop your working thesis and critical connections, and prepare for the next version of the project.
 
 ## How to divide the work
 
-Both partners are responsible for the complete document and ZIP package. Divide the initial research as follows:
+You already divided the initial research in **Version 1**. Continue with that division for Stage 1.
 
 | Partner A | Partner B |
 |---|---|
-| Read and annotate one course reading | Read and annotate one different course reading |
-| Read and annotate one academic source | Read and annotate one different academic source |
-| Read and annotate one primary artist source | Read and annotate one different primary artist source |
-| Read and annotate one critical or contextual source | Read and annotate one different critical or contextual source |
-| Lead the initial research on one artwork | Lead the initial research on the other artwork |
-| Gather and credit images for assigned material | Gather and credit images for assigned material |
+| Continue with 1 assigned course reading | Continue with 1 different assigned course reading |
+| Continue with 1 assigned academic source | Continue with 1 different assigned academic source |
+| Continue with 1 assigned primary artist source | Continue with 1 different assigned primary artist source |
+| Continue with 1 assigned critical or contextual source | Continue with 1 different assigned critical or contextual source |
+| Continue the research on 1 artwork or project | Continue the research on the other artwork or project |
 
-> Do not divide the project into two separate halves. Both partners must understand all eight sources and both artworks. Revise the group sections together so the document has a consistent focus, voice, and citation style.
+**Continue developing the eight core sources and two artworks or projects established in Version 1**** unless a source or artwork needs to be replaced for the reasons explained in Stage 1.
 
-## Complete the assignment in three stages
+> For a group of three students, you will repeat the same division of work on Partner C.
+
+## Read and complete the instructions step by step
+
+**Complete this version in the order presented below.**
+
+Do not try to complete all of the requirements at once. Each stage builds on the work from the previous stage.
+
+**Start with Stage 1 and complete each step before moving to the next stage.** Use the checklists and **Before moving on** prompts to confirm that you have completed the required work.
 
 <details class="tutorial-section" id="source-notes">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 1: Read the sources and identify critical connections</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Individual research</span>
     <span class="section-description">
-      Divide the research, read four sources individually, examine one artwork, and prepare individual notes.
+      Each partner continues their assigned research from Version 1 and prepares an individual research-notes PDF.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-#### Confirm and divide the core sources
+In Version 1, you and your partner selected **eight core sources** and **two artworks or projects**. Continue working with those selections and the division of research you already established.
 
-As a pair, confirm the eight sources selected in Version 1. Each partner must review four different sources:
+**Do not select a new set of sources for this stage.**
+
+Each partner will continue working with:
+
+- **4 of the 8 sources from Version 1**
+- **1 of the 2 artworks or projects from Version 1**
+- **2–3 preliminary critical connections**
+- **4 annotated bibliography entries**
+- **1 individual notes PDF**
+
+Complete the steps below **in order**.
+
+---
+
+#### Step 1: Confirm your 4 sources from Version 1
+
+Return to the **eight core sources you selected in Version 1**.
+
+Continue with the four sources assigned to you. Together, your pair should still have:
 
 | Source type | Partner A | Partner B | Total |
 |---|---:|---:|---:|
@@ -60,360 +74,471 @@ As a pair, confirm the eight sources selected in Version 1. Each partner must re
 | Additional academic sources | 1 | 1 | 2 |
 | Primary artist sources | 1 | 1 | 2 |
 | Critical or contextual sources | 1 | 1 | 2 |
-| **Total sources per partner** | **4** | **4** | **8** |
+| **Total** | **4** | **4** | **8** |
 
-Each partner must read, watch, or listen to their four assigned sources in full.
+**Before moving on:** Confirm which four Version 1 sources are yours.
 
-#### Confirm and divide the artworks or projects
+You do not need to find new sources unless a Version 1 source no longer supports your research direction or does not provide enough reliable information for the project. Take into account the instructor's feedback on Version 1.
 
-Confirm two artworks or projects that provide enough evidence to support your research direction. Each partner must lead the initial research on one work.
+Each partner must read, watch, or listen to their four assigned sources **in full**.
 
-Replace a work if it no longer supports the project’s direction or if reliable information and documentation are not available.
+---
 
-#### Prepare individual research notes
+#### Step 2: Confirm your artwork or project from Version 1
 
-Each partner must review their four assigned sources and one assigned artwork or project.
+Return to the **two artworks or projects selected in Version 1**.
+
+Continue with the artwork or project assigned to you for individual research:
+
+- Partner A researches **one work**.
+- Partner B researches **one work**.
+
+> Part C researches **one work** if you're in a group of three students. 
+
+Keep the Version 1 selections if they continue to provide enough evidence for your research direction.
+
+Replace a work only if it no longer supports the project’s direction or if reliable information and documentation are not available.
+
+> **Before moving on:** You should now have your **4 Version 1 sources + 1 Version 1 artwork/project** confirmed.
+
+---
+
+#### Step 3: Take notes on your 4 sources
+
+Work through **one of your assigned Version 1 sources at a time**.
 
 For each source, record:
 
-- its main argument or useful information;
-- two or three relevant concepts;
-- a useful passage, example, or quotation with page numbers or timestamps;
-- connections to the assigned artwork and other sources; and
+- the main argument or useful information;
+- **2–3 relevant concepts**;
+- a useful passage, example, or quotation, including **page numbers or timestamps**;
+- connections to your assigned artwork and other sources; and
 - a question, limitation, disagreement, or missing perspective.
 
-For the assigned artwork or project, record:
+Repeat this process until you have notes for **all four sources**.
 
-| Information | What to record |
-|---|---|
-| Identification | Complete title and year |
-| Format | Medium, materials, technologies, duration, dimensions, or format |
-| Context | Where, when, why, and for whom the work was produced, presented, performed, exhibited, or published |
-| Audience experience | What the audience sees, hears, encounters, or does |
-| Artistic approach | Important methods, techniques, materials, technologies, or decisions |
-| Themes and questions | Ideas, issues, or questions addressed by the work |
-| Documentation | Available images, video, audio, exhibition records, or other documentation |
-| Media information | Captions, creator or photographer credits, source links, image descriptions, and available rights information |
+---
 
-Write the notes in your own words. Read each assigned source in full and examine the artwork carefully. Do not use an AI-generated or other generated summary instead of doing this work. A generated summary may omit arguments, examples, context, or limitations needed for your research.
+#### Step 4: Take notes on your artwork or project
 
-#### Identify preliminary critical connections
+Examine your assigned artwork or project carefully. Record the following
+information:
 
-Using your four sources and assigned artwork, write **two or three preliminary critical connections**.
+  -----------------------------------------------------------------------
+  Find                                Record
+  ----------------------------------- -----------------------------------
+  **Identification**                  Complete title and year
 
-Each connection must include:
+  **Format**                          Medium, materials, technologies,
+                                      duration, dimensions, or format
 
-- a concept from one of your assigned sources;
-- specific evidence from the artwork or project;
-- a connection to another source, when possible; and
-- an initial interpretation, question, or tension.
+  **Context**                         Where, when, why, and for whom the
+                                      work was produced, presented,
+                                      performed, exhibited, or published
+
+  **Audience experience**             What the audience sees, hears,
+                                      encounters, or does
+
+  **Artistic approach**               Important methods, techniques,
+                                      materials, technologies, or
+                                      decisions
+
+  **Themes and questions**            Ideas, issues, or questions
+                                      addressed by the work
+
+  **Documentation**                   Available images, video, audio,
+                                      exhibition records, or other
+                                      documentation
+
+  **Media information**               Captions, creator or photographer
+                                      credits, source links, image
+                                      descriptions, and available rights
+                                      information
+  -----------------------------------------------------------------------
+
+> **Before moving on:** Check that your notes give you enough specific evidence from the artwork to connect it to your sources.
+
+---
+
+#### Step 5: Make 2--3 preliminary critical connections
+
+Now bring your source research and artwork research together.
+
+Write **2--3 preliminary critical connections**.
+
+For each connection, include:
+
+1.  **Concept:** What concept comes from one of your assigned sources?
+2.  **Artwork evidence:** What specific part of the artwork or project
+    connects to it?
+3.  **Another source:** Can another assigned source extend, complicate,
+    or challenge the connection?
+4.  **Your thinking:** What initial interpretation, question, or tension
+    does this connection raise?
 
 ##### Example
 
-**Testimony and damage-centred representation:** Tuck explains that communities are often represented mainly through pain or trauma (pp. 409–413). This idea may connect to *El Tendedero*, where many anonymous accounts of harassment are displayed together and individual experiences become evidence of a shared problem. A question to explore is whether making these stories public creates solidarity or raises concerns about consent and how the stories continue to circulate.
+**Testimony and damage-centred representation:** Tuck explains that
+communities are often represented mainly through pain or trauma
+(pp. 409--413). This idea may connect to *El Tendedero*, where many
+anonymous accounts of harassment are displayed together and individual
+experiences become evidence of a shared problem. A question to explore
+is whether making these stories public creates solidarity or raises
+concerns about consent and how the stories continue to circulate.
 
-These connections are preliminary. You will compare and develop them with your partner in Stage 2.
+> These connections are **preliminary**. You will compare and develop them with your partner in Stage 2.
 
-#### Prepare the individual annotated bibliography
+---
 
-Prepare an annotated bibliography for your four assigned sources. Write **75–100 words per source**.
+#### Step 6: Update your 4 annotated bibliography entries
 
-Each annotation must:
+Return to the **annotated bibliography you started in Version 1**. Continue working with the same four sources assigned to you.
 
-- identify the source’s main argument or useful information;
+For each of your four sources:
+
+1. **Check the APA reference.** Make sure the citation is complete and correctly formatted in APA style, and check that the link works.
+2. **Update the annotation.** Use what you learned from reading, watching, or listening to the complete source to revise the description you prepared in Version 1.
+3. **Write 75–100 words per source.**
+
+Each updated annotation must:
+
+- identify the source's main argument or useful information;
 - explain how the source connects to the artist or selected artwork; and
 - identify an important limitation, bias, or missing perspective, when relevant.
 
-Use this structure:
+Use this format:
 
 | APA reference and link | Source type | Annotation |
 |---|---|---|
-| Complete reference and accessible link | Course reading, academic, primary artist, or critical/contextual | Write 75–100 words addressing the required points. |
+| Complete APA reference and accessible link | Course reading, academic, primary artist, or critical/contextual | 75–100 words addressing the required points |
 
-The annotation is not a copy of your research notes. Use your notes to write a concise explanation of what the source contributes to the project.
+**Do not start a separate annotated bibliography.** You are developing the bibliography from Version 1 by checking the references and replacing or revising the initial descriptions with more specific annotations based on your completed research.
 
-#### Prepare the individual notes PDF
+Your annotation is **not a copy of your research notes**. Use your notes to write a concise explanation of what the source contributes to the project.
 
-Each partner must prepare and submit their own notes PDF. You may organize the document using headings, bullet points, tables, annotations, diagrams, or another clear format.
+---
 
-Before exporting, confirm that your document includes:
+#### Step 7: Prepare your individual notes PDF
 
-- [ ] My full name and student number.
-- [ ] Research notes for each of my four sources.
-- [ ] Notes on my assigned artwork or project.
-- [ ] Two or three preliminary critical connections.
-- [ ] An annotated bibliography for my four assigned sources.
-- [ ] A text explanation for any diagram or image needed to understand my notes.
+Put your individual research into **one PDF**.
 
-Name the file:
+You may organize it using headings, bullet points, tables, annotations,
+diagrams, or another clear format.
+
+##### Final check
+
+Before exporting, confirm:
+
+-   [ ] My full name and student number are included.
+-   [ ] I have research notes for **all 4 sources**.
+-   [ ] I have notes for **my 1 assigned artwork/project**.
+-   [ ] I have **2--3 preliminary critical connections**.
+-   [ ] I have **4 annotated bibliography entries**.
+-   [ ] Each annotation is **75--100 words**.
+-   [ ] I included a text explanation for any diagram or image needed to
+    understand my notes.
+
+##### Export and share
+
+Name your file:
 
 `Lastname-Firstname_P1_Critical-Connections-Notes.pdf`
 
-Export a text-based PDF, not scanned pages or screenshots. Make sure the text can be selected and searched, links are clickable, and headings follow a clear order. Share a copy with your partner.
+Export a **text-based PDF**, not scanned pages or screenshots.
+
+Share a copy with your partner.
 
 </div>
 </details>
 
 <details class="tutorial-section" id="write-findings">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 2: Write the profile and annotated bibliography</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Develop the research together</span>
     <span class="section-description">
-      Share the individual research, revise the questions, develop a working thesis and outline, and combine the annotated bibliography.
+      Bring your individual research together. As a pair, revise your research questions, develop your working thesis and critical-connections outline, revise the annotated bibliography, and prepare the artist or collective profile.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-#### Share the research
+In Stage 1, each partner examined their four assigned sources and one artwork or project individually.
 
-Each partner must explain their four assigned sources and artwork notes to the other partner.
+In Stage 2, bring that research together. Compare what you found, revise the research questions from Version 1, develop a working thesis and critical-connections outline, and combine your research into one collaborative document.
 
-During this discussion:
+Complete the steps below **in order**.
 
-1. Compare the main arguments and concepts.
-2. Identify ideas that appear across several sources.
-3. Note agreements, disagreements, or differences between the sources.
-4. Connect these ideas to specific artworks, materials, methods, or decisions.
-5. Compare the preliminary critical connections from Stage 1.
-6. Decide which connections will guide the written profile.
+---
 
-Both partners must understand how all eight sources and both artworks relate to the project before continuing.
+#### Step 1: Share and compare your research
 
-#### Revise the research questions
+Bring together the individual research you completed in Stage 1.
 
-Return to the main and supporting questions from Version 1. Revise them based on:
+Each partner must explain their **four assigned sources, artwork notes, and preliminary critical connections** to the other partner.
 
-- what you learned from the eight core sources;
-- the preliminary critical connections from Stage 1;
+Together:
+
+- compare the main arguments and concepts from all eight sources;
+- identify ideas or concepts that appear across several sources;
+- note important agreements, disagreements, or differences between sources;
+- connect these ideas to specific evidence from the two artworks or projects;
+- compare the preliminary critical connections you each developed in Stage 1; and
+- decide which connections are most useful for developing the profile.
+
+> **Before moving on:** Both partners should understand how the **eight sources and two artworks or projects** connect to the research direction.
+
+---
+
+#### Step 2: Revise your research questions
+
+Return to the **main and supporting research questions from Version 1**.
+
+Revise them using what you now know from:
+
+- the eight core sources;
+- your Stage 1 preliminary critical connections;
 - the two artworks or projects; and
-- questions or problems that remain unresolved.
+- questions, tensions, or problems that remain unresolved.
+
+Your pair must prepare:
+
+- **1 revised main research question**; and
+- **1–2 revised supporting questions**.
+
+Remove or revise questions that are too broad, factual, or no longer connected to the project. Take into account the instructor's feedback.
+
+> **Before moving on:** Check that the questions can be investigated through your selected artworks and research rather than answered only with general information.
+
+---
+
+#### Step 3: Write your working thesis
+
+Using your revised main research question, write a **75–125-word working thesis**.
+
+The working thesis is your pair's **current answer to the main research question**. It is not a final conclusion.
 
 Include:
 
-- one revised main research question; and
-- one or two revised supporting questions.
+- a clear statement about the artist's practice;
+- the main focus of the profile;
+- the artistic strategies, methods, or concerns that support your position;
+- connections to both selected artworks; and
+- an important tension, question, or limitation, when relevant.
 
-Remove questions that are too broad, factual, or no longer connected to the project.
+> The working thesis is **provisional**. You may revise it as your analysis develops in later versions.
 
-#### Write the working thesis
+---
 
-Write a **75–125-word working thesis** that gives your current answer to the main research question.
+#### Step 4: Build your critical-connections outline
 
-The thesis must:
+Now plan how you will support and develop the working thesis in Version 3.
 
-- make a clear statement about the artist’s practice;
-- identify the main focus of the profile;
-- name the artistic strategies, methods, or concerns that support your position;
-- connect to both selected artworks; and
-- recognize an important tension, question, or limitation, when relevant.
+**Use bullet points for this outline. You are not writing the full critical analysis yet.**
 
-The working thesis is provisional. You may revise it in later versions.
-
-#### Expand the thesis through a critical-connections outline
-
-Prepare a **detailed bullet-point outline** showing how you will develop and support the working thesis in Version 3.
+Organize the outline into the following sections.
 
 ##### Introduction
 
-Include:
+Use bullet points to identify:
 
-- the main research question;
-- the one or two supporting questions;
-- the working thesis as your current answer to the main question;
+- your main research question;
+- your 1–2 supporting questions;
+- your working thesis;
 - the focus of the critical analysis;
 - the two concepts that will organize the analysis;
 - the two artworks or projects that will provide the main examples; and
-- any context the reader needs before the analysis begins.
+- any context the reader will need before the analysis begins.
 
-The introduction should establish the questions and thesis. The body paragraphs will use the readings, other sources, and artworks to develop the answer.
+The introduction should establish what you are investigating and your current response to that investigation.
 
-##### Paragraph 1: First critical connection and Artwork 1
+##### Critical Connection 1: Concept + Artwork 1
+
+Use bullet points to plan the first critical connection.
 
 Include:
 
-- the main concept or question;
-- a passage or argument from one course reading;
+- the main concept, question, or tension;
+- a relevant passage or argument from one course reading;
 - how the second course reading supports, extends, or challenges that idea;
 - another source that adds context or a different interpretation;
 - specific evidence from Artwork 1;
-- the relevant method, material, technology, or artistic decision; and
+- a relevant method, material, technology, or artistic decision;
+- your interpretation of how this evidence connects to the concept; and
 - relevant citations, quotations, page numbers, or timestamps.
 
-##### Paragraph 2: Second critical connection and Artwork 2
+##### Critical Connection 2: Concept + Artwork 2
 
-Include the same types of evidence while explaining how the second connection differs from, extends, or complicates the first.
-
-##### Conclusion
+Use bullet points to plan the second critical connection.
 
 Include:
 
-- the main point connecting both artworks and concepts;
+- the main concept, question, or tension;
+- relevant evidence from the course readings;
+- another source that adds context or a different interpretation;
+- specific evidence from Artwork 2;
+- a relevant method, material, technology, or artistic decision;
+- your interpretation of how this evidence connects to the concept;
+- how this connection differs from, extends, or complicates Critical Connection 1; and
+- relevant citations, quotations, page numbers, or timestamps.
+
+> Add **Critical Connection 3: Concept + Artwork 3** if you're in a group of three students.
+
+##### Conclusion
+
+Use bullet points to identify:
+
+- the main connection between the two artworks and concepts;
 - what the artworks help you understand, question, or reconsider;
 - an important tension, limitation, or unresolved question; and
-- how the analysis supports or complicates the working thesis.
+- how your analysis supports, develops, or complicates the working thesis.
 
-#### Use research and writing ethics
+---
 
-- Use evidence for claims about the artist, artworks, communities, and contexts.
-- Do not assume the artist’s identity, intentions, beliefs, or relationships with communities.
-- Do not reduce an artist or community to trauma, discrimination, or identity categories.
-- Separate the artist’s statements from your interpretation and other writers’ arguments.
-- Use quotation marks and citations when using wording from sources, gallery texts, captions, or artist statements.
+#### Step 5: Check your research and writing ethics
 
-#### Combine and revise the annotated bibliography
+As you develop the outline:
 
-Combine the individual annotations into one bibliography containing all eight core sources.
+- use evidence for claims about the artist, artworks, communities, and contexts;
+- do not assume the artist's identity, intentions, beliefs, or relationships with communities;
+- do not reduce an artist or community to trauma, discrimination, or identity categories;
+- separate the artist's statements from your interpretation and other writers' arguments; and
+- use quotation marks and citations when using wording from sources, gallery texts, captions, or artist statements.
+
+---
+
+#### Step 6: Combine and revise your annotated bibliography
+
+Return to the **annotated bibliography entries you each updated in Stage 1**.
+
+Combine the two sets of four entries into **one annotated bibliography with all eight core sources**.
+
+> For groups of three students, you must have three sets of four entries into one annotated bibliography with all twelve core sources.
+
+Do not create new annotations at this stage. Review and revise the existing entries together so the bibliography works as one consistent document.
 
 Before continuing, confirm that your pair has:
 
-- [ ] Checked every APA reference and link.
-- [ ] Confirmed that each annotation is 75–100 words.
+- [ ] Included all **core sources**.
+- [ ] Checked every **APA reference** for accuracy and consistency.
+- [ ] Checked that every source link works.
+- [ ] Confirmed that each annotation is **75–100 words**.
 - [ ] Removed repeated or unnecessary information.
 - [ ] Used a consistent structure and level of detail.
-- [ ] Explained how each source contributes to the project.
-- [ ] Organized the entries alphabetically by the first author’s last name.
+- [ ] Explained specifically how each source contributes to the project.
+- [ ] Organized the entries alphabetically by the first author's last name.
 
 Use this structure:
 
 | APA reference and link | Source type | Annotation |
 |---|---|---|
-| Complete reference and accessible link | Course reading, academic, primary artist, or critical/contextual | Revised 75–100-word annotation |
+| Complete APA reference and accessible link | Course reading, academic, primary artist, or critical/contextual | Revised 75–100-word annotation |
+
+---
+
+#### Step 7: Write the artist or collective profile
+
+As the final research task for this stage, write a **100–150-word artist or collective profile** connected to your research focus.
+
+Include:
+
+- relevant location and cultural, social, political, or historical context;
+- media, materials, technologies, or methods connected to your research; and
+- why the artist or collective is relevant to your working thesis.
+
+Include only information that helps the reader understand the direction of your research.
+
+**Do not write a complete biography or career summary.** Focus on information that is relevant to the artworks, concepts, and questions you are investigating.
+
+For the profile image, include:
+
+- a caption or identification;
+- creator or photographer credit, when available;
+- the source link;
+- available rights information; and
+- useful alt text or an image description.
+
+---
+
+#### Step 8: Prepare the Stage 2 collaborative notes PDF
+
+For this week's submission, you and your partner will prepare **one PDF together**.
+
+This PDF collects the research and planning you completed in Stage 2. **You are submitting research notes and an outline at this stage. You do not need to write the full critical analysis yet.**
+
+Your collaborative PDF must include:
+
+- [ ] Both partners' full names and student numbers.
+- [ ] The revised **main research question**.
+- [ ] The **1–2 revised supporting questions**.
+- [ ] The **75–125-word working thesis**.
+- [ ] The **Introduction** section of the critical-connections outline in bullet points.
+- [ ] **Critical Connection 1** in bullet points.
+- [ ] **Critical Connection 2** in bullet points.
+- [ ] The **Conclusion** section of the critical-connections outline in bullet points.
+- [ ] The combined annotated bibliography with **all 8 core sources**.
+- [ ] The **100–150-word artist or collective profile**.
+- [ ] The vertical artist or collective profile image with its caption, credit, source, available rights information, and alt text or image description.
+- [ ] A text explanation for any other diagram or image needed to understand your notes.
+
+You may organize the PDF using headings, bullet points, tables, annotations, diagrams, or another clear format.
+
+##### Before exporting
+
+Check that:
+
+- [ ] Both partners have reviewed the complete document.
+- [ ] The document has a clear heading order.
+- [ ] The text can be selected and searched.
+- [ ] Links are clickable.
+- [ ] Images have the required identification, credits, and text alternatives.
+
+Export a **text-based PDF**, not scanned pages or screenshots.
+
+Name your file:
+
+`P1_V2-Critical-Connections.pdf`
+
+Export a **text-based PDF**, not scanned pages or screenshots.
 
 </div>
 </details>
 
-<details class="tutorial-section" id="package-submission">
+<details class="tutorial-section" id="pecha-kucha">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3: Prepare the document, images, and submission package</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Prepare the Pecha Kucha presentation</span>
     <span class="section-description">
-      Write the artist and artwork entries, prepare accessible files, assemble the ZIP package, and create the presentation slide.
+      Save the high-quality images you will need for later versions and prepare one slide for the one-minute Pecha Kucha presentation.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-#### Write the artist or collective profile
+#### Save your high-quality image files for later versions
 
-Write **100–150 words** introducing the artist or collective in relation to your research focus.
+Before preparing your presentation, make sure your pair has saved the **highest-quality image files available** for:
 
-Include:
+- the artist or collective profile image;
+- Artwork or Project 1;
+- Artwork or Project 2; and
+- any additional artwork documentation that may be useful for later versions of the project.
 
-- one vertical profile image;
-- relevant location and cultural, social, political, or historical context;
-- media, materials, technologies, or methods connected to your research; and
-- why the artist or collective is relevant to the working thesis.
+Keep the original image files and their source information organized so you can use them when developing the multimodal profile.
 
-Include only information that helps the reader understand the profile’s direction. Do not provide a complete biography or career summary.
+When available, save:
 
-#### Combine the artwork entries
+- the highest-quality version from a reliable source;
+- the creator or photographer credit;
+- the source link; and
+- available rights or permissions information.
 
-Combine the individual artwork research into one section containing both artwork entries.
+**You do not need to upload these image files for Version 2.** Keep them organized for the next next steps of the project.
 
-For each work, include:
-
-| Information | What to include |
-|---|---|
-| Identification | Complete title and year |
-| Format | Medium, materials, technologies, duration, dimensions, or format |
-| Context | Where, when, why, and for whom the work was produced, presented, performed, exhibited, or published |
-| Audience experience | What the audience sees, hears, encounters, or does |
-| Artistic approach | Important methods, techniques, materials, technologies, or decisions |
-| Themes and questions | Ideas, issues, or questions addressed by the work |
-| Documentation | Available images, video, audio, exhibition records, or other documentation |
-| Media information | Captions, creator or photographer credits, source links, image descriptions, and available rights information |
-
-Gather one or two additional representative images for each work when useful and available.
-
-#### Prepare the main PDF
-
-Export one PDF containing the following information in this order:
-
-1. Both partners’ full names and student numbers
-2. Artist or collective profile and profile image
-3. Two artwork entries with images or documentation
-4. Revised main research question and one or two supporting questions
-5. Working thesis
-6. Critical-connections outline
-7. Annotated bibliography with all eight core sources
-8. A text version of the presentation slide’s content, including artwork titles and image credits
-
-Name the file:
-
-`P1_Critical-Connections.pdf`
-
-Make the PDF accessible:
-
-- Export it as a text-based PDF, not as scanned pages or screenshots.
-- Make sure the text can be selected and searched.
-- Use clear headings and a consistent reading order.
-- Use a readable font and sufficient contrast between text and background.
-- Keep links clickable and give them descriptive names.
-- Include a caption, credit, and short description for each image needed to understand the research.
-
-#### Prepare the image folder
-
-Create a folder named `Images` containing:
-
-- one vertical profile image of the artist or collective;
-- one to three images for each selected artwork or project; and
-- any additional images used in the document.
-
-Use `.JPG` or `.PNG` files and the highest-quality version available from a reliable source.
-
-Image files must:
-
-- be at least 1600 pixels on the longest side when a file of that size is available;
-- keep their original proportions;
-- remain unaltered except for necessary cropping;
-- not be enlarged from a small or low-quality file;
-- not be screenshots when a downloadable image is available; and
-- use short, clear filenames without spaces or special characters.
-
-Use this filename structure:
-
-```text
-Artist-Profile.jpg
-
-Artwork-01_Short-Title.jpg
-Artwork-01b_Short-Title.jpg
-Artwork-01c_Short-Title.jpg
-
-Artwork-02_Short-Title.jpg
-Artwork-02b_Short-Title.jpg
-Artwork-02c_Short-Title.jpg
-```
-
-Only include the additional `b` and `c` files when more than one image is used for an artwork.
-
-#### Prepare the ZIP package
-
-Name the ZIP file:
-
-`P1_Critical-Connections.zip`
-
-The ZIP package must contain:
-
-- the group PDF;
-- the `Images` folder; and
-- one individual notes PDF from each partner.
-
-Use this structure:
-
-```text
-P1_Critical-Connections.zip
-├── P1_Critical-Connections.pdf
-├── Lastname-Firstname_P1_Critical-Connections-Notes.pdf
-├── Lastname-Firstname_P1_Critical-Connections-Notes.pdf
-└── Images/
-```
-
-Replace each `Lastname-Firstname` placeholder with the correct partner’s name.
+---
 
 #### Pecha Kucha: Prepare the one-minute presentation
 
-During the next lecture, each pair will give a **one-minute presentation**. Presentations will take place one after another, without questions or class discussion.
+During the next lecture, each pair will give a **one-minute Pecha Kucha presentation**. Presentations will take place one after another, without questions or class discussion.
 
-Prepare one slide containing:
+Prepare **one slide** containing:
 
 - the selected artist or collective;
 - the working thesis in one or two lines;
@@ -421,14 +546,23 @@ Prepare one slide containing:
 - the two central concepts guiding the critical connections; and
 - the title, year, and image credit for each artwork.
 
-Slide format and design requirements:
+##### Slide format and design
 
-- Submit one `.JPG` or `.PNG` image.
-- Use a 16:9 format. The recommended size is `1920 × 1080 px`.
+- Submit **one `.JPG` or `.PNG` image**.
+- Use a **16:9 format**. The recommended size is `1920 × 1080 px`.
 - Use large, readable text and strong contrast between text and background.
-- Keep text brief and do not place important text over a visually complex image.
-- Include all slide text, artwork titles, and image credits in the main PDF so a text-based version is available.
-- Name the file `P1_Critical-Connections-Slide.jpg` or `P1_Critical-Connections-Slide.png`.
+- Keep text brief.
+- Do not place important text over a visually complex image.
+- Make both selected artworks clearly visible.
+- Include the title, year, and image credit for each artwork.
+
+Name the file:
+
+`P1_V2-Critical-Connections-Slide.jpg`
+
+or
+
+`P1_V2-Critical-Connections-Slide.png`
 
 Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
@@ -439,21 +573,29 @@ Slides must be submitted in advance so they can be presented in sequence without
 
 ## Submission files
 
+Submit **four files** for Version 2:
+
 | Item | Required filename |
 |---|---|
-| Version 2 package | `P1_Critical-Connections.zip` |
-| Presentation slide | `P1_Critical-Connections-Slide.jpg` or `P1_Critical-Connections-Slide.png` |
+| Partner 1 individual research notes | `Lastname-Firstname_P1_Critical-Connections-Notes.pdf` |
+| Partner 2 individual research notes | `Lastname-Firstname_P1_Critical-Connections-Notes.pdf` |
+| Collaborative Stage 2 notes | `P1_V2-Critical-Connections.pdf` |
+| Pecha Kucha presentation slide | `P1_V2-Critical-Connections-Slide.jpg` or `P1_V2-Critical-Connections-Slide.png` |
+
+> For groups of three students, you must upload **Partner 3 individual research notes** as well.
 
 Before submitting, confirm that:
 
-- [ ] The ZIP package opens and contains the group PDF, both individual notes PDFs, and the `Images` folder.
-- [ ] The PDF contains every required section and is readable and accessible.
-- [ ] Citations, links, captions, image descriptions, and media credits are complete.
-- [ ] Both partners’ individual notes files use their correct names.
-- [ ] The slide follows the required format and its content is also available as text in the PDF.
-- [ ] Both files use the required filenames and extensions.
+- [ ] Each partner has included their **individual Stage 1 research notes PDF**.
+- [ ] Each individual PDF uses the correct student's name in the filename.
+- [ ] The collaborative PDF contains all required **Stage 2 sections**.
+- [ ] Both partners' full names and student numbers are included in the collaborative PDF.
+- [ ] The Pecha Kucha slide uses a **16:9 format** and includes the required content.
+- [ ] The Pecha Kucha slide u is saved as an image files: **JPEG** or **PNG**.
 
-> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing sections, research, citations, media credits, images, or slide requirements will affect the grade.
+**Remember:** You do not need to submit the high-quality artwork and artist profile image files for Version 2. Keep these files and their source, credit, and available rights information organized for later versions of the project.
+
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing required sections, research, citations, media credits, individual notes, or Pecha Kucha requirements will affect the grade.
 
 ---
 
