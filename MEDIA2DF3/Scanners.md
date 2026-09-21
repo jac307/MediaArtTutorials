@@ -144,20 +144,23 @@ Connect the scanner to the computer first. If the computer does not recognize th
 
 ### Mac
 
-First, connect and add the scanner:
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rnSYDvL4J3Q?si=YrMR0TNyFmWw_TCm" title="How to Scan a Document on MacOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-1. Open **System Settings**.
-2. Go to **Printers & Scanners**.
-3. Click **Add Printer, Scanner, or Fax**.
-4. If the scanner is connected using the USB cable, it should appear as an available device. **Select the scanner**, then click **Add**.
+First:
 
-After adding the scanner to the Mac:
+1. Connect the scanner using the USB cable.
+2. Open **System Settings**.
+3. Go to **Printers & Scanners**.
+4. Click **Add Printer, Scanner, or Fax**.
+5. **Select the scanner**, then click **Add**.
+
+After adding the scanner:
 
 1. Make sure the scanner is connected to the computer.
 2. In **Printers & Scanners**, click the scanner's name to open its settings.
 3. Click **Open Scanner**.
 4. In the scanner window, select the folder where you want to save the file.
-5. Select the scan size. For now, use **A4**.
+5. Select the scan size. For now, use **A4** (this will scan the whole flatbed)
 6. Click **Show Details**.
 7. A preview of the material on the scanner bed will appear.
 8. Review the available settings:
@@ -172,22 +175,37 @@ After adding the scanner to the Mac:
 9. Click **Scan**.
 10. Open the saved file and check the scan before removing your material from the scanner.
 
-> Check the scan at **100% magnification**. Make sure the important areas are sharp, the entire material was captured, and the image is oriented correctly.
-
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rnSYDvL4J3Q?si=YrMR0TNyFmWw_TCm" title="How to Scan a Document on MacOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Windows
 
-1. Connect the scanner to the Windows computer using the USB cable.
-2. Wait for Windows to recognize the scanner.
-3. Open the scanning application available on the computer.
-4. Select the connected scanner.
-5. [Add scanner-setting instructions here.]
-6. [Add resolution instructions here.]
-7. [Add file-format and save-location instructions here.]
-8. Preview the scan if available.
-9. Select **Scan**.
-10. Open the saved file and check the image before removing your material.
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/yFBxsQq44wk?si=vFlSDmgKlT0qUaQA" title="How To Add Printer Or Scanner In Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+First, connect and add the scanner:
+
+1. Connect the scanner to the computer using the USB cable.
+2. Open **Settings**.
+3. Go to **Bluetooth & devices**.
+4. Select **Printers & scanners**.
+5. Windows may detect and add the scanner automatically.
+6. If it does not appear, click **Add device** next to **Add a printer or scanner**.
+7. Wait for Windows to search for connected devices.
+8. When the scanner appears, click **Add device**.
+
+After adding the scanner:
+
+1. Make sure the scanner is connected to the computer.
+2. Open the **Start** menu and search for **Scan**.
+3. Open the **Windows Scan** app.
+4. Select the scanner under **Scanner**.
+5. Select **Flatbed** as the source, if this option appears.
+6. Select the file type and scan settings:
+   - **Colour mode:** Colour, Grayscale, or Black and White
+   - **Resolution:** Select the resolution appropriate for your scan.
+   - **File type:** Select **TIFF**, if available.
+   - **Save file to:** Select the folder where you want to save the scan.
+7. Click **Preview** to check the material on the scanner bed.
+8. Adjust the scan area if needed.
+9. Click **Scan**.
+10. Open the saved file and check the scan before removing your material from the scanner.
 
 ---
 
