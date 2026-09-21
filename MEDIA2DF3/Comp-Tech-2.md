@@ -422,7 +422,7 @@ Use:
 
 #### Design each palette sheet
 
-<!-- <div class="two-column-layout">
+<div class="two-column-layout">
   <div>
     <figure style="width: 100%; margin: 0;">
       <img
@@ -433,8 +433,6 @@ Use:
       >
     </figure>
   </div>
-
-  <div markdown="1">
 
 Create **one palette per artboard**.
 
@@ -447,9 +445,7 @@ Each artboard must include:
   - **Hex code**
   - **HSB/HSV** values
   - A visual representation of the **colour proportioning with percentage values**.
-
-  </div>
-</div> -->
+</div>
 
 This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
 
@@ -468,7 +464,7 @@ The palette sheet is itself a **design composition**. Consider:
 
 #### Check the colour information
 
-<!-- <div class="two-column-layout">
+<div class="two-column-layout">
   <div>
     <figure style="width: 100%; margin: 0;">
       <img
@@ -480,8 +476,6 @@ The palette sheet is itself a **design composition**. Consider:
     </figure>
   </div>
 
-  <div markdown="1">
-
 To check a colour in Adobe Illustrator:
 
 1. Select the coloured shape.
@@ -489,8 +483,7 @@ To check a colour in Adobe Illustrator:
 3. Record the required RGB, CMYK, HEX, and HSB/HSV information in a side note.
 4. Type all information in your document.
 
-  </div>
-</div> -->
+</div>
 
 </div>
 
