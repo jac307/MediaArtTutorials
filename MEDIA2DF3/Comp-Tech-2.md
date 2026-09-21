@@ -492,7 +492,7 @@ To check a colour in Adobe Illustrator:
   </div>
 </div>
 
-</div><
+</div>
 
 </details>
 
