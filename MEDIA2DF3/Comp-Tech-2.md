@@ -443,11 +443,11 @@ Each artboard must include:
 
 - The **name of the colour scheme**
 - Five colour swatches with:
-   - **RGB** values
-   - **CMYK** values
-   - **Hex code**
-   - **HSB/HSV** values
-- A visual representation of the **colour proportioning with percentages values**. 
+  - **RGB** values
+  - **CMYK** values
+  - **Hex code**
+  - **HSB/HSV** values
+- A visual representation of the **colour proportioning with percentage values**.
 
   </div>
 
