@@ -422,7 +422,7 @@ Use:
 
 #### Design each palette sheet
 
-<div class="two-column-layout">
+<!-- <div class="two-column-layout">
   <div>
     <figure style="width: 100%; margin: 0;">
       <img
@@ -449,7 +449,7 @@ Each artboard must include:
   - A visual representation of the **colour proportioning with percentage values**.
 
   </div>
-</div>
+</div> -->
 
 This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
 
