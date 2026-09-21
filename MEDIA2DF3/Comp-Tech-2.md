@@ -422,38 +422,36 @@ Use:
 
 #### Design each palette sheet
 
-<div class="two-column-layout">
+  <div class="two-column-layout">
 
-  <div>
-    <figure style="width: 100%; margin: 0;">
-      <img
-        src="imgs/18.png"
-        alt="Example of colour palette organization"
-        style="width: 100%; height: auto;"
-        loading="lazy"
-      >
-    </figure>
+    <div>
+      <figure style="width: 100%; margin: 0;">
+        <img
+          src="imgs/18.png"
+          alt="Example of colour palette organization"
+          style="width: 100%; height: auto;"
+          loading="lazy"
+        >
+      </figure>
+    </div>
+
+    <div markdown="1">
+    Create **one palette per artboard**.
+  
+    Each artboard must include:
+  
+    - The **name of the colour scheme**
+    - Five colour swatches with:
+      - **RGB** values
+      - **CMYK** values
+      - **Hex code**
+      - **HSB/HSV** values
+    - A visual representation of the **colour proportioning with percentage values**.
+    </div>
+
   </div>
 
-  <div markdown="1">
-
-Create **one palette per artboard**.
-
-Each artboard must include:
-
-- The **name of the colour scheme**
-- Five colour swatches with:
-  - **RGB** values
-  - **CMYK** values
-  - **Hex code**
-  - **HSB/HSV** values
-- A visual representation of the **colour proportioning with percentage values**.
-
-  </div>
-
-</div>
-
-> This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
+This is only a basic design example. Use it only as a reference for the type of information that should be included in each palette sheet.
 
 The palette sheet is itself a **design composition**. Consider:
 
@@ -470,33 +468,30 @@ The palette sheet is itself a **design composition**. Consider:
 
 #### Check the colour information
 
-<div class="two-column-layout">
+  <div class="two-column-layout">
+    
+    <div>
+      <figure style="width: 100%; margin: 0;">
+        <img
+          src="imgs/18-2.png"
+          alt="Example of colour palette organization"
+          style="width: 100%; height: auto;"
+          loading="lazy"
+        >
+      </figure>
+    </div>
 
-  <div>
-    <figure style="width: 100%; margin: 0;">
-      <img
-        src="imgs/18-2.png"
-        alt="Example of colour palette organization"
-        style="width: 100%; height: auto;"
-        loading="lazy"
-      >
-    </figure>
-  </div>
+    <div markdown="1">
+    To check a colour in Adobe Illustrator:
 
-  <div markdown="1">
+    1. Select the coloured shape.
+    2. Double-click the **Fill** tool.
+    3. Record the required RGB, CMYK, HEX, and HSB/HSV information in a side note.
+    4. Type all information in your document.
+    </div>
+    
+   </div>
 
-To check a colour in Adobe Illustrator:
-
-1. Select the coloured shape.
-2. Double-click the **Fill** tool.
-3. Record the required RGB, CMYK, HEX, and HSB/HSV information in a side note.
-4. Type all information in your document.
-
-  </div>
-
-</div>
-
-</div>
 </details>
 
 <!-- 
