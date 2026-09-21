@@ -144,15 +144,37 @@ Connect the scanner to the computer first. If the computer does not recognize th
 
 ### Mac
 
-1. Connect the scanner to the Mac using the USB cable.
-2. Open **Image Capture**.
-3. Select the scanner from the **Devices** list.
-4. [Add scanner-setting instructions here.]
-5. [Add resolution instructions here.]
-6. [Add file-format and save-location instructions here.]
-7. Preview the scan if needed.
-8. Select **Scan**.
-9. Open the saved file and check the image before removing your material.
+First, connect and add the scanner:
+
+1. Open **System Settings**.
+2. Go to **Printers & Scanners**.
+3. Click **Add Printer, Scanner, or Fax**.
+4. If the scanner is connected using the USB cable, it should appear as an available device. **Select the scanner**, then click **Add**.
+
+After adding the scanner to the Mac:
+
+1. Make sure the scanner is connected to the computer.
+2. In **Printers & Scanners**, click the scanner's name to open its settings.
+3. Click **Open Scanner**.
+4. In the scanner window, select the folder where you want to save the file.
+5. Select the scan size. For now, use **A4**.
+6. Click **Show Details**.
+7. A preview of the material on the scanner bed will appear.
+8. Review the available settings:
+   - **Kind:** Black & White or Colour
+   - **Resolution:** Select the resolution appropriate for your scan.
+   - **Size:** Confirm the scan dimensions.
+   - **Rotation Angle:** Rotate the scan if needed.
+   - **Auto Selection:** Leave this set to **None**.
+   - **Name:** Enter a clear filename.
+   - **Format:** Select **TIFF**.
+   - **Image Correction:** Leave this set to **None**.
+9. Click **Scan**.
+10. Open the saved file and check the scan before removing your material from the scanner.
+
+> Check the scan at **100% magnification**. Make sure the important areas are sharp, the entire material was captured, and the image is oriented correctly.
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rnSYDvL4J3Q?si=YrMR0TNyFmWw_TCm" title="How to Scan a Document on MacOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Windows
 
