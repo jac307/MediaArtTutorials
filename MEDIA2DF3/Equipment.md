@@ -14,7 +14,7 @@ The following flatbed scanners are available for Media Art students to book.
 
 ## Canon CanoScan LiDE220
 
-![Canon CanoScan LiDE220 flatbed scanner](imgs/LiDE220.png)
+![Canon CanoScan LiDE220 flatbed scanner](imgs/LiDE220.jpg)
 
 The Canon CanoScan LiDE220 is a compact flatbed scanner with a maximum optical resolution of **4800 × 4800 dpi**. It can scan materials up to approximately **8.5 × 11.7 inches**.
 
