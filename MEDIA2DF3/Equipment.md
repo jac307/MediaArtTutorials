@@ -25,7 +25,7 @@ Its adjustable lid can accommodate some thicker materials, such as notebooks and
 
 ## Epson Perfection V39 II
 
-![Epson Perfection V39 II flatbed scanner]([image path])
+![Epson Perfection V39 II flatbed scanner]([imgs/V39.jpg])
 
 The Epson Perfection V39 II is a compact flatbed scanner with a maximum optical resolution of **4800 dpi**. It is designed for scanning photographs, artwork, illustrations, books, documents, and other flat materials.
 
