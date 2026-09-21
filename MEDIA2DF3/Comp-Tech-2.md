@@ -468,7 +468,7 @@ The palette sheet is itself a **design composition**. Consider:
 
 #### Check the colour information
 
-<div class="two-column-layout">
+<!-- <div class="two-column-layout">
   <div>
     <figure style="width: 100%; margin: 0;">
       <img
@@ -490,7 +490,7 @@ To check a colour in Adobe Illustrator:
 4. Type all information in your document.
 
   </div>
-</div>
+</div> -->
 
 </div>
 
