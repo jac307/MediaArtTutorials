@@ -45,6 +45,7 @@ To access the booking system:
 #### Equipment guides
 
 - [Review the available equipment](Equipment.md)
+- [Introduction to Flatbed Scanners](Scanners.md)
 - [Learn the DSLR camera controls and settings](DSLR-Camera.md)
 
 </div>

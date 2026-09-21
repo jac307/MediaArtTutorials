@@ -498,6 +498,10 @@ Before repeating it, confirm that:
 
 #### Create the original scanned texture
 
+Check:
+- [Review the available equipment](Equipment.md){:target="_blank"}
+- [Introduction to Flatbed Scanners](Scanners.md){:target="_blank"}
+
 The texture used in Composition 2 must be created by you with a **flatbed or document scanner**.
 
 Possible materials to scan:
