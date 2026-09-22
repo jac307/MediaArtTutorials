@@ -56,9 +56,9 @@ To access the booking system:
 ## Composition Techniques
 
 - [Composition Techniques I – Part 1](Comp-Tech-1-Part1.md)
+- [Composition Techniques I – Part 2](Comp-Tech-1-Part2.md)
 
 <!-- 
-- [Composition Techniques I – Part 2](Comp-Tech-1-Part2.md)
 - [Composition Techniques II](Comp-Tech-2.md)
 - [Composition Techniques III – Part 1](Comp-Tech-3-Part1.md)
 - [Composition Techniques III – Part 2](Comp-Tech-3-Part2.md)
