@@ -477,6 +477,8 @@ A grid may remain visible only when its visible structure is an intentional part
 
 [Open the “Creating more complex grids in Adobe Illustrator” tutorial directly](https://www.iorad.com/player/2498981/Creating-more-complex-grids-in-Adobe-Illustrator?src=iframe&oembed=1)
 
+>**Note**: If you're using the grid tool for this process, to convert it into guides press **Cmd + 5** (Mac) **Ctrl +5** (Windows) 
+
 #### Create the original super-units
 
 Use geometric, organic, or accidental shapes to create:
