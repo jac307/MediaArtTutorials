@@ -166,29 +166,26 @@ Do not introduce a completely new argument in the conclusion.
 
 ---
 
-#### <span class="step-label">Step 3:</span> Review and revise the analysis together
+#### <span class="step-label">Checklist:</span> Review and revise the analysis together
+
+> Use this checklist if useful to check that your document contains the required information. 
 
 Together, read the entire analysis together and revise it so it works as **one connected text**, not two separate pieces joined together.
 
 Check that:
 
 - [ ] The thesis is clear and consistent throughout the analysis.
-- [ ] Both selected artworks or projects are analyzed using specific evidence.
-- [ ] Both course readings are used.
-- [ ] At least **2 additional academic sources** are used.
-- [ ] At least **1 primary artist source** is used.
-- [ ] At least **1 critical or contextual source** is used.
 - [ ] Sources are brought into conversation rather than summarized one at a time.
 - [ ] The evidence supports, develops, or complicates the thesis.
-- [ ] Each critical connection contributes to the main argument.
 - [ ] The two critical connections are clearly connected to each other.
 - [ ] Claims about the artist, artworks, communities, and contexts are supported by evidence.
 - [ ] The analysis clearly distinguishes what the **artist states**, what **other authors argue**, and what **you interpret**.
-- [ ] Quotation marks are used for a source's exact words.
-- [ ] APA in-text citations are included for ideas, information, paraphrases, and quotations taken from sources.
+- [ ] If used, Quotation marks are used for a source's exact words.
+- [ ] If used, APA in-text citations are included for ideas, information, paraphrases, and quotations taken from sources.
 - [ ] Repeated information and unnecessary summary have been removed.
 - [ ] Transitions make the relationships between ideas clear.
 - [ ] Both partners have reviewed and approved the complete analysis.
+- [ ] The complete analysis is around 500–700 words (175–250 words more for groups of three students).
 
 > **Before moving on:** You should have one complete, connected critical analysis that uses specific artwork evidence and research to develop and support your thesis.
 
@@ -204,16 +201,6 @@ Your PDF must include:
 2. Artist or collective name.
 3. Complete **critical analysis**.
 4. Revised annotated bibliography with all **8 core sources**.
-
-Before exporting, confirm that:
-
-- [ ] Both partners have reviewed the complete analysis.
-- [ ] The complete analysis is around 500–700 words (175–250 words more for groups of three students).
-- [ ] APA in-text citations are included where needed.
-- [ ] The annotated bibliography includes all 8 core sources.
-- [ ] The document uses clear headings and a consistent reading order.
-- [ ] The text can be selected and searched.
-- [ ] Links are clickable.
 
 Name the file:
 
@@ -353,17 +340,12 @@ The text explanation should briefly describe:
 - the main artistic decisions represented on the page; and
 - any important information communicated visually that a reader would need to understand the proposal.
 
-Before exporting, confirm that:
+> Use this checklist if useful to check that your document contains the required information. 
 
-- [ ] Both partners have reviewed the complete proposal.
 - [ ] The concept statement is 150–200 words.
 - [ ] The visual development page shows the development of the idea rather than functioning only as decoration.
-- [ ] Important visual decisions are labelled or annotated.
 - [ ] Images or material from other sources include the required credits and source information.
 - [ ] A text explanation provides an alternative way to understand the important visual information.
-- [ ] The document uses readable text and sufficient contrast.
-- [ ] Important information is not communicated through colour alone.
-- [ ] The text can be selected and searched.
 - [ ] Links are clickable.
 
 Name the file:
@@ -395,7 +377,7 @@ Complete the steps below **in order**.
 
 Your poster should communicate the **main direction of your research** without reproducing the complete critical analysis or research-creation proposal.
 
-Return to the work you completed in Stages 1 and 2. Decide what information a viewer needs to understand:
+Return to the work you completed. Decide what information a viewer needs to understand:
 
 - who the artist or collective is;
 - what you investigated;
@@ -408,7 +390,7 @@ Edit this information into short sections that can be read easily on a poster.
 
 Use approximately **300–400 words total**, excluding artwork captions, image credits, and references.
 
-> **Before moving on:** You should have a short, edited set of text for the poster. Do not copy the complete 500–700-word analysis or 150–200-word proposal onto the poster.
+> **Before moving on:** You should have a short, edited set of text for the poster. Do not copy the complete 500–700-word analysis or 150–200-word proposal onto the poster. Use your own words. 
 
 ---
 
@@ -434,7 +416,7 @@ For each artwork image, include:
 - image or documentation credit, when applicable; and
 - source information as needed.
 
-Use the **high-quality image files you saved during Version 2** whenever possible. Check image quality before placing the images in the poster.
+Use a **high-quality image** whenever possible. Check image quality before placing the images in the poster.
 
 > **Before moving on:** Make sure you have the final text, high-quality images, captions, credits, and references you need before beginning the poster layout.
 
@@ -452,14 +434,13 @@ As you design:
 - establish a logical reading order;
 - use readable type sizes;
 - use sufficient contrast between text and background;
-- do not communicate important information through colour alone;
 - do not place important text over visually complex images;
 - balance text, images, and negative space;
 - use a consistent grid and alignment system;
 - use a consistent typographic system;
 - use colour consistently and intentionally;
 - make the main argument and artwork images visible from a reasonable viewing distance; and
-- make sure captions and credits are readable.
+- make sure captions and credits are readable but they can reamin quite small.
 
 Avoid filling the poster with long paragraphs or using images without explanation.
 
@@ -467,26 +448,19 @@ A viewer should be able to identify the **artist or collective, research focus, 
 
 ---
 
-#### <span class="step-label">Step 4:</span> Review the poster before printing
+#### <span class="step-label">Checklist:</span> Review the poster before printing
 
-Both partners should review the complete poster.
-
-Check that:
+> Use this checklist if useful to check that your document contains the required information. 
 
 - [ ] The poster is **18 × 24 inches** and vertical.
 - [ ] The poster contains approximately **300–400 words**, excluding captions, credits, and references.
 - [ ] The main research direction and thesis are easy to identify.
 - [ ] Both selected artworks or projects are represented.
-- [ ] Artwork images include the required identification and credits.
-- [ ] The research-creation proposal is represented.
 - [ ] Images are clear and high quality.
 - [ ] Headings establish a clear hierarchy.
 - [ ] The reading order is easy to follow.
 - [ ] Text is readable and has sufficient contrast with the background.
-- [ ] Important information is not communicated through colour alone.
-- [ ] Important text is not placed over visually complex images.
-- [ ] Text, images, and negative space are balanced.
-- [ ] References and credits are included where needed.
+- [ ] References and credits are included where needed (use a small font)
 - [ ] Both partners have reviewed the final poster.
 
 ---
@@ -528,7 +502,7 @@ Both partners must be prepared to explain the project and respond to questions a
 
 You do not need to memorize a formal presentation. Use the poster to guide the conversation and be prepared to explain the decisions and research behind it.
 
-If printing or participating in the poster session creates an access barrier, contact the instructor in advance to arrange an alternative that meets the same learning goals.
+If participating in the poster session creates an access barrier, contact the instructor in advance to arrange an alternative that meets the same learning goals.
 
 </div>
 </details>
@@ -545,11 +519,9 @@ Bring the **printed 18 × 24-inch research poster** to the poster session.
 
 Before submitting, confirm that:
 
-- [ ] The **Stage 1 PDF** contains the complete critical analysis and revised annotated bibliography with all 8 core sources.
-- [ ] The **Stage 2 PDF** contains the concept statement, annotated visual development page, text explanation, and required image credits and source information.
+- [ ] The **Stage 1 PDF** contains the complete critical analysis and revised annotated bibliography.
+- [ ] The **Stage 2 PDF** contains the concept statement and annotated visual development page with required image credits and source information.
 - [ ] The **Stage 3 poster PDF** is set to 18 × 24 inches, vertical, and ready to print.
-- [ ] Both partners have reviewed all three files together.
-- [ ] The poster has been checked for image quality, cropping, legibility, and required credits before printing.
 - [ ] All three files use the required filenames.
 - [ ] The printed **18 × 24-inch poster** is ready to bring to the poster session.
 
