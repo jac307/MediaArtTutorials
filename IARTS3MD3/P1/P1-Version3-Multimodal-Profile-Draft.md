@@ -388,7 +388,7 @@ Return to the work you completed. Decide what information a viewer needs to unde
 
 Edit this information into short sections that can be read easily on a poster.
 
-Use approximately **300–400 words total**, excluding artwork captions, image credits, and references.
+Use approximately **150-250 words total**, excluding artwork captions, image credits, and references.
 
 > **Before moving on:** You should have a short, edited set of text for the poster. Do not copy the complete 500–700-word analysis or 150–200-word proposal onto the poster. Use your own words. 
 
