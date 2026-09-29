@@ -17,7 +17,7 @@ Before participating in laser cutting, complete the online **Thode Makerspace Tr
 
 ## Overview
 
-In this project, students will collaborate in groups of **4 students** to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
+In this project, students will collaborate in groups of **3 students** to design and construct a **three-dimensional composition** made from **two-dimensional vector-based shapes**.
 
 The process includes **hand-sketching**, **digital design using Inkscape**, and **laser-cutting on birchwood**.  
 

@@ -27,14 +27,6 @@ All final vector production for laser cutting and engraving must be completed in
 
 The planning document should be **designed and assembled in Adobe InDesign**.
 
-## Accessibility and learning support
-
-- The written instructions contain the required steps. Any demonstrations provided in class are additional support.
-- Divide brainstorming, sketching, measurement, InDesign, Inkscape, file checking, and documentation responsibilities across the group. Record each student’s contributions.
-- You may use zoom, screen magnification, keyboard navigation, adapted input devices, or other assistive technology.
-- If hand-sketching, using Inkscape or InDesign, participating in laser production, or another required process creates an access barrier, contact the instructor before the scheduled session to arrange an equivalent role or method that meets the same learning outcomes and makerspace safety requirements.
-- Make the planning PDF text-based where possible, with readable type, strong contrast, descriptive headings, captions, and a logical reading order.
-
 ## Complete the activity in four stages
 
 Complete the following stages in order.
@@ -151,7 +143,6 @@ The base may be:
 - Polygon
 - Irregular or custom vector shape
 
-
 > The base should be treated as part of the **composition**, not simply as a support placed underneath it.
 
 Consider:
@@ -163,7 +154,6 @@ Consider:
 - Negative space
 - Placement of the planes
 - Overall silhouette
-
 
 #### Work within the material limit
 
@@ -191,7 +181,7 @@ Plan dimensions carefully before preparing the final files.
 
 Texture must be incorporated into the project through **laser engraving**.
 
-Think about how engraved lines, patterns, marks, or repeated structures can create **Surface Activity** on selected wooden elements.
+Think about how engraved lines, patterns, marks, or repeated structures can create **Surface Activity**.
 
 The engraved texture should support the overall design rather than function as unrelated decoration.
 
@@ -207,7 +197,6 @@ Possible approaches include:
 - Changes in spacing
 - Linear textures
 - Custom vector patterns
-
 
 Clearly identify in your sketches:
 
@@ -249,7 +238,6 @@ Pay attention to:
 - Spacing
 - Consistency across pages
 
-
 > Your sketches should be placed intentionally and should feel visually integrated with the written information.
 
 ##### The document must include
@@ -273,7 +261,7 @@ Pay attention to:
 7. **Material planning**
     * Include **one image of each birchwood sheet layout**, showing how all shapes and structural pieces will be arranged on the two sheets.
 
-> **Do not include a finalized colour palette in this document.** Colour will be developed during Part 2.
+> **Do not include a finalized colour palette in this document.** Colour will be developed during Part 
 
 Ask the instructor for feedback before preparing the final laser files.
 
@@ -377,7 +365,7 @@ Across the two files, include:
 * Repeated planes
 * Connectors
 * Supports
-* Any other required wooden elements
+* Any other required elements
 * Engraved texture
 
 > The complete physical project must fit within these **two files only**.
@@ -410,7 +398,7 @@ Do not resize pieces simply to make them fit unless the change has also been app
 - [ ] **Every path is intentional.** Unnecessary objects, stray points, and accidental paths have been removed.
 - [ ] **The filenames are correct.** Both SVG files follow the required naming structure.
 
-> Show both production files to the instructor before leaving class. Corrections may be required before your scheduled laser-cutting session.
+> Show both production files. Corrections may be required before your scheduled laser-cutting session.
 
 </div>
 </details>
@@ -429,7 +417,7 @@ Submit **three files per group**:
 
 Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing document requirements, material-limit errors, or incorrect cutting and engraving settings will affect the grade.
 
-> The instructor will provide feedback **1–2 days after the final submission deadline**. If revisions are required, your group must **correct or update the Inkscape files before the scheduled laser-cutting session** and **re-upload the revised files to Avenue to Learn**.
+> The instructor will provide feedback **1–2 days after the submission deadline for Part 1**. If revisions are required, your group must **correct or update the Inkscape files before the scheduled laser-cutting session** and **re-upload the revised files to Avenue to Learn**.
 > Review the **required materials list** for Part 2 under [Project 1 Overview](P1-README.md) and bring the required materials to the next class.
 
 ---
