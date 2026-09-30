@@ -292,7 +292,9 @@ For this project, you will create and measure your artwork in **Adobe Illustrato
 
 ---
 
-### Create Adobe Illustrator Project
+### Step 1: Work on Adobe Illustrator
+
+Create a **new project** with the following settings: 
 
 | Setting              | Requirement         |
 | -------------------- | ------------------- |
@@ -303,22 +305,17 @@ For this project, you will create and measure your artwork in **Adobe Illustrato
 | Material represented | One birchwood sheet |
 | Number of files      | **1**               |
 
-Learn how to use meassurements in Adobe Illustrator before continuing. 
-
-#### Tutorial 1 — Illustrator file setup and measurements
-
-Follow the tutorial to learn how to:
+**Follow the tutorial** to learn how to:
 
 - create the required Adobe Illustrator file;
 - set the document size using inches;
-- use Illustrator’s measurement tools and panels to create shapes at exact dimensions; and
-- check object width, height, and placement before preparing the file for laser cutting.
+- use Illustrator’s measurement tools and panels to create shapes at exact dimensions;
+- check object width, height, and placement; and
+- set the correct cutting vs engaving settings
 
 <!-- ADD ILLUSTRATOR FILE SETUP / MEASUREMENTS TUTORIAL HERE -->
 
-> Create **two Adobe Illustrator artboards**, each sized **24 × 12 inches**. Each artboard represents one birchwood sheet.
-
-### Arrange all project components
+#### Create and Arrange all project components
 
 Across the two artboards, include:
 
@@ -365,17 +362,17 @@ Save the files as:
 
 ---
 
-### Inskscape
+### Step 2: Work on Inskscape
 
 **Inkscape** is a free, open-source vector graphics editor used by the Thode Makerspace for preparing laser-cut files.
 
-For this project, **all production files must be created and finalized in Inkscape**.
+For this project, **all production files must be finalized in Inkscape**.
 
 > Learning to move between different software environments is an important part of digital design and fabrication. The same concepts you have practiced in Illustrator (vector paths, shapes, measurements, alignment, layers, and precise transformations) can be applied in Inkscape.
 
 #### Tutorial 2 — Open your SVG in Inkscape and check cutting vs. engraving lines
 
-Follow the tutorial to open your **SVG file** in Inkscape and check that each vector path is prepared for the correct laser process.
+Follow the tutorial to open your **SVG files** in Inkscape and check that each vector path is prepared for the correct laser process.
 
 You will review:
 
@@ -391,9 +388,9 @@ You will review:
 
 #### Save the checked SVG files
 
-After you have opened your files in **Inkscape** and confirmed that all cutting and engraving lines use the correct settings, save the final files as **SVG**.
+> The Thode Makerspace uses Inkscape as part of the workflow for sending vector files to the laser-cutting software, so **SVG is the required file format for production**.
 
-The Thode Makerspace uses Inkscape as part of the workflow for sending vector files to the laser-cutting software, so **SVG is the required file format for production**.
+After you have opened your files in **Inkscape** and confirmed that all cutting and engraving lines use the correct settings, save the final files as **SVG**.
 
 Save the files as:
 
