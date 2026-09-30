@@ -15,7 +15,7 @@ This is the **final public version of the project**. Build from the research, wr
 
 Before publishing, review all writing, citations, links, images, permissions, credits, alt text, and media alternatives. Use **high-quality images that are clear and not pixelated** at the size they appear on the webpage.
 
-> Because the profile will be public, do not include student numbers or other private information on the webpage.
+> Do not include student numbers or other private information on the webpage.
 
 ## How to divide the work
 
@@ -265,11 +265,8 @@ Confirm that:
 - [ ] The critical analysis is **500–700 words** (175–250 words more for groups of three students) and includes **APA in-text citations** if used.
 - [ ] The annotated bibliography contains all **8 core sources**.
 - [ ] The research-creation proposal includes the revised concept statement and representative image.
-- [ ] The final research poster has been corrected and exported.
-- [ ] Images and media have captions and creator or photographer credits.
-- [ ] Source links and DOIs work.
-- [ ] Important images have meaningful alt text or another appropriate text alternative.
-- [ ] Video has captions and audio-only material has a transcript or equivalent text alternative, when applicable.
+- [ ] The final research poster has been corrected, and exported.
+- [ ] All Images have good quality, none are pixelated or blurry.
 - [ ] Both partners reviewed the complete content.
 
 > **End of Stage 1:** All written and visual content should be revised, checked, and ready to add to the public profile. Do not begin building the webpage with unfinished or unreviewed material.
@@ -360,45 +357,16 @@ Confirm that:
 - [ ] Both artwork or project entries include the required information and documentation.
 - [ ] The main research question, supporting questions, thesis, and 2 central concepts are consistent.
 - [ ] The critical analysis is the revised **500–700-word version**.
-- [ ] The analysis includes both student authors' full names.
-- [ ] APA in-text citations are complete.
 - [ ] The annotated bibliography contains all **8 core sources**.
 - [ ] The research-creation proposal includes the revised concept statement and representative image.
 - [ ] The final research poster is included and can be opened or enlarged.
-- [ ] The writing has been revised from the earlier versions rather than published without review.
 - [ ] Spelling, names, artwork titles, dates, and other identifying information have been checked.
 
 > **Before moving on:** Both partners should be able to read through the complete profile from beginning to end without finding missing sections or unfinished content.
 
 ---
 
-#### <span class="step-label">Step 4:</span> Check images, media, and accessibility
-
-Review the webpage as a reader who did not work on the project.
-
-Confirm that:
-
-- [ ] The page uses the existing page-title and section-heading styles in a logical order.
-- [ ] Every important image has useful alt text.
-- [ ] Images and media have the required captions and creator or photographer credits.
-- [ ] Link text explains where the link goes instead of using unclear phrases such as "click here."
-- [ ] Important information is not communicated only through an image.
-- [ ] Important information is not communicated through colour alone.
-- [ ] Text has sufficient contrast with its background.
-- [ ] Important text is not placed over visually complex images.
-- [ ] Videos have captions.
-- [ ] Audio-only material has a transcript or equivalent text alternative.
-- [ ] The research poster's important information also appears as webpage text elsewhere in the profile.
-
-Check the page at a **narrower browser width or on a mobile device**. Make sure headings, paragraphs, images, captions, links, and other content remain readable and appear in a logical order.
-
-Also enlarge the page in the browser and check that the content remains usable.
-
-> **Before moving on:** Correct accessibility or readability problems you can identify before completing the final review.
-
----
-
-#### <span class="step-label">Step 5:</span> Check citations, links, credits, and privacy
+#### <span class="step-label">Step 4:</span> Check citations, links, credits, and privacy
 
 Review the information that will become public.
 
@@ -408,7 +376,6 @@ Confirm that:
 - [ ] Links and DOIs open the intended sources.
 - [ ] Artwork and media captions are complete.
 - [ ] Photographer, creator, and media credits are included when required.
-- [ ] Media permissions or usage requirements have been followed.
 - [ ] Student numbers have been removed from the public webpage.
 - [ ] Other private information that should not appear publicly has been removed.
 - [ ] We did not change another pair's page.
@@ -420,23 +387,7 @@ Confirm that:
 
 #### <span class="step-label">Step 6:</span> Complete the final review together
 
-Before publishing, both partners must review the **complete public profile together**.
-
-Complete this final check:
-
-- [ ] We are working on the correct assigned page.
-- [ ] All **7 required sections** appear in the correct order.
-- [ ] All required writing is present and revised.
-- [ ] Both artworks or projects include complete information and documentation.
-- [ ] The research questions, thesis, concepts, and critical analysis are consistent.
-- [ ] The annotated bibliography contains all **8 core sources**.
-- [ ] The research-creation proposal is complete.
-- [ ] The final research poster is included.
-- [ ] Images and media have captions, credits, and appropriate text alternatives.
-- [ ] Citations and links have been checked.
-- [ ] Student numbers and other private information have been removed.
-- [ ] The page is readable at different browser widths and when enlarged.
-- [ ] Both partners have reviewed and approved the complete page.
+Before publishing, both partners review once again the **complete public profile together**.
 
 Do not publish the page until both partners have completed this review.
 
@@ -450,18 +401,6 @@ Do not publish the page until both partners have completed this review.
 | Item | Requirement |
 |---|---|
 | Webador profile | Complete, review, and publish the assigned artist or collective profile page |
-
-Before submitting, confirm that:
-
-- [ ] We completed the assigned artist or collective profile page.
-- [ ] All **7 required sections** are present and complete.
-- [ ] Both partners reviewed the final public profile.
-- [ ] The page has been published.
-- [ ] The published page opens correctly and all required content is visible.
-- [ ] Links and embedded media work on the published page.
-- [ ] Images are **high quality, clear, and not pixelated** at the size they appear on the webpage.
-- [ ] Images, captions, media credits, permissions, and text alternatives are complete.
-- [ ] Student numbers and other private information have been removed from the public page.
 
 > **Final check:** Review the **published version**, not only the Webador editor. Confirm that the page can be opened and that the content, images, links, and media appear correctly.
 
