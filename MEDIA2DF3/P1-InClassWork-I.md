@@ -313,7 +313,7 @@ Create a **new project** with the following settings:
 - check object width, height, and placement; and
 - set the correct cutting vs engaving settings
 
-<!-- ADD ILLUSTRATOR FILE SETUP / MEASUREMENTS TUTORIAL HERE -->
+<iframe src="https://www.iorad.com/player/2776497/Adobe-Illustrator--Working-with-meassurements--Lasser-printer-setup--and-export-as-SVG?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
 #### Create and Arrange all project components
 
