@@ -226,7 +226,9 @@ Use:
 
 <iframe src="https://www.iorad.com/player/2776270/InDesign---Introduction?iframeHash=mobilequick-1&src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-> The planning PDF is not simply a collection of notes and sketches. It must be a **designed document**.
+> **Warning:** Images placed in an InDesign document are usually linked to their original file location. If you move, rename, or delete a linked image, InDesign may no longer be able to find it. You may see a low-resolution preview and a Missing Link warning. You will need to relink the image to its new location.
+
+The planning PDF is not simply a collection of notes and sketches. It must be a **designed document**.
 
 Pay attention to:
 
@@ -278,90 +280,47 @@ SECTION 3
 
 <details class="tutorial-section" id="learn-the-inkscape-workflow">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3: Learn the Inkscape workflow</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Adobe Illustrator ➔ Inkscape workflow</span>
     <span class="section-description">
-      Review the Inkscape interface, create accurately measured vector shapes, and learn the required settings for cutting and engraving.
+      Create accurately measured vector shapes in Adobe Illustrator, then open the file in Inkscape to check and prepare the required cutting and engraving settings.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-#### What is Inkscape?
+For this project, you will create and measure your artwork in **Adobe Illustrator**, then use an **SVG file** to open and check the artwork in **Inkscape** before preparing the cutting and engraving settings.
 
-**Inkscape** is a free, open-source vector graphics editor used by the Thode Makerspace for preparing laser-cut files.
+---
 
-For this project, **all production files must be created and finalized in Inkscape**.
-
-> Learning to move between different software environments is an important part of digital design and fabrication. The same concepts you have practiced in Illustrator (vector paths, shapes, measurements, alignment, layers, and precise transformations) can be applied in Inkscape.
-
-#### Tutorial 1 — Inkscape overview, measurements, and shape creation
-
-Follow the tutorial to review:
-
-<!-- ADD INKSCAPE OVERVIEW / SHAPE CREATION TUTORIAL HERE -->
-
-> You must create **two Inkscape documents**, each sized **24 × 12 inches**, with each document representing one birchwood sheet.
-
-#### Tutorial 2 — Preparing cutting lines
-
-Follow the tutorial to prepare all shapes and base elements that must be **physically cut through the birchwood**.
-
-<!-- ADD CUTTING-LINE TUTORIAL HERE -->
-
-> Every object intended for cutting must use the required **cutting-line settings**.
-
-#### Tutorial 3 — Preparing engraving lines
-
-Follow the tutorial to prepare the vector lines and patterns that will be **engraved into the surface of the wood**.
-
-<!-- ADD ENGRAVING-LINE TUTORIAL HERE -->
-
-> **Cutting lines and engraving lines are not interchangeable.** Before submitting, confirm that every path uses the correct settings for its intended function.
-
-</div>
-</details>
-
-<!-- 
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section" id="create-the-two-laser-production-files">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 4: Create the two laser-production files</span>
-    <span class="section-description">
-      Arrange the complete project across exactly two 24 × 12 in Inkscape documents and prepare all cutting and engraving paths.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-#### Create two Inkscape files
-
-Your group must create exactly **two production files**, corresponding to the two available birchwood sheets.
-
-##### File setup
-
-Each file must use:
+### Create Adobe Illustrator Project
 
 | Setting              | Requirement         |
 | -------------------- | ------------------- |
-| Software             | Inkscape            |
+| Software             | Adobe Illustrator   |
 | Units                | Inches              |
 | Page size            | **24 × 12 in**      |
-| Pages                | 1                   |
+| Artboard             | 2                   |
 | Material represented | One birchwood sheet |
-| Number of files      | **2**               |
+| Number of files      | **1**               |
 
-Save the files as:
+Learn how to use meassurements in Adobe Illustrator before continuing. 
 
-* `Group-#-Plate-1.svg`
-* `Group-#-Plate-2.svg`
+#### Tutorial 1 — Illustrator file setup and measurements
 
-#### Arrange all project components
+Follow the tutorial to learn how to:
 
-Across the two files, include:
+- create the required Adobe Illustrator file;
+- set the document size using inches;
+- use Illustrator’s measurement tools and panels to create shapes at exact dimensions; and
+- check object width, height, and placement before preparing the file for laser cutting.
+
+<!-- ADD ILLUSTRATOR FILE SETUP / MEASUREMENTS TUTORIAL HERE -->
+
+> Create **two Adobe Illustrator artboards**, each sized **24 × 12 inches**. Each artboard represents one birchwood sheet.
+
+### Arrange all project components
+
+Across the two artboards, include:
 
 * Base
 * Repeated planes
@@ -370,7 +329,7 @@ Across the two files, include:
 * Any other required elements
 * Engraved texture
 
-> The complete physical project must fit within these **two files only**.
+> The complete physical project must fit within these **two artworks only**.
 
 Arrange the pieces efficiently to minimize material waste.
 
@@ -385,22 +344,71 @@ Consider:
 
 Do not resize pieces simply to make them fit unless the change has also been approved in your design.
 
-#### Cutting and engraving
+#### Export as SVG
 
-**Laser-File Check**
+**SVG** stands for **Scalable Vector Graphics**. It is a vector file format that stores artwork as shapes, paths, lines, and other editable vector information rather than as pixels.
+
+Because SVG files are vector-based, they can be resized without becoming pixelated. SVG is also compatible with both **Adobe Illustrator** and **Inkscape**, making it useful for transferring your vector artwork between the two programs.
+
+> Before exporting and moving between programs, check that your shapes, dimensions, and paths have been preserved correctly.
+
+Save the files as:
+
+* `Group-#-Plate-1.svg`
+* `Group-#-Plate-2.svg`
+
+**Checklist:**
 
 - [ ] **Everything fits within two birchwood sheets.** The base, repeated planes, connectors, supports, and all other components fit within the two 24 × 12 in files.
 - [ ] **The dimensions are correct.** All shapes match the measurements established in the approved design.
-- [ ] **Both documents are the correct size.** Each Inkscape document remains exactly 24 × 12 in.
 - [ ] **The material is used efficiently.** Shapes are arranged intentionally to reduce unnecessary waste.
+
+---
+
+### Inskscape
+
+**Inkscape** is a free, open-source vector graphics editor used by the Thode Makerspace for preparing laser-cut files.
+
+For this project, **all production files must be created and finalized in Inkscape**.
+
+> Learning to move between different software environments is an important part of digital design and fabrication. The same concepts you have practiced in Illustrator (vector paths, shapes, measurements, alignment, layers, and precise transformations) can be applied in Inkscape.
+
+#### Tutorial 2 — Open your SVG in Inkscape and check cutting vs. engraving lines
+
+Follow the tutorial to open your **SVG file** in Inkscape and check that each vector path is prepared for the correct laser process.
+
+You will review:
+
+- how to open your SVG file in Inkscape;
+- which shapes and base elements should be **cut completely through the birchwood**;
+- which lines and patterns should be **engraved into the surface of the wood**;
+- how to apply the required settings for cutting and engraving; and
+- how to check that each path is assigned to the correct process before laser production.
+
+<!-- ADD INKSCAPE CUTTING / ENGRAVING CHECK TUTORIAL HERE -->
+
+> **Cutting lines and engraving lines are not interchangeable.** Before submitting your file, confirm that every path uses the correct settings for its intended function.
+
+#### Save the checked SVG files
+
+After you have opened your files in **Inkscape** and confirmed that all cutting and engraving lines use the correct settings, save the final files as **SVG**.
+
+The Thode Makerspace uses Inkscape as part of the workflow for sending vector files to the laser-cutting software, so **SVG is the required file format for production**.
+
+Save the files as:
+
+- `Group-#-Plate-1.svg`
+- `Group-#-Plate-2.svg`
+
+**Checklist:**
+
 - [ ] **The cutting paths are correct.** Every element intended to be cut uses the required cutting-line settings.
 - [ ] **The engraving paths are correct.** Every texture or surface treatment uses the required engraving-line settings.
 - [ ] **Unintended fills have been removed.** Only the fills required by the laser-cutting and engraving workflow remain.
 - [ ] **Duplicate and overlapping paths have been removed.** There are no repeated paths or accidental overlapping cutting lines.
-- [ ] **Every path is intentional.** Unnecessary objects, stray points, and accidental paths have been removed.
 - [ ] **The filenames are correct.** Both SVG files follow the required naming structure.
 
-> Show both production files. Corrections may be required before your scheduled laser-cutting session.
+> Corrections may be required before your scheduled laser-cutting session.
 
 </div>
 </details>
