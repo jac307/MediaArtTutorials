@@ -29,16 +29,11 @@ Final compositions will demonstrate the application of Wong’s principles of fo
 
 This project uses:
 
-- **Inkscape** — for creating and preparing vector files for laser cutting and engraving
+- **Adobe Illustrator** — for creating vector files.
+- **Inkscape** — for checking laser cutting and engraving settings.
 - **Adobe InDesign** — for designing and assembling the project planning and final documentation PDFs
 
-## Accessibility and learning support
-
-- The written instructions contain the required steps. Demonstrations and external resources provide additional support.
-- Group members may divide research, sketching, digital production, documentation, painting, assembly, and presentation responsibilities according to their strengths and access needs. Record each member’s contributions.
-- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
-- If hand-sketching, colour mixing, lifting, sanding, laser-cutting, assembly, or another required process creates an access barrier, contact the instructor early to arrange an equivalent role or method that meets the same learning outcomes and makerspace safety requirements.
-- Make planning and documentation PDFs text-based where possible. Use readable type, strong contrast, logical reading order, descriptive headings, and captions or image descriptions.
+> Group members may divide research, sketching, digital production, documentation, painting, assembly, and presentation responsibilities according to their strengths and access needs. Record each member’s contributions.
 
 ---
 
@@ -53,12 +48,8 @@ This project uses:
 ## Notes
 
 - Students must complete **Thode’s Makerspace Training Modules** on **Avenue to Learn** and the required **in-person training** before operating equipment or participating in laser production.
-- A **laser-cutting session with the professor must be booked** in advance for production.  
-  The instructor will confirm group printing schedules with the class. **Check Avenue for more information**.  
+- A **laser-cutting session with the professor must be booked** in advance for production. The instructor will confirm group printing schedules with the class. **Check Avenue for more information**.  
 - **Several required materials are needed for this project**. Review the *Required Materials for Project 1* section below for the complete list, group responsibilities, estimated costs, and purchasing options.
-- All production plates must be completed in Inkscape, the software required by the Makerspace for laser cutting.
-
-> This is a collaborative project. All group members must make a documented contribution. Responsibilities may be divided in different ways when the workload remains fair and each student meets the project learning outcomes.
 
 ---
 
