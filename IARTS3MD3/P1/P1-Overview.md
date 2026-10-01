@@ -1,4 +1,4 @@
-[IARTS 3MD3](../README.md)
+h[IARTS 3MD3](../README.md)
 
 # P1: Critical Research-Creation Profile
 
@@ -17,9 +17,7 @@ The project has **five versions**. Each version builds on the previous one. You 
 - [Version 2: Critical Connections](P1-Version2-Critical-Connections.md)
 - [Version 3: Multimodal Profile Draft](P1-Version3-Multimodal-Profile-Draft.md)
 - [Version 4: Poster Session](P1-Version4-Poster-Session.md)
-
-<!-- 
-- [Version 5: Final Profile](P1-Version5-Final-Profile.md)  -->
+- [Version 5: Final Profile](P1-Version5-Final-Profile.md)
 
 
 ## How the project develops
