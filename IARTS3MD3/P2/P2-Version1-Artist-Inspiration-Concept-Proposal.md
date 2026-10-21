@@ -19,18 +19,11 @@ Establish the first direction for the Research-Creation Project. Select an artis
 Every member must contribute to the artistic research, academic research, technology selection, and concept development.
 
 | Member | Artistic research | Academic research | Technology selection | Concept development |
-
 |---|---|---|---|---|
-
-| Member 1 | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-| Member 2 | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-| Member 3 | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-| Member 4, if applicable | One artwork or project | Review two Webador sources and read one new course source | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-All members must understand the selected artist or collective, original proposal, research findings, technology direction, and provisional concept before submitting.
+| Member 1 | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Member 2 | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Member 3 | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Member 4, if applicable | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
 
 > Do not divide the project into isolated sections. Individual findings must be shared, discussed, and used to make collective decisions.
 
@@ -89,7 +82,7 @@ Each member must research one artwork or project by the selected artist or colle
 
 Across the group, research at least three artworks or projects (one per member):
 - Include the two works discussed on the Webador page.
-- Include at least one additional work not discussed on the Webador page.
+- Include one/two additional work not discussed on the Webador page.
 
 For each assigned work, record:
 
@@ -106,11 +99,14 @@ For each assigned work, record:
 
 #### <span class="step-label">Step 4:</span> Divide the academic research
 
-Each member must:
-1. Review at least two academic sources from the Webador profile (annotated bibliography):
-  - One source from the course reading list
-  - One additional academic source that is not from the course reading list
-2. Select and read in full one new source from the course reading list that is not included on the Webador page —and that you think it fits the themes of the artist.
+Each group member must select and read **two different academic sources**:
+
+1. **One academic source from the selected artist or collective's Webador annotated bibliography.**
+2. **One new source from the course reading list** that is not included in the Webador annotated bibliography. Choose a reading that connects to the artist's practice, themes, methods, or questions, or introduces an idea you would like to explore through your project.
+
+**All group members must select different sources.** No two students in the same group should research the same reading.
+
+Read both assigned sources in full and identify how their ideas could inform, question, or extend the group's research-creation project.
 
 For each source, record:
 - Complete APA reference and working link
