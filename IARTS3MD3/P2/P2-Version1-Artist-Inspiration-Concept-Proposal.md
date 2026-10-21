@@ -76,6 +76,8 @@ Discuss:
 - What remains general, unresolved, technically uncertain, or ethically difficult?
 - What would your group need to change for the idea to reflect your own interests and skills?
 
+> Make notes on your collective document.
+
 #### <span class="step-label">Step 3:</span> Divide the artistic research
 
 Each member must research one artwork or project by the selected artist or collective.
@@ -104,7 +106,7 @@ Each group member must select and read **two different academic sources**:
 1. **One academic source from the selected artist or collective's Webador annotated bibliography.**
 2. **One new source from the course reading list** that is not included in the Webador annotated bibliography. Choose a reading that connects to the artist's practice, themes, methods, or questions, or introduces an idea you would like to explore through your project.
 
-**All group members must select different sources.** No two students in the same group should research the same reading.
+> **All group members must select different sources.** No two students in the same group should research the same reading.
 
 Read both assigned sources in full and identify how their ideas could inform, question, or extend the group's research-creation project.
 
@@ -124,8 +126,8 @@ For each source, record:
 Each student must submit one individual PDF containing:
 
 - [ ] Full name and student number
-- [ ] Complete artistic research notes for the assigned artwork or project
-- [ ] Complete academic research notes for all three assigned sources
+- [ ] Complete artistic research notes for the selected artwork or project
+- [ ] Complete academic research notes for the selected academic readings
 - [ ] APA references and working links for all three sources
 - [ ] Reliable links to the artwork documentation
 - [ ] Two or three possible connections between the research and the project direction
@@ -133,8 +135,6 @@ Each student must submit one individual PDF containing:
 Name the file:
 
 `Lastname-Firstname_P2_Version1-Research-Notes.pdf`
-
-> **Stage 1 deliverable:** Each student submits `Lastname-Firstname_P2_Version1-Research-Notes.pdf`. Share your research with the group so it can inform the collective decisions in Stage 2.
 
 > **Before moving to Stage 2:** Every member should have completed the artistic and academic research, recorded source details and links, and shared their notes with the group.
 
@@ -221,7 +221,7 @@ For each option, prepare brief notes:
 | Accessibility, ethics, and safety | Identify initial concerns | Identify initial concerns |
 | Available learning support | Confirm whether documentation or tutorials appear to be available | Confirm whether documentation or tutorials appear to be available |
 
->**You do not need to select or complete specific tutorials for this Version 1.**
+>**⚠ You do not need to select or complete specific tutorials for this Version 1 ⚠**
 
 #### <span class="step-label">Step 5:</span> Select one technology or technique
 
@@ -258,8 +258,6 @@ The document must include:
 - [ ] Initial accessibility, ethical, safety, cost, and feasibility concerns
 - [ ] The main question the group needs to investigate during the Technological Research
 
-> **Stage 2 deliverable:** The group prepares `P2_Version1-Iteration-Technology-Notes.pdf`.
-
 > **Before moving to Stage 3:** The group should have agreed on the revised direction, completed the iteration map and skills audit, compared two unfamiliar options, and selected one primary technology or technique. Detailed testing belongs to the later Technological Research.
 
 </div>
@@ -277,13 +275,12 @@ The document must include:
 
 #### <span class="step-label">Step 1:</span> Write the provisional concept proposal
 
-Write a **250–350-word provisional concept proposal** describing the group’s current direction. This proposal will establish the artistic purpose for the Technological Research.
+Write a **250–350-word provisional concept proposal** describing the group’s current direction. This proposal will establish the artistic purpose for the *Technological Research* (next week).
 
 Explain:
 
 - The main artistic question, experience, or EDI concern the group wants to explore
 - How the project draws from, translates, questions, or extends specific strategies from the selected artist or collective
-- The most important changes made to the Project 1 proposal and how this previous idea informed the current one.
 - The proposed form of the artwork, intended audience experience, and role of the unfamiliar technology or technique
 - The most relevant ethical, accessibility, consent, representation, or accountability considerations
 
@@ -314,7 +311,7 @@ The sketch does not need to be polished or technically accurate. Its purpose is 
 
 Credit any image or media created outside the group.
 
-#### <span class="step-label">Step 3:</span> Complete your group's Artistic Responses page on Webador
+#### <span class="step-label">Step 3:</span> Complete your group's Artistic Response page on Webador
 
 After completing the provisional concept proposal and visual development page, open the **new group's page** under **Artistic Responses** on the course Webador website.
 
@@ -324,13 +321,13 @@ Use the Webador login information provided on Avenue to Learn. Find your group's
 
 Include:
 
-- Full names of all group members
-- Name of the selected artist or collective
-- Names of the classmates who created the original Project 1 profile
-- A 100-word explanation of how your group's project builds on, responds to, or changes the existing Project 1 research and research-creation proposal
-- The complete 250–350-word provisional concept proposal
-- One annotated visual development page
-- Credits for any images or media created outside the group
+- [ ] Full names of all group members
+- [ ] Name of the selected artist or collective
+- [ ] Names of the classmates who created the original Project 1 profile
+- [ ] A 100-word explanation of how your group's project builds on, responds to, or changes the existing Project 1 research and research-creation proposal
+- [ ] One annotated visual development image
+- [ ] The complete 250–350-word provisional concept proposal
+- [ ] Credits for any images or media created outside the group
 
 Save or publish the page only after all group members have reviewed it.
 
@@ -371,10 +368,7 @@ or
 
 > Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
-> **Stage 3 deliverables:** Complete the sections prepared for **Project 2: Iteration 2** on your group's existing Webador page under **Artistic Responses**, and submit one presentation slide in `.jpg` or `.png` format. The Webador page must include the provisional concept proposal, the explanation of how the project builds on Project 1, and the annotated visual development page.
-
 </div>
-
 </details>
 
 ---
@@ -383,7 +377,7 @@ or
 
 | Item | Requirement or filename |
 |---|---|
-| Webador: Artistic Responses | Complete **Project 2: Iteration 2** on your group's existing page under **Artistic Responses**. Include the selected artist or collective, Project 1 authors, 100-word explanation, 250–350-word provisional concept proposal, and annotated visual development page. |
+| Webador: Artistic Response | Complete **Project 2: Iteration 2** on your group's existing page under **Artistic Responses**. Include the selected artist or collective, Project 1 authors, 100-word explanation, 250–350-word provisional concept proposal, and annotated visual development page. |
 | Individual research notes | Each member submits `Lastname-Firstname_P2_Version1-Research-Notes.pdf` |
 | Group iteration and technology notes | `P2_Version1-Iteration-Technology-Notes.pdf` |
 | Presentation slide | `P2_Version1-Concept-Proposal-Slide.jpg` or `P2_Version1-Concept-Proposal-Slide.png` |
