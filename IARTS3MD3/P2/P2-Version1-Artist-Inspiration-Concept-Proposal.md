@@ -5,7 +5,7 @@
 # Version 1: Artist or Collective Inspiration and Concept Proposal
 
 **Work format:** Groups of 3–4, with individual research notes  
-**Submission:** One research-notes PDF per student, one collaborative iteration and technology notes PDF, one Webador profile update, and one Pecha Kucha presentation slide per group  
+**Submission:** One individual research-notes PDF per student, one collaborative iteration and technology notes PDF, one completed **Artistic Responses** Webador page (Iteration 2), and one Pecha Kucha presentation slide per group.
 **Presentation length:** One minute
 
 ## Goal
@@ -47,7 +47,7 @@ Do not try to complete all of the requirements at once. Each stage builds on the
 
 #### <span class="step-label">Step 1:</span> Select an artist or collective
 
-Select one artist or collective from the completed Project 1 Webador profiles. Use the available spreadsheet to define your selection. Both links are available on Avenue to Learn.
+Select one artist or collective from the completed Project 1 Webador profiles. **Use the available excell spreadsheet to define your selection**. Both links are available on Avenue to Learn.
 
 The selection must meet the following conditions:
 - None of the group members researched this artist or collective for Project 1.
