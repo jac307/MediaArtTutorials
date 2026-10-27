@@ -40,10 +40,8 @@ This project uses:
 ## Index
 
 - [Part 1 – In-Class Work I: Brainstorm, sketch, and prepare laser-cut files](P1-InClassWork-I.md)
-
-<!-- 
 - [Part 2 – In-Class Work II: Plan colour and begin production](P1-InClassWork-II.md)
-- [Final submission: Assembly, exhibition, and documentation](P1-Final-Submission.md) -->
+- [Final submission: Assembly, exhibition, and documentation](P1-Final-Submission.md)
 
 ---
 
