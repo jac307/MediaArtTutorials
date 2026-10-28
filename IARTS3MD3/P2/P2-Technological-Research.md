@@ -1,39 +1,49 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
 
-# P2: Research-Creation Project — Technological Research
+## P2: Research-Creation Project
 
-**Work format:** Groups of 3–4  
-**Due date and submission location:** See Avenue to Learn.  
-**Purpose:** Learn and test the unfamiliar technology or technique selected in P2 Version 1. Use evidence from small experiments to decide how it could contribute to the first artistic prototype.
+# Technological Research
+
+**Work format:** Groups of 3–4, with individual experimentation
+**Submission:** Each student submits one individual research-notes PDF. Each group submits one collaborative iteration and technology notes PDF, completes the **Artistic Responses** section on Webador (Iteration 2), and submits one Pecha Kucha presentation slide.
+**Presentation length:** One minute
+
+## Goal
+
+Learn and test the unfamiliar technology or technique selected in P2 Version 1. Use evidence from small experiments to decide how it could contribute to the first artistic prototype.
 
 **What is expected:** Technical learning, direct experimentation, documentation, critical reflection, and a justified group decision. **You are not expected to produce a polished prototype or finished artwork.**
 
-## What you will produce
+## Division of labour
 
-| Deliverable | Who completes it | Where it goes |
-|---|---|---|
-| Technological Research plan (PDF) | Group; one member submits | Avenue to Learn |
-| Technology-learning log (PDF) | Each student individually | Avenue to Learn |
-| Technological Research summary (150–200 words) and gallery (3–5 images) | Group; one member updates | Existing artist/collective Webador page |
-| One-slide, one-minute presentation (JPG or PNG) | Group; one member submits | Avenue to Learn |
+Every member must **personally use** the unfamiliar technology or technique and complete **at least one distinct, hands-on test**.
 
-The plan includes the learning resources, test assignments, and later the **text alternative for the presentation slide**. The individual logs contain detailed evidence; the Webador page presents selected findings to a public audience.
+Each member also takes responsibility for a learning resource or section, records evidence, and contributes to the prototype discussion. Share findings so that everyone understands the process, results, limitations, and final group decision.
 
-## How the group will work
+> If a particular physical, sensory, or software interaction creates an access barrier, contact the instructor to discuss an equivalent way to demonstrate the technical learning outcome.
 
-Every member must **personally use** the unfamiliar technology or technique and complete **at least one distinct, hands-on test**. A group of three completes at least three tests; a group of four completes at least four. Watching, reading, observing, or documenting someone else's test does not replace hands-on testing.
+## Read and complete the instructions step by step
 
-Each member also takes responsibility for a learning resource or section, records evidence, and contributes to the prototype discussion. Share findings so that everyone understands the process, results, limitations, and final group decision. If a particular physical, sensory, or software interaction creates an access barrier, contact the instructor to discuss an equivalent way to demonstrate the technical learning outcome.
+**Complete this version in the order presented below.**
 
-Complete the stages in order. You can use the checkpoints to see whether you are ready to continue.
+Do not try to complete all of the requirements at once. Each stage builds on the work from the previous stage.
+
+**Start with Stage 1 and complete each step before moving to the next stage.** Use the checklists and **Before moving on** prompts to confirm that you have completed the required work.
 
 ---
 
-## Stage 1: Plan the research and prepare to test
 
-**Goal:** Identify what the proposed artwork needs the technology to do, choose learning resources, and design manageable experiments.
+<details class="tutorial-section" id="plan-and-learn">
+  <summary>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Plan the research and prepare to test</span>
+    <span class="section-description">
+      Identify what the artwork needs the technology to do, choose learning resources, and design manageable experiments.
+    </span>
+  </summary>
 
-### Step 1. Review Version 1
+<div class="section-content" markdown="1">
+
+#### <span class="step-label">Step 1:</span> Review Version 1
 
 Together, review:
 
@@ -44,22 +54,36 @@ Together, review:
 - Initial access, feasibility, accessibility, ethical, and safety concerns
 - Main technological research question
 
-Discuss: **What does the artwork need this technology or technique to accomplish?** Begin with the project's needs, not a general list of the tool's features.
+Discuss: **What does the artwork need this technology or technique to accomplish?**
 
-### Step 2. Find and assign learning resources
+Begin with the project's needs, not a general list of the tool's features.
 
-Choose **at least two reliable resources**:
+#### <span class="step-label">Step 2:</span> Find and assign learning resources
 
-1. One official manual, documentation page, technical guide, or safety guide.
-2. One reliable tutorial or demonstration.
+Find **at least two reliable resources** that will help your group learn how to use the **unfamiliar technology or technique selected in Version 1**. Focus on resources that explain the processes, tools, or skills needed for your planned experiments.
 
-For each, record the title, creator or organization, working link, relevant chapters/steps/timestamps, what it will teach you, why it is reliable and appropriate, and which test it supports.
+Choose:
 
-Assign a resource or section to each member. Everyone must learn and apply part of the process. Reading or watching alone is preparation, **not** a hands-on test.
+1. **One official resource:** A manual, documentation page, technical guide, or safety guide related to the selected technology or technique.
+2. **One tutorial or demonstration:** A reliable resource showing how to use the technology or perform the technique.
 
-### Step 3. Write two or three technical questions
+For each resource, record:
 
-Choose **two or three focused questions** that can be investigated by making and testing. For example:
+- Title, creator or organization, and working link
+- Relevant chapters, steps, or timestamps
+- What you need to learn from the resource
+- Why the resource is reliable and appropriate
+- How you will apply what you learn in a planned test
+
+Assign a resource or section to each group member. Everyone must learn and apply part of the selected technology or technique.
+
+> Reading documentation or watching tutorials is preparation, **not** a hands-on test. Each member must apply what they learn through direct experimentation in Stage 2.
+
+#### <span class="step-label">Step 3:</span> Write two or three technical questions
+
+Choose **two or three focused questions** that can be investigated by making and testing.
+
+For example:
 
 - Can the tool produce the image, sound, movement, interaction, or material effect the artwork needs?
 - Which input, setting, or material changes the result?
@@ -68,7 +92,7 @@ Choose **two or three focused questions** that can be investigated by making and
 
 Several members may investigate the same question using different variables or conditions.
 
-### Step 4. Assign one small test to each member
+#### <span class="step-label">Step 4:</span> Assign one small test to each member
 
 Plan at least one distinct test per person. Each test must involve direct use of the technology or technique and examine a specific setting, input, material, interaction, or condition.
 
@@ -79,9 +103,9 @@ Plan at least one distinct test per person. Each test must involve direct use of
 | 3 | [name] | [question and why it matters] | [small test] | [what changes] | [tools and evidence] |
 | 4, if applicable | [name] | [question and why it matters] | [small test] | [what changes] | [tools and evidence] |
 
-**Evidence** may include annotated screenshots, photographs, outputs, recordings, code, physical samples, or observations. Choose a form that shows what happened and supports your explanation.
+> **Evidence** may include annotated screenshots, photographs, outputs, recordings, code, physical samples, or observations. Choose a form that shows what happened and supports your explanation.
 
-### Step 5. Check access, ethics, and safety before testing
+#### <span class="step-label">Step 5:</span> Check access, ethics, and safety before testing
 
 Confirm that:
 
@@ -93,27 +117,27 @@ Confirm that:
 - The process does not reproduce harmful, extractive, or culturally inappropriate practices.
 - You have considered an accessible alternative when an interaction could create a barrier.
 
-If a test cannot be completed safely or the technology is unavailable, record the barrier and consult the instructor **before replacing the technology**.
+> If a test cannot be completed safely or the technology is unavailable, record the barrier and consult the instructor **before replacing the technology**.
 
-### Step 6. Create the group research plan
+#### <span class="step-label">Step 6:</span> Create the group research plan
 
 Create **`P2_Technological-Research-Plan.pdf`** with:
 
-- Full names and student numbers of group members
-- Brief description of what the artwork needs the technology to do
-- Two or three technical questions
-- Completed test-planning table
-- Official documentation or guide and tutorial/demonstration, with working links
-- Learning sections assigned to each member
-- Required tools, files, accounts, equipment, materials, and spaces
-- Initial accessibility, ethics, consent, privacy, safety, cost, and feasibility considerations
-- Contingency if the technology is unavailable, unsafe, or unsuitable
+- [ ] Full names and student numbers of group members
+- [ ] Brief description of what the artwork needs the technology to do
+- [ ] Two or three technical questions
+- [ ] Completed test-planning table
+- [ ] Official documentation or guide and tutorial/demonstration, with working links
+- [ ] Learning sections assigned to each member
+- [ ] Required tools, files, accounts, equipment, materials, and spaces
+- [ ] Initial accessibility, ethics, consent, privacy, safety, cost, and feasibility considerations
+- [ ] Contingency if the technology is unavailable, unsafe, or unsuitable
 
-**Keep this plan:** In Stage 3 you will add the presentation slide's text alternative before submitting the final PDF.
+> **Before moving on:** Every member has a learning assignment and a feasible test; the group has identified its questions, resources, evidence, and access or safety concerns.
 
-Use actual document headings, selectable text, and descriptive working links. Give essential images, diagrams, and screenshots captions and alt text or equivalent descriptions. Check the exported PDF.
+</div>
+</details>
 
-**Before moving on:** Every member has a learning assignment and a feasible test; the group has identified its questions, resources, evidence, and access or safety concerns.
 
 ---
 
