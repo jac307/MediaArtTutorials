@@ -333,7 +333,6 @@ Save or publish the page only after all group members have reviewed it.
 
 > **Before moving on:** Your group should have one Artistic Responses page documenting **Iteration 2**. You will continue developing this page during later Project 2 stages.
 
-
 #### <span class="step-label">Step 4:</span> Pecha Kucha: Prepare the one-minute presentation
 
 During the following lecture, each group will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
@@ -366,7 +365,7 @@ or
 
 `P2_V1-Iteration2-Slide.png`
 
-> Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
+> Choose one speaker. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
 
 </div>
 </details>

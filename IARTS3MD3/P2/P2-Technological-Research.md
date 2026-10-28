@@ -141,23 +141,35 @@ Create **`P2_Technological-Research-Plan.pdf`** with:
 
 ---
 
-## Stage 2: Learn, test, and document
+<details class="tutorial-section" id="learn-test-document">
+  <summary>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Learn, test, and document</span>
+    <span class="section-description">
+      Apply the learning resources, complete individual experiments, and document what the results mean for the artwork.
+    </span>
+  </summary>
 
-**Goal:** Apply the resources, complete individual experiments, and record what the results mean for the artwork.
+<div class="section-content" markdown="1">
 
-### Step 1. Learn the assigned process
+#### <span class="step-label">Step 1:</span> Learn the assigned process
 
-Each member completes their assigned tutorial, documentation section, demonstration, or technical process and uses it to prepare for their test.
+Each member completes their assigned tutorial, documentation section, demonstration, or technical process for the **unfamiliar technology or technique selected in Version 1**.
 
-### Step 2. Complete the hands-on tests
+Use what you learn to prepare for your individual hands-on test.
 
-Each member personally carries out **at least one** assigned test. Tests can build on one another or investigate a shared question using different inputs, settings, materials, or conditions. Keep each test's purpose distinct.
+#### <span class="step-label">Step 2:</span> Complete the hands-on tests
 
-### Step 3. Record what happened
+Each member must personally complete **at least one hands-on test** using the selected technology or technique.
+
+Tests may build on one another or investigate the same question using different inputs, settings, materials, or conditions. However, each test must have a distinct purpose.
+
+> Every member must directly use the technology or technique. Watching another member complete a test does not count as completing your own experiment.
+
+#### <span class="step-label">Step 3:</span> Record what happened
 
 For **each test**, document:
 
-| Area | Record |
+| Area | What to record |
 |---|---|
 | Question and artistic purpose | What you are investigating and why it matters to the proposed artwork or audience |
 | Setup | Software, equipment, files, materials, settings, space, and roles |
@@ -166,161 +178,219 @@ For **each test**, document:
 | Evidence | Images, outputs, code, recordings, samples, or observations |
 | Result | What actually happened |
 | Interpretation | What the result suggests for the artwork |
-| Limitation | Technical, conceptual, ethical, access, cost, time, or safety concern |
+| Limitation | Technical, conceptual, ethical, accessibility, cost, time, or safety concern |
 | Next step | What you would repeat, change, learn, or test |
 
-Record unsuccessful or unexpected results, too. A test may reveal that a process is incompatible, costly, inaccessible, unsafe, or artistically unsuitable—or that an unexpected result opens a new direction. Explain what the result teaches you rather than presenting every test as a success.
+**Document unsuccessful and unexpected results, too.**
 
-### Step 4. Connect experimentation to the research
+A test may reveal that:
+
+- A process is incompatible with the available equipment or software.
+- The technology requires more time or money than expected.
+- An interaction creates an accessibility, privacy, consent, or safety concern.
+- The technology is not appropriate for the artistic concept.
+- An unexpected result suggests a new artistic direction.
+
+Explain what each result teaches you rather than presenting every test as successful.
+
+#### <span class="step-label">Step 4:</span> Connect experimentation to the research
 
 Across the tests, identify:
 
-1. One artistic strategy, method, or question connected to the selected artist or collective.
-2. One concept from the academic research completed in Version 1.
-3. One specific way the technical findings support, change, or challenge the provisional proposal.
+1. **An artistic connection:** One strategy, method, or question connected to the selected artist or collective.
+2. **An academic connection:** One concept from the academic research completed in Version 1.
+3. **A project connection:** One specific way the technical findings support, change, or challenge the provisional research-creation proposal.
 
-**Technical success alone is not the evaluation criterion.** Consider artistic meaning, audience experience, and the project's equity, diversity, and inclusion concerns.
+> **Technical success alone is not the evaluation criterion.** Consider artistic meaning, audience experience, and the project's equity, diversity, and inclusion concerns.
 
-### Step 5. Prepare and share your individual log
+#### <span class="step-label">Step 5:</span> Prepare and share your individual log
 
-Each member prepares **`Lastname-Firstname_P2_Technological-Research-Log.pdf`**, including:
+Each member must prepare one PDF named:
+
+`Lastname-Firstname_P2_Technological-Research-Log.pdf`
+
+Include:
 
 - [ ] Full name and student number
 - [ ] Assigned learning resource, working link, and sections or steps completed
 - [ ] Brief notes on what was learned
 - [ ] Test question and artistic purpose
-- [ ] Description of the test personally completed
+- [ ] Description of the hands-on test personally completed
 - [ ] **At least three** screenshots, photographs, outputs, recording stills, samples, or other forms of evidence
 - [ ] What worked, what did not, and any unexpected results
 - [ ] One remaining technical question
 - [ ] One skill or process to practise before the first artistic prototype
 
-Caption and describe evidence so the result is understandable without seeing or hearing it. Use selectable text, document headings, and working links in the PDF. **Share your completed log with the group before Stage 3.**
+**Share your completed log with the entire group before beginning Stage 3.**
 
-**Before moving on:** Every member has completed and documented a test, shared the log, and identified what the experiment means for the artwork.
+> **Before moving on:** Every member has completed and documented at least one hands-on test, shared their individual learning log, and identified what the experiment means for the proposed artwork.
+
+</div>
+</details>
 
 ---
 
-## Stage 3: Evaluate the findings and communicate the results
+<details class="tutorial-section" id="evaluate-and-communicate">
+  <summary>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Evaluate the findings and communicate the results</span>
+    <span class="section-description">
+      Compare the experiments, make a technology decision, update Webador, and prepare a one-minute presentation.
+    </span>
+  </summary>
 
-**Goal:** Compare evidence, make a technology decision, update the public Webador profile, and prepare a short presentation.
+<div class="section-content" markdown="1">
 
-### Step 1. Compare the individual tests
+#### <span class="step-label">Step 1:</span> Compare the individual tests
 
-Review everyone's logs and evidence. Discuss:
+As a group, review everyone's individual learning logs and test evidence.
 
-1. Which questions were answered, and which remain open?
+Discuss:
+
+1. Which technical questions were answered, and which remain open?
 2. Which result offers the strongest artistic possibility?
-3. Which limitations can be addressed through further learning or production changes?
+3. Which limitations can be addressed through further learning, experimentation, or production changes?
 4. Which limitations require a change to the concept, format, audience experience, or technology?
-5. How well does the technology fit the selected artist/collective, the concept, and the EDI concern?
-6. What should be developed, resolved, or tested next?
+5. How well does the technology connect to the selected artist or collective, the proposed artwork, and the project's equity, diversity, and inclusion (EDI) concern?
+6. What should the group develop, resolve, or test next?
 
-Use specific test results to support the discussion.
+Use specific test results and research findings to support your discussion.
 
-### Step 2. Make and justify one group decision
+#### <span class="step-label">Step 2:</span> Make and justify one group decision
+
+Based on the experiments, select **one decision**:
 
 | Decision | Meaning |
 |---|---|
 | **Continue** | Keep the technology and its intended role |
-| **Modify** | Keep it but change its role, workflow, scale, input, output, or audience relationship |
-| **Replace** | Choose another unfamiliar technology because a documented barrier makes the original unsuitable |
+| **Modify** | Keep the technology but change its role, workflow, scale, input, output, or relationship to the audience |
+| **Replace** | Select another unfamiliar technology because a documented barrier makes the original choice unsuitable |
 
-Support your decision using test evidence, artistic possibilities, research connections, and practical or ethical concerns (including access, privacy, consent, representation, safety, cost, and environmental effects).
+Explain your decision using:
 
-**Consult the instructor before replacing the technology.** A replacement must be unfamiliar to every member and meaningfully connected to the project.
+- Specific test results and evidence
+- Artistic possibilities and connection to the selected artist or collective
+- Relationship to the provisional research-creation proposal
+- Practical considerations, including time, cost, equipment, materials, and space
+- Accessibility, privacy, consent, representation, safety, and environmental concerns
 
-### Step 3. Write the Webador summary
+> **Consult the instructor before replacing the technology.** The replacement must remain unfamiliar to every group member and connect meaningfully to the project.
 
-Together, write **150–200 words** describing:
+#### <span class="step-label">Step 3:</span> Write the Webador summary
 
-- What unfamiliar technology or technique you investigated and why
+Together, write a **150–200-word Technological Research summary** explaining:
+
+- What unfamiliar technology or technique your group investigated and why you selected it
 - What you tested
 - The most important successful, unsuccessful, or unexpected finding
-- Your decision to continue, modify, or replace it
+- Your decision to continue, modify, or replace the technology
 - How the findings changed or clarified the project direction
 
-Focus on learning from experiments. **Do not** write a general technology overview, a separate summary of every test, or a new prototype proposal.
+Focus on what the group learned through direct experimentation.
 
-### Step 4. Select and prepare the gallery
+> **Do not** write a general overview of the technology, summarize every individual test separately, or develop a new prototype proposal. This summary documents the findings from the current Technological Research activity.
 
-Choose **three to five images** that explain the process and results, including evidence from **at least two members' tests**. These may show setup, screenshots, outputs, physical samples, or comparisons.
+#### <span class="step-label">Step 4:</span> Select and prepare the documentation gallery
 
-For every image, provide a brief caption explaining what was tested and what happened, relevant alt text, and credit for material created outside the group. Check permission to publish images and source material.
+Choose **three to five images** that clearly communicate the experiments and their results.
 
-For sound, time-based, or interactive tests, add a short video, audio example, GIF, or stable link **when needed to understand the result**. Caption video; provide a transcript or equivalent text summary for audio-only work. Explain essential GIF information in text and avoid rapid flashing. Do not upload every raw experiment record.
+Include evidence from **at least two different group members' tests**.
 
-### Step 5. Update the existing Webador page
+Images may include:
 
-Using the login details on Avenue to Learn, open the selected artist or collective's **existing** profile. At the end of that page, find the section reserved for this activity.
+- Screenshots of the technology or process
+- Photographs of the setup or experimentation
+- Test outputs
+- Images of physical samples
+- Comparisons between different inputs, settings, materials, or conditions
 
-Use this exact heading: **Technological Research: Version 1**
+For **each image**, include:
 
-Add:
+- **Caption:** Briefly identify what was tested and what happened.
+- **Alt text:** Describe the relevant visual information needed to understand the result.
+- **Credit:** Identify the creator or source of any material produced outside the group.
 
-- Full names of all group members (**not student numbers**)
-- Complete 150–200-word summary
-- Gallery of three to five images, with captions and alt text
-- Credits for outside images, artworks, media, and source materials
-- Supporting video, audio, GIF, or stable link if needed
+For sound, time-based, or interactive experiments, include a short video or audio recording **when necessary to understand the result**. Upload the recording to **YouTube or Vimeo** and add the viewing link to the Webador page.
 
-**Do not upload** the experiment plan, individual learning logs, student numbers, private information, or unedited working files. Do not overwrite previous iterations, other groups' content, or website-wide settings.
+> Select documentation that helps readers understand the process and findings. You do not need to publish every screenshot, unsuccessful attempt, or raw experiment record.
 
-Before saving or publishing, all members should review the update. Check the correct page and heading, word count, decision and reasoning, gallery quantity and representation, captions, alt text, credits, permissions, and public link access. Check the **published page**, including its reading order and media, on a narrow screen and with keyboard navigation where possible.
+#### <span class="step-label">Step 5:</span> Update the existing Webador page
 
-### Step 6. Prepare the one-minute presentation
+Use the Webador login information provided on Avenue to Learn.
 
-During the following lecture, each group gives a **one-minute Pecha Kucha-style rapid presentation**, one after another, without questions or class feedback.
+1. Open the **the group's existing Artistic Response**.
+2. Find the section reserved for this activity at the end of the page: **Technological Research**.
+3. Add the required text, images, credits, and supporting media.
 
-Prepare **one 16:9 image slide**, preferably **1920 × 1080 pixels**, showing:
+Your Webador section must include:
 
-- Technology or technique
-- Two or three technical questions, in brief form
-- Evidence from **at least two tests**
-- Most important finding
-- Continue / modify / replace decision
-- One recommended next step for the first artistic prototype
+- [ ] Complete 150–200-word Technological Research summary
+- [ ] Three to five images with captions and credits.
+- [ ] Other supporting video or audio links, when needed
 
-Keep text brief and readable. Caption test images and credit outside materials. Choose a speaker **who did not speak in Version 1**. If verbal presentation creates an access barrier, contact the instructor in advance to arrange an equivalent way to meet the learning goals. The presentation must not exceed one minute.
+Save or publish the page only after all group members have reviewed it.
 
-Save **one** of:
+> **Before moving on:** Your group should have completed the **Technological Research** section on your group's Artistic Responses page. You will continue developing this page during later Project 2 stages.
 
-- `P2_Technological-Research-Slide.jpg`
-- `P2_Technological-Research-Slide.png`
+### <span class="step-label">Step 4:</span> Pecha Kucha: Prepare the one-minute presentation
 
-**Text alternative:** Add all slide text, captions, credits, and brief descriptions of important visual evidence to the **group Technological Research plan** before its final PDF export. The slide should remain understandable without relying on the spoken explanation.
+During the following lecture, each group will give a rapid **one-minute presentation**. Presentations will take place one after another, without questions or class feedback.
 
-Submit the slide in advance through Avenue to Learn so presentations can run in sequence without switching computers.
+Prepare **one slide in image format** containing:
 
-**Before moving on:** The group has made a research-supported decision, reviewed the Webador update, prepared the slide, and added the slide's text alternative to the group plan.
+- Selected unfamiliar technology or technique
+- Two or three technical questions in brief form
+- Representative evidence from **at least two tests** with most important successful, unsuccessful, or unexpected finding
+- Decision to **continue, modify, or replace** the technology
+
+##### Slide format and design
+
+- Submit **one `.JPG` or `.PNG` image**.
+- Use a **16:9 format**. The recommended size is `1920 × 1080 px`.
+- Use large, readable text and strong contrast between text and background.
+- Keep text brief.
+- Do not place important text over a visually complex image.
+- Make both selected artworks clearly visible.
+- Include the title, year, and image credit for each artwork.
+
+Name the file:
+
+`P2_Technological-Research-Slide.jpg`
+
+or
+
+`P2_Technological-Research-Slide.png`
+
+**Prepare the slide's text alternative:**
+
+> Choose one speaker who did not speak in Version 1. If presenting verbally creates an access barrier, contact the instructor in advance to arrange an accessible alternative that meets the same learning goals.
+
+</div>
+</details>
+
 
 ---
 
-## Final submission checklist
-
-Update the Webador page and submit the files through **Avenue to Learn**.
+## Submission files
 
 | Item | File or requirement | Submission responsibility |
 |---|---|---|
-| Webador update | **Technological Research: Version 1** with summary and gallery | All review; one member updates |
+| Webador: Artistic Response | **Project 2: Technological Research** on your group's existing page under **Artistic Responses** with summary and gallery | All review; one member updates |
 | Group plan | `P2_Technological-Research-Plan.pdf` (including slide text alternative) | One member submits |
 | Individual log | `Lastname-Firstname_P2_Technological-Research-Log.pdf` | **Each member submits their own** |
 | Presentation slide | `P2_Technological-Research-Slide.jpg` **or** `.png` | One member submits |
 
 Before submitting, verify that:
 
-- [ ] Each member personally completed at least one documented hands-on test.
-- [ ] Each individual log contains at least three pieces of evidence.
-- [ ] The group plan includes resources, test assignments, access/ethics considerations, and the slide text alternative.
-- [ ] The Webador summary is 150–200 words and the gallery contains 3–5 images from at least two members.
-- [ ] The technology decision is supported by evidence.
-- [ ] Public materials have captions, alt text or equivalent descriptions, credits, permissions, and working links.
-- [ ] No student numbers or private working files appear on Webador.
-- [ ] PDFs have selectable text and working links; files open correctly.
-- [ ] The slide is a single readable 16:9 JPG or PNG.
-- [ ] Group and individual files are submitted by the correct people.
+### Before submitting: Final checklist
 
-Follow the specified filenames and formats so files can be identified and opened. Inaccessible or unidentifiable files may need resubmission and may be considered late. Missing required experiments, evidence, citations, credits, accessibility information, or project content affects assessment according to the assignment criteria.
+- [ ] Each group member has completed and submitted their **individual Technological Research Log PDF (Stage 2)**.
+- [ ] The **group Technological Research Plan PDF (Stage 1)** includes all required sections, group members' names and student numbers, and the presentation slide's text alternative.
+- [ ] The group's **Artistic Responses** Webador page includes all required **Stage 3 - Technological Research content**.
+- [ ] The Pecha Kucha slide uses a **16:9 format** and includes the required content.
+- [ ] The Pecha Kucha slide is saved as an image file: **JPEG** or **PNG**.
+- [ ] All required files, links, and media open correctly.
+
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing required sections, research, citations, media credits, individual notes, or Pecha Kucha requirements will affect the grade.
 
 ---
 
