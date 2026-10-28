@@ -4,8 +4,8 @@
 
 # Technological Research
 
-**Work format:** Groups of 3–4, with individual experimentation
-**Submission:** Each student submits one individual research-notes PDF. Each group submits one collaborative iteration and technology notes PDF, completes the **Artistic Responses** section on Webador (Iteration 2), and submits one Pecha Kucha presentation slide.
+**Work format:** Groups of 3–4, with individual experimentation. 
+**Submission:** Each student submits one individual research-notes PDF. Each group submits one collaborative iteration and technology notes PDF, completes the **Artistic Responses** section on Webador (Iteration 2), and submits one Pecha Kucha presentation slide.  
 **Presentation length:** One minute
 
 ## Goal
@@ -138,10 +138,7 @@ Create **`P2_Technological-Research-Plan.pdf`** with:
 </div>
 </details>
 
-
----
-
-<details class="tutorial-section" id="learn-test-document">
+<!-- <details class="tutorial-section" id="learn-test-document">
   <summary>
     <span class="section-title" role="heading" aria-level="3">Stage 2: Learn, test, and document</span>
     <span class="section-description">
@@ -227,8 +224,6 @@ Include:
 
 </div>
 </details>
-
----
 
 <details class="tutorial-section" id="evaluate-and-communicate">
   <summary>
@@ -367,7 +362,6 @@ or
 </div>
 </details>
 
-
 ---
 
 ## Submission files
@@ -390,7 +384,7 @@ Before submitting, verify that:
 - [ ] The Pecha Kucha slide is saved as an image file: **JPEG** or **PNG**.
 - [ ] All required files, links, and media open correctly.
 
-> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing required sections, research, citations, media credits, individual notes, or Pecha Kucha requirements will affect the grade.
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing required sections, research, citations, media credits, individual notes, or Pecha Kucha requirements will affect the grade. -->
 
 ---
 
