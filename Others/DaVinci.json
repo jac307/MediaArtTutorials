@@ -1,16 +1,5 @@
 [
   {
-    "title": "Intro to Keyframe Animation",
-    "description": "",
-    "children": [
-      {
-        "title": "Intro to Keyframe Animation",
-        "description": "In this tutorial, you’ll learn the basics of keyframe animation in DaVinci Resolve. Keyframes let you add movement to video elements like position, scale, and opacity, helping you create more dynamic and engaging compositions.",
-        "tutorialEmbedCode": "https://www.iorad.com/player/2600761/DaVinci-Resolve-8--Intro-to-Keyframe-Animation?src=iframe&oembed=1"
-      }
-    ]
-  },
-  {
     "title": "Intro to Linear Video Editing",
     "description": "",
     "children": [
@@ -54,6 +43,17 @@
         "title": "Titles: Adding text",
         "description": "In this tutorial, you’ll learn how to add Titles, or text overlays, to your video to display names, messages, or creative captions.",
         "tutorialEmbedCode": "https://www.iorad.com/player/2582828/DaVinci-Resolve-7--Titles--Adding-text-?src=iframe&oembed=1"
+      }
+    ]
+  },
+  {
+    "title": "Intro to Keyframe Animation",
+    "description": "",
+    "children": [
+      {
+        "title": "Intro to Keyframe Animation",
+        "description": "In this tutorial, you’ll learn the basics of keyframe animation in DaVinci Resolve. Keyframes let you add movement to video elements like position, scale, and opacity, helping you create more dynamic and engaging compositions.",
+        "tutorialEmbedCode": "https://www.iorad.com/player/2600761/DaVinci-Resolve-8--Intro-to-Keyframe-Animation?src=iframe&oembed=1"
       }
     ]
   }
