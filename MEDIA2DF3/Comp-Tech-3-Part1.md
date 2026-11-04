@@ -984,7 +984,7 @@ SUB-SECTION C
 
 <div class="section-content" markdown="1">
 
-Create the photomontage in Adobe Photoshop using photographs, textures, image fragments, and graphic elements.
+Create the photomontage in Adobe Photoshop using photographs, textures, image fragments, and graphic elements. The recommendation is to **use 3-5 elements (including at least one original photography)**.
 
 The final composition must include **at least one original photograph taken specifically for this activity**.
 
