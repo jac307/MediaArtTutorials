@@ -128,17 +128,17 @@ All team members must contribute meaningfully to the research, presentation, and
 
 #### Week 10-A
 
-**Reading 1:** Rodríguez, J. M. (2003). [“Divas, Atrevidas, y Entendidas: An Introduction.”](readings/Reading-W11a-1.pdf){:target="_blank"} In *Queer Latinidad: Identity Practices, Discursive Spaces* (pp. 1–36). New York University Press.
+**Reading 1:** Rodríguez, J. M. (2003). [“Divas, Atrevidas, y Entendidas: An Introduction.”](readings/Reading-W10a-1.pdf){:target="_blank"} In *Queer Latinidad: Identity Practices, Discursive Spaces* (pp. 1–36). New York University Press.
 
-**Reading 2:** Muñoz, J. E. (1999). [“Introduction: Performing Disidentifications.”](readings/Reading-W11a-2.pdf){:target="_blank"} In *Disidentifications: Queers of Color and the Performance of Politics* (pp. 1–34). University of Minnesota Press.
+**Reading 2:** Muñoz, J. E. (1999). [“Introduction: Performing Disidentifications.”](readings/Reading-W10a-2.pdf){:target="_blank"} In *Disidentifications: Queers of Color and the Performance of Politics* (pp. 1–34). University of Minnesota Press.
 
 **Artist and artwork:** Carmelita Tropicana/Alina Troyano [Cuba–USA], *Your Kunst Is Your Waffen* (1994)
 
 #### Week 10-B
 
-**Reading 1:** Stryker, S. (1994). [“My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.”](readings/Reading-W11b-1.pdf){:target="_blank"} *GLQ: A Journal of Lesbian and Gay Studies, 1*(3), 237–254.
+**Reading 1:** Stryker, S. (1994). [“My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage.”](readings/Reading-W10b-1.pdf){:target="_blank"} *GLQ: A Journal of Lesbian and Gay Studies, 1*(3), 237–254.
 
-**Reading 2:** Buolamwini, J., & Gebru, T. (2018). [“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.”](readings/Reading-W11b-2.pdf){:target="_blank"} *Proceedings of Machine Learning Research, 81*, 77–91.
+**Reading 2:** Buolamwini, J., & Gebru, T. (2018). [“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.”](readings/Reading-W10b-2.pdf){:target="_blank"} *Proceedings of Machine Learning Research, 81*, 77–91.
 
 **Artists and artwork:** Jake Elwes in collaboration with Me The Drag Queen [UK], *Zizi & Me* (2020)
 
