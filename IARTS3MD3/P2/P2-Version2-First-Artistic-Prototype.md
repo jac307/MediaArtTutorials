@@ -115,7 +115,7 @@ The revised sketch should help the group plan production. It does not need to pr
 
 Include a short text description of its important elements and relationships plus credits.
 
-> > **AI-generated sketches are not permitted from this stage onward.** Your sketches must accurately represent your group's specific project, including its planned elements, structure, and use of technology.
+> **AI-generated sketches are not permitted from this stage onward.** Your sketches must accurately represent your group's specific project, including its planned elements, structure, and use of technology.
 
 #### <span class="step-label">Step 5:</span> Add Proposal Iteration 3 to Webador
 
