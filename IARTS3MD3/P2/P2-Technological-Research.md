@@ -5,7 +5,9 @@
 # Technological Research
 
 **Work format:** Groups of 3–4, with individual experimentation. 
-**Submission:** Each student submits one individual research-notes PDF. Each group submits one collaborative iteration and technology notes PDF, completes the **Artistic Responses** section on Webador (Iteration 2), and submits one Pecha Kucha presentation slide.  
+
+**Submission:** Each student submits one individual research-notes PDF. Each group submits one collaborative iteration and technology notes PDF, completes the **Artistic Responses** section on Webador (Technological Research), and submits one Pecha Kucha presentation slide.  
+
 **Presentation length:** One minute
 
 ## Goal
@@ -31,7 +33,6 @@ Do not try to complete all of the requirements at once. Each stage builds on the
 **Start with Stage 1 and complete each step before moving to the next stage.** Use the checklists and **Before moving on** prompts to confirm that you have completed the required work.
 
 ---
-
 
 <details class="tutorial-section" id="plan-and-learn">
   <summary>
