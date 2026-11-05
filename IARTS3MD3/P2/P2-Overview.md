@@ -17,9 +17,9 @@ Your group will document its process on its **existing Webador page under Artist
 
 - [Version 1: Artist or Collective Inspiration and Concept Proposal](P2-Version1-Artist-Inspiration-Concept-Proposal.md)
 - [Technological Research](P2-Technological-Research.md)
+- [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
 
 <!-- 
-- [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
 - [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
 - [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 - [Final Submission](P2-Final.md)
