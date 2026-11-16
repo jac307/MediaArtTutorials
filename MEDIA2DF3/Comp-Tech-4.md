@@ -11,11 +11,11 @@
 
 ## Goal
 
-Design and create **four expressive typographic compositions** based on two selected words. For each word, create one **positive** and one **negative** version that visually communicates its meaning through the manipulation of letterforms.
+Design and create **two expressive typographic compositions** based on a selected word. Create one **positive** and one **negative** version that visually communicates its meaning through the manipulation of letterforms.
 
 The activity builds on **Bruno Munari’s** ideas in *The Shape of Words* and concepts developed throughout Composition Techniques I–III.
 
-Each word pair must combine:
+Your composition must combine:
 
 - **One selected word** + **One clear concept** that guides the manipulation of the letterforms
 - **One Wong principle:** repetition, similarity, gradation, anomaly, concentration, and contrast
@@ -25,18 +25,11 @@ Each word pair must combine:
 ## Activity overview
 
 - **Learning Test:** One tutorial recreation
-- **Final compositions:** Four
-- **Words:** Two
+- **Words:** One
+- **Final compositions:** Two
 - **Versions per word:** One positive + one negative
 - **Software:** Adobe Illustrator
 - **Optional image processing:** Adobe Photoshop
-
-## Accessibility and learning support
-
-- The written instructions on this page contain the required steps. The embedded video provides an additional demonstration.
-- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
-- Do not rely on colour alone to distinguish the positive and negative versions; use figure–ground, shape, structure, or another visible difference.
-- If sketching, manipulating letterforms, using Illustrator, or completing another required process creates an access barrier, contact the instructor to arrange an alternative method that demonstrates the same learning outcomes.
 
 ## Complete the activity in four stages
 
@@ -85,7 +78,7 @@ Consider how you can manipulate:
 
 ![Maurits Cornelis Escher (1898-1972) examples](imgs/escher.png)
 
-For this activity, each word must be developed into both a **positive** and a **negative** typographic composition.
+For this activity, the word must be developed into both a **positive** and a **negative** typographic composition.
 
 | Version | Approach |
 |---|---|
@@ -100,9 +93,7 @@ The positive and negative versions should clearly belong to the **same conceptua
 
 #### Wong principles
 
-Select **one Wong principle for each word**.
-
-You may select from principles explored in previous Composition Techniques activities:
+Select **one Wong principle**.
 
 <div class="single-column-principles">
 
@@ -208,9 +199,7 @@ You may select from principles explored in previous Composition Techniques activ
 
 #### Gestalt principles
 
-Select **one Gestalt principle for each word**.
-
-You may use principles explored in previous activities, including:
+Select **one Gestalt principle**.
 
 ![Gestalt Principles](imgs/gestalt-principles.png)
 
@@ -294,21 +283,17 @@ SECTION 3
 
 <details class="tutorial-section" id="select-the-words-and-sketch-the-four-compositions">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3: Select the words and sketch the four compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Select the word and sketch your compositions.</span>
     <span class="section-description">
-      Choose two words, assign previous composition principles, and plan one positive and one negative version of each word.
+      Choose a word, assign previous composition principles, and plan one positive and one negative version of each word.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-#### Select two words
+#### Select one word
 
-Choose **two different words** that can be explored visually through typography.
-
-Select words with enough conceptual possibilities to support substantial manipulation of their letterforms.
-
-Consider:
+Choose **a word** that can be explored visually through typography. Select something with enough conceptual possibilities to support substantial manipulation of their letterforms. Consider:
 
 - Action
 - Movement
@@ -326,7 +311,7 @@ Consider:
 
 > Avoid choosing a word only because it is easy to illustrate literally. Select a word that allows for creative experimentation, conceptual development, and original typographic solutions. Creativity and originality will be part of the grade.
 
-For each word, identify:
+Identify:
 
 1. Its meaning.
 2. The visual characteristics associated with that meaning.
@@ -334,26 +319,18 @@ For each word, identify:
 4. One **Gestalt principle**.
 5. The **colour approach**, including the intended palette, contrast, mood, and relationship between positive and negative space.
 
-Use a different Wong and Gestalt principle for each word.
-
-#### Create four planning sketches
+#### Create two planning sketches
 
 Create:
 
 1. **Word 1 — Positive**
 2. **Word 1 — Negative**
-3. **Word 2 — Positive**
-4. **Word 2 — Negative**
 
-The sketches may be created by hand or digitally.
-
-They do not need to be polished, but the typographic structure and written annotations must be clear.
+> The sketches may be created by hand or digitally. They do not need to be polished, but the typographic structure and written annotations must be clear.
 
 Save the completed sketch document as:
 
 - **Format:** PDF
-- **Pages:** 2
-- **Order:** (1st Page) Word 1 Positive, Word 1 Negative, (2nd Page) Word 2 Positive, Word 2 Negative
 - **Filename:** `Lastname-Firstname-CompTech4-Sketches.pdf`
 
 Ask the instructor for feedback before beginning the final digital compositions.
@@ -369,9 +346,9 @@ SECTION 4
 
 <details class="tutorial-section" id="create-the-four-typographic-compositions">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 4: Create the four typographic compositions</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Create the two typographic compositions</span>
     <span class="section-description">
-      Create one positive and one negative composition for each word while applying the assigned Wong principle, Gestalt principle, and colour approach.
+      Create one positive and one negative composition while applying the assigned Wong principle, Gestalt principle, and colour approach.
     </span>
   </summary>
 
@@ -379,9 +356,7 @@ SECTION 4
 
 ##### Document setup
   
-Create **two Illustrator files**, one for each word.
-      
-Each Illustrator file must contain **two artboards**:
+Create **one Illustrator file** that contains both versions using **two artboards**:
 
 - Artboard 1 — Positive version
 - Artboard 2 — Negative version
@@ -401,9 +376,8 @@ Each Illustrator file must contain **two artboards**:
 | Guides | Inner rectangular border 0.5 in from the edges |
 | Layers | Guides, Composition, Background |
 
-**File Names**
+**File Name**
 - `Lastname-Firstname-CompTech4-1.ai`
-- `Lastname-Firstname-CompTech4-2.ai`
 
 ##### Required layers
 
@@ -464,13 +438,7 @@ Redesign the same word through **negative space** and figure–ground relationsh
 
 > The negative version must be **redesigned**, not created by simply reversing or inverting the positive version.
 
-###### Word 2
-
-Repeat the same process using a **different Wong and Gestalt principle combination** and a colour approach developed for Word 2.
-
-The positive and negative versions should belong to the same conceptual system while presenting different figure–ground solutions.
-
-##### Across all four compositions
+##### Across both compositions
 
 Consider:
 
@@ -483,16 +451,16 @@ Consider:
 - **Visual direction:** Does the composition guide the viewer's eye?
 - **Consistency:** Do the positive and negative versions clearly belong to the same word system?
 
-##### Export the two word pairs
+##### Export
 
-Export **one PDF for each word**.
+Export **one PDF**.
 
 Save as:
 
 - `Lastname-Firstname-CompTech4-1.pdf`
 - `Lastname-Firstname-CompTech4-2.pdf`
 
-When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**.
+When saving the PDFs, enable **Preserve Illustrator Editing Capabilities**. If you used/imported images, don't forget to embed them. 
 
 ##### Final file check
 
@@ -521,9 +489,8 @@ Open each submitted PDF twice:
 | Item | Required filename |
 |---|---|
 | Learning Test PDF | `Lastname-Firstname-CompTech4-LearningTest.pdf` |
-| Four planning sketches | `Lastname-Firstname-CompTech4-Sketches.pdf` |
+| Two planning sketches | `Lastname-Firstname-CompTech4-Sketches.pdf` |
 | Word 1 — Positive + Negative | `Lastname-Firstname-CompTech4-1.pdf` |
-| Word 2 — Positive + Negative | `Lastname-Firstname-CompTech4-2.pdf` |
 
 Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing files, unchanged letterforms, simple colour inversion instead of a redesigned negative composition, missing principles, unembedded images, flattened PDFs, or incomplete document setup will affect the grade.
 
