@@ -60,9 +60,7 @@ To access the booking system:
 - [Composition Techniques II](Comp-Tech-2.md)
 - [Composition Techniques III – Part 1](Comp-Tech-3-Part1.md)
 - [Composition Techniques III – Part 2](Comp-Tech-3-Part2.md)
-
-<!-- 
-- [Composition Techniques IV](Comp-Tech-4.md) -->
+- [Composition Techniques IV](Comp-Tech-4.md)
 
 ---
 
