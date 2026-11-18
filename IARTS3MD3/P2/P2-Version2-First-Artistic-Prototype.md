@@ -6,7 +6,7 @@
 
 **Work format:** Groups of 3–4, with individual production responsibilities and documentation.
 
-**Submission:** Each group updates the **Iteration 3** and **First Artistic Prototype** sections on Webador, and submits one shared online production document link (including individual contributions and prototype documentation).
+**Submission:** Each group updates the **Iteration 3 - Revised Proposal** and **Version 2: First Artistic Prototype** sections on Webador, and submits one shared online production document link (including individual contributions and prototype documentation).
 
 **Presentation length:** One minute.
 
@@ -537,7 +537,7 @@ Confirm that the media link:
 
 #### <span class="step-label">Step 4:</span> Update the Webador profile
 
-Open the selected artist or collective's Webador page. At the end of the page, locate the empty section prepared for this version. Use the heading: **First Artistic Prototype**
+Open the selected artist or collective's Webador page. At the end of the page, locate the empty section prepared for this version. Use the heading: **Version 2: First Artistic Prototype**
 
 Include:
 
@@ -556,21 +556,6 @@ Presentations will take place without questions or class feedback.
 
 **You do not need to create or submit a presentation slide.** The group's Webador page will be displayed during the presentation.
 
-##### Prepare the Webador section for presentation
-
-Before the lecture, confirm that the **First Artistic Prototype: Version 1** section clearly communicates:
-
-- The working title of the project
-- **Research-Creation Proposal: Iteration 3**, summarized through the project's current direction
-- Images documenting the complete prototype
-- A detail or example showing how the unfamiliar technology or technique is used
-- What works in the current version
-- The main element that needs further development
-
-Use the existing **100–150-word work-in-progress description**, prototype images, captions, and embedded media to support the presentation.
-
-Do not create additional presentation materials.
-
 ##### Prepare the one-minute explanation
 
 Choose one speaker who did not present during **Version 1** or the **Technological Research**.
@@ -588,12 +573,11 @@ The presentation must not exceed **one minute**.
 
 ##### Check the Webador page before presenting
 
+- [ ] The **Iteration 3 - Revised Proposal** section is complete and published.
 - [ ] The **First Artistic Prototype: Version 1** section is complete and published.
-- [ ] The work-in-progress description accurately reflects the current prototype.
-- [ ] The prototype images are clearly visible and include captions and alt text.
+- [ ] The work-in-progress description and images accurately reflects the current prototype.
 - [ ] Any embedded media can be opened without requesting access.
 - [ ] The group has selected a speaker.
-- [ ] The presentation has been rehearsed to fit within one minute.
 
 > **No separate slide or presentation file is required.** The instructor will display the group's Webador section during the presentation.
 
@@ -609,7 +593,7 @@ One group member must submit the **shared online production document link** thro
 
 | Item | File or requirement | Submission responsibility |
 |---|---|---|
-| Webador: Research-Creation Proposal | **Project 2: Iteration 3** on your group's existing page under **Artistic Responses** with proposal and sketch | All review; one member updates |
+| Webador: Research-Creation Proposal | **Iteration 3 - Revised Proposal** on your group's existing page under **Artistic Responses** with proposal and sketch | All review; one member updates |
 | Webador: First Artistic Prototype | **Project 2: First Artistic Prototype**, with description and gallery | All review; one member updates |
 | Shared online production document | `P2-Version2-Group#-First-Artistic-Prototype`, including Group Planning, individual member sections, and prototype documentation | **One member submits the link** through Avenue to Learn |
 
@@ -617,7 +601,7 @@ Replace `#` with the assigned group number.
 
 ### Before submitting: Final checklist
 
-- [ ] The group's **Artistic Responses** Webador page includes all required **Iteration 3**.
+- [ ] The group's **Artistic Responses** Webador page includes all required **Iteration 3 - Revised Proposal**.
 - [ ] The **shared online production document (Stages 2–4)** includes all required sections, group members’ names and student numbers, the production plan, individual contributions, dated process notes, and prototype documentation.
 - [ ] The group's **Artistic Responses** Webador page includes all required **First Artistic Prototype**.
 
