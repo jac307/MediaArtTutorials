@@ -121,7 +121,7 @@ Include a short text description of its important elements and relationships plu
 
 After completing the revised proposal and concept sketch, update the selected artist or collective's Webador page.
 
-At the end of the page, locate the designated section prepared for this version. Use the heading: **Iteration 3**
+At the end of the page, locate the designated section prepared for this version. Use the heading: **Iteration 3 - Revised Proposal**
 
 Include:
 
@@ -133,7 +133,7 @@ Include:
 
 Do not upload the review notes or proposal iteration map to Webador. These are working materials and should remain in the group prototype document.
 
-> **Before moving on:** The group has reviewed the Technological Research, completed the proposal iteration map, written the revised 250–350-word proposal, updated the concept sketch, and added **Research-Creation Proposal: Iteration 3** to Webador.
+> **Before moving on:** The group has reviewed the Technological Research, completed the proposal iteration map, written the revised 250–350-word proposal, and updated the concept sketch under **Iteration 3 - Revised Proposal** in Webador.
 
 </div>
 </details>
