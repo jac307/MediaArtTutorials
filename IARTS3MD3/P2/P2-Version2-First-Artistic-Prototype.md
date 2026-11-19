@@ -18,14 +18,11 @@ Use the findings from the Technological Research to revise the project direction
 
 ## Division of labour
 
-Every member must contribute directly to the development and production of the first artistic prototype.
+Every member must contribute directly to the development and production of the first artistic prototype by working in the following activities:
 
-| Member | Proposal contribution | Production responsibility | Technology use | Documentation |
-|---|---|---|---|---|
-| Member 1 | Assigned revision or decision | Assigned component | How the technology will be used | Assigned process or prototype evidence |
-| Member 2 | Assigned revision or decision | Assigned component | How the technology will be used | Assigned process or prototype evidence |
-| Member 3 | Assigned revision or decision | Assigned component | How the technology will be used | Assigned process or prototype evidence |
-| Member 4, if applicable | Assigned revision or decision | Assigned component | How the technology will be used | Assigned process or prototype evidence |
+| Proposal contribution | Production responsibility | Technology use | Documentation |
+|---|---|---|---|
+| Assigned revision or decision | Assigned component | How the technology will be used | Assigned process or prototype evidence |
 
 > Dividing the project into isolated components without sharing, combining, and reviewing the work does not meet the collaborative requirement.
 

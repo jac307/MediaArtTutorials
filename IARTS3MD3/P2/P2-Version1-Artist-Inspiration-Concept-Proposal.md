@@ -16,19 +16,11 @@ Establish the first direction for the Research-Creation Project. Select an artis
 
 ## Division of labour
 
-Every member must contribute to the artistic research, academic research, technology selection, and concept development.
+Every member must contribute to the artistic research, academic research, technology selection, and concept development by completling these activities:
 
-| Member | Artistic research | Academic research | Technology selection | Concept development |
-
-|---|---|---|---|---|
-
-| Member 1 | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-| Member 2 | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-| Member 3 | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
-
-| Member 4, if applicable | One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
+| Artistic research | Academic research | Technology selection | Concept development |
+|---|---|---|---|
+| One artwork or project | One source from the Webador annotated bibliography + one new course reading | Assigned access, feasibility, or learning consideration | Assigned proposal or concept-sketch contribution |
 
 > Do not divide the project into isolated sections. Individual findings must be shared, discussed, and used to make collective decisions.
 
