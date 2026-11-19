@@ -6,7 +6,7 @@
 
 **Work format:** Groups of 3–4 and whole-class participation
 
-**Goal:** Present **Artistic Prototype: Version 2**, examine how the artwork communicates its artistic and research direction, and gather specific feedback to guide the next stage of development.
+**Goal:** Present **Artistic Prototype No.2**, examine how the artwork communicates its artistic and research direction, and gather specific feedback to guide the next stage of development.
 
 Each group will introduce its project and **state the feedback it wants from the class**, then present or provide an opportunity to experience the prototype. Classmates will respond with observations, questions, and constructive suggestions.
 
@@ -14,19 +14,17 @@ Each group will introduce its project and **state the feedback it wants from the
 
 ## Session timing
 
-There are **10 groups**. Each group should plan for **10 minutes**, with a **minimum planned allocation of 8 minutes** and an **absolute maximum of 15 minutes**. The time used will depend on the artwork and the discussion.
+Each group should plan for **9 minutes**, with a **minimum planned allocation of 7 minutes** and an **absolute maximum of 13 minutes**. The time used will depend on the artwork and the discussion.
 
 | Activity | Suggested time |
 |---|---:|
-| Introduce the project, research connections, and feedback request | 2 minutes |
+| Introduce the project, research connections, and feedback request | 1 minute |
 | Present or allow the class to experience the artwork | 5 minutes |
 | Questions, comments, and feedback | 3 minutes |
-| **Target per group** | **10 minutes** |
-| **Absolute maximum per group, including setup and transition** | **15 minutes** |
+| **Target per group** | **9 minutes** |
+| **Absolute maximum per group, including setup and transition** | **13 minutes** |
 
-The suggested times are flexible, but **the total cannot exceed 15 minutes**. Plan enough time for questions and feedback. Do not use the entire block to explain or demonstrate the artwork.
-
-The scheduled class is **8:30–11:20 a.m. (170 minutes)**. Ten groups at the 15-minute maximum would use 150 minutes, leaving **20 minutes total** for opening instructions, transitions, a break, and closing remarks. Groups must be ready before their turn; the instructor will manage the order and timing.
+> Plan enough time for questions and feedback. Do not use the entire block to explain or demonstrate the artwork.
 
 ## Division of labour
 
@@ -37,7 +35,7 @@ All members must understand the project, participate in preparation, and review 
 | Presenters | 2 | 2 | Introduce the project, state the feedback request, and present or facilitate the artwork |
 | Feedback note-takers | 1 | 2 | Record audience observations, questions, recommendations, and disagreements |
 
-Presenters and note-takers may contribute to the discussion, but the assigned roles must be covered. If a role or presentation method creates an access barrier, contact the instructor in advance to arrange an equivalent way to participate.
+> Presenters and note-takers may contribute to the discussion, but the assigned roles must be covered. If a role or presentation method creates an access barrier, contact the instructor in advance to arrange an equivalent way to participate.
 
 ## Read and complete the instructions step by step
 
@@ -46,9 +44,8 @@ Presenters and note-takers may contribute to the discussion, but the assigned ro
 ---
 
 <details class="tutorial-section" id="plan-critique">
-
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 1: Plan the critique and identify the feedback you need</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Plan the activity and identify the feedback you need</span>
     <span class="section-description">
       Review Prototype Version 2, decide what the class should experience, and prepare a focused feedback request.
     </span>
@@ -56,9 +53,9 @@ Presenters and note-takers may contribute to the discussion, but the assigned ro
 
 <div class="section-content" markdown="1">
 
-#### <span class="step-label">Step 1:</span> Review Artistic Prototype: Version 2
+#### <span class="step-label">Step 1:</span> Review Artistic Prototype No.2
 
-As a group, review:
+Before this class/activity, review:
 
 - **Research-Creation Proposal: Iteration 3**
 - **Artistic Prototype: Version 2**

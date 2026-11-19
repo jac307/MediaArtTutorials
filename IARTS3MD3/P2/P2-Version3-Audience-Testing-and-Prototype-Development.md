@@ -231,13 +231,13 @@ Create one group PDF containing all notes, observations, findings, and revision 
 
 Include the following sections in order:
 
-##### 1.Cover information
+#### 1.Cover information
 - [ ] Representative Image
 - [ ] Project working title
 - [ ] Version title
 - [ ] Full names and student numbers of all group members
 
-##### 2.Audience test
+#### 2.Audience test
 - [ ] Date and format of the test
 - [ ] Number of participants
 - [ ] Questions the group wanted to investigate
@@ -245,7 +245,7 @@ Include the following sections in order:
 - [ ] Summary of audience responses
 - [ ] Relevant documentation
 
-##### 3.Prototype findings
+#### 3.Prototype findings
 - [ ] Completed prototype-analysis table
 - [ ] Differences between the group’s intentions and the audience’s experience
 - [ ] Three strongest elements to retain
@@ -254,18 +254,18 @@ Include the following sections in order:
 - [ ] Missing instructions, context, accessibility supports, or materials
 - [ ] Elements that should be reduced, revised, replaced, or removed
 
-##### 4.Revision and production plan
+#### 4.Revision and production plan
 - [ ] Completed prioritized-change table
 - [ ] Responsibilities assigned to each group member
 - [ ] Evidence used to confirm that each required change was completed
 - [ ] Explanation of any element removed or reduced because it could not be completed responsibly
 
-##### 5.Artistic Prototype: Version 2
+#### 5.Artistic Prototype: Version 2
 - [ ] Instructions for accessing the work
 - [ ] Three to five documentation images
 - [ ] Brief list of elements that still require refinement after the prototype critique
 
-##### 6.References and credits
+#### 6.References and credits
 - [ ] Academic and artistic sources
 - [ ] Media, software, datasets, tools, and external materials
 - [ ] Image and artwork credits
