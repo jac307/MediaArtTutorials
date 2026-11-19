@@ -175,8 +175,8 @@ Rehearse the excerpt, demonstration, performance, or guided interaction. Confirm
 - [ ] All required equipment, files, materials, and accessibility supports are prepared.
 - [ ] We tested the presentation and prepared a backup.
 
-\</div>
-\</details>\</escape>
+</div>
+</details>
 
 
 
