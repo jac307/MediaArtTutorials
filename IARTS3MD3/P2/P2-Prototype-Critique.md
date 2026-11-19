@@ -129,6 +129,7 @@ Include a short link or QR code to the prototype when useful.
 </div>
 </details>
 
+---
 
 <details class="tutorial-section" id="during-class-critique">
   <summary>
