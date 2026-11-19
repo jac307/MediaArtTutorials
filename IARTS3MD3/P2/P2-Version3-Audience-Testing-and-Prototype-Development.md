@@ -7,15 +7,15 @@
 
 **Work format:** Groups of 3–4
 
-**Submission:** Each group submits one group findings PDF through Avenue to Learn. Each group also completes the **Version 3: Second Artistic Prototype** section on Webador with a 150–250-word explanation of changes and new work-in-progress documentation.
+**Submission:** Each group submits one group findings PDF through Avenue to Learn. Each group also completes the **Version 3: Second Artistic Prototype** section on Webador.
 
-**Presentation length:** Two minutes, followed by a prototype demonstration or guided experience of up to ten minutes during the next class's prototype critique session. Prepare no more than three slides.
+**Important:** Read the complete [Prototype Critique and Feedback Session](P2-Prototype-Critique.md) instructions in preparation for next class.
 
 ## Goal
 
 Analyze the first artistic prototype from the audience’s perspective, determine whether the artistic decisions are clear and supported by the research, and identify the changes required for the next version. Use the findings to produce **Version 3: Second Artistic Prototype**, ready to share during the prototype critique.
 
-> This is still a work-in-progress stage. Prototype 2 must contain the required materials and replace the placeholders used in the first one, but it may still require refinement after the prototype critique.
+> This is still a work-in-progress stage. Prototype No.2 must contain the required materials and replace the placeholders used in the first one, but it may still require refinement before the final submission.
 
 ## Division of labour
 
@@ -37,7 +37,7 @@ Do not try to complete all of the requirements at once. Each stage builds on the
 
 <details class="tutorial-section" id="test-and-analyze-prototype">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">1. Test and analyze the first prototype\</span>
+    <span class="section-title" role="heading" aria-level="3">1. Test and analyze the first prototype</span>
     <span class="section-description">
       Observe how people encounter the prototype, compare their responses with the group’s intentions and research, and identify the changes required for the next version.
     </span>
@@ -46,8 +46,6 @@ Do not try to complete all of the requirements at once. Each stage builds on the
 <div class="section-content" markdown="1">
 
 #### <span class="step-label">Step 1:</span> Prepare the first prototype for an audience testing
-
-Use **First Artistic Prototype: Version 1** for the test.
 
 Before beginning:
 
@@ -58,11 +56,11 @@ Before beginning:
 - Obtain consent before photographing, recording, quoting, or identifying a participant.
 - Do not collect personal information that is unnecessary for the activity.
 
+Ask **at least two people who are not members of the group** to experience the prototype and meet with them together or individually.
+
 #### <span class="step-label">Step 2:</span> Complete the audience test
 
-Ask **at least two people who are not members of the group** to experience the prototype.
-
-Complete one uninterrupted viewing, run-through, or interaction before asking questions. Do not provide interpretive context or explain the project beforehand. Provide only the instructions necessary to experience the work safely and as intended.
+**Complete one uninterrupted viewing, run-through, or interaction** before asking questions. Do not provide interpretive context or explain the project beforehand. Provide only the instructions necessary to experience the work safely and as intended.
 
 After each participant experiences the work, ask:
 
@@ -73,7 +71,7 @@ After each participant experiences the work, ask:
 5. Was anything confusing, disconnected, inaccessible, or unnecessary?
 6. What would you want to experience more clearly or fully?
 
-Record the main responses accurately. A brief summary is sufficient; a full transcript is not required.
+> Record the main responses accurately. A brief summary is sufficient; a full transcript is not required.
 
 #### <span class="step-label">Step 3:</span> Document the audience test
 
@@ -88,7 +86,7 @@ Include the following in the group findings PDF:
 
 #### <span class="step-label">Step 4:</span> Analyze the prototype and audience findings
 
-Complete the following table using specific evidence.
+Complete the following table using specific evidence and add it to your PDF.
 
 | Area | Intended direction | Evidence from the prototype and audience test | Finding | Required change |
 |---|---|---|---|---|
@@ -111,11 +109,11 @@ Do not revise the project simply because one participant interpreted it differen
 - The artistic choices contradict the intended concept
 - The research connection exists in the proposal but is not present in the work
 
-The goal is not to eliminate ambiguity or require one correct interpretation. The goal is to make the project’s structure, context, and artistic decisions intentional enough to support meaningful audience engagement.
+> The goal is not to eliminate ambiguity or require one correct interpretation. The goal is to make the project’s structure, context, and artistic decisions intentional enough to support meaningful audience engagement.
 
 #### <span class="step-label">Step 6:</span> Identify the central findings
 
-After completing the table, identify:
+Before the next stage, identify:
 
 - The three strongest elements to retain
 - The three most important problems to address
@@ -126,8 +124,6 @@ After completing the table, identify:
 - Any part of the scope that should be reduced rather than rushed
 
 > Support each finding with evidence from the prototype, audience test, or research.
-
-Include the completed table and central findings in the group findings PDF.
 
 </div>
 </details>
