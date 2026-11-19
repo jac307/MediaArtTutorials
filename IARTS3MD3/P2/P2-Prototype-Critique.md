@@ -162,6 +162,8 @@ The instructor will manage the timing:
 
 > **If your group requires additional setup time, you must contact the instructor before class** to discuss the equipment, space, or technical arrangements needed. Do not assume additional setup time will be available during your presentation.
 
+---
+
 #### <span class="step-label">Receive questions and feedback</span>
 
 Allow approximately **three minutes** for questions and class discussion.
@@ -175,6 +177,8 @@ The presenting group should:
 - Avoid using the feedback period for a second presentation.
 
 The group's note-taker or note-takers must record important observations, questions, recommendations, disagreements, and possible revisions.
+
+---
 
 #### <span class="step-label">Participate in the critique of other projects</span>
 

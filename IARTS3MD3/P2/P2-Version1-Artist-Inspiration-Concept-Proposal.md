@@ -4,8 +4,10 @@
 
 # Version 1: Artist or Collective Inspiration and Concept Proposal
 
-**Work format:** Groups of 3–4, with individual research notes
-**Submission:** One individual research-notes PDF per student, one collaborative iteration and technology notes PDF, one completed **Artistic Responses** Webador page (Iteration 1), and submits one Pecha Kucha presentation slide. 
+**Work format:** Groups of 3–4, with individual research notes. 
+
+**Submission:** One individual research-notes PDF per student, one collaborative iteration and technology notes PDF, one completed **Artistic Responses** Webador page (Iteration 1), and submits one Pecha Kucha presentation slide.   
+
 **Presentation length:** One minute
 
 ## Goal
