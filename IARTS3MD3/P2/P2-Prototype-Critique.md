@@ -18,10 +18,10 @@ Each group should plan for **9 minutes**, with a **minimum planned allocation of
 
 | Activity | Suggested time |
 |---|---:|
-| Introduce the project, research connections, and feedback request | 1 minute |
+| Introduce the project, research connections, and feedback request | 2 minutes |
 | Present or allow the class to experience the artwork | 5 minutes |
 | Questions, comments, and feedback | 3 minutes |
-| **Target per group** | **9 minutes** |
+| **Target per group** | **10 minutes** |
 | **Absolute maximum per group, including setup and transition** | **13 minutes** |
 
 > Plan enough time for questions and feedback. Do not use the entire block to explain or demonstrate the artwork.
@@ -39,15 +39,13 @@ All members must understand the project, participate in preparation, and review 
 
 ## Read and complete the instructions step by step
 
-**Prepare in the order below.** Use the checklists and **Before moving on** prompts to confirm that the group is ready.
-
 ---
 
-<details class="tutorial-section" id="plan-critique">
+<details class="tutorial-section" id="prepare-prototype-critique">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 1: Plan the activity and identify the feedback you need</span>
+    <span class="section-title" role="heading" aria-level="3">Before class: Prepare for the Prototype Critique</span>
     <span class="section-description">
-      Review Prototype Version 2, decide what the class should experience, and prepare a focused feedback request.
+      Review Artistic Prototype No.2, identify the feedback your group needs, prepare the slides, assign roles, and rehearse the artwork experience.
     </span>
   </summary>
 
@@ -55,128 +53,145 @@ All members must understand the project, participate in preparation, and review 
 
 #### <span class="step-label">Step 1:</span> Review Artistic Prototype No.2
 
-Before this class/activity, review:
+Before class, review:
 
-- **Research-Creation Proposal: Iteration 3**
-- **Artistic Prototype: Version 2**
-- The audience-testing findings and revisions completed in Version 3
+- **Iteration 3 - Revised Proposal**
+- **Version 2: First Artistic Prototype**
+- **Version 3: Second Artistic Prototype**
+- Audience-testing findings and revisions completed in Version 3
 - Relevant artistic and academic research
-- The specific strategies drawn from, questioned, or extended from the selected artist or collective
-- Any remaining ethical, accessibility, technical, or production concerns
+- Specific strategies drawn from, questioned, or extended from the selected artist or collective
+- Remaining ethical, accessibility, technical, or production concerns
 
-Identify what the prototype currently communicates through its form, materials, technology, structure, and audience experience.
+Discuss what the current prototype communicates through its form, materials, technology, structure, and audience experience.
 
-#### <span class="step-label">Step 2:</span> Decide how the class will experience the work
+#### <span class="step-label">Step 2:</span> Decide how the class will experience the artwork
 
-Choose an excerpt, demonstration, guided interaction, performance, or other presentation method that gives the class a meaningful experience of the artwork.
+Choose an excerpt, demonstration, guided interaction, performance, or another presentation method that allows the class to experience the artwork meaningfully.
 
-Aim for **approximately five minutes**. Adapt the length to the medium and the total group time limit.
+Plan for **approximately five minutes**, adapting the experience to the medium and the group's total time allocation.
 
-The experience should show:
+The experience should demonstrate:
 
 - The main artistic question or EDI concern
 - A meaningful connection to the research and selected artist or collective
 - How the unfamiliar technology or technique functions **within the artwork**
 - The intended audience experience
-- A significant change made after testing Prototype Version 1
+- A significant change made after testing Prototype No.1
 
-If the complete work is longer, explain briefly what happens outside the selected excerpt. For physical, spatial, installation, or interactive projects, prepare a feasible demonstration or guided encounter rather than trying to reproduce an unsuitable format.
+> If the complete artwork is longer than the available time, select a representative excerpt and briefly explain what happens outside it. For physical, spatial, installation, or interactive projects, prepare a feasible demonstration or guided encounter.
 
-> Present the prototype accurately. Do not conceal unresolved problems by substituting a different, more polished presentation-only version.
+#### <span class="step-label">Step 3:</span> Identify the feedback your group needs
 
-#### <span class="step-label">Step 3:</span> Write the feedback request
+Agree on **one or two specific questions** that the group wants the class to address.
 
-Agree on **one specific question** the group wants the class to address. It should concern a design or artistic decision that the group can still investigate or revise.
+Focus on an artistic decision, audience experience, research connection, or unresolved issue that can still be investigated or revised.
 
-For example:
+**Instructor-created example:**
 
-> **Instructor-created example:** “Does the change in projected imagery make the relationship between visitor movement and surveillance clear, or does it read mainly as a visual effect?”
+> "Does the change in projected imagery make the relationship between visitor movement and surveillance clear, or does it read mainly as a visual effect?"
 
-Avoid questions such as “Did you like it?” or “Is it good?”
+Avoid general questions such as "Did you like it?" or "Is it good?"
 
-The presenters **must state the feedback question during the project introduction**, before the artwork is presented. Display it on Slide 3 as well.
+**The presenters must state the feedback question(s) during the project introduction, before presenting the artwork.**
 
-#### <span class="step-label">Step 4:</span> Assign the session roles
+#### <span class="step-label">Step 4:</span> Assign the group roles
 
-Confirm:
+Assign the following responsibilities before class:
 
-- Two presenters who will share the introduction, slides, and artwork presentation
-- One or two note-takers who will document feedback
-- Who will operate equipment, prepare the space, manage media, and restore the room
-- Who will coordinate access instructions and alternative ways to experience important content
+| Role                                     | Responsibility                                                                                                                |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Two presenters**                       | Introduce the project, present the slides, state the feedback questions, and demonstrate or coordinate the artwork experience |
+| **One or two feedback note-takers**      | Record audience observations, questions, recommendations, and disagreements                                                   |
+| **Technical and setup responsibilities** | Prepare equipment, media, materials, access instructions, and the presentation space                                          |
 
-All members should understand the research, current prototype, and feedback request.
+A group of three will have two presenters and one note-taker. A group of four will have two presenters and two note-takers.
 
-> **Before moving on:** The group has selected a meaningful way to present or experience the artwork, agreed on a specific feedback question, and assigned the session roles.
+Technical and setup responsibilities may be shared among these members.
 
-</div>
-</details>
+All members must understand the research, current prototype, and feedback questions. If an assigned role creates an access barrier, contact the instructor in advance to arrange an equivalent participation method.
 
-<details class="tutorial-section" id="prepare-slides">
+#### <span class="step-label">Step 5:</span> Prepare the three-slide presentation
 
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 2: Prepare the slides and presentation</span>
-    <span class="section-description">
-      Create no more than three slides, rehearse the introduction, and prepare an accessible prototype experience.
-    </span>
-  </summary>
+Create **no more than three slides**. The slides should provide context for experiencing the artwork, not reproduce the group findings PDF.
 
-<div class="section-content" markdown="1">
+| Slide                                    | Required content                                                                                                                                                                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Project direction**                 | Working title, names of all members, selected artist or collective, main artistic question or EDI concern, concise explanation of the current direction, and one representative image                                                 |
+| **2. Research and artistic connections** | Two or three relevant research ideas, specific artistic strategies translated, questioned, or extended, one referenced artwork with title, year, caption, and credit, and the artistic role of the unfamiliar technology or technique |
+| **3. Artistic Prototype No.2**           | One or two prototype images, an important audience-testing finding, main changes since Prototype No.1, one unresolved element, and **the specific feedback question(s)**                                                              |
 
-#### <span class="step-label">Step 1:</span> Create the three-slide presentation
+Include a short link or QR code to the prototype when useful.
 
-Create **no more than three slides**. The slides provide context for experiencing the artwork; they should not reproduce the group findings PDF.
-
-| Slide | Required content |
-|---|---|
-| **1. Project direction** | Working title, names of all members, selected artist or collective, main artistic question or EDI concern, concise current direction, and one representative image |
-| **2. Research and artistic connections** | Two or three relevant research ideas, specific artistic strategies being translated/questioned/extended, one referenced artwork with title, year, caption and credit, and the artistic role of the unfamiliar technology or technique |
-| **3. Artistic Prototype: Version 2** | One or two prototype images, an important audience-testing finding, main changes since Version 1, one unresolved element, and **the specific feedback question** |
-
-A short link or QR code to the prototype may be included when useful. Do not include student numbers on slides.
-
-#### <span class="step-label">Step 2:</span> Follow the slide and accessibility requirements
+**Slide and accessibility requirements:**
 
 - Use a 16:9 slide format.
-- Keep text concise, legible, and organized with descriptive headings.
-- Use sufficient text/background contrast; do not rely on colour alone.
-- Avoid placing important text over complex images.
-- Caption and credit referenced artworks and external images.
-- Add alt text or equivalent text descriptions for important images.
-- Provide the slide text, important image descriptions, captions, and credits in speaker notes or a separate accessible text document.
-- Test links and QR codes.
-- Provide captions for video containing speech or meaningful sound, a transcript or equivalent text summary for audio-only material, and text descriptions of important visual or spatial information.
+- Keep text concise and readable.
+- Organize information with clear headings and a logical reading order.
+- Use sufficient contrast between text and background.
+- Do not communicate meaning through colour alone.
+- Avoid placing important text over visually complex images.
+- Include captions and credits for artwork and external images.
+- Provide useful alt text or equivalent descriptions for important images.
+- Make the complete slide text, image descriptions, captions, and credits available in speaker notes or a separate accessible text document.
+- Test links and QR codes before class.
+- Do not include student numbers on the slides.
 
-#### <span class="step-label">Step 3:</span> Rehearse the project introduction
+#### <span class="step-label">Step 6:</span> Rehearse the introduction and artwork experience
 
-Plan an introduction of **approximately two minutes**. The presenters should:
+Plan for a **10-minute target** for the complete group session:
+
+| Activity                                    |    Target time |
+| ------------------------------------------- | -------------: |
+| Project introduction and feedback request   |      2 minutes |
+| Artwork presentation or audience experience |      5 minutes |
+| Questions and feedback                      |      3 minutes |
+| **Total target**                            | **10 minutes** |
+
+The minimum planned allocation is **8 minutes**, and the absolute maximum is **15 minutes**, including questions and feedback.
+
+During the introduction, the presenters must:
 
 1. Identify the artistic question or EDI concern.
-2. Explain the specific connection to the selected artist or collective and the research.
-3. Briefly introduce the current prototype and how the audience will experience it.
-4. **State the exact question or type of feedback the group is seeking.**
+2. Explain the connection to the selected artist or collective and research.
+3. Briefly introduce the prototype and how the audience will experience it.
+4. **State the exact feedback question(s) the group wants the class to address.**
 
-Do not explain how the audience *must* interpret the work. Provide only the context and instructions necessary to encounter it safely and as intended.
+Do not tell the audience how they must interpret the artwork. Provide the context and instructions necessary to experience it safely and as intended.
 
-#### <span class="step-label">Step 4:</span> Rehearse the artwork presentation
+Rehearse the excerpt, demonstration, performance, or guided interaction. Confirm that the class will have an opportunity to experience the artwork rather than only hear a description of it.
 
-Aim for **approximately five minutes** for the artwork experience and **approximately three minutes** for questions and feedback, while planning for a **10-minute total**.
+#### Before class: Final checklist
 
-For an installation, interaction, or performance, rehearse the setup, participant instructions, demonstration, and transition into discussion. The class should experience the artwork rather than only hear a description of it.
+- [ ] We reviewed Artistic Prototype No.2 and the previous research and testing findings.
+- [ ] We selected a meaningful excerpt, demonstration, or audience experience.
+- [ ] We agreed on one or two specific feedback questions.
+- [ ] We assigned two presenters and one or two feedback note-takers.
+- [ ] We prepared no more than three slides.
+- [ ] Our slides include the required research connections, images, credits, and accessible text alternatives.
+- [ ] We rehearsed the introduction, including the feedback request.
+- [ ] We rehearsed the artwork experience and planned for the 10-minute target.
+- [ ] Artistic Prototype No.2 is ready to present or experience.
+- [ ] All required equipment, files, materials, and accessibility supports are prepared.
+- [ ] We tested the presentation and prepared a backup.
 
-If the group needs more than the target time, identify where it can use the available flexibility **without exceeding 15 minutes overall** or eliminating the opportunity for feedback.
+\</div>
+\</details>\</escape>
 
-> **Before moving on:** The three slides are complete, the feedback request is visible and included in the spoken or equivalent introduction, and the group has rehearsed the artwork experience and discussion timing.
 
-</div>
-</details>
+
+
+
+
+
+
+
 
 <details class="tutorial-section" id="setup-present">
-
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3: Prepare the equipment and present the prototype</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3 (during class): Prepare the equipment and present the prototype</span>
     <span class="section-description">
-      Bring Prototype Version 2 and all required materials, verify that the experience works, and present within the assigned time.
+      Bring Prototype No.2 and all required materials, verify that the experience works, and present within the assigned time.
     </span>
   </summary>
 
@@ -184,9 +199,7 @@ If the group needs more than the target time, identify where it can use the avai
 
 #### <span class="step-label">Step 1:</span> Prepare the computer, materials, and backup
 
-**You must bring Artistic Prototype: Version 2 and everything required to present or experience it in class.**
-
-Before class:
+**You must bring Artistic Prototype No.2 and everything required to present or experience it in class.**
 
 - Save the slides and prototype files on the computer the group will use.
 - Open and test the slides, media, software, links, interactions, and accounts.
