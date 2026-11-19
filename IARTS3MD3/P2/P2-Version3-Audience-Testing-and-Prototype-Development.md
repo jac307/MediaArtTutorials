@@ -130,7 +130,7 @@ Before the next stage, identify:
 
 <details class="tutorial-section" id="revise-and-produce">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">2. Plan the revisions and produce Artistic Prototype: Version 2\</span>
+    <span class="section-title" role="heading" aria-level="3">2. Plan the revisions and produce Artistic Prototype: Version 2</span>
     <span class="section-description">
       Turn the findings into prioritized changes, complete the required materials, and prepare a stable work in progress for the prototype critique.
     </span>
@@ -164,17 +164,14 @@ Prototype No.2 must:
 
 - Present the complete current structure of the project
 - Include the materials and content required for the intended artwork
-- Replace the placeholders used in Prototype Version 1
+- Replace the placeholders used in Prototype No.1
 - Integrate the unfamiliar technology or technique into the audience experience
 - Demonstrate a clear and specific relationship to the research
 - Include the instructions required to encounter or operate the work
 - Address the main accessibility, consent, privacy, representation, and safety findings
 - Be stable enough to open, play, perform, install, navigate, or experience during the prototype critique
-- Include a backup plan for essential media, equipment, files, or network access
 
-The prototype may still require refinement in areas such as timing, transitions, visual or sonic treatment, fabrication quality, performance, interface details, or installation design.
-
-> “Work-in-progress” does not mean incomplete assembly. The audience must be able to experience the project’s complete current direction during the prototype critique.
+> The prototype may still require refinement in areas such as timing, transitions, visual or sonic treatment, fabrication quality, performance, interface details, or installation design.
 
 #### <span class="step-label">Step 3:</span> Complete an internal readiness check
 
@@ -196,9 +193,9 @@ Confirm that:
 
 Record any remaining issue and explain how the group will manage it during the prototype critique.
 
-#### <span class="step-label">Step 4:</span> Prepare documentation and access
+#### <span class="step-label">Step 4:</span> Document your Prototype No.2
 
-Include clear instructions for accessing Prototype Version 2 in the group findings PDF.
+Include clear instructions for accessing Prototype No.2 in the group findings PDF.
 
 > For video, animation, sound, performance, interactive, or other time-based work, upload the prototype documentation to YouTube or Vimeo and provide the accessible link. The media may be unlisted but must remain accessible without requiring the instructor to request permission. Videos must include captions. Audio-only material must include a transcript or an equivalent text summary.
 
@@ -221,69 +218,69 @@ Each image must include:
 
 <details class="tutorial-section" id="prepare-findings-webador-poster">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">3. Prepare the findings PDF, update Webador, and prepare for the critique\</span>
+    <span class="section-title" role="heading" aria-level="3">3. Prepare the findings PDF and update Webador</span>
     <span class="section-description">
-      Submit the complete testing and revision notes, document Prototype Version 2 on Webador, and prepare for the prototype critique.
+      Submit the complete testing and revision notes and document Prototype No.2 on Webador
     </span>
   </summary>
 <div class="section-content" markdown="1">
-
 
 #### <span class="step-label">Step 1:</span> Prepare the group findings PDF
 
 Create one group PDF containing all notes, observations, findings, and revision decisions produced during this version.
 
-##### Organize the PDF
-
 Include the following sections in order:
 
-1. **Cover information**
-   - Course code
-   - Project and version title
-   - Group number
-   - Full names and student numbers of all group members
-   - Project working title
-2. **Audience test**
-   - Date and format of the test
-   - Number of participants
-   - Questions the group wanted to investigate
-   - Observation notes
-   - Summary of audience responses
-   - Relevant documentation when appropriate
-3. **Prototype findings**
-   - Completed prototype-analysis table
-   - Differences between the group’s intentions and the audience’s experience
-   - Three strongest elements to retain
-   - Three most important problems to address
-   - Research connections that need to become clearer or more precise
-   - Missing instructions, context, accessibility supports, or materials
-   - Elements that should be reduced, revised, replaced, or removed
-4. **Revision and production plan**
-   - Completed prioritized-change table
-   - Responsibilities assigned to each group member
-   - Evidence used to confirm that each required change was completed
-   - Explanation of any element removed or reduced because it could not be completed responsibly
-5. **Artistic Prototype: Version 2**
-   - Instructions for accessing the work
-   - Three to five documentation images
-   - Brief list of elements that still require refinement after the prototype critique
-6. **References and credits**
-   - Academic and artistic sources
-   - Media, software, datasets, tools, and external materials
-   - Image and artwork credits
-   - Consent or permission information when required
+##### 1.Cover information
+[] Representative Image
+[] Project working title
+[] Version title
+[] Full names and student numbers of all group members
+
+##### 2.Audience test
+[] Date and format of the test
+[] Number of participants
+[] Questions the group wanted to investigate
+[] Observation notes
+[] Summary of audience responses
+[] Relevant documentation
+
+##### 3.Prototype findings
+[] Completed prototype-analysis table
+[] Differences between the group’s intentions and the audience’s experience
+[] Three strongest elements to retain
+[] Three most important problems to address
+[] Research connections that need to become clearer or more precise
+[] Missing instructions, context, accessibility supports, or materials
+[] Elements that should be reduced, revised, replaced, or removed
+
+##### 4.Revision and production plan
+[] Completed prioritized-change table
+[] Responsibilities assigned to each group member
+[] Evidence used to confirm that each required change was completed
+[] Explanation of any element removed or reduced because it could not be completed responsibly
+
+##### 5.Artistic Prototype: Version 2
+[] Instructions for accessing the work
+[] Three to five documentation images
+[] Brief list of elements that still require refinement after the prototype critique
+
+##### 6.References and credits
+[] Academic and artistic sources
+[] Media, software, datasets, tools, and external materials
+[] Image and artwork credits
+[] Consent or permission information when required
 
 Name the file:
 `P2-Version3-Group#-Prototype-Findings.pdf`
-> Replace `#` with the assigned group number.
+
+Replace `#` with the assigned group number.
 
 #### <span class="step-label">Step 2:</span> Add information to Webador
 
 Open the selected artist or collective’s Webador page. Locate the section prepared for this stage and use the heading: **Version 3: Second Artistic Prototype**
 
 > Do not remove or overwrite **First Artistic Prototype: Version 1** or any earlier project material.
-
-##### Write the explanation of changes
 
 Write **150–250 words** explaining:
 - The most important finding from the audience test
@@ -294,8 +291,6 @@ Write **150–250 words** explaining:
 - What still requires refinement after the prototype critique
 
 > Focus on meaningful changes rather than listing every completed task.
-
-##### Add the prototype documentation
 
 Include:
 - Three to five images showing the revised prototype
@@ -311,26 +306,11 @@ Each image must include:
 
 > For video, animation, sound, performance, interactive, or other time-based work, upload the prototype documentation to **YouTube or Vimeo** and embed it on the Webador page. The media may be unlisted but must remain accessible without requiring permission. Videos must include captions. Audio-only material must include a transcript or an equivalent text summary.
 
-#### <span class="step-label">Step 3:</span> Prepare for the prototype critique session
+#### <span class="step-label"> Next Steps</span>
 
-During the following class, each group will present **Artistic Prototype No.2** and receive feedback from the class.
+Read the complete [Prototype Critique and Feedback Session](P2-Prototype-Critique.md) instructions in preparation for next class.  
 
-Before the session:
-
-- Read the complete [Prototype Critique and Feedback Session instructions](P2-Prototype-Critique.md).
-- Create a presentation containing no more than three slides.
-- Prepare a two/three-minute introduction to the project.
-- Select an excerpt, demonstration, or guided experience of the prototype lasting no more than ten minutes.
-- Prepare one question on which the group would particularly like feedback.
-- Bring the prototype and all required equipment, files, materials, cables, and adapters.
-- Save the slides and prototype files on the computer that the group will use.
-- Open and test the slides, prototype, media, and links before class.
-- Prepare a backup copy of all essential files.
-- Decide who will introduce the project, operate or perform the prototype, manage the setup, and record feedback.
-
-All group members must participate and be prepared to discuss the project and respond to questions. If the scheduled format creates an access barrier, contact the instructor in advance to arrange an equivalent role or participation method.
-
-> The detailed slide requirements, presentation schedule, critique format, and feedback questions are provided in the [Prototype Critique and Feedback Session instructions](P2-Prototype-Critique.md).
+You must bring Artistic Prototype No.2, along with all required equipment, files, materials, cables, and adapters, ready to present and demonstrate in class.
 
 </div>
 </details>
@@ -355,6 +335,7 @@ Before submitting, confirm that:
 - [ ] Links open without requesting access.
 - [ ] All required materials are complete and placeholders have been replaced.
 - [ ] Webador includes **Version 3: Second Artistic Prototype** with explanation of changes and documentation.
+- [ ] You have read and prepare for [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 
 > Follow the required filename and format so the work can be identified and opened. A file or link that cannot be identified, opened, or accessed may need to be resubmitted and may be considered late. Missing findings, prototype content, citations, credits, consent, accessibility information, or required critique preparation will affect the grade according to the assignment criteria.
 
