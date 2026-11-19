@@ -20,7 +20,7 @@ Your group will document its process on its **existing Webador page under Artist
 - [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
 
 <!-- 
-- [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
+- [Version 3: Audience Testing and Prototype Development](P2-Version3-Audience-Testing-and-Prototype-Development.md)
 - [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 - [Final Submission](P2-Final.md)
 - [Class Exhibition](P2-Class-Exhibition.md) -->
