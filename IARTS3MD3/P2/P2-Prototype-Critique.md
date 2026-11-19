@@ -8,13 +8,11 @@
 
 **Goal:** Present **Artistic Prototype No.2**, examine how the artwork communicates its artistic and research direction, and gather specific feedback to guide the next stage of development.
 
-Each group will introduce its project and **state the feedback it wants from the class**, then present or provide an opportunity to experience the prototype. Classmates will respond with observations, questions, and constructive suggestions.
-
 > This is a critique of work in progress, not a final exhibition. Different interpretations are welcome. The purpose is to identify what works, what remains unclear or underdeveloped, and what the group should investigate or revise.
 
 ## Session timing
 
-Each group should plan for **9 minutes**, with a **minimum planned allocation of 7 minutes** and an **absolute maximum of 13 minutes**. The time used will depend on the artwork and the discussion.
+Each group should plan for **10 minutes**, with a **minimum planned allocation of 8 minutes** and an **absolute maximum of 13 minutes**. The time used will depend on the artwork and the discussion.
 
 | Activity | Suggested time |
 |---|---:|
@@ -25,19 +23,6 @@ Each group should plan for **9 minutes**, with a **minimum planned allocation of
 | **Absolute maximum per group, including setup and transition** | **13 minutes** |
 
 > Plan enough time for questions and feedback. Do not use the entire block to explain or demonstrate the artwork.
-
-## Division of labour
-
-All members must understand the project, participate in preparation, and review the feedback received. Assign the following session roles:
-
-| Role | Groups of 3 | Groups of 4 | Main responsibility |
-|---|---:|---:|---|
-| Presenters | 2 | 2 | Introduce the project, state the feedback request, and present or facilitate the artwork |
-| Feedback note-takers | 1 | 2 | Record audience observations, questions, recommendations, and disagreements |
-
-> Presenters and note-takers may contribute to the discussion, but the assigned roles must be covered. If a role or presentation method creates an access barrier, contact the instructor in advance to arrange an equivalent way to participate.
-
-## Read and complete the instructions step by step
 
 ---
 
@@ -63,7 +48,7 @@ Before class, review:
 - Specific strategies drawn from, questioned, or extended from the selected artist or collective
 - Remaining ethical, accessibility, technical, or production concerns
 
-Discuss what the current prototype communicates through its form, materials, technology, structure, and audience experience.
+> Discuss what the current prototype communicates through its form, materials, technology, structure, and audience experience.
 
 #### <span class="step-label">Step 2:</span> Decide how the class will experience the artwork
 
@@ -79,7 +64,9 @@ The experience should demonstrate:
 - The intended audience experience
 - A significant change made after testing Prototype No.1
 
-> If the complete artwork is longer than the available time, select a representative excerpt and briefly explain what happens outside it. For physical, spatial, installation, or interactive projects, prepare a feasible demonstration or guided encounter.
+If the complete artwork is longer than the available time, select a representative excerpt and briefly explain what happens outside it. For physical, spatial, installation, or interactive projects, prepare a feasible demonstration or guided encounter.
+
+> **If your group requires additional setup time, you must contact the instructor before class** to discuss the equipment, space, or technical arrangements needed. Do not assume additional setup time will be available during your presentation.
 
 #### <span class="step-label">Step 3:</span> Identify the feedback your group needs
 
@@ -87,13 +74,9 @@ Agree on **one or two specific questions** that the group wants the class to add
 
 Focus on an artistic decision, audience experience, research connection, or unresolved issue that can still be investigated or revised.
 
-**Instructor-created example:**
-
-> "Does the change in projected imagery make the relationship between visitor movement and surveillance clear, or does it read mainly as a visual effect?"
+**Instructor-created example:** *Does the change in projected imagery make the relationship between visitor movement and surveillance clear, or does it read mainly as a visual effect?*
 
 Avoid general questions such as "Did you like it?" or "Is it good?"
-
-**The presenters must state the feedback question(s) during the project introduction, before presenting the artwork.**
 
 #### <span class="step-label">Step 4:</span> Assign the group roles
 
@@ -105,11 +88,9 @@ Assign the following responsibilities before class:
 | **One or two feedback note-takers**      | Record audience observations, questions, recommendations, and disagreements                                                   |
 | **Technical and setup responsibilities** | Prepare equipment, media, materials, access instructions, and the presentation space                                          |
 
-A group of three will have two presenters and one note-taker. A group of four will have two presenters and two note-takers.
+A group of four will have two presenters and two note-takers.
 
-Technical and setup responsibilities may be shared among these members.
-
-All members must understand the research, current prototype, and feedback questions. If an assigned role creates an access barrier, contact the instructor in advance to arrange an equivalent participation method.
+> All members must understand the research, current prototype, and feedback questions. If an assigned role creates an access barrier, contact the instructor in advance to arrange an equivalent participation method.
 
 #### <span class="step-label">Step 5:</span> Prepare the three-slide presentation
 
@@ -134,30 +115,6 @@ Include a short link or QR code to the prototype when useful.
 - Include captions and credits for artwork and external images.
 - Test links and QR codes before class.
 
-#### <span class="step-label">Step 6:</span> Rehearse the introduction and artwork experience
-
-Plan for a **10-minute target** for the complete group session:
-
-| Activity                                    |    Target time |
-| ------------------------------------------- | -------------: |
-| Project introduction and feedback request   |      2 minutes |
-| Artwork presentation or audience experience |      5 minutes |
-| Questions and feedback                      |      3 minutes |
-| **Total target**                            | **10 minutes** |
-
-The minimum planned allocation is **8 minutes**, and the absolute maximum is **15 minutes**, including questions and feedback.
-
-During the introduction, the presenters must:
-
-1. Identify the artistic question or EDI concern.
-2. Explain the connection to the selected artist or collective and research.
-3. Briefly introduce the prototype and how the audience will experience it.
-4. **State the exact feedback question(s) the group wants the class to address.**
-
-Do not tell the audience how they must interpret the artwork. Provide the context and instructions necessary to experience it safely and as intended.
-
-Rehearse the excerpt, demonstration, performance, or guided interaction. Confirm that the class will have an opportunity to experience the artwork rather than only hear a description of it.
-
 #### Before class: Final checklist
 
 - [ ] We reviewed Artistic Prototype No.2 and the previous research and testing findings.
@@ -166,11 +123,8 @@ Rehearse the excerpt, demonstration, performance, or guided interaction. Confirm
 - [ ] We assigned two presenters and one or two feedback note-takers.
 - [ ] We prepared no more than three slides.
 - [ ] Our slides include the required research connections, images, credits, and accessible text alternatives.
-- [ ] We rehearsed the introduction, including the feedback request.
-- [ ] We rehearsed the artwork experience and planned for the 10-minute target.
-- [ ] Artistic Prototype No.2 is ready to present or experience.
 - [ ] All required equipment, files, materials, and accessibility supports are prepared.
-- [ ] We tested the presentation and prepared a backup.
+- [ ] We rehearse/tested the presentation and prepared a backup.
 
 </div>
 </details>
@@ -186,11 +140,11 @@ Rehearse the excerpt, demonstration, performance, or guided interaction. Confirm
 
 <div class="section-content" markdown="1">
 
-#### <span class="step-label">Step 1:</span> Arrive on time and follow the presentation order
+#### <span class="step-label">Arrive on time and follow the presentation order</span>
 
 **All group members must arrive on time and be ready to participate from the beginning of class.**
 
-The ten groups will present **in order, from Group 1 to Group 10**. Each group must be ready when its turn begins.
+The groups will present **in order, from Group 1 to Group 10**. Each group must be ready when its turn begins.
 
 The instructor will manage the timing:
 
@@ -205,28 +159,7 @@ The instructor will manage the timing:
 
 > **If your group requires additional setup time, you must contact the instructor before class** to discuss the equipment, space, or technical arrangements needed. Do not assume additional setup time will be available during your presentation.
 
-#### <span class="step-label">Step 2:</span> Introduce the project and feedback request
-
-In approximately **two minutes**, the presenters will:
-
-1. Introduce the project's artistic question or EDI concern.
-2. Explain the connection to the selected artist or collective and relevant research.
-3. Briefly describe the current direction of Artistic Prototype No.2.
-4. **State the one or two specific questions on which the group wants feedback.**
-
-The feedback request must be stated **before the artwork is presented** so classmates know what the group wants them to consider.
-
-#### <span class="step-label">Step 3:</span> Present or facilitate the artwork experience
-
-In approximately **five minutes**, present an excerpt, demonstration, performance, guided interaction, or other appropriate experience of **Artistic Prototype No.2**.
-
-- Allow the class to experience the artwork rather than only hear a description.
-- Provide the instructions necessary for safe and accessible participation.
-- Show how the artistic decisions, research, and unfamiliar technology or technique function within the work.
-- Briefly explain any essential part of the artwork that cannot be experienced during the available time.
-- Clearly indicate when the experience has ended.
-
-#### <span class="step-label">Step 4:</span> Receive questions and feedback
+#### <span class="step-label">Receive questions and feedback</span>
 
 Allow approximately **three minutes** for questions and class discussion.
 
@@ -240,7 +173,7 @@ The presenting group should:
 
 The group's note-taker or note-takers must record important observations, questions, recommendations, disagreements, and possible revisions.
 
-#### <span class="step-label">Step 5:</span> Participate in the critique of other projects
+#### <span class="step-label">Participate in the critique of other projects</span>
 
 **All students must participate throughout the session**, not only when their own group is presenting.
 
