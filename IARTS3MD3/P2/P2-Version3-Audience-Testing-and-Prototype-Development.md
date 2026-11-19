@@ -17,17 +17,13 @@ Analyze the first artistic prototype from the audience’s perspective, determin
 
 > This is still a work-in-progress stage. Prototype 2 must contain the required materials and replace the placeholders used in the first one, but it may still require refinement after the prototype critique.
 
-
 ## Division of labour
-Every member must contribute to the analysis, revision, production, and preparation of Prototype Version 2.
 
+Every member must contribute to the analysis, revision, production, and preparation of Prototype No.1, by doing the following activities:
 
-\| Member | Audience testing or documentation | Analysis responsibility | Production responsibility | Critique-session preparation |
-\|---|---|---|---|---|
-\| Member 1 | Assigned task | Assigned area | Required revision or material | Assigned preparation task |
-\| Member 2 | Assigned task | Assigned area | Required revision or material | Assigned preparation task |
-\| Member 3 | Assigned task | Assigned area | Required revision or material | Assigned preparation task |
-\| Member 4, if applicable | Assigned task | Assigned area | Required revision or material | Assigned preparation task |
+| Audience testing or documentation | Analysis responsibility | Production responsibility | Critique-session preparation |
+|---|---|---|---|
+| Assigned task | Assigned area | Required revision or material | Assigned preparation task |
 
 > Dividing the analysis into isolated sections without discussing the complete prototype as a group does not meet the collaborative requirement.
 
