@@ -1,4 +1,4 @@
-[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Version 3: Audience Testing and Prototype Development](P2-Version3-Artistic-Analysis-and-Prototype-Development.md)
+[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Version 3: Audience Testing and Prototype Development](P2-Version3-Audience-Testing-and-Prototype-Development.md)
 
 ## P2: Research-Creation Project
 
@@ -9,6 +9,8 @@
 **Goal:** Present **Artistic Prototype No.2**, examine how the artwork communicates its artistic and research direction, and gather specific feedback to guide the next stage of development.
 
 > This is a critique of work in progress, not a final exhibition. Different interpretations are welcome. The purpose is to identify what works, what remains unclear or underdeveloped, and what the group should investigate or revise.
+
+**No Avenue submission is required for this session** Bring the slides, prototype, and required materials to class, and keep the feedback notes for the next stage.
 
 ## Session timing
 
@@ -192,8 +194,6 @@ When another group presents:
 
 </div>
 </details>
-
-**No separate submission is required for this session unless the instructor specifies otherwise.** Bring the slides, prototype, and required materials to class, and keep the feedback notes for the next stage.
 
 ---
 

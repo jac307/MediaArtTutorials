@@ -1,4 +1,4 @@
-[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md)
+[IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 
 
 ## P2: Research-Creation Project
