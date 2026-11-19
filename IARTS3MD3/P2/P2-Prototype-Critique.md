@@ -132,10 +132,7 @@ Include a short link or QR code to the prototype when useful.
 - Do not communicate meaning through colour alone.
 - Avoid placing important text over visually complex images.
 - Include captions and credits for artwork and external images.
-- Provide useful alt text or equivalent descriptions for important images.
-- Make the complete slide text, image descriptions, captions, and credits available in speaker notes or a separate accessible text document.
 - Test links and QR codes before class.
-- Do not include student numbers on the slides.
 
 #### <span class="step-label">Step 6:</span> Rehearse the introduction and artwork experience
 
