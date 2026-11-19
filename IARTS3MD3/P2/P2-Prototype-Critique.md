@@ -176,154 +176,88 @@ Rehearse the excerpt, demonstration, performance, or guided interaction. Confirm
 </details>
 
 
-
-
-
-
-
-
-
-
-<details class="tutorial-section" id="setup-present">
+<details class="tutorial-section" id="during-class-critique">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3 (during class): Prepare the equipment and present the prototype</span>
+    <span class="section-title" role="heading" aria-level="3">During class: Present and participate in the Prototype Critique</span>
     <span class="section-description">
-      Bring Prototype No.2 and all required materials, verify that the experience works, and present within the assigned time.
+      Present Artistic Prototype No.2 in the scheduled order, receive feedback, and contribute to the critique of other projects.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-#### <span class="step-label">Step 1:</span> Prepare the computer, materials, and backup
+#### <span class="step-label">Step 1:</span> Arrive on time and follow the presentation order
 
-**You must bring Artistic Prototype No.2 and everything required to present or experience it in class.**
+**All group members must arrive on time and be ready to participate from the beginning of class.**
 
-- Save the slides and prototype files on the computer the group will use.
-- Open and test the slides, media, software, links, interactions, and accounts.
-- Bring required equipment, materials, cables, adapters, controllers, and other supports.
-- Prepare a stable backup of essential slides and prototype files.
-- Prepare instructions and accessibility supports for audience participation.
-- Confirm who will connect, operate, and disconnect equipment.
-- Practise changing from the slides to the artwork without unnecessary delay.
+The ten groups will present **in order, from Group 1 to Group 10**. Each group must be ready when its turn begins.
 
-Groups will normally use their own computers. If using or transporting a personal computer creates an access barrier, contact the instructor in advance to arrange an alternative setup.
+The instructor will manage the timing:
 
-Do not depend on downloading files, signing into new accounts, installing software, or editing the prototype during the transition.
+| Activity | Target time |
+|---|---:|
+| Introduce the project and identify the feedback requested | 2 minutes |
+| Present or experience Artistic Prototype No.2 | 5 minutes |
+| Questions and class feedback | 3 minutes |
+| **Total target** | **10 minutes** |
+
+**Each group has a minimum planned allocation of 8 minutes, a target of 10 minutes, and an absolute maximum of 15 minutes, including setup and transitions.**
+
+> **If your group requires additional setup time, you must contact the instructor before class** to discuss the equipment, space, or technical arrangements needed. Do not assume additional setup time will be available during your presentation.
 
 #### <span class="step-label">Step 2:</span> Introduce the project and feedback request
 
-In approximately **two minutes**, identify the project, its artistic and research direction, and **what feedback the group wants from the class**.
+In approximately **two minutes**, the presenters will:
 
-Make the request specific enough that classmates can respond with observations from the artwork.
+1. Introduce the project's artistic question or EDI concern.
+2. Explain the connection to the selected artist or collective and relevant research.
+3. Briefly describe the current direction of Artistic Prototype No.2.
+4. **State the one or two specific questions on which the group wants feedback.**
+
+The feedback request must be stated **before the artwork is presented** so classmates know what the group wants them to consider.
 
 #### <span class="step-label">Step 3:</span> Present or facilitate the artwork experience
 
-In approximately **five minutes**, present an excerpt, demonstration, performance, or guided experience of **Artistic Prototype: Version 2**.
+In approximately **five minutes**, present an excerpt, demonstration, performance, guided interaction, or other appropriate experience of **Artistic Prototype No.2**.
 
-Provide necessary safety and access instructions. Let the artistic choices communicate through the work. Explain briefly what is not included in the excerpt only when essential.
-
-Clearly indicate when the experience ends and the feedback discussion begins.
+- Allow the class to experience the artwork rather than only hear a description.
+- Provide the instructions necessary for safe and accessible participation.
+- Show how the artistic decisions, research, and unfamiliar technology or technique function within the work.
+- Briefly explain any essential part of the artwork that cannot be experienced during the available time.
+- Clearly indicate when the experience has ended.
 
 #### <span class="step-label">Step 4:</span> Receive questions and feedback
 
-Allow approximately **three minutes** for audience questions, comments, and responses. The presenting group should listen before responding, ask for clarification when useful, and avoid using this time for a second presentation.
+Allow approximately **three minutes** for questions and class discussion.
 
-The note-taker or note-takers should record:
+The presenting group should:
 
-- Specific observations and audience interpretations
-- Comments about the research and artist connection
-- Responses to the group's feedback question
-- Questions, suggestions, and constructive disagreements
-- Ethical, accessibility, technological, or production concerns
-- Possible revisions and unresolved issues
+- Listen to audience interpretations and observations.
+- Receive responses to its specific feedback questions.
+- Ask for clarification when needed.
+- Respond briefly to relevant questions.
+- Avoid using the feedback period for a second presentation.
 
-The instructor will manage the session timing. **Eight minutes is the minimum planned allocation, 10 minutes is the target, and 15 minutes is the absolute maximum, including setup and transition.**
+The group's note-taker or note-takers must record important observations, questions, recommendations, disagreements, and possible revisions.
 
-> **Before moving on:** The group has presented the prototype, explicitly requested feedback, allowed time for discussion, and recorded the responses.
+#### <span class="step-label">Step 5:</span> Participate in the critique of other projects
 
-</div>
-</details>
+**All students must participate throughout the session**, not only when their own group is presenting.
 
-<details class="tutorial-section" id="participate-reflect">
+When another group presents:
 
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 4: Participate in the critiques and organize feedback</span>
-    <span class="section-description">
-      Offer specific, constructive feedback to other groups and use the responses to plan further development.
-    </span>
-  </summary>
+1. Pay attention to the artwork and the experience it creates.
+2. Consider the group's specific feedback questions.
+3. Identify particular artistic decisions, moments, materials, sounds, images, or interactions that shaped your response.
+4. Connect your observations to the research, selected artist or collective, technology, and audience experience when relevant.
+5. Offer constructive feedback through speaking, writing, or an approved digital method.
 
-<div class="section-content" markdown="1">
+**Effective feedback is specific and supported by evidence.** Explain what you noticed, how you interpreted it, and why it matters.
 
-#### <span class="step-label">Step 1:</span> Experience and respond to other projects
-
-Students who are not presenting should attend to the artwork and contribute through spoken, written, or approved digital feedback.
-
-Consider:
-
-1. What moment, image, sound, interaction, or material shaped your interpretation?
-2. Which research or artist connection was visible in the artwork?
-3. What was clear, unexpected, confusing, inaccessible, or underdeveloped?
-4. How did the unfamiliar technology or technique contribute to the artistic experience?
-5. What response can you offer to the group's **specific feedback question**?
-6. What change or further test might strengthen the work?
-
-Give concrete observations. Rather than saying only “it was confusing,” identify the element that produced the confusion and explain why.
-
-#### <span class="step-label">Step 2:</span> Contribute constructively
-
-- Discuss the artwork and artistic decisions, not the personal qualities of the group.
-- Distinguish observations, interpretations, questions, and recommendations.
-- Explain your reasoning and refer to specific evidence.
-- Avoid treating personal preference as a universal rule.
-- Make room for different perspectives and participation methods.
-- Keep comments concise so more classmates can contribute.
-- Do not assume a different interpretation is automatically a failure.
-
-Active participation does not require every student to speak during every critique. Students are expected to contribute regularly and engage seriously with the projects. If a participation format creates an access barrier, contact the instructor in advance to arrange an equivalent method.
-
-#### <span class="step-label">Step 3:</span> Organize the group's feedback after class
-
-The note-takers should share their notes with all group members. Organize the responses under:
-
-- Elements to retain
-- Audience interpretations and perspectives
-- Research and artist connections
-- Structure and coherence
-- Technology and production
-- Accessibility, ethics, consent, and representation
-- Recommended revisions
-- Questions requiring further investigation
-
-As a group, identify feedback that confirms an existing decision, indicates a necessary revision, suggests a possible direction, or calls for further testing. Record the reason when the group decides not to follow a recommendation.
-
-Keep these notes for the next stage of Project 2.
-
-> **Before moving on:** The group has reviewed the feedback together and identified which observations or questions should inform its next revisions.
+> Respect different interpretations, avoid personal judgments about group members, and keep comments concise so others can participate. Active participation does not require every student to speak during every critique, but everyone is expected to engage seriously with the projects and contribute regularly.
 
 </div>
 </details>
-
----
-
-## Final preparation checklist
-
-Before the critique session, confirm that:
-
-- [ ] The group has read the complete critique instructions.
-- [ ] Two presenters and one or two feedback note-takers are assigned.
-- [ ] **Artistic Prototype: Version 2** is ready to bring and experience in class.
-- [ ] The presentation has no more than three slides.
-- [ ] The introduction identifies the artistic direction, research connection, and **specific feedback requested**.
-- [ ] The group has planned approximately 2 minutes for the introduction, 5 minutes for the artwork, and 3 minutes for questions and feedback.
-- [ ] The group can work within the 8–15-minute allocation, with **15 minutes as the absolute maximum including setup and transition**.
-- [ ] The prototype presentation accurately represents the work.
-- [ ] Slide text, captions, credits, and important visual descriptions are available in an accessible format.
-- [ ] Captions, transcripts, and other relevant access supports are prepared.
-- [ ] Slides, prototype files, media, software, links, and accounts have been tested.
-- [ ] Required equipment, materials, cables, and adapters are ready.
-- [ ] A backup copy of essential files is available.
-- [ ] All group members understand their roles and the feedback question.
 
 **No separate submission is required for this session unless the instructor specifies otherwise.** Bring the slides, prototype, and required materials to class, and keep the feedback notes for the next stage.
 
