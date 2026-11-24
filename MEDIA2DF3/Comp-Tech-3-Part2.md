@@ -1088,6 +1088,16 @@ The final compositions do not need to reproduce the sketches exactly. Adjust the
 
 Each decision should support the concept, selected style, assigned Gestalt principles, Samara rules, and purpose of the design format.
 
+#### Vector Construction and Image Trace
+
+Students must construct their compositions using the vector drawing tools introduced in class, including shapes, paths, the Pen Tool, and Pathfinder operations.
+
+**Using Image Trace to automatically convert an existing illustration, complete composition, or AI-generated image into vector artwork is not permitted.**
+
+Image Trace may only be used to convert original hand-drawn elements created by the student, provided that the source drawing is included in the process documentation.
+
+All students must maintain their editable Illustrator files and provide them upon request to demonstrate their construction process.
+
 **Review each composition before exporting**
 
 - [ ] **The concept is clear.** The composition communicates a specific subject, purpose, message, or function.

@@ -44,22 +44,21 @@ Create a cohesive five-image series that combines four individual interpretation
 
 > You may use **Illustrator, Photoshop, or a combination of both** to create the final compositions. Choose the software according to the visual approach and techniques required by your design.
 
-> **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.** 
+#### Vector Construction and Image Trace
 
-## Accessibility and learning support
+Students must construct their compositions using the vector drawing tools introduced in class, including shapes, paths, the Pen Tool, and Pathfinder operations.
 
-- The written instructions contain the required steps. Demonstrations and embedded tutorials provide additional support.
-- Partners may divide research, planning, file preparation, printing, installation, documentation, and visitor-engagement responsibilities according to their strengths and access needs. Each student remains responsible for creating two individual compositions.
-- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
-- Do not rely on colour alone to distinguish information or connect the series. Use labels, numerical values, contrast, shape, texture, placement, or another visible cue.
-- If photography, printing, mounting, installation, speaking with visitors, or another required process creates an access barrier, contact the instructor early to arrange an equivalent role or method that meets the same learning outcomes.
-- Make planning and documentation PDFs text-based where possible, with readable type, strong contrast, descriptive headings, a logical reading order, captions, and image descriptions.
+> **Image Trace or automated tracing techniques to generate compositions is strictly prohibited for this project.** 
+
+All students must maintain their editable Illustrator files and sketches and provide them upon request to demonstrate their construction process.
 
 ---
 
 ## Index
 
-<!-- - [Part 1 – In-Class Work I: Research, sketching, and first composition](P2-InClassWork-I.md)
+- [Part 1 – In-Class Work I: Research, sketching, and first composition](P2-InClassWork-I.md)
+
+<!-- 
 - [Part 2 – In-Class Work II: Second composition and print-layout planning](P2-InClassWork-II.md)
 - [Final submission: Exhibition and documentation](P2-Final-Submission.md) -->
 
