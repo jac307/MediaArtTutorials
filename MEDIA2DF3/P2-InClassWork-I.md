@@ -32,16 +32,6 @@ The project should build on concepts and techniques developed throughout  **all 
 
 > **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.**
 
-## Accessibility and learning support
-
-- The written instructions contain the required steps. Embedded tutorials provide additional demonstrations.
-- Use the video player’s captions when available. If a video is unavailable or inaccessible, follow the written steps or ask the instructor for an equivalent format.
-- Partners may divide research, planning, and shared-document responsibilities according to their strengths and access needs. Each student remains responsible for their individual composition and documented contribution.
-- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
-- Add source information and a brief caption or image description for research images so their purpose is clear without relying only on visual inspection.
-- If hand-sketching, photography, using Illustrator or Photoshop, or another required process creates an access barrier, contact the instructor to arrange an equivalent method that demonstrates the same learning outcomes.
-- Make the planning PDF text-based where possible, with readable type, strong contrast, descriptive headings, and a logical reading order.
-
 ## Complete the activity in three stages
 
 Complete the following stages in order.
