@@ -340,7 +340,9 @@ All students must maintain their editable Illustrator files and sketches and pro
 
 ##### Supplemental software tutorials
 
-**Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/) for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator. Use effects only when they support the interface concept and remain readable.  
+<img src="imgs/TamakenDesign.png" style="width: 100%; height: auto;" alt="Tamaken Design">
+
+**Illustrator reference:** Review [Tamaken Design - Instagram](https://www.instagram.com/tamaken_design/) and [Tamaken Design - YouTube](https://www.youtube.com/@design_spot/featured) for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator. Use effects only when they support the interface concept and remain readable.  
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/NHivaPFLOps?si=ziXmH2AczRHg6nwo&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
