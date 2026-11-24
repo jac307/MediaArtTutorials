@@ -48,7 +48,7 @@ Create a cohesive five-image series that combines four individual interpretation
 
 Students must construct their compositions using the vector drawing tools introduced in class, including shapes, paths, the Pen Tool, and Pathfinder operations.
 
-> **Image Trace or automated tracing techniques to generate compositions is strictly prohibited for this project.** 
+**Image Trace or automated tracing techniques to generate compositions is strictly prohibited for this project.** 
 
 All students must maintain their editable Illustrator files and sketches and provide them upon request to demonstrate their construction process.
 

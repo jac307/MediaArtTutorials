@@ -54,11 +54,7 @@ SECTION 1
 
 #### Research the assigned animal
 
-Before sketching, research the assigned animal carefully.
-
-Your research should help you understand its visual characteristics rather than simply provide images to copy.
-
-Consider:
+Before sketching, **research the assigned animal**. Your research should help you understand its visual characteristics rather than simply provide images to copy. Consider:
 
 - Overall shape
 - Anatomy
@@ -73,10 +69,7 @@ Consider:
 - Scale
 - Behaviour
 
-
-Collect several visual references showing the animal from **different perspectives**.
-
-Look for:
+Collect several visual references showing the animal from **different perspectives**. Look for:
 
 - Full-body photographs
 - Close-up details
@@ -104,6 +97,12 @@ Decide:
 - How the two abstract compositions will differ from one another
 - Which visual characteristics of the animal should remain recognizable across the series
 
+**Realistic composition:** Represents the animal as closely as possible to its natural appearance, maintaining accurate proportions, anatomy, shapes, textures, and distinctive physical characteristics. The goal is to achieve visual accuracy through digital illustration, painting, or image manipulation.  
+
+**Figurative composition:** Represents the animal through a stylized interpretation. The animal must remain clearly recognizable, but its shapes, proportions, colours, and textures can be simplified, exaggerated, distorted, or reinterpreted. The goal is to develop a distinct visual style while maintaining a recognizable subject. Possible applications: Cartoonish, Expressive, Decorative, etc.   
+
+**Abstract composition:** Transforms the animal's visual characteristics into a composition of shapes, lines, colours, textures, patterns, and spatial relationships. The animal does not need to be immediately recognizable as a complete figure, but the composition must demonstrate a meaningful visual connection to its morphology.
+
 ##### Visual unity
 
 Consider shared or related approaches to:
@@ -121,30 +120,7 @@ Consider shared or related approaches to:
 - Shape language
 - Overall mood
 
-
 > The four works should feel related without appearing identical. **Cohesion does not mean duplication.**
-
-##### Composition Techniques
-
-Identify concepts from previous Composition Techniques that could inform the series.
-
-Consider:
-
-- Wong's principles of form and composition
-- Interrelationships of form
-- Repetition and variation
-- Similarity
-- Gradation
-- Contrast
-- Concentration
-- Space
-- Texture
-- Gestalt principles
-- Colour relationships
-- Colour proportioning
-- Visual styles
-- Samara's design principles
-
 
 ---
 
@@ -179,8 +155,7 @@ Pay attention to:
 - Spacing
 - Consistency across pages
 
-
-Sketches, research images, and written information should be intentionally arranged and visually integrated throughout the document.
+> Sketches, research images, and written information should be intentionally arranged and visually integrated throughout the document.
 
 ##### The document must include
 
@@ -207,16 +182,13 @@ Sketches, research images, and written information should be intentionally arran
 5. **Visual cohesion**
    - Explain what will connect the four compositions visually.
 
-6. **Design concepts**
-   - Identify relevant concepts from the Composition Techniques that will inform the work.
-
-7. **Four sets of annotated sketches**
+6. **Four sets of annotated sketches**
    - Student 1 – Abstract
    - Student 1 – Realistic or Figurative
    - Student 2 – Abstract
    - Student 2 – Realistic or Figurative
 
-8. **Colour considerations**
+7. **Colour considerations**
    - Identify preliminary colour relationships and how colour may create unity across the series.
 
 > Each student must make a documented contribution to the research, planning, and design development. Contributions may include sketches, written or recorded notes, diagrams, reference analysis, or another approved method.
@@ -291,16 +263,11 @@ If working in Photoshop:
 
 Maintain clearly organized and editable layers.
 
-> Do not flatten the working Photoshop file. Save the final editable file as a **.TIFF** for submission.
+> Do not flatten the working Photoshop file. Save the final editable file as a **.TIFF with preserved layers** for submission.
 
 #### File naming
 
-Each student's two compositions will eventually be numbered:
-
-- `Lastname-Firstname-P2-1`
-- `Lastname-Firstname-P2-2`
-
-Your pair should agree on which number corresponds to each student's **abstract** and **realistic/figurative** composition before production begins.
+Each student is submitting one file with the following naming protocol: `Lastname-Firstname-P2-1`
 
 </div>
 </details>
@@ -347,7 +314,6 @@ Your composition should demonstrate intentional decisions related to:
 - Craft
 - Concept
 
-
 > The goal is not simply to create an image of the animal. Consider how your **formal, conceptual, and technical decisions** communicate a particular interpretation of it.
 
 #### Illustrator and Photoshop
@@ -362,41 +328,35 @@ You may:
 - Develop textures
 - Combine Illustrator and Photoshop workflows
 
-> You may **not** use Image Trace or similar automated tracing methods to generate the composition.
+> Don't forget to embedd images if used in Adobe Illustrator.
+
+#### Vector Construction and Image Trace
+
+Students must construct their compositions using the vector drawing tools introduced in class, including shapes, paths, the Pen Tool, and Pathfinder operations.
+
+**Image Trace or automated tracing techniques to generate compositions is strictly prohibited for this project.** 
+
+All students must maintain their editable Illustrator files and sketches and provide them upon request to demonstrate their construction process.
 
 ##### Supplemental software tutorials
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/NHivaPFLOps?si=ziXmH2AczRHg6nwo&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Illustrator reference:** Review [Tamaken Design](https://www.instagram.com/tamaken_design/) for visual references and short image and video tutorials on creating specific effects, shapes, patterns, gradients, and transformations in Adobe Illustrator. Use effects only when they support the interface concept and remain readable.  
 
-[Open supplemental Illustrator or Photoshop tutorial 1 directly](https://www.youtube.com/watch?v=NHivaPFLOps&t=139s)
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/NHivaPFLOps?si=ziXmH2AczRHg6nwo&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/XeQo6fT0n_o?si=sCjUi25DDtKG4oB2&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Open supplemental Illustrator or Photoshop tutorial 2 directly](https://www.youtube.com/watch?v=XeQo6fT0n_o&t=139s)
-
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/qrGHs4d0yt0?si=REYnEhlwoJq-wlSh&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Open supplemental Illustrator or Photoshop tutorial 3 directly](https://www.youtube.com/watch?v=qrGHs4d0yt0&t=139s)
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/pYU1gSQJ8Qw?si=xIRBEP-Y1LO2sXt8&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Open supplemental Illustrator or Photoshop tutorial 4 directly](https://www.youtube.com/watch?v=pYU1gSQJ8Qw&t=139s)
-
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/SSPLw84kwq4?si=lPfTkZ-abhamI6Ka&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Open supplemental Illustrator or Photoshop tutorial 5 directly](https://www.youtube.com/watch?v=SSPLw84kwq4&t=139s)
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CtWyF72r1uM?si=UAuaNbY8w0UT_Re6&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Open supplemental Illustrator or Photoshop tutorial 6 directly](https://www.youtube.com/watch?v=CtWyF72r1uM&t=139s)
-
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/RD5ph4yZ7Xs?si=MZ-4sc4mbasnuDtP&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Open supplemental Illustrator or Photoshop tutorial 7 directly](https://www.youtube.com/watch?v=RD5ph4yZ7Xs&t=139s)
-
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LqMxioRA7_g?si=SMY8f8fB6nLzqTV_&amp;start=139" title="Supplemental Illustrator or Photoshop tutorial 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Open supplemental Illustrator or Photoshop tutorial 8 directly](https://www.youtube.com/watch?v=LqMxioRA7_g&t=139s)
 
 </div>
 </details>
@@ -416,7 +376,6 @@ Submit **three files per pair**:
 ## Final checklist
 
 - [ ] Our planning PDF includes the group information, research, series concept, individual roles, visual-cohesion plan, design concepts, sketches, and colour considerations.
-- [ ] Research images include source information and a brief caption or image description.
 - [ ] All four compositions use the same dimensions, aspect ratio, and orientation.
 - [ ] Each student’s first composition is at least 70% complete.
 - [ ] Illustrator or Photoshop files remain layered and editable.
