@@ -8,8 +8,9 @@
 
 <figure style="width: 100%; margin: auto;">
   <img src="imgs/26.jpg" style="width: 100%; height: auto;" alt="Examples of realistic, figurative, and abstract animal compositions by previous students">
+  <img src="imgs/26b.png" style="width: 100%; height: auto;" alt="Examples of three-dimensional compositions made from repeated layered planes">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Examples by previous students.
+    Examples by previous students: Winter 2026 (top) & Fall 2026 (bottom).
   </figcaption>
 </figure>
 
