@@ -24,23 +24,13 @@ In addition to their project-group responsibilities, **students will work as mem
 
 ## Exhibition team sign-up
 
-A sign-up sheet will be posted on **Avenue to Learn midway through the course**.
+A sign-up sheet will be posted on **Avenue to Learn**.
 
 Every student must sign up for at least one of the following teams or an approved equivalent role:
 
 - **Organization and Museography Team**
 - **Setup Team**
 - **Cleanup Team**
-
-Team sizes may be limited to keep the workload balanced. Signing up early does not guarantee a preferred role if another team requires additional members.
-
-The sign-up sheet will include:
-
-- Available roles
-- Number of students required for each team
-- Required meeting, arrival, or departure times
-- Deadlines for completing preparatory tasks
-- Any role-specific instructions
 
 > Students remain responsible for installing, presenting, and removing their own group project regardless of their additional exhibition-team assignment.
 
@@ -50,22 +40,11 @@ Students are expected to participate in the complete exhibition process accordin
 
 If lifting, carrying, mounting, prolonged standing, speaking with visitors, sensory conditions, scheduling, or another aspect of the exhibition creates an access barrier, contact the instructor as early as possible. An equivalent role can be arranged that meets the same learning goals.
 
-Possible participation options may include:
-
-- Preparing exhibition labels or accessibility information
-- Creating or reviewing the floor plan
-- Checking links, captions, image descriptions, or QR codes
-- Coordinating documentation
-- Preparing written or digital visitor information
-- Completing seated organizational tasks
-- Using prepared notes, assistive technology, or another communication method when presenting
-- Taking scheduled breaks or completing part of the work in a lower-sensory area
-
 An alternative role must be arranged with the instructor in advance. Students should not exchange or abandon assigned roles without approval.
 
 <details class="tutorial-section" id="prepare-final-project">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">1. Prepare the final project for exhibition</span>
+    <span class="section-title" role="heading" aria-level="3">Final project for exhibition</span>
     <span class="section-description">
       Make the final project complete, stable, accessible, and ready to install and present.
     </span>
@@ -85,43 +64,6 @@ The exhibition version must:
 - Integrate the unfamiliar technology or technique into the artwork
 - Be stable enough to open, play, perform, install, navigate, or experience throughout the exhibition
 - Include any instructions required for visitors
-- Include the accessibility supports and alternatives developed by the group
-- Provide captions for video and a transcript or equivalent text summary for audio-only material
-- Provide a text alternative for important visual, interactive, or spatial information
-- Follow consent, privacy, representation, safety, and cultural requirements
-- Include complete credits when external material is visible or audible
-
-#### Prepare the installation plan
-
-Before the exhibition, determine:
-
-- Required floor or wall space
-- Table, plinth, screen, projector, speaker, headphones, controller, or other display needs
-- Power and network requirements
-- Lighting or sound conditions
-- Visitor position, movement, and interaction
-- Installation and removal time
-- Required tools, fasteners, adhesives, mounts, supports, cables, covers, or adapters
-- Accessibility and safety requirements
-- Backup plan for essential media, equipment, software, files, or network access
-
-Share the required information by the deadline posted on Avenue. Exhibition space and equipment are limited. Do not assume that unrequested equipment or space will be available.
-
-#### Prepare the project materials
-
-Bring:
-
-- The complete final project
-- A stable backup of all digital files
-- Required computer, storage device, controllers, or playback equipment
-- Required cables, power supplies, adapters, chargers, and extension solutions approved for the space
-- Headphones or speakers when required and approved
-- Physical materials, mounting hardware, fasteners, supports, and tools
-- Visitor instructions and accessibility supports
-- Cleaning or maintenance materials required for the work
-- Any approved protective or safety equipment
-
-Clearly label personal equipment and storage devices with the owner’s name and contact information.
 
 #### Prepare the research-creation poster
 
@@ -133,14 +75,15 @@ Confirm that:
 - The poster is clean, undamaged, and ready to display.
 - The QR code opens the correct public Webador project page.
 - The printed Webador URL is readable.
-- All poster images, captions, citations, and credits are correct.
+
+Bring the printed posted on the required day/time set by the instructor. 
 
 </div>
 </details>
 
 <details class="tutorial-section" id="organization-museography-team">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">2. Organization and Museography Team</span>
+    <span class="section-title" role="heading" aria-level="3">Organization and Museography Team</span>
     <span class="section-description">
       Help plan the exhibition design, placement, visitor flow, interpretation, accessibility, and class-wide organization.
     </span>
@@ -159,7 +102,6 @@ Responsibilities may include:
 - Helping coordinate tables, plinths, power, lighting, sound, and other shared resources
 - Organizing project posters, labels, introductory text, directional signs, and accessibility information
 - Checking that project titles and group-member names are consistent
-- Reviewing captions, credits, QR codes, and public links
 - Helping develop an installation sequence and schedule
 - Communicating relevant decisions to project groups
 - Helping coordinate opening, visitor reception, or documentation when assigned
@@ -170,22 +112,18 @@ The team must consider:
 - Seating or resting space when appropriate
 - Safe distances around equipment and interactive work
 - Sightlines, sound overlap, lighting, and projection conditions
-- Captions, transcripts, image descriptions, and clear interaction instructions when required
 - Readable labels and posters
-- Access to instructions and alternative formats
 - Safe and practical placement of cables and power supplies
 - A balanced and intentional relationship among the projects
 
 > Museography involves shaping how visitors move through and understand the complete exhibition. It does not mean redesigning another group’s artwork or changing a project without consultation.
-
-Record important decisions and confirm them with the instructor before directing other groups or moving work.
 
 </div>
 </details>
 
 <details class="tutorial-section" id="setup-team">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">3. Setup Team</span>
+    <span class="section-title" role="heading" aria-level="3">Setup Team</span>
     <span class="section-description">
       Prepare the exhibition space and support the safe, organized installation of the complete class exhibition.
     </span>
@@ -212,14 +150,12 @@ Setup Team members must also install their own group project. Plan the group ins
 
 > Being part of the Setup Team means contributing to the complete exhibition, not only installing your own project.
 
-Do not drill, paint, attach materials to walls, alter furniture, connect high-load electrical equipment, or make another irreversible change without permission.
-
 </div>
 </details>
 
 <details class="tutorial-section" id="present-engage">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">4. Present the project and engage with visitors</span>
+    <span class="section-title" role="heading" aria-level="3">Present the project and engage with visitors</span>
     <span class="section-description">
       Remain engaged throughout the exhibition and help visitors encounter and understand the work.
     </span>
@@ -233,8 +169,6 @@ Each group should organize a rotation so that:
 - At least one member is available near the project when visitors require assistance.
 - All members have opportunities to present, discuss, or support access to the work through their approved roles.
 - Members can visit and engage with other projects.
-- Interactive, live, or technically sensitive work is monitored appropriately.
-- Breaks are coordinated without leaving the work unsupported.
 
 Be prepared to explain:
 
@@ -254,8 +188,6 @@ Students are also expected to:
 
 - Visit and experience classmates’ projects
 - Ask relevant and respectful questions
-- Help visitors navigate the exhibition when appropriate
-- Support classmates with minor technical or organizational needs
 - Welcome invited faculty, students, and community visitors
 - Maintain professional and respectful conduct
 - Avoid unrelated computer or phone use
@@ -263,23 +195,12 @@ Students are also expected to:
 
 > Engagement is assessed throughout the exhibition through the responsibilities assigned to each student. Speaking with visitors is one possible form of engagement, not the only one.
 
-#### Monitor the project
-
-Throughout the exhibition, groups must:
-
-- Check that the work remains functional and correctly presented
-- Restart or repair media when necessary
-- Keep cables, materials, and audience areas safe
-- Replace or recharge equipment according to the approved plan
-- Protect visitor privacy and follow the approved consent process
-- Inform the instructor promptly about technical failures or safety concerns
-
 </div>
 </details>
 
 <details class="tutorial-section" id="cleanup-team">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">5. Cleanup Team and project removal</span>
+    <span class="section-title" role="heading" aria-level="3">Cleanup Team and project removal</span>
     <span class="section-description">
       Remove the projects safely, restore the space, and confirm that no work, equipment, or waste remains.
     </span>
@@ -300,54 +221,14 @@ Responsibilities may include:
 - Cleaning floors, tables, walls, and display areas as required
 - Sorting materials for return, storage, reuse, recycling, or disposal
 - Checking the space for personal equipment, storage devices, tools, and artwork
-- Reporting damage, missing equipment, or unresolved waste to the instructor
 - Completing a final walkthrough
 
 > Being part of the Cleanup Team means restoring the complete exhibition space, not only removing your own project.
 
-Each group must confirm that:
-
-- Its artwork, poster, equipment, materials, and personal belongings have been collected.
-- Borrowed equipment has been returned according to the required process.
-- Digital files or accounts have been removed from shared equipment.
-- Its exhibition area is clean and undamaged.
-
 </div>
 </details>
 
----
-
-## Final exhibition checklist
-
-Before the exhibition:
-
-- [ ] We checked the date, location, public hours, accessibility information, and schedule on Avenue.
-- [ ] Every member signed up for an exhibition team or arranged an approved equivalent role.
-- [ ] We understand our Organization and Museography, Setup, or Cleanup responsibilities.
-- [ ] Our final project is complete and matches the work documented on Webador.
-- [ ] We submitted all space, equipment, power, network, and installation requirements by the stated deadline.
-- [ ] We planned how the project will be transported, installed, monitored, and removed.
-- [ ] We prepared all required equipment, materials, tools, cables, adapters, and supports.
-- [ ] We prepared a stable copy and backup of all essential files.
-- [ ] We tested all media, links, interactions, software, and equipment.
-- [ ] Our printed poster is ready, and its QR code opens the correct public Webador entry.
-- [ ] Required labels, instructions, credits, and accessibility supports are ready.
-- [ ] Videos have captions, audio-only material has a transcript or equivalent text summary, and important visual or interactive information has a text alternative.
-- [ ] Consent, privacy, representation, safety, and cultural requirements have been addressed.
-- [ ] We planned a rotation for presenting the project and engaging with visitors.
-- [ ] All members are prepared to discuss the project.
-- [ ] We know when and how to remove the project after the exhibition.
-
-After the exhibition:
-
-- [ ] We removed our project only at the scheduled time.
-- [ ] We collected our poster, equipment, materials, tools, and personal belongings.
-- [ ] We returned borrowed equipment.
-- [ ] We completed our assigned cleanup or organizational responsibilities.
-- [ ] We left the exhibition space clean, safe, and organized.
-- [ ] The instructor confirmed that our team responsibilities were complete.
-
-> Missing required participation without an approved alternative, arriving without a presentation-ready project, not completing an assigned exhibition-team role, leaving the work unsupported, removing it early, or not helping restore the space will affect the exhibition assessment according to the assignment criteria.
+Missing required participation without an approved alternative, arriving without a presentation-ready project, not completing an assigned exhibition-team role, leaving the work unsupported, removing it early, or not helping restore the space will affect the exhibition assessment according to the assignment criteria.
 
 ---
 
