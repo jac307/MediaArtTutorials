@@ -18,7 +18,7 @@ Each group must bring, install, and present the same final project documented in
 
 The exhibition date, location, public hours, accessibility information, installation schedule, and cleanup schedule will be posted on **Avenue to Learn**.
 
-In addition to their project-group responsibilities, students will work as members of an exhibition team supporting the class-wide design and operation of the event.
+In addition to their project-group responsibilities, **students will work as members of an exhibition team** supporting the class-wide design and operation of the event.
 
 > Participation includes more than displaying your own project. The exhibition depends on shared planning, museography, setup, visitor engagement, and cleanup.
 
