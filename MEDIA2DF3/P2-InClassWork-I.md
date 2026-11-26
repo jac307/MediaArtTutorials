@@ -214,12 +214,7 @@ SECTION 2
 
 Before beginning digital production, the pair must agree on the **same dimensions, aspect ratio, and orientation** for all four compositions.
 
-Each pair will receive **one 22 × 30 in sheet of Somerset paper** for the final printing of:
-
-- Four final compositions
-- One original photograph of the assigned animal
-
-For this reason, all compositions must use one of the following formats:
+Choose one of the following formats for all of your compositions:
 
 - **6 × 8 in** — portrait
 - **8 × 6 in** — landscape
@@ -372,8 +367,8 @@ Submit **three files per pair**:
 | Item | Required filename |
 |---|---|
 | Designed Project 2 research, concept, and sketches PDF | `Group-#-Project2-Design.pdf` |
-| Student 1 – First Composition | `Lastname-Firstname-P2-1.pdf` |
-| Student 2 – First Composition | `Lastname-Firstname-P2-1.pdf` |
+| Student 1 – First Composition | `Lastname-Firstname-P2-1.pdf` or `Lastname-Firstname-P2-1.tiff` |
+| Student 2 – First Composition | `Lastname-Firstname-P2-1.pdf` or `Lastname-Firstname-P2-1.tiff` |
 
 ## Final checklist
 

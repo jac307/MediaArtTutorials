@@ -17,7 +17,7 @@
 
 ## Goal
 
-During Part 2, each student will develop their **second individual composition**, completing the pair's series of four interpretations of the assigned animal. Each pair will also update their **Adobe InDesign planning document** and prepare a layout showing how the four compositions and the original photograph will fit together on the final **22 × 30 in Somerset paper**.
+During Part 2, each student will complete their **first individual composition** and develop their **second individual composition**. The pair will also update their **Adobe InDesign planning document** and prepare a layout including four compositions and an original photograph ready for printing.
 
 ---
 
@@ -28,15 +28,6 @@ During Part 2, each student will develop their **second individual composition**
 - **Adobe Photoshop** — raster-based composition, image manipulation, collage, texture, and digital painting
 
 > **Do not use Image Trace in Adobe Illustrator or automated tracing techniques to generate the compositions.**
-
-## Accessibility and learning support
-
-- The written instructions contain the required steps. In-class printing demonstrations provide additional support.
-- Partners may divide shared file preparation, print-layout, printing, and documentation responsibilities according to their strengths and access needs. Each student remains responsible for revising and completing two individual compositions.
-- You may use zoom, screen magnification, keyboard navigation, adapted input devices, colour-identification tools, or other assistive technology.
-- Do not rely on colour alone to communicate relationships within the series; also use shape, texture, placement, scale, labels, or another visible cue.
-- If using Illustrator or Photoshop, handling the large print sheet, transporting files, attending the printing process, or another required task creates an access barrier, contact the instructor early to arrange an equivalent role, accessible session, or method.
-- Keep editable source files and make any planning or reflection PDFs text-based where possible, with readable type, strong contrast, descriptive headings, and a logical reading order.
 
 ## Complete the activity in three stages
 
@@ -58,11 +49,9 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-Each student will create their **second individual composition: the abstract interpretation** of the assigned animal.
+Each student will create/complete their **second individual composition: the abstract interpretation** of the assigned animal.
 
 The abstract composition should transform the animal through formal and conceptual experimentation rather than simply reproduce its appearance.
-
-> Complete **at least 70% of your second composition for submission**.
 
 Consider:
 
@@ -165,7 +154,7 @@ SECTION 2
 
 Each student must also **complete Composition 1** from Part 1.
 
-The instructor will provide feedback approximately **2 days after the Part 1 submission deadline**. Review this feedback carefully and make all required revisions before considering Composition 1 complete.
+The instructor will provide feedback approximately **2 days after the Part 1 submission deadline** or **during class time**. Review this feedback carefully and make all required revisions before considering Composition 1 complete.
 
 Revisions may address:
 
@@ -186,23 +175,6 @@ Revisions may address:
 
 ---
 
-## Submission
-
-Each student must submit **two composition files**:
-
-| Item | Required filename |
-|---|---|
-| Student 1 – Updated Composition 1 | `Lastname-Firstname-P2-1.pdf` or `.tiff` |
-| Student 1 – Composition 2 | `Lastname-Firstname-P2-2.pdf` or `.tiff` |
-| Student 2 – Updated Composition 1 | `Lastname-Firstname-P2-1.pdf` or `.tiff` |
-| Student 2 – Composition 2 | `Lastname-Firstname-P2-2.pdf` or `.tiff` |
-
-> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing planning-document requirements, incomplete compositions, or incorrect print-layout and file settings will affect the grade.
-
-Review the **Printing Session instructions below** to make sure your files and final print document are prepared correctly. Check the [Final Submission Guidelines](P2-Final-Submission.md) for the remaining **printing, exhibition, and documentation requirements**.
-
----
-
 <!-- 
 /////////////////
 PRINTING SESSION
@@ -211,23 +183,23 @@ PRINTING SESSION
 
 <details class="tutorial-section" id="printing-session">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Stage 3: Prepare for and attend the printing session</span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Prepare your compositions for printing</span>
     <span class="section-description">
-      Revise the final compositions, prepare the 22 × 30 in Somerset print file, and attend the required printing session with the instructor during Week 12.
+      Prepare and Submit the required print file with the correct settings.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Before preparing the final printing document, both students must **review and address all feedback provided by the instructor on Compositions 1 and 2**, as well as any feedback related to the **overall cohesiveness of the four-composition series**.
+<!-- Before preparing the final printing document, both students must **review and address all feedback provided by the instructor on Compositions 1 and 2**, as well as any feedback related to the **overall cohesiveness of the four-composition series**.
 
-> Only prepare the final print file after making the required revisions to all four compositions.
+> Only prepare the final print file after making the required revisions to all four compositions. -->
 
-#### Prepare the final Somerset print sheet
+#### Prepare the print document
 
-Each pair will receive **one 22 × 30 in sheet of Somerset paper** for printing the complete series.
+Create a new **44 inches long Illustrator document**; height depends on your compositions. You must include at least 2 inches on the top and 2 inches on the bottom.
 
-Create a new **22 × 30 in Illustrator document** and import the final versions of all five images:
+Import the final versions of all five images in a row:
 
 1. Student 1 – Realistic or Figurative Composition
 2. Student 1 – Abstract Composition
@@ -240,6 +212,9 @@ For the four student compositions:
 - Import the final **Illustrator/PDF vector files** when the work was created in Illustrator.
 - Import the final **TIFF files** when the work was created in Photoshop.
 - Do not flatten or unnecessarily rasterize vector-based compositions before placing them into the final Illustrator document.
+- **Embed documents/images**.
+
+> Leave at least 4 inches in-between compositions + at least 2 inches on the edges. 
 
 #### Original photograph
 
@@ -255,62 +230,39 @@ You may:
 
 The final photograph must use the **same dimensions and aspect ratio** as the four digital compositions.
 
-#### Arrange the print sheet
+#### Export File
 
-Place all five images within the **22 × 30 in Illustrator document**.
+Save printing file as: 
 
-Consider:
-
-- Orientation of the sheet
-- Placement of all five images
-- Consistent spacing
-- Space for trimming
-- Efficient use of the paper
-- Alignment
-- Relationship between the five images
-
-> Do not scale individual compositions differently to make them fit. All five images must maintain the dimensions selected during Part 1.
-
-The complete print layout should demonstrate careful use of the Somerset sheet while leaving sufficient space for trimming.
-
-#### Printing Session – Week 12
-
-Printing will take place during **Week 12**.
-
-The instructor will provide the available session times and additional scheduling information through **Avenue to Learn**.
-
-Each pair must:
-
-1. Select one of the available printing sessions.
-2. Attend the scheduled session **with the instructor**.
-3. Arrive on time with the **final revised compositions and completed 22 × 30 in printing document on a USB drive**.
-4. Print the complete five-image series on the provided Somerset paper.
-
-> Attendance at the scheduled printing session is required. If an approved circumstance or access barrier affects attendance, contact the instructor as early as possible to arrange another session or an equivalent participation plan.
-
-This printing session is worth **2 points** and will be evaluated in person.
-
-If a pair misses its scheduled session without an approved alternative:
-
-- The pair will **lose the 2 points assigned to the printing session**.
-- The students must still **contact the instructor and reschedule another printing session**.
-- The final project must still be printed with the instructor before the exhibition.
-
-> Missing the original appointment does not remove the printing requirement. The project cannot be printed independently as a substitute for the required session.
+`Group-#-PrintingFile.pdf`. 
 
 #### Final checklist
 
 - [ ] Each student completed and revised both individual compositions.
 - [ ] All four compositions use the same dimensions, aspect ratio, and orientation.
-- [ ] Illustrator or Photoshop source files remain layered and editable.
-- [ ] The 22 × 30 in print sheet contains the four final compositions and one high-quality original photograph.
-- [ ] All five images use the same dimensions and aspect ratio.
+- [ ] **All imported documents/images were embedded.**
+- [ ] The sheet contains the four final compositions and one high-quality original photograph.
 - [ ] The print sheet preserves consistent spacing, space for trimming, and the original proportions of every image.
-- [ ] We saved the final files on a working USB drive and kept a backup copy.
-- [ ] We confirmed our printing-session date, time, location, and any approved participation plan.
+- [ ] Illustrator or Photoshop source files remain layered and editable.
 
 </div>
 </details>
+
+---
+
+## Submission 1
+
+Each student must submit **two composition files**:
+
+| Item | Required filename |
+|---|---|
+| Student 1 – Updated Composition 1 | `Lastname-Firstname-P2-1.pdf` or `.tiff` |
+| Student 1 – Composition 2 | `Lastname-Firstname-P2-2.pdf` or `.tiff` |
+| Student 2 – Updated Composition 1 | `Lastname-Firstname-P2-1.pdf` or `.tiff` |
+| Student 2 – Composition 2 | `Lastname-Firstname-P2-2.pdf` or `.tiff` |
+| Pair – Printing File | `Group-#-PrintingFile.pdf`|
+
+> Files that cannot be opened, identified, or accessed may need to be resubmitted and may be considered late. Missing planning-document requirements, incomplete compositions, or incorrect print-layout and file settings will affect the grade.
 
 ---
 
