@@ -1,4 +1,4 @@
-u[IARTS 3MD3](../README.md)
+[IARTS 3MD3](../README.md)
 
 # P2: Research-Creation Project
 
