@@ -82,7 +82,7 @@ Bring the printed posted on the required day/time set by the instructor.
 
 The Organization and Museography Team will work with the instructor before the exhibition.
 
-Responsibilities may include:
+**Responsibilities may include:**
 
 - Collecting project dimensions, technical needs, and installation requirements
 - Helping prepare a floor plan or exhibition layout
@@ -122,7 +122,7 @@ The team must consider:
 
 Setup Team members must arrive at the time posted on Avenue.
 
-Responsibilities may include:
+**Responsibilities may include:**
 
 - Preparing and cleaning the exhibition space
 - Arranging approved tables, plinths, seating, screens, and display areas
@@ -201,7 +201,7 @@ All groups are responsible for removing their own projects at the scheduled time
 
 Cleanup Team members must remain until the instructor confirms that the complete space has been restored.
 
-Responsibilities may include:
+**Responsibilities may include:**
 
 - Helping groups take down work safely
 - Removing class-wide posters, labels, signs, and visitor information
