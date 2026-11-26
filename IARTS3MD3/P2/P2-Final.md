@@ -8,9 +8,7 @@
 
 ## Goal
 
-Complete the final research-creation project, document it on Webador, and explain how the group’s artistic decisions connect to the research, selected artist or collective, unfamiliar technology or technique, and intended audience experience. Design a research-creation poster that introduces the work and directs viewers to the complete Webador entry.
-
-The final submission should show how research, technological experimentation, prototyping, audience testing, critique, and revision informed the artwork. Where relevant, explain how the project engages equity, diversity, and inclusion (EDI).
+Complete the final artwork and present it on Webador with an Artistic Analysis and research-creation poster. Explain how research, the selected artist or collective, and technological experimentation shaped the work and its audience experience. After the class exhibition, add photographs and/or video documenting the project’s public presentation.
 
 > **Timing:** Complete Stage 1 to Stage 3 before the class exhibition. **Stage 4 is the only section you will complete during the class exhibition and add required info on Webador after the exhibition.**. 
 
@@ -378,7 +376,7 @@ Use documentation captured during the class exhibition. Keep the final artwork u
 | **Artistic Analysis** | Collaborative introduction; **one individually authored decision paragraph per member**; collaborative conclusion. **Each paragraph: 150–200 words.** Identify each individual writer. Connect decisions to research, specific evidence from the artwork, and audience experience. Include APA in-text citations. | **Before the exhibition** |
 | **References** | One consolidated **APA reference list** covering sources cited in the final project description and Artistic Analysis. Arrange alphabetically, remove duplicates, and include DOI or URL information where required. **No annotations.** | **Before the exhibition** |
 | **Research-Creation Poster** | Poster image; brief alt text; identifying caption; PDF link when possible; equivalent text information. The poster must explain **what the project is about, what unfamiliar technology was explored, and how artistic influences and research informed the work**. Include project title and names, **2–4 final-project images**, one referenced artwork, selected APA references, and a QR code with readable Webador URL. Approximately **300–400 words**, excluding captions, credits, references, and URL. Landscape: **24 inches wide × 18 inches high**. | **Before the exhibition** |
-| **Exhibition Documentation**, within **Research-Creation Project** | Photographs and/or video showing the work **as presented in the class exhibition**. If using a photographic gallery, select **5–8 images**. Embed video when appropriate. Include a brief exhibition caption, image descriptions, credits, and relevant media alternatives. | **After the exhibition — the only section added afterward** |
+| **Exhibition Documentation**, within **Research-Creation Project** | Photographs and/or video showing the work **as presented in the class exhibition**. If using a photographic gallery, select **5–8 images**. Embed video when appropriate. Include a brief exhibition caption, image descriptions, credits, and relevant media alternatives. | **After the exhibition** |
 
 > Preserve the earlier research, proposals, and prototype sections. All uploaded media must meet the caption, alt text, credit, consent, and access requirements.
 
