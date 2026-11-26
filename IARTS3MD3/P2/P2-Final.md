@@ -1,550 +1,362 @@
 [IARTS 3MD3](../README.md) | [Project 2 Overview](P2-Overview.md) | [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
 
-## P2: Research-Creation Project
-
-# Final Submission
+# P2: Research-Creation Project — Final Submission
 
 **Work format:** Groups of 3–4
 
-**Goal:** Complete the final version of the research-creation project, document it on Webador, and analyze how the group’s artistic decisions connect to the research, selected artist or collective, unfamiliar technology, and intended audience experience. Create a final research-creation poster that directs viewers to the complete Webador entry.
+## Goal
 
-The final submission should demonstrate how the project developed through research, technological experimentation, prototyping, audience testing, critique, and revision.
+Complete the final research-creation project, document it on Webador, and explain how the group’s artistic decisions connect to the research, selected artist or collective, unfamiliar technology or technique, and intended audience experience. Design a research-creation poster that introduces the work and directs viewers to the complete Webador entry.
 
-> Earlier proposals, research, and prototype versions must remain on Webador as a record of the project’s development. Do not overwrite the process with the final version.
+The final submission should show how research, technological experimentation, prototyping, audience testing, critique, and revision informed the artwork. Where relevant, explain how the project engages equity, diversity, and inclusion (EDI).
 
-## What you will complete
-
-- The **Final Research-Creation Project**
-- Final project documentation on Webador
-- A collaborative **Artistic Analysis** consisting of an introduction, one individually authored decision paragraph per member, and a conclusion
-- A final APA reference list
-- A digital research-creation poster uploaded to Webador
-- One printed 18 × 24-inch poster delivered to the instructor in person
-- A complete review of the group’s Webador entry
+> **Timing:** Complete Stage 1 to Stage 3 before the class exhibition. **Stage 4 is the only section you will complete during the class exhibition and add required info on Webador after the exhibition.**. 
 
 ## Division of labour
 
-Every member must contribute substantially to the final project and submission.
+Every member must contribute substantially to the final project and submission by doing the following activities:
 
-| Member | Final production responsibility | Artistic Analysis paragraph | Documentation or Webador responsibility | Poster responsibility |
-|---|---|---|---|---|
-| Member 1 | Assigned final revision or component | One distinct artistic decision | Assigned task | Assigned task |
-| Member 2 | Assigned final revision or component | One distinct artistic decision | Assigned task | Assigned task |
-| Member 3 | Assigned final revision or component | One distinct artistic decision | Assigned task | Assigned task |
-| Member 4, if applicable | Assigned final revision or component | One distinct artistic decision | Assigned task | Assigned task |
+| Final production responsibility | Artistic Analysis topic | Documentation or Webador responsibility | Poster responsibility |
+|---|---|---|---|
+| Assigned revision or component | One distinct artistic decision | Assigned task | Assigned task |
 
-The introduction and conclusion of the Artistic Analysis must be planned and reviewed collaboratively. Assigning them to one editor does not remove the group’s responsibility for their content.
+> Plan and review the Artistic Analysis introduction and conclusion collaboratively. One member may coordinate the editing, but the group remains responsible for the content.
 
-Responsibilities may include final media production, editing, coding, fabrication, performance, installation, sound, interaction design, technical integration, accessibility, documentation, writing, citation checking, Webador editing, poster design, proofreading, or coordination.
+## Read and complete the instructions step by step
 
-> All group members must review the final artwork, Artistic Analysis, reference list, poster, and complete Webador entry before submission.
+**Complete this version in the order presented below.**
 
-## Activity stages
+Do not try to complete all of the requirements at once. Each stage builds on the work from the previous stage.
 
-Complete the following stages in order.
+**Start with Stage 1 and complete each step before moving to the next stage.** Use the checklists and **Before moving on** prompts to confirm that you have completed the required work.
 
 <details class="tutorial-section" id="review-feedback-plan-final">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">1. Review the critique and plan the final revisions</span>
-    <span class="section-description">
-      Evaluate the feedback, select the changes that strengthen the project, and assign the remaining work.
-    </span>
+    <span class="section-title" role="heading" aria-level="3">Stage 1: Review, revise, and complete the final project</span>
+    <span class="section-description">Review feedback, plan revisions, and complete and test the final artwork.</span>
   </summary>
 <div class="section-content" markdown="1">
 
-#### Review the project record
+#### <span class="step-label">Step 1:</span> Review the project record
 
-Review:
+Review the following alongside your artistic and academic research:
 
 - **Research-Creation Proposal: Iteration 3**
 - **Technological Research: Version 1**
 - **First Artistic Prototype: Version 1**
 - Audience-testing observations and findings
 - **Artistic Prototype: Version 2**
-- Prototype critique notes
-- Artistic and academic research
-- Feedback from the instructor and class
-- Remaining technical, artistic, accessibility, ethical, or production concerns
+- Prototype critique notes and feedback from the instructor and class
+- Remaining artistic, technical, accessibility, ethical, or production concerns
 
-#### Evaluate the critique feedback
+#### <span class="step-label">Step 2:</span> Evaluate the feedback
 
-Organize the feedback under the following categories:
+For each significant recommendation made by classmates, choose a response and record a brief reason:
 
-- Concept and EDI concern
-- Research and theory
-- Selected artist or collective
-- Structure and coherence
-- Audience experience
-- Technology or technique
-- Accessibility, ethics, consent, privacy, and representation
-- Materials, production, and presentation
+| Response | When to use it |
+|---|---|
+| Apply | The recommendation addresses a documented problem. |
+| Adapt | The concern is useful, but the proposed solution needs to change to fit the project. |
+| Test | More evidence is needed before making a decision. |
+| Decline | The recommendation conflicts with the project’s research, concept, ethics, or intended experience. |
 
-For each significant recommendation, decide whether the group will:
+> You do not need to follow every comment. Explain how your decisions support the project.
 
-- **Apply it** because it addresses a documented problem
-- **Adapt it** because the underlying concern is useful but the proposed solution does not fit the project
-- **Test it** because more evidence is required
-- **Decline it** because it conflicts with the project’s research, concept, ethics, or intended experience
+#### <span class="step-label">Step 3:</span> Prepare the final revision plan
 
-Record a brief reason for each decision. The group is not required to follow every comment, but decisions must be intentional and supported.
-
-#### Prepare the final revision plan
-
-Complete the following table:
-
-| Priority | Finding or feedback | Final decision | Required action | Assigned member or members | Deadline | Evidence of completion |
+| Priority | Finding or feedback | Decision and reason | Required action | Assigned member(s) | Internal deadline | Evidence of completion |
 |---|---|---|---|---|---|---|
-| Required, Important, or Optional | What needs attention? | Apply, adapt, test, or decline | What specifically will be completed? | Full name(s) | Date and time | How will the group confirm completion? |
+| Required, Important, or Optional | What needs attention? | Apply, adapt, test, or decline; explain why | What will change? | Full name(s) | Date and time | How will you check the result? |
 
-Complete all Required changes before Optional refinements.
+Complete required changes before optional refinements. Allow time to integrate the components, test the complete project, prepare documentation, and print the poster.
 
-</div>
-</details>
+#### <span class="step-label">Step 4:</span> Complete your assigned work
 
-<details class="tutorial-section" id="complete-final-project">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">2. Complete the final research-creation project</span>
-    <span class="section-description">
-      Produce, integrate, test, and document the final version of the artwork.
-    </span>
-  </summary>
-<div class="section-content" markdown="1">
+Each member must complete their production responsibilities, share the required files and materials, and meet the group’s internal deadlines. Preserve editable or source files where possible. Record sources, credits, permissions, licences, and consent as you work. Communicate barriers early enough for the group to adjust its plan.
 
-#### Complete the final revisions
-
-Each member must:
-
-- Complete their assigned production responsibilities
-- Respond to the approved revision plan
-- Preserve editable or source files when possible
-- Record citations, credits, permissions, licences, and consent
-- Communicate barriers before they affect the final assembly
-- Share all required files and materials with the group
-- Meet the group’s internal deadlines
-
-#### Assemble the final project
+#### <span class="step-label">Step 5:</span> Assemble the final artwork
 
 The final project must:
 
-- Present a complete and coherent artistic experience
-- Clearly engage the main artistic question or EDI concern
-- Demonstrate a specific and meaningful relationship to the research
-- Draw from, translate, question, or extend strategies from the selected artist or collective
-- Integrate the unfamiliar technology or technique as an artistic component
-- Include all required media, text, code, objects, interactions, performance material, or other content
-- Contain no unintended placeholders or temporary assets
-- Include the instructions required to encounter, operate, or understand how to enter the work
-- Address accessibility, consent, privacy, representation, safety, and cultural responsibilities
-- Be stable enough to open, play, perform, install, navigate, or experience as intended
-- Include a stable backup and alternative plan for essential equipment, files, or network access
+- Present a complete and coherent artistic experience within the approved scope.
+- Engage the main artistic question or EDI concern through specific artistic decisions.
+- Show a meaningful relationship to the research and to strategies drawn from, translated, questioned, or extended from the selected artist or collective.
+- Integrate the unfamiliar technology or technique as an artistic component.
+- Include all required media, text, code, objects, interactions, performance material, or other content, without unintended placeholders or temporary assets.
+- Provide the instructions needed to enter, navigate, operate, or experience the work.
+- Address relevant accessibility, consent, privacy, representation, safety, and cultural responsibilities.
+- Be stable enough to open, play, perform, install, navigate, or experience as intended.
+- Include a backup and an alternative plan for essential equipment, files, or network access.
 
-> Final does not mean that an artwork can never change again. It means that the submitted project is complete within its approved scope and does not depend on missing material or future explanation to function.
+#### <span class="step-label">Step 6:</span> Test the complete experience
 
-#### Complete the final quality check
+Experience the project under its intended final conditions as closely as possible. Check:
 
-Experience the complete project under its intended conditions as closely as possible.
-
-Confirm that:
-
-- [ ] The project has a clear entry point for the audience.
-- [ ] The complete structure, sequence, interaction, performance, or audience path can be experienced.
-- [ ] Required instructions are concise and understandable.
-- [ ] All media, links, code, interfaces, equipment, and interactions function.
-- [ ] Audio levels, image quality, pacing, transitions, and presentation have been checked.
-- [ ] All required materials are present.
-- [ ] The research and artist connections are expressed through the artwork, not only through explanatory text.
-- [ ] Accessibility supports and alternatives are complete.
-- [ ] Consent, privacy, representation, safety, and cultural concerns have been addressed.
-- [ ] Credits and source information are complete.
-- [ ] A stable final copy and backup are available.
-
-</div>
-</details>
-
-<details class="tutorial-section" id="document-final-project">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">3. Document the final project on Webador</span>
-    <span class="section-description">
-      Add a complete public record of the final artwork without removing the earlier project stages.
-    </span>
-  </summary>
-<div class="section-content" markdown="1">
-
-#### Add the final project section
-
-Open the selected artist or collective’s Webador page. Add the final project after the earlier prototype sections using the heading:
-
-**Final Research-Creation Project**
-
-Include:
-
-- Final project title
-- Full names of all group members
-- A **150–200-word final project description**
-- A gallery containing **five to eight images**
-- Embedded video or audio when required to experience the work
-- A stable public link to an interactive, web-based, downloadable, or externally hosted project when relevant
-- Instructions required to encounter, navigate, operate, or access the work
-- Captions, alt text, and credits
-
-Do not include student numbers or private production information on Webador.
-
-#### Write the final project description
-
-Explain:
-
-- What the project invites the audience to see, hear, encounter, consider, or do
-- The central artistic question or EDI concern
-- The form and structure of the final work
-- The relationship between the artistic choices, research, and selected artist or collective
-- The artistic role of the unfamiliar technology or technique
-
-Write for a general audience. Do not provide a chronological account of the production process or repeat the complete Artistic Analysis.
-
-#### Prepare the final documentation
-
-Select five to eight images showing:
-
-- The complete project or overall installation
-- The intended audience perspective
-- Important visual, spatial, material, performative, or interactive details
-- The unfamiliar technology or technique in use
-- Relevant screens, interfaces, objects, media, or outputs
-
-Each image must include:
-
-- A brief caption identifying what it shows
-- Alt text describing the relevant visual information
-- A credit when required
-
-For video, animation, sound, performance, interactive, or other time-based work, upload the final documentation to **YouTube or Vimeo** and embed it on Webador. The media may be unlisted but must remain accessible without requiring permission.
-
-Videos must include captions. Audio-only material must include a transcript or an equivalent text summary. Provide a text explanation for important visual, interactive, spatial, or sensory information that is not otherwise communicated.
-
-For web-based or interactive projects, include a stable public link and enough documentation for the project to remain understandable if the external experience later becomes unavailable.
-
-> Obtain consent before photographing, recording, quoting, or identifying anyone outside the group.
+1. **Entry and instructions:** Can an audience member understand where to begin and what to do?
+2. **Complete experience:** Does the full sequence, interaction, installation, or performance work from beginning to end?
+3. **Media and presentation:** Do files, links, interfaces, code, and equipment function? Check sound levels, image quality, pacing, and transitions as relevant.
+4. **Artistic meaning:** Are the research and artist connections expressed through the work as well as explained in the accompanying text?
+5. **Access and ethics:** Are the planned access supports, alternatives, permissions, and credits complete? Can essential instructions and information be encountered in more than one way where needed?
+6. **Backup:** Can the group recover the final files and continue if an essential component fails?
 
 </div>
 </details>
 
 <details class="tutorial-section" id="write-artistic-analysis">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">4. Write the collaborative Artistic Analysis</span>
-    <span class="section-description">
-      Analyze how the group’s decisions connect the theory, research, artistic precedents, technology, and audience experience.
-    </span>
+    <span class="section-title" role="heading" aria-level="3">Stage 2: Write the collaborative Artistic Analysis and reference list</span>
+    <span class="section-description">Explain and evaluate how artistic decisions connect research, artistic precedents, technology, and audience experience.</span>
   </summary>
 <div class="section-content" markdown="1">
 
-#### Add the Artistic Analysis section
+#### Structure and length
 
-On Webador, add the heading:
+Add your final analysis on Webador under the heading **Artistic Analysis**.
 
-**Artistic Analysis**
+Include one collaboratively written introduction, one individually authored decision paragraph per member, and one collaboratively written conclusion. **Each paragraph must contain 150–200 words.** Use APA in-text citations when referring to sources.
 
-The analysis must contain:
+| Group size | Required paragraphs | Total length |
+|---|---|---|
+| 3 members | Introduction + 3 decision paragraphs + conclusion | 750–1,000 words |
+| 4 members | Introduction + 4 decision paragraphs + conclusion | 900–1,200 words |
 
-- One collaboratively written introduction paragraph
-- One individually authored decision paragraph from each group member
-- One collaboratively written conclusion paragraph
-- APA in-text citations
+#### <span class="step-label">Step 1:</span> Write the introduction collaboratively
 
-Use **150–200 words for each paragraph**.
+Identify the project, central artistic question or EDI concern, final form, and intended audience experience. Present the main argument of the analysis: what do the group’s artistic decisions allow the work to communicate, explore, or question?
 
-The total expected length is:
+Introduce the theoretical, artistic, or research contexts that support this argument, including the relationship to the selected artist or collective. Establish a focused argument rather than listing the paragraphs that follow.
 
-| Group size | Required paragraphs | Approximate total length |
-|---|---:|---:|
-| 3 members | 5 paragraphs | 750–1,000 words |
-| 4 members | 6 paragraphs | 900–1,200 words |
+#### <span class="step-label">Step 2:</span> Write one decision paragraph per member
 
-#### Write the introduction paragraph collaboratively
+Each member must analyze **one distinct artistic decision**. Coordinate topics before drafting so the paragraphs develop different parts of the group’s argument.
 
-The introduction should:
-
-- Identify the final project and central artistic question or EDI concern
-- Present the main argument of the analysis
-- Identify the final form and intended audience experience
-- Introduce the most important theoretical, artistic, or research contexts
-- Establish how the project relates to the selected artist or collective
-
-The introduction should establish a focused argument rather than summarize each paragraph.
-
-#### Write the individual decision paragraphs
-
-Each member must write one paragraph analyzing **one distinct artistic decision**.
-
-Possible decisions include:
+Possible topics include:
 
 - Form, structure, sequence, pacing, or spatial organization
-- Image, sound, movement, text, material, or interaction
-- Translation, questioning, or extension of a strategy used by the selected artist or collective
-- Use of the unfamiliar technology or technique
+- Image, sound, movement, text, materials, or interaction
+- A strategy drawn from, translated, questioned, or extended from the selected artist or collective
+- The artistic use of the unfamiliar technology or technique
 - Audience instructions, participation, or mode of encounter
-- Accessibility, consent, privacy, representation, safety, or cultural accountability
-- A substantial revision made after audience testing or critique
+- Accessibility, consent, privacy, representation, safety, or cultural responsibility
+- A substantial revision informed by audience testing or critique
 
 Each paragraph must:
 
-- Clearly identify the decision
-- Explain why the group made it
-- Connect it to at least one course reading, academic source, artwork, artist, or other relevant research source
-- Use specific evidence from the final artwork
-- Explain how the decision shapes the audience experience or meaning of the work
-- Evaluate the result rather than only describing the production task
-- Include APA in-text citations when referring to sources
+1. Identify the decision and explain why the group made it.
+2. Connect it to at least one course reading, academic source, artwork, artist, or other relevant research source.
+3. Use a specific example from the final artwork as evidence.
+4. Explain how the decision shapes the audience experience or the meaning of the work.
+5. Evaluate the result, including any relevant limitation or tension.
+6. Include APA in-text citations for borrowed ideas, quotations, and source-based claims.
 
-Label each paragraph with a brief descriptive subheading and the writer’s full name. For example:
+Use a descriptive subheading followed by the writer’s full name. For example:
 
-**Fragmented Sound and Audience Attention — Written by Full Name**
+*Fragmented Sound and Audience Attention — Written by Full Name*
 
-The paragraph remains part of a collaborative analysis even though one member is responsible for writing it. Group members must coordinate their topics so the paragraphs do not repeat the same decision.
+This is a subheading example, not a required topic. Each writer remains responsible for their paragraph while the group reviews the complete text as one collaborative analysis.
 
-> A paragraph describing what a student made, which software they used, or whether the task was difficult is not an artistic analysis unless it explains the decision’s relationship to the research and its effect on the artwork.
+> Describing a production task, naming software, or stating that a process was difficult does not by itself explain an artistic decision. Connect the choice to the research and evaluate what it contributes to the artwork.
 
-#### Write the conclusion paragraph collaboratively
+#### <span class="step-label">Step 3:</span> Write the conclusion collaboratively
 
-The conclusion should:
+Return to the main argument and explain how the decisions work together. Evaluate how the final work engages the artistic question or EDI concern and how the research informs the audience experience. Acknowledge an important limitation, tension, or remaining question.
 
-- Synthesize the individual decisions without repeating them one by one
-- Explain how the decisions work together in the final project
-- Return to the main argument introduced in the first paragraph
-- Evaluate how the final work engages the artistic question or EDI concern
-- Reflect on the relationship between the research and audience experience
-- Acknowledge an important limitation, tension, or question that remains
+Synthesize the analysis without repeating each paragraph. Do not introduce a new major decision or source.
 
-Do not introduce a new major decision or source in the conclusion.
+#### <span class="step-label">Step 4:</span> Revise the analysis as one text
 
-#### Revise the analysis as one text
+Read the complete draft together. Check that the argument develops across the paragraphs, each decision has specific evidence and a research connection, and the conclusion follows from the analysis.
 
-After drafting the paragraphs, revise the complete analysis as a group.
+Add transitions and remove repetition. Support and carefully frame claims about artists, communities, identities, and social issues.
 
-Confirm that:
+Confirm that every paragraph contains **150–200 words**. Identify each individual paragraph’s writer; the introduction and conclusion are collaborative.
 
-- [ ] The introduction presents a clear argument.
-- [ ] Each member analyzes a different artistic decision.
-- [ ] Every decision is connected to relevant research or theory.
-- [ ] The analysis uses evidence from the final project.
-- [ ] The paragraphs explain effects on the audience experience or meaning.
-- [ ] Transitions make the analysis read as one coherent text.
-- [ ] Repeated information has been removed.
-- [ ] Claims about artists, communities, identities, or social issues are supported and appropriately framed.
-- [ ] All borrowed ideas and quotations include APA in-text citations.
-- [ ] The conclusion synthesizes the complete analysis.
-- [ ] Each paragraph is 150–200 words.
+Publish the revised text on Webador under **Artistic Analysis**.
 
-</div>
-</details>
+#### <span class="step-label">Step 5:</span> Add the reference list
 
-<details class="tutorial-section" id="final-references">
-  <summary>
-    <span class="section-title" role="heading" aria-level="3">5. Add the final APA reference list</span>
-    <span class="section-description">
-      Provide a complete, updated list of the sources cited in the final project description and Artistic Analysis.
-    </span>
-  </summary>
-<div class="section-content" markdown="1">
+After the Artistic Analysis, add the heading **References** on Webador.
 
-#### Add the References section
+Provide one consolidated list in **APA style**:
 
-After the Artistic Analysis, add the heading:
+- Include every source cited in the final project description and Artistic Analysis.
+- Include the course readings, academic research, artist texts, artworks, exhibitions, interviews, websites, datasets, software, and media that you cite.
+- Match each in-text citation to its reference entry and remove duplicates.
+- Arrange entries alphabetically by the first author’s or creator’s surname, or by the appropriate author or title information when no surname applies.
+- Use hanging indents when Webador formatting permits.
+- Include working DOI or URL information where required.
+- Do not include annotations, summaries, or evaluations.
 
-**References**
+Keep source citations and media credits clear. An APA reference identifies a source; a credit identifies the creator or rights holder and any required attribution or licence information.
 
-Provide one consolidated reference list in **APA style**.
-
-The list must:
-
-- Include every source cited in the final project description and Artistic Analysis
-- Include relevant course readings, academic research, artist texts, artworks, exhibitions, interviews, websites, datasets, software, or media
-- Match all APA in-text citations used in the analysis
-- Arrange entries alphabetically by the first author’s or creator’s surname
-- Use hanging indents when Webador formatting permits
-- Include working DOI or URL information when required
-- Remove duplicate entries
-- Contain no annotations, summaries, or evaluations
-
-> This is a final reference list, not an annotated bibliography. Preserve earlier annotated research sections as part of the development record, but do not repeat their annotations in the final References section.
+> This is a final reference list, not an annotated bibliography. Preserve earlier annotated research sections as part of the development record, but do not repeat their annotations here.
 
 </div>
 </details>
 
-<details class="tutorial-section" id="final-poster">
+<details class="tutorial-section" id="document-final-project">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">6. Design, upload, and print the research-creation poster</span>
-    <span class="section-description">
-      Create a final poster that presents the project and directs viewers to the complete Webador entry.
-    </span>
+    <span class="section-title" role="heading" aria-level="3">Stage 3: Present the final project on Webador and create the research-creation poster</span>
+    <span class="section-description">Publish the completed artwork and prepare a poster showing how research, artistic influences, and technological experimentation informed the project.</span>
   </summary>
 <div class="section-content" markdown="1">
 
-#### Design the poster
+#### <span class="step-label">Step 1:</span> Write the final project description
 
-Create a digitally designed research-creation poster that communicates the final project without reproducing the complete Webador page or Artistic Analysis.
+Write **150–200 words** for a general audience. Explain:
 
-Use approximately **300–400 words**, excluding captions, credits, references, and the printed Webador URL.
+- What the project is about, including its central artistic question or EDI concern
+- The form of the final work and what it invites the audience to experience
+- The unfamiliar technology or technique the group experimented with and its artistic role
+- How specific artistic choices connect to the selected artist or collective and relevant research
 
-Include:
+Keep the description focused on the completed work. The Artistic Analysis provides the detailed discussion of decisions and research connections.
 
-- Final project title
-- Full names of all group members
-- Name of the selected artist or collective
-- Main artistic question or EDI concern
-- Concise statement of the final project’s direction
-- Two or three important ideas from the course readings or research
-- Specific strategies drawn from, translated, questioned, or extended from the selected artist or collective
-- One referenced artwork with its title, year, caption, and credit
-- Brief explanation of the final research-creation project
-- Two to four images showing the final artwork
-- Artistic role of the unfamiliar technology or technique
-- Selected APA references
-- A QR code linking directly to the group’s complete public Webador entry
+#### <span class="step-label">Step 2:</span> Upload the final project to Webador
 
-The final project and its research connections should remain the focus. Do not allow biographical information about the artist or collective to dominate the poster.
+Open the collective’s Webador page. Under **Research-Creation Project**, located near the beginning of the page, add:
 
-#### Add and test the Webador QR code
+- Final project title and full names of all group members
+- A representative image
+- The final project description
+- The completed artwork in an appropriate format: final images, video, animation, audio, or other media
+- A direct public project link when the work is hosted elsewhere
+- Instructions for accessing, navigating, operating, or experiencing the work
 
-The poster must include a QR code that opens the group’s **final public Webador entry**.
+Upload the finished project. For video or animation, upload the final work to **YouTube or Vimeo** and embed it on Webador. Embed audio or provide a clearly labelled playback link.
 
-- Link to the public project page, not the Webador editor, login page, preview mode, or homepage.
-- Place a descriptive label beside the code, such as **View the complete project and documentation**.
-- Print the Webador URL in readable text below or beside the QR code so the page remains accessible if scanning fails.
-- Use a high-contrast QR code on a plain background.
-- Keep an empty margin around the code.
-- Make the printed code at least **1.25 × 1.25 inches**.
-- Do not crop, stretch, recolour, or place the code over an image.
-- Test the code with more than one phone before exporting the poster.
-- Test it again from the printed poster before delivering it.
-- Confirm that the Webador page opens without requesting a login or permission.
+For a live performance or installation, upload the completed materials that can be shared online and explain how the work is presented.
 
-> Generate the QR code only after confirming the final public Webador URL. If the page address changes, generate and test a new code before printing.
+Confirm that visitors can open all media and links without signing in or requesting permission.
 
-#### Follow the poster design requirements
+> Do not publish student numbers.
 
-- Use an **18 × 24-inch horizontal format**.
+##### Requirements for uploaded media
+
+- Give images captions identifying what they show and alt text describing relevant visual information.
+- Include credits where required.
+- Explain essential visual, interactive, or spatial information that the media does not otherwise communicate.
+
+#### <span class="step-label">Step 3:</span> Select the poster content
+
+The poster must clearly communicate **what the project is about, what technology the group experimented with, and how research and artistic influences shaped the final work**.
+
+Use approximately **300–400 words**, excluding captions, credits, references, and the printed Webador URL. Adapt the most relevant information from your project description and Artistic Analysis.
+
+Include the project title and all group members’ full names, followed by three concise sections:
+
+| Poster section | What to explain |
+|---|---|
+| **The project** | State the central artistic question or EDI concern. Describe the final work, its form, and the experience or ideas it invites the audience to engage with. |
+| **Technological experimentation** | Name the unfamiliar technology or technique. Explain what the group tested, explored, or changed, and how that experimentation shaped a specific feature of the final artwork. |
+| **Artistic and research connections** | Name the selected artist or collective and explain how the project draws from, translates, questions, or extends a specific artistic strategy. Connect two or three relevant ideas from course readings or other research to concrete decisions in the work. |
+
+Explain these relationships through specific examples. Naming an artist, source, or software tool alone does not explain its contribution to the project.
+
+Support the text with:
+
+- **Two to four images of the final artwork**, selected to show its form and important details
+- **One referenced artwork**, identified by its title, year, caption, and credit
+- **Selected APA references** for sources cited on the poster
+- **A QR code and readable URL** linking directly to the complete public Webador entry
+
+Keep biographical information brief and relevant to the artistic connection. Use the images and captions to help viewers understand how research and experimentation became part of the artwork.
+
+#### <span class="step-label">Step 4:</span> Design the poster
+
+- Set the page to **landscape: 24 inches wide × 18 inches high**.
 - Use full colour unless the visual approach requires otherwise.
 - Organize the content with clear headings, short sections, and a logical reading order.
-- Use readable type sizes and strong contrast.
-- Do not communicate meaning through colour alone.
-- Do not place important text over visually complex images.
-- Balance text, images, and negative space.
-- Use a consistent grid, alignment, colour palette, and typographic system.
-- Make the project title, final artwork, and research connection visible from a reasonable viewing distance.
-- Include a title, year, caption, and credit for every referenced artwork.
-- Caption and credit final-project images when required.
+- Use readable type sizes and strong contrast. Keep important text clear of complex images, and communicate meaning through more than colour alone.
+- Use consistent alignment, spacing, typography, and a clear balance of text and images.
+- Make the project title, final artwork, and research connections easy to identify.
 
-A viewer should be able to identify the project, artistic question, research context, selected artist or collective, technology, and final direction within a few minutes.
+A viewer should be able to understand the project and its relationship to research, artistic influences, and technological experimentation within a few minutes.
 
-#### Prepare the poster files
+#### <span class="step-label">Step 5:</span> Add and test the QR code
 
-Export the poster as a print-ready PDF at its final 18 × 24-inch size.
+In Webador, select **View blog post on website** (right-side menu: top) and copy the URL of your published post. Test the link in a private or incognito window to confirm that it opens the correct project page without requiring a login. Then generate the QR code using this URL.
 
-Name the file:
+You can use Adobe’s [QR Code Generator](https://www.adobe.com/express/feature/image/qr-code-generator){:target="_blank"}.
+
+> If you have questions or the link does not work, email the professor before generating the code.
+
+On the Poster:
+
+1. Add a descriptive label, such as **View the complete project and documentation**.
+2. Use a high-contrast code on a plain background, with an empty margin around it. Make the printed code at least **1.25 × 1.25 inches** on your poster.
+3. Keep the code intact: do not crop, stretch, recolour, or place it over an image.
+4. Test it with more than one phone before exporting and again from the printed poster. Confirm that the page opens without a login or permission request.
+
+#### <span class="step-label">Step 6:</span> Export and upload the poster
+
+Export a print-ready PDF at **24 inches wide × 18 inches high**:
 
 `P2-Final-Group#-Research-Creation-Poster.pdf`
 
-Replace `#` with the assigned group number.
+Replace `#` with your assigned group number. Use selectable text, working links, and a logical reading order wherever the software supports them.
 
-Export the poster with selectable text whenever the software allows it. Use a logical reading order and working links. If the exported poster is flattened into one image, provide the same essential information as accessible text on Webador.
-
-Also export a high-quality `.JPG` or `.PNG` version for Webador.
-
-Name it:
+Also export a high-quality JPG or PNG:
 
 `P2-Final-Group#-Research-Creation-Poster.jpg`
 
-or:
+or
 
 `P2-Final-Group#-Research-Creation-Poster.png`
 
-#### Add the poster to Webador
+> On Webador, after the final References section, add the poster under the heading **Research-Creation Poster**. 
 
-Under the final project information, add the heading:
+#### <span class="step-label">Step 7:</span> Print and deliver the poster
 
-**Research-Creation Poster**
+Print one copy at **24 inches wide × 18 inches high**. Check text, colour, image quality, cropping, margins, and the QR code.
 
-Include:
-
-- The high-quality poster image
-- Alt text summarizing the poster’s title, project, primary images, and major information
-- A link to the accessible poster PDF when possible
-- A brief caption identifying the project and group
-
-Confirm that the QR code remains readable in the uploaded poster image. The Webador page already contains the linked information, but the code should still appear accurately as part of the poster design.
-
-#### Print and deliver the poster
-
-- Print one copy at **18 × 24 inches**.
-- Check the printed poster for legibility, colour, image quality, cropping, and margins.
-- Scan the QR code from the printed copy.
-- Confirm that it opens the correct public Webador entry.
-- Protect the poster from folding, water, or other damage.
-- Deliver the printed poster to the instructor in person by the stated deadline.
-
-If printing or physically delivering the poster creates an access barrier, contact the instructor before the deadline to arrange an alternative that meets the same learning goals.
+Protect the poster from damage and deliver it to the instructor in person by the stated deadline.
 
 </div>
 </details>
 
-<details class="tutorial-section" id="audit-webador">
+---
+
+<details class="tutorial-section" id="document-class-exhibition">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">7. Review the complete Webador entry</span>
-    <span class="section-description">
-      Confirm that the complete project record is present, functional, accessible, and unchanged before submitting the final link.
-    </span>
+    <span class="section-title" role="heading" aria-level="3">Stage 4: Document the class exhibition</span>
+    <span class="section-description">Photograph and/or record the exhibited project, then add the documentation to Webador after the exhibition.</span>
   </summary>
 <div class="section-content" markdown="1">
 
-#### Preserve the development record
+> **Timing:** Capture the documentation during the class exhibition and upload it afterward. **Exhibition Documentation is the only Webador section you will add after the exhibition.**
 
-Review the group’s complete Webador entry from beginning to end.
+#### <span class="step-label">Step 1:</span> Document the project during the exhibition
 
-Do not delete, overwrite, rename, reorder, or substantially revise earlier sections unless the instructor has specifically requested a correction. The earlier versions document how the project developed and must remain visible.
+Before the exhibition, assign who will photograph and/or record the work. Choose the documentation format that best communicates the project’s form and audience experience.
 
-The complete entry should include the required sections from earlier stages, including:
+Document the **final project as presented in the public class exhibition**. Depending on the work, show:
 
-- Artist or collective research and selected artworks
-- **Research-Creation Proposal: Iteration 1**
-- **Research-Creation Proposal: Iteration 2**
-- **Technological Research: Version 1**
-- **Research-Creation Proposal: Iteration 3**
-- **First Artistic Prototype: Version 1**
-- **Artistic Prototype: Version 2**
-- **Final Research-Creation Project**
-- **Artistic Analysis**
-- Final **References**
-- **Research-Creation Poster**
+- The overall installation or presentation within the exhibition space
+- Important visual, spatial, material, or technical details
+- The audience’s perspective or path through the work
+- Movement, sound, performance, interaction, or changes over time
+- How the unfamiliar technology or technique functions within the exhibited work
 
-If the course instructions used a different exact heading for an earlier required section, preserve that heading.
+Use photographs for details and spatial arrangements that can be understood in still images. Use video when movement, duration, sound, performance, or interaction is essential. Combine both when this better represents the project.
 
-#### Complete the Webador audit
+Audience members do not need to appear in the documentation. You can communicate their perspective or demonstrate an interaction using consenting group members.
 
-Confirm that:
+> Obtain consent before photographing, recording, quoting, or identifying anyone outside the group. Confirm that consent covers public sharing on Webador and any linked media platform.
 
-- [ ] All required sections are present and appear in the correct order.
-- [ ] Earlier stages remain unchanged and have not been overwritten by the final version.
-- [ ] The final project title and group-member names are consistent throughout the page.
-- [ ] Student numbers and private information do not appear publicly.
-- [ ] The final project description is 150–200 words.
-- [ ] The Artistic Analysis has the required introduction, individual decision paragraphs, and conclusion.
-- [ ] Each analysis paragraph identifies its writer and contains 150–200 words.
-- [ ] In-text citations match entries in the final References section.
-- [ ] The final References section follows APA style and contains no annotations.
-- [ ] Images are clear, correctly oriented, and appropriately sized.
-- [ ] Every required image includes a caption, alt text, and credit.
-- [ ] Videos and audio are embedded correctly.
-- [ ] Videos include captions, and audio-only material includes a transcript or equivalent text summary.
-- [ ] Important visual, interactive, spatial, or sensory information has a text alternative.
-- [ ] Project links, media, documents, and QR codes open without requesting access.
-- [ ] The final poster is visible and its PDF link works when provided.
-- [ ] Consent and permission requirements have been followed.
-- [ ] Another group’s content and the website’s global settings have not been changed.
-- [ ] The page has been reviewed on both a computer and a mobile device.
-- [ ] Headings follow a logical order, link text is descriptive, text has sufficient contrast, and important information does not rely on colour alone.
-- [ ] All group members have reviewed and approved the complete entry.
+#### <span class="step-label">Step 2:</span> Add Exhibition Documentation to Webador
 
-Open the public page in a private or incognito browser window for the final access check. This helps confirm that visitors can view the project without being signed into the group’s accounts.
+After the exhibition, under **Research-Creation Project**, add a subsection titled **Exhibition Documentation**.
+
+Include photographs and/or video selected from the class exhibition:
+
+- **Photographs:** If using a photographic gallery, select **five to eight images** that communicate the overall presentation and important details. Avoid several nearly identical views.
+- **Video:** Include a recording or edited documentation video when this better communicates the work. Upload it to **YouTube or Vimeo** and embed it on Webador.
+- **Context:** Add a brief caption identifying the class exhibition and explaining what the documentation shows.
+
+Include image captions, alt text, credits, and appropriate media alternatives following the requirements in Stage 3. Check that visitors can open the documentation without signing in or requesting permission.
+
+Use documentation captured during the class exhibition. Keep the final artwork uploaded before the exhibition available alongside this record.
 
 </div>
 </details>
@@ -553,29 +365,20 @@ Open the public page in a private or incognito browser window for the final acce
 
 ## Submission
 
-Complete the Webador entry and poster requirements below. One group member must submit the public Webador link through Avenue to Learn on behalf of the group. All members remain responsible for the submission.
+1. **Avenue submission:** One group member submits the direct public Webador link obtained through **View blog post on website**. Test it in a private or incognito window before submitting.
+2. **Deliver one printed poster to the instructor** using the stated deadline and delivery details.
 
-| Item | Required action |
-|---|---|
-| Final Research-Creation Project | Add the complete final project and documentation to Webador |
-| Artistic Analysis | Add the introduction, one individually authored decision paragraph per member, and conclusion to Webador |
-| Final References | Add the updated APA reference list without annotations to Webador |
-| Digital poster | Upload the poster image and, when possible, link the poster PDF on Webador |
-| Public Webador entry | Submit the direct public page link through Avenue to Learn |
-| Printed poster | Deliver one 18 × 24-inch copy to the instructor in person |
+### Webador Submission
 
-Before submitting the Webador link, confirm that:
+| Webador section | Required information | When to complete |
+|---|---|---|
+| **Research-Creation Project** | Final project title; group members’ full names; representative image; **150–200-word description** explaining the project, artistic question or EDI concern, technology, and research connections; completed artwork as images, video, audio, or other appropriate media; public project links and instructions where needed. | **Before the exhibition** |
+| **Artistic Analysis** | Collaborative introduction; **one individually authored decision paragraph per member**; collaborative conclusion. **Each paragraph: 150–200 words.** Identify each individual writer. Connect decisions to research, specific evidence from the artwork, and audience experience. Include APA in-text citations. | **Before the exhibition** |
+| **References** | One consolidated **APA reference list** covering sources cited in the final project description and Artistic Analysis. Arrange alphabetically, remove duplicates, and include DOI or URL information where required. **No annotations.** | **Before the exhibition** |
+| **Research-Creation Poster** | Poster image; brief alt text; identifying caption; PDF link when possible; equivalent text information. The poster must explain **what the project is about, what unfamiliar technology was explored, and how artistic influences and research informed the work**. Include project title and names, **2–4 final-project images**, one referenced artwork, selected APA references, and a QR code with readable Webador URL. Approximately **300–400 words**, excluding captions, credits, references, and URL. Landscape: **24 inches wide × 18 inches high**. | **Before the exhibition** |
+| **Exhibition Documentation**, within **Research-Creation Project** | Photographs and/or video showing the work **as presented in the class exhibition**. If using a photographic gallery, select **5–8 images**. Embed video when appropriate. Include a brief exhibition caption, image descriptions, credits, and relevant media alternatives. | **After the exhibition — the only section added afterward** |
 
-- [ ] The link opens the correct public project page.
-- [ ] The final artwork and all required documentation are accessible.
-- [ ] The Artistic Analysis and final References section are complete.
-- [ ] The digital poster is included on Webador.
-- [ ] The poster QR code opens the same public Webador entry.
-- [ ] The complete page has passed the Webador audit.
-- [ ] Earlier required sections remain present and unchanged.
-- [ ] The printed poster has been prepared and will be delivered by the stated deadline.
-
-> A final artwork or link that cannot be opened or accessed may need to be resubmitted and may be considered late. Missing project content, analysis, research connections, references, poster information, captions, alt text, media alternatives, citations, consent, permissions, credits, or required earlier sections will affect the grade according to the assignment criteria.
+> Preserve the earlier research, proposals, and prototype sections. All uploaded media must meet the caption, alt text, credit, consent, and access requirements.
 
 ---
 
