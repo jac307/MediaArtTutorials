@@ -6,10 +6,6 @@
 
 **Work format:** Project groups and class exhibition teams
 
-## Goal
-
-Install and present the final research-creation projects as a shared class exhibition. Each student must help present their group’s project and contribute to the planning, setup, organization, or cleanup required for the complete exhibition.
-
 ## Exhibition overview
 
 The Class Exhibition is the public presentation of the **Final Research-Creation Projects** developed during Project 2.
