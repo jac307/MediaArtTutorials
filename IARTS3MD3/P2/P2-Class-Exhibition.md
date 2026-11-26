@@ -44,7 +44,7 @@ An alternative role must be arranged with the instructor in advance. Students sh
 
 <details class="tutorial-section" id="prepare-final-project">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Final project for exhibition</span>
+    <span class="section-title" role="heading" aria-level="3">1. Final project for exhibition</span>
     <span class="section-description">
       Make the final project complete, stable, accessible, and ready to install and present.
     </span>
@@ -83,7 +83,7 @@ Bring the printed posted on the required day/time set by the instructor.
 
 <details class="tutorial-section" id="organization-museography-team">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Organization and Museography Team</span>
+    <span class="section-title" role="heading" aria-level="3">2. Organization and Museography Team</span>
     <span class="section-description">
       Help plan the exhibition design, placement, visitor flow, interpretation, accessibility, and class-wide organization.
     </span>
@@ -123,7 +123,7 @@ The team must consider:
 
 <details class="tutorial-section" id="setup-team">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Setup Team</span>
+    <span class="section-title" role="heading" aria-level="3">3. Setup Team</span>
     <span class="section-description">
       Prepare the exhibition space and support the safe, organized installation of the complete class exhibition.
     </span>
@@ -155,7 +155,7 @@ Setup Team members must also install their own group project. Plan the group ins
 
 <details class="tutorial-section" id="present-engage">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Present the project and engage with visitors</span>
+    <span class="section-title" role="heading" aria-level="3">4. Present the project and engage with visitors</span>
     <span class="section-description">
       Remain engaged throughout the exhibition and help visitors encounter and understand the work.
     </span>
@@ -200,7 +200,7 @@ Students are also expected to:
 
 <details class="tutorial-section" id="cleanup-team">
   <summary>
-    <span class="section-title" role="heading" aria-level="3">Cleanup Team and project removal</span>
+    <span class="section-title" role="heading" aria-level="3">5. Cleanup Team and project removal</span>
     <span class="section-description">
       Remove the projects safely, restore the space, and confirm that no work, equipment, or waste remains.
     </span>
