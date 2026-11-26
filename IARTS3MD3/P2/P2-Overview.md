@@ -20,11 +20,8 @@ Your group will document its process on its **existing Webador page under Artist
 - [Version 2: First Artistic Prototype](P2-Version2-First-Artistic-Prototype.md)
 - [Version 3: Audience Testing and Prototype Development](P2-Version3-Audience-Testing-and-Prototype-Development.md)
 - [Prototype Critique and Feedback Session](P2-Prototype-Critique.md)
-
-<!-- 
-
 - [Final Submission](P2-Final.md)
-- [Class Exhibition](P2-Class-Exhibition.md) -->
+- [Class Exhibition](P2-Class-Exhibition.md)
 
 ## How the project develops
 
@@ -72,20 +69,13 @@ If a tool, process, space, presentation format, or exhibition task creates an ac
 
 ## What the final project will include
 
-- A **complete research-creation artwork**
-- A complete public **Artistic Responses** Webador page documenting the proposals, Technological Research, and both prototype versions
-- A **150–200-word final project description**
-- **5–8 final-project documentation images**
-- Embedded video or audio, or a stable public project link, when needed to experience the work
-- Captions, credits, permissions, and useful alt text for required media
-- Audience instructions and accessibility information when required
-- A collaborative **Artistic Analysis** with a **150–200-word introduction**, **one 150–200-word decision paragraph per member**, and a **150–200-word conclusion**
-- A final **APA reference list** without annotations
-- A digital **18 × 24-inch research-creation poster** uploaded to Webador
-- A **QR code** on the poster linking to the group's public Webador page
-- One printed **18 × 24-inch poster** delivered to the instructor
+- A complete public **Artistic Responses** Webador page documenting all of the research-creation project in all of its stages.
+- A Final information section with **title, project description, final artwork, and instructions**.
+- A collaborative **Artistic Analysis** on the final project with a final **APA reference list** without annotations.
+- A digital and printed **18 × 24-inch research-creation poster** uploaded to Webador
 - Installation and presentation of the artwork and poster in the **Class Exhibition**
-- Participation in the **Organization and Museography, Setup, or Cleanup Team**
+- Documentation of artwork in **Class Exhibition** uploaded into Webador.
+- Participation in the **Organization and Museography, Setup, or Cleanup Team** for the Class Exhibition.
 
 > The final project should demonstrate how research, experimentation, audience testing, critique, and collaboration shaped the completed artwork.
 

@@ -30,13 +30,7 @@ Every student must sign up for at least one of the following teams or an approve
 
 > Students remain responsible for installing, presenting, and removing their own group project regardless of their additional exhibition-team assignment.
 
-## Participation and accessibility
-
-Students are expected to participate in the complete exhibition process according to their assigned responsibilities.
-
-If lifting, carrying, mounting, prolonged standing, speaking with visitors, sensory conditions, scheduling, or another aspect of the exhibition creates an access barrier, contact the instructor as early as possible. An equivalent role can be arranged that meets the same learning goals.
-
-An alternative role must be arranged with the instructor in advance. Students should not exchange or abandon assigned roles without approval.
+---
 
 <details class="tutorial-section" id="prepare-final-project">
   <summary>
@@ -224,7 +218,15 @@ Responsibilities may include:
 </div>
 </details>
 
-Missing required participation without an approved alternative, arriving without a presentation-ready project, not completing an assigned exhibition-team role, leaving the work unsupported, removing it early, or not helping restore the space will affect the exhibition assessment according to the assignment criteria.
+---
+
+## Participation and accessibility
+
+Students are expected to participate in the complete exhibition process according to their assigned responsibilities.
+
+If lifting, carrying, mounting, prolonged standing, speaking with visitors, sensory conditions, scheduling, or another aspect of the exhibition creates an access barrier, contact the instructor as early as possible. An equivalent role can be arranged that meets the same learning goals.
+
+> Missing required participation without an approved alternative, arriving without a presentation-ready project, not completing an assigned exhibition-team role, leaving the work unsupported, removing it early, or not helping restore the space will affect the exhibition assessment according to the assignment criteria.
 
 ---
 
